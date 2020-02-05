@@ -6,11 +6,18 @@
   "author": "duduluu <duduluu@outlook.com>",
   "repository": "git@github.com:void-wiki/anno-1800-maindata.git",
   "version": "0.0.1",
+  "workspaces": [
+    "packages/*"
+  ],
   "main": "index.js",
+  "scripts": {
+    "ts": "ts-node -r tsconfig-paths/register -P ./tsconfig.scripts.json"
+  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^25.1.1",
     "@types/node": "^13.7.0",
-    "@void-aurora/toolkit": "^0.5.1",
+    "@void-aurora/toolkit": "^0.7.0",
     "jest": "^25.1.0",
     "lerna": "^3.20.2",
     "ts-jest": "^25.2.0",

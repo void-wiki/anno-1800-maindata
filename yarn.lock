@@ -1610,55 +1610,50 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@void-aurora/commitlint-config@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@void-aurora/commitlint-config/-/commitlint-config-0.5.0.tgz#92ff01b822d21062eff3bbbca66c1101e05c45bf"
-  integrity sha512-doa3VW+wO9Wyzloo9g6a+36+3QTfcjo8eASeOdRqnk9ttG7d/yO3wGTjF3vZfiNhWiFtHjPfXCjfkixnt5Y3Rg==
-  dependencies:
-    "@commitlint/config-lerna-scopes" "^8.3.4"
-    conventional-changelog-conventionalcommits "^4.2.3"
+"@void-aurora/commitlint-config@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@void-aurora/commitlint-config/-/commitlint-config-0.6.0.tgz#0d5d8dc16a79c32a1c847893aac48c9061d20427"
+  integrity sha512-iLzN9A639tA/VSeSyiK7zH9/vaBu5ve5vl+Qx1hSNqPhAlyN376rtcasUFNYasLWqrLRkT66VzqhoGRv6rdBhQ==
 
-"@void-aurora/eslint-config@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@void-aurora/eslint-config/-/eslint-config-0.5.0.tgz#1ad941b584a6fe3be4cd31b2123e7bb312276caf"
-  integrity sha512-Rw8U+eQ1WTtkmIfsqwWfPOzq69nQAml9RB8cKfYNJT+we/atwAs8g4rI4a5eEITtLd4xAHMgvqu5YNy5yEqwVw==
-  dependencies:
-    "@typescript-eslint/eslint-plugin" "^2.19.0"
-    "@typescript-eslint/parser" "^2.19.0"
-    confusing-browser-globals "^1.0.9"
-    eslint-config-prettier "^6.10.0"
-    eslint-plugin-import "^2.20.1"
+"@void-aurora/eslint-config@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@void-aurora/eslint-config/-/eslint-config-0.6.0.tgz#c966aa25910db0a7b6defd244db4d217770ef446"
+  integrity sha512-Opt3DYehvVnpn0AyDtt0mFhz4qEmQgMqhdthz2XXZ4vYkbkcmgA4zBFzZnZKO8mPO6mGS71i20NXgnwUWCwG9Q==
 
 "@void-aurora/prettier-config@^0.5.0":
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/@void-aurora/prettier-config/-/prettier-config-0.5.0.tgz#5dbd4ad89f83b91e1d4df63abb1479906d520996"
   integrity sha512-Qkvi97zJSBQzdjUZtzhrQMwfeJUTepI+PI+XP77OQQb/sn6BJsukLkiftaMfOns4/gAUd1KBRqvcOuZ2EAF+tQ==
 
-"@void-aurora/stylelint-config@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@void-aurora/stylelint-config/-/stylelint-config-0.5.0.tgz#d3a4a1fe49006fb67466cfc622aa5eda2792aca3"
-  integrity sha512-S5mgQYzx5GqeZUTe3f1O1CU1wPfx97PZ8/ZUEmaMNj39QR83ht2AaSD9k6SbA1u4k3J2AVc1DLIP3a+UqrZAIw==
-  dependencies:
-    stylelint-config-prettier "^8.0.1"
-    stylelint-prettier "^1.1.2"
-    stylelint-scss "^3.14.2"
+"@void-aurora/stylelint-config@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@void-aurora/stylelint-config/-/stylelint-config-0.6.0.tgz#b05b286b2586f21c987696fd279b58ca3bf3a8af"
+  integrity sha512-X/IbmjdegzxQQCzKAzVSPo6jZxbkgM4nFH7MoJJcvwDpfTHdsza7u1OhI42JwG/eWFmP/kj7KB/ZMJO2/iNDAg==
 
-"@void-aurora/toolkit@^0.5.1":
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/@void-aurora/toolkit/-/toolkit-0.5.1.tgz#eb5b24580c774b38d6d48b537693bbabcbf26cce"
-  integrity sha512-LMCzUKHzPXDGaGC7ZEoZ3SXltVKaj6Us4gbSvqgCd6h3vMlDQr0qcKaaBk/D78B1GzP4e+bSef7+r/+zxt4X1w==
+"@void-aurora/toolkit@^0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@void-aurora/toolkit/-/toolkit-0.7.0.tgz#64310d3dd9d18f79bd096656c7ae58769be10b98"
+  integrity sha512-B9nO0QLlFZBmp7ReK0Y4YcBJ2cHjSG/P5UVNkOiKoVrFNVrAH+Ves/3jj1gzqdBtbjGTAanfwfip4+yFT9+4Mw==
   dependencies:
     "@commitlint/cli" "^8.3.5"
+    "@commitlint/config-lerna-scopes" "^8.3.4"
     "@commitlint/prompt-cli" "^8.3.5"
     "@types/fs-extra" "^8.0.1"
     "@types/rimraf" "^2.0.3"
-    "@void-aurora/commitlint-config" "^0.5.0"
-    "@void-aurora/eslint-config" "^0.5.0"
+    "@typescript-eslint/eslint-plugin" "^2.19.0"
+    "@typescript-eslint/parser" "^2.19.0"
+    "@void-aurora/commitlint-config" "^0.6.0"
+    "@void-aurora/eslint-config" "^0.6.0"
     "@void-aurora/prettier-config" "^0.5.0"
-    "@void-aurora/stylelint-config" "^0.5.0"
+    "@void-aurora/stylelint-config" "^0.6.0"
     chalk "^3.0.0"
+    confusing-browser-globals "^1.0.9"
     conventional-changelog-cli "^2.0.31"
+    conventional-changelog-conventionalcommits "^4.2.3"
     eslint "^6.8.0"
+    eslint-config-prettier "^6.10.0"
+    eslint-plugin-import "^2.20.1"
+    execa "^4.0.0"
     fs-extra "^8.1.0"
     globby "^11.0.0"
     husky "^4.2.1"
@@ -1667,6 +1662,9 @@
     prettier-package-json "^2.1.3"
     rimraf "^3.0.1"
     stylelint "^13.0.0"
+    stylelint-config-prettier "^8.0.1"
+    stylelint-prettier "^1.1.2"
+    stylelint-scss "^3.14.2"
 
 "@zkochan/cmd-shim@^3.1.0":
   version "3.1.0"
@@ -3532,6 +3530,21 @@ execa@^3.2.0, execa@^3.4.0:
     signal-exit "^3.0.2"
     strip-final-newline "^2.0.0"
 
+execa@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-4.0.0.tgz#7f37d6ec17f09e6b8fc53288611695b6d12b9daf"
+  integrity sha512-JbDUxwV3BoT5ZVXQrSVbAiaXhXUkIwvbhPIwZ0N13kX+5yCzOhUNdocxB/UQRuYOHRYYwAxKYwJYc0T4D12pDA==
+  dependencies:
+    cross-spawn "^7.0.0"
+    get-stream "^5.0.0"
+    human-signals "^1.1.1"
+    is-stream "^2.0.0"
+    merge-stream "^2.0.0"
+    npm-run-path "^4.0.0"
+    onetime "^5.1.0"
+    signal-exit "^3.0.2"
+    strip-final-newline "^2.0.0"
+
 execall@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/execall/-/execall-2.0.0.tgz#16a06b5fe5099df7d00be5d9c06eecded1663b45"
@@ -4149,9 +4162,9 @@ growly@^1.3.0:
   integrity sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
 
 handlebars@^4.4.0:
-  version "4.7.2"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.7.2.tgz#01127b3840156a0927058779482031afe0e730d7"
-  integrity sha512-4PwqDL2laXtTWZghzzCtunQUTLbo31pcCJrd/B/9JP8XbhVzpS5ZXuKqlOzsd1rtcaLo4KqAn8nl8mkknS4MHw==
+  version "4.7.3"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.7.3.tgz#8ece2797826886cf8082d1726ff21d2a022550ee"
+  integrity sha512-SRGwSYuNfx8DwHD/6InAPzD6RgeruWLT+B8e8a7gGs8FWgHzlExpTFMEq2IA6QpAfOClpKHy6+8IqTjeBCu6Kg==
   dependencies:
     neo-async "^2.6.0"
     optimist "^0.6.1"
@@ -6159,9 +6172,9 @@ node-fetch@^2.3.0, node-fetch@^2.5.0:
   integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
 
 node-gyp@^5.0.2:
-  version "5.0.7"
-  resolved "https://registry.yarnpkg.com/node-gyp/-/node-gyp-5.0.7.tgz#dd4225e735e840cf2870e4037c2ed9c28a31719e"
-  integrity sha512-K8aByl8OJD51V0VbUURTKsmdswkQQusIvlvmTyhHlIT1hBvaSxzdxpSle857XuXa7uc02UEZx9OR5aDxSWS5Qw==
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/node-gyp/-/node-gyp-5.1.0.tgz#8e31260a7af4a2e2f994b0673d4e0b3866156332"
+  integrity sha512-OUTryc5bt/P8zVgNUmC6xdXiDJxLMAW8cF5tLQOT9E5sOQj+UeQxnnPy74K3CLCa/SOjjBlbuzDLR8ANwA+wmw==
   dependencies:
     env-paths "^2.2.0"
     glob "^7.1.4"
