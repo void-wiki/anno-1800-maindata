@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["ESNext", "ScriptHost"],
+    "strict": true,
+    "jsx": "preserve",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "baseUrl": "."
+  },
+  "include": ["./scripts", "./packages/*/src", "./packages/*/lib", "./packages/*/scripts"],
+  "exclude": ["./node_modules", "./packages/*/node_modules", "coverage", "./packages/*/coverage"]
+}
