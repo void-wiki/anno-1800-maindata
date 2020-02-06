@@ -1,7 +1,7 @@
 # Anno 1800 Main Data
 
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/void-wiki/anno-1800-maindata?label=version&style=flat-square)
-![Anno 1800 v6.2](https://img.shields.io/badge/Anno%201800-v6.2-%238971a2?style=flat-square)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/void-wiki/anno-1800-maindata?label=version&style=flat-square)](https://github.com/void-wiki/anno-1800-maindata/releases)
+[![Anno 1800 v6.2](https://img.shields.io/badge/Anno%201800-v6.2-%238971a2?style=flat-square)](https://www.anno-union.com/en/union-update-into-the-new-year-with-gu6-2/)
 
 This repo stores main data extracted from Anno 1800.
 
