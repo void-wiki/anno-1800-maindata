@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dotnet:build": "dotnet build -c Release",
-    "dotnet:restore": "dotnet restore"
+    "dotnet:restore": "dotnet restore",
+    "prepare": "yarn dotnet:restore && yarn dotnet:build"
   }
 }

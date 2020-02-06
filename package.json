@@ -11,6 +11,8 @@
   ],
   "main": "index.js",
   "scripts": {
+    "conv:dds2png": "yarn ts scripts/convert-dds-to-png.ts",
+    "prepare": "lerna run prepare",
     "ts": "ts-node -r tsconfig-paths/register -P ./tsconfig.scripts.json"
   },
   "dependencies": {},
