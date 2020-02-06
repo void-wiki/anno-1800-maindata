@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "@anno-1800-wiki/imgconv",
+  "version": "0.0.1",
+  "scripts": {
+    "dotnet:build": "dotnet build -c Release",
+    "dotnet:restore": "dotnet restore"
+  }
+}
