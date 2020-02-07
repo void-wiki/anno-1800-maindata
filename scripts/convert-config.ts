@@ -4,14 +4,16 @@ import globby from 'globby';
 import execa from '@void-aurora/toolkit/node_modules/execa';
 import { dataDir, convertedDir, pathConfigconv, findFiles } from './scripts-utils';
 
+const configDir = pth.resolve(convertedDir, 'config');
+
 async function jsonEscapeBack(path: string): Promise<void> {
   const json = await fs.readJSON(path);
   // eslint-disable-next-line @typescript-eslint/naming-convention
-  await fs.writeJSON(path, json, { spaces: 2, EOL: '\n' });
+  await fs.writeJSON(path, json, { spaces: 0, EOL: '\n' });
 }
 
 async function convert(): Promise<void> {
-  await fs.remove(pth.resolve(convertedDir, 'config'));
+  await fs.remove(configDir);
 
   console.time('convert costs');
 
@@ -19,9 +21,10 @@ async function convert(): Promise<void> {
   console.log(command);
   console.log(stdout);
 
-  const guiDirDest = pth.resolve(convertedDir, 'config', 'gui');
-  const files = await findFiles(['*.json'], { cwd: guiDirDest });
-  await Promise.all(files.map(async f => jsonEscapeBack(pth.resolve(guiDirDest, f))));
+  const files = await findFiles(['**/*.json'], { cwd: configDir });
+
+  // un-escapes all of json files
+  await Promise.all(files.map(async f => jsonEscapeBack(pth.resolve(configDir, f))));
 
   console.timeEnd('convert costs');
 }

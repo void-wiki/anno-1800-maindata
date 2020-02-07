@@ -39,10 +39,17 @@ namespace configconv
       var dict = new Dictionary<string, XElement>();
       Walk(list, dict, doc.Root);
 
-      await VElement.SaveJson(
-        Path.Combine(dest, "assets.json"),
-        list.Select(el => new VElement(el)).ToList()
+      await Task.WhenAll(list
+        .Select(xe => new VElement(xe))
+        .Select((ve, i) => (i: i, v: ve))
+        .GroupBy(ivp => ivp.i / 1024)
+        .Select(g => g.Select(ivp => ivp.v))
+        .Select((l, i) => VElement.SaveJson(
+          Path.Combine(dest, $"assets_{i.ToString().PadLeft(4, '0')}.json"),
+          l
+        ))
       );
+
       await Task.WhenAll(dict.Select(kvp => VElement.SaveXElement(
         Path.Combine(dest, "assets", $"{kvp.Key}.xml"),
         kvp.Value
