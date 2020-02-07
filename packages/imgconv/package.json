@@ -3,8 +3,9 @@
   "name": "@anno-1800-wiki/imgconv",
   "version": "6.2.0",
   "scripts": {
-    "dotnet:build": "dotnet build -c Release",
-    "dotnet:restore": "dotnet restore",
-    "prepare": "yarn dotnet:restore && yarn dotnet:build"
+    "clean:dist": "dotnet clean",
+    "build": "dotnet build",
+    "restore": "dotnet restore",
+    "prepare": "yarn clean:dist && yarn restore && yarn build"
   }
 }

@@ -39,7 +39,7 @@ export const pathImgconv = pth.resolve(
   'packages',
   'imgconv',
   'bin',
-  'Release',
+  'Debug',
   'netcoreapp3.1',
   'imgconv.dll',
 );
