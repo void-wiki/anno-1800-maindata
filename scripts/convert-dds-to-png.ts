@@ -16,7 +16,7 @@ import {
 const includes = ['ui/2kimages'];
 
 async function convert(): Promise<void> {
-  console.time('find');
+  console.time('find costs');
   const dirs = await findFiles(
     includes.map(p => `${p}/**/*`),
     {
@@ -30,11 +30,19 @@ async function convert(): Promise<void> {
       cwd: dataDir,
     },
   );
-  console.timeEnd('find');
+  console.timeEnd('find costs');
 
+  console.time('prepare costs');
   // create directories
-  await Promise.all(dirs.map(async dir => fs.mkdirp(pth.resolve(tempDir, dir))));
-  await Promise.all(dirs.map(async dir => fs.mkdirp(pth.resolve(convertedDir, dir))));
+  await Promise.all(dirs.map(async dir => fs.remove(pth.resolve(tempDir, dir))));
+  await Promise.all(dirs.map(async dir => fs.remove(pth.resolve(convertedDir, dir))));
+  await Promise.all(
+    [...new Set(ddsFiles.map(f => pth.dirname(f)))].map(async dir => {
+      await fs.mkdirp(pth.resolve(tempDir, dir));
+      await fs.mkdirp(pth.resolve(convertedDir, dir));
+    }),
+  );
+  console.timeEnd('prepare costs');
 
   const tasks: TaskFunction[] = ddsFiles.map<TaskFunction>(dds => async (): Promise<void> => {
     // Convert .dds files to .png files
@@ -51,9 +59,9 @@ async function convert(): Promise<void> {
     await execa('dotnet', [pathImgconv, pngTemp, png]);
   });
 
-  console.time('convert');
+  console.time('convert costs');
   await parallelQueue(tasks);
-  console.timeEnd('convert');
+  console.timeEnd('convert costs');
 }
 
 convert().catch(console.error);
