@@ -90,11 +90,16 @@ anno-1800-maindata
 └─...
 ```
 
-### Convert Images from DDS to PNG
+### Convert Files
 
 ```sh
+# Convert config from .xml to .json
+yarn conv:config
+# Convert images from .dds to .png
 yarn conv:dds2png
 ```
+
+Check out in directory `data-converted`.
 
 ## Others
 
