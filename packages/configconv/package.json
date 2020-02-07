@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "@anno-1800-wiki/configconv",
+  "version": "6.2.0",
+  "scripts": {
+    "clean:dist": "dotnet clean",
+    "build": "dotnet build",
+    "restore": "dotnet restore",
+    "prepare": "yarn clean:dist && yarn restore && yarn build"
+  }
+}

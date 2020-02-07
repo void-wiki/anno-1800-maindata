@@ -11,6 +11,7 @@
   ],
   "main": "index.js",
   "scripts": {
+    "conv:config": "yarn ts scripts/convert-config.ts",
     "conv:dds2png": "yarn ts scripts/convert-dds-to-png.ts",
     "prepare": "lerna run prepare",
     "ts": "ts-node -r tsconfig-paths/register -P ./tsconfig.scripts.json"

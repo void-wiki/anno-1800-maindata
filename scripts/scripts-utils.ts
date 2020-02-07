@@ -22,6 +22,19 @@ export const dataDir = pth.resolve(rootDir, 'data');
 export const convertedDir = pth.resolve(rootDir, 'data-converted');
 
 /**
+ * The path to `configconv.dll`.
+ */
+export const pathConfigconv = pth.resolve(
+  rootDir,
+  'packages',
+  'configconv',
+  'bin',
+  'Debug',
+  'netcoreapp3.1',
+  'configconv.dll',
+);
+
+/**
  * The path to directory `tools`.
  */
 export const toolsDir = pth.resolve(rootDir, 'tools');
