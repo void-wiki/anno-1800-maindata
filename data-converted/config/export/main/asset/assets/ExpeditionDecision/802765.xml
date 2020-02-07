@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802765</GUID>
+      <Name>Jolly Roger 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802772</Option>
+        </Item>
+        <Item>
+          <Option>802773</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The navigators fail to recover&lt;/b&gt; from the initial setback. Your helmsman has no tricks up his sleeves, and cannot pick up speed to outrun the approaching pirates. They intend to board you!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21525</LineID>
+    </Text>
+  </Values>
+</Asset>

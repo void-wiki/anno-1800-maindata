@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>25000168</GUID>
+      <Name>Workforce Balance Text Mapping</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <Asset>163070</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.8</ValidFrom>
+          <Asset>163134</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1</ValidFrom>
+          <Asset>163133</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1.1</ValidFrom>
+          <Asset>163132</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1.25</ValidFrom>
+          <Asset>163069</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

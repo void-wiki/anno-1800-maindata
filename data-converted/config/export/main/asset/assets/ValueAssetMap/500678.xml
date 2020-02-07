@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>500678</GUID>
+      <Name>Productivity Icon Text Mapping</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-0.5</ValidFrom>
+          <Asset>500273</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-0.25</ValidFrom>
+          <Asset>500614</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-0.005</ValidFrom>
+          <Asset>500615</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.005</ValidFrom>
+          <Asset>500616</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.25</ValidFrom>
+          <Asset>500272</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

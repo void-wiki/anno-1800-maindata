@@ -1,0 +1,48 @@
+<Asset>
+  <Template>ItemWithUI</Template>
+  <Values>
+    <Standard>
+      <GUID>193398</GUID>
+      <Name>TestTreasuremap</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_expedition_diver.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Treasure Map</Text>
+        </English>
+      </LocaText>
+      <LineID>32756</LineID>
+    </Text>
+    <Item>
+      <Rarity>Uncommon</Rarity>
+    </Item>
+    <ItemWithUI>
+      <ItemActions>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionStartTreasureMapQuest</Template>
+                  <Values>
+                    <Action />
+                    <ActionStartTreasureMapQuest>
+                      <TreasureMapQuest>600678</TreasureMapQuest>
+                      <TreasureSessionOrRegion>5000000</TreasureSessionOrRegion>
+                    </ActionStartTreasureMapQuest>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </ItemActions>
+      <DestroyOnClick>1</DestroyOnClick>
+    </ItemWithUI>
+    <Locked />
+    <ItemAction />
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

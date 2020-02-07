@@ -1,0 +1,26 @@
+<Asset>
+  <Template>LandAnimal</Template>
+  <Values>
+    <Standard>
+      <GUID>117573</GUID>
+      <Name>walrus</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/units/wildlife/walrus/walrus.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <SpecialMovementType />
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

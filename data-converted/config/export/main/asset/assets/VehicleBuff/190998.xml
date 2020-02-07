@@ -1,0 +1,31 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>190998</GUID>
+      <Name>Snare</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_expedition_hypnotist.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Snare</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+    </VehicleUpgrade>
+    <Buff />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

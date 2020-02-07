@@ -1,0 +1,12 @@
+<Template>
+  <Name>IllnessIncident</Name>
+  <Properties>
+    <Standard />
+    <Incident />
+    <IncidentIllness>
+      <MoveOutInterval>10</MoveOutInterval>
+    </IncidentIllness>
+    <Text />
+    <IncidentEffectConfiguration />
+  </Properties>
+</Template>

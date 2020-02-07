@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>800214</GUID>
+      <Name>Zoological Expedition Easy</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/expeditions/icon_expedition_wildlife.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11630</ExpeditionName>
+      <ExpeditionDescription>3600</ExpeditionDescription>
+      <ExpeditionRegion>SouthAmerica</ExpeditionRegion>
+      <FillEventPool>800037</FillEventPool>
+      <Threats>
+        <Item>
+          <Threat>800030</Threat>
+        </Item>
+      </Threats>
+      <FillThreats>1</FillThreats>
+      <WorldMapCardBG>501385</WorldMapCardBG>
+      <ExpeditionWorldMapAsset>data/graphics/ui/3d_objects/expedition_marker/expedition_marker_04.cfg</ExpeditionWorldMapAsset>
+      <Reward>803427</Reward>
+      <BackgroundVideo>data/ui/video/expedition/south_america_a.bk2</BackgroundVideo>
+      <BackgroundVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </BackgroundVideoSounds>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

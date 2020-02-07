@@ -1,0 +1,40 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190522</GUID>
+      <Name>quartz</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_gem_quartz.png</IconFilename>
+      <InfoDescription>10637</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Quartz Crystals</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14998</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <ItemType>Normal</ItemType>
+      <TradePrice>5500</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010481</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

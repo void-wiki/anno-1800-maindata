@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802903</GUID>
+      <Name>The Frozen Chasm 1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Look for another way into the crevasse</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22120</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Navigation</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802921</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802922</Decision>
+          <Threshold>LossMediumThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802923</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

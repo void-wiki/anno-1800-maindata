@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The diary may not be enough in itself to convince Sir Archibald, but it may give him food for thought.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17193</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233310</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266246</GUID>
+      <Name>advisor01_SamuelsDiary_03</Name>
+    </Standard>
+  </Values>
+</Asset>

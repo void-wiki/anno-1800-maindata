@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800319</GUID>
+      <Name>Opera House in the Jungle 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"What a champion performance!" squeals Mr. Cardinale,&lt;/b&gt; from the comfort of his cushioned chair. The great ship seems to swim up and over the hill. The long timbers on which it rolls, and corkscrew winches at intervals up the slope work perfectly. "I shall put in a good word for you all at the club," promises Cardinale, as the ship splashes down safely on the other side. The men are immensely proud of the miracle they have performed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3792</LineID>
+    </Text>
+  </Values>
+</Asset>

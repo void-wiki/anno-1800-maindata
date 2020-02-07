@@ -1,0 +1,37 @@
+<Asset>
+  <Template>MonumentEventReward</Template>
+  <Values>
+    <Standard>
+      <GUID>17028</GUID>
+      <Name>8 Mythical Artifacts</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_8.png</IconFilename>
+      <InfoDescription>17837</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mythical Artifacts</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27221</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191202</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>191203</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>191204</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+  </Values>
+</Asset>

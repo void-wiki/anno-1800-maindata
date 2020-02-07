@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I was wrong to think we shared a common foe. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17099</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234488</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265613</GUID>
+      <Name>AT_ai09_PositiveInteraction_NPCsFoe1</Name>
+    </Standard>
+  </Values>
+</Asset>

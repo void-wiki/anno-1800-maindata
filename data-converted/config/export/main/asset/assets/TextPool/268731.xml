@@ -1,0 +1,47 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268731</GUID>
+      <Name>Pool_3rdParty03_WelcomeToPlayerPeace</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258457</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258463</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258464</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258465</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258466</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258467</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258468</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258469</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

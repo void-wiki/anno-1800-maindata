@@ -1,0 +1,29 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700046</GUID>
+      <Name>QC135_MoreBricks_ObjectivePool</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>101433</Asset>
+        </Item>
+        <Item>
+          <Asset>101435</Asset>
+        </Item>
+        <Item>
+          <Asset>101437</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>QC135_ObjectivePool</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Archibald Blake commissioned the Queen a balloon, then he realised it was all a lot of hot air.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12306</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231306</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261096</GUID>
+      <Name>AT_3rdParty06_IdleMessageGossip_Blake</Name>
+    </Standard>
+  </Values>
+</Asset>

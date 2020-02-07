@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800488</GUID>
+      <Name>Love Island 1.3.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800490</Option>
+        </Item>
+        <Item>
+          <Option>800491</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226691</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The copper oracle reveals great doubt in your crew's hearts.&lt;/b&gt; The king does not for a minute believe that your inconstant crew are as deep in love as they claim. If they cannot demonstrate otherwise, it might be better if your people left.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5608</LineID>
+    </Text>
+  </Values>
+</Asset>

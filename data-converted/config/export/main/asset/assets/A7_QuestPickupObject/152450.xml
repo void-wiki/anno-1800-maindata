@@ -1,0 +1,179 @@
+<Asset>
+  <Template>A7_QuestPickupObject</Template>
+  <Values>
+    <Standard>
+      <GUID>152450</GUID>
+      <Name>Break out 1 - Jailor  - DISABLED - NOT WRITTEN</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <SubtitleGroup>-2073333734</SubtitleGroup>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>46</QuestGiver>
+      <StoryText>3640</StoryText>
+      <IsEnabled>0</IsEnabled>
+      <PreActivationTimer>1800000</PreActivationTimer>
+      <QuestActivation>Never</QuestActivation>
+      <NeededProgressLevel>EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <DelayTimer>90000</DelayTimer>
+      <ConfirmOnReached>1</ConfirmOnReached>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>18374</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102593</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>46</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Break Out (TBC - Quest not yet written)</Text>
+          <Status>GameWriting</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDestroyObjects</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Reward>150038</Reward>
+          <Amount>3</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDestroyObjects</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Reward>190979</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDestroyObjects</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <Template>ItemUsageObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <ObjectiveSignsAndFeedback>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ConditionObjectiveSignsAndFeedback>
+                      <Infolayer>500335</Infolayer>
+                      <MinimapToken>2001947</MinimapToken>
+                    </ConditionObjectiveSignsAndFeedback>
+                  </Values>
+                </ObjectiveSignsAndFeedback>
+              </ConditionQuestObjective>
+              <ConditionQuestItemUsed />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectStarterObject</Template>
+                  <Values>
+                    <ConditionScanner />
+                    <ConditionObjectStarterObject />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </ExecutionPlace>
+                <ExecutionPlaceText>14033</ExecutionPlaceText>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102593</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>ClientObject</SpawnContext>
+                        <DistanceToContext>20</DistanceToContext>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Third_party_07_Jailor_Bleakworth</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>500173</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

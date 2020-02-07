@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802454</GUID>
+      <Name>Wood Keeper 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>120041</Reward>
+          <Amount>5</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A greedy but profitable raid.&lt;/b&gt; Neither side wants to die for a picnic, and so come at each other with whatever they can find; palm branches, rocks, handfuls of dirt, even. Needless to say, the scuffle is a very odd spectacle indeed, but eventually results in the villagers fleeing into the forest. The feast meanwhile has been almost entirely trampled and smeared into the raffia matting on which it had been laid out, but the crew do manage to pillage a few hands of bananas found in a store hut.</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20898</LineID>
+    </Text>
+  </Values>
+</Asset>

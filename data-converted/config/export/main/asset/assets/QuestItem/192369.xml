@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192369</GUID>
+      <Name>QI - Inspector - Inspection Time (Smuggle)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_residence_big_dummy.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>(TBC - Quest not yet written)</Text>
+          <Status>GameWriting</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28016</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103061</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200809</GUID>
+      <Name>wwe_sfx_bld_food_col01_typeCluster_tag</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>35</MaxAttenuation>
+      <StopEvent>200810</StopEvent>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>200804</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>349436910</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

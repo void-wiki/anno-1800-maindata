@@ -1,0 +1,43 @@
+<Asset>
+  <Template>Collectable</Template>
+  <Values>
+    <Collectable>
+      <PickupCursor>2001028</PickupCursor>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_unit_groups/exploration_object_mammoth_trapped_in_the_ice.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>115163</GUID>
+      <Name>Ice mamoth</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_museum_mammoth.png</IconFilename>
+    </Standard>
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Icebound Mammoth</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36189</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter />
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+  </Values>
+</Asset>

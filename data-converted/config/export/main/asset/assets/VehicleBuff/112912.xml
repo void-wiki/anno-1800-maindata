@@ -1,0 +1,64 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>112912</GUID>
+      <Name>Depths Airlift Buff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_crane_03.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wild Abyssal Dredge</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32335</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade>
+      <RarityWeightUpgrade>
+        <Epic>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Epic>
+        <Legendary>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Legendary>
+      </RarityWeightUpgrade>
+      <AllocationWeightUpgrade>
+        <GuildHouse>
+          <AdditionalWeight>10</AdditionalWeight>
+        </GuildHouse>
+        <TownHall>
+          <AdditionalWeight>10</AdditionalWeight>
+        </TownHall>
+        <HarborOffice>
+          <AdditionalWeight>10</AdditionalWeight>
+        </HarborOffice>
+        <Ship>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Ship>
+        <SailShip>
+          <AdditionalWeight>10</AdditionalWeight>
+        </SailShip>
+        <SteamShip>
+          <AdditionalWeight>10</AdditionalWeight>
+        </SteamShip>
+        <Warship>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Warship>
+        <Tradeship>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Tradeship>
+      </AllocationWeightUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

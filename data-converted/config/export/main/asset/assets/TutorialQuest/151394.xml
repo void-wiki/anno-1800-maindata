@@ -1,0 +1,171 @@
+<Asset>
+  <Template>TutorialQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>151394</GUID>
+      <Name>TQ_NoElectricity</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_electric_works_oil.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationText>15033</NotificationText>
+              <NotificationPriority>500</NotificationPriority>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>268110</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <StoryText>15034</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <LatencyTimer>30000</LatencyTimer>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionIsCampaign</Template>
+                  <Values>
+                    <ConditionPropsNegatable>
+                      <NegateCondition>1</NegateCondition>
+                    </ConditionPropsNegatable>
+                    <ConditionIsCampaign />
+                    <Condition />
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionActiveSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionActiveSession>
+                      <ActiveSession>180039</ActiveSession>
+                      <SessionBlacklist>1</SessionBlacklist>
+                    </ConditionActiveSession>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <Context>1010540</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <Context>1010517</Context>
+                      <ComparisonOp>LessThan</ComparisonOp>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionActiveSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionActiveSession />
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>End of the Blackout</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22076</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>15035</TextCombinedContextValue>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>WorkingConditions</PlayerCounter>
+                <Context>700066</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority />
+  </Values>
+</Asset>

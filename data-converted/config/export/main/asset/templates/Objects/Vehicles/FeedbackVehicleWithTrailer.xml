@@ -1,0 +1,31 @@
+<Template>
+  <Name>FeedbackVehicleWithTrailer</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection>
+      <GUIType>Vehicle</GUIType>
+    </Selection>
+    <Walking>
+      <DiscoverRadius>10</DiscoverRadius>
+    </Walking>
+    <Text />
+    <CommandQueue>
+      <CommandChainLength>1</CommandChainLength>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Attackable>
+      <HPBarOffset>1</HPBarOffset>
+      <SelfHealPerHealTick>0</SelfHealPerHealTick>
+    </Attackable>
+    <Drifting />
+    <SoundEmitter />
+    <Trailer />
+  </Properties>
+</Template>

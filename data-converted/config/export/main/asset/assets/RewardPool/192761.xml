@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192761</GUID>
+      <Name>Specialists - Trading - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190667</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191622</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191621</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191623</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192444</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193188</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

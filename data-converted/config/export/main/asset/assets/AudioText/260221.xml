@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What? I can't afford one of my pieces!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10766</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222570</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260221</GUID>
+      <Name>AT_ai06_PlyrBuysSharesFromNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

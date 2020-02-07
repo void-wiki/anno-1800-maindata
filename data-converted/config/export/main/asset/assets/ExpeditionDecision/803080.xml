@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803080</GUID>
+      <Name>Ghosts in the Ice 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803082</Option>
+        </Item>
+        <Item>
+          <Option>803083</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Scurvy.&lt;/b&gt; When inspecting the mouths of the stranded sailors, your doctor's fingers expertly go through their gums like if they were made of paper and the teeth below quit their lodging with a shake and a pull. The ill men admit to having already buried at sea two of their own. More will follow if they do not eat fresh food soon.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23431</LineID>
+    </Text>
+  </Values>
+</Asset>

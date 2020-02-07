@@ -1,0 +1,48 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191053</GUID>
+      <Name>eagle</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_eagle.png</IconFilename>
+      <InfoDescription>13674</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Eagle</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26426</LineID>
+    </Text>
+    <Item>
+      <TradePrice>10000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101985</ChangeModule>
+      <ForcedFeedbackVariation>1000139</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203323</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Hunting</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>13675</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

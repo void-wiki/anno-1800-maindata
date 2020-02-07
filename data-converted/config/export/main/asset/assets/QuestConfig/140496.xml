@@ -1,0 +1,72 @@
+<Asset>
+  <Template>QuestConfig</Template>
+  <Values>
+    <Standard>
+      <GUID>140496</GUID>
+      <Name>QuestBalancing</Name>
+      <ID>QuestBalancing</ID>
+    </Standard>
+    <QuestConfig>
+      <DefaultDeliveryExecutionPlace>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ConditionQuestDelivery>
+            <DeliveryObject_cqd />
+          </ConditionQuestDelivery>
+          <ConditionQuestObjective />
+          <ObjectiveScaling />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </DefaultDeliveryExecutionPlace>
+      <AcceptQuestText>145001</AcceptQuestText>
+      <DeclineQuestText>145002</DeclineQuestText>
+      <DefaultFlotsamSignsAndFeedback>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500334</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </DefaultFlotsamSignsAndFeedback>
+      <TutorialQuestPool>150902</TutorialQuestPool>
+      <CampaignQuestPool>150032</CampaignQuestPool>
+      <DefaultConfirmationCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ConditionQuestResolveConfirmation />
+          <Condition />
+          <ConditionQuestObjective>
+            <ObjectiveSignsAndFeedback>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>500562</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </ObjectiveSignsAndFeedback>
+          </ConditionQuestObjective>
+        </Values>
+      </DefaultConfirmationCondition>
+      <QuestChapterTexts>
+        <Chapter1>
+          <Text>12781</Text>
+        </Chapter1>
+        <Chapter2>
+          <Text>12782</Text>
+        </Chapter2>
+        <Chapter3>
+          <Text>12783</Text>
+        </Chapter3>
+        <Chapter4>
+          <Text>12784</Text>
+        </Chapter4>
+        <Chapter0>
+          <Text>12254</Text>
+        </Chapter0>
+      </QuestChapterTexts>
+      <QuestDeclinedReputationText>15162</QuestDeclinedReputationText>
+      <QuestFailedReputationText>13099</QuestFailedReputationText>
+      <QuestSuccessReputationText>13098</QuestSuccessReputationText>
+    </QuestConfig>
+  </Values>
+</Asset>

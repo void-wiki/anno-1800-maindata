@@ -1,0 +1,46 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190495</GUID>
+      <Name>Calico's Rogues Snare a Merchant Ship Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010250</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010248</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010247</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010246</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010259</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010257</ItemLink>
+          <MinAmount>40</MinAmount>
+          <MaxAmount>40</MaxAmount>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

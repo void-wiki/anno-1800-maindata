@@ -1,0 +1,61 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191703</GUID>
+      <Name>Medium Symposium Poster</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/posters/icon_culture_advertisement_02.png</IconFilename>
+      <InfoDescription>19213</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cabinet of Curiosities Pamphlet</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26906</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>52900</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010362</GUID>
+        </Item>
+        <Item>
+          <GUID>1010364</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+    </BuildingUpgrade>
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

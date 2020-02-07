@@ -1,0 +1,82 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191381</GUID>
+      <Name>Brewer</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_203.png</IconFilename>
+      <InfoDescription>19609</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Award-Winning Brewer</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26655</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>75000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010294</GUID>
+        </Item>
+        <Item>
+          <GUID>1010292</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>15</Amount>
+        </Item>
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19609</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>3</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade>
+      <WorkforceAmountUpgrade>
+        <Value>-30</Value>
+        <Percental>1</Percental>
+      </WorkforceAmountUpgrade>
+    </BuildingUpgrade>
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

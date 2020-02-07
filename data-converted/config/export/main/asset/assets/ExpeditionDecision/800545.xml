@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800545</GUID>
+      <Name>The Visitation 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800546</Option>
+        </Item>
+        <Item>
+          <Option>800549</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew has its sceptics,&lt;/b&gt; even though the exorcism seems at first to have worked. Two days later a sailor cries, "It had glowing yellow eyes!" upon having sighted the demon near the hold. The unholy thing must be caught.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5559</LineID>
+    </Text>
+  </Values>
+</Asset>

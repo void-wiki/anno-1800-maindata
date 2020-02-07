@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802397</GUID>
+      <Name>The Treasure of Hassan Ben Sahid</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Treasure of&lt;br/&gt;Hassan Ben Sahid</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20852</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthAfrica;Africa;SouthernEurope;CentralEurope</EventRegion>
+      <EventThreat>800028</EventThreat>
+      <StartDecision>802398</StartDecision>
+      <EventMusicChoice>226703</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/navigation_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192291</GUID>
+      <Name>QI Intel - Pick Up Information - (Smuggle)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_license_purple.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Surveillance Report</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27983</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103060</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

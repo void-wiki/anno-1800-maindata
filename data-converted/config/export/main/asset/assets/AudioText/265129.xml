@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Seriously? You're cheating?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15719</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234157</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265129</GUID>
+      <Name>AT_Narrator_System_Confirmation_CheatPerformed</Name>
+    </Standard>
+  </Values>
+</Asset>

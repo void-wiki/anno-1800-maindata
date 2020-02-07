@@ -1,0 +1,35 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>101807</GUID>
+      <Name>3rd_party07_Prisoner_Unit_06</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_01.png</IconFilename>
+    </Standard>
+    <Collectable>
+      <DestroyOnCollect>0</DestroyOnCollect>
+      <CollectOnSelection>0</CollectOnSelection>
+      <PickupCursor>2001035</PickupCursor>
+    </Collectable>
+    <Mesh />
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/units/prisoner_m_01/prisoner_normal_m_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text />
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter />
+    <FeedbackController />
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

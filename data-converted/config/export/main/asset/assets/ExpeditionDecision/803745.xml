@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803745</GUID>
+      <Name>Permit A38 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803746</Option>
+        </Item>
+        <Item>
+          <Option>803773</Option>
+        </Item>
+        <Item>
+          <Option>803776</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Not a step forward!" says the harbour master of the big merchant harbor the crew stopped at. "You need to register your galley before doing anything here! Go to the harbour office, the red building, on the first floor corridor B last door on the right." A group of sailors volunteer to go but when they arrive there is no door on the right, only on the left.</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

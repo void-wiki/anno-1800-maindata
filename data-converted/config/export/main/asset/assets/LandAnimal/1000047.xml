@@ -1,0 +1,26 @@
+<Asset>
+  <Template>LandAnimal</Template>
+  <Values>
+    <Standard>
+      <GUID>1000047</GUID>
+      <Name>peacock</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/peacock/peacock.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <SpecialMovementType />
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

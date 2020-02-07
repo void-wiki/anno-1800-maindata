@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803617</GUID>
+      <Name>Giant Hogweed 1.2.2.1.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Reconsider the diagnostic</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33231</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Medicine</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803618</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803619</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

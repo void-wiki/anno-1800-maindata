@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NeedsSatisfactionNews</Template>
+  <Values>
+    <Standard>
+      <GUID>140920</GUID>
+      <Name>MarketSupplyVeryBad</Name>
+    </Standard>
+    <NeedsSatisfactionNews>
+      <Need>120020</Need>
+      <TrackingDuration>120000</TrackingDuration>
+      <MaximumNeedSatisfaction>0.5</MaximumNeedSatisfaction>
+      <MaximumNeedSatisfactionAtRelease>0.5</MaximumNeedSatisfactionAtRelease>
+      <MinResidencesCount>5</MinResidencesCount>
+      <SatisfactionArticle>140923</SatisfactionArticle>
+    </NeedsSatisfactionNews>
+  </Values>
+</Asset>

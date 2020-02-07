@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>11654</GUID>
+      <Name>CQ160_PayYourDebt_ObjectiveText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Have in storage:&lt;br/&gt;[Conditions QuestCondition Amount(ObjectiveIndex)] [AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10077</LineID>
+    </Text>
+  </Values>
+</Asset>

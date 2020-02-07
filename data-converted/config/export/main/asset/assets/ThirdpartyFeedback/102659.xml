@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>102659</GUID>
+      <Name>moderate_3rdparty02_01_fb_15_dog_random</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/moderate_3rdparty02_01/moderate_3rdparty02_01_fb_15/moderate_3rdparty02_01_fb_15.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/moderate_3rdparty02_01/moderate_3rdparty02_01_fb_15_2/moderate_3rdparty02_01_fb_15_2.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController />
+  </Values>
+</Asset>

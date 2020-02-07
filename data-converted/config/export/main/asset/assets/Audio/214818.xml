@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>214818</GUID>
+      <Name>wwe_sfx_com_impact_projectile</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>6242</DurationMinimum>
+          <DurationMaximum>7336</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>100</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1256904975</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

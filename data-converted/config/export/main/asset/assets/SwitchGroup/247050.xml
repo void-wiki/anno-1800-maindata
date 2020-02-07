@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>247050</GUID>
+      <Name>ES1_mountain_side</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>247048</Choice>
+        </Item>
+        <Item>
+          <Choice>247049</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>154244258</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

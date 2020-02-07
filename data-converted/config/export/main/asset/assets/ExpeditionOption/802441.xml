@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802441</GUID>
+      <Name>Wood Keeper 1.1.1.1.1.3</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Leave while you still can</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20888</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802445</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A small fleet, but ever emboldened by the injustices you perpetrate.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12595</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230026</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253581</GUID>
+      <Name>AT_ai04_PlyrSelectsNpcShipAtWar2</Name>
+    </Standard>
+  </Values>
+</Asset>

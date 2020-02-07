@@ -1,0 +1,43 @@
+<Asset>
+  <Template>QuestLighthouse</Template>
+  <Values>
+    <Standard>
+      <GUID>100549</GUID>
+      <Name>HB QuestObject (Jorgensen)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_01.png</IconFilename>
+      <InfoDescription>2676</InfoDescription>
+    </Standard>
+    <Building />
+    <Blocking>
+      <OverwriteGroundDecalWithRegionQuay>1</OverwriteGroundDecalWithRegionQuay>
+      <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+    </Blocking>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jorgensen's Lighthouse</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7044</LineID>
+    </Text>
+    <Cost />
+    <Infolayer />
+    <Maintenance />
+    <Locked />
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

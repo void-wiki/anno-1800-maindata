@@ -1,0 +1,12 @@
+<Template>
+  <Name>AmbientArea</Name>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object>
+      <Type>EditorObject</Type>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <AmbientArea />
+  </Properties>
+</Template>

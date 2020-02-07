@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>801718</GUID>
+      <Name>The Investigation 1.1.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Great Plainsman looks nervously over your goods.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23575</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>15178</TraderName>
+      <FollowupSuccessOption>801998</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>801751</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>30000</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

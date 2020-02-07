@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There is no shame in producing weapons if it is in defence of the realm, eldest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17175</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233336</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266225</GUID>
+      <Name>advisor01_Industrialisation_02</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800391</GUID>
+      <Name>Reward Event</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Reward Event</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionEvent>
+      <StartDecision>800392</StartDecision>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

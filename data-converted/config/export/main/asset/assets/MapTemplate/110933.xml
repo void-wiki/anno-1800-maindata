@@ -1,0 +1,25 @@
+<Asset>
+  <Template>MapTemplate</Template>
+  <Values>
+    <Standard>
+      <GUID>110933</GUID>
+      <Name>moderate_c_01</Name>
+    </Standard>
+    <MapTemplate>
+      <IslandSize>Large</IslandSize>
+      <TemplateFilename>data/dlc01/sessions/maps/sunken_treasures/moderate_continental_01/moderate_c_01.a7t</TemplateFilename>
+      <TemplateSize>Large</TemplateSize>
+      <FixedPreplacedParticipants>
+        <Item>
+          <ParticipantID>Third_party_06_Nate</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Third_party_09_Vasco_Silva</ParticipantID>
+        </Item>
+      </FixedPreplacedParticipants>
+      <TemplateRegion>Moderate</TemplateRegion>
+      <TemplateMapType>Archipelago</TemplateMapType>
+      <TemplateSubRegion>SecondaryRegion</TemplateSubRegion>
+    </MapTemplate>
+  </Values>
+</Asset>

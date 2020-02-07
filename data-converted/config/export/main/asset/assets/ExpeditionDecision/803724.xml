@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803724</GUID>
+      <Name>See you later 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They underestimated the monster.&lt;/b&gt; Two men confront it head on, as the rest of the party watch meekly from afar. The beast launches itself onto the men, fast as lightning. It takes one of them by the armpit and, with a fearsome roll, rips his body apart. Both creature and man disappear in the murky water, leaving nothing but a trail of gore behind.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33217</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Leave my friend alone!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16843</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234517</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265544</GUID>
+      <Name>AT_ai03_NegativeInteraction_NPCsFriend1</Name>
+    </Standard>
+  </Values>
+</Asset>

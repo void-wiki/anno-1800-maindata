@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800960</GUID>
+      <Name>The Icy Blizzard 1.3.2.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistPreferAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Nothing but a demonic howl.&lt;/b&gt; The blizzard rises anew. Without hope to keep them aloft, it is no surprise when a ledge gives way, damning to hell below.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16064</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803764</GUID>
+      <Name>Permit A38 1.1.2.2.2.1.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ask for help to the first passerby</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Diplomacy</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803765</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803778</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

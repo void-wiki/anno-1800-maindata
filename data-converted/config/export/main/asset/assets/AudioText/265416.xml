@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You have plundered a ship!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16002</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234110</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265416</GUID>
+      <Name>AT_Narrator_Items_Information_ItemActionPlunderSuccess</Name>
+    </Standard>
+  </Values>
+</Asset>

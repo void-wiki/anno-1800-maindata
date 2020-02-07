@@ -1,0 +1,41 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700096</GUID>
+      <Name>ShipOfTheLine_SelectPool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268661</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268662</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268663</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268664</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268665</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268666</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

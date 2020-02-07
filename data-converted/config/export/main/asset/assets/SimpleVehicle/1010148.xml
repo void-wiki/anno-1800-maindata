@@ -1,0 +1,34 @@
+<Asset>
+  <Template>SimpleVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>1010148</GUID>
+      <Name>Economy Market Horse Carriage 01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/economy_market_horse_carriage_01/economy_market_horse_carriage_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnTerrainSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <CreatePathPlannerUnit>0</CreatePathPlannerUnit>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>economy_market_horse_carriage_01</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter />
+    <MinimapToken />
+  </Values>
+</Asset>

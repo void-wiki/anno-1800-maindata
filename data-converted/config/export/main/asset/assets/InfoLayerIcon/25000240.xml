@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>25000240</GUID>
+      <Name>TransporterQueueWarning</Name>
+      <ID>InfoLayerTransporterQueueWarning</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/alert.cfg</Config>
+      <PopupDelay>10000</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Too Many Transporters - Loading Delayed</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19973</LineID>
+    </Text>
+  </Values>
+</Asset>

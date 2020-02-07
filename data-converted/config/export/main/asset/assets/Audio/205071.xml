@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>205071</GUID>
+      <Name>wwe_sfx_promps_blimp_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>35</MaxAttenuation>
+      <StopEvent>205072</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3364808826</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

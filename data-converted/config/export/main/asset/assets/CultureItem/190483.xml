@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190483</GUID>
+      <Name>fossils</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_fossils.png</IconFilename>
+      <InfoDescription>10654</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ammonites</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15028</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Rare</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>191125</ItemSet>
+      <TradePrice>74200</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101462</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemRegions>SouthAmerica;SouthernSouthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

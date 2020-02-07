@@ -1,0 +1,26 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117186</GUID>
+      <Name>Pool_Technician_QuestReminder</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextGroups>
+        <Item>
+          <Group>-517434780</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

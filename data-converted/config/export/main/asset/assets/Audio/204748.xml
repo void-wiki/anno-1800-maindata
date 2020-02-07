@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204748</GUID>
+      <Name>Play_AI_ARTUR_DAC_QTG_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1373</DurationMinimum>
+          <DurationMaximum>1864</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>1326</DurationMinimum>
+          <DurationMaximum>2054</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>1579</DurationMinimum>
+          <DurationMaximum>3216</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1757</DurationMinimum>
+          <DurationMaximum>2217</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1785898504</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

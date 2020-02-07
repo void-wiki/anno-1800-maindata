@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You don't want to be playing this game with friends of Beryl… </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16922</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233015</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265570</GUID>
+      <Name>AT_ai05_MafiaDetected_NPCsFriend2</Name>
+    </Standard>
+  </Values>
+</Asset>

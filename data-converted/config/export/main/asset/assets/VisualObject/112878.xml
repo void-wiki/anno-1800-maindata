@@ -1,0 +1,20 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>112878</GUID>
+      <Name>trail_map</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/props/trail_map/trail_map_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

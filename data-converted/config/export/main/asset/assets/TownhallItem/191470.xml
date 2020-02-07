@@ -1,0 +1,73 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191470</GUID>
+      <Name>Aristide Boucicaut - The Department Store Owner</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_402.png</IconFilename>
+      <InfoDescription>19910</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Aristelia Bataille, of the "Novelty Store"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26723</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>990000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19910</FluffText>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <AdditionalHappiness>10</AdditionalHappiness>
+      <GoodConsumptionUpgrade>
+        <Item>
+          <ProvidedNeed>120016</ProvidedNeed>
+          <AmountInPercent>-100</AmountInPercent>
+        </Item>
+      </GoodConsumptionUpgrade>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

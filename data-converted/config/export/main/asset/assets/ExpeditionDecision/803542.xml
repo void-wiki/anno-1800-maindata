@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803542</GUID>
+      <Name>The Coral Island 1.2.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803543</Option>
+        </Item>
+        <Item>
+          <Option>803546</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You make good progress on the ship repairs,&lt;/b&gt; by offering a specific motivation, "if we can get her fixed, there's a friendly port not far away." While she is not ready to depart yet, the crew is reassured that it won't be long before the ship is back underway. It might be an idea meanwhile, to send a small party to look for food and water— you never know when the next chance will come.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33016</LineID>
+    </Text>
+  </Values>
+</Asset>

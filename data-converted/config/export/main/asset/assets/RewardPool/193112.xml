@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193112</GUID>
+      <Name>Culture - Pricy Cultural - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191081</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191090</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191088</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190539</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190536</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190538</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190542</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190544</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

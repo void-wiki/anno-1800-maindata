@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193141</GUID>
+      <Name>Culture - Museum Item - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190546</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190549</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190548</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190550</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

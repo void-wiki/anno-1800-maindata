@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802839</GUID>
+      <Name>Taken In Broken Out 1.2.1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew complies.&lt;/b&gt; Following their superiors' orders, the sailors accept the judges' penalty and fulfil their obligations to the best of their abilities. One month of forced labour seems harsh even for the local population, who supports the crew's effort and vouch for their liberation: the crew earns an early release, tired but touched by the unexpected appreciation.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22034</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,67 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192050</GUID>
+      <Name>Rescue Mission Reward Pool Machines &amp; Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192951</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192952</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192953</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192954</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192955</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192956</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192957</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192958</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192959</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192960</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+          <Weight>25</Weight>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>17149</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

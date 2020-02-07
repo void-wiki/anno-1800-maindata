@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800003</GUID>
+      <Name>EndOfEvent</Name>
+      <ID>EndOfEventDecision</ID>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800108</Option>
+        </Item>
+        <Item>
+          <Option>800086</Option>
+        </Item>
+        <Item>
+          <Option>800085</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your captain awaits your command</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5918</LineID>
+    </Text>
+  </Values>
+</Asset>

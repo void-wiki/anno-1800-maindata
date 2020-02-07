@@ -1,0 +1,86 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151564</GUID>
+      <Name>CQ401_CourtOfJustice_OptionalSuccess_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>45</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>15698</NotificationText>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267624</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>151409</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateIsBlacklist>1</ConditionQuestStateIsBlacklist>
+                      <ConditionQuestStateQuestGUID>151411</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

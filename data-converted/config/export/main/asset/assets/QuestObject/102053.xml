@@ -1,0 +1,40 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102053</GUID>
+      <Name>InvestorsStarterObject</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resident_investor.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>Default</MeshPlacement>
+      <DefaultSequence>greet01</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Specialist</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/resident_quests/start_object/investor/investor_questgiver.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Investor</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29489</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <Collectable />
+    <FeedbackController />
+  </Values>
+</Asset>

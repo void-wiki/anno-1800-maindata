@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803385</GUID>
+      <Name>The Great Sickness 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Things take a severe turn for the worse...&lt;/b&gt; Your doctors have little idea what they are doing, and their extraordinary decision to use a sample from the pustules on the poor dead girl to create their vaccine only accelerates the spread. In desperation, those still in health agree to board the expedition ship and escape while they still can.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31574</LineID>
+    </Text>
+  </Values>
+</Asset>

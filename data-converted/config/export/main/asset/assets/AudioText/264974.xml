@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your people are recovered, and desirous to proceed. Set them to it! We're going to need as much space as we can clear.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15484</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232198</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264974</GUID>
+      <Name>advisor_01_CleanTheIsland_05</Name>
+    </Standard>
+  </Values>
+</Asset>

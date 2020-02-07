@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You can't just go waltzing in!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10977</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223608</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260261</GUID>
+      <Name>AT_ai09_PlyrBuyoutFromNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

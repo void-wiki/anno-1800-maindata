@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802609</GUID>
+      <Name>The Mountain Maw</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Mountain Maw</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21823</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800033</EventThreat>
+      <StartDecision>802610</StartDecision>
+      <EventMusicChoice>226701</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/polar_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

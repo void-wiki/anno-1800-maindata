@@ -1,0 +1,22 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>140088</GUID>
+      <Name>MortarDecal</Name>
+    </Standard>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/effects/decals/dynamite_target_decal_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>9818706</GUID>
+      <Name>wwe_sfx_bld_residence_tier_02</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>12</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>18</MaxAttenuation>
+      <StopEvent>206445</StopEvent>
+      <SoundEventType>LargeBuildingSound</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4007911702</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

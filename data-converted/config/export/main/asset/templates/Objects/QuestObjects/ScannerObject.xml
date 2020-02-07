@@ -1,0 +1,37 @@
+<Template>
+  <Name>ScannerObject</Name>
+  <Properties>
+    <Standard />
+    <Scanner />
+    <Object />
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection />
+    <Walking />
+    <SoundEmitter />
+    <QuestObject />
+    <CommandQueue />
+    <Text />
+    <Attacker>
+      <AccuracyByDistance>
+        <Item />
+        <Item>
+          <AccuracyByDistancePair>
+            <EnemyDistanceRelToAttackRange>100</EnemyDistanceRelToAttackRange>
+            <CorrespondingAccuracy>50</CorrespondingAccuracy>
+          </AccuracyByDistancePair>
+        </Item>
+      </AccuracyByDistance>
+    </Attacker>
+    <Attackable>
+      <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+    </Attackable>
+    <ItemContainer>
+      <SocketCount>1</SocketCount>
+      <SocketAllocation>Ship</SocketAllocation>
+    </ItemContainer>
+    <UpgradeList />
+    <Stance />
+  </Properties>
+</Template>

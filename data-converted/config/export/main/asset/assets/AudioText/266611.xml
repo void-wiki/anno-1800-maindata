@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Once this shipyard is built, we can gesture rudely at Edvard, and go back to adventuring.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17337</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232705</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266611</GUID>
+      <Name>advisor_02_Ch1Ph2_Additional_06</Name>
+    </Standard>
+  </Values>
+</Asset>

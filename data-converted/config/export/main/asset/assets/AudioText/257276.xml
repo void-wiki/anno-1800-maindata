@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A farm, with no fields!?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8791</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220985</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257276</GUID>
+      <Name>AT_res_tier01_ProductionMissingFarmField1</Name>
+    </Standard>
+  </Values>
+</Asset>

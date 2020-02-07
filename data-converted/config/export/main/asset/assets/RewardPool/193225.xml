@@ -1,0 +1,59 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193225</GUID>
+      <Name>Artur Goods Drop Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010242</ItemLink>
+          <MinAmount>15</MinAmount>
+          <MaxAmount>40</MaxAmount>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010204</ItemLink>
+          <MinAmount>15</MinAmount>
+          <MaxAmount>40</MaxAmount>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010247</ItemLink>
+          <MinAmount>10</MinAmount>
+          <MaxAmount>20</MaxAmount>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010259</ItemLink>
+          <MinAmount>10</MinAmount>
+          <MaxAmount>20</MaxAmount>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010250</ItemLink>
+          <MinAmount>10</MinAmount>
+          <MaxAmount>20</MaxAmount>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>120016</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>10</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010248</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>10</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010246</ItemLink>
+        </Item>
+      </ItemsPool>
+      <GenerateUniqueRewards>0</GenerateUniqueRewards>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

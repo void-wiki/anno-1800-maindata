@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803586</GUID>
+      <Name>The Coral Island 1.3.1.2.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Leave him to his pig-on-a-stick</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33060</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803587</Decision>
+        </Item>
+      </FollowupDecisions>
+      <IsUnFavorableOption>1</IsUnFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

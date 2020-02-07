@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802776</GUID>
+      <Name>Jolly Roger 1.1.2.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseGoods</NegativeOutcomeLosses>
+      <NegativeOutcomeMin>20</NegativeOutcomeMin>
+      <NegativeOutcomeMax>50</NegativeOutcomeMax>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Should have waved the white flag sooner.&lt;/b&gt; Your weapons drop and the pirate captain saunters aboard. She is tall and surprisingly aged, dressed in the dashing clothes of a bygone era, "For our trouble, we'll have some of yer crew for slaves," she growls, "all of 'em left of this line." She swishes her cutlass and portions off several of your crew for her playthings. After that she turns more amicable, as her horde loot your ship. As they leave she drops a feathered glove to show her gratitude.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21530</LineID>
+    </Text>
+  </Values>
+</Asset>

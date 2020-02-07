@@ -1,0 +1,59 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>153242</GUID>
+      <Name>Chapter300_FirstQuestTrigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>MovieFinished</ConditionEvent>
+            <ContextAsset>300002</ContextAsset>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>151340</Quest>
+                <QuestSession>180025</QuestSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionEvent</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionEvent>
+                      <ConditionEvent>NotificationRemoved</ConditionEvent>
+                      <ContextData>Noti_Chapter3Banner</ContextData>
+                    </ConditionEvent>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

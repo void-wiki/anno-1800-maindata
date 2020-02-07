@@ -1,0 +1,46 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193768</GUID>
+      <Name>spiritual eu</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_jujube.png</IconFilename>
+      <InfoDescription>22356</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010264</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Enchanted Garden</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33514</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+      <AddedFertility>1010572</AddedFertility>
+    </FactoryUpgrade>
+    <BuildingUpgrade />
+    <Buff>
+      <PossibleFluffTexts>
+        <Item>
+          <FluffText>22411</FluffText>
+        </Item>
+      </PossibleFluffTexts>
+    </Buff>
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

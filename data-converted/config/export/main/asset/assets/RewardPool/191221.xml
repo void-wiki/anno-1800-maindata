@@ -1,0 +1,19 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191221</GUID>
+      <Name>Everyday Material</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191189</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

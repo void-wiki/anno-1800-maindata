@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803026</GUID>
+      <Name>Blizzard 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802991</Option>
+        </Item>
+        <Item>
+          <Option>802992</Option>
+        </Item>
+        <Item>
+          <Option>803920</Option>
+        </Item>
+        <Item>
+          <Option>804144</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Sails frozen, food rotten, ship on the brink of breaking.&lt;/b&gt; It's a blizzard! All notion of time and direction has long been lost: a never-ending tempest of snow surrounds the ship, blurring the limits between night and day, sky and sea. Stalactites have imprisoned your sails, binding them to the masts and making them creak under the unexpected weight. Your crew fears they might break, but should anyone venture outside while violent winds whip the upper deck?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22141</LineID>
+    </Text>
+  </Values>
+</Asset>

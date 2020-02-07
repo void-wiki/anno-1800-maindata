@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>1000123</GUID>
+      <Name>residence_tier04_normal_m_01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/residents/residence_tier04_normal_m_01/residence_tier04_normal_m_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

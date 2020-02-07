@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800255</GUID>
+      <Name>The Ghost Ship 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Send a diver to check it out</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5531</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800258</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <NeededAttribute>PerkDiver</NeededAttribute>
+          <MinAttribute>1</MinAttribute>
+        </Item>
+      </Requirements>
+      <IsFavorableOption>1</IsFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

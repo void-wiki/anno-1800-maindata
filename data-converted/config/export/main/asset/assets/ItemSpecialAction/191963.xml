@@ -1,0 +1,57 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191963</GUID>
+      <Name>Dunnite Shells</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_explosive_shells_2.png</IconFilename>
+      <InfoDescription>19561</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <MouseEffect>140112</MouseEffect>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ItemAction>NOACTION</ItemAction>
+      <ActionScope>Self</ActionScope>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <Charges>3</Charges>
+      <ActionDuration>60000</ActionDuration>
+      <ActiveBuff>191948</ActiveBuff>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>12100</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dunnite Shells</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26849</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>6</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19561</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <CraftableItem />
+  </Values>
+</Asset>

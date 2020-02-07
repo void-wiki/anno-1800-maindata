@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501330</GUID>
+      <Name>Photo Quest Confirmation</Name>
+      <ID>PhotoQuestConfirmationNotification</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501354</IconAsset>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>16965</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

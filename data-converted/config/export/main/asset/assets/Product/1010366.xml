@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010366</GUID>
+      <Name>colony workforce 1</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_ressource_farmer_south_america.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jornalero Workforce</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20138</LineID>
+    </Text>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <Product>
+      <StorageLevel>Area</StorageLevel>
+      <DeltaOnly>1</DeltaOnly>
+      <IsWorkforce>1</IsWorkforce>
+    </Product>
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

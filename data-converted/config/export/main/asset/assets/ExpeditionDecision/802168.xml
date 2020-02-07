@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802168</GUID>
+      <Name>Selfless Deeds 1.2.1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A flawless action, from start to finish.&lt;/b&gt; After a swift capture of the naked bandits, the sailors advance and discover the camp's true nature: a children-powered sweatshop. It is soon obvious that the bandits' leader is the only one who does not care for the hostages, and the man is forcibly exchanged by his crew against the promise that your sailors will never set foot here again. The rescuers come back with children on their shoulders, a culprit to be judged, and goods to be shared.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21024</LineID>
+    </Text>
+  </Values>
+</Asset>

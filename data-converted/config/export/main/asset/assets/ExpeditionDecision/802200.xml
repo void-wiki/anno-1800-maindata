@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802200</GUID>
+      <Name>Selfless Deeds 1.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Not all sailors share your lack of compassion.&lt;/b&gt; Some men and women refuse to leave and the officers have no choice but to let them do as they please lest they'd lose even more of the crew's trust. Many sailors argue that staying to help was the right choice, but the ship has already set sail when they voice their opinion.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21056</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Achievement</Template>
+  <Values>
+    <Standard>
+      <GUID>400014</GUID>
+      <Name>Achievement_There is no Business like Ship Business</Name>
+    </Standard>
+    <Achievement>
+      <AchievementTitle>10136</AchievementTitle>
+      <AchievementDescription>10137</AchievementDescription>
+      <AchievementUPlayID>35</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>TradeProductSold</PlayerCounter>
+            <Context>100438</Context>
+            <CounterAmount>5</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,72 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151238</GUID>
+      <Name>CQ311_Escape_Dialog01_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>150851</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>7</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationLabel>Noti_Escape_Dialog01_Start</NotificationLabel>
+                      <NotificationText>14275</NotificationText>
+                      <NotificationPriority>704</NotificationPriority>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267028</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationByLevel</PlayerCounter>
+                      <Context>15000005</Context>
+                      <CounterAmount>100</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

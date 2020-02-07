@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191162</GUID>
+      <Name>Battle C</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190523</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190524</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190526</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

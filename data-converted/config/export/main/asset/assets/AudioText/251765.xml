@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You really weren't joking, when you said war...</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2878</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211185</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251765</GUID>
+      <Name>AT_ai01_PlayerDeclaresWarOnNpc3</Name>
+    </Standard>
+  </Values>
+</Asset>

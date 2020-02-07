@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802486</GUID>
+      <Name>The Storm 1.1.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Order the crew to finish reefing the sails</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21772</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Melee</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802488</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802489</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

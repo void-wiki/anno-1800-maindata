@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Usurper! Tyrant! You would seize the economy from the people?!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30618</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204471</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109981</GUID>
+      <Name>AT_ai10_PlyrBuyoutFromNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

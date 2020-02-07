@@ -1,0 +1,56 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191752</GUID>
+      <Name>Anti Fire Measures Act</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_rare.png</IconFilename>
+      <InfoDescription>19452</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Arthur Ramshackle's Grand Reservoir Plans</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26952</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ExclusiveGroup>FirePreventionAct</ExclusiveGroup>
+      <TradePrice>195000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <TaxModifierInPercent>-15</TaxModifierInPercent>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentFireIncreaseUpgrade>
+        <Value>-6</Value>
+      </IncidentFireIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

@@ -1,0 +1,47 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>25000015</GUID>
+      <Name>VisitorSpecialistNotification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <CharacterNotification>
+            <Profile>90</Profile>
+            <ThirdpartyNotificationButtons>
+              <Item>
+                <Icon>501642</Icon>
+                <Command>[NotificationContext Value(Area) Area Visitors LookAtSpecialist]</Command>
+                <PreventAutoClose>1</PreventAutoClose>
+              </Item>
+            </ThirdpartyNotificationButtons>
+          </CharacterNotification>
+          <BaseNotification>
+            <NotificationText>2435</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>400</NotificationPriority>
+            <NotificationMinDisplayTime>30000</NotificationMinDisplayTime>
+            <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+            <RestrictedToSessionOrRegions>
+              <Item>
+                <SessionOrRegion>180023</SessionOrRegion>
+              </Item>
+              <Item>
+                <SessionOrRegion>180025</SessionOrRegion>
+              </Item>
+              <Item>
+                <SessionOrRegion>110934</SessionOrRegion>
+              </Item>
+            </RestrictedToSessionOrRegions>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <SubtitleGroup>769424791</SubtitleGroup>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

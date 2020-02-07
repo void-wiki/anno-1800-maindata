@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We need a rudder!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8027</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217385</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255743</GUID>
+      <Name>AT_captain_GenericEventCallToAction11</Name>
+    </Standard>
+  </Values>
+</Asset>

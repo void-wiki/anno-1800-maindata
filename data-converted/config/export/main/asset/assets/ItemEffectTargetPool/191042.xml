@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191042</GUID>
+      <Name>all oil wells</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Oil Wells</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15263</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>101331</GUID>
+        </Item>
+        <Item>
+          <GUID>1010561</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

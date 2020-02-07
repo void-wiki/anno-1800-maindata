@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501443</GUID>
+      <Name>NotificationDiplomacy_TradePlayerCancelled</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501448</IconAsset>
+            <FilterType>DiplomaticRelations</FilterType>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>17247</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <DisplayTimeout>0</DisplayTimeout>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

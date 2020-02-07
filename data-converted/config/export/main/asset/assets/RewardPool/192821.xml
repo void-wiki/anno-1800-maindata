@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192821</GUID>
+      <Name>Characters - Farmer - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192293</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192295</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192296</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192297</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192298</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

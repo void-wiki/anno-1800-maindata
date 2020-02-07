@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>10550</GUID>
+      <Name>ST_QuestResolveConfirmation</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] asks if you are ready to hand in your quest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6943</LineID>
+    </Text>
+  </Values>
+</Asset>

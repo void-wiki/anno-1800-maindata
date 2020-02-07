@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800119</GUID>
+      <Name>Temple of the Monkey God 1.5</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Avoid the island altogether and return to the ship</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5659</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800155</Decision>
+        </Item>
+      </FollowupDecisions>
+      <IsUnFavorableOption>1</IsUnFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

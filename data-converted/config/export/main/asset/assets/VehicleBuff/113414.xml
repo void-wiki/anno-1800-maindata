@@ -1,0 +1,31 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>113414</GUID>
+      <Name>Sonar3Buff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/item_sonar_03.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>N.8.D.A.R</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32755</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <UseProjectile>113406</UseProjectile>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

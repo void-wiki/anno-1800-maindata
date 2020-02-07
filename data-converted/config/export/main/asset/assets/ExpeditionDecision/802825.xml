@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802825</GUID>
+      <Name>Taken In Broken Out 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802801</Option>
+        </Item>
+        <Item>
+          <Option>802802</Option>
+        </Item>
+        <Item>
+          <Option>802803</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A dead end.&lt;/b&gt; The crew can handle basic digging, but their progress is reluctant, slowed by the constant fear of being buried in the makeshift tunnel. At the first obstacle they encounter, a large foundation pillar which blocks the way, all sailors hurriedly agree that there is nothing more to be done with the tunnel. They regain the cell, relieved.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22039</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803471</GUID>
+      <Name>The Mascarade 1.1.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Splash out on a fancy costume</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32640</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803472</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

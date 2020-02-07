@@ -1,0 +1,29 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>1000226</GUID>
+      <Name>wooden_box_pile_small</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_box_pile_small_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_box_pile_small_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_box_pile_small_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_box_pile_small_04.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

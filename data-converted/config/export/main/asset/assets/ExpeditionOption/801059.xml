@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>801059</GUID>
+      <Name>Dockyard Dupe 1.4.2.3</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Give up and leave</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13134</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>801060</Decision>
+        </Item>
+      </FollowupDecisions>
+      <IsUnFavorableOption>1</IsUnFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

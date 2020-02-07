@@ -1,0 +1,23 @@
+<Asset>
+  <Template>MainMenuNavigation</Template>
+  <Values>
+    <Standard>
+      <GUID>501590</GUID>
+      <Name>MainMenuNavigationConfig</Name>
+      <ID>MainMenuNavigationConfig</ID>
+    </Standard>
+    <MainMenuNavigationConfig>
+      <BackButtonInfotips>
+        <ToTitleInfotip>19808</ToTitleInfotip>
+        <ToGameModeSelectionInfotip>19809</ToGameModeSelectionInfotip>
+        <ToTutorialSelectionInfotip>19810</ToTutorialSelectionInfotip>
+        <ToPortraitSelectionInfotip>20086</ToPortraitSelectionInfotip>
+        <ToLogoSelectionInfotip>20087</ToLogoSelectionInfotip>
+        <ToNameInfotip>20088</ToNameInfotip>
+        <ToSpecialRewardSelectionInfotip>21591</ToSpecialRewardSelectionInfotip>
+        <ToDifficultySelectionInfotip>20089</ToDifficultySelectionInfotip>
+        <ToMpGameModeSelectionInfotip>21612</ToMpGameModeSelectionInfotip>
+      </BackButtonInfotips>
+    </MainMenuNavigationConfig>
+  </Values>
+</Asset>

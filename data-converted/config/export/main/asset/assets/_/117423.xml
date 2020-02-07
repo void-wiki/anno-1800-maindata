@@ -1,0 +1,89 @@
+<Asset>
+  <BaseAssetGUID>126</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>117423</GUID>
+      <Name>PaMSy_3rdParty_OldNate_Arctic</Name>
+    </Standard>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <ParticipantDiscovered>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <SubtitleGroup>1429709091</SubtitleGroup>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ParticipantDiscovered>
+        <MenuIdleMessage>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <RequiredContextMenu />
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <Subtitle>117589</Subtitle>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </MenuIdleMessage>
+        <ClickNPCBuilding>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <Subtitle>117588</Subtitle>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickNPCBuilding>
+      </MessageTriggers>
+    </ParticipantMessages>
+  </Values>
+</Asset>

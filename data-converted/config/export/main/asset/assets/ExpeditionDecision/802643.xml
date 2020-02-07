@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802643</GUID>
+      <Name>Blood Oil Tears and Sweat 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802644</Option>
+        </Item>
+        <Item>
+          <Option>802645</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An overweight ship is easy prey for stormy waves.&lt;/b&gt; The oil merchants your crew met at the last harbour paid good money for their cargo to be stored aboard your ship, but the weight isn't really something your vessel can handle. At the first signs of tempest winds and cutting waves, the unusual ballast makes your ship heel furiously.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21851</LineID>
+    </Text>
+  </Values>
+</Asset>

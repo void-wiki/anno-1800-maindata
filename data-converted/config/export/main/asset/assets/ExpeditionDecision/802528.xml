@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802528</GUID>
+      <Name>The Storm 1.4.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802529</Option>
+        </Item>
+        <Item>
+          <Option>802530</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The delicate machinery is handled brutishly.&lt;/b&gt; Assuming that the engines heat is directly proportional to the ship's speed, the engineer overheats the steamer and bring the boiler way over its capacity. The temperature rises and the pressure swells and the metal quivers, until one of the engine explodes, killing the engineer on the spot.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21810</LineID>
+    </Text>
+  </Values>
+</Asset>

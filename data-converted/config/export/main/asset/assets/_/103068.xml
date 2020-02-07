@@ -1,0 +1,61 @@
+<Asset>
+  <BaseAssetGUID>102664</BaseAssetGUID>
+  <Values>
+    <Collectable>
+      <OnCollect>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionDeleteObjects</Template>
+                  <Values>
+                    <Action />
+                    <ActionDeleteObjects />
+                    <ObjectFilter>
+                      <ObjectGUID>103069</ObjectGUID>
+                    </ObjectFilter>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnCollect>
+    </Collectable>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Collectable</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/quest/objects/castaway_lifewest/castaway_lifewest.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>103068</GUID>
+      <Name>QO Castaway - Pastor - George Moral choice</Name>
+    </Standard>
+    <Selection />
+    <Walking />
+    <Text>
+      <LineID>30118</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter />
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+  </Values>
+</Asset>

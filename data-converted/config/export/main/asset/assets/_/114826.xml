@@ -1,0 +1,34 @@
+<Asset>
+  <BaseAssetGUID>100446</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>114826</GUID>
+      <Name>Quay System Colony03 Base</Name>
+    </Standard>
+    <Cost />
+    <Street>
+      <CfgFileName>data/dlc03/graphics/buildings/special/quay_system_colony03_01/props/quay_system_colony03_01.cfg</CfgFileName>
+      <InternalID>40</InternalID>
+    </Street>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+    </SoundEmitter>
+    <Text>
+      <LocaText>
+        <English>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35495</LineID>
+    </Text>
+    <Building />
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>3266</GUID>
+      <Name>NPC Makes Threat - m</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] threatens you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6914</LineID>
+    </Text>
+  </Values>
+</Asset>

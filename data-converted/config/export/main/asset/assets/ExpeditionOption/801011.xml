@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>801011</GUID>
+      <Name>Mysterious Artefacts 1.2.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Side with the priest and prepare a holy fire</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13178</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Faith</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>801013</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>801014</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

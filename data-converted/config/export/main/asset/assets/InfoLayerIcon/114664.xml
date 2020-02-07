@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>114664</GUID>
+      <Name>MissingHeat</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_heating_center_2d.png</IconFilename>
+      <ID>InfolayerMissingHeat</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/heat.cfg</Config>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Missing Heat</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35191</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ObjectmenuShipYardScene</Template>
+  <Values>
+    <Standard>
+      <GUID>501105</GUID>
+      <Name>ObjectmenuShipYardScene</Name>
+      <ID>ObjectmenuShipYardScene</ID>
+    </Standard>
+    <ObjectmenuHeader>
+      <BuffDisplayList>
+        <Item>
+          <Buffgroup>
+            <Item>
+              <DataSource>[Selection Object Shipyard NewspaperProductivityIncrease]</DataSource>
+              <MinThreshold>0.0001</MinThreshold>
+              <MaxThreshold>10000</MaxThreshold>
+            </Item>
+          </Buffgroup>
+          <Icon>500272</Icon>
+          <InfoTip>501115</InfoTip>
+        </Item>
+      </BuffDisplayList>
+    </ObjectmenuHeader>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803402</GUID>
+      <Name>Isla de los Muertos 1.1.1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Its only the wind and damp, light the lamps again!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31829</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Crafting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803403</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803404</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

@@ -1,0 +1,66 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191743</GUID>
+      <Name>Big Taxation</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_rare.png</IconFilename>
+      <InfoDescription>19253</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hieromonk Bede's Cheeky Little Tithe Law</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26937</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ExclusiveGroup>Ordinance</ExclusiveGroup>
+      <TradePrice>262500</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010359</GUID>
+        </Item>
+        <Item>
+          <GUID>101258</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-100</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+      <PublicServiceFullSatisfactionDistance>
+        <Value>-15</Value>
+        <Percental>1</Percental>
+      </PublicServiceFullSatisfactionDistance>
+      <PublicServiceNoSatisfactionDistance>
+        <Value>-15</Value>
+        <Percental>1</Percental>
+      </PublicServiceNoSatisfactionDistance>
+    </BuildingUpgrade>
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

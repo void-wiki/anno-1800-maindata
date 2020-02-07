@@ -1,0 +1,27 @@
+<Template>
+  <Name>CollectablePicturePuzzleWithPropRemoval</Name>
+  <Properties>
+    <Standard />
+    <Collectable>
+      <DestroyOnCollect>1</DestroyOnCollect>
+      <CollectOnSelection>1</CollectOnSelection>
+    </Collectable>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection />
+    <Object />
+    <CommandQueue />
+    <Text />
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter />
+    <Blocking>
+      <DeletePropsRadius>0</DeletePropsRadius>
+      <RemovePropsRadius>2</RemovePropsRadius>
+    </Blocking>
+    <FeedbackController />
+    <Trailer />
+  </Properties>
+</Template>

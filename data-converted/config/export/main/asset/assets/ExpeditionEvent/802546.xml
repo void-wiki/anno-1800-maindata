@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802546</GUID>
+      <Name>Apostasy</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Apostasy</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21553</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800028</EventThreat>
+      <StartDecision>802547</StartDecision>
+      <EventMusicChoice>226703</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/generic_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

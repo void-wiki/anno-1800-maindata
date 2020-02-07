@@ -1,0 +1,11 @@
+<Template>
+  <Name>CampaignNotification</Name>
+  <Properties>
+    <BaseNotification>
+      <NotificationBlockingTime>0</NotificationBlockingTime>
+      <NotificationPriority>600</NotificationPriority>
+      <DisplayTimeout>60000</DisplayTimeout>
+    </BaseNotification>
+    <CampaignNotification />
+  </Properties>
+</Template>

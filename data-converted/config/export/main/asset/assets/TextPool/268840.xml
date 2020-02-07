@@ -1,0 +1,29 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268840</GUID>
+      <Name>Pool_ai07_GossipHarlow</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>260892</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260893</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

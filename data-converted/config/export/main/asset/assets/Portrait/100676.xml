@@ -1,0 +1,42 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>91</PortraitName>
+      <PortraitColor>-3623806</PortraitColor>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/editor.portraitcamleft</CamFile>
+        </Left>
+        <Right>
+          <CamFile>data/config/portraitcam/editor.portraitcamright</CamFile>
+        </Right>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/editor.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/editor.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>100676</GUID>
+      <Name>Editor</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/editor.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/editor/editor.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

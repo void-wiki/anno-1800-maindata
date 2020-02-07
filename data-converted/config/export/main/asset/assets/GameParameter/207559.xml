@@ -1,0 +1,16 @@
+<Asset>
+  <Template>GameParameter</Template>
+  <Values>
+    <Standard>
+      <GUID>207559</GUID>
+      <Name>gp_1404_music_volume</Name>
+      <IconFilename>test_data/graphics/wwise_icons/rtpc.png</IconFilename>
+    </Standard>
+    <GameParameter>
+      <GameParameterDefaultValue>-60</GameParameterDefaultValue>
+    </GameParameter>
+    <WwiseStandard>
+      <WwiseID>4272417141</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

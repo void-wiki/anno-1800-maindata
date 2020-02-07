@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268729</GUID>
+      <Name>Pool_ai01_QuestOffered</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>250067</AudioText>
+        </Item>
+        <Item>
+          <AudioText>250988</AudioText>
+        </Item>
+        <Item>
+          <AudioText>250989</AudioText>
+        </Item>
+        <Item>
+          <AudioText>250990</AudioText>
+        </Item>
+        <Item>
+          <AudioText>250991</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

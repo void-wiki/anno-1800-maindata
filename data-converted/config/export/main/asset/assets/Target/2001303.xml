@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>COLLECT_ON_CLICK</ActionID>
+      <Matches>
+        <TargetMatch1>
+          <Flags>CollectableOnSelection;IsCollectable</Flags>
+        </TargetMatch1>
+      </Matches>
+      <MouseCursorTarget>2001035</MouseCursorTarget>
+      <MouseCursorDisable>2001208</MouseCursorDisable>
+      <MouseCursorMode>2001029</MouseCursorMode>
+      <MouseCursorPosition>2001029</MouseCursorPosition>
+      <MouseCursorPositionDisable>2001208</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>2001303</GUID>
+      <Name>CollectOnClick</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

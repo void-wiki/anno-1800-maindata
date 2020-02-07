@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Yer aff yer head!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11560</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222728</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>259919</GUID>
+      <Name>AT_captain_NegFeedbackTo Player1</Name>
+    </Standard>
+  </Values>
+</Asset>

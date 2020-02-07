@@ -1,0 +1,26 @@
+<Asset>
+  <Template>FluffItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192238</GUID>
+      <Name>Strange talisman</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_monkey_amulet.png</IconFilename>
+      <InfoDescription>19901</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Strange Talisman</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27872</LineID>
+    </Text>
+    <Item />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

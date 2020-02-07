@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192964</GUID>
+      <Name>Culture - Animals - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192771</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192776</ItemLink>
+          <Weight>6</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192781</ItemLink>
+          <Weight>8</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193429</ItemLink>
+          <Weight>4</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193792</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

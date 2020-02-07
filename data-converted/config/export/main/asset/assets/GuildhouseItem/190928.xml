@@ -1,0 +1,56 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190928</GUID>
+      <Name>Mixed Bell Pepper Seeds</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_seeds_pepper.png</IconFilename>
+      <InfoDescription>15917</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Red Pepper Seeds</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20272</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <TradePrice>24000</TradePrice>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>-15</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+      <AddedFertility>1010570</AddedFertility>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>100654</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

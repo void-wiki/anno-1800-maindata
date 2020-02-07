@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>116141</GUID>
+      <Name>colony03_3rdparty09_01_fb_05_axe</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/buildings/3rd_party/3rd_party_feedback/colony03_3rdparty09_01_fb_05/colony03_3rdparty09_01_fb_05.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController>
+      <NightBehavior>HideAll</NightBehavior>
+    </FeedbackController>
+  </Values>
+</Asset>

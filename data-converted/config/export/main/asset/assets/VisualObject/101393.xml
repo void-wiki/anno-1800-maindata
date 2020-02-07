@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101393</GUID>
+      <Name>Electric Pole Straight</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/electricity/electricity_post_01_straight.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

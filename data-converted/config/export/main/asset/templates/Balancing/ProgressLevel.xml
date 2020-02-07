@@ -1,0 +1,22 @@
+<Template>
+  <Name>ProgressLevel</Name>
+  <Properties>
+    <Standard />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <ProgressLevel />
+    <Locked />
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+      <AutoSelfUnlock>1</AutoSelfUnlock>
+      <UsedBySecondParties>1</UsedBySecondParties>
+    </TriggerSetup>
+  </Properties>
+</Template>

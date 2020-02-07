@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802700</GUID>
+      <Name>The Runaway 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's a point blank exchange,&lt;/b&gt; in which your ship manages to have first shot, disabling half the men opposite. As such, the return fire is not so crippling as it might have been— although significant repairs will be needed. As the two ships drift apart, the officials are left in helpless, comic isolation on your ship's deck. Someone gives them a good old shove overboard, forcing the other ship to go to their rescue. Your crew make their escape. "I will burden you no further," says the fugitive wearily, "please allow me to alight at the next opportunity."</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21635</LineID>
+    </Text>
+  </Values>
+</Asset>

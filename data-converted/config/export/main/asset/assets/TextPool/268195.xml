@@ -1,0 +1,50 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268195</GUID>
+      <Name>Pool_3rdParty05_TradeConfirmation</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>259834</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259837</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259840</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259844</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259845</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259847</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259862</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259863</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259864</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

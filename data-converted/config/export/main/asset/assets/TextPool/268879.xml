@@ -1,0 +1,59 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268879</GUID>
+      <Name>Pool_3rdParty04_WelcomeToPlayerWar</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258541</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258543</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258546</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258547</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258548</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258549</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258550</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258551</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258553</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258554</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258524</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258526</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

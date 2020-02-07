@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803095</GUID>
+      <Name>Ghosts in the Ice 1.1.1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your shots break the ice along with their hull.&lt;/b&gt; Shooting a cannonball through the exact thickness of the ice without going any further requires a degree of control that your artillery man doesn't have. The blast pierces through the floe with a resounding crack, but the splinters projected by the impact are both ice and wood. The stranded sailors are thankful for your help and the water cushioned most of your cannonball's power, but your crew still feels guilt at seeing their ship hobble away.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23440</LineID>
+    </Text>
+  </Values>
+</Asset>

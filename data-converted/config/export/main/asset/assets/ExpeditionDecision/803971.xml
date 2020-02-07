@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803971</GUID>
+      <Name>Polar Bear 1.1.2.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <InsertEvent>804151</InsertEvent>
+      <Conclusion>114639</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Mama bear looks angry.&lt;/b&gt; Your men had assumed that staring might make her back down, but she has taken it as a display of aggression. Her white coat is soon lank with the blood of several men. Those still standing flee. The Inuit are startled when your party &lt;b&gt;arrive at Ivujivik the next afternoon looking especially bedraggled.&lt;/b&gt; </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35252</LineID>
+    </Text>
+  </Values>
+</Asset>

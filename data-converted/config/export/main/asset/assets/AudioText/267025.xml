@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Isabel is mistaken. I won't hear these lies about father.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17232</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233458</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267025</GUID>
+      <Name>advisor01_Ch3Ph1_Additional_17</Name>
+    </Standard>
+  </Values>
+</Asset>

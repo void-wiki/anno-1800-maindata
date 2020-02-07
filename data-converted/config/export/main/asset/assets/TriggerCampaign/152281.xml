@@ -1,0 +1,83 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>152281</GUID>
+      <Name>Mausoleum3DModels_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>MovieFinished</ConditionEvent>
+            <ContextAsset>300008</ContextAsset>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetObjectVariation</Template>
+            <Values>
+              <Action />
+              <ObjectFilter>
+                <ObjectLabel>mausoleum_garden</ObjectLabel>
+                <ObjectIslands>
+                  <Item>
+                    <Island>600362</Island>
+                  </Item>
+                </ObjectIslands>
+              </ObjectFilter>
+              <ActionSetObjectVariation>
+                <NewVariation>1</NewVariation>
+              </ActionSetObjectVariation>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetObjectVisibility</Template>
+            <Values>
+              <Action />
+              <ActionSetObjectVisibility>
+                <ShowEffect>0</ShowEffect>
+              </ActionSetObjectVisibility>
+              <ObjectFilter>
+                <ObjectLabel>mausoleum_firstfuneral</ObjectLabel>
+                <ObjectIslands>
+                  <Item>
+                    <Island>600362</Island>
+                  </Item>
+                </ObjectIslands>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetObjectVisibility</Template>
+            <Values>
+              <Action />
+              <ActionSetObjectVisibility>
+                <Visibility>1</Visibility>
+                <ShowEffect>0</ShowEffect>
+              </ActionSetObjectVisibility>
+              <ObjectFilter>
+                <ObjectLabel>mausoleum_secondfuneral</ObjectLabel>
+                <ObjectIslands>
+                  <Item>
+                    <Island>600362</Island>
+                  </Item>
+                </ObjectIslands>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

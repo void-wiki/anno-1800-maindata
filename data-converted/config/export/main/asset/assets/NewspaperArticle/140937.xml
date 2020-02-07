@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140937</GUID>
+      <Name>Monument Construction Stopped Present</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11253</Headline>
+      <Subline>11254</Subline>
+      <Image>142261</Image>
+      <Category>Monument</Category>
+      <NewsPriority>
+        <StartValue>600</StartValue>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>-5</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

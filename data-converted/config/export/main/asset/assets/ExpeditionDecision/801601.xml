@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801601</GUID>
+      <Name>Sunken Depths 1.2.1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190551</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Call it luck or miracle, but the bell holds.&lt;/b&gt; One of the men lights the bell's lamp and the other dives, following the glow as it illuminates the silent scene below: ghostly statues of hunting scenes, collapsed frescoes depicting plentiful gardens, and a massive throne of fractured marble on which a sword waits, covered in fluttering kelp. When the artifact is brought back to the surface and cleaned up, it reveals a weapon of exquisite quality, embedded with unknown jewels and metals.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16127</LineID>
+    </Text>
+  </Values>
+</Asset>

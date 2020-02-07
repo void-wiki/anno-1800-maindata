@@ -1,0 +1,49 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150996</GUID>
+      <Name>CQ103_EdvardsNewspaper_HannahsTextAfter</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>LeaveUIState</ConditionEvent>
+            <ContextData>CampaignNewspaper</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>212</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>13456</NotificationText>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>264981</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

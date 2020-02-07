@@ -1,0 +1,86 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>114049</GUID>
+      <Name>Trigger Old nate goods if not enough in stock</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>112264</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>114040</Quest>
+                <QuestSession>110934</QuestSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>GoodsInStock</PlayerCounter>
+                      <Context>1010249</Context>
+                      <ComparisonOp>AtMost</ComparisonOp>
+                      <CounterAmount>10</CounterAmount>
+                      <CounterScope>Session</CounterScope>
+                      <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                      <CounterScopeContext>110934</CounterScopeContext>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>GoodsInStock</PlayerCounter>
+                      <Context>1010256</Context>
+                      <ComparisonOp>AtMost</ComparisonOp>
+                      <CounterAmount>10</CounterAmount>
+                      <CounterScope>Session</CounterScope>
+                      <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                      <CounterScopeContext>110934</CounterScopeContext>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

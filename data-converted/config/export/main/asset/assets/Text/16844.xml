@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>16844</GUID>
+      <Name>Player changed color</Name>
+      <ID>PlayerChangedColor</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Online PlayerName([NotificationContext Value(Peer) Int])] switched color to [Online PlayerColor([NotificationContext Value(Peer) Int])]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23254</LineID>
+    </Text>
+  </Values>
+</Asset>

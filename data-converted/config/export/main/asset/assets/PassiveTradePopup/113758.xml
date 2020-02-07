@@ -1,0 +1,36 @@
+<Asset>
+  <Template>PassiveTradePopup</Template>
+  <Values>
+    <Standard>
+      <GUID>113758</GUID>
+      <Name>PassiveTradePopup</Name>
+      <ID>PassiveTradePopup</ID>
+    </Standard>
+    <PassiveTradeWindow>
+      <TradeButtons>
+        <None>
+          <Icon>501769</Icon>
+          <Text>113753</Text>
+          <InfoTip>501776</InfoTip>
+        </None>
+        <BuySell>
+          <Icon>500083</Icon>
+          <Text>113754</Text>
+          <InfoTip>501773</InfoTip>
+        </BuySell>
+        <SellOnly>
+          <Icon>500085</Icon>
+          <Text>113755</Text>
+          <InfoTip>501774</InfoTip>
+        </SellOnly>
+        <BuyOnly>
+          <Icon>500084</Icon>
+          <Text>113756</Text>
+          <InfoTip>501775</InfoTip>
+        </BuyOnly>
+      </TradeButtons>
+      <LoadingHeadline>113813</LoadingHeadline>
+      <UnloadingHeadline>113814</UnloadingHeadline>
+    </PassiveTradeWindow>
+  </Values>
+</Asset>

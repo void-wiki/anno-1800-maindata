@@ -1,0 +1,48 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>153171</GUID>
+      <Name>ShipBecomesGeneralEnemy</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionShipsInRange</Template>
+        <Values>
+          <Condition />
+          <ConditionShipsInRange>
+            <Range>10</Range>
+            <TargetObject_sir>100711</TargetObject_sir>
+            <CheckSpecificTargetOwner>1</CheckSpecificTargetOwner>
+            <TargetOwnerParticipant>Third_party_08_Kahina</TargetOwnerParticipant>
+            <CheckSpecificShipOwner>1</CheckSpecificShipOwner>
+            <ShipOwnerParticipant>Neutral</ShipOwnerParticipant>
+            <UseSpecificShipGuid>1</UseSpecificShipGuid>
+            <SpecifiedShipOrPool>103063</SpecifiedShipOrPool>
+          </ConditionShipsInRange>
+          <SessionFilter />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionChangeParticipant</Template>
+            <Values>
+              <Action />
+              <ActionChangeParticipant>
+                <NewParticipantID>General_Enemy</NewParticipantID>
+              </ActionChangeParticipant>
+              <ObjectFilter>
+                <ObjectGUID>103063</ObjectGUID>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>0</AutoRegisterTrigger>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

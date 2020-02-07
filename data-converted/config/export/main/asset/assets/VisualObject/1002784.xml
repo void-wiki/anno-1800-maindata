@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>1002784</GUID>
+      <Name>watercutout_plane</Name>
+      <ID>WaterCutoutPlane</ID>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/cutout_objects/watercutout_plane.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

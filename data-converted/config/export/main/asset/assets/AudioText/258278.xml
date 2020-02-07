@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We don't all worship the ground yer walk on. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10610</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222610</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258278</GUID>
+      <Name>AT_ai05_NegFeedbackToPlyr3</Name>
+    </Standard>
+  </Values>
+</Asset>

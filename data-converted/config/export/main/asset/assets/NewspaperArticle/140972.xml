@@ -1,0 +1,30 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140972</GUID>
+      <Name>Military Ship Constructed</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11197</Headline>
+      <Subline>11198</Subline>
+      <Image>142132</Image>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <Maximum>300</Maximum>
+      </NewsPriority>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

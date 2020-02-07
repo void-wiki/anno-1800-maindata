@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>500593</GUID>
+      <Name>SatisfactionGlobalIconMap</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_sad.png</IconFilename>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-1000000</ValidFrom>
+          <Asset>500570</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-1</ValidFrom>
+          <Asset>500605</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1</ValidFrom>
+          <Asset>500569</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

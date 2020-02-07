@@ -1,0 +1,47 @@
+<Asset>
+  <BaseAssetGUID>141079</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>141220</GUID>
+      <Name>CityBuildingResidenceScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PlacementScore</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Rating>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <RatingDistance />
+            </Values>
+          </Rating>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PlacementScore</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Rating>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <RatingFragmentation />
+            </Values>
+          </Rating>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

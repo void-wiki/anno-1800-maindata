@@ -1,0 +1,40 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>6000002</GUID>
+      <Name>SpeedBoost</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Speed Boost</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>75</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+    </VehicleUpgrade>
+    <Buff>
+      <PossibleFluffTexts>
+        <Item>
+          <FluffText>15700</FluffText>
+        </Item>
+        <Item>
+          <FluffText>15701</FluffText>
+        </Item>
+      </PossibleFluffTexts>
+    </Buff>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Admiral Vicente does have a very cold sort of laugh.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11743</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229638</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260844</GUID>
+      <Name>AT_ai01_IdleMessageGossip_Silva</Name>
+    </Standard>
+  </Values>
+</Asset>

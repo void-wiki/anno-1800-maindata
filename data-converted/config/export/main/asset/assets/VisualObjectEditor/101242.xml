@@ -1,0 +1,33 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>101242</GUID>
+      <Name>rock_cracks</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/cracks/crack_decal_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/cracks/crack_decal_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/cracks/crack_decal_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/cracks/crack_decal_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/cracks/crack_decal_05.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/cracks/crack_decal_06.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

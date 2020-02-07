@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101731</GUID>
+      <Name>3rd_party_02_admin_side</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_02/3rd_party_02_admin_side.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <DefaultParticipant>Third_party_02_Blake</DefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

@@ -1,0 +1,15 @@
+<Template>
+  <Name>RemovableWaterBlocker</Name>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Blocking>
+      <BlockWater>1</BlockWater>
+      <RemoveFromWater>1</RemoveFromWater>
+      <BlockWhileInvisible>1</BlockWhileInvisible>
+    </Blocking>
+  </Properties>
+</Template>

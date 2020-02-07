@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192910</GUID>
+      <Name>Kahina Common Specialists</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192743</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192758</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193468</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

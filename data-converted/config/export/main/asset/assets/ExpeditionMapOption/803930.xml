@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803930</GUID>
+      <Name>Beechey Island East Coast</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_compass_southeast.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Circle the island along the east coast</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34895</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>804039</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>218</OptionPosX>
+      <OptionPosY>-164</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path10.png</PathSegment>
+      <PathPosX>50</PathPosX>
+      <PathPosY>-255</PathPosY>
+      <PathAlpha>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path10_alpha.png</PathAlpha>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801739</GUID>
+      <Name>The Investigation 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801728</Option>
+        </Item>
+        <Item>
+          <Option>801731</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew must trust themselves to the man of god.&lt;/b&gt; After all, he seems devoted to helping you cleanse Montoya of heresy. "No, I have not seen them," he begins, "but many of my flock have lately confessed their fears— their lost faith." He smiles blithely, and leads you from the church to &lt;b&gt;a decrepit warehouse on the dock&lt;/b&gt;. "If you too wish to rid yourself of your demons, I encourage yout to begin here." Now forgive me, for I cannot abide violence," he says, taking his leave. You can try to break the warehouse door, or you can sneak around the back.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21168</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,53 @@
+<Asset>
+  <BaseAssetGUID>100438</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>100660</GUID>
+      <Name>Rented Ship - Schooner (Trade)</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LineID>14873</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting />
+    <Collector />
+    <Attackable />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <SocketCount>0</SocketCount>
+      <SlotCount>1</SlotCount>
+      <StackLimit>80</StackLimit>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost>
+      <Costs />
+      <InfluenceCostType>CharterRoutes</InfluenceCostType>
+      <InfluenceCostPoints>1</InfluenceCostPoints>
+    </Cost>
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance>
+      <Maintenance>50</Maintenance>
+    </ShipMaintenance>
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ah, he’s here. Try to make a good first impression, eldest; any friend of father is a friend of ours.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17173</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233355</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266204</GUID>
+      <Name>advisor01_ExcavationAndDemolitionExpert_05</Name>
+    </Standard>
+  </Values>
+</Asset>

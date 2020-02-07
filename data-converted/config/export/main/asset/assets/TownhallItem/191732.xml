@@ -1,0 +1,65 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191732</GUID>
+      <Name>Small Financial Investment</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_comon.png</IconFilename>
+      <InfoDescription>19254</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Import Tax Reduction Act</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26938</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <ExclusiveGroup>EconomyAct</ExclusiveGroup>
+      <TradePrice>19000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191540</GUID>
+        </Item>
+        <Item>
+          <GUID>1010365</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>5</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+      <PublicServiceFullSatisfactionDistance>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </PublicServiceFullSatisfactionDistance>
+      <PublicServiceNoSatisfactionDistance>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </PublicServiceNoSatisfactionDistance>
+    </BuildingUpgrade>
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>116128</GUID>
+      <Name>Incident_NewArcticIllness_NoNearbyInstitution</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>116129</IconAsset>
+            <FilterType>Incidents</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>116131</NotificationText>
+            <NotificationAudioAsset>239733</NotificationAudioAsset>
+            <NotificationPriority>300</NotificationPriority>
+            <NotificationGroup>IncidentIllness</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265196</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802427</GUID>
+      <Name>Wood Keeper 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802428</Option>
+        </Item>
+        <Item>
+          <Option>802429</Option>
+        </Item>
+        <Item>
+          <Option>802430</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A delicious-looking banquet, with no-one around to eat it!&lt;/b&gt; Rising smoke encourages the crew to put to shore, but upon their arrival, they find the hamlet of conical stone huts to be deserted. Nevertheless, after months on jerky and biscuits, the sight of the fresh fish, cassava, and banana wrapped in banana leaves that has been left out has the crew salivating! "It's too good to be true!" a sage old sailor warns.</Text>
+          <Status>Exported</Status>
+          <ExportCount>15</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20878</LineID>
+    </Text>
+  </Values>
+</Asset>

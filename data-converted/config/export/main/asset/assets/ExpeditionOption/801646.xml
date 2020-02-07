@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>801646</GUID>
+      <Name>Scylla and Charybdis 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Avoid the whirlpool and maneuver to dodge the shore</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17978</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Navigation</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>801648</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>801649</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>801650</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

@@ -1,0 +1,40 @@
+<Asset>
+  <Template>DifficultySetup</Template>
+  <Values>
+    <Standard>
+      <GUID>141151</GUID>
+      <Name>Classic</Name>
+    </Standard>
+    <DifficultySetup>
+      <SetupConstructionCostRefund>PayCredits</SetupConstructionCostRefund>
+      <SetupDistributionWorkforce>Spare</SetupDistributionWorkforce>
+      <SetupInactiveCosts>On</SetupInactiveCosts>
+      <SetupIncidents>Hard</SetupIncidents>
+      <SetupLossCondition>Bankrupt</SetupLossCondition>
+      <SetupOptionalQuestTimeout>Short</SetupOptionalQuestTimeout>
+      <SetupRevenue>Spare</SetupRevenue>
+      <SetupStartCredits>Spare</SetupStartCredits>
+      <SetupStartSessionIslandDifficulty>Hard</SetupStartSessionIslandDifficulty>
+      <SetupStartShips>OneShip</SetupStartShips>
+      <SetupTraderRefillRate>Sparse</SetupTraderRefillRate>
+      <ThirdParties>
+        <Item>
+          <Profile>73</Profile>
+        </Item>
+        <Item>
+          <Profile>76</Profile>
+        </Item>
+        <Item>
+          <Profile>29</Profile>
+        </Item>
+        <Item>
+          <Profile>46</Profile>
+        </Item>
+        <Item>
+          <Profile>78</Profile>
+        </Item>
+      </ThirdParties>
+    </DifficultySetup>
+    <Text />
+  </Values>
+</Asset>

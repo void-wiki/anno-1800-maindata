@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Clearly Uncle's intention is to keep us  from ever owning a shipyard.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15499</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232227</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265050</GUID>
+      <Name>advisor_01_RepayYourDebt_05</Name>
+    </Standard>
+  </Values>
+</Asset>

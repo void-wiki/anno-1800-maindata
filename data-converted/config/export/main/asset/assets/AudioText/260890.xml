@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I've played chess with Silva; when he saw he was losing, he tried to upset the board.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11857</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229688</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260890</GUID>
+      <Name>AT_ai05_IdleMessageGossip_Silva</Name>
+    </Standard>
+  </Values>
+</Asset>

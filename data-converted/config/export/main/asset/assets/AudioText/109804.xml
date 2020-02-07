@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bleakworth has built a cage around himself. A mercy for the rest of us, he can't see beyond its walls.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30436</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204180</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109804</GUID>
+      <Name>AT_ai10_IdleMessageGossip_Bleakworth</Name>
+    </Standard>
+  </Values>
+</Asset>

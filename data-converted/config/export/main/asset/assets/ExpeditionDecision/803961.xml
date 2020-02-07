@@ -1,0 +1,34 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803961</GUID>
+      <Name>Continue south toward the inuit settlement - Add event</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>803975</InsertEvent>
+      <MapPath>
+        <ShowMap>1</ShowMap>
+        <MapLabel>804139</MapLabel>
+        <LabelPosX>436</LabelPosX>
+        <LabelPosY>256</LabelPosY>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_inuitsettlement.png</Sketch>
+        <SketchPosX>1348</SketchPosX>
+        <SketchPosY>700</SketchPosY>
+        <SketchSizeX>208</SketchSizeX>
+        <SketchSizeY>148</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The crew marks the position of the Inuit settlement of Ivujivik on the map, and sets sail.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35241</LineID>
+    </Text>
+  </Values>
+</Asset>

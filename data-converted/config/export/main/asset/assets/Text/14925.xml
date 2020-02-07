@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14925</GUID>
+      <Name>Notification CeasefireEndedInitiator</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ceasefire with [Participants ParticipantName([NotificationContext Value(TargetParticipant) Int])] has ended.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22608</LineID>
+    </Text>
+  </Values>
+</Asset>

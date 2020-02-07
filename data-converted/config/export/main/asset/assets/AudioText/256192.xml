@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'm not dealing with a scrooge!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7679</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217402</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256192</GUID>
+      <Name>AT_ai07_NpcDeclinesPlayerProposalTooOften3</Name>
+    </Standard>
+  </Values>
+</Asset>

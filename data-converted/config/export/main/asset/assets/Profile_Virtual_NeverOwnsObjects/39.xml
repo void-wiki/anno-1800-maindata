@@ -1,0 +1,41 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>39</GUID>
+      <Name>Captain</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/captain.png</IconFilename>
+      <ID>ExpeditionCaptain</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Captain</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3777</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/captain.png</ProfilePicture>
+      <Portrait>100460</Portrait>
+      <CompanyIcon>500487</CompanyIcon>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>4084</InfoCornerDescription>
+      <ParticipantID>Captain</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_07.png</NotificationBackground>
+      <DefaultColor>Color8</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Captain</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>160</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

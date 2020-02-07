@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501404</GUID>
+      <Name>NewCityState_Metropolis_Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>16981</Title>
+            <NotificationMainIconAsset>1010492</NotificationMainIconAsset>
+            <Icon01>1010327</Icon01>
+            <Icon02>1010328</Icon02>
+            <BackgroundAnimation>data\ui\video\ui_alpha\main_banner\mainbanner_city_steamships_a.bk2</BackgroundAnimation>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>16987</NotificationText>
+            <NotificationAudioAsset>201842</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

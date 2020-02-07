@@ -1,0 +1,43 @@
+<Asset>
+  <Template>Profile_3rdParty_NoTrader_NoInteraction</Template>
+  <Values>
+    <Standard>
+      <GUID>34</GUID>
+      <Name>Neutral Player</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/workforce_captain.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Neutral</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29251</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/workforce_captain.png</ProfilePicture>
+      <Portrait>102253</Portrait>
+      <CompanyIcon>500488</CompanyIcon>
+      <ParticipantID>Neutral</ParticipantID>
+      <DefaultColor>Color11</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+      <CreateModeSession>AutoCreate_Always</CreateModeSession>
+    </Profile>
+    <Object />
+    <Diplomacy>
+      <InitialRelation>
+        <Exceptions>
+          <Item>
+            <Participant>General_Enemy</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+        </Exceptions>
+      </InitialRelation>
+    </Diplomacy>
+    <ParticipantMessages />
+    <ParticipantMessageObject />
+    <Locked />
+  </Values>
+</Asset>

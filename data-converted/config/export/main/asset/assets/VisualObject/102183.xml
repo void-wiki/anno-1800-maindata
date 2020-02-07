@@ -1,0 +1,22 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102183</GUID>
+      <Name>ShotCannon01_var1</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/shots/shot_cannon_01_medium_02.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

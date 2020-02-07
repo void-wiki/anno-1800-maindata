@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jean La Fortune is a pirate whose name I too-commonly hear.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12198</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231465</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261081</GUID>
+      <Name>AT_3rdParty01_IdleMessageGossip_Fortune</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The lamp has run low, the fog will not clear.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34287</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245205</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>116279</GUID>
+      <Name>AT_Inuit_Quest_Shrine_03</Name>
+    </Standard>
+  </Values>
+</Asset>

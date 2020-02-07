@@ -1,0 +1,43 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>116908</GUID>
+      <Name>Pool_Inuit_IdleMessages</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>264667</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264670</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264671</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264675</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264676</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>327970192</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

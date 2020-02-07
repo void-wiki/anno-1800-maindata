@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800342</GUID>
+      <Name>The Minefield 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"What was that noise?" gulps the helmsman,&lt;/b&gt; but fortunately a metallic scraping is not the prelude to a mighty boom. As the ship is fitfully steered betwixt the mines, hearts palpitate, and sailors wring sweat from their jerseys. When the all clear is finally given, there is not a sailor who fails to offer up a prayer to their goddess. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5828</LineID>
+    </Text>
+  </Values>
+</Asset>

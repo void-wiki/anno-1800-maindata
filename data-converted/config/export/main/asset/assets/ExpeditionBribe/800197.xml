@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>800197</GUID>
+      <Name>The Inspector 1.2.4.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Though this appears to be a trade vessel,"&lt;/b&gt; the Inspector says, "Combat was a consideration when these sails were fashioned - unacceptable in Her Majesty's seas. Unless..." he winks grotesquely, "...we can come to some arrangement?"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5804</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>12120</TraderName>
+      <FollowupSuccessOption>800198</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>800199</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>7500</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

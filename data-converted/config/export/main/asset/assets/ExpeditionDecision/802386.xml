@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802386</GUID>
+      <Name>The Devil Calls 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202365</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192044</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Hush you insufferable fool, it is a marvellous species of talking bird!"&lt;/b&gt; exclaims the zoologist. Following a trail of excrement on the rainforest floor, the zoologist soon finds a colourful feather. "Raaawwwk!" splutters something in the trees above. The expedition crane their necks up to find the most colourful avian peering sidelong down at them. The specimen is duly captured for the benefit of the natural sciences.</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20840</LineID>
+    </Text>
+  </Values>
+</Asset>

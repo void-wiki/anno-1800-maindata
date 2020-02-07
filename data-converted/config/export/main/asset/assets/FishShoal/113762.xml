@@ -1,0 +1,39 @@
+<Asset>
+  <Template>FishShoal</Template>
+  <Values>
+    <Standard>
+      <GUID>113762</GUID>
+      <Name>FishShoal Kraken</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rich_sea.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <GridHighlightEffect>1</GridHighlightEffect>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_orca.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <FishShoal>
+      <ShoalRadius>4</ShoalRadius>
+      <MinVelocity>0.5</MinVelocity>
+      <MaxVelocity>0.7</MaxVelocity>
+      <AttackFishes>1</AttackFishes>
+      <WaterLayer>DeepWater</WaterLayer>
+    </FishShoal>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/dlc01/graphics/units/wildlife/kraken/kraken_wildlife.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>1</UnitCountMin>
+      <UnitCountMax>1</UnitCountMax>
+      <Animal_AudioLoop>202314</Animal_AudioLoop>
+    </AnimalBase>
+    <SoundEmitter />
+  </Values>
+</Asset>

@@ -1,0 +1,46 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112736</GUID>
+      <Name>Water Hyacinth</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/item_water_hyacinth.png</IconFilename>
+      <InfoDescription>112760</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Water Hyacinth</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33128</LineID>
+    </Text>
+    <Item>
+      <Allocation>BotanicGarden</Allocation>
+      <Rarity>Uncommon</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>193658</ItemSet>
+      <TradePrice>22400</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>111083</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>20</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemRegions>SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>112760</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

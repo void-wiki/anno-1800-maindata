@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192753</GUID>
+      <Name>Specialists - Military - Common</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191432</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191596</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191597</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

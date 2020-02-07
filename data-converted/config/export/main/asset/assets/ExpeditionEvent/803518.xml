@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803518</GUID>
+      <Name>Trelawney</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Cape Of Trelawney</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32670</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthernEurope</EventRegion>
+      <EventThreat>800033</EventThreat>
+      <StartDecision>803501</StartDecision>
+      <EventMusicChoice>226701</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/generic_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

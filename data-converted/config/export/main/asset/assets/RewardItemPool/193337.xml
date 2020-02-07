@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193337</GUID>
+      <Name>Mercier Legendary Machines</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193280</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193285</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193290</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192707</ItemLink>
+          <Weight>4</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

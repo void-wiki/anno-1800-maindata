@@ -1,0 +1,45 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192331</GUID>
+      <Name>Mathilde, the parrot</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_puerto_rican_amazon.png</IconFilename>
+      <InfoDescription>20011</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mathilde, the parrot</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27910</LineID>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <TradePrice>241000</TradePrice>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100812</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>12866</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

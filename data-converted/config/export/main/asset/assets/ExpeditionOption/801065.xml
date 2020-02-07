@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>801065</GUID>
+      <Name>The Arid Basin 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Trust the Botanist's expertise</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16078</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>801069</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <ItemGroup>643168696</ItemGroup>
+        </Item>
+        <Item>
+          <ItemOrProduct>190739</ItemOrProduct>
+        </Item>
+      </Requirements>
+      <IsFavorableOption>1</IsFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

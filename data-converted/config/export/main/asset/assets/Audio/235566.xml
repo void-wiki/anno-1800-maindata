@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>235566</GUID>
+      <Name>wwc_sfx_anm_herds_muskox</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>12</MaxAttenuation>
+      <StopEvent>235568</StopEvent>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>235567</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3212790576</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

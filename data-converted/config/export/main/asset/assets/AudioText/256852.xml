@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If yer be no pirate, yer be prey. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8203</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220445</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256852</GUID>
+      <Name>AT_3rd_party_03_WelcomeToPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

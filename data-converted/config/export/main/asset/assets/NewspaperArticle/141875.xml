@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141875</GUID>
+      <Name>TortillaBuilt</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>15023</Headline>
+      <Subline>15024</Subline>
+      <Image>142040</Image>
+      <Category>Progress</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>112</StartValue>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

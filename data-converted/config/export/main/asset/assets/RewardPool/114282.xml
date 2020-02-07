@@ -1,0 +1,31 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>114282</GUID>
+      <Name>Botanical Expedition Reward Pool Average</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193676</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193677</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193734</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>114258</RewardDescription>
+    </RewardPool>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+    <Text />
+  </Values>
+</Asset>

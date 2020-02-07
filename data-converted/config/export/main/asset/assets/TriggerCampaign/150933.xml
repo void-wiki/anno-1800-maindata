@@ -1,0 +1,49 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150933</GUID>
+      <Name>172A &amp; 172B Quest Starter</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>CastawaysDialogue01c</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>150621</Quest>
+                <QuestSession>180023</QuestSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>150770</Quest>
+                <QuestSession>180023</QuestSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

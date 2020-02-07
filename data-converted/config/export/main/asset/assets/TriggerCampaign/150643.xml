@@ -1,0 +1,75 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150643</GUID>
+      <Name>CAMPAIGN - intermediate moderate 2.1</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000001</Context>
+            <CounterAmount>150</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>140033</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130043</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>140050</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010567</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010519</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010522</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>100586</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130166</Asset>
+                  </Item>
+                </UnlockAssets>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>140034</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>140030</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>140051</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010523</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

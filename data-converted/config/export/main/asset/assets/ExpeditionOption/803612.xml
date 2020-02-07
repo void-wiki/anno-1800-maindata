@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803612</GUID>
+      <Name>Giant Hogweed 1.1.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Purify their skin</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33226</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803613</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <ItemOrProduct>1010203</ItemOrProduct>
+        </Item>
+      </Requirements>
+    </ExpeditionOption>
+  </Values>
+</Asset>

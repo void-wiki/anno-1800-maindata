@@ -1,0 +1,71 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191414</GUID>
+      <Name>Repairman</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_401.png</IconFilename>
+      <InfoDescription>19675</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Handicrafter</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26680</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>7200</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010284</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>15</Amount>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>19675</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade>
+      <WorkforceAmountUpgrade>
+        <Value>-20</Value>
+        <Percental>1</Percental>
+      </WorkforceAmountUpgrade>
+    </BuildingUpgrade>
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

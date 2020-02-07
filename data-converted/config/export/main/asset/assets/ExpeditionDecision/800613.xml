@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800613</GUID>
+      <Name>A Grizzly Encounter 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800615</Option>
+        </Item>
+        <Item>
+          <Option>800616</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The hunters lack guile.&lt;/b&gt; They have enough to lead the crew on a route silent as a church, but not enough to stop a bear sniffing them out. It's easy to believe from its vacant eyes, that it sees you as a potentially delicious kind of threat.  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5698</LineID>
+    </Text>
+  </Values>
+</Asset>

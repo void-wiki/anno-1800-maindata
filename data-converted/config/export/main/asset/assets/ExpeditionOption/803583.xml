@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803583</GUID>
+      <Name>The Coral Island 1.3.1.1.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Talk to the old mariner</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33057</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Diplomacy</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803584</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803585</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

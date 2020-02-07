@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ItemFilter</Template>
+  <Values>
+    <Standard>
+      <GUID>116632</GUID>
+      <Name>CraftingItemFilterArctic</Name>
+    </Standard>
+    <ItemFilter>
+      <ItemCategories>
+        <Item>
+          <CategoryAsset>18021</CategoryAsset>
+          <ItemTypes>None;RadiusBuilding;GuildHouse;TownHall;HarborOffice;Headquarter;Culture;Zoo;BotanicGarden;Museum;Ship;SailShip;SteamShip;Expedition;Warship;Tradeship;DivingVessel;Pavilion;AirShip;Lodge</ItemTypes>
+        </Item>
+        <Item>
+          <CategoryAsset>116633</CategoryAsset>
+          <ItemTypes>Lodge</ItemTypes>
+        </Item>
+        <Item>
+          <CategoryAsset>116635</CategoryAsset>
+          <ItemTypes>AirShip</ItemTypes>
+        </Item>
+        <Item>
+          <CategoryAsset>18023</CategoryAsset>
+          <ItemTypes>GuildHouse</ItemTypes>
+        </Item>
+        <Item>
+          <CategoryAsset>18025</CategoryAsset>
+          <ItemTypes>TownHall</ItemTypes>
+        </Item>
+      </ItemCategories>
+    </ItemFilter>
+  </Values>
+</Asset>

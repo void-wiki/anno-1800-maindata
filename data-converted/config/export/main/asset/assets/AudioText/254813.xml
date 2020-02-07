@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My family hold you in high esteem.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6051</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216669</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254813</GUID>
+      <Name>AT_ai02_NPCReputationAutocorrectIncrease5</Name>
+    </Standard>
+  </Values>
+</Asset>

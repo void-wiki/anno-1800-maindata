@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803521</GUID>
+      <Name>The Flowers eaters 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803522</Option>
+        </Item>
+        <Item>
+          <Option>803526</Option>
+        </Item>
+        <Item>
+          <Option>803533</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The blue flowers have put the members of your expedition into a frightening delirium.&lt;/b&gt; Among the tranquil villages of this delta, your crew had seen the water plants— baskets 'laden with flower and fruit,' everywhere, and been curious to try them. "You see it does them no harm," the Captain had said encouragingly, as they made friends of some locals upon the riverbank one sleepy afternoon. But not long into the delicious feast of flowers, your expedition party are experiencing wild hallucinations!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33145</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,35 @@
+<Template>
+  <Name>EscortObjective</Name>
+  <Properties>
+    <ConditionQuestEscort>
+      <DistMinBetweenAttacker>5</DistMinBetweenAttacker>
+      <DistMaxBetweenAttacker>10</DistMaxBetweenAttacker>
+      <StarterHeadlineText>15208</StarterHeadlineText>
+      <StarterHeadlineTextWithoutShip>14999</StarterHeadlineTextWithoutShip>
+      <TargetMapBorderText>20073</TargetMapBorderText>
+    </ConditionQuestEscort>
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12757</TextCombinedContextValue>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500336</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <ConditionPropsSessionSettings />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ExecutionPlace>
+      <ExecutionPlaceText>12754</ExecutionPlaceText>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

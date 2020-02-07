@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802203</GUID>
+      <Name>The Amazons</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Amazons</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20911</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800029</EventThreat>
+      <StartDecision>802204</StartDecision>
+      <EventMusicChoice>226698</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

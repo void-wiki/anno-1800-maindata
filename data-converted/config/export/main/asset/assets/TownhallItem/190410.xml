@@ -1,0 +1,86 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190410</GUID>
+      <Name>Dr. James Barry - The Fantastic Surgeon</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/icon_doctor_james_barry.png</IconFilename>
+      <InfoDescription>9893</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dr. Maurice Slim, Former Head of Promise Trust</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26554</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>816000</TradePrice>
+      <Flotsam>100554</Flotsam>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190777</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade>
+      <ResolverUnitCountUpgrade>
+        <Value>1</Value>
+      </ResolverUnitCountUpgrade>
+      <ResolverUnitDecreaseUpgrade>
+        <Value>70</Value>
+        <Percental>1</Percental>
+      </ResolverUnitDecreaseUpgrade>
+    </BuildingUpgrade>
+    <PopulationUpgrade />
+    <ItemAction>
+      <RepairSpeed>1</RepairSpeed>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>55</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>30</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkHypnotist</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>9893</FluffText>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade>
+      <SpecialUnitHappinessThresholdUpgrade>
+        <Value>-10</Value>
+      </SpecialUnitHappinessThresholdUpgrade>
+    </IncidentInfluencerUpgrade>
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

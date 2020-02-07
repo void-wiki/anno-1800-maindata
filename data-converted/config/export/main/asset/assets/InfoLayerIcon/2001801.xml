@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>2001801</GUID>
+      <Name>UpgradePlayerPaused</Name>
+      <ID>Infolayer_UpgradePlayerPaused</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/upgrade_halted_manually.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Construction Paused</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4262</LineID>
+    </Text>
+  </Values>
+</Asset>

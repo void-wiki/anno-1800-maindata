@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803738</GUID>
+      <Name>Atoll 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The diver develops a fever.&lt;/b&gt; The abscess does not disappear, and a nasty infection spreads up the arm causing it to become swollen. He will be of no use on the ship for the remainder of the expedition, remaining an unpleasant reminder of the officers' inhuman disregard for the welfare of their crew.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33491</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Circulation is recovering.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4012</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236231</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253609</GUID>
+      <Name>AT_Reporter_GenericPositiveFeedback5</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,43 @@
+<Asset>
+  <Template>ExpeditionEventPool</Template>
+  <Values>
+    <Standard>
+      <GUID>800375</GUID>
+      <Name>Navigation Events</Name>
+    </Standard>
+    <ExpeditionEventPool>
+      <EventPool>
+        <Item>
+          <EventOrEventPool>800336</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>800575</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>801642</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802115</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802138</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802228</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802470</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802609</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802642</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>803304</EventOrEventPool>
+        </Item>
+      </EventPool>
+    </ExpeditionEventPool>
+  </Values>
+</Asset>

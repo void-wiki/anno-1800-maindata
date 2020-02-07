@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803645</GUID>
+      <Name>Manchineel Tree 1.2.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Calm the officer and steady his breathing</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32982</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Diplomacy</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803646</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803654</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

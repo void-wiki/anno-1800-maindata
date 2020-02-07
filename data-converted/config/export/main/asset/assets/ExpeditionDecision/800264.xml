@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800264</GUID>
+      <Name>The Ghost Ship 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"We are lucky indeed,&lt;/b&gt; for malaria cannot reach us now." says the doctor confidently. This swift diagnosis confirms the crew are pleased to load up the drinking water they have been gasping for.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5537</LineID>
+    </Text>
+  </Values>
+</Asset>

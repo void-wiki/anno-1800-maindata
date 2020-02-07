@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802162</GUID>
+      <Name>Selfless Deeds 1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802164</Option>
+        </Item>
+        <Item>
+          <Option>802165</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew merges with the trees.&lt;/b&gt; Unseen, unheard, the sailors bury themselves in the forest and observe their future targets. An opportunity arises when a group of bandits leave their posts to bathe in the river: splashing and talking, they do not hear your men approach.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21019</LineID>
+    </Text>
+  </Values>
+</Asset>

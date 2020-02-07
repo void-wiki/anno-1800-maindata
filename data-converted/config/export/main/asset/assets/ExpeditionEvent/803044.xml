@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803044</GUID>
+      <Name>Fear of the Light</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Afraid Of The Light</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26298</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800031</EventThreat>
+      <StartDecision>803045</StartDecision>
+      <EventMusicChoice>226702</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/disease_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202341</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

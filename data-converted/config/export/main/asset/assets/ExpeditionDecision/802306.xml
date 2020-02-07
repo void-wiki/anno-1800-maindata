@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802306</GUID>
+      <Name>Release the Kraken 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;THUNK! An excellent shot!&lt;/b&gt; The harpoon lodges into the creature's ample-sized brain. It takes no little effort to haul the reddish mantle and decimette of long pulpous limbs aboard. No-one is going to believe this trophy when they see it, or that something of this size swam at such threatening velocity! Why its eyes alone are half a metre wide!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20938</LineID>
+    </Text>
+  </Values>
+</Asset>

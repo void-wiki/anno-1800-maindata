@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>73</PortraitName>
+      <PortraitColor>-12491631</PortraitColor>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>100669</GUID>
+      <Name>3rd_party_03 (Anne Harlow)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_03.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/3rd_party_03/3rd_party_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,80 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190880</GUID>
+      <Name>Drill Press</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_drill_2.png</IconFilename>
+      <InfoDescription>15876</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mechanical Drill</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20237</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>87500</TradePrice>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>35</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191592</GUID>
+        </Item>
+        <Item>
+          <GUID>191593</GUID>
+        </Item>
+        <Item>
+          <GUID>1010560</GUID>
+        </Item>
+        <Item>
+          <GUID>1010309</GUID>
+        </Item>
+        <Item>
+          <GUID>191042</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>15876</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+    </BuildingUpgrade>
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

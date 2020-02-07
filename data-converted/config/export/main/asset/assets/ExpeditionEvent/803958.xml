@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803958</GUID>
+      <Name>Ice storm </Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A Blizzard At Baffling Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34379</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic</EventRegion>
+      <EventThreat>800032</EventThreat>
+      <StartDecision>803895</StartDecision>
+      <EventVideo>data/dlc03/ui/video/dlc03_snow_storm_polar.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

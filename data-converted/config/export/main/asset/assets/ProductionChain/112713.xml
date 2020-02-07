@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>112713</GUID>
+      <Name>arctic oil lamps chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_oil_lamps.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>112679</Building>
+      <Tier1>
+        <Item>
+          <Building>112666</Building>
+        </Item>
+        <Item>
+          <Building>1010282</Building>
+          <Tier2>
+            <Item>
+              <Building>1010307</Building>
+            </Item>
+            <Item>
+              <Building>1010308</Building>
+            </Item>
+          </Tier2>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Oil Lamps</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35200</LineID>
+    </Text>
+  </Values>
+</Asset>

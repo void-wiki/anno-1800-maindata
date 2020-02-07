@@ -1,0 +1,35 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150839</GUID>
+      <Name>CAMPAIGN - OpenQuestTracker</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionActiveSession</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveSession>
+            <ConditionActiveSessionUseActiveSession>1</ConditionActiveSessionUseActiveSession>
+          </ConditionActiveSession>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionMenuVisibility</Template>
+            <Values>
+              <Action />
+              <ActionMenuVisibility>
+                <SetMenuVisible>1</SetMenuVisible>
+                <MenuType>QuestTracker</MenuType>
+              </ActionMenuVisibility>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

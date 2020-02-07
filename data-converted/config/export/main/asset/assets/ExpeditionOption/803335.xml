@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803335</GUID>
+      <Name>Good Whale Hunting 1.5.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fire canons in the water to scare the whales away.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26346</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Might</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803336</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803337</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

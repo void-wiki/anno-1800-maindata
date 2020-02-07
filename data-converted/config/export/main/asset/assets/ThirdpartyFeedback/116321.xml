@@ -1,0 +1,21 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>116321</GUID>
+      <Name>colony03_3rdparty09_01_fb_09_sled</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/buildings/3rd_party/3rd_party_feedback/colony03_3rdparty09_01_fb_09/colony03_3rdparty09_01_fb_09.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My bannermen tread new soil, benevolent one.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10485</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223471</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258250</GUID>
+      <Name>AT_ai02_ExpansionNpcAcquiresIslandFromPlyr2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,17 @@
+<Template>
+  <Name>TextPool</Name>
+  <Properties>
+    <Standard />
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool />
+  </Properties>
+</Template>

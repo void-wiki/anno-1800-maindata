@@ -1,0 +1,59 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>90</GUID>
+      <Name>Visitor</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/vistor.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Visitor</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3778</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/vistor.png</ProfilePicture>
+      <Portrait>100675</Portrait>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>4085</InfoCornerDescription>
+      <ParticipantID>Visitor</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_03.png</NotificationBackground>
+      <DefaultColor>Color8</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <MenuRoadMissing>
+          <Reactions>
+            <Item>
+              <RequiredContextMenu>VisitorHarbor</RequiredContextMenu>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <Subtitle>260254</Subtitle>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </MenuRoadMissing>
+      </MessageTriggers>
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Visitor</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>161</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

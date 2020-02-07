@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803580</GUID>
+      <Name>The Coral Island 1.2.3.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's nothing to eat, anywhere.&lt;/b&gt; Repairs to the hull seem inconsequential when people are dropping like flies. But if hunger is the devil, those fallen bodies are the deal: best eaten while they're still fresh. From this moment on, things deteriorate rapidly. The island turns into a battlefield— hoarded resources become motives for murder and betrayal. Only a chance passing ship, seeing smoke signals, comes to the rescue. They are kind enough to repair the ship and wish the encrimsoned dregs of your expedition better fortune in their future endeavours.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33054</LineID>
+    </Text>
+  </Values>
+</Asset>

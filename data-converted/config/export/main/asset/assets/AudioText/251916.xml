@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I've turned into a monster!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2973</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211179</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251916</GUID>
+      <Name>AT_ai01_NpcAttacksPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

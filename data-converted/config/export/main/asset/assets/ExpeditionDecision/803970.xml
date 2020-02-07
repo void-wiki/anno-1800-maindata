@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803970</GUID>
+      <Name>Polar Bear 1.1.2.2.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>804151</InsertEvent>
+      <Conclusion>114639</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men know they have to stand tall&lt;/b&gt; to face down a polar bear, and waving their coats above their heads like flags, they succeed in driving the bear away. Full of adrenaline, &lt;b&gt;your scout party reach the Inuit camp.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35251</LineID>
+    </Text>
+  </Values>
+</Asset>

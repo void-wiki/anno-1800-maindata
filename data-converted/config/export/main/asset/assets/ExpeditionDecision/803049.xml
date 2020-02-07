@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803049</GUID>
+      <Name>Fear of the Light 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803059</Option>
+        </Item>
+        <Item>
+          <Option>803060</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your doctor is at a loss.&lt;/b&gt; Fear of the light sounds like an ailment belonging to the realm of the Lord, and the man of science is too blinded by his fright to notice the change in his patient. In a fit of unforeseen anger, the sick man leaps on his healer and attempts to claw his eyes out before being restrained by the surrounding sailors. What madness is this?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26308</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,84 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151509</GUID>
+      <Name>CQ430_SecondFuneral_Newspaper_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>MovieFinished</ConditionEvent>
+            <ContextAsset>300008</ContextAsset>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionForceNewspaper</Template>
+                            <Values>
+                              <Action />
+                              <ActionForceNewspaper>
+                                <Articles>
+                                  <Item>
+                                    <Article>141987</Article>
+                                  </Item>
+                                </Articles>
+                                <OpenNewspaperUI>1</OpenNewspaperUI>
+                                <OpenNewspaperType>SpecialEdition</OpenNewspaperType>
+                                <PamsyWelcomeRequiredAsset>142383</PamsyWelcomeRequiredAsset>
+                              </ActionForceNewspaper>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionEvent</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionEvent>
+                      <ConditionEvent>NotificationRemoved</ConditionEvent>
+                      <ContextData>Noti_TheEndBanner</ContextData>
+                    </ConditionEvent>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

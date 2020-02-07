@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500666</GUID>
+      <Name>NotificationSavegameTransferError</Name>
+      <ID>NotificationSavegameTransferError</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501362</IconAsset>
+            <FilterType>System</FilterType>
+            <IsWarning>1</IsWarning>
+            <Infotip>0</Infotip>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>11316</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>-1</NotificationPriority>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265142</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

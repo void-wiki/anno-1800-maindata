@@ -1,0 +1,41 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268723</GUID>
+      <Name>Pool_PyroGrandmaster_ClickNPCBuilding</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>267835</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267849</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267852</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267853</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267851</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267859</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

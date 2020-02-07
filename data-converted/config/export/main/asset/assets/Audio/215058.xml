@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>215058</GUID>
+      <Name>Play_AI_DRYARTIS_IFV_CMJ_00001_01ARTIS_4567</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2038</DurationMinimum>
+          <DurationMaximum>2038</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2605</DurationMinimum>
+          <DurationMaximum>2605</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2074</DurationMinimum>
+          <DurationMaximum>2074</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2289</DurationMinimum>
+          <DurationMaximum>2289</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1820046382</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

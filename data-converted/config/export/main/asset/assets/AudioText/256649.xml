@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You've stolen a march on our enemies.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8717</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221639</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256649</GUID>
+      <Name>AT_ai09_CivLevelPlayerLowerThanNPC2</Name>
+    </Standard>
+  </Values>
+</Asset>

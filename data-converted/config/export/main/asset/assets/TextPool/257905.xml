@@ -1,0 +1,32 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>257905</GUID>
+      <Name>Pool_ai03_SettlePermissionDeclined</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextGroups>
+        <Item>
+          <Group>1902507567</Group>
+        </Item>
+        <Item>
+          <Group>-1189559826</Group>
+        </Item>
+        <Item>
+          <Group>1440115046</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

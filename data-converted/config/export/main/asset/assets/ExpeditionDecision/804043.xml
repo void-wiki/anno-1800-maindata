@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804043</GUID>
+      <Name>Cracking Ice 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804044</Option>
+        </Item>
+        <Item>
+          <Option>804053</Option>
+        </Item>
+        <Item>
+          <Option>804056</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>As you near the coast, a large human construction delineates itself, &lt;b&gt;"Most probably an abandoned trading post."&lt;/b&gt; It leans hard into the wind, its once-red boards scoured pale. "What of getting there, sir?" says the ship's boy. He has noticed that &lt;b&gt;an ice sheet lies between your ship and the trading post.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36132</LineID>
+    </Text>
+  </Values>
+</Asset>

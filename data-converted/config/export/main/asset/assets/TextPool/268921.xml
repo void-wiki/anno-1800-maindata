@@ -1,0 +1,34 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268921</GUID>
+      <Name>Pool_resident_tier2_Content</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>257315</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>-1754503582</Group>
+        </Item>
+        <Item>
+          <Group>1821345150</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700089</GUID>
+      <Name>Monitor_MovePool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268500</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268501</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268502</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268503</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268504</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

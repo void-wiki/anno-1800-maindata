@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Friends of mine should strive to be exceptional.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6297</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216389</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254954</GUID>
+      <Name>AT_ai06_NPCReputationAutocorrectDecrease8</Name>
+    </Standard>
+  </Values>
+</Asset>

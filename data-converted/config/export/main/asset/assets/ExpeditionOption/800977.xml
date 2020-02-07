@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800977</GUID>
+      <Name>Baptism of Fire 1.4</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cut through the jungle instead</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13146</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Navigation</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800990</Decision>
+        </Item>
+        <Item>
+          <Decision>800991</Decision>
+        </Item>
+        <Item>
+          <Decision>800992</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

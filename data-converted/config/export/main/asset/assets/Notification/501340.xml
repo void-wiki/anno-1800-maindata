@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501340</GUID>
+      <Name>ShipConstructionFinished</Name>
+      <ID>NotificationShipConstructionFinished</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501372</IconAsset>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>16922</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265366</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

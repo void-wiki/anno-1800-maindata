@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501371</GUID>
+      <Name>ShipLeftSession</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501372</IconAsset>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>16574</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265368</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

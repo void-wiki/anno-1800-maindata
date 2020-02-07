@@ -1,0 +1,28 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>101645</GUID>
+      <Name>CQI_Flotsam_EdvardsFlotsam</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_flotsam.png</IconFilename>
+      <InfoDescription>13354</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Flotsam</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25868</LineID>
+    </Text>
+    <Item>
+      <Flotsam>101493</Flotsam>
+      <TransferBlocked>1</TransferBlocked>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

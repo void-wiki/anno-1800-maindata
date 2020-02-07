@@ -1,0 +1,38 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501576</GUID>
+      <Name>moderate city statues (category)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/cultural_props_1x1_10.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>101516</Building>
+        </Item>
+        <Item>
+          <Building>116619</Building>
+        </Item>
+        <Item>
+          <Building>116621</Building>
+        </Item>
+        <Item>
+          <Building>116620</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>City Statues</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29579</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>205463</GUID>
+      <Name>MS3_env_moo_coast_sand</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>244770</Choice>
+        </Item>
+        <Item>
+          <Choice>244771</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>563082746</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

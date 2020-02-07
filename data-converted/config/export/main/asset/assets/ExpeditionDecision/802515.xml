@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802515</GUID>
+      <Name>The Storm 1.3.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A power stronger than the elements themselves.&lt;/b&gt; Through skillful manipulation of the engines, the crew pushes the machinery to its utmost limit, the screw propeller moving beyond what human sight can perceive and propelling the steam ship with remarkable speed. The vessel breaks through the waves and away from the storm in a thrilling display of man-made might.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21797</LineID>
+    </Text>
+  </Values>
+</Asset>

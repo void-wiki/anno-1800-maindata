@@ -1,0 +1,29 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193332</GUID>
+      <Name>Mercier Legendary Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193270</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193275</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193265</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192641</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192661</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

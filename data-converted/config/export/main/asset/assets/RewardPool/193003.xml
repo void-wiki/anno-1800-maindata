@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193003</GUID>
+      <Name>Archetype (Artisan) Resident Quest Pastry Cook Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190629</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190631</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

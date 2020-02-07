@@ -1,0 +1,67 @@
+<Asset>
+  <BaseAssetGUID>29</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>199</GUID>
+      <Name>Third_party_05b (Isabel Sarmento Prosperity Campaign)</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17954</LineID>
+    </Text>
+    <Profile>
+      <ParticipantID>Third_party_05b_Sarmento_Prosperity_Campaign</ParticipantID>
+      <CreateModeMeta>AutoCreate_OnlyCampaign</CreateModeMeta>
+      <CreateModeSession>AutoCreate_OnlyCampaign</CreateModeSession>
+      <IsChildProfile>1</IsChildProfile>
+      <IsChildOf>Third_party_05_Sarmento</IsChildOf>
+    </Profile>
+    <Diplomacy>
+      <IsDiscoveredOnStart>1</IsDiscoveredOnStart>
+    </Diplomacy>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Third_party_05b_Sarmento_Prosperity_Campaign</DefaultParticipant>
+    </Object>
+    <Trader>
+      <ShipTrader>0</ShipTrader>
+      <Progression>
+        <EarlyGame>
+          <ShipsForSale />
+          <ShipsForSaleAmount>0</ShipsForSaleAmount>
+        </EarlyGame>
+        <EarlyMidGame>
+          <ShipsForSale />
+          <ShipsForSaleAmount>0</ShipsForSaleAmount>
+        </EarlyMidGame>
+        <MidGame>
+          <ShipsForSale />
+          <ShipsForSaleAmount>0</ShipsForSaleAmount>
+        </MidGame>
+        <LateMidGame>
+          <ShipsForSale />
+          <ShipsForSaleAmount>0</ShipsForSaleAmount>
+        </LateMidGame>
+        <LateGame>
+          <ShipsForSale />
+          <ShipsForSaleAmount>0</ShipsForSaleAmount>
+        </LateGame>
+        <EndGame>
+          <ShipsForSale />
+          <ShipsForSaleAmount>0</ShipsForSaleAmount>
+        </EndGame>
+      </Progression>
+      <ProvidesShipReplacements>None</ProvidesShipReplacements>
+    </Trader>
+    <ThirdParty />
+    <ParticipantMessageObject>
+      <ParticipantMessages>223</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

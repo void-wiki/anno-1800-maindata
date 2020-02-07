@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>140474</GUID>
+      <Name>Shipyard</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_small_10.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_medium_10.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_big_10.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets/newspaper_article_bg/article_big_10.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

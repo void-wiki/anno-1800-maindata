@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>In a manner of speaking, your Majesty, in a manner of speaking!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16475</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234425</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>2</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266993</GUID>
+      <Name>AT_3rdParty02_movie08_01</Name>
+    </Standard>
+  </Values>
+</Asset>

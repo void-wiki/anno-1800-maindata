@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803748</GUID>
+      <Name>Permit A38 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803749</Option>
+        </Item>
+        <Item>
+          <Option>803761</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The diplomat is already bothered by what seems to be a boring administrative procedure. He opens the door without knocking and startled a man who was swinging on his chair, clearly not working. "Who gave you permission to come to my office?! I am not a guide, take care of your own problems! And close the door, impertinent!" </Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

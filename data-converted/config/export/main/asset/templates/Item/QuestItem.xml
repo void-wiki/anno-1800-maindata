@@ -1,0 +1,17 @@
+<Template>
+  <Name>QuestItem</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>None</Allocation>
+      <Rarity>Quest</Rarity>
+      <ItemType>None</ItemType>
+    </Item>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <ItemAction />
+    <CultureUpgrade />
+  </Properties>
+</Template>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The locals say that trading ship over there belongs to a stranger. Maybe that's the supplier!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17362</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232620</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266228</GUID>
+      <Name>advisor02_SamuelsMurderer_03</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NeedsSatisfactionNews</Template>
+  <Values>
+    <Standard>
+      <GUID>141836</GUID>
+      <Name>ClubHouseSupplyVeryBad</Name>
+    </Standard>
+    <NeedsSatisfactionNews>
+      <Need>1010355</Need>
+      <TrackingDuration>120000</TrackingDuration>
+      <MaximumNeedSatisfaction>0.5</MaximumNeedSatisfaction>
+      <MaximumNeedSatisfactionAtRelease>0.5</MaximumNeedSatisfactionAtRelease>
+      <MinResidencesCount>400</MinResidencesCount>
+      <SatisfactionArticle>141856</SatisfactionArticle>
+    </NeedsSatisfactionNews>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800949</GUID>
+      <Name>The Icy Blizzard 1.2.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Descend and help the officer</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16052</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Medicine</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800952</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>800953</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

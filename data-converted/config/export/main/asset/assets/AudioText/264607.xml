@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We must make waves, channel my John's spirit of adventure.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13293</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230208</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264607</GUID>
+      <Name>AT_LadyFaithful_Phase1_ExpeditionEvent_ReminderAudio2</Name>
+    </Standard>
+  </Values>
+</Asset>

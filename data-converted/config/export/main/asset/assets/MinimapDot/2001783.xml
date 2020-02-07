@@ -1,0 +1,16 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>2001783</GUID>
+      <Name>MainQuest</Name>
+      <IconFilename>data/ui/2kimages/main/assets/icon_minimap_quest_star_02.png</IconFilename>
+      <ID>MainQuestToken</ID>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>OrangeHighlight</Color>
+      <Tooltip>2734</Tooltip>
+      <Filter>Quest</Filter>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

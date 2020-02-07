@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803304</GUID>
+      <Name>Good Whale Hunting</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Good Whale Hunting</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26323</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800033</EventThreat>
+      <StartDecision>803305</StartDecision>
+      <EventMusicChoice>226701</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/storm_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202355</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

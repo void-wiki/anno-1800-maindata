@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804038</GUID>
+      <Name>West coast - Add event</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>804016</InsertEvent>
+      <MapPath>
+        <ShowMap>1</ShowMap>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path13.png</PathSegment>
+        <PathPosX>-126</PathPosX>
+        <PathPosY>-159</PathPosY>
+        <ProgressReview>117453</ProgressReview>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The ship is now headed for the West coast of Labrador Island. The crew hope to find Sir John and his men soon, and they pray no more obstacles will come their way.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34896</LineID>
+    </Text>
+  </Values>
+</Asset>

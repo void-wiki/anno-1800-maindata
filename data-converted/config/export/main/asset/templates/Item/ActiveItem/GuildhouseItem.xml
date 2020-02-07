@@ -1,0 +1,31 @@
+<Template>
+  <Name>GuildhouseItem</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>GuildHouse</Allocation>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect />
+    <ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Properties>
+</Template>

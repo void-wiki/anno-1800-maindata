@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802447</GUID>
+      <Name>Wood Keeper 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802434</Option>
+        </Item>
+        <Item>
+          <Option>802436</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The statue won't budge.&lt;/b&gt; As many men as hands can fit around the slab attempt to resurrect it, but to no avail. "And what's it got to do with whether we eat that food or not?" pipes up one of your scrawny soldiers. Spiritual nourishment seems to be the last thing on the minds of your crew...</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20893</LineID>
+    </Text>
+  </Values>
+</Asset>

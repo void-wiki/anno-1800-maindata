@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803769</GUID>
+      <Name>Permit A38 1.1.2.2.2.1.1.2.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wait for the officer to come back</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803770</Decision>
+        </Item>
+      </FollowupDecisions>
+      <IsUnFavorableOption>1</IsUnFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

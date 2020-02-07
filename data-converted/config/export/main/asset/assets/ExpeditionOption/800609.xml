@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800609</GUID>
+      <Name>A Grizzly Encounter 1.3</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Attack the bear blocking the way</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5713</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Melee</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800629</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>800630</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>800631</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

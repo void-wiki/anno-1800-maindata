@@ -1,0 +1,30 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>102488</GUID>
+      <Name>CQI Ticket2Europe</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_settlement_rights_1.png</IconFilename>
+      <InfoDescription>13507</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ticket to "The Old World"</Text>
+          <LastFinalText>I</LastFinalText>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25862</LineID>
+    </Text>
+    <Item>
+      <TradePrice>5000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+      <TransferBlocked>1</TransferBlocked>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

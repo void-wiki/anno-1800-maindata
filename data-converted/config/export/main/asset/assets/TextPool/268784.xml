@@ -1,0 +1,34 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268784</GUID>
+      <Name>Pool_3rdParty03_PosDiplomacyWithFriend</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>256358</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>-1798950471</Group>
+        </Item>
+        <Item>
+          <Group>1121795369</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

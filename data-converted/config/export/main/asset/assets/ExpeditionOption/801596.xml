@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>801596</GUID>
+      <Name>Sunken Depths 1.2.1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pick up the coin and resurface</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16132</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>801604</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

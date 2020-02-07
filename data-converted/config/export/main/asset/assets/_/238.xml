@@ -1,0 +1,113 @@
+<Asset>
+  <BaseAssetGUID>126</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>238</GUID>
+      <Name>PaMSy_3rdParty_LadyJane</Name>
+    </Standard>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <ClickNPCShip>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <Subtitle>117097</Subtitle>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickNPCShip>
+        <MenuIdleMessage>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <Subtitle>117097</Subtitle>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </MenuIdleMessage>
+        <QuestReminder>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <Subtitle>117359</Subtitle>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestReminder>
+        <QuestFailed>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <SubtitleGroup>1994800285</SubtitleGroup>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestFailed>
+      </MessageTriggers>
+    </ParticipantMessages>
+  </Values>
+</Asset>

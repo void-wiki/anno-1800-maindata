@@ -1,0 +1,21 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>102521</GUID>
+      <Name>3rd_party_transport_l_5x4_01</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/3rd_party_transport_l_5x4_01/3rd_party_transport_l_5x4_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController />
+  </Values>
+</Asset>

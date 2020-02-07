@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>246906</GUID>
+      <Name>wwe_voc_mur_glacier</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1873</DurationMinimum>
+          <DurationMaximum>23282</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>767198502</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

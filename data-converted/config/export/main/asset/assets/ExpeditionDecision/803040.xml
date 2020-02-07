@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803040</GUID>
+      <Name>Fortress Break 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You make a mess of the fortress and the poor people inside.&lt;/b&gt; The guns are loosed at the cliff, but your artillerymen have not taken enough care in their calculations. The fortress walls burst easily enough, but the occupants of the cells are either killed in the blast or plunge to their deaths on the rocks below. As your expedition makes a hasty exit, the crew try to come to terms with what they have done.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22100</LineID>
+    </Text>
+  </Values>
+</Asset>

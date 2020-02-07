@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501548</GUID>
+      <Name>Bailout</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <CharacterNotification>
+            <Profile>45</Profile>
+          </CharacterNotification>
+          <BaseNotification>
+            <NotificationText>9590</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>700</NotificationPriority>
+            <NotificationMinDisplayTime>10000</NotificationMinDisplayTime>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>268198</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

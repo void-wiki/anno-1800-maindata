@@ -1,0 +1,36 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400063</GUID>
+      <Name>Action_Achievement_Special Operations</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Campaign</AchievementCategory>
+      <AchievementTitle>15328</AchievementTitle>
+      <AchievementDescription>15329</AchievementDescription>
+      <AchievementUPlayID>7</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Common</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>QuestSolved</PlayerCounter>
+            <Context>151438</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>102</UplayActionID>
+      <UplayXP>300</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

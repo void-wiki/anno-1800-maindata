@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>COOP_PING</ActionID>
+      <PositionCheck>Always</PositionCheck>
+      <Matches>
+        <TargetMatch1>
+          <Flags>CheckProperty</Flags>
+          <Property>Standard</Property>
+          <GameObjectState>GameLogic;Blueprint;Visible</GameObjectState>
+        </TargetMatch1>
+      </Matches>
+      <MouseCursorTarget>501927</MouseCursorTarget>
+      <MouseCursorDisable>501926</MouseCursorDisable>
+      <MouseCursorMode>501927</MouseCursorMode>
+      <MouseCursorPosition>501927</MouseCursorPosition>
+      <MouseCursorPositionDisable>501926</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>501863</GUID>
+      <Name>CoopPing</Name>
+      <ID>TargetCoopPing</ID>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

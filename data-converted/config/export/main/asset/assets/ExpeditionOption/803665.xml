@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803665</GUID>
+      <Name>Devil snare 1.1.1.1.2.2.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Let her go, it's not worth the trouble</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34359</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803666</Decision>
+        </Item>
+      </FollowupDecisions>
+      <IsUnFavorableOption>1</IsUnFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

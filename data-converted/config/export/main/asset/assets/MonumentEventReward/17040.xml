@@ -1,0 +1,37 @@
+<Asset>
+  <Template>MonumentEventReward</Template>
+  <Values>
+    <Standard>
+      <GUID>17040</GUID>
+      <Name>2 Basic Equipment</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_2.png</IconFilename>
+      <InfoDescription>17822</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Basic Equipment</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27206</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191284</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>191285</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>191286</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802300</GUID>
+      <Name>Release the Kraken 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802301</Option>
+        </Item>
+        <Item>
+          <Option>802305</Option>
+        </Item>
+        <Item>
+          <Option>802315</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Could it be the kraken?!&lt;/b&gt; Or what are those "tentacles wide as a barrel and long as bowsprits" your lookout claims to have spotted protruding from the treacle-black swell? Creature of legend or no, a shadow below the surface is hurtling towards your ship at full speed!</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20934</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802715</GUID>
+      <Name>Bottles Found in the Sea 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802718</Option>
+        </Item>
+        <Item>
+          <Option>802719</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The stomach of the shark reveals where it's been.&lt;/b&gt; Glittering corals, exotic scales, characteristic fish bones. Your doctors finish their inspection of the shark's entrails and confirm the destination: to the Southern coral barriers! When the ship reaches the correct latitude, several islands litter the horizon. The crew hesitates to come closer. The water is shallower than usual and filled with sharp coral reefs.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21695</LineID>
+    </Text>
+  </Values>
+</Asset>

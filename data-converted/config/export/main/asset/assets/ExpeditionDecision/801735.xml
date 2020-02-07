@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801735</GUID>
+      <Name>The Investigation 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <InsertEvent>801808</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your scouts pick up the scent immediately.&lt;/b&gt; "We recognised them as the fugitives from the boat we pursued, and followed them through Montoya to its outskirts. Up in the valley there is a sizeable house on a large estate. They must have taken the contract there." You set off at once.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21164</LineID>
+    </Text>
+  </Values>
+</Asset>

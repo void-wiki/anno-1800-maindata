@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191080</GUID>
+      <Name>pelican</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_pelican.png</IconFilename>
+      <InfoDescription>13703</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pelican</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26457</LineID>
+    </Text>
+    <Item>
+      <Rarity>Rare</Rarity>
+      <ItemSet>191118</ItemSet>
+      <TradePrice>67000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101985</ChangeModule>
+      <ForcedFeedbackVariation>1002983</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203414</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>13703</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

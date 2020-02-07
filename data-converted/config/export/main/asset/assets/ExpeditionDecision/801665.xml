@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801665</GUID>
+      <Name>The Chasing 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801666</Option>
+        </Item>
+        <Item>
+          <Option>801698</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The Pyrphorians are escaping with the contract!&lt;/b&gt; The smoke of battle has screened a small craft, that is now racing clear of the skirmish! The entire assault must have been a diversion to sneak them in and out with the papers! You and Hannah may never know the truth unless you get them back. They have quite a headstart, but you might catch them in a chase. Alternatively, as few harbours nearby will grant them sanctuary, you can try to anticipate their likely heading.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21098</LineID>
+    </Text>
+  </Values>
+</Asset>

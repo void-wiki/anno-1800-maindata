@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802105</GUID>
+      <Name>Sea Still 1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The breeches buoy shears off into the water&lt;/b&gt; as soon as the first sailor climbs onto the contraption which dangles perilously from the rope between the two ships. Desperate for rescue, the crew of the stranded boat swim for it. After thrashing the distance, the mariners eventually slop aboard, their bodies jaundiced with algae. "Five years we've been stuck here," one stammers angrily. They are going to be quite a burden on your expedition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>11</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21489</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>235850</GUID>
+      <Name>wwe_sfx_com_mid_multi_impact_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>5724</DurationMinimum>
+          <DurationMaximum>10888</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>100</MaxAttenuation>
+      <OneShotCluster>1</OneShotCluster>
+      <OneShotClusterSuppressLength>5000</OneShotClusterSuppressLength>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2906773341</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

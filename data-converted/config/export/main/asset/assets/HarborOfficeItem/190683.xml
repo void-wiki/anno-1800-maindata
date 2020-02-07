@@ -1,0 +1,81 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190683</GUID>
+      <Name>Jaafan the Cruise Impresario</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_travelagent_712.png</IconFilename>
+      <InfoDescription>12565</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jaafan the Cruise Impresario</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26533</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>375000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191563</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>40</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>12565</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+    </BuildingUpgrade>
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade>
+      <SpawnProbabilityFactor>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </SpawnProbabilityFactor>
+    </VisitorHarborUpgrade>
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade />
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

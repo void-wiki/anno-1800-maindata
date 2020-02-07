@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>801025</GUID>
+      <Name>Dockyard Dupe</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dockyard Dupe</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13104</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800004</EventThreat>
+      <StartDecision>801026</StartDecision>
+      <EventMusicChoice>226699</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/generic_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>2001088</GUID>
+      <Name>NoTrafficConnection</Name>
+      <ID>Infolayer_NoTrafficConnection</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/no_street_connection_a7.cfg</Config>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>No Connection To Harbour</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4261</LineID>
+    </Text>
+  </Values>
+</Asset>

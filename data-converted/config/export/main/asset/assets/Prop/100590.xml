@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100590</GUID>
+      <Name>Tree City Deco</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/building_deco_plants/building_deco_tree_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/building_deco_plants/building_deco_tree_02.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

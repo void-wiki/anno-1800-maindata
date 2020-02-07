@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>142710</GUID>
+      <Name>EquipModule</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Big>
+          <Image>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_equip_module.png</Image>
+        </Big>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_equip_module.png</Image>
+        </Medium>
+        <Small>
+          <Image>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_equip_module.png</Image>
+        </Small>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_equip_module.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

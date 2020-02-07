@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800110</GUID>
+      <Name>Polar Event 1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>drink [ExpeditionEventRequirementAmount] [AssetData([ExpeditionEventRequirement]) Text]</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800035</Decision>
+          <ThresholdValue>50</ThresholdValue>
+        </Item>
+        <Item>
+          <Decision>800058</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <ItemOrProduct>1010216</ItemOrProduct>
+          <Amount>10</Amount>
+        </Item>
+      </Requirements>
+      <ConsumeRequirement>1</ConsumeRequirement>
+    </ExpeditionOption>
+  </Values>
+</Asset>

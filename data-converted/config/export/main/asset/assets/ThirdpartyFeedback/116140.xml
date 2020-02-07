@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>116140</GUID>
+      <Name>colony03_3rdparty09_01_fb_04_shovel</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/buildings/3rd_party/3rd_party_feedback/colony03_3rdparty09_01_fb_04/colony03_3rdparty09_01_fb_04.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController>
+      <NightBehavior>HideAll</NightBehavior>
+    </FeedbackController>
+  </Values>
+</Asset>

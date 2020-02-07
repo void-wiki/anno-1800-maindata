@@ -1,0 +1,51 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193737</GUID>
+      <Name>Permits - Botanical Ornaments - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>114867</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114869</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114871</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114873</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114875</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114877</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114879</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114881</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114883</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>114885</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>114887</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

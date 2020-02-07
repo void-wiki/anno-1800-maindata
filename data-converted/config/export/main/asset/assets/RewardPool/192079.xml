@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192079</GUID>
+      <Name>Jolly Roger Reward Pool Goods</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemGroup>2125594694</ItemGroup>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>40</MaxAmount>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

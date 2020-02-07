@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionTrade</Template>
+  <Values>
+    <Standard>
+      <GUID>802594</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.1.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You can choose to buy a mount</Text>
+          <Status>Edit</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21666</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <AvailableItems>
+        <Item>
+          <Item>191063</Item>
+          <Amount>1</Amount>
+        </Item>
+      </AvailableItems>
+      <TraderName>17221</TraderName>
+      <FollowupSuccessOption>802595</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802596</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <TradeValues>
+          <Item>
+            <Item>191063</Item>
+            <TradeValue>1500</TradeValue>
+          </Item>
+        </TradeValues>
+        <SuccessTradeValue>1500</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

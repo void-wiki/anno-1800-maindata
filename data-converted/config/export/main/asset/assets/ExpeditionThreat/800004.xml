@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionThreat</Template>
+  <Values>
+    <Standard>
+      <GUID>800004</GUID>
+      <Name>Might</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_navalbattle_tint.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Naval Power</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15223</LineID>
+    </Text>
+    <ExpeditionThreat>
+      <Attributes>Might</Attributes>
+      <ThreatDescriptions>
+        <Item>
+          <Description>2537</Description>
+        </Item>
+      </ThreatDescriptions>
+      <Hint>12697</Hint>
+    </ExpeditionThreat>
+  </Values>
+</Asset>

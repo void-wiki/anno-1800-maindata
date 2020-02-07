@@ -1,0 +1,123 @@
+<Asset>
+  <Template>CityInstitutionBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>1010462</GUID>
+      <Name>institution_01 (Police)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_police.png</IconFilename>
+      <InfoDescription>3788</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildModeRandomRotation>180</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>2500</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>8</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/public/institution_01/institution_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>CityInstitution</GUIType>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Police Station</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3735</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>239530</Sound>
+        </Item>
+      </ActiveSounds>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+      <BuildingRepaired>
+        <Item>
+          <Sound>203866</Sound>
+        </Item>
+      </BuildingRepaired>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <IncidentResolver>
+      <ResolverUnit>100581</ResolverUnit>
+      <SpecialUnit>100582</SpecialUnit>
+      <ResolvableIncidents>Riot</ResolvableIncidents>
+      <DuringConstructionText>17464</DuringConstructionText>
+      <DuringIncidentHeadline>3780</DuringIncidentHeadline>
+      <ActionButtonText>3690</ActionButtonText>
+      <DuringIncidentHeadlineIcon>500322</DuringIncidentHeadlineIcon>
+    </IncidentResolver>
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010017</Product>
+          <Amount>50</Amount>
+          <InactiveAmount>50</InactiveAmount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>4500</MaximumHitPoints>
+      <SelfHealPerHealTick>4</SelfHealPerHealTick>
+    </Attackable>
+    <Pausable />
+    <IncidentInfluencer>
+      <Influence>
+        <Riot>
+          <Influence>-7</Influence>
+          <Distance>15</Distance>
+        </Riot>
+      </Influence>
+    </IncidentInfluencer>
+    <DelayedConstruction />
+    <AmbientMoodProvider>
+      <AmbientMood>ResidenceTier1</AmbientMood>
+    </AmbientMoodProvider>
+    <Culture />
+    <QuestObject />
+  </Values>
+</Asset>

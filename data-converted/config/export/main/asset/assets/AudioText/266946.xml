@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Look! Devils from below breathing fire and flame!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17310</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232734</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266946</GUID>
+      <Name>AT_Advisor02_Movie07_01</Name>
+    </Standard>
+  </Values>
+</Asset>

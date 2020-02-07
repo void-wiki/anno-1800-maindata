@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802782</GUID>
+      <Name>Jolly Roger 1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190429</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is indeed an heroic charge.&lt;/b&gt; Led by the acting lieutenant, your sailors hurtle down the boarding bridges and storm the pirate ship, leaving a mangled trail in their wake. The black flag is ripped from the mast and the pirate's booty is plundered. Then your lieutenant impishly permits the survivors to go free— "Come now, be humble in thy victory! For how dull the world would be without those old pirate salts!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21536</LineID>
+    </Text>
+  </Values>
+</Asset>

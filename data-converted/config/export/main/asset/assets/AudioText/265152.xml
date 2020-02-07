@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Decision required!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15742</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234152</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265152</GUID>
+      <Name>AT_Narrator_System_Interaction_GenericInteraction</Name>
+    </Standard>
+  </Values>
+</Asset>

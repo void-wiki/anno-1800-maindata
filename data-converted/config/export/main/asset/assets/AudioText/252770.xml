@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You could at least try to sound menacing.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9482</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221598</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252770</GUID>
+      <Name>AT_ai09_NpcRebuffsPlayerThreat2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>FluffItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192214</GUID>
+      <Name>Blueprints for an enormous cruiser liner</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_ship_construction_plan.png</IconFilename>
+      <InfoDescription>19878</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Blueprint For An Infeasibly Large Ocean Liner</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27849</LineID>
+    </Text>
+    <Item />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

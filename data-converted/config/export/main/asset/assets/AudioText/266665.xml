@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We are broke, old pal! We can’t afford a passage back to the old world, back to your family! Not unless you’ve suddenly remembered what work is.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17306</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232730</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266665</GUID>
+      <Name>AT_Advisor02_Movie01_03</Name>
+    </Standard>
+  </Values>
+</Asset>

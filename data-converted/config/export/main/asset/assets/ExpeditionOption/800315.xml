@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800315</GUID>
+      <Name>Opera House in the Jungle 1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Have the ship transported over the hill to rejoin the river further up</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3791</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Crafting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800319</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>800320</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>800321</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>800322</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

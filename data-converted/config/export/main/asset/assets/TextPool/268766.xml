@@ -1,0 +1,44 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268766</GUID>
+      <Name>3rdParty01_PlayerSellsShare</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>259873</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259874</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259882</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259901</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259903</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259904</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259905</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

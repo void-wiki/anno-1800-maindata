@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21745</GUID>
+      <Name>ST_QuestOffered_1 - m Follow</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] offers you a follow quest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30033</LineID>
+    </Text>
+  </Values>
+</Asset>

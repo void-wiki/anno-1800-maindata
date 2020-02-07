@@ -1,0 +1,178 @@
+<Asset>
+  <Template>A7_QuestDeliveryObject</Template>
+  <Values>
+    <Standard>
+      <GUID>112988</GUID>
+      <Name>VQ Old Nate - Delivery - Fish Oil</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <SubtitleGroup>1818559632</SubtitleGroup>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>77</QuestGiver>
+      <StoryText>113516</StoryText>
+      <PreActivationTimer>1800000</PreActivationTimer>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>113576</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>111877</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>77</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>120042</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cod Liver Oil</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32231</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDivingBellGeneric</TemplateName>
+                <Index>0</Index>
+              </Entry>
+              <Entry>
+                <TemplateName>A7_QuestDeliveryObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>2</Amount>
+        </Item>
+        <Item>
+          <Reward>190978</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDeliveryObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ConditionQuestDelivery>
+                <DeliveryObject_cqd>
+                  <Item>
+                    <VectorElement>
+                      <InheritedIndex>0</InheritedIndex>
+                      <InheritanceMapV2>
+                        <Entry>
+                          <TemplateName>DeliveryObjective</TemplateName>
+                          <Index>0</Index>
+                        </Entry>
+                      </InheritanceMapV2>
+                    </VectorElement>
+                    <ObjectGUID>120042</ObjectGUID>
+                    <Min>15</Min>
+                    <Max>25</Max>
+                  </Item>
+                </DeliveryObject_cqd>
+                <DeliveryExecutionPlace>
+                  <Template>ConditionObjectStarterObject</Template>
+                  <Values>
+                    <ConditionScanner />
+                    <ConditionObjectStarterObject />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </DeliveryExecutionPlace>
+              </ConditionQuestDelivery>
+              <ConditionQuestObjective />
+              <ObjectiveScaling />
+              <ConditionPropsSessionSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>111877</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>Object</SpawnContext>
+                        <ContextGUID>100710</ContextGUID>
+                        <DistanceToContext>20</DistanceToContext>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Third_party_06_Nate</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

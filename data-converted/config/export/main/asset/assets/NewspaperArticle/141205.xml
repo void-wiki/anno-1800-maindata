@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141205</GUID>
+      <Name>FirstInvestorsSettled</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11188</Headline>
+      <Subline>11189</Subline>
+      <Image>141277</Image>
+      <Category>Progress</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>395</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

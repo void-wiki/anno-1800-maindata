@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239332</GUID>
+      <Name>wwe_sfx_bld_workshop_03_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>239334</StopEvent>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>239333</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2802024358</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

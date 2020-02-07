@@ -1,0 +1,26 @@
+<Asset>
+  <Template>FluffItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192241</GUID>
+      <Name>Jean's little helper</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rum_barrel.png</IconFilename>
+      <InfoDescription>19904</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jean's Little Helper</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27875</LineID>
+    </Text>
+    <Item />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

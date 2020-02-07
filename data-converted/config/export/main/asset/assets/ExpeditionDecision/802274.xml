@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802274</GUID>
+      <Name>Songs Under the Sea 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192038</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Something just as rare and no less magical!" chuckles your zoologist,&lt;/b&gt; and proceeds to dive after the creature, resurfacing a short while later. "Poor little soul seems to have been separated from its mother," your zoologist splutters, clutching a juvenile specimen of an obscure sea-dweeling species. "Would you chaps kindly running her a bath? I think we better take her with us." From now on, whenever your crew feel sad, they can stop by the creature's tub and enjoy its special warblings.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20814</LineID>
+    </Text>
+  </Values>
+</Asset>

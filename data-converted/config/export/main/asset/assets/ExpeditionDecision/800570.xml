@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800570</GUID>
+      <Name>The Visitation 1.3.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Knowing its habits helps.&lt;/b&gt; The box is made to measure, and along with its clever latch, is placed where the fiend seems most often to be. The box is found in the morning, with a gigantic rat inside it. The trap appears to have killed it, and that is the end of the matter. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5582</LineID>
+    </Text>
+  </Values>
+</Asset>

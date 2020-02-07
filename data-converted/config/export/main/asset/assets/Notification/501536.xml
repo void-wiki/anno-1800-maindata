@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501536</GUID>
+      <Name>NotificationDiplomacy_NonAggressionPactPlayerTarget</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501451</IconAsset>
+            <FilterType>DiplomaticRelations</FilterType>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>20095</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <DisplayTimeout>0</DisplayTimeout>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

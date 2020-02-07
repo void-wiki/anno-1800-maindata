@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802139</GUID>
+      <Name>Selfless Deeds 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802140</Option>
+        </Item>
+        <Item>
+          <Option>802141</Option>
+        </Item>
+        <Item>
+          <Option>802142</Option>
+        </Item>
+        <Item>
+          <Option>802143</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"They steal your children?"&lt;/b&gt; The air hangs heavy around the sailors as their question withers in the hut. Their hosts consider the explorers, half-hopeful, half-eaten with the certitude that non-paying jobs are not the ones your crew enjoys. One child has to be offered with each new moon, an elder explains as she gestures towards the nearby river, or else bandits raid the surrounding settlements. Tomorrow, the bandits' steamboat will come to claim this village's due.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21000</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803785</GUID>
+      <Name>The snake bite 1.1.2.1.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Analyze what remains of the bottle's content</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Medicine</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803786</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803787</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

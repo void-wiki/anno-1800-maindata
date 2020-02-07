@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803694</GUID>
+      <Name>In Dangerous territory 1.2.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Root out and tackle the ambushers</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33006</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Melee</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803695</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803696</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

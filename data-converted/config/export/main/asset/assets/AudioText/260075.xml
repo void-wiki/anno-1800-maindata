@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'm happy for you, really I am.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10993</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223087</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260075</GUID>
+      <Name>AT_advisor01_PosiFeedbackToPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

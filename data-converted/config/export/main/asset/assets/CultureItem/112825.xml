@@ -1,0 +1,51 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112825</GUID>
+      <Name>nadasky's sword</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_nadaskys_sword.png</IconFilename>
+      <InfoDescription>112834</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Admiral Nadasky's Sabre</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32302</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Epic</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>193408</ItemSet>
+      <TradePrice>214000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010481</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>112834</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

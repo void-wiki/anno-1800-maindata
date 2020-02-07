@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My arch-enemy!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7647</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217207</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252560</GUID>
+      <Name>AT_ai06_NpcAttacksPlayer3</Name>
+    </Standard>
+  </Values>
+</Asset>

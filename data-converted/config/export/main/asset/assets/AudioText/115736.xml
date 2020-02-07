@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There's been an avalanche in the storeroom!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34230</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>244892</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>115736</GUID>
+      <Name>AT_DLC03_res1_FullStorage4</Name>
+    </Standard>
+  </Values>
+</Asset>

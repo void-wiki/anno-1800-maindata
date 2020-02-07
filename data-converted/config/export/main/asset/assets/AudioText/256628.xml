@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You're in bloom. Where are my secateurs…</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8700</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220436</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256628</GUID>
+      <Name>AT_ai08_CivLevelPlayerHigherThanNPC2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,57 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>110943</GUID>
+      <Name>Worker-owned Cooperative Office</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_cooperative_office.png</IconFilename>
+      <InfoDescription>110946</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bureau of Worker-owned Cooperatives</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30914</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>55600</TradePrice>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>6000018</GUID>
+        </Item>
+      </EffectTargets>
+      <BuildingDecoration>142628</BuildingDecoration>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-20</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+    </BuildingUpgrade>
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

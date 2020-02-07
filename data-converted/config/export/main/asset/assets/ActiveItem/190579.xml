@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190579</GUID>
+      <Name>DynamiteItem (not in use)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_dynamite.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dynamite</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <Rarity>Quest</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>1000</TradePrice>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>CHANNEL</ItemAction>
+      <ActionTarget>500659</ActionTarget>
+      <ActionScope>TargetRadius</ActionScope>
+      <ActionDistance>3</ActionDistance>
+      <RepairSpeed>1</RepairSpeed>
+      <ActionDuration>2000</ActionDuration>
+      <ActionCompletedEffect>
+        <EffectAsset>101063</EffectAsset>
+      </ActionCompletedEffect>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+    </ExpeditionAttribute>
+    <SpecialAction />
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

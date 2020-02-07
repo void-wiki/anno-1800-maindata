@@ -1,0 +1,174 @@
+<Asset>
+  <Template>TutorialQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>151349</GUID>
+      <Name>TQ_NoFish</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fish.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationText>14764</NotificationText>
+              <NotificationPriority>500</NotificationPriority>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>268101</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <StoryText>14765</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <LatencyTimer>10000</LatencyTimer>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionIsCampaign</Template>
+                  <Values>
+                    <ConditionPropsNegatable>
+                      <NegateCondition>1</NegateCondition>
+                    </ConditionPropsNegatable>
+                    <ConditionIsCampaign />
+                    <Condition />
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionActiveSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionActiveSession>
+                      <ActiveSession>180039</ActiveSession>
+                      <SessionBlacklist>1</SessionBlacklist>
+                    </ConditionActiveSession>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionUnlocked</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionUnlocked>
+                      <UnlockNeeded>1010278</UnlockNeeded>
+                    </ConditionUnlocked>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <Context>1010278</Context>
+                      <ComparisonOp>LessThan</ComparisonOp>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>GoodsInStock</PlayerCounter>
+                      <Context>1010196</Context>
+                      <CounterAmount>2</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Essentials</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22061</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>14766</TextCombinedContextValue>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>StreetConnection</PlayerCounter>
+                <Context>1010278</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority />
+  </Values>
+</Asset>

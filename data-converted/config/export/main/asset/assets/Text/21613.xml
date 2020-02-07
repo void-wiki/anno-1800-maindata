@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21613</GUID>
+      <Name>AdditionalIncomeInfoFestival</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_hospital_2d.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents provide bonus income from [ItemAssetData([AreaManager AreaFestival BuffGuids AT(0) Text]) InputBenefitAllAdditionalMoneyFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29607</LineID>
+    </Text>
+  </Values>
+</Asset>

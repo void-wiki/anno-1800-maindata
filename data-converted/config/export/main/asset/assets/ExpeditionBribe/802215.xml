@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>802215</GUID>
+      <Name>The Amazons 1.2.2.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The warriors seem interested but watchful</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20922</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>16843</TraderName>
+      <FollowupSuccessOption>802216</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802217</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>1000</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

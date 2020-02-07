@@ -1,0 +1,46 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>116702</GUID>
+      <Name>Pool_Inuit_QuestAborted</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>264658</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264663</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264664</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264660</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264665</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264666</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>-1641773108</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

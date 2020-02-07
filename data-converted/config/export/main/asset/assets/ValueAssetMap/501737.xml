@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>501737</GUID>
+      <Name>WorkforceIconMap</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/newspaper/icon_no_surrender_green.png</IconFilename>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-1000000</ValidFrom>
+          <Asset>501740</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-1</ValidFrom>
+          <Asset>501743</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1</ValidFrom>
+          <Asset>501742</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

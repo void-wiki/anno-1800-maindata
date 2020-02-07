@@ -1,0 +1,15 @@
+<Template>
+  <Name>AutoCreateTrigger</Name>
+  <IsExpertTemplate>1</IsExpertTemplate>
+  <Properties>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+  </Properties>
+</Template>

@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>205075</GUID>
+      <Name>wwe_sfx_veh_diving_vessel_water_ping</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2675</DurationMinimum>
+          <DurationMaximum>2675</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2675</DurationMinimum>
+          <DurationMaximum>2675</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2675</DurationMinimum>
+          <DurationMaximum>2675</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2675</DurationMinimum>
+          <DurationMaximum>2675</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>70</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>331435116</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

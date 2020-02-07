@@ -1,0 +1,32 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192584</GUID>
+      <Name>Archetype (Farmer) Legendary Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_9.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192691</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193019</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193059</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193119</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193702</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

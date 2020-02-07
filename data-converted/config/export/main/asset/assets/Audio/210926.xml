@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>210926</GUID>
+      <Name>Play_AI_DRYALONS_BASIC_TZV_00003_01ALONS_3050</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3131</DurationMinimum>
+          <DurationMaximum>3131</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4333</DurationMinimum>
+          <DurationMaximum>4333</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3215</DurationMinimum>
+          <DurationMaximum>3215</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>3012</DurationMinimum>
+          <DurationMaximum>3012</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1741000045</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

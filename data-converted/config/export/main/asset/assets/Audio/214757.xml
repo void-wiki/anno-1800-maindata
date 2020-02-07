@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>214757</GUID>
+      <Name>wwe_sfx_vox_inc_ill_os_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>214758</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>480318854</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

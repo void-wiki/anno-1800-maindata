@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192820</GUID>
+      <Name>Characters - Jean - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192238</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192239</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192240</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192241</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

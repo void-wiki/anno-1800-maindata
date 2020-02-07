@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800470</GUID>
+      <Name>Love Island 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Offer a wedding gift</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5592</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800474</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <ItemOrProduct>1010248</ItemOrProduct>
+        </Item>
+      </Requirements>
+      <ConsumeRequirement>1</ConsumeRequirement>
+      <IsFavorableOption>1</IsFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

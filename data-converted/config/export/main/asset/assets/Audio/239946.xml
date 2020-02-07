@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239946</GUID>
+      <Name>wwe_voc_mur_blake</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2454</DurationMinimum>
+          <DurationMaximum>21710</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2136</DurationMinimum>
+          <DurationMaximum>21397</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2134</DurationMinimum>
+          <DurationMaximum>21526</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1928</DurationMinimum>
+          <DurationMaximum>21289</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1382970570</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

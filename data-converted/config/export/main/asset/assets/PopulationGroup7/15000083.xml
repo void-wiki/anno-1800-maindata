@@ -1,0 +1,29 @@
+<Asset>
+  <Template>PopulationGroup7</Template>
+  <Values>
+    <Standard>
+      <GUID>15000083</GUID>
+      <Name>Colony01 Population</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Population: New World</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25912</LineID>
+    </Text>
+    <PopulationGroup7>
+      <PopulationLevels>
+        <Item>
+          <Level>15000005</Level>
+        </Item>
+        <Item>
+          <Level>15000006</Level>
+        </Item>
+      </PopulationLevels>
+    </PopulationGroup7>
+  </Values>
+</Asset>

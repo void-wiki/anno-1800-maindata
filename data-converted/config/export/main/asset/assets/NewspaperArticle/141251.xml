@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141251</GUID>
+      <Name>PhonographsBuilt</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11379</Headline>
+      <Subline>11380</Subline>
+      <Image>141357</Image>
+      <Category>Progress</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>128</StartValue>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

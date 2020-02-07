@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Expedition about to leave, must dash.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7384</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217254</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256135</GUID>
+      <Name>AT_ai01_NpcDeclinesPlayerProposalTooOften1</Name>
+    </Standard>
+  </Values>
+</Asset>

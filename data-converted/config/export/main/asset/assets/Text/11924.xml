@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>11924</GUID>
+      <Name>NPC Reputation Autocorrect Decrease - m</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] doesn't remember you being that great.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6923</LineID>
+    </Text>
+  </Values>
+</Asset>

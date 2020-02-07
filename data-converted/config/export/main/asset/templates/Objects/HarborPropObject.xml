@@ -1,0 +1,23 @@
+<Template>
+  <Name>HarborPropObject</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+      <DeconstructionEffectDuration>0</DeconstructionEffectDuration>
+    </Mesh>
+    <Object>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Blocking>
+      <BlockHarborFeedback>1</BlockHarborFeedback>
+      <BlocksBuilding>0</BlocksBuilding>
+    </Blocking>
+    <Building>
+      <SkipUnlockMessage>1</SkipUnlockMessage>
+      <Destructable>0</Destructable>
+      <Movable>0</Movable>
+      <HasBorderRectOutline>0</HasBorderRectOutline>
+    </Building>
+  </Properties>
+</Template>

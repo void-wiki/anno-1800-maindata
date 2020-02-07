@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206502</GUID>
+      <Name>wwe_sfx_bld_factory_03_cut_wood_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>6116</DurationMinimum>
+          <DurationMaximum>7832</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4010501100</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

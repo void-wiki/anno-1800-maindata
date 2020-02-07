@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802391</GUID>
+      <Name>The Devil Calls 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The priest's incantations subdue the Devil.&lt;/b&gt; The priest swats his flickering torch in front of the party, bellowing incessantly "God is my salvation, the Lord be my sword and shield!" mouth brimming with rainwater, until someone shakes him by the shoulder. He startles, but his comrade reassures him. "The voices have ceased! You have saved us— saved us from temptation!"  </Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20845</LineID>
+    </Text>
+  </Values>
+</Asset>

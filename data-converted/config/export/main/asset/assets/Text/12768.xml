@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12768</GUID>
+      <Name>CQ001_Fish4Ticket_ObjectiveText_KillFish</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Use [AssetData(102487) Text] on:&lt;br/&gt;[AssetData([Conditions QuestCondition Context]) Text] [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11700</LineID>
+    </Text>
+  </Values>
+</Asset>

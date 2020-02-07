@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>804026</GUID>
+      <Name>Narrow channels 1.1.2.1 bis</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Full steam ahead!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35289</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Navigation</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>804023</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>804025</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <NeededAttribute>PerkSteamShip</NeededAttribute>
+          <MinAttribute>1</MinAttribute>
+        </Item>
+      </Requirements>
+    </ExpeditionOption>
+  </Values>
+</Asset>

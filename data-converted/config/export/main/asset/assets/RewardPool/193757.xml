@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193757</GUID>
+      <Name>Huge Plants E/L</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>112611</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112728</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112730</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

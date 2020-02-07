@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802525</GUID>
+      <Name>The Storm 1.3.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You run a pretty decent storm jib!&lt;/b&gt; Navigating the steam ship like a good old sailboat, the navigators rely on the sails alone to steady the erratic movements, and strain the rudder this way and that. It is fearless! The gale hits the wet sails with all its might, inflating them to their limit, and the sudden force breaks the ship out of its pitching. The navigators seize the opportunity to escape the storm to the delighted clamor of the crew.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21806</LineID>
+    </Text>
+  </Values>
+</Asset>

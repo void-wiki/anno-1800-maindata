@@ -1,0 +1,45 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192041</GUID>
+      <Name>The Mayan Map Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190525</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190536</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190497</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190500</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190474</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190501</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190498</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190499</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

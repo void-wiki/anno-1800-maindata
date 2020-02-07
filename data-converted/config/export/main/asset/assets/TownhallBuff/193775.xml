@@ -1,0 +1,69 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193775</GUID>
+      <Name>inuit</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/icon_polar_5.png</IconFilename>
+      <InfoDescription>22678</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>193666</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Thule Relics Exhibition</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36148</LineID>
+    </Text>
+    <BuildingUpgrade />
+    <Buff />
+    <PopulationUpgrade />
+    <ResidenceUpgrade />
+    <IncidentInfectableUpgrade />
+    <CultureUpgrade>
+      <ItemSetUpgrade>
+        <Item>
+          <ItemSet>191115</ItemSet>
+          <AttractivenessUpgradePercent>20</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>191119</ItemSet>
+          <AttractivenessUpgradePercent>20</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>193773</ItemSet>
+          <AttractivenessUpgradePercent>20</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>191131</ItemSet>
+          <AttractivenessUpgradePercent>20</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>191123</ItemSet>
+          <AttractivenessUpgradePercent>20</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>193774</ItemSet>
+          <AttractivenessUpgradePercent>20</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>193776</ItemSet>
+          <AttractivenessUpgradePercent>20</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>193662</ItemSet>
+          <AttractivenessUpgradePercent>20</AttractivenessUpgradePercent>
+        </Item>
+      </ItemSetUpgrade>
+    </CultureUpgrade>
+  </Values>
+</Asset>

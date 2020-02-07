@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>So, your father was a traitor, eh? Sounds like my sort of fellow!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12823</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229517</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261168</GUID>
+      <Name>AT_ai08_WelcomeCampaign</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Eugh, no! Only my handkerchiefs are made o' silk.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2559</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212834</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251613</GUID>
+      <Name>AT_ai03_PlyrFailsToFlatterNpc1</Name>
+    </Standard>
+  </Values>
+</Asset>

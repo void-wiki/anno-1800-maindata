@@ -1,0 +1,36 @@
+<Asset>
+  <Template>MapTemplate</Template>
+  <Values>
+    <Standard>
+      <GUID>140735</GUID>
+      <Name>moderate_01 (campaign)</Name>
+    </Standard>
+    <MapTemplate>
+      <IslandSize>Small;Medium;Large</IslandSize>
+      <TemplateFilename>data/sessions/maps/campaign/moderate/campaign_chapter01_moderate_01/campaign_chapter01_moderate_01.a7t</TemplateFilename>
+      <TemplateSize>Large</TemplateSize>
+      <Campaign>1</Campaign>
+      <FixedPreplacedParticipants>
+        <Item />
+        <Item>
+          <ParticipantID>Advisor_02_Aahrant</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Third_party_07_Jailor_Bleakworth</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Third_enemy_01_Grant</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Third_party_08_Kahina</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Third_party_02_Blake</ParticipantID>
+        </Item>
+      </FixedPreplacedParticipants>
+      <IsUsedByMapGenerator>1</IsUsedByMapGenerator>
+      <TemplateRegion>Moderate</TemplateRegion>
+      <TemplateMapType>Archipelago</TemplateMapType>
+    </MapTemplate>
+  </Values>
+</Asset>

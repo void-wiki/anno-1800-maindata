@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801613</GUID>
+      <Name>The Trial 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191151</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;What could a lord do against a sea-forged champion?&lt;/b&gt; The prince's warrior is nothing more than a scarecrow in shiny armor, and your own cotton-clad fighter scoffs at his tacky opponent. The walking wardrobe is tripped, grabbed, and thrown overboard in a single movement. As per foreign laws, your crew receives compensation and their name is cleared.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16037</LineID>
+    </Text>
+  </Values>
+</Asset>

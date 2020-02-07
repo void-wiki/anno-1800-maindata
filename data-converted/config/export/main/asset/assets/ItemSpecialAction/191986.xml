@@ -1,0 +1,54 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191986</GUID>
+      <Name>Temporary Protection Letter</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_marque_letter_1.png</IconFilename>
+      <InfoDescription>19582</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect />
+    <ItemAction>
+      <ItemAction>NOACTION</ItemAction>
+      <ActionScope>Self</ActionScope>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>300000</ActionDuration>
+      <ActiveBuff>192942</ActiveBuff>
+      <ActionDescription>22097</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <ExclusiveGroup>Flag</ExclusiveGroup>
+      <TradePrice>10000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Letter of Immunity</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26861</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19582</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

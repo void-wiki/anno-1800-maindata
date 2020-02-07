@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500692</GUID>
+      <Name>Attractiveness level decreased</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_company_level.png</IconFilename>
+      <ID>NotificationCityLevelDecreased</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501355</IconAsset>
+            <NotificationSideTitle>11869</NotificationSideTitle>
+            <FilterType>VisitorsAndCulture</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>11870</NotificationText>
+            <NotificationBlockingTime>3600000</NotificationBlockingTime>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationGroup>Visitors</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265371</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

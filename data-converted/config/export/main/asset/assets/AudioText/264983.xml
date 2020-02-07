@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What, still here? Establishing a rival company? On that dishevelled island?!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15558</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232177</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>264983</GUID>
+      <Name>enemy_01_CleanTheIsland_01</Name>
+    </Standard>
+  </Values>
+</Asset>

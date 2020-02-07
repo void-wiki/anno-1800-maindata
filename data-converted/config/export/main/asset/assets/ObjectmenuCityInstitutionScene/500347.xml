@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ObjectmenuCityInstitutionScene</Template>
+  <Values>
+    <Standard>
+      <GUID>500347</GUID>
+      <Name>ObjectmenuCityInstitutionScene</Name>
+      <ID>ObjectmenuCityInstitutionScene</ID>
+    </Standard>
+    <ObjectmenuCityInstitutionScene>
+      <PerIncidentUiConfig>
+        <Fire>
+          <Icon>500323</Icon>
+          <BeforeIncidentChanceHeadline>3678</BeforeIncidentChanceHeadline>
+          <ProbabilityText>22640</ProbabilityText>
+        </Fire>
+        <Riot>
+          <Icon>500322</Icon>
+          <BeforeIncidentChanceHeadline>3777</BeforeIncidentChanceHeadline>
+          <ProbabilityText>22641</ProbabilityText>
+        </Riot>
+        <Illness>
+          <Icon>500324</Icon>
+          <BeforeIncidentChanceHeadline>3778</BeforeIncidentChanceHeadline>
+          <ProbabilityText>22642</ProbabilityText>
+        </Illness>
+        <ArcticIllness>
+          <Icon>116229</Icon>
+          <BeforeIncidentChanceHeadline>116233</BeforeIncidentChanceHeadline>
+          <ProbabilityText>22643</ProbabilityText>
+        </ArcticIllness>
+      </PerIncidentUiConfig>
+      <DialMaxInfectionProbability>25</DialMaxInfectionProbability>
+      <ClockIcon>500452</ClockIcon>
+    </ObjectmenuCityInstitutionScene>
+  </Values>
+</Asset>

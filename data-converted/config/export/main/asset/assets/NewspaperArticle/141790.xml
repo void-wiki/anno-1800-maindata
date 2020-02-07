@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141790</GUID>
+      <Name>Hostile Takeover Share Bought Back NPC</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14656</Headline>
+      <Subline>14657</Subline>
+      <Image>142159</Image>
+      <Category>HostileTakeover</Category>
+      <NewsPriority>
+        <StartValue>220</StartValue>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>-5</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

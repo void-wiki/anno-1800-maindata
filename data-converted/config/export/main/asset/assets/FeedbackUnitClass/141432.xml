@@ -1,0 +1,19 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>141432</GUID>
+      <Name>Lorry Iron Full</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_beams.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>INTERNAL_MineLorry</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>140410</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

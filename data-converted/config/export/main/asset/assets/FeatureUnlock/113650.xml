@@ -1,0 +1,20 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>113650</GUID>
+      <Name>RiotIncidents_Arctic</Name>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

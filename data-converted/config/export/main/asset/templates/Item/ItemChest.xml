@@ -1,0 +1,16 @@
+<Template>
+  <Name>ItemChest</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>None</Allocation>
+      <Rarity>Quest</Rarity>
+      <ItemType>None</ItemType>
+    </Item>
+    <ItemChest />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </Properties>
+</Template>

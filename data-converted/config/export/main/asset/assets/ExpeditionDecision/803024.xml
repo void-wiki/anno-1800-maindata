@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803024</GUID>
+      <Name>Blizzard 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Prudence and faith pay off.&lt;/b&gt; Your sailors huddle together in the lower deck, resisting the temptation to go check the masts and their frozen sails. Time trickles away as the storm recedes, and when the blizzard is no more than a light drizzle, the sun emerges to illuminate your ship. It's perfectly unscathed and slowly drifts towards the coast, where a harbour is already in sight.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22159</LineID>
+    </Text>
+  </Values>
+</Asset>

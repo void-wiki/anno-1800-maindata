@@ -1,0 +1,83 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>101746</GUID>
+      <Name>CQO_Pyro_Unit</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_pyrphorian.png</IconFilename>
+    </Standard>
+    <Collectable />
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <OnSelection>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionNotification</Template>
+                  <Values>
+                    <Action />
+                    <ActionNotification>
+                      <Notification>
+                        <Template>CharacterNotification</Template>
+                        <Values>
+                          <CharacterNotification>
+                            <Profile>113</Profile>
+                          </CharacterNotification>
+                          <BaseNotification>
+                            <NotificationText>16709</NotificationText>
+                            <DisplayTimeout>10000</DisplayTimeout>
+                          </BaseNotification>
+                          <NotificationSubtitle>
+                            <Subtitle>268196</Subtitle>
+                          </NotificationSubtitle>
+                        </Values>
+                      </Notification>
+                    </ActionNotification>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnSelection>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/units/pyrphorian_arsonist/pyrphorian_arsonist_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pyrphorian Arsonist</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15710</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214110</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

@@ -1,0 +1,66 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>130261</GUID>
+      <Name>intermediate colony01 2.4.2 unlock pathways</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier02.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000006</Context>
+            <CounterAmount>1500</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>501915</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsDLCActive</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionIsDLCActive>
+                      <DLCAssetList>
+                        <Item>
+                          <DLCAsset>410041</DLCAsset>
+                        </Item>
+                      </DLCAssetList>
+                    </ConditionIsDLCActive>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

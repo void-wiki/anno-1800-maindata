@@ -1,0 +1,53 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192511</GUID>
+      <Name>2nd_party_07 (Carl von Malching) Uncommon Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_4.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192633</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192673</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192678</ItemLink>
+          <Weight>21</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192683</ItemLink>
+          <Weight>6</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192800</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192729</ItemLink>
+          <Weight>31</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192734</ItemLink>
+          <Weight>11</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192837</ItemLink>
+          <Weight>6</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193307</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193302</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

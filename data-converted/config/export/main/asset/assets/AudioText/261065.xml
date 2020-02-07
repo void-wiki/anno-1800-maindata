@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Let Admiral Silva cling to his dying dream, we hear the little birds of freedom sing! </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12280</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230105</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261065</GUID>
+      <Name>AT_3rdParty05_IdleMessageGossip_Silva</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Disturb an Immortal?!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9579</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220375</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258102</GUID>
+      <Name>AT_Advisor02_WelcomeToPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

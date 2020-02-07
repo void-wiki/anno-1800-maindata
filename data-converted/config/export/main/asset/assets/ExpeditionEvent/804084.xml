@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>804084</GUID>
+      <Name>The Coral Island Alternative beginning</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Coral Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33500</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800029</EventThreat>
+      <StartDecision>804083</StartDecision>
+      <EventMusicChoice>226706</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/generic_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>226680</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

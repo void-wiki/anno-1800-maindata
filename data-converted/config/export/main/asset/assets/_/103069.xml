@@ -1,0 +1,61 @@
+<Asset>
+  <BaseAssetGUID>102665</BaseAssetGUID>
+  <Values>
+    <Collectable>
+      <OnCollect>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionDeleteObjects</Template>
+                  <Values>
+                    <Action />
+                    <ActionDeleteObjects />
+                    <ObjectFilter>
+                      <ObjectGUID>103068</ObjectGUID>
+                    </ObjectFilter>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnCollect>
+    </Collectable>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Collectable</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/quest/objects/castaway_lifeboat/castaway_lifeboat_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>103069</GUID>
+      <Name>QO Castaway - Prisoners - George Moral choice</Name>
+    </Standard>
+    <Selection />
+    <Walking />
+    <Text>
+      <LineID>30119</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter />
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+  </Values>
+</Asset>

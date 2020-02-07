@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are on the last floe now, but the most fragile.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13500</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231256</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>264816</GUID>
+      <Name>AT_Inuit_Phase3_FindSurvivors_Reminder2</Name>
+    </Standard>
+  </Values>
+</Asset>

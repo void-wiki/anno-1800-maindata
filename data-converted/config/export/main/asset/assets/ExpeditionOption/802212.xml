@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802212</GUID>
+      <Name>The Amazons 1.2.2.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Placate them with gifts</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20921</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802215</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

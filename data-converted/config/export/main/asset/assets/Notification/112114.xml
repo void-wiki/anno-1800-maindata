@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>112114</GUID>
+      <Name>MissingWorkforceInPool</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501374</IconAsset>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>112115</NotificationText>
+            <NotificationAudioAsset>239733</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265281</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

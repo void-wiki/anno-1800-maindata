@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501650</GUID>
+      <Name>IslandWarEndTimerStarted_Attacker</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501103</IconAsset>
+            <NotificationSideTitle>11621</NotificationSideTitle>
+            <FilterType>Military</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>21936</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265224</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

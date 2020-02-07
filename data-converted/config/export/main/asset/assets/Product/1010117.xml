@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010117</GUID>
+      <Name>moderate workforce 4</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resource_craftspeople.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Engineer Workforce</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5323</LineID>
+    </Text>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <Product>
+      <StorageLevel>Area</StorageLevel>
+      <DeltaOnly>1</DeltaOnly>
+      <IsWorkforce>1</IsWorkforce>
+    </Product>
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

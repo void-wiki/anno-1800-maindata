@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Candlepower ain't enough for this job.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11241</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222929</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260555</GUID>
+      <Name>AT_res_tier01_ProductionHasNoElectricity1</Name>
+    </Standard>
+  </Values>
+</Asset>

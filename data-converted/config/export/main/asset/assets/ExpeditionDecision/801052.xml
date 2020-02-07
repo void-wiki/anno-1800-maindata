@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801052</GUID>
+      <Name>Dockyard Dupe 1.4.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801053</Option>
+        </Item>
+        <Item>
+          <Option>801054</Option>
+        </Item>
+        <Item>
+          <Option>801059</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They are completely corrupt.&lt;/b&gt; "What an extraordinary tale! I am so glad our little country has fired your imagination!" smiles the governor.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13131</LineID>
+    </Text>
+  </Values>
+</Asset>

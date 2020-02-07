@@ -1,0 +1,55 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190373</GUID>
+      <Name>super fertility paprika</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_pepper.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Paprika Super Seeds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27070</LineID>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>150000</TradePrice>
+      <TradePriceOnlineCurrency>1500</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+      <AddedFertility>1010570</AddedFertility>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>100654</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

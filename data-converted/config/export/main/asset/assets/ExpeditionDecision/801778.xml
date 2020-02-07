@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801778</GUID>
+      <Name>The Infiltration 1.2.1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801845</Option>
+        </Item>
+        <Item>
+          <Option>801851</Option>
+        </Item>
+        <Item>
+          <Option>801857</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The glass does indeed break&lt;/b&gt;, but it feels a little desperate.  &lt;br/&gt;Your infiltrator meets with no resistance in the vestibule, only dread. It is a large open room, with stairs at either side. A series of Pre-Raphaelite panels depicting Pyr the fire mother adorn the walls. In one, she stands beneath a dark and cosmic sky, disciples at her feet, each holding a braid of her flaming hair. The most striking feature of the room however, is the dome in the centre, which from below appears at first convex, and is painted in every detail as a human eye. The Oculus. A pinprick of sunlight falls from its pupil to an ominous platform, thick with ash. &lt;b&gt;You cannot find that contract soon enough.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21205</LineID>
+    </Text>
+  </Values>
+</Asset>

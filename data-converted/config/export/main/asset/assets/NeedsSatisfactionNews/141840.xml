@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NeedsSatisfactionNews</Template>
+  <Values>
+    <Standard>
+      <GUID>141840</GUID>
+      <Name>SteamCarriagesSupplyVeryBad</Name>
+    </Standard>
+    <NeedsSatisfactionNews>
+      <Need>1010225</Need>
+      <TrackingDuration>120000</TrackingDuration>
+      <MaximumNeedSatisfaction>0.5</MaximumNeedSatisfaction>
+      <MaximumNeedSatisfactionAtRelease>0.5</MaximumNeedSatisfactionAtRelease>
+      <MinResidencesCount>500</MinResidencesCount>
+      <SatisfactionArticle>141860</SatisfactionArticle>
+    </NeedsSatisfactionNews>
+  </Values>
+</Asset>

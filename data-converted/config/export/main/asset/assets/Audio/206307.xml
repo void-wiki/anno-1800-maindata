@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206307</GUID>
+      <Name>wwe_bld_agriculture_02_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>206310</StopEvent>
+      <SoundEventType>MiddleBuildingSound</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>206308</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1039773405</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

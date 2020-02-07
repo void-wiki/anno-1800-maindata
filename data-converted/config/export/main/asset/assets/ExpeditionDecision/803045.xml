@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803045</GUID>
+      <Name>Fear of the Light 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803046</Option>
+        </Item>
+        <Item>
+          <Option>803047</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;This man is severely ill!&lt;/b&gt; A group of sailors bang on the door to the doctor's cabin. They carry a feverish friend, who between two moments of altered sleep mutters about a burning radiance and closes his eyes to protect himself from the deck's half-light. The doctor's inspection could reveal more symptoms, but shouldn't the crazed patient be secluded instead?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26299</LineID>
+    </Text>
+  </Values>
+</Asset>

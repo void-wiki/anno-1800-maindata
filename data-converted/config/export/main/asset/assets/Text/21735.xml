@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21735</GUID>
+      <Name>ST_SmugglerQuestTradingStationReached GivePeople - m</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] asks if they are ready to get off your ship.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30032</LineID>
+    </Text>
+  </Values>
+</Asset>

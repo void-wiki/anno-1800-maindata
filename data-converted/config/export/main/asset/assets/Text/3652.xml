@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>3652</GUID>
+      <Name>ST_SettlePermissionRequested_1 - f</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] asks for permission to settle on [NotificationContext Value(Area) Area CityName].</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3536</LineID>
+    </Text>
+  </Values>
+</Asset>

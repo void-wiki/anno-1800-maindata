@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802367</GUID>
+      <Name>The Mayan Map 1.2.1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192041</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;What wonders laid bare!&lt;/b&gt; A sturdy scaffold is built to support the ceiling, before a human chain clears the debris. The antechamber ahead radiates! It is a hoard of greater archaeological value than any of the materials from which it is composed! This may not be the city of El Doodah, but it is quite remarkable enough!</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20987</LineID>
+    </Text>
+  </Values>
+</Asset>

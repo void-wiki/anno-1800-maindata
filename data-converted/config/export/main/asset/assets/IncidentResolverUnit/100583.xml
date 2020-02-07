@@ -1,0 +1,24 @@
+<Asset>
+  <Template>IncidentResolverUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>100583</GUID>
+      <Name>Resolver Unit Illness Normal</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_hospital_2d.png</IconFilename>
+      <InfoDescription>12012</InfoDescription>
+    </Standard>
+    <IncidentResolverUnit>
+      <FeedbackUnitClass>140719</FeedbackUnitClass>
+    </IncidentResolverUnit>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Doctors</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25834</LineID>
+    </Text>
+  </Values>
+</Asset>

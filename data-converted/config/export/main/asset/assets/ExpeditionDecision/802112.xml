@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802112</GUID>
+      <Name>Sea Still 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"We did what we could..."&lt;/b&gt; the lieutenant trails off, "...and we can't do much!" answers your steersman darkly. There is so little wind here, it takes an eternity to pass the sinking boat by. Hands reaching desperately towards you, but the pull of their sinking ship soon has them. It will take an awful lot to lift your crew out of the doldrums.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21498</LineID>
+    </Text>
+  </Values>
+</Asset>

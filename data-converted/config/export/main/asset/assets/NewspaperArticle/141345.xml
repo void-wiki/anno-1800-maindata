@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141345</GUID>
+      <Name>BigBertaBuilt</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>16731</Headline>
+      <Subline>16732</Subline>
+      <Image>141315</Image>
+      <Category>Progress</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>350</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

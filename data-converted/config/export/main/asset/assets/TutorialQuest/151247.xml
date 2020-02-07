@@ -1,0 +1,125 @@
+<Asset>
+  <Template>TutorialQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>151247</GUID>
+      <Name>Trade Routes</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_traderoutes.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <FailureMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </FailureMessage>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <LatencyTimer>15000</LatencyTimer>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <KeepCheckingPreconditionsWhenRunning>1</KeepCheckingPreconditionsWhenRunning>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionUnlocked</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionUnlocked>
+                      <UnlockNeeded>1010292</UnlockNeeded>
+                    </ConditionUnlocked>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionFactoryProductivity</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionFactoryProductivity>
+                      <ProductivityComparison>Equals</ProductivityComparison>
+                    </ConditionFactoryProductivity>
+                    <ObjectFilter>
+                      <ObjectGUID>1010264</ObjectGUID>
+                    </ObjectFilter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Trade Routes</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26070</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>TutorialObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+              </ConditionQuestObjective>
+              <ConditionQuestTutorial>
+                <InteractionFlow>
+                  <Item>
+                    <TutorialInteraction>
+                      <Template>ConditionTutorialInteraction</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionTutorialInteraction>
+                          <HintType>UIElement</HintType>
+                          <HintAnchor>BottomLeft</HintAnchor>
+                          <HintText>14362</HintText>
+                          <TutorialUiCategory>SessionScene</TutorialUiCategory>
+                          <RefGuid>3</RefGuid>
+                        </ConditionTutorialInteraction>
+                      </Values>
+                    </TutorialInteraction>
+                  </Item>
+                </InteractionFlow>
+              </ConditionQuestTutorial>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority>
+      <BasePriority>75</BasePriority>
+    </QuestDynamicPriority>
+  </Values>
+</Asset>

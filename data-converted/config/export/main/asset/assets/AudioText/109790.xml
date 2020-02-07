@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vicente is the vilest of tyrants. But the people of the new world are taking back everything that was never his, as I have, from the Crown.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30422</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204166</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109790</GUID>
+      <Name>AT_ai10_IdleMessageGossip_Vicente</Name>
+    </Standard>
+  </Values>
+</Asset>

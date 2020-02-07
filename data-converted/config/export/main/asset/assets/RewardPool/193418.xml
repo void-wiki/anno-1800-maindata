@@ -1,0 +1,25 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193418</GUID>
+      <Name>Rescue Mission Reward Pool Hard</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193414</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193415</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>12797</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

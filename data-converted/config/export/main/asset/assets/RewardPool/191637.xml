@@ -1,0 +1,28 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191637</GUID>
+      <Name>Protectionism Defender Pool 2</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010221</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>75</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010223</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>25</Weight>
+        </Item>
+      </ItemsPool>
+      <GenerateUniqueRewards>0</GenerateUniqueRewards>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

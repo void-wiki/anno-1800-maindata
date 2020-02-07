@@ -1,0 +1,40 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192980</GUID>
+      <Name>The Runaway Reward Subpool - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190622</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190698</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191452</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191453</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191608</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191610</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191611</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191626</ItemLink>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

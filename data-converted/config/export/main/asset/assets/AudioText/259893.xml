@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Queen finds your conduct inexcusable!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9712</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223503</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>259893</GUID>
+      <Name>AT_3rdParty01_Negative Feedback to Player1</Name>
+    </Standard>
+  </Values>
+</Asset>

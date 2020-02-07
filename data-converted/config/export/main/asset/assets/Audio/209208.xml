@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>209208</GUID>
+      <Name>wwe_sfx_bld_culture_03_fountain</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>15</MaxAttenuation>
+      <SoundEventType>SmallFeedbackSound</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>226793</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2232430187</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

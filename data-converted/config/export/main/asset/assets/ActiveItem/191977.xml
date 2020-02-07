@@ -1,0 +1,53 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191977</GUID>
+      <Name>Ship Wooden Spare Parts</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_ship_repair_1.png</IconFilename>
+      <InfoDescription>19569</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ship Tools</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26855</LineID>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <HasAction>1</HasAction>
+      <TradePrice>4100</TradePrice>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <Charges>3</Charges>
+      <ActionDuration>210000</ActionDuration>
+      <ActiveBuff>192156</ActiveBuff>
+      <ActionDescription>22097</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>6</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>19569</FluffText>
+    </ExpeditionAttribute>
+    <SpecialAction />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <CraftableItem />
+  </Values>
+</Asset>

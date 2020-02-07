@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800336</GUID>
+      <Name>The Minefield</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Minefield</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5822</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800033</EventThreat>
+      <StartDecision>800337</StartDecision>
+      <EventMusicChoice>226701</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/generic_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

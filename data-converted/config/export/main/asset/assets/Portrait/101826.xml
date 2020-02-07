@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait />
+    <Standard>
+      <GUID>101826</GUID>
+      <Name>Worker_atWork</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier02_work.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/residents/resident_tier02_work/resident_tier02_work.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

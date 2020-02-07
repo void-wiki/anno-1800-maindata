@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803100</GUID>
+      <Name>Ghosts in the Ice 1.1.1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your diplomat cannot convince them to commit self-sacrifice.&lt;/b&gt; Rather than depicting the reasons behind your crew's decision, she bluntly announces the number of strangers allowed on board, and sparks an immediate frenzy. The skeletal men rise on trembling legs, their limbs pulled forward by the puppet strings of hunger, rushing into each other until most strings are cut. The culled crew climbs aboard your ship and their soulless presence plagues the rest of the expedition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23446</LineID>
+    </Text>
+  </Values>
+</Asset>

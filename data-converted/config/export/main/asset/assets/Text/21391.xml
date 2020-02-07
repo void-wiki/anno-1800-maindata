@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21391</GUID>
+      <Name>ReducedNeedsInfo</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_patrol.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents consume [ItemAssetData([RefGuid]) GoodConsumptionAmountInPercent(0) &gt;&gt; sellShipPrice]% less [ItemAssetData([RefGuid]) GoodConsumptionAllProvidedNeedsFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29074</LineID>
+    </Text>
+  </Values>
+</Asset>

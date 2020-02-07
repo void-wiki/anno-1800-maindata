@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802639</GUID>
+      <Name>The Mountain Maw 1.1.2.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/polar_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Salvation at the price of their humanity.&lt;/b&gt; Ignoring the begging screams of their companions, the sailors make a large detour to avoid falling into the frozen rift. As they find a beaten path heading downhill, a sailor catches up to the group, panting: he admits to having thrown pickaxes and ropes down the fault. The crew congratulates him for his selflessness, and they pretend the deed was enough to ease their conscience.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21847</LineID>
+    </Text>
+  </Values>
+</Asset>

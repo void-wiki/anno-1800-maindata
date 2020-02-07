@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192819</GUID>
+      <Name>Characters - Anne - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192234</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192235</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192236</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192237</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

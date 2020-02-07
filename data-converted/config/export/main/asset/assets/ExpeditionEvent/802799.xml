@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802799</GUID>
+      <Name>Taken In Broken Out</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Night In Jail</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22012</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800031</EventThreat>
+      <StartDecision>802800</StartDecision>
+      <EventMusicChoice>226702</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/melee_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

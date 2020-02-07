@@ -1,0 +1,33 @@
+<Asset>
+  <Template>SimpleVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>1000099</GUID>
+      <Name>steam_crane_01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/cranes/steam_crane_01/steam_crane_01_02.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Mesh />
+    <Selection>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <ForwardSpeed>0.2</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>steam_crane_01</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter />
+    <MinimapToken />
+  </Values>
+</Asset>

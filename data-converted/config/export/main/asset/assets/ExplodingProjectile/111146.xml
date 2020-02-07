@@ -1,0 +1,56 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>111146</GUID>
+      <Name>AnarchyBombProjectile_FakeInfo</Name>
+      <InfoDescription>110967</InfoDescription>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>35</ShotAngle>
+      <ProjectileSpeed>10</ProjectileSpeed>
+      <Effectivities>
+        <Item>
+          <GUID>191508</GUID>
+          <Factor>1.5</Factor>
+        </Item>
+      </Effectivities>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_dynamite_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>3</InnerDamageRadius>
+      <InnerDamage>1000</InnerDamage>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>2.5</OuterDamageRadius>
+      <MinimumDamage>1000</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>239774</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>239773</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident>
+      <CausedIncident>Fire</CausedIncident>
+      <CausedIncidentBuff>192004</CausedIncidentBuff>
+    </ProjectileIncident>
+  </Values>
+</Asset>

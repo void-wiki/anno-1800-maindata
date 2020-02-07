@@ -1,0 +1,61 @@
+<Asset>
+  <Template>Matcher</Template>
+  <Values>
+    <Standard>
+      <GUID>153196</GUID>
+      <Name>Matcher In Love With the Devil 5</Name>
+    </Standard>
+    <Matcher>
+      <Criterion>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <MatcherCriterion />
+          <MatcherCriterionAnd>
+            <CriterionOperandListAnd>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>0</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>MatcherCriterionAnd</TemplateName>
+                      <Index>0</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <CriterionOperand>
+                  <Template>MatcherCriterionGUID</Template>
+                  <Values>
+                    <MatcherCriterion />
+                    <MatcherCriterionGUID>
+                      <ObjectMatched>1010269</ObjectMatched>
+                    </MatcherCriterionGUID>
+                  </Values>
+                </CriterionOperand>
+              </Item>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>1</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>MatcherCriterionAnd</TemplateName>
+                      <Index>1</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <CriterionOperand>
+                  <Template>MatcherCriterionOwner</Template>
+                  <Values>
+                    <MatcherCriterion />
+                    <MatcherCriterionOwner>
+                      <OwnerMatched>Second_ai_08_Gravez</OwnerMatched>
+                    </MatcherCriterionOwner>
+                  </Values>
+                </CriterionOperand>
+              </Item>
+            </CriterionOperandListAnd>
+          </MatcherCriterionAnd>
+        </Values>
+      </Criterion>
+    </Matcher>
+  </Values>
+</Asset>

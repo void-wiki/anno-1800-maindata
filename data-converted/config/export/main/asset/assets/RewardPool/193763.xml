@@ -1,0 +1,63 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193763</GUID>
+      <Name>Plant Items High Culture AI</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193680</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193685</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193690</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193681</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193686</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193691</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193682</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193687</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193692</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193683</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193688</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193693</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802827</GUID>
+      <Name>Taken In Broken Out 1.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stealthily sail away</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22027</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Hunting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802829</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802831</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

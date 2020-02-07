@@ -1,0 +1,80 @@
+<Asset>
+  <Template>LandSpy</Template>
+  <Values>
+    <Standard>
+      <GUID>101236</GUID>
+      <Name>Spy</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+      <InfoDescription>11466</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/butcher/m_butcher_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/butcher/m_butcher_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnTerrainSlope</MeshPlacement>
+    </Mesh>
+    <Selection />
+    <Walking>
+      <DiscoverRadius>0</DiscoverRadius>
+      <ReservationLength>0</ReservationLength>
+      <ReservationWidth>0</ReservationWidth>
+      <ForcePrimitiveMovement>1</ForcePrimitiveMovement>
+      <TurnAroundRadius>0</TurnAroundRadius>
+      <Acceleration>6</Acceleration>
+      <TurnRadius>0.5</TurnRadius>
+      <TurnSpeed>240</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <TurnMovement>80</TurnMovement>
+      <LeaningSpeed>0.01</LeaningSpeed>
+      <LeaningDamping>0.01</LeaningDamping>
+      <ForwardSpeed>1</ForwardSpeed>
+      <WindMinSlowdownFactor>1</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+      <MinSlowdownFactor>1</MinSlowdownFactor>
+      <DisableSmoothing>1</DisableSmoothing>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Flag ship</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14862</LineID>
+    </Text>
+    <CommandQueue>
+      <FollowRadius>5</FollowRadius>
+      <CommandChainLength>0</CommandChainLength>
+      <FormationPriority>4</FormationPriority>
+      <InsecurityAttractiveness>0</InsecurityAttractiveness>
+    </CommandQueue>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+      <StrategicMapAsset>500433</StrategicMapAsset>
+    </MinimapToken>
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <Infolayer />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <MetaPersistent />
+  </Values>
+</Asset>

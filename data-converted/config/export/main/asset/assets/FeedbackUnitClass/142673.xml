@@ -1,0 +1,32 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142673</GUID>
+      <Name>Showman</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142594</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142595</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142597</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142354</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142355</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142357</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>DangerAvoiding</AllowedReactions>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

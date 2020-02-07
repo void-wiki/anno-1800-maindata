@@ -1,0 +1,40 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>110956</GUID>
+      <Name>Anarchy Flag Buff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_mercier_flag.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anarchist's Flag</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31340</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff>
+      <AddedInfolayer>110962</AddedInfolayer>
+    </Buff>
+    <AttackerUpgrade>
+      <UseProjectile>111134</UseProjectile>
+      <AttackSpeedUpgrade>20</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191454</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

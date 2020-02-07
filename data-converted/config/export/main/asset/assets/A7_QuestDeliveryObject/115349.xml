@@ -1,0 +1,188 @@
+<Asset>
+  <Template>A7_QuestDeliveryObject</Template>
+  <Values>
+    <Standard>
+      <GUID>115349</GUID>
+      <Name>Inuit_Deliver_Husky_Quest_05</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/inuit_trader.png</IconFilename>
+    </Standard>
+    <Quest>
+      <SuccessMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <NotificationTextFemale>2391</NotificationTextFemale>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>3548</NotificationText>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </SuccessMessage>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <Profile>237</Profile>
+            </CharacterNotification>
+            <BaseNotification />
+            <NotificationSubtitle>
+              <Subtitle>116325</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>237</QuestGiver>
+      <StoryText>115350</StoryText>
+      <PreActivationTimer>1800000</PreActivationTimer>
+      <QuestCategory>ThePassageQuest</QuestCategory>
+      <DelayTimer>90000</DelayTimer>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180045</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_passage.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>115351</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>114157</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>237</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>112697</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dogsled Accident</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35459</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDeliveryObject</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Reward>193828</Reward>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDeliveryObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ConditionQuestDelivery>
+                <DeliveryObject_cqd>
+                  <Item>
+                    <ObjectGUID>112698</ObjectGUID>
+                    <Min>5</Min>
+                    <Max>11</Max>
+                  </Item>
+                </DeliveryObject_cqd>
+                <DeliveryExecutionPlace>
+                  <Template>ConditionObjectStarterObject</Template>
+                  <Values>
+                    <ConditionScanner />
+                    <ConditionObjectStarterObject />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </DeliveryExecutionPlace>
+              </ConditionQuestDelivery>
+              <ConditionQuestObjective />
+              <ObjectiveScaling />
+              <ConditionPropsSessionSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>114157</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>ClientObject</SpawnContext>
+                        <ContextGUID>115311</ContextGUID>
+                        <DistanceToContext>15</DistanceToContext>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Arctic_Inuit</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>500173</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

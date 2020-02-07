@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803069</GUID>
+      <Name>Fear of the Light 1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors will have nothing to do with this lunacy.&lt;/b&gt; Sending the sick man to the depths of the hold is a cruel choice, but it lowers the risk of any otherworldly contamination. His howls bedevil the ship until his voice becomes whisper, then silence. His body is buried at sea in a hurried parody of ceremony whereas the sailors avoid discussing his unknown illness.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26319</LineID>
+    </Text>
+  </Values>
+</Asset>

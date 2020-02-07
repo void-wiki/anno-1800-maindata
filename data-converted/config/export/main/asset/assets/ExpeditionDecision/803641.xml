@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803641</GUID>
+      <Name>Manchineel Tree 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803642</Option>
+        </Item>
+        <Item>
+          <Option>803645</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An officer has taken a bite out of a fragrant, but deadly fruit. &lt;/b&gt; By the time your guide alerts the crew to "stay away from la manzanilla de la muerte", its sweet taste is rapidly followed by a peppery tingle, then an excruciating burn. Soon, the officer is frantically gasping for breath, his throat and tongue tripled in size.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32978</LineID>
+    </Text>
+  </Values>
+</Asset>

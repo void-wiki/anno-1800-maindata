@@ -1,0 +1,35 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>111200</GUID>
+      <Name>DM01 - Spread the Anarchy</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DM</AchievementCategory>
+      <AchievementTitle>111804</AchievementTitle>
+      <AchievementDescription>111805</AchievementDescription>
+      <AchievementUPlayID>87</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>NewspaperArticlePublished</PlayerCounter>
+            <Context>111240</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>13</UplayActionID>
+      <UplayXP>100</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

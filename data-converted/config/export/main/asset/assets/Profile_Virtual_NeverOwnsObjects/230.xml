@@ -1,0 +1,44 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>230</GUID>
+      <Name>ArcticEngineer</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_resident_colony03_tier02.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Technician</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35160</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/resident_colony03_tier02.png</ProfilePicture>
+      <Portrait>112796</Portrait>
+      <ParticipantID>Arctic_Resident_tier02</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestPoolList>
+        <Item>
+          <QuestPool>116762</QuestPool>
+        </Item>
+      </QuestPoolList>
+      <DefaultColor>Color8</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Arctic_Resident_tier02</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>236</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

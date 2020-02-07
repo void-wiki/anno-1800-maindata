@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803987</GUID>
+      <Name>Polar Bear 1.1.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stop for the night and organize watches</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Hunting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803988</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803989</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

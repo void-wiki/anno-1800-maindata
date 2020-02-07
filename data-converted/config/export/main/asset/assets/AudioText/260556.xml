@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We need 'lectricity to even start!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11242</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222930</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260556</GUID>
+      <Name>AT_res_tier01_ProductionHasNoElectricity2</Name>
+    </Standard>
+  </Values>
+</Asset>

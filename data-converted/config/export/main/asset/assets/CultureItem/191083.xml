@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191083</GUID>
+      <Name>elk</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_moose.png</IconFilename>
+      <InfoDescription>13706</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Elk</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26460</LineID>
+    </Text>
+    <Item>
+      <Rarity>Rare</Rarity>
+      <ItemSet>191115</ItemSet>
+      <TradePrice>62500</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100813</ChangeModule>
+      <ForcedFeedbackVariation>1000140</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203327</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemRegions>NorthernEurope;NorthAmerica;NorthernNorthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

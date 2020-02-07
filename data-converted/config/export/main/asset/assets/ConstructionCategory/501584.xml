@@ -1,0 +1,50 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501584</GUID>
+      <Name>sa park statues (category)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_1x1_14.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>102836</Building>
+        </Item>
+        <Item>
+          <Building>102839</Building>
+        </Item>
+        <Item>
+          <Building>102838</Building>
+        </Item>
+        <Item>
+          <Building>103050</Building>
+        </Item>
+        <Item>
+          <Building>103048</Building>
+        </Item>
+        <Item>
+          <Building>113325</Building>
+        </Item>
+        <Item>
+          <Building>113326</Building>
+        </Item>
+        <Item>
+          <Building>113324</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Park Statues</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29587</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802849</GUID>
+      <Name>Taken In Broken Out 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802832</Option>
+        </Item>
+        <Item>
+          <Option>802833</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your defence doesn't move the judges.&lt;/b&gt; The trial follows obscure local laws and their meandering unravelling goes beyond what your diplomat is used to. Her words stumble upon the judges' traps, and her lack of understanding of the legal subtleties of the situation is obvious to anyone. To the dismay of your crew, the judges' verdict is harsh: one month of public labour for at least half of your sailors.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22042</LineID>
+    </Text>
+  </Values>
+</Asset>

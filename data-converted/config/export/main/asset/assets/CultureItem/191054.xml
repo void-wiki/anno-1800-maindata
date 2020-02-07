@@ -1,0 +1,48 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191054</GUID>
+      <Name>pigeon</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_pigeon.png</IconFilename>
+      <InfoDescription>13676</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pigeon</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26427</LineID>
+    </Text>
+    <Item>
+      <TradePrice>4000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010477</ChangeModule>
+      <ForcedFeedbackVariation>1000142</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203394</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>14058</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

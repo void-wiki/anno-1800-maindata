@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Session unlocked.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15751</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233955</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265161</GUID>
+      <Name>AT_Narrator_GameWorld_Information_NewSessionAvailable</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,47 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>111864</GUID>
+      <Name>Pool_ai11_ReactionOnDeserters</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>110240</AudioText>
+        </Item>
+        <Item>
+          <AudioText>110242</AudioText>
+        </Item>
+        <Item>
+          <AudioText>110243</AudioText>
+        </Item>
+        <Item>
+          <AudioText>110245</AudioText>
+        </Item>
+        <Item>
+          <AudioText>110247</AudioText>
+        </Item>
+        <Item>
+          <AudioText>110248</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109946</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109947</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

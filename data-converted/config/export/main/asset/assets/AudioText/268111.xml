@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bad news! A greedy rival seized the majority of shares on one of your islands. Take back control!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17752</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236169</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>268111</GUID>
+      <Name>TQ_18_IslandShareMajorityLostAarhant</Name>
+    </Standard>
+  </Values>
+</Asset>

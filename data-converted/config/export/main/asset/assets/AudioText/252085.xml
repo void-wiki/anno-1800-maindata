@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Perhaps seeing them suffer up close can convince you to get the help you need.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3010</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211177</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252085</GUID>
+      <Name>AT_ai01_PlyrSelectsNpcBuildingAtWar3</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>101302</GUID>
+      <Name>campaign_character_04_pyrophorian_gold</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_pyrophoriangrandmaster.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/campaign_portrait_04/campaign_portrait_04.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

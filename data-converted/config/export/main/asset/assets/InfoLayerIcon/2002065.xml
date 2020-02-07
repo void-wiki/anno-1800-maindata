@@ -1,0 +1,22 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>2002065</GUID>
+      <Name>EventSessionTarget A6</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/minor_important_enemy_questobject.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mission Target</Text>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4245</LineID>
+    </Text>
+  </Values>
+</Asset>

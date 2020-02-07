@@ -1,0 +1,41 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700090</GUID>
+      <Name>Schooner_SelectPool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268559</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268560</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268561</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268562</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268563</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268564</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

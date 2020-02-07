@@ -1,0 +1,26 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102308</GUID>
+      <Name>island_war_flag3</Name>
+    </Standard>
+    <Mesh>
+      <SetCompanyLogo>1</SetCompanyLogo>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/flags/war_flag_03.cfg</Filename>
+        </Item>
+      </Variations>
+      <AddToEditorObjectGrid>0</AddToEditorObjectGrid>
+      <PlacableInEditor>0</PlacableInEditor>
+      <SelectableInEditor>0</SelectableInEditor>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+      <LoadFromDemoMap>0</LoadFromDemoMap>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

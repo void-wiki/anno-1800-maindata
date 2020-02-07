@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My armies have bread enough to march on.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10938</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223585</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252793</GUID>
+      <Name>AT_ai09_NpcCancelsTradeRights2</Name>
+    </Standard>
+  </Values>
+</Asset>

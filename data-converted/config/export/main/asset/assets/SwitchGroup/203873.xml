@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>203873</GUID>
+      <Name>sw_ui_construction_menu_vis</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>203871</Choice>
+        </Item>
+        <Item>
+          <Choice>203872</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>209337053</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

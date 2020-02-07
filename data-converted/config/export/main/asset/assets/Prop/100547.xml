@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100547</GUID>
+      <Name>Tree Dead 01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_var01_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_var01_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_var01_03.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_var01_04.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop>
+      <HerdBlocking>PassableWhenSparse</HerdBlocking>
+      <VegetationType>Tree</VegetationType>
+    </Prop>
+  </Values>
+</Asset>

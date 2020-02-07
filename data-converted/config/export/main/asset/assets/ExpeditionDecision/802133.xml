@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802133</GUID>
+      <Name>Lava Maze 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202365</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;All animals run to the beach, and your crew follows.&lt;/b&gt; Tracking down the herd of squealing, screeching, shrilling critters could be done with eyes closed and the sailors are led to the shore where they had beached. The ship departs in a hurry, leaving the animals to die into the ruthless volcano fire.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21757</LineID>
+    </Text>
+  </Values>
+</Asset>

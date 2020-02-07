@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802014</GUID>
+      <Name>Cracks in the Hull 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseGoods</NegativeOutcomeLosses>
+      <NegativeOutcomeMax>5</NegativeOutcomeMax>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Cargo and crew are set to drown in the leakage.&lt;/b&gt; The sailors close the hull's doors on their comrades, hushing their screams. However, there is no avoiding reopening the hull when time comes for repairs: the water flows out, carrying bodies transfixed in expressions of suffocation, terror, and betrayal.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21890</LineID>
+    </Text>
+  </Values>
+</Asset>

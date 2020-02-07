@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Spreading corruption among my allies is an attack on the free everywhere.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30605</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204485</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109952</GUID>
+      <Name>AT_ai10_MafiaDetected_NPCsFriend1</Name>
+    </Standard>
+  </Values>
+</Asset>

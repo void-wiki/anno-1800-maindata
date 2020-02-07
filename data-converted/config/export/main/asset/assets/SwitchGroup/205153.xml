@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>205153</GUID>
+      <Name>MS1_env_moo_meadow</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>244742</Choice>
+        </Item>
+        <Item>
+          <Choice>244743</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>2545731580</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

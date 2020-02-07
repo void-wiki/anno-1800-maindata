@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803067</GUID>
+      <Name>Fear of the Light 1.1.2.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Undisputable evidence points to a grim story.&lt;/b&gt; The inspection of the dead man's belongings lands no result, but your sailors know better than to consider this failure as final. They extend their search to the sleeping quarters, and within the loose planks of an amateurish repair, they find their proof: a key of Saint Hubert, vital artefact for any believer suspecting the menace of rabies. The sailor knew of his ailment and chose to hide it. This truth pains your crew but the closure brings relief.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26316</LineID>
+    </Text>
+  </Values>
+</Asset>

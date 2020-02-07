@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802493</GUID>
+      <Name>The Storm 1.1.2.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The threat of punishment is weak and unwarranted.&lt;/b&gt; Distraught by the storm and unable to gather their wits, your lieutenants have no mastery over the crew. Your sailors are too busy saving their skins to mind orders, especially when given with so little conviction. Your ship is consumed by the tempest, chewed and ground and spat. Its skeletal remains drift from the storm, with what small crew have survived.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21777</LineID>
+    </Text>
+  </Values>
+</Asset>

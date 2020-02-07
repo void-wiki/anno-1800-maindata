@@ -1,0 +1,24 @@
+<Asset>
+  <Template>IncidentResolverUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>100581</GUID>
+      <Name>Resolver Unit Riot Normal</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_police_2d.png</IconFilename>
+      <InfoDescription>21509</InfoDescription>
+    </Standard>
+    <IncidentResolverUnit>
+      <FeedbackUnitClass>2001006</FeedbackUnitClass>
+    </IncidentResolverUnit>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Police Officers</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25832</LineID>
+    </Text>
+  </Values>
+</Asset>

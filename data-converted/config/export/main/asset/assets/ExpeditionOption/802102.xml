@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802102</GUID>
+      <Name>Sea Still 1.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Throw them a 'life-line'</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21487</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Crafting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802104</Decision>
+          <Threshold>RewardMediumThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802105</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

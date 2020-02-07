@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803530</GUID>
+      <Name>The Flowers eaters 1.2.2.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Command them to fight their hallucinations instead</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33155</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Melee</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803531</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803532</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

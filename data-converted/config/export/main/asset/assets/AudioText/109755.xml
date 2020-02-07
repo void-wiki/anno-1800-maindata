@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You'll make yourself a target.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30375</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204193</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109755</GUID>
+      <Name>AT_ai10_NegFeedbackToPlyr4</Name>
+    </Standard>
+  </Values>
+</Asset>

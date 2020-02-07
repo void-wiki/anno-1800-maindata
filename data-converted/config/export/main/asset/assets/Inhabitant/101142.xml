@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>101142</GUID>
+      <Name>3rd_party07_police_officer</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/police_officer/police_officer.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>Default</MeshPlacement>
+    </Mesh>
+    <Walking />
+    <DayNightReaction />
+  </Values>
+</Asset>

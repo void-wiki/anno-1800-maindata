@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802862</GUID>
+      <Name>The Hunter and the Prey 1.1.1.1.2.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Aim some grenados toward the enemy deck</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23682</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Hunting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802863</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802864</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

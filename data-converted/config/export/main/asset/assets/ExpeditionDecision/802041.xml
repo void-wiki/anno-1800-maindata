@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802041</GUID>
+      <Name>The Mutiny 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802042</Option>
+        </Item>
+        <Item>
+          <Option>802043</Option>
+        </Item>
+        <Item>
+          <Option>802044</Option>
+        </Item>
+        <Item>
+          <Option>802045</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Clear skies, calm seas, and mutiny!&lt;/b&gt; The tension has been building. The everyday strains of an expedition, the rationing of supplies, a lack of recongition from those above them, it has all become too much for the lower-ranks.  They are refusing to take further orders, and have united behind a charismatic spokesperson. It won't take much to push them to full-blooded revolt!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21574</LineID>
+    </Text>
+  </Values>
+</Asset>

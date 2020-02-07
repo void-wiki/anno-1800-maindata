@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Good, then we can begin.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17036</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233128</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_25</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266450</GUID>
+      <Name>AT_ai07_Credits06</Name>
+    </Standard>
+  </Values>
+</Asset>

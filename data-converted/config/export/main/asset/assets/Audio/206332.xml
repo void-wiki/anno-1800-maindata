@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206332</GUID>
+      <Name>wwe_sfx_bld_factory_05_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>206334</StopEvent>
+      <SoundEventType>SmallBuildingSound</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2337607241</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

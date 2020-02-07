@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802880</GUID>
+      <Name>The Hunter and the Prey 1.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ambush the Pyrophorian ship</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23703</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Might</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802881</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802882</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

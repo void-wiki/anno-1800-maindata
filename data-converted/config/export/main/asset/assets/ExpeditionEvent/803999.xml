@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803999</GUID>
+      <Name>Iceberg - King William east coast</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stranded Off Labrador Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>8</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34388</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800004</EventThreat>
+      <StartDecision>804000</StartDecision>
+      <EventMusicChoice>226699</EventMusicChoice>
+      <EventVideo>data/dlc03/ui/video/dlc03_snow_storm_polar.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

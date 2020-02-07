@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800244</GUID>
+      <Name>Of Unsound Mind 1.3.3.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailors would not dare mutiny,&lt;/b&gt; of course, and return to their stations. At first they fear the bed-ridden man will commit some terrible act while they sleep. But they need not have worried, since he dies of the unexplained malady not two days later.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5741</LineID>
+    </Text>
+  </Values>
+</Asset>

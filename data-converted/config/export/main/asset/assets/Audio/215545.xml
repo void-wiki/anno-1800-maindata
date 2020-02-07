@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>215545</GUID>
+      <Name>Play_AI_DRYINVES_BASIC_2HG_00002_01INVES_4718</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1900</DurationMinimum>
+          <DurationMaximum>1900</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2725</DurationMinimum>
+          <DurationMaximum>2725</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1822</DurationMinimum>
+          <DurationMaximum>1822</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1819</DurationMinimum>
+          <DurationMaximum>1819</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>256019179</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,81 @@
+<Asset>
+  <Template>OrnamentalBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>102175</GUID>
+      <Name>AarhantLighthouseFake</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/advisor_02.png</IconFilename>
+      <InfoDescription>2676</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Derelict Lighthouse</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18144</LineID>
+    </Text>
+    <Blocking>
+      <GroundDecalAsset>100446</GroundDecalAsset>
+    </Blocking>
+    <Building />
+    <Cost />
+    <Selection>
+      <OnSelection>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionNotification</Template>
+                  <Values>
+                    <Action />
+                    <ActionNotification>
+                      <Notification>
+                        <Template>CharacterNotification</Template>
+                        <Values>
+                          <CharacterNotification>
+                            <Profile>31</Profile>
+                          </CharacterNotification>
+                          <BaseNotification>
+                            <NotificationPriority>600</NotificationPriority>
+                            <NotificationGroup>PlayerClick</NotificationGroup>
+                          </BaseNotification>
+                          <NotificationSubtitle>
+                            <Subtitle>266383</Subtitle>
+                          </NotificationSubtitle>
+                        </Values>
+                      </Notification>
+                    </ActionNotification>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnSelection>
+      <InteractionDistance>10</InteractionDistance>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh>
+      <InitialVisibility>0</InitialVisibility>
+    </Mesh>
+    <SoundEmitter />
+    <Locked />
+    <FeedbackController />
+    <Ornament />
+    <AmbientMoodProvider />
+    <Pausable />
+    <Infolayer />
+  </Values>
+</Asset>

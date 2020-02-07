@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803317</GUID>
+      <Name>Good Whale Hunting 1.3.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The rescuing harpoon triggers the whales' attack.&lt;/b&gt; The roped weapon could have made a good rescue device, but the cetaceans were already restless from the previous throw. A whale simply tilts its head up and a massive wave engulfs the drowning sailors, crashes against the ship, and rams it away from the begging and screaming men.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26336</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802907</GUID>
+      <Name>The Frozen Chasm 1.1.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bind their broken limbs with splints and help them climb</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22107</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Medicine</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802909</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802910</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

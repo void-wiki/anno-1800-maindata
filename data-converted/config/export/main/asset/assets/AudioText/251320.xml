@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Look at that majestic building, whatever it is!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2355</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212587</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251320</GUID>
+      <Name>AT_ai03_PlayerSelectsNpcBuilding1</Name>
+    </Standard>
+  </Values>
+</Asset>

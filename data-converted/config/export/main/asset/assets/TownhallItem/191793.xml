@@ -1,0 +1,56 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191793</GUID>
+      <Name>Big Inquisition Act</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_rare.png</IconFilename>
+      <InfoDescription>19493</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Lucius' Long-Lost Doctrine of the Faith</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26991</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ExclusiveGroup>SecularizationAct</ExclusiveGroup>
+      <TradePrice>200000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <AdditionalHappiness>-4</AdditionalHappiness>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentRiotIncreaseUpgrade>
+        <Value>-6</Value>
+      </IncidentRiotIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

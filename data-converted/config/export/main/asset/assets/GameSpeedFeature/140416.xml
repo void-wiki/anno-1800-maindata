@@ -1,0 +1,19 @@
+<Asset>
+  <Template>GameSpeedFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>140416</GUID>
+      <Name>GameSpeedFeature</Name>
+      <ID>GameSpeedFeature</ID>
+    </Standard>
+    <GameSpeedFeature>
+      <NormalSpeedIcon>500104</NormalSpeedIcon>
+      <FastSpeedIcon>500105</FastSpeedIcon>
+      <SlowSpeedIcon>500103</SlowSpeedIcon>
+      <PausedIcon>500101</PausedIcon>
+      <RunningIcon>500102</RunningIcon>
+      <PauseResumeButtonInfotip>500036</PauseResumeButtonInfotip>
+      <SpeedButtonInfotip>500037</SpeedButtonInfotip>
+    </GameSpeedFeature>
+  </Values>
+</Asset>

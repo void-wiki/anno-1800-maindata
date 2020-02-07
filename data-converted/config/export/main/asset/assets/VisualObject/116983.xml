@@ -1,0 +1,23 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>116983</GUID>
+      <Name>arctic_corpses</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/units/inhabitants/special/dead_explorer/dead_explorer_normal_m_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/units/inhabitants/special/dead_explorer/dead_explorer_normal_m_02.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

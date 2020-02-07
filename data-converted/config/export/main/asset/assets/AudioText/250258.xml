@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Whenever it rains, you worm to the surface.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1563</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211611</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250258</GUID>
+      <Name>AT_ai07_NegFeedbackToPlyr2</Name>
+    </Standard>
+  </Values>
+</Asset>

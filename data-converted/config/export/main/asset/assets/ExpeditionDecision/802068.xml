@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802068</GUID>
+      <Name>The Mutiny 1.1.3.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The leader comes quietly,&lt;/b&gt; perhaps because soldiers loyal to the expedition have knocked and asked politely— more dignified that way. He is on his own now. Guards are stationed all along the route to the brig, separating him from his followers. Without their leader to organise and motivate them, the threat of mutiny becomes little more than a grumble.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21593</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193650</GUID>
+      <Name>Old Nate Legendary Maps</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193457</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193462</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193467</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

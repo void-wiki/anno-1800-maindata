@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802603</GUID>
+      <Name>A Fistful of Doubloons 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802574</Option>
+        </Item>
+        <Item>
+          <Option>802575</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Finally, tracks to follow!&lt;/b&gt; Amidst the numerous footprints left by your sailors, your best huntsmen manage to find the dotted lines left in the dust by the fleeing thieves. There's no mistaking the bent pattern of their limping leader. The prints waddle to the nearest river, where they fade in the water.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21676</LineID>
+    </Text>
+  </Values>
+</Asset>

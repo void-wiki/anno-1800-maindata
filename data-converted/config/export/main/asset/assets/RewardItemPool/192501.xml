@@ -1,0 +1,45 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192501</GUID>
+      <Name>2nd_party_05 (Beryl O'Mara) Epic Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_7.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192635</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192640</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192706</ItemLink>
+          <Weight>4</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193093</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193103</ItemLink>
+          <Weight>4</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193456</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193461</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193466</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

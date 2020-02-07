@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803982</GUID>
+      <Name>Inuit settlement 1.2.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>804016</InsertEvent>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path08.png</PathSegment>
+        <PathPosX>-12</PathPosX>
+        <PathPosY>102</PathPosY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Tapeesa patiently explains&lt;/b&gt; that they traded with men like yours about a year ago. The men wanted to know about channels through the ice, and traded their things for information. &lt;b&gt;She points to the west coast of Labrador Island on your map.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35265</LineID>
+    </Text>
+  </Values>
+</Asset>

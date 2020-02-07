@@ -1,0 +1,26 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190429</GUID>
+      <Name>Pirate Hunt Reward Pool Easy</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_war.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192982</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192983</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>12799</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

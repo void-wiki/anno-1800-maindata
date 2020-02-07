@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The way to the iron mines is clear!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17358</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232636</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266807</GUID>
+      <Name>advisor02_Ch2Ph1_Additional_14</Name>
+    </Standard>
+  </Values>
+</Asset>

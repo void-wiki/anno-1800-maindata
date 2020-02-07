@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I could use George Smith's bath chair, once he's gone. Can't be long now can it?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12304</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231305</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261095</GUID>
+      <Name>AT_3rdParty06_IdleMessageGossip_Smith</Name>
+    </Standard>
+  </Values>
+</Asset>

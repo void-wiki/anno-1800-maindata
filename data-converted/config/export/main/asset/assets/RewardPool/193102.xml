@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193102</GUID>
+      <Name>Culture - Furry Animals - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191091</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191090</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191089</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191088</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

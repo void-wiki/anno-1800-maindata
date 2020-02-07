@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193769</GUID>
+      <Name>Culture - Music - All</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>112487</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114152</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114154</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114153</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114155</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

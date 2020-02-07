@@ -1,0 +1,73 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400077</GUID>
+      <Name>Action_Achievement_Choo Choo</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>General</AchievementCategory>
+      <AchievementTitle>15356</AchievementTitle>
+      <AchievementDescription>15357</AchievementDescription>
+      <AchievementUPlayID>51</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionFirstTimeEventHappened</Template>
+        <Values>
+          <Condition />
+          <ConditionFirstTimeEventHappened>
+            <SpecificAsset>141894</SpecificAsset>
+          </ConditionFirstTimeEventHappened>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>20000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionUnlockAsset</Template>
+                            <Values>
+                              <Action />
+                              <ActionUnlockAsset>
+                                <UnlockAssets>
+                                  <Item>
+                                    <Asset>400077</Asset>
+                                  </Item>
+                                </UnlockAssets>
+                              </ActionUnlockAsset>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>111</UplayActionID>
+      <UplayXP>250</UplayXP>
+    </UplayAction>
+    <TriggerSetup>
+      <AutoSelfUnlock>0</AutoSelfUnlock>
+    </TriggerSetup>
+  </Values>
+</Asset>

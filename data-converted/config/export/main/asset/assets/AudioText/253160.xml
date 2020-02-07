@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It is good manners to agree terms of trade.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10426</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223409</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253160</GUID>
+      <Name>AT_ai02_NpcAcceptsTradeRights1</Name>
+    </Standard>
+  </Values>
+</Asset>

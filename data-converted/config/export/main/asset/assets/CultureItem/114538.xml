@@ -1,0 +1,51 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>114538</GUID>
+      <Name>Foxglove</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_foxglove.png</IconFilename>
+      <InfoDescription>114546</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Foxglove</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33388</LineID>
+    </Text>
+    <Item>
+      <Allocation>BotanicGarden</Allocation>
+      <ItemType>Normal</ItemType>
+      <ItemSet>193670</ItemSet>
+      <TradePrice>4300</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>111083</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>114546</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

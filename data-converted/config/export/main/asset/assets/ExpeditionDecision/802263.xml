@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802263</GUID>
+      <Name>The Deeper You Go 1.2.1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Wrong answer.&lt;/b&gt; The brick above the pressed button opens and an arrow flies into the crew, perforating the throat of a sailor and leaving a red line in the cheek of the button-presser. The floor under the explorers tilts and they roll, a helpless mass of arms and legs which slides along the tunnel and is expelled outside the temple.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21086</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802742</GUID>
+      <Name>The Preacher 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your diplomat was not ready to face the chaplain.&lt;/b&gt; She confronts the preacher before the crew and flaunts her interpretation of the chaplain's mistakes, stating how wrong he is without taking into account the weeks of argument he had built with his followers. Her diatribe convinces none but herself, and the chaplain simply remarks that her anger is proof of his being right. Your lieutenants have to make do with his whims for the rest of the trip.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21720</LineID>
+    </Text>
+  </Values>
+</Asset>

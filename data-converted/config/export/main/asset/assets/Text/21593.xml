@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21593</GUID>
+      <Name>SpecialActionRequirementsInfoActive</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_happy.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Reduces the happiness necessary to call the [AssetData([ToolOneHelper IncidentResolverUnitsForTargetBuildings([ToolOneHelper ItemActiveBuff([RefGuid])], 1) AT(0)]) Text].</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29242</LineID>
+    </Text>
+  </Values>
+</Asset>

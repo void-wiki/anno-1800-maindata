@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800170</GUID>
+      <Name>Calico's Rogues Snare a Merchant Ship 1.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;'We're bloomin' cowards!' cries a  furious sailor,&lt;/b&gt; as your ship whisks about, and sails briskly from danger. With the merchant ship left to the dogs, the crew fume at such a display of weakness at their friend's time of need.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5528</LineID>
+    </Text>
+  </Values>
+</Asset>

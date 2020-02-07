@@ -1,0 +1,17 @@
+<Asset>
+  <Template>ItemStorage</Template>
+  <Values>
+    <Standard>
+      <GUID>6000005</GUID>
+      <Name>AreaItemStorage</Name>
+      <ID>AreaItemStorage</ID>
+    </Standard>
+    <ItemContainer>
+      <UnlimitedSlotCount>1</UnlimitedSlotCount>
+      <UnlimitedStack>1</UnlimitedStack>
+    </ItemContainer>
+    <Object>
+      <PlacableInEditor>0</PlacableInEditor>
+    </Object>
+  </Values>
+</Asset>

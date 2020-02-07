@@ -1,0 +1,46 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193483</GUID>
+      <Name>Trelawney Logistics</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>120032</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010249</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010240</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010257</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010258</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>20</Weight>
+        </Item>
+      </ItemsPool>
+      <GenerateUniqueRewards>0</GenerateUniqueRewards>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

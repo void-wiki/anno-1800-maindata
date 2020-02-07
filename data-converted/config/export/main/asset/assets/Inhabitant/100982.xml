@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>100982</GUID>
+      <Name>tourism_02_normal_m</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/tourism/tourism_02_normal_m/tourism_02_normal_m.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

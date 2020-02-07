@@ -1,0 +1,34 @@
+<Template>
+  <Name>FeedbackVehicle</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+      <LogoMode>CorporationLogoFromPlayer</LogoMode>
+    </Mesh>
+    <Selection>
+      <GUIType>Vehicle</GUIType>
+    </Selection>
+    <Walking>
+      <SpecialMovementType />
+      <TurnSpeed>150</TurnSpeed>
+      <ForwardSpeed>4</ForwardSpeed>
+      <CargoFullFactor>1</CargoFullFactor>
+      <DamageFullFactor>1</DamageFullFactor>
+      <MinSlowdownFactor>1</MinSlowdownFactor>
+    </Walking>
+    <Text />
+    <SoundEmitter />
+    <CommandQueue />
+    <Drifting />
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+  </Properties>
+</Template>

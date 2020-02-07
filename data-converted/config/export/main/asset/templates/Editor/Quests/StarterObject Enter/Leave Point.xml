@@ -1,0 +1,13 @@
+<Template>
+  <Name>StarterObject Enter/Leave Point</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+  </Properties>
+</Template>

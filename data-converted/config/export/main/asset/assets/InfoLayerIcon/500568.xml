@@ -1,0 +1,23 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>500568</GUID>
+      <Name>OilSlot</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/infolayer_a7_marker_mine_general.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData(102498) Text] </Text>
+          <Status>Edit</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14150</LineID>
+    </Text>
+  </Values>
+</Asset>

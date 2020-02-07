@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>209211</GUID>
+      <Name>wwe_sfx_bld_culture_03_typeCluster_tag</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>10</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>35</MaxAttenuation>
+      <StopEvent>209212</StopEvent>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>209206</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>823788606</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

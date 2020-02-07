@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>235847</GUID>
+      <Name>wwe_sfx_com_big_multi_launch_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2432</DurationMinimum>
+          <DurationMaximum>3181</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>100</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1314269068</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

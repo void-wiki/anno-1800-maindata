@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You could make a useful ally. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10943</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223587</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252799</GUID>
+      <Name>AT_ai09_NpcOffersAlliance1</Name>
+    </Standard>
+  </Values>
+</Asset>

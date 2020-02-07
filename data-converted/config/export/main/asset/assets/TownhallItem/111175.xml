@@ -1,0 +1,65 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>111175</GUID>
+      <Name>Anarchist</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_manager__201.png</IconFilename>
+      <InfoDescription>111181</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Affiliated Anarchist</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31334</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>14560</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010343</GUID>
+        </Item>
+        <Item>
+          <GUID>1010344</GUID>
+        </Item>
+      </EffectTargets>
+      <BuildingDecoration>142628</BuildingDecoration>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <AdditionalHappiness>3</AdditionalHappiness>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

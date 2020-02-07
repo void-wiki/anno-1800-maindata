@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803311</GUID>
+      <Name>Good Whale Hunting 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803306</Option>
+        </Item>
+        <Item>
+          <Option>803312</Option>
+        </Item>
+        <Item>
+          <Option>803320</Option>
+        </Item>
+        <Item>
+          <Option>803324</Option>
+        </Item>
+        <Item>
+          <Option>803333</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A school of whales is not a road you can simply navigate.&lt;/b&gt; As the ship shifts to the side, the closest whale reacts to the sudden movement by playing dead: it stops swimming and lets itself fall at an agonizingly slow speed. The impact with the rudder is brutal and bends the vital mechanism.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26330</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20080</GUID>
+      <Name>REPLACEDeliveryContext_Combined_goods</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deliver the goods to [AssetData([Conditions QuestCondition ExecutionObject]) Text]</Text>
+          <Status>ToBeDeleted</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29824</LineID>
+    </Text>
+  </Values>
+</Asset>

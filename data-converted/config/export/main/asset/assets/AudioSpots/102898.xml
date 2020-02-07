@@ -1,0 +1,15 @@
+<Asset>
+  <Template>AudioSpots</Template>
+  <Values>
+    <Standard>
+      <GUID>102898</GUID>
+      <Name>murmur_3rd_party_jailor</Name>
+    </Standard>
+    <Mesh />
+    <SoundEmitter />
+    <Object />
+    <AmbientMoodProvider>
+      <Murmur>ThirdPartyJailor</Murmur>
+    </AmbientMoodProvider>
+  </Values>
+</Asset>

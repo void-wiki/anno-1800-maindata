@@ -1,0 +1,16 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>2001544</GUID>
+      <Name>DistributionCenter (occupied)</Name>
+      <IconFilename>data/ui/2kimages/main/assets/icon_minimap_ships.png</IconFilename>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>Yellow</Color>
+      <Tooltip>2735</Tooltip>
+      <Filter>Lodes</Filter>
+      <UsePlayerColor>1</UsePlayerColor>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

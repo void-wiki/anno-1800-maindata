@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionThreat</Template>
+  <Values>
+    <Standard>
+      <GUID>800031</GUID>
+      <Name>Medicine</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_diseases_tint.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Medicine</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15227</LineID>
+    </Text>
+    <ExpeditionThreat>
+      <Attributes>Medicine</Attributes>
+      <ThreatDescriptions>
+        <Item>
+          <Description>2541</Description>
+        </Item>
+      </ThreatDescriptions>
+      <Hint>12701</Hint>
+    </ExpeditionThreat>
+  </Values>
+</Asset>

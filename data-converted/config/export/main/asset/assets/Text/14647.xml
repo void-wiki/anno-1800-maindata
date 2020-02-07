@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14647</GUID>
+      <Name>SL - Hostile Takeover Share Sold Player From NPC - Neutral</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We have sold our company shares in [Newspaper FindArticle([RefGuid]) Context TownName], for reasons as yet unknown. "Perhaps the investment just wasn't paying off," says veteran bookkeeper, "in which case it would be a sensible decision."</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18765</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803565</GUID>
+      <Name>The Coral Island 1.2.2.4.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803566</Option>
+        </Item>
+        <Item>
+          <Option>803569</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;These are Destroying Angels.&lt;/b&gt; Alarm bells ring when a sailor clutches his belly, and drops to his knees. To which do you attend, your sick or your boat?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33039</LineID>
+    </Text>
+  </Values>
+</Asset>

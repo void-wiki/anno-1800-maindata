@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800142</GUID>
+      <Name>Temple of the Monkey God 1.2.2.2.1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>224032</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Before the sorry men can ready their weapons&lt;/b&gt; monkey-mask has led an attack, and yet more devotees rush from the undergrowth. The men desperately dash for the ship, but several are skewered in a rain of javelins, each hilted with the howling visage of the Monkey God.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5647</LineID>
+    </Text>
+  </Values>
+</Asset>

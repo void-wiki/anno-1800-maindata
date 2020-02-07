@@ -1,0 +1,50 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>6000004</GUID>
+      <Name>VehicleTestItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>SimpleTestItem</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>SailShip</Allocation>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <ActivatePirateFlag>1</ActivatePirateFlag>
+      <IgnoreWeightFactorUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IgnoreWeightFactorUpgrade>
+      <IgnoreDamageFactorUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </IgnoreDamageFactorUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute />
+    <AttackerUpgrade>
+      <HitpointDamage>
+        <Item>
+          <MinDamageFactor>10</MinDamageFactor>
+        </Item>
+      </HitpointDamage>
+      <DamageFactor>
+        <Building>
+          <Factor>2</Factor>
+        </Building>
+      </DamageFactor>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

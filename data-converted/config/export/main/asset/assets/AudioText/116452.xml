@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>John's log, open it!— He knew we would come for him.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33730</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245122</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>116452</GUID>
+      <Name>AT_DLC03_LadyFaithful_ArcticQ103_01</Name>
+    </Standard>
+  </Values>
+</Asset>

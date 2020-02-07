@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800153</GUID>
+      <Name>Temple of the Monkey God 1.4.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226566</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The men lose their way terribly,&lt;/b&gt; becoming separated as they try to prove themselves in the ascent. A dreadful thud sends a squawk of birds from the trees - it is one of the crew, impaled upon a monkey-pommeled javelin. The rest flee for the ship, but few will make it that far.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5656</LineID>
+    </Text>
+  </Values>
+</Asset>

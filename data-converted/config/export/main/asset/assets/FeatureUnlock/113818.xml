@@ -1,0 +1,67 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>113818</GUID>
+      <Name>SunkenTreasures SessionDiscovery Condition</Name>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000002</Context>
+            <CounterAmount>700</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionTimer</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionTimer>
+                      <TimeLimit>5000</TimeLimit>
+                    </ConditionTimer>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsDLCActive</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionIsDLCActive>
+                      <DLCAssetList>
+                        <Item>
+                          <DLCAsset>410040</DLCAsset>
+                        </Item>
+                      </DLCAssetList>
+                    </ConditionIsDLCActive>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

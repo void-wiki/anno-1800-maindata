@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141868</GUID>
+      <Name>Diplomacy Non Attack Other Parcitipant</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>15007</Headline>
+      <Subline>15008</Subline>
+      <Image>142167</Image>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

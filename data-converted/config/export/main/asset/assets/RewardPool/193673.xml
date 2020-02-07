@@ -1,0 +1,56 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193673</GUID>
+      <Name>Sacred Plants Set Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>120031</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010254</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>120041</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010256</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>120044</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010213</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>120014</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010258</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+        </Item>
+      </ItemsPool>
+      <GenerateUniqueRewards>0</GenerateUniqueRewards>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,52 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>193851</GUID>
+      <Name>HeatItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_heating_center.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Schnapps=Heat</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>RadiusBuilding</Allocation>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>112091</GUID>
+        </Item>
+        <Item>
+          <GUID>112652</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010216</Product>
+          <AdditionalHeat>6</AdditionalHeat>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ItemAction />
+    <ExpeditionAttribute />
+    <ResidenceUpgrade>
+      <AdditionalHeat>5</AdditionalHeat>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

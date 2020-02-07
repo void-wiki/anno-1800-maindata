@@ -1,0 +1,47 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190636</GUID>
+      <Name>SpecialistSpawnProbabilityItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_visitor_harbour.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Military Enhancer</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>100429</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute />
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade>
+      <SpawnProbabilityFactor>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </SpawnProbabilityFactor>
+    </VisitorHarborUpgrade>
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade />
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

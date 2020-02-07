@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803725</GUID>
+      <Name>See you later</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Beast of the Swamp</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33203</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>803711</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

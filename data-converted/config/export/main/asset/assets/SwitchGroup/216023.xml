@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>216023</GUID>
+      <Name>SW_cmd_ship_turning</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>216021</Choice>
+        </Item>
+        <Item>
+          <Choice>216022</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>2586364665</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

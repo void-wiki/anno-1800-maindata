@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803363</GUID>
+      <Name>The Great Sickness</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Great Sickness</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30836</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800031</EventThreat>
+      <StartDecision>803364</StartDecision>
+      <EventMusicChoice>226702</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/disease_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202341</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

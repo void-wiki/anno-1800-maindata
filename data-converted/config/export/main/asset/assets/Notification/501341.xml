@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501341</GUID>
+      <Name>Holiday AnnoDay</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_globe.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501361</IconAsset>
+            <FilterType>System</FilterType>
+            <Infotip>0</Infotip>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>16931</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265133</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

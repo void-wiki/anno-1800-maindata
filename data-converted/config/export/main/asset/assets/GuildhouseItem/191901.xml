@@ -1,0 +1,54 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191901</GUID>
+      <Name>Pearls Seeds</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/fertilities/icon_fertility_pearl.png</IconFilename>
+      <InfoDescription>19746</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Quality Oyster Spawn</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26829</LineID>
+    </Text>
+    <Item>
+      <Allocation>HarborOffice</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>86900</TradePrice>
+    </Item>
+    <FactoryUpgrade>
+      <AddedFertility>120018</AddedFertility>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010339</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

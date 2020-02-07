@@ -1,0 +1,53 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>110795</GUID>
+      <Name>The Hunt - Informant Minister of Culture</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_baker_401_b.png</IconFilename>
+    </Standard>
+    <Collectable>
+      <DestroyOnCollect>0</DestroyOnCollect>
+      <CollectOnSelection>0</CollectOnSelection>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+      <InitialVisibility>0</InitialVisibility>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/quest/unit_groups/workers_being_threatened/workers_being_threatened_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Informant Minister of Culture</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController>
+      <UseMeshRenderFlags>1</UseMeshRenderFlags>
+    </FeedbackController>
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

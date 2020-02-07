@@ -1,0 +1,49 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>116823</GUID>
+      <Name>ThePassage StoryQuests Overwrite Intermediates</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionIsMultiplayer</Template>
+        <Values>
+          <Condition />
+          <ConditionIsMultiplayer />
+          <ConditionPropsNegatable>
+            <NegateCondition>1</NegateCondition>
+          </ConditionPropsNegatable>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>112648</TriggerAsset>
+                <UnregisterTrigger>1</UnregisterTrigger>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>116821</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>116752</GUID>
+      <Name>Incident_EscalatedArcticFire</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>116755</IconAsset>
+            <FilterType>Incidents</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>116758</NotificationText>
+            <NotificationAudioAsset>239733</NotificationAudioAsset>
+            <NotificationPriority>300</NotificationPriority>
+            <NotificationGroup>IncidentFire</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265191</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

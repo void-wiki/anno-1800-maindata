@@ -1,0 +1,83 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>116151</GUID>
+      <Name>Arctic Cook Rare</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_inuit_specialist_1007.png</IconFilename>
+      <InfoDescription>116120</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Rugged Outdoor Cook</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35963</LineID>
+    </Text>
+    <Item>
+      <Allocation>Lodge</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>119800</TradePrice>
+      <TradePriceOnlineCurrency>100</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>112091</GUID>
+        </Item>
+        <Item>
+          <GUID>112652</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>30</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>10</Amount>
+        </Item>
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>116120</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade>
+      <GoodConsumptionUpgrade>
+        <Item>
+          <ProvidedNeed>112705</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+      </GoodConsumptionUpgrade>
+    </ResidenceUpgrade>
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

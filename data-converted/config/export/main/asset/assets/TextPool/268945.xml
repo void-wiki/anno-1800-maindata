@@ -1,0 +1,32 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268945</GUID>
+      <Name>Pool_resident_tier2SA_Unhappy</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextGroups>
+        <Item>
+          <Group>1793620154</Group>
+        </Item>
+        <Item>
+          <Group>16769188</Group>
+        </Item>
+        <Item>
+          <Group>-1205823858</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

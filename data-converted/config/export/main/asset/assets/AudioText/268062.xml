@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Demeter will not permit such fruit here!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17810</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236192</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>268062</GUID>
+      <Name>AT_res_tier03_Missing_Fertility_01</Name>
+    </Standard>
+  </Values>
+</Asset>

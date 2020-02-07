@@ -1,0 +1,100 @@
+<Template>
+  <Name>Profile_1stParty Human</Name>
+  <Properties>
+    <Standard />
+    <Diplomacy>
+      <Memory>
+        <ShortTimeChange>0</ShortTimeChange>
+        <UpdateTable>
+          <Item>
+            <VectorElement>
+              <InheritedIndex>0</InheritedIndex>
+            </VectorElement>
+            <Difference>0</Difference>
+            <Change>0</Change>
+          </Item>
+          <Item>
+            <VectorElement>
+              <InheritedIndex>1</InheritedIndex>
+            </VectorElement>
+            <Difference>0</Difference>
+            <Change>0</Change>
+          </Item>
+          <Item>
+            <VectorElement>
+              <InheritedIndex>2</InheritedIndex>
+            </VectorElement>
+            <Difference>0</Difference>
+            <Change>0</Change>
+          </Item>
+        </UpdateTable>
+        <NegReputationCorrectionMax>0</NegReputationCorrectionMax>
+      </Memory>
+      <InitialRelation>
+        <DefaultMemory>50</DefaultMemory>
+        <Exceptions>
+          <Item>
+            <Participant>Third_party_02_Blake</Participant>
+            <Reputation>100</Reputation>
+            <Memory>100</Memory>
+            <Treaties>Peace;TradeRights</Treaties>
+          </Item>
+          <Item>
+            <Participant>Third_party_03_Pirate_Harlow</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+          <Item>
+            <Participant>Third_party_04_Pirate_LaFortune</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+          <Item>
+            <Participant>Third_party_05_Sarmento</Participant>
+            <Reputation>100</Reputation>
+            <Memory>100</Memory>
+            <Treaties>Peace;TradeRights</Treaties>
+          </Item>
+          <Item>
+            <Participant>Third_party_06_Nate</Participant>
+            <Reputation>100</Reputation>
+            <Memory>100</Memory>
+            <Treaties>Peace;TradeRights</Treaties>
+          </Item>
+          <Item>
+            <Participant>Third_party_07_Jailor_Bleakworth</Participant>
+            <Reputation>100</Reputation>
+            <Memory>100</Memory>
+            <Treaties>Peace;TradeRights</Treaties>
+          </Item>
+          <Item>
+            <Participant>Third_party_08_Kahina</Participant>
+            <Reputation>100</Reputation>
+            <Memory>100</Memory>
+            <Treaties>Peace;TradeRights</Treaties>
+          </Item>
+        </Exceptions>
+        <DefaultTreatiesUndiscovered>Peace</DefaultTreatiesUndiscovered>
+      </InitialRelation>
+      <ReactOnAlliance>1</ReactOnAlliance>
+    </Diplomacy>
+    <Profile>
+      <ProfileType>Human</ProfileType>
+      <AICanActUponProfile>1</AICanActUponProfile>
+    </Profile>
+    <Object>
+      <AddToObjectGroups>0</AddToObjectGroups>
+      <AddToEditorObjectGrid>0</AddToEditorObjectGrid>
+      <PlacableInEditor>0</PlacableInEditor>
+      <SelectableInEditor>0</SelectableInEditor>
+    </Object>
+    <ParticipantMessages />
+    <ExpeditionUser />
+    <ProfileCounter />
+    <MetaInfluence />
+    <Text />
+    <KontorOwner />
+    <ParticipantMessageObject>
+      <ParticipantMessages>201</ParticipantMessages>
+    </ParticipantMessageObject>
+    <MetaBuildPermits />
+  </Properties>
+</Template>

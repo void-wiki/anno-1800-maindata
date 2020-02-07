@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>191123</GUID>
+      <Name>celts</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_museum_celts_stonehenge.png</IconFilename>
+      <InfoDescription>15378</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <SetBuff>191141</SetBuff>
+      <BuffScope>Area</BuffScope>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>BRONZE AGE</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21969</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20070</GUID>
+      <Name>Allocation Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([ToolOneHelper ItemOrBuffEffectTargets([RefGuid]) AT(index)]) Text]:</Text>
+          <Status>Edit</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

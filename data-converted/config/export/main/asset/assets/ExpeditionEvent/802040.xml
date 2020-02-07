@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802040</GUID>
+      <Name>The Mutiny</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Mutiny</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21573</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800029</EventThreat>
+      <StartDecision>802041</StartDecision>
+      <EventMusicChoice>226698</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/melee_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

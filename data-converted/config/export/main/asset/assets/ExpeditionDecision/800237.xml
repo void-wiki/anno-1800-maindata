@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800237</GUID>
+      <Name>Of Unsound Mind 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistWithAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The patient grabs the doctor's head and smashes it against the table.&lt;/b&gt; The doctor was tapping his knee to check reflex, when the devil cut loose. "He wants putting out of his misery," a sailor cries, once the man is wrestled to the deck again. So they cut his throat. Attention turns to the doctor, but he is a doctor no more. Injury has rendered him insensible; an eight-year-old boy trapped in the body of a man! </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5734</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Do you mean to sabotage us?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8266</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221215</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256957</GUID>
+      <Name>AT_3rd_party_05_QuestFailed2</Name>
+    </Standard>
+  </Values>
+</Asset>

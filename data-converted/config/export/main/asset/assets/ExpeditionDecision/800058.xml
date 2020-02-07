@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800058</GUID>
+      <Name>Polar Event 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <NegativeOutcomeLosses>LoseSpecialistWithAttribute</NegativeOutcomeLosses>
+      <NegativeOutcomeMax>2</NegativeOutcomeMax>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>150038</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>600005</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>180025</Reward>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>found a warm place!</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

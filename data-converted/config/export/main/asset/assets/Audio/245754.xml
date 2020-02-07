@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245754</GUID>
+      <Name>Play_AI_NEW2_SEA3K_TXHN1_NBDMV_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2648</DurationMinimum>
+          <DurationMaximum>5204</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2306</DurationMinimum>
+          <DurationMaximum>5201</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2804</DurationMinimum>
+          <DurationMaximum>4709</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2688</DurationMinimum>
+          <DurationMaximum>5186</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2156395726</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

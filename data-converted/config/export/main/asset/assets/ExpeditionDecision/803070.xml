@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803070</GUID>
+      <Name>Fear of the Light 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sick die alone.&lt;/b&gt; Afraid of the man's state and the contagion he could potentially spread, your sailors lock him up in an emptied cabin. He opposes no resistance and during the following days, his presence is reduced to sporadic whimpers and the occasional monologue. When the voice finally dies out, the sailors carefully wrap his body in cloth and bury him at sea, both relieved and sorry that they let him die a dog's death.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26321</LineID>
+    </Text>
+  </Values>
+</Asset>

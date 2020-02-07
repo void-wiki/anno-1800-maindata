@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>500949</GUID>
+      <Name>sa construction menu materials (category)</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_build_menu.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>500904</Building>
+        </Item>
+        <Item>
+          <Building>500907</Building>
+        </Item>
+        <Item>
+          <Building>500910</Building>
+        </Item>
+        <Item>
+          <Building>500005</Building>
+        </Item>
+        <Item>
+          <Building>500145</Building>
+        </Item>
+      </BuildingList>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Materials</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27188</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

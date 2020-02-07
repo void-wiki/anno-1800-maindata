@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Very wise, young'un!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2506</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212509</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251545</GUID>
+      <Name>AT_ai03_ReactionToGenPosDipFromPlyr1</Name>
+    </Standard>
+  </Values>
+</Asset>

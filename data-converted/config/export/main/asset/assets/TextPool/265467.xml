@@ -1,0 +1,47 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>265467</GUID>
+      <Name>Pool_ai01_PlyrAttacksAndLoosesMilitaryTakeover</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>250070</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251007</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251029</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251030</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251032</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251094</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251114</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251406</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

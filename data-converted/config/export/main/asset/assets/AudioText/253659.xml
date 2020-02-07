@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A special edition!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4044</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236255</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253659</GUID>
+      <Name>AT_Reporter_SpecialEdition1</Name>
+    </Standard>
+  </Values>
+</Asset>

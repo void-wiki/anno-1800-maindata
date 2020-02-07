@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Is that a rattle I hear?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7871</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217747</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256302</GUID>
+      <Name>AT_enemy02_ReactionToGenNegDipFromPlyr2</Name>
+    </Standard>
+  </Values>
+</Asset>

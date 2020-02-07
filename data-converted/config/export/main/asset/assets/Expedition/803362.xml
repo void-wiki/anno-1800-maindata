@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>803362</GUID>
+      <Name>Test Expedition - The Great Sickness</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_diseases.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>3597</ExpeditionDescription>
+      <ExpeditionRegion>SouthernSouthAmerica</ExpeditionRegion>
+      <EventList>
+        <Item>
+          <EventOrEventPool>803363</EventOrEventPool>
+        </Item>
+      </EventList>
+      <FillThreats>1</FillThreats>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

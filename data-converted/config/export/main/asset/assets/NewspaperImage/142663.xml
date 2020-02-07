@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>142663</GUID>
+      <Name>ComeAndSee</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/newspaper_sunken_treasures_scepter.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/newspaper_sunken_treasures_scepter.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/newspaper_sunken_treasures_scepter.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets16/newspaper/special_edition/newspaper_sunken_treasures_scepter.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

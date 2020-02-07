@@ -1,0 +1,55 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>116968</GUID>
+      <Name>DLC03 Achievement02</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DLC03</AchievementCategory>
+      <AchievementTitle>116956</AchievementTitle>
+      <AchievementDescription>116962</AchievementDescription>
+      <AchievementUPlayID>121</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>QuestPoolQuestsSolved</PlayerCounter>
+            <Context>116973</Context>
+            <CounterAmount>10</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>112794</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112796</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>18</UplayActionID>
+      <UplayXP>200</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

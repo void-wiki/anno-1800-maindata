@@ -1,0 +1,161 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150929</GUID>
+      <Name>CQ330_TacticalEspionage_Movie_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionPlayMovie</Template>
+            <Values>
+              <Action />
+              <ActionPlayMovie>
+                <Movie>300003</Movie>
+              </ActionPlayMovie>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionHostileTakeover</Template>
+            <Values>
+              <Action />
+              <ActionHostileTakeover>
+                <IslandSession>180025</IslandSession>
+                <TakeoverIsland>160006</TakeoverIsland>
+              </ActionHostileTakeover>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionLoadSession</Template>
+            <Values>
+              <Action />
+              <ActionLoadSession>
+                <LoadSession>180023</LoadSession>
+              </ActionLoadSession>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>2000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionEnterSession</Template>
+                            <Values>
+                              <ActionEnterSession>
+                                <TargetSession>180023</TargetSession>
+                              </ActionEnterSession>
+                              <Action />
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionDeleteItem</Template>
+                            <Values>
+                              <Action />
+                              <ActionDeleteItem>
+                                <ItemGUID>102491</ItemGUID>
+                              </ActionDeleteItem>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>10000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionRegisterTrigger</Template>
+                            <Values>
+                              <Action />
+                              <ActionRegisterTrigger>
+                                <TriggerAsset>150807</TriggerAsset>
+                              </ActionRegisterTrigger>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>151440</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionEvent</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionEvent>
+                      <ConditionEvent>NotificationRemoved</ConditionEvent>
+                      <ContextData>Noti_TacticalEspionage</ContextData>
+                    </ConditionEvent>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

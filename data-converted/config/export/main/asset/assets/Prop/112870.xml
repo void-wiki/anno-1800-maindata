@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>112870</GUID>
+      <Name>Bush arctic high 01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/props/terrain_props/vegetation/bushes/bush_arctic_high_01_var0.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/props/terrain_props/vegetation/bushes/bush_arctic_high_01_var1.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop>
+      <HerdBlocking>Passable</HerdBlocking>
+    </Prop>
+  </Values>
+</Asset>

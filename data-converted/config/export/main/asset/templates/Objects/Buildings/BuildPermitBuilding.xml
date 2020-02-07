@@ -1,0 +1,59 @@
+<Template>
+  <Name>BuildPermitBuilding</Name>
+  <Properties>
+    <Standard>
+      <InfoDescription>163093</InfoDescription>
+    </Standard>
+    <Text />
+    <Blocking />
+    <Building>
+      <AllowChangeVariation>1</AllowChangeVariation>
+    </Building>
+    <Cost />
+    <Selection>
+      <GUIType>Ornamental</GUIType>
+    </Selection>
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+      </DestroySounds>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>203995</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <FeedbackController />
+    <Ornament />
+    <AmbientMoodProvider />
+    <Pausable />
+    <BuildPermit />
+  </Properties>
+</Template>

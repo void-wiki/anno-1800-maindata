@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>100791</GUID>
+      <Name>CO_Funeral_Preacher_01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/preacher/m_preacher_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking />
+    <DayNightReaction />
+  </Values>
+</Asset>

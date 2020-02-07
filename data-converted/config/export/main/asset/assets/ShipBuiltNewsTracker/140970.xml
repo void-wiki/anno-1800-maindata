@@ -1,0 +1,21 @@
+<Asset>
+  <Template>ShipBuiltNewsTracker</Template>
+  <Values>
+    <Standard>
+      <GUID>140970</GUID>
+      <Name>ShipBuiltNewsTracker</Name>
+    </Standard>
+    <NewsTrackerBase>
+      <NewsTrackerType>ShipBuiltNewsTracker</NewsTrackerType>
+      <NewsTrackerScope>Global</NewsTrackerScope>
+    </NewsTrackerBase>
+    <ShipBuiltNewsTracker>
+      <ShipBuiltNews>
+        <SeveralShipsThreshold>2</SeveralShipsThreshold>
+        <SeveralShipsBuiltArticle>140973</SeveralShipsBuiltArticle>
+        <TradeShipBuiltArticle>140971</TradeShipBuiltArticle>
+        <MilitaryShipBuiltArticle>140972</MilitaryShipBuiltArticle>
+      </ShipBuiltNews>
+    </ShipBuiltNewsTracker>
+  </Values>
+</Asset>

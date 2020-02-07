@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Herd</Template>
+  <Values>
+    <Standard>
+      <GUID>115222</GUID>
+      <Name>Herd Seal</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cattle.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_goat.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <Herd>
+      <StandTogetherRadius>5</StandTogetherRadius>
+      <Attackable>1</Attackable>
+    </Herd>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/seal/seal.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawnDuringMapLoad>0</AutoSpawnDuringMapLoad>
+      <AutoSpawn_AmbientZones>North;South</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Arctic</AutoSpawn_Regions>
+      <UnitCountMin>6</UnitCountMin>
+      <UnitCountMax>18</UnitCountMax>
+      <Animal_AudioLoop>235610</Animal_AudioLoop>
+      <ScaleFactor>0.7</ScaleFactor>
+    </AnimalBase>
+  </Values>
+</Asset>

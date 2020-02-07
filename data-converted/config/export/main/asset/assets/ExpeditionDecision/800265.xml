@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800265</GUID>
+      <Name>The Ghost Ship 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202341</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/disease_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Touch nothing! Get off the ship,"&lt;/b&gt; frets the doctor, who believes a dreadful plague has taken the crew of this ill-fated vessel. Perhaps drinking water is itself the cause. The crew are miserable time has been wasted, and that their thirst is still not slaked. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5538</LineID>
+    </Text>
+  </Values>
+</Asset>

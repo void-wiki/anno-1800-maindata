@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501805</GUID>
+      <Name>OtherShare_IslandOwnedByShareBuyer -f</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_takeover_small.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501358</IconAsset>
+            <NotificationSideTitle>10425</NotificationSideTitle>
+            <FilterType>HostileTakeover</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>22305</NotificationText>
+            <NotificationAudioAsset>9818749</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

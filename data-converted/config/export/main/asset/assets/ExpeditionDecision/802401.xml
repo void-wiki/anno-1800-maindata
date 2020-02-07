@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802401</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802403</Option>
+        </Item>
+        <Item>
+          <Option>802404</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;He trusts you, and proffers a crinkled map of the town.&lt;/b&gt; It is annotated with an unusual script. "Take it! I cannot read it," he says swatting flies from his milky and crusted eyes, "but then, I never could solve it when I had my sight!" It turns out the only thing he is absolutely sure of, is that the treasure is hidden nearby.</Text>
+          <Status>Exported</Status>
+          <ExportCount>8</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20855</LineID>
+    </Text>
+  </Values>
+</Asset>

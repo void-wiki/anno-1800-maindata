@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193745</GUID>
+      <Name>Water Growing C/U</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>111112</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111111</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112735</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114656</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112736</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

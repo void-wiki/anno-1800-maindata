@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>201235</GUID>
+      <Name>wwe_sfx_bld_factory_05_roll_animation</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1779</DurationMinimum>
+          <DurationMaximum>2016</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>25</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3723781711</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

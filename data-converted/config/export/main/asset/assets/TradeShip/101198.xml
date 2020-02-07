@@ -1,0 +1,179 @@
+<Asset>
+  <Template>TradeShip</Template>
+  <Values>
+    <Standard>
+      <GUID>101198</GUID>
+      <Name>Fisher (Trade - Campaign Prologue Only)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_lateen_sails.png</IconFilename>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/vehicle/fishing_boat_campaign.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <MultiSelectable>1</MultiSelectable>
+      <InteractionDistance>1</InteractionDistance>
+    </Selection>
+    <Walking>
+      <ReservationLength>9</ReservationLength>
+      <ReservationWidth>5</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <TurnAroundRadius>2</TurnAroundRadius>
+      <TurnSpeed>150</TurnSpeed>
+      <TurnMovement>75</TurnMovement>
+      <LeaningMaxAngle>10</LeaningMaxAngle>
+      <ForwardSpeed>4.4</ForwardSpeed>
+      <WindMinSlowdownFactor>1</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Old Fishing Boat</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14851</LineID>
+    </Text>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+      <PriorityShipList>2</PriorityShipList>
+      <IsDestructable>0</IsDestructable>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>4.2</Length>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>2000</MaximumHitPoints>
+      <SelfHealPerHealTick>10</SelfHealPerHealTick>
+      <SelfHealPausedTimeIfAttacked>60000</SelfHealPausedTimeIfAttacked>
+    </Attackable>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+      <StrategicMapAsset>500433</StrategicMapAsset>
+    </MinimapToken>
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>215870</Sound>
+        </Item>
+      </DestroySounds>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <SocketCount>1</SocketCount>
+      <SlotCount>2</SlotCount>
+      <InitSlotItems>
+        <Item>
+          <Item>102328</Item>
+          <StackSize>1</StackSize>
+        </Item>
+      </InitSlotItems>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010210</Ingredient>
+          <Amount>10</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+    <Craftable>
+      <CraftingTime>180000</CraftingTime>
+    </Craftable>
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkTradeShip</Attribute>
+          <Amount>1</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+    <ShipMaintenance>
+      <Maintenance>0</Maintenance>
+      <DisableShipDestructionTracking>1</DisableShipDestructionTracking>
+    </ShipMaintenance>
+    <Sellable>
+      <Baseprice>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>TradeShip</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>3750</Amount>
+        </Item>
+      </Baseprice>
+      <CanBeSoldToTrader>0</CanBeSoldToTrader>
+    </Sellable>
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks>
+      <BarkMapping>
+        <Selection>
+          <AudioPool>0</AudioPool>
+        </Selection>
+        <AttackCommand>
+          <AudioPool>0</AudioPool>
+        </AttackCommand>
+        <MoveCommand>
+          <AudioPool>0</AudioPool>
+        </MoveCommand>
+        <EscortCommand>
+          <AudioPool>0</AudioPool>
+        </EscortCommand>
+        <PatrolCommand>
+          <AudioPool>0</AudioPool>
+        </PatrolCommand>
+        <SelectionDamaged>
+          <AudioPool>0</AudioPool>
+        </SelectionDamaged>
+      </BarkMapping>
+    </SoundEmitterCommandBarks>
+  </Values>
+</Asset>

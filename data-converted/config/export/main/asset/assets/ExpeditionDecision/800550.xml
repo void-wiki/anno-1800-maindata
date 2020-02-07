@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800550</GUID>
+      <Name>The Visitation 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The cage-trap is well-made,&lt;/b&gt; and daybreak reveals an unlikely specimen encaged. "A sort of badger?" is the first analysis, which in actuality, is fairly far from the mark. The compendium of animalia in the ship's library reveals it a "northern raccoon", also remarking that is "quite edible." </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5564</LineID>
+    </Text>
+  </Values>
+</Asset>

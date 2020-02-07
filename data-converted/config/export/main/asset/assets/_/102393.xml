@@ -1,0 +1,57 @@
+<Asset>
+  <BaseAssetGUID>100438</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>102393</GUID>
+      <Name>QO Schooner (Trade) Anne Harlow Main arc</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <MultiSelectable>0</MultiSelectable>
+      <SelectionPriority>0</SelectionPriority>
+      <InteractionDistance>15</InteractionDistance>
+    </Selection>
+    <Walking />
+    <Text>
+      <LineID>21912</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

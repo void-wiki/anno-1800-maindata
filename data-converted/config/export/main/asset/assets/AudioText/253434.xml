@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The world has seen enough of your tyranny.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9351</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221052</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253434</GUID>
+      <Name>AT_ai04_NpcDeclaresWarOnPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190775</GUID>
+      <Name>all fire stations</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fire Stations</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15240</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010463</GUID>
+        </Item>
+        <Item>
+          <GUID>101275</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

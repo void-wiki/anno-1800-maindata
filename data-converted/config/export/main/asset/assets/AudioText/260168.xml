@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Good fire-breather! Thaw this frozen wasteland.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11061</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222370</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260168</GUID>
+      <Name>AT_advisor02_PosiFeedbackToPlayer4</Name>
+    </Standard>
+  </Values>
+</Asset>

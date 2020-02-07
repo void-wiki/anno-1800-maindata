@@ -1,0 +1,23 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>140596</GUID>
+      <Name>RiotIncidents</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_police.png</IconFilename>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>1010360</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

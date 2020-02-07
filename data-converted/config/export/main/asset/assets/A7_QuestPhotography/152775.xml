@@ -1,0 +1,167 @@
+<Asset>
+  <Template>A7_QuestPhotography</Template>
+  <Values>
+    <Standard>
+      <GUID>152775</GUID>
+      <Name>Boris_BeyondTheHorizon2</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <Subtitle>265092</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <OnQuestSucceeded>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionStartQuest</Template>
+                  <Values>
+                    <Action />
+                    <ActionStartQuest>
+                      <Quest>152776</Quest>
+                      <QuestSession>180023</QuestSession>
+                    </ActionStartQuest>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnQuestSucceeded>
+      <QuestGiver>87</QuestGiver>
+      <StoryText>20046</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <MaxAbortCount>1</MaxAbortCount>
+      <QuestTrackerVisibility>Global</QuestTrackerVisibility>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>20042</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectLabel>102672</ObjectLabel>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Beyond The Horizon 2 - From A Different Point of View</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29700</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>193001</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>13010</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>100709</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102672</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>Area</SpawnContext>
+                        <MatcherGUID>153157</MatcherGUID>
+                        <LimitToQuestArea>1</LimitToQuestArea>
+                        <DistanceToContext>5</DistanceToContext>
+                        <DistanceToBorder>Near</DistanceToBorder>
+                        <DistanceToIsland>Far</DistanceToIsland>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <ObjectDespawn>Despawn</ObjectDespawn>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

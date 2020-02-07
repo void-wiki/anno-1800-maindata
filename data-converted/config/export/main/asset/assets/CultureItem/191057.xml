@@ -1,0 +1,47 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191057</GUID>
+      <Name>cat</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_cat.png</IconFilename>
+      <InfoDescription>13679</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Domestic Cat</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26430</LineID>
+    </Text>
+    <Item>
+      <TradePrice>4300</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101986</ChangeModule>
+      <ForcedFeedbackVariation>1000134</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203299</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>-5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>14062</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

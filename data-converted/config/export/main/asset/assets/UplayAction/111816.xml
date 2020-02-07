@@ -1,0 +1,36 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>111816</GUID>
+      <Name>DM01 - Propaganda of the Deed</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DM</AchievementCategory>
+      <AchievementTitle>111806</AchievementTitle>
+      <AchievementDescription>111811</AchievementDescription>
+      <AchievementUPlayID>88</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>QuestPoolQuestsSolved</PlayerCounter>
+            <Context>110932</Context>
+            <CounterAmount>20</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>14</UplayActionID>
+      <UplayXP>500</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

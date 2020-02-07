@@ -1,0 +1,53 @@
+<Asset>
+  <BaseAssetGUID>100440</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>103063</GUID>
+      <Name>QO Liner (Military) Willie competitor</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LineID>31496</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable />
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

@@ -1,0 +1,105 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>116295</GUID>
+      <Name>Maps 1.0</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>115481</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>115482</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsDLCActive</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionIsDLCActive>
+                      <DLCAssetList>
+                        <Item>
+                          <DLCAsset>410040</DLCAsset>
+                        </Item>
+                        <Item>
+                          <DLCAsset>410042</DLCAsset>
+                        </Item>
+                      </DLCAssetList>
+                    </ConditionIsDLCActive>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionUnlocked</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionUnlocked>
+                      <UnlockNeeded>180045</UnlockNeeded>
+                    </ConditionUnlocked>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <Context>112084</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

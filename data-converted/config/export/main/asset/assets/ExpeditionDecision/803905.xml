@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803905</GUID>
+      <Name>Blizzard 1.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803906</Option>
+        </Item>
+        <Item>
+          <Option>803909</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A bunch of wet lettuces.&lt;/b&gt; They claim that the rigging is too slippery to grip. If these are your best sailors, lord help the others, but those sails must come down— the ship is being blown towards some jagged silhouette! You can &lt;b&gt;grab something to aid the climb&lt;/b&gt; or &lt;b&gt;get them up there quick.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34874</LineID>
+    </Text>
+  </Values>
+</Asset>

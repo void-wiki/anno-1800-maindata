@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12498</GUID>
+      <Name>NPC Needs Decision in Alliance - m</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] reminds you of your alliance, urging you to attack your other ally [Participants ParticipantName([NotificationContext Value(WarParty) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10839</LineID>
+    </Text>
+  </Values>
+</Asset>

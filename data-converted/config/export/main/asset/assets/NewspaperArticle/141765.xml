@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141765</GUID>
+      <Name>Military Battle Won</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14599</Headline>
+      <Subline>14616</Subline>
+      <Image>142123</Image>
+      <Category>Military</Category>
+      <NewsPriority>
+        <StartValue>300</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>RiotChanceGlobal</ArticleEffect>
+      <EffectValue>-50</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

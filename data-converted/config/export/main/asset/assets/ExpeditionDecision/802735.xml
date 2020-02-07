@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802735</GUID>
+      <Name>The Preacher 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802736</Option>
+        </Item>
+        <Item>
+          <Option>802737</Option>
+        </Item>
+        <Item>
+          <Option>802738</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your chaplain is going overboard with his preaching.&lt;/b&gt; Blaming the expedition's mishaps and hazards on the supposed heresy of the ship's officers, the man of faith manages to rouse the gradual distrust and anger of the sailors. His preaching is now part of the crew's daily routine. His words find echo in the mouths of the sailors, and your lieutenants can see their authority slipping away.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21714</LineID>
+    </Text>
+  </Values>
+</Asset>

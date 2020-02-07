@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190609</GUID>
+      <Name>all zoo and museum</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Zoos and Museums</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15237</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010470</GUID>
+        </Item>
+        <Item>
+          <GUID>1010471</GUID>
+        </Item>
+        <Item>
+          <GUID>102282</GUID>
+        </Item>
+        <Item>
+          <GUID>102283</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

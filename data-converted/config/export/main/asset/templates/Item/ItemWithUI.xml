@@ -1,0 +1,18 @@
+<Template>
+  <Name>ItemWithUI</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>None</Allocation>
+      <Rarity>Quest</Rarity>
+      <ItemType>None</ItemType>
+    </Item>
+    <ItemWithUI />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <ItemAction />
+    <ExpeditionAttribute />
+  </Properties>
+</Template>

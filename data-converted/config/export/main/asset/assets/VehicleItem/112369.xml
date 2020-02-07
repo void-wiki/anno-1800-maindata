@@ -1,0 +1,71 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112369</GUID>
+      <Name>ExtermiNATE-ing Device</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ship_military/icon_double_barreled_cannon_2.png</IconFilename>
+      <InfoDescription>112504</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>ExtermiN8r</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32364</LineID>
+    </Text>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ExclusiveGroup>Canons</ExclusiveGroup>
+      <TradePrice>243000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>112504</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <BaseDamageUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <AttackSpeedUpgrade>20</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>112520</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010221</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010232</Product>
+          <Amount>10</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

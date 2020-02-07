@@ -1,0 +1,23 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>500160</GUID>
+      <Name>ShipForSale</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/sell.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>For Sale</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14875</LineID>
+    </Text>
+  </Values>
+</Asset>

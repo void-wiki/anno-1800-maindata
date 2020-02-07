@@ -1,0 +1,40 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>265445</GUID>
+      <Name>Pool_ai04_PlyrRebuffsNPCThreat</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>253429</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253430</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253431</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253432</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>1333000573</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

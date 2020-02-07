@@ -1,0 +1,19 @@
+<Template>
+  <Name>MusicArea</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/music_trenchcoat.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <MusicArea />
+  </Properties>
+</Template>

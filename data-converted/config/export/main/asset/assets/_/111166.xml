@@ -1,0 +1,60 @@
+<Asset>
+  <BaseAssetGUID>100443</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>111166</GUID>
+      <Name>QO Monitor (Military) Mercier Mobilize their minds</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31777</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>100000</MaximumHitPoints>
+    </Attackable>
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

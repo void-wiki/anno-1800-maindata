@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802760</GUID>
+      <Name>Jolly Roger 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190429</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The pirates don't expect such a crafty attack.&lt;/b&gt; "I was saving these for a special occasion such as this," your weaponsmith burps. The 'special brew' he has concocted consists of a bottle filled with powder, hemp fuse, and a nail surprise. There is a shimmering sound as they explode, and when the smoke clears, your crew frisk the punctured bodies littering the deck, singing "Rollicking band of pirates, we!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21514</LineID>
+    </Text>
+  </Values>
+</Asset>

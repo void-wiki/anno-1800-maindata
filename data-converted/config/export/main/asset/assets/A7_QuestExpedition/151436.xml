@@ -1,0 +1,136 @@
+<Asset>
+  <Template>A7_QuestExpedition</Template>
+  <Values>
+    <Standard>
+      <GUID>151436</GUID>
+      <Name>CQ330_TacticalEspionage_HiddenCheck</Name>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <FailureMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </FailureMessage>
+      <OnQuestEnd>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionEndQuest</Template>
+                  <Values>
+                    <Action />
+                    <ActionEndQuest>
+                      <Quest>150914</Quest>
+                      <WinQuest>1</WinQuest>
+                    </ActionEndQuest>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnQuestEnd>
+      <QuestGiver>29</QuestGiver>
+      <StoryText>13216</StoryText>
+      <DescriptionText>0</DescriptionText>
+      <MaxCallOut>1</MaxCallOut>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <QuestCategory>MainQuest</QuestCategory>
+      <QuestActivation>QuestStart</QuestActivation>
+      <IsAbortable>0</IsAbortable>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180025</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <CampaignChapter>Chapter3</CampaignChapter>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Follow the Lead</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25959</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>ExpeditionSolved</PlayerCounter>
+                <Context>801900</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>ExpeditionSolved</PlayerCounter>
+                <Context>801901</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>ExpeditionSolved</PlayerCounter>
+                <Context>801902</Context>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>MutuallyExclusive</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional />
+  </Values>
+</Asset>

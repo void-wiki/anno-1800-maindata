@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802381</GUID>
+      <Name>The Devil Calls</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Call Of The Devil</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20837</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthAmerica;Africa;SouthernEurope;SouthernSouthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800028</EventThreat>
+      <StartDecision>802382</StartDecision>
+      <EventMusicChoice>226703</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/stranger_things_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202359</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

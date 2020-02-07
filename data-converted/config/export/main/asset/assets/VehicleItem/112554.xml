@@ -1,0 +1,69 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112554</GUID>
+      <Name>Ballasted Cables</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/item_cable_01.png</IconFilename>
+      <InfoDescription>112585</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text> Ballast Cable</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32321</LineID>
+    </Text>
+    <Item>
+      <Allocation>DivingVessel</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <ExclusiveGroup>Cables</ExclusiveGroup>
+      <TradePrice>80000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>112585</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>112518</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010227</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010255</Product>
+          <Amount>5</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <DivingBellUpgrade>
+      <ScrapAmountLevelUpgrade>
+        <Value>1</Value>
+      </ScrapAmountLevelUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700148</GUID>
+      <Name>AP - All Imperial Kontors</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010540</Asset>
+        </Item>
+        <Item>
+          <Asset>100514</Asset>
+        </Item>
+        <Item>
+          <Asset>100515</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Asset Pool All Kontors</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

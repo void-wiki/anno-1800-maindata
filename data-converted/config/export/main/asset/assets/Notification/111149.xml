@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>111149</GUID>
+      <Name>ArticleUnlocked</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501379</IconAsset>
+            <FilterType>Progress</FilterType>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>111150</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

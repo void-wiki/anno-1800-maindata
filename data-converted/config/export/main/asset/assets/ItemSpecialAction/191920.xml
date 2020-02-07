@@ -1,0 +1,58 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191920</GUID>
+      <Name>Suspended Frosted Glass Grenade</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_extinguisher_grenade_2.png</IconFilename>
+      <InfoDescription>19546</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>6000018</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <ItemAction>HEAL_INCIDENT</ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <ActionIncidentType>Fire</ActionIncidentType>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>4800000</ActionDuration>
+      <ActiveBuff>191929</ActiveBuff>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <Item>
+      <Allocation>GuildHouse</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>11000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Suspended Frosted Glass Grenade</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26838</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19546</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

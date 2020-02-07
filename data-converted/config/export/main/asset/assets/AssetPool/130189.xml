@@ -1,0 +1,32 @@
+<Asset>
+  <Template>AssetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>130189</GUID>
+      <Name>Items Jornalero 1.4</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+    </Standard>
+    <AssetPool>
+      <AssetList>
+        <Item>
+          <Asset>191900</Asset>
+        </Item>
+        <Item>
+          <Asset>191901</Asset>
+        </Item>
+        <Item>
+          <Asset>191902</Asset>
+        </Item>
+        <Item>
+          <Asset>190616</Asset>
+        </Item>
+        <Item>
+          <Asset>190618</Asset>
+        </Item>
+        <Item>
+          <Asset>190620</Asset>
+        </Item>
+      </AssetList>
+    </AssetPool>
+  </Values>
+</Asset>

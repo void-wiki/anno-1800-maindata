@@ -1,0 +1,63 @@
+<Asset>
+  <Template>ItemSpecialActionVisualEffect</Template>
+  <Values>
+    <Standard>
+      <GUID>191971</GUID>
+      <Name>Aerial Fireworks</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_fireworks_3.png</IconFilename>
+      <InfoDescription>19568</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <ItemAction>NOACTION</ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>3000000</ActionDuration>
+      <ActiveBuff>191976</ActiveBuff>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <Item>
+      <Allocation>TownHall</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>40000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Briliant Fireworks</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26854</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>3</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>6</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19568</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <VisualEffectWhenActive>
+      <EffectFile>data/graphics/effects/particles/special/fireworks/guild_house_03.cfg</EffectFile>
+    </VisualEffectWhenActive>
+  </Values>
+</Asset>

@@ -1,0 +1,27 @@
+<Asset>
+  <Template>WorldMapShip</Template>
+  <Values>
+    <Standard>
+      <GUID>101211</GUID>
+      <Name>WorldMapSessionAsset</Name>
+      <ID>WorldMapSessionAsset</ID>
+    </Standard>
+    <Object>
+      <Type>NotSerialized</Type>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <DynamicVariation>
+      <DynamicVariationType>SequenceAsset</DynamicVariationType>
+    </DynamicVariation>
+    <Selection>
+      <GUIType>Vehicle</GUIType>
+    </Selection>
+    <InfotipObject />
+    <WorldMapDynamicSoundEmitter />
+    <WorldMapSound>
+      <UIClickEvent>9818389</UIClickEvent>
+    </WorldMapSound>
+  </Values>
+</Asset>

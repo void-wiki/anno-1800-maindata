@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Never interrupt your enemy… </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9509</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221522</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252827</GUID>
+      <Name>AT_ai09_PlayerDeclaresWarOnNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

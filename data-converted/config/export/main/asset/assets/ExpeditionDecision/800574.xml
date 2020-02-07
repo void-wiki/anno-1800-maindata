@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800574</GUID>
+      <Name>The Visitation 1.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The menace is very persistent.&lt;/b&gt; Restless nights, devoured food, and stolen supplies shall go unexplained and unresolved for the remainder of the expedition. The crew are at their wit's end.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5589</LineID>
+    </Text>
+  </Values>
+</Asset>

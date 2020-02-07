@@ -1,0 +1,53 @@
+<Template>
+  <Name>HitMovingTargetObjective</Name>
+  <Properties>
+    <ConditionQuestHitMovingTarget>
+      <HitTargetSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500482</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </HitTargetSignsAndFeedback>
+      <WaypointAmount>5</WaypointAmount>
+      <TargetPatrolRadius>20</TargetPatrolRadius>
+      <ItemRetrievalPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ItemRetrievalPlace>
+      <ItemUsed>190585</ItemUsed>
+    </ConditionQuestHitMovingTarget>
+    <ConditionPropsSessionSettings />
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12764</TextCombinedContextValue>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500482</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <SpawnArea>
+      <SpawnContext>ClientKontor</SpawnContext>
+      <SpawnAreaType>Water</SpawnAreaType>
+    </SpawnArea>
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ExecutionPlace>
+      <ExecutionPlaceText>12754</ExecutionPlaceText>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

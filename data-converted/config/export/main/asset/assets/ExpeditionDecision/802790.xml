@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802790</GUID>
+      <Name>Jolly Roger 1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190429</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The pirates are sunk&lt;/b&gt; before they have a chance to do any damage at all! Your ship's guns target the most mould-ridden flank of the corsair ship, smashing it through. The antique vessel collapses on itself and your sailors enjoy the resulting plunder almost as if they themselves had been the pesky picaroons.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21545</LineID>
+    </Text>
+  </Values>
+</Asset>

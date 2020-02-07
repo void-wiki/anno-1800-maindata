@@ -1,0 +1,93 @@
+<Asset>
+  <BaseAssetGUID>1010372</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101257</GUID>
+      <Name>service_colony01_01 (Marketplace)</Name>
+      <ID>MarketplaceColony01</ID>
+    </Standard>
+    <Text>
+      <LineID>8497</LineID>
+    </Text>
+    <Blocking />
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Cost />
+    <Selection>
+      <Colors>
+        <WeakSelectionColor>-781454701</WeakSelectionColor>
+      </Colors>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Market</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/buildings/public/service_colony01_01/service_colony01_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>203443</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <Locked />
+    <Infolayer />
+    <FeedbackController />
+    <UpgradeList />
+    <AmbientMoodProvider />
+    <Maintenance />
+    <Market />
+    <StorageBase>
+      <StoredProducts>
+        <Item>
+          <Product>120033</Product>
+        </Item>
+        <Item>
+          <Product>1010257</Product>
+        </Item>
+        <Item>
+          <Product>120043</Product>
+        </Item>
+        <Item>
+          <Product>120035</Product>
+        </Item>
+        <Item>
+          <Product>1010259</Product>
+        </Item>
+        <Item>
+          <Product>120037</Product>
+        </Item>
+        <Item>
+          <Product>1010214</Product>
+        </Item>
+        <Item>
+          <Product>120032</Product>
+        </Item>
+        <Item>
+          <Product>1010206</Product>
+        </Item>
+      </StoredProducts>
+    </StorageBase>
+    <Attackable />
+    <Pausable />
+    <IncidentInfectable />
+    <LogisticNode />
+    <PublicService />
+    <Culture />
+    <StreetActivation />
+  </Values>
+</Asset>

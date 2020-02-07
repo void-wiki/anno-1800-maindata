@@ -1,0 +1,72 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112378</GUID>
+      <Name>TurbiN'ATtire</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ship_military/icon_hydrojet_2.png</IconFilename>
+      <InfoDescription>112507</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jet Propeller— "Cyclone"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32367</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>240000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+      <IgnoreWeightFactorUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </IgnoreWeightFactorUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>112507</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>112520</Product>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Product>1010219</Product>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Product>1010224</Product>
+          <Amount>5</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

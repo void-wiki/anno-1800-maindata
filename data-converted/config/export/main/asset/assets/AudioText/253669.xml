@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I suppose it can be reworded like this!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4052</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236246</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253669</GUID>
+      <Name>AT_Reporter_ManipulateArticle2</Name>
+    </Standard>
+  </Values>
+</Asset>

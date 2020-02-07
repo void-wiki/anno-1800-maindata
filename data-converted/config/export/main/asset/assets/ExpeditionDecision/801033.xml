@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801033</GUID>
+      <Name>Dockyard Dupe 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Swift justice.&lt;/b&gt; The petty harbour defences crumble in the morning light. Your ship streaks unopposed into what remains of the smouldering harbour, and turns its guns upon the harbourmaster's office. "Please, take anything!" he yelps, "you will find all your things in the warehouse, and more besides." You profit from a scheme that has been running for years.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13112</LineID>
+    </Text>
+  </Values>
+</Asset>

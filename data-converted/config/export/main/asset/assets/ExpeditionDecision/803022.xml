@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803022</GUID>
+      <Name>Blizzard 1.1.3.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Somehow, it works.&lt;/b&gt; Your sailors take the time to slowly distil seawater in order to avoid improper condensation. The salt is acquired faster than anticipated and spread over the base of the main mast, forcing the ice back to its liquid form. The blizzard keeps filling the sails until it goes out of breath and recedes, but the furious weather was enough to greatly maim the ship. There will be extensive repairs.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22156</LineID>
+    </Text>
+  </Values>
+</Asset>

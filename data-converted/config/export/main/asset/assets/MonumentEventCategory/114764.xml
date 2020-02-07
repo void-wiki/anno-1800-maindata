@@ -1,0 +1,41 @@
+<Asset>
+  <Template>MonumentEventCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>114764</GUID>
+      <Name>Botanical Marvels</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_botanical.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Botany and Horticulture</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33423</LineID>
+    </Text>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+    <MonumentEventCategory>
+      <Events>
+        <Item>
+          <Event>114765</Event>
+        </Item>
+        <Item>
+          <Event>114766</Event>
+        </Item>
+        <Item>
+          <Event>114767</Event>
+        </Item>
+      </Events>
+      <PotentialCategoryReward>114768</PotentialCategoryReward>
+      <CategoryDescriptionFluff>114769</CategoryDescriptionFluff>
+      <CategoryBackground>data/ui/2kimages/main/assets/monument_event/bg_monument_event_botanica.png</CategoryBackground>
+      <SizeSelectionBackground>data/ui/2kimages/main/assets/monument_event/monument_event_botanica.png</SizeSelectionBackground>
+      <EventAudioState>InExhibitionEventArcheology</EventAudioState>
+    </MonumentEventCategory>
+  </Values>
+</Asset>

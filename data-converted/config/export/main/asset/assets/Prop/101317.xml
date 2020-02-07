@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101317</GUID>
+      <Name>lantern</Name>
+    </Standard>
+    <Object>
+      <Type>GameObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/lamps/lantern_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/lamps/lantern_02.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

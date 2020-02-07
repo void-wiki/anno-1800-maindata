@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802724</GUID>
+      <Name>Bottles Found in the Sea 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802725</Option>
+        </Item>
+        <Item>
+          <Option>802726</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The homemade autopsy is a mess.&lt;/b&gt; The shark's entrails are cut along with their contents and spilled over the deck is a nauseous mass of gore and artefacts of unknown origin. The doctor cannot make sense of the anarchy he created.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21702</LineID>
+    </Text>
+  </Values>
+</Asset>

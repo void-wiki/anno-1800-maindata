@@ -1,0 +1,65 @@
+<Asset>
+  <BaseAssetGUID>100440</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101218</GUID>
+      <Name>CQO_Queen_01Flagship</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/vehicle/queen_ship/queen_ship.cfg</Filename>
+        </Item>
+      </Variations>
+      <DefaultParticipant>Third_party_01_Queen</DefaultParticipant>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Her Majesty's Flagship</Text>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20718</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+    </CommandQueue>
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>7000</MaximumHitPoints>
+      <SelfHealPausedTimeIfAttacked>0</SelfHealPausedTimeIfAttacked>
+    </Attackable>
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

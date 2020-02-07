@@ -1,0 +1,32 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700145</GUID>
+      <Name>AP - All Sunken Treasue Sets</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>193401</Asset>
+        </Item>
+        <Item>
+          <Asset>193403</Asset>
+        </Item>
+        <Item>
+          <Asset>193405</Asset>
+        </Item>
+        <Item>
+          <Asset>193408</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Asset Pool Sunken Treasure Sets</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

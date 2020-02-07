@@ -1,0 +1,45 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700132</GUID>
+      <Name>AP - All Food</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fish.png</IconFilename>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010200</Asset>
+        </Item>
+        <Item>
+          <Asset>1010213</Asset>
+        </Item>
+        <Item>
+          <Asset>1010217</Asset>
+        </Item>
+        <Item>
+          <Asset>1010238</Asset>
+        </Item>
+        <Item>
+          <Asset>120033</Asset>
+        </Item>
+        <Item>
+          <Asset>120035</Asset>
+        </Item>
+        <Item>
+          <Asset>1010258</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>of any food</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30276</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,35 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>190101</GUID>
+      <Name>item action fertility animals</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fur.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010558</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Handful of Animal Seeds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26361</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <AddedFertility>1010581</AddedFertility>
+    </FactoryUpgrade>
+    <BuildingUpgrade />
+    <Buff />
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

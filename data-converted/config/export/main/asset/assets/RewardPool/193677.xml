@@ -1,0 +1,26 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193677</GUID>
+      <Name>Culture - Plants - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193682</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193687</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193692</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

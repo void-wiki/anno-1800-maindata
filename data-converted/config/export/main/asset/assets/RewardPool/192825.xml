@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192825</GUID>
+      <Name>Characters - Investor - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192321</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192322</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192323</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192324</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192325</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,22 @@
+<Asset>
+  <Template>RealWindFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>142552</GUID>
+      <Name>RealWindBalancing</Name>
+      <ID>RealWindBalancing</ID>
+    </Standard>
+    <RealWindFeature>
+      <RealWindEnabled>0</RealWindEnabled>
+      <WindLow>0.5</WindLow>
+      <WindLull>1</WindLull>
+      <WindMax>1.2</WindMax>
+      <FalloffStart>-0.1</FalloffStart>
+      <RealWindRandBase>0.05</RealWindRandBase>
+      <RealWindRandAdd>0.007</RealWindRandAdd>
+      <RealWindStreamRelation>0.25</RealWindStreamRelation>
+      <RealWindStreamWidth>0.7</RealWindStreamWidth>
+      <RealWindStreamStrength>0.95</RealWindStreamStrength>
+    </RealWindFeature>
+  </Values>
+</Asset>

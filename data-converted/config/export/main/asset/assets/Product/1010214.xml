@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010214</GUID>
+      <Name>beer</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_beer.png</IconFilename>
+      <InfoDescription>11751</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Beer</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5354</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11705</ProductCategory>
+      <BasePrice>325</BasePrice>
+      <CivLevel>2</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>20</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <FluffText>12859</FluffText>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

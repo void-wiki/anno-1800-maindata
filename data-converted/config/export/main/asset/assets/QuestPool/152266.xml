@@ -1,0 +1,32 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>152266</GUID>
+      <Name>PietSmiet_Pool</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Quests>
+        <Item>
+          <Quest>152263</Quest>
+        </Item>
+      </Quests>
+      <IsTopLevel>1</IsTopLevel>
+      <PoolCooldown>10000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>10000</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

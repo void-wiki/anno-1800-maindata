@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deals are off, and don't ask why!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2481</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212649</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251502</GUID>
+      <Name>AT_ai03_NpcCancelsTradeRights3</Name>
+    </Standard>
+  </Values>
+</Asset>

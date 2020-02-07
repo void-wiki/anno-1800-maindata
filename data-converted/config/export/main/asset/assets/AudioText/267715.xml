@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bright Sands is no place for civilians! We must come to their rescue!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17295</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233432</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267715</GUID>
+      <Name>advisor01_Ch4Ph2_Additional_23</Name>
+    </Standard>
+  </Values>
+</Asset>

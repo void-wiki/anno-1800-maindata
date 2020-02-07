@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802637</GUID>
+      <Name>The Mountain Maw 1.1.2.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/polar_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The rescue comes at the price of their remaining strength.&lt;/b&gt; It takes ten sailors to get one man out of the fault: three to pull, six to hold and one to keep an eye on the trembling layer of ice. The snow weighs them down, pushing when they pull, hissing when they call out. When the last sailor is hauled from the rift, both rescuers and rescued are broken. They drag themselves downhill and manage to leave the clutch of the mountain.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21844</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802708</GUID>
+      <Name>The Runaway 1.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192079</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The fugitive does not resist.&lt;/b&gt; With a look of stoic resignation, the man offers the officials his hands to be shackled. He offers turns back one last time before he goes, "thank you for everything," he says— dignified until the very last. The crew shall miss his company greatly.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21644</LineID>
+    </Text>
+  </Values>
+</Asset>

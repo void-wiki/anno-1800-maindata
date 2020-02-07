@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'll not tarnish my good name with violence.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30493</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204389</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109848</GUID>
+      <Name>AT_ai10_NpcYieldsToPlayerThreat1</Name>
+    </Standard>
+  </Values>
+</Asset>

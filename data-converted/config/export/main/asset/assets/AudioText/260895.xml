@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I don't know where Kahina gets her prices!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11897</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229762</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260895</GUID>
+      <Name>AT_ai07_IdleMessageGossip_Kahina</Name>
+    </Standard>
+  </Values>
+</Asset>

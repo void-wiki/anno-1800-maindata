@@ -1,0 +1,194 @@
+<Asset>
+  <BaseAssetGUID>1010464</BaseAssetGUID>
+  <AddedProperties>
+    <Heated />
+    <LogisticNode />
+  </AddedProperties>
+  <Values>
+    <Standard>
+      <GUID>112669</GUID>
+      <Name>institution_arctic_01 (Ranger Station)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ranger_station.png</IconFilename>
+      <InfoDescription>116247</InfoDescription>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Arctic</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>4000</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>5</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>4</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>4</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>5</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>5</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/dlc03/graphics/buildings/public/institution_colony03_01/institution_colony03_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ranger Station</Text>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35093</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>242789</Sound>
+        </Item>
+      </ActiveSounds>
+      <IncidentSounds>
+        <ExplosionOneShots>
+          <Item>
+            <Sound>203849</Sound>
+          </Item>
+        </ExplosionOneShots>
+      </IncidentSounds>
+    </SoundEmitter>
+    <FeedbackController>
+      <NightBehavior>HideRand</NightBehavior>
+    </FeedbackController>
+    <Infolayer />
+    <UpgradeList />
+    <IncidentResolver>
+      <ResolverUnit>114895</ResolverUnit>
+      <ResolverUnitCount>1</ResolverUnitCount>
+      <SpecialUnit>114896</SpecialUnit>
+      <SpecialUnitThresholds />
+      <ResolvableIncidents>Fire;ArcticIllness</ResolvableIncidents>
+      <DuringConstructionText>116231</DuringConstructionText>
+      <DuringIncidentHeadline>116232</DuringIncidentHeadline>
+    </IncidentResolver>
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010017</Product>
+          <Amount>75</Amount>
+          <InactiveAmount>25</InactiveAmount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable />
+    <Pausable />
+    <IncidentInfluencer>
+      <Influence>
+        <Illness>
+          <Influence>0</Influence>
+          <Distance>0</Distance>
+        </Illness>
+        <Fire>
+          <Influence>-5</Influence>
+          <Distance>10</Distance>
+        </Fire>
+        <ArcticIllness>
+          <Influence>-4</Influence>
+          <Distance>10</Distance>
+          <DecreaseType>LinearDecrease</DecreaseType>
+        </ArcticIllness>
+        <Explosion>
+          <Influence>-8</Influence>
+          <Distance>15</Distance>
+        </Explosion>
+      </Influence>
+    </IncidentInfluencer>
+    <DelayedConstruction />
+    <AmbientMoodProvider />
+    <Culture />
+    <QuestObject />
+    <Heated>
+      <RequiresHeat>1</RequiresHeat>
+      <MissingHeatInfolayer>116919</MissingHeatInfolayer>
+    </Heated>
+    <LogisticNode />
+  </Values>
+</Asset>

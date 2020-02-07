@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802007</GUID>
+      <Name>Cracks in the Hull 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew's craftiness has a solution for everything.&lt;/b&gt; Using communication tubes as the pump's body and spare metal sheets as paddles, the sailors manage to assemble what could pass for a proper water pump. A good dozen of men is needed to make it work, but they buy enough time for proper repairs.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21881</LineID>
+    </Text>
+  </Values>
+</Asset>

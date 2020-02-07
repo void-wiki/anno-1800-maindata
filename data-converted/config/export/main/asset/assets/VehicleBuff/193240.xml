@@ -1,0 +1,31 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193240</GUID>
+      <Name>TorpedoBuff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_torpedo_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Torpedo</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32453</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <UseProjectile>111142</UseProjectile>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

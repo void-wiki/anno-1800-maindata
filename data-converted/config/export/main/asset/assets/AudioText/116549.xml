@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Flight path plotted.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33654</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245272</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116549</GUID>
+      <Name>AT_DLC03_Airship_ShipMovementGen_01</Name>
+    </Standard>
+  </Values>
+</Asset>

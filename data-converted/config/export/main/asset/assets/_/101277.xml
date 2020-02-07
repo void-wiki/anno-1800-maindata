@@ -1,0 +1,154 @@
+<Asset>
+  <BaseAssetGUID>1010520</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101277</GUID>
+      <Name>harbor_colony01_02 (Sailing Shipyard)</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking>
+      <GroundDecalAsset>102460</GroundDecalAsset>
+      <GroundDecalInvisible>102459</GroundDecalInvisible>
+    </Blocking>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/buildings/special/harbor_02_colony01/harbor_02_colony01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection>
+      <ParticipantMessageArcheType>SA_Resident_tier01_atWork</ParticipantMessageArcheType>
+    </Selection>
+    <Text>
+      <LineID>8507</LineID>
+    </Text>
+    <Shipyard />
+    <Cost>
+      <Costs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>4</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>4</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>5</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>5</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Costs>
+    </Cost>
+    <Locked />
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Shipyard</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Product>1010366</Product>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Infolayer />
+    <Attackable />
+    <Pausable />
+    <SoundEmitter />
+    <IncidentInfectable />
+    <FeedbackController />
+    <Electric>
+      <BoostedByElectricity>0</BoostedByElectricity>
+    </Electric>
+    <UpgradeList />
+    <LogisticNode />
+    <StreetActivation />
+    <QuestObject />
+  </Values>
+</Asset>

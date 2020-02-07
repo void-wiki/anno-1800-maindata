@@ -1,0 +1,139 @@
+<Asset>
+  <Template>TutorialQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>152365</GUID>
+      <Name>TQ_LowArtisanHappiness</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_happy.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationText>15290</NotificationText>
+              <NotificationPriority>500</NotificationPriority>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>268116</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <QuestGiver>31</QuestGiver>
+      <StoryText>15291</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <LatencyTimer>150000</LatencyTimer>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionActiveSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionActiveSession>
+                      <ActiveSession>180039</ActiveSession>
+                      <SessionBlacklist>1</SessionBlacklist>
+                    </ConditionActiveSession>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationByLevel</PlayerCounter>
+                      <Context>15000002</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationHappinessByLevel</PlayerCounter>
+                      <Context>15000002</Context>
+                      <ComparisonOp>LessThan</ComparisonOp>
+                      <CounterAmount>6</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Happy Times</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26088</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>15292</TextCombinedContextValue>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationHappinessByLevel</PlayerCounter>
+                <Context>15000002</Context>
+                <CounterAmount>10</CounterAmount>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority />
+  </Values>
+</Asset>

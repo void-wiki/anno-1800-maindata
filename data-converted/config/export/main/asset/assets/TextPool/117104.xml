@@ -1,0 +1,32 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117104</GUID>
+      <Name>Pool_Explorer_IdleMessages</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextPools>
+        <Item>
+          <AudioPool>117105</AudioPool>
+        </Item>
+        <Item>
+          <AudioPool>117106</AudioPool>
+        </Item>
+        <Item>
+          <AudioPool>117107</AudioPool>
+        </Item>
+      </AudioTextPools>
+    </AudioTextPool>
+  </Values>
+</Asset>

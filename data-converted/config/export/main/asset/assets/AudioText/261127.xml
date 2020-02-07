@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We met in war; we will find ourselves there again. We must be prepared for that moment.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12980</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229510</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261127</GUID>
+      <Name>AT_advisor_02_IdleMessageSelf8</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>140112</GUID>
+      <Name>TorpedoDecal</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/effects/decals/dynamite_target_decal_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

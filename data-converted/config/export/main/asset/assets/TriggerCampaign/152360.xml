@@ -1,0 +1,61 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>152360</GUID>
+      <Name>CQ410_RoyalWelcome_Newspaper_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionForceNewspaper</Template>
+            <Values>
+              <Action />
+              <ActionForceNewspaper>
+                <Articles>
+                  <Item>
+                    <Article>142388</Article>
+                  </Item>
+                </Articles>
+                <OpenNewspaperUI>1</OpenNewspaperUI>
+                <OpenNewspaperType>SpecialEdition</OpenNewspaperType>
+                <PamsyWelcomeRequiredAsset>142381</PamsyWelcomeRequiredAsset>
+              </ActionForceNewspaper>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionEvent</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionEvent>
+                      <ConditionEvent>NotificationRemoved</ConditionEvent>
+                      <ContextData>Noti_RoyalWelcome_End</ContextData>
+                    </ConditionEvent>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

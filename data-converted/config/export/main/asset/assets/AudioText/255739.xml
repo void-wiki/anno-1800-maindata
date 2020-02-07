@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Rope us in, Admiral!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8023</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217381</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255739</GUID>
+      <Name>AT_captain_GenericEventCallToAction7</Name>
+    </Standard>
+  </Values>
+</Asset>

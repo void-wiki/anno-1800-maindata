@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800664</GUID>
+      <Name>The Seven-Year Itch 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800665</Option>
+        </Item>
+        <Item>
+          <Option>800666</Option>
+        </Item>
+        <Item>
+          <Option>800667</Option>
+        </Item>
+        <Item>
+          <Option>800668</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew are beset by insatiable and painful itching!&lt;/b&gt; From lieutenants down to pigeon-keepers, they twist and turn in their bunks and cannot sleep. It is affecting their capacity to carry out the most basic duties, something must be done!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5752</LineID>
+    </Text>
+  </Values>
+</Asset>

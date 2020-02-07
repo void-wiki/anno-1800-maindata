@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The enemies of freedom must be coerced!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30602</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204477</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109950</GUID>
+      <Name>AT_ai10_NegativeInteraction_NPCsFoe1</Name>
+    </Standard>
+  </Values>
+</Asset>

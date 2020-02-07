@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are the paradigm!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4015</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236236</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253626</GUID>
+      <Name>AT_Reporter_PositiveFeedbackToPlayer3</Name>
+    </Standard>
+  </Values>
+</Asset>

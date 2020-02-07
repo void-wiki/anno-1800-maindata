@@ -1,0 +1,41 @@
+<Template>
+  <Name>ModuleBuildingEfficiencyQuest</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <IsAbortable>1</IsAbortable>
+      <NeededProgressLevel>EarlyGame;EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>ModuleBuildingEfficiencyObjective</Template>
+            <Values>
+              <ConditionQuestModuleBuildingEfficiency />
+              <ConditionQuestObjective />
+              <ConditionPropsNegatable />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+  </Properties>
+</Template>

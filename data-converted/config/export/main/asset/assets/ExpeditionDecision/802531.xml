@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802531</GUID>
+      <Name>The Storm 1.4.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An unexpected turnaround.&lt;/b&gt; A sailor steps forward: she's spent the trip observing the engineer, she says, and thinks she can handle the machinery. The lack of other volunteers, frightened by the engineer's death, leaves her as the only candidate. She handles the remaining engine with a notable if amateurish skill and the steam ship emerges from the storm in one piece. Still, several sailors whisper about the ill luck of letting a woman save them.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21812</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801047</GUID>
+      <Name>Dockyard Dupe 1.3.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Sometimes a fistfight is the only way.&lt;/b&gt; The inn is a hurricane of chairs and glass, as your crew express themselves the only way they know how. Once the locals are subdued, the innkeeper is dragged outside, his life now security against whatever plunder you please. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13126</LineID>
+    </Text>
+  </Values>
+</Asset>

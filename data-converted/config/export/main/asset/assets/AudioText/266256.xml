@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I had believed it would only do harm to tell you, but I have grounds to believe your father was murdered.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17639</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233062</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266256</GUID>
+      <Name>CC01_SamuelsMurderer_01</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I see the iron is beyond our reach. We have no choice but to find a way through the mountain.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17170</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233352</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266207</GUID>
+      <Name>advisor01_ExcavationAndDemolitionExpert_02</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,140 @@
+<Asset>
+  <Template>TutorialQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>151347</GUID>
+      <Name>TQ_NoWarehouse</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <Profile>7</Profile>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>14758</NotificationText>
+              <NotificationPriority>500</NotificationPriority>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>268096</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <StoryText>14759</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <LatencyTimer>15000</LatencyTimer>
+      <KeepCheckingPreconditionsWhenRunning>1</KeepCheckingPreconditionsWhenRunning>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionActiveSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionActiveSession>
+                      <ActiveSession>180039</ActiveSession>
+                      <SessionBlacklist>1</SessionBlacklist>
+                    </ConditionActiveSession>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <Context>1010540</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionFactoryProductivity</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionFactoryProductivity>
+                      <ProductivityComparison>Equals</ProductivityComparison>
+                    </ConditionFactoryProductivity>
+                    <ObjectFilter>
+                      <ObjectGUID>700056</ObjectGUID>
+                    </ObjectFilter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Housing Wares</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22059</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>14760</TextCombinedContextValue>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <Context>1010371</Context>
+                <CounterAmount>1</CounterAmount>
+                <RelativeToQuestStart>1</RelativeToQuestStart>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority />
+  </Values>
+</Asset>

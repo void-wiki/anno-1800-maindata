@@ -1,0 +1,16 @@
+<Asset>
+  <Template>TrafficFeedbackUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>141481</GUID>
+      <Name>Logistic Transporter Factory Electric</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_mineral_desposits.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackUnit>
+      <UnitType>Vehicle</UnitType>
+      <CfgPath>data/graphics/vehicle/motorized_vehicle_01/motorized_vehicle_01.cfg</CfgPath>
+      <SpeedSource>Managed</SpeedSource>
+    </TrafficFeedbackUnit>
+    <Trailer />
+  </Values>
+</Asset>

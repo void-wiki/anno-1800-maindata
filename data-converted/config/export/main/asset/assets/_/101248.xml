@@ -1,0 +1,71 @@
+<Asset>
+  <BaseAssetGUID>102425</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101248</GUID>
+      <Name>CQO_Pyro_Battlecruiser_FinalBattle (Battle Cruiser)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_pyrophorian_ship.png</IconFilename>
+    </Standard>
+    <Object>
+      <DefaultParticipant>Campaign_character_04_pyrophorian_gold</DefaultParticipant>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pyrphorian Grandmaster's Battle Cruiser</Text>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20724</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+    </CommandQueue>
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <SelfHealPerHealTick>0</SelfHealPerHealTick>
+    </Attackable>
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <InitSlotItems>
+        <Item>
+          <Item>191481</Item>
+          <StackSize>1</StackSize>
+        </Item>
+        <Item>
+          <Item>191474</Item>
+          <StackSize>10</StackSize>
+        </Item>
+      </InitSlotItems>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

@@ -1,0 +1,60 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191616</GUID>
+      <Name>Trafficker</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_105.png</IconFilename>
+      <InfoDescription>20019</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Handler</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26768</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <TradePrice>6100</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade>
+      <IgnoreWeightFactorUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </IgnoreWeightFactorUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>5</Amount>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>20019</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <TradeShipUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

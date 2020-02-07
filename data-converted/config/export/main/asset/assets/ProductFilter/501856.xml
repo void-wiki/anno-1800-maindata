@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ProductFilter</Template>
+  <Values>
+    <Standard>
+      <GUID>501856</GUID>
+      <Name>Filter by Good Type - Statistic Menu</Name>
+    </Standard>
+    <ProductFilter>
+      <Categories>
+        <Item>
+          <Icon>17624</Icon>
+          <ProductList>502016</ProductList>
+        </Item>
+        <Item>
+          <Icon>11511</Icon>
+          <ProductList>502031</ProductList>
+        </Item>
+        <Item>
+          <Icon>11510</Icon>
+          <ProductList>501957</ProductList>
+        </Item>
+        <Item>
+          <Icon>11512</Icon>
+          <ProductList>502052</ProductList>
+        </Item>
+        <Item>
+          <Icon>11513</Icon>
+          <ProductList>502040</ProductList>
+        </Item>
+        <Item>
+          <Icon>11514</Icon>
+          <ProductList>502046</ProductList>
+        </Item>
+      </Categories>
+    </ProductFilter>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100838</GUID>
+      <Name>barrel_single</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/barrel_01_single.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/barrel_caoutchouc_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/barrel_metal_01.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

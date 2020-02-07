@@ -1,0 +1,29 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700043</GUID>
+      <Name>QC312_ASafeReturn_ObjectivePool</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010463</Asset>
+        </Item>
+        <Item>
+          <Asset>1010350</Asset>
+        </Item>
+        <Item>
+          <Asset>1010462</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>CQ_312_ASafeReturn_ObjectivePool</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

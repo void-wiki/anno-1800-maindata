@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NoLocaText</Template>
+  <Values>
+    <Standard>
+      <GUID>3433</GUID>
+      <Name>ModuleEfficiencyValue</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Conditions QuestCondition CurrentModules] / [Conditions QuestCondition MaxModules]</Text>
+          <Status>Localization</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

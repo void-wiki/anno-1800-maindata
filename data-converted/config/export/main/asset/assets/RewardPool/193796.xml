@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193796</GUID>
+      <Name>Culture - Arctic Artifacts - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>114796</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114799</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115472</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

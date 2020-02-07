@@ -1,0 +1,104 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150913</GUID>
+      <Name>CQ330_TacticalEspionage_Dialog02_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>29</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>13213</NotificationText>
+                      <NotificationPriority>702</NotificationPriority>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267355</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>7</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationLabel>Noti_TacticalEspionage</NotificationLabel>
+                      <NotificationText>13214</NotificationText>
+                      <NotificationPriority>701</NotificationPriority>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267268</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteItem</Template>
+            <Values>
+              <Action />
+              <ActionDeleteItem>
+                <ItemGUID>102491</ItemGUID>
+              </ActionDeleteItem>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>150914</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

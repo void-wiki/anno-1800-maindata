@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802119</GUID>
+      <Name>Lava Maze 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ship is quickly found.&lt;/b&gt; The burning lights of the volcano illuminate the jungle and a handful of seasoned explorers lead the rest of the sailors back to the ship, zigzagging between shadows and fleeing animals. The vessel departs as the island is engulfed in flames, a vision as terrible as it is magnificent.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21745</LineID>
+    </Text>
+  </Values>
+</Asset>

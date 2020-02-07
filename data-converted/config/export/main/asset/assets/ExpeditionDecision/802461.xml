@@ -1,0 +1,34 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802461</GUID>
+      <Name>Wood Keeper 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>120041</Reward>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Reward>120034</Reward>
+          <Amount>10</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A watchful lookout spots the enemy before they attack.&lt;/b&gt; It seems the indigenous people who built these huts were dispossesed of them long ago, and that they now serve as a refuge for pirates and brigands. Forewarned is forearmed, and the crew stage a small ambush of their own. You bait the curs out before overpowering them, and taking all the food and supplies they have.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20906</LineID>
+    </Text>
+  </Values>
+</Asset>

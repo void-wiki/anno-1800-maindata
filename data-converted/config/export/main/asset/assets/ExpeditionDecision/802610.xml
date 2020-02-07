@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802610</GUID>
+      <Name>The Mountain Maw 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802611</Option>
+        </Item>
+        <Item>
+          <Option>802612</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors face the mountain without a map.&lt;/b&gt; After a race from guide to guide through the depths of the mountain range, the crew finds itself devoid of chaperon: the guide supposed to take them on this last trip didn't show up at the agreed time. Forget what initial goal the exploration followed. Getting out of the snow-whipped peak is the only priority.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21824</LineID>
+    </Text>
+  </Values>
+</Asset>

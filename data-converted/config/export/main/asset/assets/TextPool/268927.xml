@@ -1,0 +1,35 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268927</GUID>
+      <Name>Pool_resident_tier3_Happy</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextGroups>
+        <Item>
+          <Group>-1256544582</Group>
+        </Item>
+        <Item>
+          <Group>-153048412</Group>
+        </Item>
+        <Item>
+          <Group>2091665699</Group>
+        </Item>
+        <Item>
+          <Group>1732591591</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

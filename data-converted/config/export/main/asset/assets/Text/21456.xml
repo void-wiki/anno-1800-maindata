@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21456</GUID>
+      <Name>FestivalAffects0</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_options.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Affects [ItemAssetData([AreaManager AreaFestival BuffGuids AT(0) GUID]) ItemOrBuffEffectTargetsFormatted]</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29243</LineID>
+    </Text>
+  </Values>
+</Asset>

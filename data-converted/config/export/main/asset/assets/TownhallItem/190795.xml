@@ -1,0 +1,40 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190795</GUID>
+      <Name>ChangeSupplyValueItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fish.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>1 fish 2 fish red fish blue fish</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190041</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute />
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

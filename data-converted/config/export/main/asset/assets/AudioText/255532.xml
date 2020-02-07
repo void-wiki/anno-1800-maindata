@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You broke the key off in the lock!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8336</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220777</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255532</GUID>
+      <Name>AT_3rd_party_07_QuestAborted2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802581</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802582</Option>
+        </Item>
+        <Item>
+          <Option>802584</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors are not made to catch land animals.&lt;/b&gt; The hunt ends in failure, the most your crew saw of a wild horse being weathered tracks in the dry roads. Instead of leading your hunters to a herd, the tracks drive them to a run-down town of wooden buildings -several houses and a single saloon-, its lanterns brightening with the growing darkness. Night is well on its way and tracking the thieves seems almost impossible now.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21653</LineID>
+    </Text>
+  </Values>
+</Asset>

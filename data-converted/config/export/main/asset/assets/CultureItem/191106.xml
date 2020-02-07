@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191106</GUID>
+      <Name>albinos fennec</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_albinos_fennec.png</IconFilename>
+      <InfoDescription>13729</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Albino Fennec</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26485</LineID>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <ItemSet>193193</ItemSet>
+      <TradePrice>702000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101987</ChangeModule>
+      <ForcedFeedbackVariation>101787</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203329</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>25</BaseMorale>
+      <ItemRegions>NorthAfrica;SouthernEurope</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803653</GUID>
+      <Name>Manchineel Tree 1.2.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew's ineptitude proves fatal.&lt;/b&gt; Even though the doctor insists that the charcoal must have been burnt at a very high temperature for it to absorb the poison from the body, all they can think of is setting up a bonfire and charring some driftwood. After making the officer snort the hastily pounded coals, he starts bleeding profusely out of his mouth and nose, choking and writhing in agony. There is nothing your crew can do for the man but put him out of the misery they aggravated.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32989</LineID>
+    </Text>
+  </Values>
+</Asset>

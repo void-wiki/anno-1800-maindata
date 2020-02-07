@@ -1,0 +1,75 @@
+<Asset>
+  <Template>ChannelTarget</Template>
+  <Values>
+    <Standard>
+      <GUID>101006</GUID>
+      <Name>QO Dynamite Fishing - Whale</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fish.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/whale_blue/whale_blue.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Whale that wants to be fished.. by dynamites!</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <Infolayer />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <ChannelTarget>
+      <SpawnInfo>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Action />
+          <ActionSpawnObjects>
+            <SpawnGUID>100553</SpawnGUID>
+            <Amount>3</Amount>
+            <Highlight>1</Highlight>
+            <RandomRotation>1</RandomRotation>
+            <Owner>Neutral</Owner>
+          </ActionSpawnObjects>
+          <SpawnArea>
+            <SpawnContext>Object</SpawnContext>
+            <DistanceToContext>3</DistanceToContext>
+            <MinObjectDistance>3</MinObjectDistance>
+            <MaxObjectDistance>10</MaxObjectDistance>
+          </SpawnArea>
+          <SessionFilter />
+        </Values>
+      </SpawnInfo>
+      <CargoAsset>190580</CargoAsset>
+      <SpawnSignsAndFeedback>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500482</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </SpawnSignsAndFeedback>
+    </ChannelTarget>
+    <QuestObject />
+    <FeedbackController />
+  </Values>
+</Asset>

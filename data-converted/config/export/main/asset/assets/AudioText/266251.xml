@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Maggot-ridden!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17368</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232607</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266251</GUID>
+      <Name>advisor02_SamuelsDiary_04</Name>
+    </Standard>
+  </Values>
+</Asset>

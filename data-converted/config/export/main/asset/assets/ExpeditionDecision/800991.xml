@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800991</GUID>
+      <Name>Baptism of Fire 1.4.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800993</Option>
+        </Item>
+        <Item>
+          <Option>800994</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The jungle thins out to a precipice,&lt;/b&gt; that seems to form part of the ridge you are trying to cross. A long and shoddy-looking bridge stretches to the other side if you want to risk it, or else you could attempt to take an even larger detour. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13160</LineID>
+    </Text>
+  </Values>
+</Asset>

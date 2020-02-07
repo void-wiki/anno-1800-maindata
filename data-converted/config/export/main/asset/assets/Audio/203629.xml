@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203629</GUID>
+      <Name>wwe_sfx_bld_processing_03_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>235720</StopEvent>
+      <SoundEventType>SmallBuildingSound</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1500992274</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

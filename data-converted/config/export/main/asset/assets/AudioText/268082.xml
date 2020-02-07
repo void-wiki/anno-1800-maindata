@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We cannot open our doors while under attack!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17846</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236376</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>268082</GUID>
+      <Name>AT_res_tier05_Monument_IslandWar01</Name>
+    </Standard>
+  </Values>
+</Asset>

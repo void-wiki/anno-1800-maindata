@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800629</GUID>
+      <Name>A Grizzly Encounter 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The lone bear's haunch is picked out with expert marksmanship.&lt;/b&gt; It staggers before bounding off into the woods. Your crew are delighted to return to the safety of the ship, whilst also having done the mighty beast no lasting harm.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5714</LineID>
+    </Text>
+  </Values>
+</Asset>

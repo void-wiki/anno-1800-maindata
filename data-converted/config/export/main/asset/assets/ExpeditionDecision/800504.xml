@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800504</GUID>
+      <Name>The Singular Case of the Midshipman 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800506</Option>
+        </Item>
+        <Item>
+          <Option>800507</Option>
+        </Item>
+        <Item>
+          <Option>800508</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The Midshipman is found with his throat slit, knife in hand.&lt;/b&gt; It would appear to be suicide, but appearances often prove deceptive. Understandably, the whole crew crowd the scene, debating whether he was the type to take his own life, or if someone might have gained by his passing. Needless to say, they expect some action be taken...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5880</LineID>
+    </Text>
+  </Values>
+</Asset>

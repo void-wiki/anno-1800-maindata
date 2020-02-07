@@ -1,0 +1,36 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>FOLLOW</ActionID>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>AndNextMatch;OwnedByPlayer;CheckProperty</Flags>
+          <Property>CommandQueue</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>AndNextMatch;CheckProperty;NotSelfIgnoreMultiselection;Guardable</Flags>
+          <Property>Walking</Property>
+        </TargetMatch1>
+        <SelectionMatch2>
+          <Flags>CheckProperty</Flags>
+          <Property>Walking</Property>
+        </SelectionMatch2>
+        <TargetMatch2>
+          <Flags>CheckNotProperty</Flags>
+          <Property>Collectable</Property>
+        </TargetMatch2>
+      </Matches>
+      <MouseCursorTarget>2001383</MouseCursorTarget>
+      <MouseCursorDisable>2001370</MouseCursorDisable>
+      <MouseCursorMode>2001383</MouseCursorMode>
+      <MouseCursorPosition>2001370</MouseCursorPosition>
+      <MouseCursorPositionDisable>2001212</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>2001352</GUID>
+      <Name>Follow</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,39 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268698</GUID>
+      <Name>Pool_resident_tier3_IdleMessages</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextPools>
+        <Item>
+          <AudioPool>268867</AudioPool>
+          <Weight>4</Weight>
+        </Item>
+        <Item>
+          <AudioPool>268859</AudioPool>
+        </Item>
+        <Item>
+          <AudioPool>268860</AudioPool>
+        </Item>
+        <Item>
+          <AudioPool>268861</AudioPool>
+        </Item>
+        <Item>
+          <AudioPool>268862</AudioPool>
+        </Item>
+      </AudioTextPools>
+    </AudioTextPool>
+  </Values>
+</Asset>

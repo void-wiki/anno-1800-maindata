@@ -1,0 +1,42 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804000</GUID>
+      <Name>Wall of Ice 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804001</Option>
+        </Item>
+        <Item>
+          <Option>804003</Option>
+        </Item>
+        <Item>
+          <Option>804011</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path11.png</PathSegment>
+        <PathPosX>214</PathPosX>
+        <PathPosY>-169</PathPosY>
+        <MapLabel>804142</MapLabel>
+        <LabelPosX>158</LabelPosX>
+        <LabelPosY>-52</LabelPosY>
+        <ProgressReview>117455</ProgressReview>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your ship is stranded on an iceberg!&lt;/b&gt; It is night along the east coast of Labrador Island. The meek light of your vessel seems to dissolve into the moonless blackness. Even at easy sail and under constant vigil, your ship runs the risk here, for slumbering ice giants leer from the darkness in all directions. "Dead ahead!" comes the cry, too late! A low growl shakes the boat, as a wave dumps it atop a berg— in the shape of an upturned molar— beaching it there. The ship is undamaged, if only it could be returned to the water...</Text>
+          <Status>Exported</Status>
+          <ExportCount>27</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35266</LineID>
+    </Text>
+  </Values>
+</Asset>

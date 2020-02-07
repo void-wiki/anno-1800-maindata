@@ -1,0 +1,40 @@
+<Asset>
+  <Template>SimpleVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>1010147</GUID>
+      <Name>Economy Market Cart 01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/economy_market_cart_01/economy_market_cart_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/economy_market_cart_02/economy_market_cart_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/economy_market_cart_03/economy_market_cart_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnTerrainSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <CreatePathPlannerUnit>0</CreatePathPlannerUnit>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>economy_market_cart_01</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter />
+    <MinimapToken />
+  </Values>
+</Asset>

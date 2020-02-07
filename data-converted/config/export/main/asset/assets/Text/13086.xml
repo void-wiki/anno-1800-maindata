@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>13086</GUID>
+      <Name>NPC Reputation Autocorrect Decrease Qing</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your relationship with [AssetData([NotificationContext CharacterGUID]) Text] has deteriorated over time.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>24458</LineID>
+    </Text>
+  </Values>
+</Asset>

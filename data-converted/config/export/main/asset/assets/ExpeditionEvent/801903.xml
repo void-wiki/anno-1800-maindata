@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>801903</GUID>
+      <Name>The Investigation</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Investigation</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23577</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <StartDecision>801904</StartDecision>
+      <EventVideo>data/ui/video/expedition/campaign_02_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

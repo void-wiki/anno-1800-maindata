@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802478</GUID>
+      <Name>The Storm 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802481</Option>
+        </Item>
+        <Item>
+          <Option>802482</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Trust in your habits pays.&lt;/b&gt; Years of executing the same maneuvers have ingrained them into your crew's instincts. The sailors reef sail after sail despite the poor visibility - they do not need sight, for they are guided by the invisible hand of practice. Only the fore and aft sails are left to flail in the wind to keep a semblance of control over the ship.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21765</LineID>
+    </Text>
+  </Values>
+</Asset>

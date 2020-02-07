@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>102662</GUID>
+      <Name>moderate_3rdparty02_01_fb_13_Tourist_Patrol</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/moderate_3rdparty02_01/moderate_3rdparty02_01_fb_13/moderate_3rdparty02_01_fb_13.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController>
+      <NightBehavior>HideAll</NightBehavior>
+    </FeedbackController>
+  </Values>
+</Asset>

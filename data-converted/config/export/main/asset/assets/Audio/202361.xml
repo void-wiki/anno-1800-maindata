@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>202361</GUID>
+      <Name>wwe_sfx_anm_herds_bear_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>235662</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3575354665</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

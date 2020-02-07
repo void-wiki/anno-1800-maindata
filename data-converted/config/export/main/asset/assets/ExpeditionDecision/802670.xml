@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802670</GUID>
+      <Name>Blood Oil Tears and Sweat 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Their greed overcomes your strength.&lt;/b&gt; The sailors try to reason, then to force the merchants into giving up their precious oil, but your crew is weak in both body and spirit while the merchants have built their fortunes on hard-headedness. Long after the ship has been hit, crushed, and stranded, the merchants's cadavers are found lying on the shore's pebbles, still clutching their barrels of cargo.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21875</LineID>
+    </Text>
+  </Values>
+</Asset>

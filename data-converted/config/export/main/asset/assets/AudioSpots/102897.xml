@@ -1,0 +1,15 @@
+<Asset>
+  <Template>AudioSpots</Template>
+  <Values>
+    <Standard>
+      <GUID>102897</GUID>
+      <Name>murmur_3rd_party_izabell</Name>
+    </Standard>
+    <Mesh />
+    <SoundEmitter />
+    <Object />
+    <AmbientMoodProvider>
+      <Murmur>ThirdPartyIzabell</Murmur>
+    </AmbientMoodProvider>
+  </Values>
+</Asset>

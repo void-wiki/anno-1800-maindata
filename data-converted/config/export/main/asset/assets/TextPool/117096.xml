@@ -1,0 +1,30 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117096</GUID>
+      <Name>Pool_LadyJane_GossipTechnicians</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>112643</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>116474</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

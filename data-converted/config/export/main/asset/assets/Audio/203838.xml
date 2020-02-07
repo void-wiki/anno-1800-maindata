@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203838</GUID>
+      <Name>wwe_sfx_fbd_ani_ext_fire_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>7</MaxAttenuation>
+      <StopEvent>203841</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4073123420</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

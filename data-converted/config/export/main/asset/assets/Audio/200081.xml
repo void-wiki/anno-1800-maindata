@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200081</GUID>
+      <Name>wwe_voc_mur_mining</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMaximum>16190</DurationMaximum>
+        </English>
+        <German>
+          <DurationMaximum>15808</DurationMaximum>
+        </German>
+        <French>
+          <DurationMaximum>15926</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMaximum>16037</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>975905755</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

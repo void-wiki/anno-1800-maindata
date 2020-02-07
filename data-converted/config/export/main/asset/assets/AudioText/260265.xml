@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I only care for strategic outposts.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10981</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223603</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260265</GUID>
+      <Name>AT_ai09_PlyrAcquiresIslandFromNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

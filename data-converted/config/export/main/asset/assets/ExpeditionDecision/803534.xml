@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803534</GUID>
+      <Name>The Flowers eaters 1.3.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>112733</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your party open their minds to visions of the divine.&lt;/b&gt; The horrors fade from view and in their place come forest creatures, nymphs and dryads. Grand cities swirling as if formed of cloud,  and golden ships voyaging up to the moon.&lt;br/&gt;When the visions disappear, the crew realise they have experienced something extraordinary, and relate what they have seen to their hosts. &lt;b&gt;The Flower-eaters offer a token of their appreciation&lt;/b&gt; for a shared spiritual experience.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33159</LineID>
+    </Text>
+  </Values>
+</Asset>

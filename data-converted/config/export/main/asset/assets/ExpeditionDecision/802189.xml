@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802189</GUID>
+      <Name>Selfless Deeds 1.2.2.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You do not match the bandits' expectations.&lt;/b&gt; To teach your crew a lesson, the kidnappers grab one of the kids onboard and cut his thumb before throwing it into your raft: a lesson for the penniless. Your sailors withdraw to the village, convinced they made things worse.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21041</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,22 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>2002085</GUID>
+      <Name>GoodsCompletelyMissing</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/more_goods_missing.cfg</Config>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Missing goods</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4251</LineID>
+    </Text>
+  </Values>
+</Asset>

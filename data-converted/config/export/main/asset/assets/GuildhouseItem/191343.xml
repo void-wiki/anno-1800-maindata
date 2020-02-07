@@ -1,0 +1,72 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191343</GUID>
+      <Name>Clothier</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_821.png</IconFilename>
+      <InfoDescription>19242</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Seamstress</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26622</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>25800</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>101266</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>15</Amount>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19242</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-100</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+    </BuildingUpgrade>
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

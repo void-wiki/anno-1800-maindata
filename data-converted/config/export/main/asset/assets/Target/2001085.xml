@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <Matches>
+        <SelectionMatch1>
+          <Property>Standard</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>Never</Flags>
+          <ObjectType>EditorObject</ObjectType>
+          <Property>Standard</Property>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Never</Flags>
+        </DisableMatch1>
+      </Matches>
+      <MouseCursorTarget>2001059</MouseCursorTarget>
+      <MouseCursorDisable>2001059</MouseCursorDisable>
+      <MouseCursorMode>2001059</MouseCursorMode>
+      <MouseCursorPosition>2001059</MouseCursorPosition>
+      <MouseCursorPositionDisable>2001059</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>2001085</GUID>
+      <Name>HideCursor</Name>
+      <ID>TargetHideCursor</ID>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>193657</GUID>
+      <Name>marshes</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_lilies.png</IconFilename>
+      <InfoDescription>22332</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <SetBuff>193656</SetBuff>
+      <BuffScope>Area</BuffScope>
+      <DLCMoodImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_card_botanica.png</DLCMoodImage>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>MARSHLAND</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33517</LineID>
+    </Text>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

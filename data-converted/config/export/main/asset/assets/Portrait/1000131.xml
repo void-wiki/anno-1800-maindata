@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait />
+    <Standard>
+      <GUID>1000131</GUID>
+      <Name>Colony guy</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/colony_guy/colony_guy.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

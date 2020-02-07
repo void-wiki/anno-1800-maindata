@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15163</GUID>
+      <Name>CQ420_TheFirstWave_Objective</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Destroy:&lt;br/&gt;&lt;b&gt;[AssetData([Conditions QuestCondition Context]) Text]&lt;/b&gt; [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] approaching your harbour</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18412</LineID>
+    </Text>
+  </Values>
+</Asset>

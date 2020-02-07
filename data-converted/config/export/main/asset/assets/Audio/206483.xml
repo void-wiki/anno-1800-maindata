@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206483</GUID>
+      <Name>wwe_bld_agriculture_05_wood_farm_chops_close_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1408</DurationMinimum>
+          <DurationMaximum>5128</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <ActivationRangeOffset>10</ActivationRangeOffset>
+      <MaxAttenuation>25</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3574201706</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

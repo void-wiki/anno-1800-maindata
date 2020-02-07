@@ -1,0 +1,40 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190043</GUID>
+      <Name>TimedFertilityItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cereals_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Timed Grain Seeds</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <HasAction>1</HasAction>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect />
+    <ItemAction>
+      <ActionCooldown>60000</ActionCooldown>
+      <ActionDuration>60000</ActionDuration>
+      <ActiveBuff>190044</ActiveBuff>
+    </ItemAction>
+    <ExpeditionAttribute />
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

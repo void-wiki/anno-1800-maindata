@@ -1,0 +1,60 @@
+<Template>
+  <Name>CampaignUncleMansion</Name>
+  <Properties>
+    <Standard>
+      <InfoDescription>163093</InfoDescription>
+    </Standard>
+    <Text />
+    <Blocking />
+    <Building />
+    <Cost />
+    <Selection>
+      <GUIType>Ornamental</GUIType>
+    </Selection>
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+      </DestroySounds>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>200133</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <Locked />
+    <FeedbackController />
+    <Ornament>
+      <PlazzaSize>20</PlazzaSize>
+    </Ornament>
+    <AmbientMoodProvider />
+    <Pausable />
+    <Infolayer />
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+    </Attackable>
+  </Properties>
+</Template>

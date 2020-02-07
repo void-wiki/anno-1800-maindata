@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>246910</GUID>
+      <Name>wwe_voc_mur_production_arctic</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1674</DurationMinimum>
+          <DurationMaximum>21186</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1227938801</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

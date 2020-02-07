@@ -1,0 +1,29 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>214644</GUID>
+      <Name>SW_street_type</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>236599</Choice>
+        </Item>
+        <Item>
+          <Choice>236600</Choice>
+        </Item>
+        <Item>
+          <Choice>236601</Choice>
+        </Item>
+        <Item>
+          <Choice>236602</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>1083423726</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

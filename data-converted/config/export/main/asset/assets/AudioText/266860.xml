@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You look into this, eldest. I'm not sure I can face it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17196</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233312</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266860</GUID>
+      <Name>advisor01_Ch2Ph2_Additional_01</Name>
+    </Standard>
+  </Values>
+</Asset>

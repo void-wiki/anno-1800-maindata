@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800236</GUID>
+      <Name>Of Unsound Mind 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistWithAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The whole examination takes too long,&lt;/b&gt; 'though a bluish contusion is found under the hair. "I must act or he shall soon die!" gulps the doctor, but then proceeds to faff nervously through a medicine bag, until the poor man dies on the operating table. "You did the best you could," a colleague offers, but there is a hollowness to it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5733</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803616</GUID>
+      <Name>Giant Hogweed 1.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803617</Option>
+        </Item>
+        <Item>
+          <Option>803620</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor dismisses the throbbing blisters as simple mosquito bites. &lt;/b&gt; "Just try not to scratch them. If you can't help yourselves, rub them gently, that's all." But a few hours later, the vesicles have already extended throughout their entire body. They collapse, unable to take a step further, whimpering with unbearable pain.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33230</LineID>
+    </Text>
+  </Values>
+</Asset>

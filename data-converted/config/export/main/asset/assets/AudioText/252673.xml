@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You're a laughing stock!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10889</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223557</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252673</GUID>
+      <Name>AT_ai09_NegFeedbackToPlyr3</Name>
+    </Standard>
+  </Values>
+</Asset>

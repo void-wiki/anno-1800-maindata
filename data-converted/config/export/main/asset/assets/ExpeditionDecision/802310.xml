@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802310</GUID>
+      <Name>Release the Kraken 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There are just too many legs!&lt;/b&gt; Having been interrupted at dinner, your sailors try to improvise a dissection with their knives and forks, but the monstrosity just refuses to be kalamari. Its innumerable tendrils cavort, punching holes and tossing sailors! One fellow is flung so perfectly that his return trajectory lands him directly, and fatally, atop a flagpole. Having satiated itself on flesh and timber, the kraken detaches and bolts away with typical flourish.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20942</LineID>
+    </Text>
+  </Values>
+</Asset>

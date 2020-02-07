@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800538</GUID>
+      <Name>The Visitation 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800539</Option>
+        </Item>
+        <Item>
+          <Option>800540</Option>
+        </Item>
+        <Item>
+          <Option>800541</Option>
+        </Item>
+        <Item>
+          <Option>800542</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An undesirable visitor haunts the ship.&lt;/b&gt; Fleeting silhouettes, knocking and screeching sounds. Each morning the ship appears in utter disarray. "A night fiend," gulps the hardiest of old crewmen, as he sweeps debris from the deck. As night draws in again, you realise something must be done.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5554</LineID>
+    </Text>
+  </Values>
+</Asset>

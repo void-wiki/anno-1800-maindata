@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802893</GUID>
+      <Name>The Hutner and the Prey 1.1.1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Take this chance to flee the bay</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23685</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Navigation</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802894</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802895</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

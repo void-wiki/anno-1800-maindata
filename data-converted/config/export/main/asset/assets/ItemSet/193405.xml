@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>193405</GUID>
+      <Name>atlantean</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_temple_of_posseidon.png</IconFilename>
+      <InfoDescription>22240</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <SetBuff>193406</SetBuff>
+      <BuffScope>Session</BuffScope>
+      <DLCMoodImage>data/ui/2kimages/main/assets16/dlc/sunkne_treasures_cultural_set.png</DLCMoodImage>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>ATLANTEAN</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32629</LineID>
+    </Text>
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800619</GUID>
+      <Name>A Grizzly Encounter 1.2.2.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's easy to underestimate mummy bears.&lt;/b&gt; As the soldiers fluff the loading of their weapons, the bear nonchalantly grasps one by the wrist, and sinks her jaw into his neck. The others panic and flee with their arms in the air. She pursues a second, striking him dead against a rock. Now she and her cubs can finally be left in peace.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5702</LineID>
+    </Text>
+  </Values>
+</Asset>

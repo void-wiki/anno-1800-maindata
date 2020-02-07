@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802593</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;So much effort for such a meagre reward.&lt;/b&gt; Feeling the pressure of unseen stares, your crew avoids the shady town and backs away to the harbour city and their ship. Better to decide on your own to withdraw than to be forced to, the sailors tell themselves. Frustration nibbles their thoughts as they set sail.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21664</LineID>
+    </Text>
+  </Values>
+</Asset>

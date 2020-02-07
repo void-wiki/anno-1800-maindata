@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I tire easily.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7850</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217801</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256322</GUID>
+      <Name>AT_Enemy_02_NpcDeclinesPlayerProposalTooOften1</Name>
+    </Standard>
+  </Values>
+</Asset>

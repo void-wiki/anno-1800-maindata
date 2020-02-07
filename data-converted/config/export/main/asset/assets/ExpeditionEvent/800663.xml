@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800663</GUID>
+      <Name>The Seven-Year Itch</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Seven-Year Itch</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5751</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800031</EventThreat>
+      <EventOrder>1</EventOrder>
+      <StartDecision>800664</StartDecision>
+      <EventMusicChoice>226702</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/disease_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202341</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NeedsSatisfactionNews</Template>
+  <Values>
+    <Standard>
+      <GUID>140904</GUID>
+      <Name>SoapSupplyVeryBad</Name>
+    </Standard>
+    <NeedsSatisfactionNews>
+      <Need>1010203</Need>
+      <TrackingDuration>120000</TrackingDuration>
+      <MaximumNeedSatisfaction>0.5</MaximumNeedSatisfaction>
+      <MaximumNeedSatisfactionAtRelease>0.5</MaximumNeedSatisfactionAtRelease>
+      <MinResidencesCount>45</MinResidencesCount>
+      <SatisfactionArticle>140699</SatisfactionArticle>
+    </NeedsSatisfactionNews>
+  </Values>
+</Asset>

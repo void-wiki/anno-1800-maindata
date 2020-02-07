@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>25000123</GUID>
+      <Name>ExpeditionRewardCollectable</Name>
+      <ID>InfolayerExpeditionReward</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/infolayer_a7_marker_quest_minor_01.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Returned from expedition</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4263</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Enough of your grovelling! Rise Mortals! / Now, which role do you see for me in your little drama?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17665</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234213</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_36</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266473</GUID>
+      <Name>AT_number_nine_Credits_03</Name>
+    </Standard>
+  </Values>
+</Asset>

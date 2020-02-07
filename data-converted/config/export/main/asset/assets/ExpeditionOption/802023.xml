@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802023</GUID>
+      <Name>Tavern Troubles 1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Offer them a drink to ease the tension</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21728</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Diplomacy</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802027</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802028</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

@@ -1,0 +1,34 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400096</GUID>
+      <Name>Action_Achievement_Musketeers</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>General</AchievementCategory>
+      <AchievementTitle>15587</AchievementTitle>
+      <AchievementDescription>15588</AchievementDescription>
+      <AchievementUPlayID>72</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionMetagameLoaded</Template>
+        <Values>
+          <Condition />
+          <ConditionMetagameLoaded>
+            <HumanPlayerCount>4</HumanPlayerCount>
+          </ConditionMetagameLoaded>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>11</UplayActionID>
+      <UplayActionPoints>20</UplayActionPoints>
+      <UplayXP>100</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

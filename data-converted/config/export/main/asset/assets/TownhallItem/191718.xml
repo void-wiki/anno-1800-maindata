@@ -1,0 +1,66 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191718</GUID>
+      <Name>Medium Curfew</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png</IconFilename>
+      <InfoDescription>19225</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Evening Curfew</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26918</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <ExclusiveGroup>EntertainmentAct</ExclusiveGroup>
+      <TradePrice>59000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190782</GUID>
+        </Item>
+        <Item>
+          <GUID>1010361</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-25</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+      <PublicServiceFullSatisfactionDistance>
+        <Value>-10</Value>
+        <Percental>1</Percental>
+      </PublicServiceFullSatisfactionDistance>
+      <PublicServiceNoSatisfactionDistance>
+        <Value>-10</Value>
+        <Percental>1</Percental>
+      </PublicServiceNoSatisfactionDistance>
+    </BuildingUpgrade>
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

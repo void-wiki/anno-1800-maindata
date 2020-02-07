@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ProgressLevel</Template>
+  <Values>
+    <Standard>
+      <GUID>140503</GUID>
+      <Name>MidGame</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000002</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <ProgressLevel>
+      <Level>MidGame</Level>
+    </ProgressLevel>
+    <Locked />
+    <TriggerSetup />
+  </Values>
+</Asset>

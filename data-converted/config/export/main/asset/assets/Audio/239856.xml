@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239856</GUID>
+      <Name>wwe_sfx_bld_heavy_08_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>239858</StopEvent>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>239857</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3283705185</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

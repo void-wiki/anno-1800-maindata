@@ -1,0 +1,34 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192979</GUID>
+      <Name>The Runaway Reward Subpool - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190667</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190697</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190766</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191603</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191605</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191606</ItemLink>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

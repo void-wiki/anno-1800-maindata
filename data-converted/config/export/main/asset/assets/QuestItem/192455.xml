@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192455</GUID>
+      <Name>QI Mr Bingle - Uninvited Guest (Photo/Smuggle)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_206_b.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mr. Bingle</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29144</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103061</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

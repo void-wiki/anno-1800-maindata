@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800356</GUID>
+      <Name>The Minefield 1.3.4</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Optimism makes way for abject terror,&lt;/b&gt; as the map of mines that is found and used for navigation turns out to be completely false. Terrible detonations devastate the ship's timbers, and countless lives are lost. "Misinformation is worse than no information," an officer laments, as his tears bleed the ink of the erroneous chart, which as it happens, refers to a different stretch of water.     </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5839</LineID>
+    </Text>
+  </Values>
+</Asset>

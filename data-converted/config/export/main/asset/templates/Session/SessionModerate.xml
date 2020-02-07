@@ -1,0 +1,15 @@
+<Template>
+  <Name>SessionModerate</Name>
+  <Properties>
+    <Standard />
+    <Session>
+      <Region>5000000</Region>
+      <FixDayTime>13.5</FixDayTime>
+    </Session>
+    <Text />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <WorldMapSound />
+  </Properties>
+</Template>

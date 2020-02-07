@@ -1,0 +1,46 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193659</GUID>
+      <Name>orient gardens sa</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_blue_lotus.png</IconFilename>
+      <InfoDescription>22335</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010329</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Near East Garden</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33504</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+      <AddedFertility>1010573</AddedFertility>
+    </FactoryUpgrade>
+    <BuildingUpgrade />
+    <Buff>
+      <PossibleFluffTexts>
+        <Item>
+          <FluffText>22407</FluffText>
+        </Item>
+      </PossibleFluffTexts>
+    </Buff>
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

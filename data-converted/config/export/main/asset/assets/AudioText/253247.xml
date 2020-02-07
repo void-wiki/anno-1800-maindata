@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I have entered into war with your ally. I fear you must decide between us.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12454</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231406</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253247</GUID>
+      <Name>AT_ai02_NpcInvokesProtection1</Name>
+    </Standard>
+  </Values>
+</Asset>

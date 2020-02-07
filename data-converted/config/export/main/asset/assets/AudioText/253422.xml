@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If you threaten me, you don't know me.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6114</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216541</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253422</GUID>
+      <Name>AT_ai04_NpcRebuffsPlayerThreat2</Name>
+    </Standard>
+  </Values>
+</Asset>

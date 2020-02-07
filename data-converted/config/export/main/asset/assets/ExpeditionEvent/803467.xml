@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803467</GUID>
+      <Name>The Tour</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A Royal Progress</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32463</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthernEurope</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>803437</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/campaign_02_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

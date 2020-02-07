@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I doubt we'll ever have plurality of taste.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6292</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216384</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254949</GUID>
+      <Name>AT_ai06_NPCReputationAutocorrectDecrease3</Name>
+    </Standard>
+  </Values>
+</Asset>

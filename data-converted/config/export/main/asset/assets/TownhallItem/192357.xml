@@ -1,0 +1,115 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192357</GUID>
+      <Name>Willie Main arc - Honorary membership within the Wibblesock sorcery association</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_membership.png</IconFilename>
+      <InfoDescription>20033</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wibble Soc. Sorcery Association Membership &amp; Tarot Set</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28486</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ExclusiveGroup>EntertainmentAct</ExclusiveGroup>
+      <TradePrice>201000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190782</GUID>
+        </Item>
+        <Item>
+          <GUID>1010361</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+      <PublicServiceFullSatisfactionDistance>
+        <Value>35</Value>
+        <Percental>1</Percental>
+      </PublicServiceFullSatisfactionDistance>
+      <PublicServiceNoSatisfactionDistance>
+        <Value>35</Value>
+        <Percental>1</Percental>
+      </PublicServiceNoSatisfactionDistance>
+    </BuildingUpgrade>
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>20033</FluffText>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff>
+      <PossibleFluffTexts>
+        <Item>
+          <FluffText>20604</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20605</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20606</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20607</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20608</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20609</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20610</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20611</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20612</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20613</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20614</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20615</FluffText>
+        </Item>
+        <Item>
+          <FluffText>20616</FluffText>
+        </Item>
+      </PossibleFluffTexts>
+    </Buff>
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

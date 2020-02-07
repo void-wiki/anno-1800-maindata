@@ -1,0 +1,29 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>102489</GUID>
+      <Name>CQI ProsperityContract</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_license_purple.png</IconFilename>
+      <InfoDescription>15041</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Contract of Sale for the Island of Prosperity</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25870</LineID>
+    </Text>
+    <Item>
+      <Rarity>Rare</Rarity>
+      <TradePrice>5000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

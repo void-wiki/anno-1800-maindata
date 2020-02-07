@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801016</GUID>
+      <Name>Mysterious Artefacts 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801018</Option>
+        </Item>
+        <Item>
+          <Option>801019</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;That night, dire musket-shot is heard.&lt;/b&gt; A dead boy on deck, local. A second is seen diving to blue. Next morning a rhythm comes from an armada of river boats, armed with guns. There island is inhabited, and they know what you have done.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13183</LineID>
+    </Text>
+  </Values>
+</Asset>

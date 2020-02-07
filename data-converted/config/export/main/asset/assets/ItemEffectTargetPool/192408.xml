@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192408</GUID>
+      <Name>Framework Knitters and Fur Dealer</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Framework Knitters and Fur Dealers</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29540</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010325</GUID>
+        </Item>
+        <Item>
+          <GUID>1010315</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We gather and toast yer health!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4404</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215270</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254042</GUID>
+      <Name>AT_res_tier01_QuestSuccessful1</Name>
+    </Standard>
+  </Values>
+</Asset>

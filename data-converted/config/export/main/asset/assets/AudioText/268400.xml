@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Begin the turn!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19685</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238067</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268400</GUID>
+      <Name>AT_MurmurMale3_OilTanker_ShipMovementGeneral03</Name>
+    </Standard>
+  </Values>
+</Asset>

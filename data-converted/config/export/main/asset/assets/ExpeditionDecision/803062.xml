@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803062</GUID>
+      <Name>Fear of the Light 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803063</Option>
+        </Item>
+        <Item>
+          <Option>803064</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The symptoms culminate in death.&lt;/b&gt; The roped patient wriggles, drooling and screeching and screaming for the lights to be gone, until a seizure of astonishing magnitude takes him and leaves his cadaver frozen in an impossible position. The doctor realizes, too late, that he might have been facing a case of rabies. Around him the crew grows restless: what if this failure of a scientist was still wrong?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26311</LineID>
+    </Text>
+  </Values>
+</Asset>

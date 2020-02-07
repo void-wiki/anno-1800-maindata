@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>205064</GUID>
+      <Name>sfx_props_metal_windmill_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>35</MaxAttenuation>
+      <StopEvent>205065</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2839801171</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

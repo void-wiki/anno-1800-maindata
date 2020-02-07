@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801032</GUID>
+      <Name>Dockyard Dupe 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The detective already knows the culprit.&lt;/b&gt; "I was waiting to see if our crew were complicit, but am satisfied they are not." Your ship returns and lays a watertight case before the local authorities against the local innkeeper. He is arrested, your equipment is returned and your ship receives a resupply. It seems that hospitality was genuine!</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13111</LineID>
+    </Text>
+  </Values>
+</Asset>

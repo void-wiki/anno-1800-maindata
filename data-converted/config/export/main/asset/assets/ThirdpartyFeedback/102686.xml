@@ -1,0 +1,21 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>102686</GUID>
+      <Name>moderate_3rdparty03_01_fb_13</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/moderate_3rdparty03_01/moderate_3rdparty03_01_fb_13/moderate_3rdparty03_01_fb_13.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController />
+  </Values>
+</Asset>

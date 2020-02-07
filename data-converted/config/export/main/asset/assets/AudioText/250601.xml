@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Viscount Guffington-Hawkmoth, wounded at his own estate. It brings to light Her Majesty's very present vulnerability.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1213</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212240</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>250601</GUID>
+      <Name>AT_3rdParty02_IdleMessageSelf6</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191040</GUID>
+      <Name>Gamescom Archeological Expedition Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_museum_2d.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190500</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190499</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190449</ItemLink>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>12795</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

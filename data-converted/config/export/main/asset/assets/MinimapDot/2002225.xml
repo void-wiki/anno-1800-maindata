@@ -1,0 +1,17 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>2002225</GUID>
+      <Name>Coastal Slots (vacant)</Name>
+      <IconFilename>data/ui/2kimages/main/assets/icon_minimap_ships.png</IconFilename>
+      <ID>MinimapTokenCoastalSlot</ID>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>GreyLight2</Color>
+      <Tooltip>2735</Tooltip>
+      <Filter>Lodes</Filter>
+      <IgnoreGameObjectVisibility>1</IgnoreGameObjectVisibility>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

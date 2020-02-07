@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>205058</GUID>
+      <Name>crane_down</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>9639</DurationMinimum>
+          <DurationMaximum>16203</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>9639</DurationMinimum>
+          <DurationMaximum>16203</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>9639</DurationMinimum>
+          <DurationMaximum>16203</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>9639</DurationMinimum>
+          <DurationMaximum>16203</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>20</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>855718159</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

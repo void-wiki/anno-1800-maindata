@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802160</GUID>
+      <Name>Selfless Deeds 1.2.1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The mastodon tramples your sailors.&lt;/b&gt; The rescuers lack resistance and they are wiped by the bandits' leader, their corpses sent flying among the children who can do nothing but watch in horror. In a ultimate act of hatred, a young girl is sent back to her village to retell the carnage and warn future intruders against trying to rescue the children again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21015</LineID>
+    </Text>
+  </Values>
+</Asset>

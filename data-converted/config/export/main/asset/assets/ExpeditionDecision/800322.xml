@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800322</GUID>
+      <Name>Opera House in the Jungle 1.2.4</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"I think it's going to give way!" cries the terrified Mr. Cardinale.&lt;/b&gt; The feet of your men slip and slide on the mudstrewn slope, as the great weight of the ship plummets it back down the hill. Many try to get out of the way, but are crushed beneath the keel. A hideous accident caused by inadequate materials, that signals the end of Cardinale's operatic ambitions.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3803</LineID>
+    </Text>
+  </Values>
+</Asset>

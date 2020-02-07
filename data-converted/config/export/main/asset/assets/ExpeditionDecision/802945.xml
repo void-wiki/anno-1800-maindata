@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802945</GUID>
+      <Name>Through the Jungle 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802946</Option>
+        </Item>
+        <Item>
+          <Option>802966</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"I'll mark her on the map with an S!"&lt;/b&gt; says local man Ramón whom Sir Archibald sent to accompany you. "Why not an X?" says the captain with an air of disappointment. "Sarmento!" says Ramón, his eyes sparkling with life, "finding her is the key to everything. Having travelled for many days along the New World coast, &lt;b&gt;it is now time to decide how you will travel on from here.&lt;/b&gt; Ahead, a broad brown rivermouth invites you upstream, its perils waiting unseen beyond its bends. "Perhaps a route overland will be more forgiving?" says the navigator hopefully. One look at the dark and foreboding line of trees would suggest nothing could be further from the truth. "But which is the lesser of evils, Admiral?"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23717</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15220</GUID>
+      <Name>Basic Festival Ended Notificiation Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>City festival in [NotificationContext Value(Area) Area CityName] has ended!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22612</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802348</GUID>
+      <Name>Teeth of the Mountain 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Avoiding the tracks means getting lost,&lt;/b&gt; the steep contour of the valley confusing what limited grasp of the geography your explorers have. They emerge a week of aimless wandering later, devoured not by the cannibals rumoured in these parts, but by the mosquitoes and leeches so at home near the flooded river.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20974</LineID>
+    </Text>
+  </Values>
+</Asset>

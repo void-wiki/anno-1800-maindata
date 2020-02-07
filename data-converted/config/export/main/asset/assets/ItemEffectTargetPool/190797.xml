@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190797</GUID>
+      <Name>all kontors</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Trading Posts</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15251</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>191297</GUID>
+        </Item>
+        <Item>
+          <GUID>191298</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

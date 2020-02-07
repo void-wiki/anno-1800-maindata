@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800875</GUID>
+      <Name>Parasitic Infestation</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Parasitic Infestation</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13191</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800031</EventThreat>
+      <StartDecision>800877</StartDecision>
+      <EventMusicChoice>226702</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/disease_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202341</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

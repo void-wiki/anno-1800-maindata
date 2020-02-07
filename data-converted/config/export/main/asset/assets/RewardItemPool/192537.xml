@@ -1,0 +1,43 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192537</GUID>
+      <Name>Third_party_02 (Archibald Blake) Rare Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_6.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192700</ItemLink>
+          <Weight>6</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192710</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192806</ItemLink>
+          <Weight>19</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192654</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192669</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192649</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193738</ItemLink>
+          <Weight>11</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193694</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

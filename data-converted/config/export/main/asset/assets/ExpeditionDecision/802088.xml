@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802088</GUID>
+      <Name>Cut or Lift 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailor is easily pulled from under the mast.&lt;/b&gt; The foamy water allows the crushed leg to slither away from the debris and the limb emerges covered in rainbow bubbles and bloody splinters. The man will live and maybe, with a miracle or two, his leg will mend.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21685</LineID>
+    </Text>
+  </Values>
+</Asset>

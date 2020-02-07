@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801649</GUID>
+      <Name>Scylla and Charybdis 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801651</Option>
+        </Item>
+        <Item>
+          <Option>801652</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The maneuver is even more complicated than expected.&lt;/b&gt; The ship is driven alongside the whirlpool and flirts with the shore, the racket of the water covering the orders shouted by officers. The current speeds up, inexorably pulling the ship towards the reef.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17980</LineID>
+    </Text>
+  </Values>
+</Asset>

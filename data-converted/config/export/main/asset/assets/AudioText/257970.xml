@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You look like a royalist, that's enough for us.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9251</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220456</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257970</GUID>
+      <Name>AT_3rd_party_03_NpcDeclaresWarOnPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

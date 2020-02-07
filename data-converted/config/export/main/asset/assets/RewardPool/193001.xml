@@ -1,0 +1,51 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193001</GUID>
+      <Name>Archetype (Artisan) Resident Quest Ancient Warriors Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190523</ItemLink>
+          <Weight>12</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190524</ItemLink>
+          <Weight>12</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190526</ItemLink>
+          <Weight>13</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190529</ItemLink>
+          <Weight>13</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190533</ItemLink>
+          <Weight>13</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190535</ItemLink>
+          <Weight>13</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190538</ItemLink>
+          <Weight>8</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190542</ItemLink>
+          <Weight>8</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190544</ItemLink>
+          <Weight>8</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

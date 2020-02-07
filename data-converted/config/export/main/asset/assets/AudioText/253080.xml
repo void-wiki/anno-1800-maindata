@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I accept this odd contract.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6009</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216631</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253080</GUID>
+      <Name>AT_ai02_NpcAcceptsPlayerProposal2</Name>
+    </Standard>
+  </Values>
+</Asset>

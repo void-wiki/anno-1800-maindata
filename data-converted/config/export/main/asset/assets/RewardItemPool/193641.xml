@@ -1,0 +1,20 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193641</GUID>
+      <Name>Old Nate Common Specialists</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193468</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193473</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

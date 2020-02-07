@@ -1,0 +1,46 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/beryl_ai_05.portraitcamleft</CamFile>
+        </Left>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/beryl_ai_05.portraitcamleft</CamFile>
+        </VideoLeft>
+        <CreateGame>
+          <CamFile>data/config/portraitcam/creategameomara.portraitcam</CamFile>
+        </CreateGame>
+        <ProfileSelection>
+          <CamFile>data/config/portraitcam/creategameomara.portraitcam</CamFile>
+        </ProfileSelection>
+        <ProfileCreation>
+          <CamFile>data/config/portraitcam/creategameomara.portraitcam</CamFile>
+        </ProfileCreation>
+        <ActiveTrade>
+          <CamFile>data/config/portraitcam/activetrade_omara.portraitcam</CamFile>
+        </ActiveTrade>
+      </PortraitCameraAmbientConfig>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>100666</GUID>
+      <Name>ai_05 (Beryl O'Mara)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_05.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/ai_05/ai_05.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

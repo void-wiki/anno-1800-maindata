@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501688</GUID>
+      <Name>MilitaryResultNotification</Name>
+      <ID>NotificationMilitaryResult</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification />
+          <BaseNotification>
+            <NotificationAudioAsset>201632</NotificationAudioAsset>
+            <NotificationPriority>500</NotificationPriority>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

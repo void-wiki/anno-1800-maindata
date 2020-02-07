@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dynamite fishing?! You're serious? Well, the village north is always short on food.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17421</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232652</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266382</GUID>
+      <Name>advisor02_Prologue_Additional_01</Name>
+    </Standard>
+  </Values>
+</Asset>

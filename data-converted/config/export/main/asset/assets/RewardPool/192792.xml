@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192792</GUID>
+      <Name>Culture - South American Artifacts - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190501</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190498</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190499</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Fish</Template>
+  <Values>
+    <Standard>
+      <GUID>113779</GUID>
+      <Name>kraken_wildlife</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/units/wildlife/kraken/kraken_wildlife.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Walking>
+      <SpecialMovementType />
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <Mesh />
+    <DayNightReaction />
+  </Values>
+</Asset>

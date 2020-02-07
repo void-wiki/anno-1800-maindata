@@ -1,0 +1,31 @@
+<Asset>
+  <Template>LockableNotification</Template>
+  <Values>
+    <Standard>
+      <GUID>501950</GUID>
+      <Name>NewAge_Colony31_Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>117082</Title>
+            <NotificationMainIconAsset>112642</NotificationMainIconAsset>
+            <Icon01>114889</Icon01>
+            <Icon02>114751</Icon02>
+            <BackgroundAnimation>data\ui\video\ui_alpha\main_banner\mainbanner_arctic_a.bk2</BackgroundAnimation>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>117083</NotificationText>
+            <NotificationAudioAsset>202372</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+    <Locked />
+  </Values>
+</Asset>

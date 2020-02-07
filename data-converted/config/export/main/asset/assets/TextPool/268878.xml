@@ -1,0 +1,44 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268878</GUID>
+      <Name>Pool_ai01_PositiveFeedbackToPlayer</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>251019</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251020</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251021</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251022</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251023</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251024</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251025</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

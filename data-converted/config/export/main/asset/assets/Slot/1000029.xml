@@ -1,0 +1,72 @@
+<Asset>
+  <Template>Slot</Template>
+  <Values>
+    <Standard>
+      <GUID>1000029</GUID>
+      <Name>random slot mining</Name>
+      <IconFilename>data/level_editor/random_slots_icons/random_slot_mining.png</IconFilename>
+    </Standard>
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+      <DeletePropsRadius>0</DeletePropsRadius>
+      <RemovePropsRadius>1</RemovePropsRadius>
+    </Blocking>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/mining_01/mining_01_middle.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/mining_01/mining_01_left.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/mining_01/mining_01_right.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Mesh />
+    <Slot>
+      <SlotType>Random</SlotType>
+      <AutoChangeVariation>1</AutoChangeVariation>
+      <SlotCategoryName>0</SlotCategoryName>
+      <WorkAreaPathSnapDummy>mining_ground</WorkAreaPathSnapDummy>
+    </Slot>
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>slot mining</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <RandomMapObject>
+      <Randomizable>1</Randomizable>
+      <Replacements>
+        <Item>
+          <NewAsset>1010500</NewAsset>
+        </Item>
+        <Item>
+          <NewAsset>1010501</NewAsset>
+        </Item>
+        <Item>
+          <NewAsset>1010503</NewAsset>
+        </Item>
+        <Item>
+          <NewAsset>1010504</NewAsset>
+        </Item>
+        <Item>
+          <NewAsset>1010505</NewAsset>
+        </Item>
+        <Item>
+          <NewAsset>1010507</NewAsset>
+        </Item>
+      </Replacements>
+    </RandomMapObject>
+    <Building />
+    <SoundEmitter />
+    <Infolayer />
+    <QuestObject />
+  </Values>
+</Asset>

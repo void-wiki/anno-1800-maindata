@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I worry about you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6144</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216570</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254848</GUID>
+      <Name>AT_ai04_NPCReputationAutocorrectDecrease1</Name>
+    </Standard>
+  </Values>
+</Asset>

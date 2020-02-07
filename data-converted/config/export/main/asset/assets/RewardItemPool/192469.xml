@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192469</GUID>
+      <Name>2nd_party_03 (Willie Wibblesock) Common Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_1.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191925</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191913</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191969</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191059</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190467</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190522</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

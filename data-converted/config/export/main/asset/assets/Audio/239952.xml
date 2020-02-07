@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239952</GUID>
+      <Name>wwe_voc_mur_farmer_content</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMaximum>16503</DurationMaximum>
+        </English>
+        <German>
+          <DurationMaximum>16755</DurationMaximum>
+        </German>
+        <French>
+          <DurationMaximum>16253</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMaximum>16122</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3715445248</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>QuestLine</Template>
+  <Values>
+    <Standard>
+      <GUID>114118</GUID>
+      <Name>ArcticQuests_Questline_StoryIntroBranch</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/lady_faithful.png</IconFilename>
+    </Standard>
+    <QuestLine>
+      <QuestLineQuests>
+        <Item>
+          <Asset>114117</Asset>
+        </Item>
+        <Item>
+          <Asset>114126</Asset>
+        </Item>
+        <Item>
+          <Asset>114386</Asset>
+        </Item>
+      </QuestLineQuests>
+    </QuestLine>
+  </Values>
+</Asset>

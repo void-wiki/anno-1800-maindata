@@ -1,0 +1,27 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192257</GUID>
+      <Name>QI Letter for Isabel - Main arc</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_letter_closed.png</IconFilename>
+      <InfoDescription>18494</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Confession Letter for Isabel</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28499</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103060</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

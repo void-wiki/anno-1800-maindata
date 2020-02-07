@@ -1,0 +1,24 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>141415</GUID>
+      <Name>CoalRouteUnlock</Name>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>100781</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

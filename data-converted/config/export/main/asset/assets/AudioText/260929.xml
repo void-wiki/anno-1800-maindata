@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The antithesis of Noah's Ark.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11723</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229822</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260929</GUID>
+      <Name>AT_3rdParty07_PlayerSelectsNpcShip4</Name>
+    </Standard>
+  </Values>
+</Asset>

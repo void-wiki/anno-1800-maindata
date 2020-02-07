@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800143</GUID>
+      <Name>Temple of the Monkey God 1.2.2.2.1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226562</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew run fearfully&lt;/b&gt; from the temple where the devotees stand so firm. The monkey-masked one is heard uttering hard and undecipherable words that many of the crew later become convinced is a curse dooming the expedition.  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5649</LineID>
+    </Text>
+  </Values>
+</Asset>

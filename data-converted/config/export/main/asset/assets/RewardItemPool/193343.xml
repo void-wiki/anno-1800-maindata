@@ -1,0 +1,20 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193343</GUID>
+      <Name>Mercier Common Edicts</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193311</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193316</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

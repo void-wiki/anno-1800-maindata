@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I feel sick to the stomach that Edvard could ask so much of us so soon after father's death.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15497</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232225</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264999</GUID>
+      <Name>advisor_01_RepayYourDebt_03</Name>
+    </Standard>
+  </Values>
+</Asset>

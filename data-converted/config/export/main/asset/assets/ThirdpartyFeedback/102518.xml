@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>102518</GUID>
+      <Name>3rd_party_feedback_template_01</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/3rd_party_feedback_template_01/3rd_party_feedback_template_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/3rd_party_feedback_template_01_at/3rd_party_feedback_template_01_at.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController />
+  </Values>
+</Asset>

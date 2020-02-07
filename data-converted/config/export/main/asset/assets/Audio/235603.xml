@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>235603</GUID>
+      <Name>wwc_sfx_anm_herds_reindeer_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>235605</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>532845743</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

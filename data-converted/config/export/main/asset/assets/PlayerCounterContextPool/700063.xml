@@ -1,0 +1,32 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700063</GUID>
+      <Name>AP - TQ Early Heavy Industry</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010298</Asset>
+        </Item>
+        <Item>
+          <Asset>1010297</Asset>
+        </Item>
+        <Item>
+          <Asset>1010296</Asset>
+        </Item>
+        <Item>
+          <Asset>1010299</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>AP - TQ European Animal Farms</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

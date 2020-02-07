@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wild things pursue us!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8031</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217376</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255720</GUID>
+      <Name>AT_captain_EventCallToAction_Wildlife2</Name>
+    </Standard>
+  </Values>
+</Asset>

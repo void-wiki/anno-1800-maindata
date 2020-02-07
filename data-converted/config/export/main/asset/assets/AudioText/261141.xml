@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There's been a dreadful misunderstanding, it's now I need your support most.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12404</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229628</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261141</GUID>
+      <Name>AT_ai01_NpcInvokesAlliance1</Name>
+    </Standard>
+  </Values>
+</Asset>

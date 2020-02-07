@@ -1,0 +1,44 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700142</GUID>
+      <Name>AP - All Artisan Production Buildings</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010319</Asset>
+        </Item>
+        <Item>
+          <Asset>1010285</Asset>
+        </Item>
+        <Item>
+          <Asset>1010293</Asset>
+        </Item>
+        <Item>
+          <Asset>1010295</Asset>
+        </Item>
+        <Item>
+          <Asset>1010284</Asset>
+        </Item>
+        <Item>
+          <Asset>1010325</Asset>
+        </Item>
+        <Item>
+          <Asset>100659</Asset>
+        </Item>
+        <Item>
+          <Asset>1010328</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Asset Pool All Artisan Production Buildings</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

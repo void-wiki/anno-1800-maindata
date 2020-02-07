@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190976</GUID>
+      <Name>Third_party_04 (La Fortune) Voluntary Reward</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/crown_attacker.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190961</ItemLink>
+          <Weight>75</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192549</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192550</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192551</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192552</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192553</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

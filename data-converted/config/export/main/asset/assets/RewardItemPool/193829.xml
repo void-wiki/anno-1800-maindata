@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193829</GUID>
+      <Name>Third_party_11 (Inuit) Forced Voluntary Reward</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_jewelry.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190961</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193823</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193824</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193825</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193826</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193827</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

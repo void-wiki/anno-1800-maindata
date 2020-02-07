@@ -1,0 +1,55 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191964</GUID>
+      <Name>Canister shots</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_big_berta_1.png</IconFilename>
+      <InfoDescription>19562</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect />
+    <ItemAction>
+      <ItemAction>NOACTION</ItemAction>
+      <ActionScope>Self</ActionScope>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <Charges>3</Charges>
+      <ActionDuration>90000</ActionDuration>
+      <ActiveBuff>191949</ActiveBuff>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <HasAction>1</HasAction>
+      <ExclusiveGroup>AutoAttackProjectile</ExclusiveGroup>
+      <TradePrice>3300</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Canister Shot</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26850</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>3</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>19562</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <CraftableItem />
+  </Values>
+</Asset>

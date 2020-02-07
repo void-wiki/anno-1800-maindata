@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192965</GUID>
+      <Name>Culture - Animals - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192772</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192777</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192782</ItemLink>
+          <Weight>9</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193430</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193793</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

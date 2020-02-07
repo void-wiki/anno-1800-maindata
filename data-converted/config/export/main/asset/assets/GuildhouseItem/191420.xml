@@ -1,0 +1,81 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191420</GUID>
+      <Name>Industrial Designer</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_406.png</IconFilename>
+      <InfoDescription>19681</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Susannah the Steam Engineer</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26686</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>348200</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade>
+      <AdditionalOutput>
+        <Item>
+          <Product>1010208</Product>
+          <AdditionalOutputCycle>4</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+      </AdditionalOutput>
+      <ReplaceInputs>
+        <Item>
+          <OldInput>1010224</OldInput>
+          <NewInput>1010243</NewInput>
+        </Item>
+      </ReplaceInputs>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010303</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>45</Amount>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>19681</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

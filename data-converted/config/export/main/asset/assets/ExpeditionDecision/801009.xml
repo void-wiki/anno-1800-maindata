@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801009</GUID>
+      <Name>Mysterious Artefacts 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A destructive episode.&lt;/b&gt; No one has information, or perhaps they withhold it. Consensus tends towards the latter. Someone wants this expedition to fail, and these effigies are a threat. Paranoia festers. At the next port, a large part of the crew opts to quit.     </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13176</LineID>
+    </Text>
+  </Values>
+</Asset>

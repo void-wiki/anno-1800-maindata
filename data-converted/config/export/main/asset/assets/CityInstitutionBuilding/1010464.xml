@@ -1,0 +1,128 @@
+<Asset>
+  <Template>CityInstitutionBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>1010464</GUID>
+      <Name>institution_03 (Hospital)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_hospital.png</IconFilename>
+      <InfoDescription>3789</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildModeRandomRotation>90</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>10000</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>12</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+          <Amount>16</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+          <Amount>40</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/public/institution_03/institution_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>CityInstitution</GUIType>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hospital</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3737</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>239532</Sound>
+        </Item>
+      </ActiveSounds>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+      <BuildingRepaired>
+        <Item>
+          <Sound>203866</Sound>
+        </Item>
+      </BuildingRepaired>
+    </SoundEmitter>
+    <FeedbackController>
+      <NightBehavior>HideAll</NightBehavior>
+    </FeedbackController>
+    <Infolayer />
+    <UpgradeList />
+    <IncidentResolver>
+      <ResolverUnit>100583</ResolverUnit>
+      <ResolverUnitCount>2</ResolverUnitCount>
+      <SpecialUnit>100584</SpecialUnit>
+      <ResolvableIncidents>Illness</ResolvableIncidents>
+      <DuringConstructionText>15224</DuringConstructionText>
+      <DuringIncidentHeadline>3781</DuringIncidentHeadline>
+      <ActionButtonText>3690</ActionButtonText>
+      <DuringIncidentHeadlineIcon>501922</DuringIncidentHeadlineIcon>
+    </IncidentResolver>
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010017</Product>
+          <Amount>100</Amount>
+          <InactiveAmount>100</InactiveAmount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>5500</MaximumHitPoints>
+      <SelfHealPerHealTick>4</SelfHealPerHealTick>
+    </Attackable>
+    <Pausable />
+    <IncidentInfluencer>
+      <Influence>
+        <Illness>
+          <Influence>-7</Influence>
+          <Distance>20</Distance>
+        </Illness>
+      </Influence>
+    </IncidentInfluencer>
+    <DelayedConstruction />
+    <AmbientMoodProvider>
+      <AmbientMood>ResidenceTier1</AmbientMood>
+    </AmbientMoodProvider>
+    <Culture />
+    <QuestObject />
+  </Values>
+</Asset>

@@ -1,0 +1,69 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190676</GUID>
+      <Name>Scholar</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_407.png</IconFilename>
+      <InfoDescription>12558</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Lecturer</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26528</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>27600</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item />
+        <Item>
+          <Attribute>PerkZoologist</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>12558</FluffText>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

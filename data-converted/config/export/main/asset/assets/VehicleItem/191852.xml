@@ -1,0 +1,54 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191852</GUID>
+      <Name>Congreve Rocket</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_cannon_0.png</IconFilename>
+      <InfoDescription>19702</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Congrave Rocket</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26794</LineID>
+    </Text>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <ExclusiveGroup>Canons</ExclusiveGroup>
+      <TradePrice>23000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19702</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <BaseDamageUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,60 @@
+<Asset>
+  <Template>FeedbackVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>100737</GUID>
+      <Name>Courier Ship</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/courier_ship/courier_ship.cfg</Filename>
+        </Item>
+      </Variations>
+      <DefaultParticipant>Human0</DefaultParticipant>
+    </Object>
+    <Mesh />
+    <Selection>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <ReservationLength>16</ReservationLength>
+      <ReservationWidth>6</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <LeaningMaxAngle>10</LeaningMaxAngle>
+      <ForwardSpeed>8.4</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tourism Ship</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>9818383</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>2.7</Length>
+      <Width>0.8</Width>
+      <UseSlowDownTactic>0</UseSlowDownTactic>
+    </Drifting>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+    </MinimapToken>
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+  </Values>
+</Asset>

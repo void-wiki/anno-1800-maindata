@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Begone baneful ghost! (still afraid)</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2617</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212487</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251705</GUID>
+      <Name>AT_ai03_NpcAttacksPlayer3</Name>
+    </Standard>
+  </Values>
+</Asset>

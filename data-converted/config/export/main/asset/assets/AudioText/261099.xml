@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>That windsock Willie still complaining? The lad doesn't know his luck.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12312</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231309</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261099</GUID>
+      <Name>AT_3rdParty06_IdleMessageGossip_Wibblesock</Name>
+    </Standard>
+  </Values>
+</Asset>

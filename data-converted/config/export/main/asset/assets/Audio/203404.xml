@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203404</GUID>
+      <Name>wwc_sfx_anm_zoo_seagull</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>203405</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>713442340</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

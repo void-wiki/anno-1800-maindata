@@ -1,0 +1,26 @@
+<Asset>
+  <Template>FluffItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192315</GUID>
+      <Name>The journal of missed chances</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_journal.png</IconFilename>
+      <InfoDescription>19997</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fieldnotes of Failed Experiments</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27896</LineID>
+    </Text>
+    <Item />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

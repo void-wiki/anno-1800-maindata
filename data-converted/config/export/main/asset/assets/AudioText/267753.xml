@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Old friend, it's over! The last Pyrphorians are sunk!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17419</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232717</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267753</GUID>
+      <Name>advisor02_Ch4Ph2_Additional_08</Name>
+    </Standard>
+  </Values>
+</Asset>

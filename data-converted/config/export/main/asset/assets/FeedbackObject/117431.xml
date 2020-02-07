@@ -1,0 +1,20 @@
+<Asset>
+  <Template>FeedbackObject</Template>
+  <Values>
+    <Standard>
+      <GUID>117431</GUID>
+      <Name>reindeers</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_unit_groups/exploration_object_group_reindeers_eating.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Mesh />
+    <SoundEmitter />
+    <FeedbackController />
+  </Values>
+</Asset>

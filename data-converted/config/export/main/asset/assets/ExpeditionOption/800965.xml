@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800965</GUID>
+      <Name>The Icy Blizzard 1.3.3.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Craft longer ropes and swing down</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16069</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Crafting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800966</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>800967</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

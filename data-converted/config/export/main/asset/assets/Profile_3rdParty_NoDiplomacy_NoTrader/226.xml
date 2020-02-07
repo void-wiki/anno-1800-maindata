@@ -1,0 +1,126 @@
+<Asset>
+  <Template>Profile_3rdParty_NoDiplomacy_NoTrader</Template>
+  <Values>
+    <Standard>
+      <GUID>226</GUID>
+      <Name>Third_party_09 (Vasco Oliveira)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_09.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vasco Oliveira</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32457</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/3rd_party_09.png</ProfilePicture>
+      <Portrait>112118</Portrait>
+      <CompanyIcon>501765</CompanyIcon>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <ParticipantID>Third_party_09_Vasco_Silva</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_03.png</NotificationBackground>
+      <QuestStarterObject>111881</QuestStarterObject>
+      <DefaultColor>Color9</DefaultColor>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <QuestResolveConfirmation>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationText>10550</NotificationText>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestResolveConfirmation>
+        <ParticipantDiscovered>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>3rdParty_EventTrader</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                  <Entry>
+                    <TemplateName>Profile_3rdParty_EventTrader</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                  <Entry>
+                    <TemplateName>Profile_3rdParty_ItemCrafter</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <SubtitleGroup>1429709091</SubtitleGroup>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ParticipantDiscovered>
+        <QuestStarted>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>3rdParty_EventTrader</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                  <Entry>
+                    <TemplateName>Profile_3rdParty_EventTrader</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                  <Entry>
+                    <TemplateName>Profile_3rdParty_ItemCrafter</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>699</NotificationPriority>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestStarted>
+      </MessageTriggers>
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Third_party_09_Vasco_Silva</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>227</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <ThirdParty />
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

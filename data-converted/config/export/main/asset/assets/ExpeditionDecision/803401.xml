@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803401</GUID>
+      <Name>Isla de los Muertos 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Lack of belief forces your party to retreat.&lt;/b&gt; The chain suddenly stops moving forward, and the echoes of a disagreement at its head filter back. "Snap out of it! Keep moving!" "But sir, I swear, the thing had no eyes! I won't move another step!" Despite efforts to continue, the feeling your party are trespassing only intensifies, and they depart the dread rock drained and deeply perturbed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31828</LineID>
+    </Text>
+  </Values>
+</Asset>

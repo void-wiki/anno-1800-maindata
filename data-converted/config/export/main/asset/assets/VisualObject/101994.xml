@@ -1,0 +1,19 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101994</GUID>
+      <Name>TurretExplosion01</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/explosions/harbor_building_explosion_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

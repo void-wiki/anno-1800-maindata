@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802592</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.1.1.2.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew is no match for the criminals.&lt;/b&gt; When the gang barges into the saloon, the sailors are still arguing over how to handle the fighting in such a closed space. The fight is short-lived. Your sailors lack the rough training and ability of their opponents and can barely fling insults at them, even less punches. The beaten crew is thrown outside and scampers away from the town - very aware of how lucky they are to still be alive.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21661</LineID>
+    </Text>
+  </Values>
+</Asset>

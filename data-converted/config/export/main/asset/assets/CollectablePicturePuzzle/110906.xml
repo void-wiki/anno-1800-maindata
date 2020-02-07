@@ -1,0 +1,59 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>110906</GUID>
+      <Name>Book pyre - Fahrenheit 451</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_glass_working_3.png</IconFilename>
+    </Standard>
+    <Collectable />
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+      <InitialVisibility>0</InitialVisibility>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/quest/unit_groups/workers_burning_books/workers_burning_books_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dm/graphics/quest/unit_groups/workers_burning_books/workers_burning_books_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dm/graphics/quest/unit_groups/workers_burning_books/workers_burning_books_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Book Pyres</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31307</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController>
+      <UseMeshRenderFlags>1</UseMeshRenderFlags>
+    </FeedbackController>
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

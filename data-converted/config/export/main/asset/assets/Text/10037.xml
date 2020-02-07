@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>10037</GUID>
+      <Name>CQ101_CleanTheIsland_ObjectiveText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Clear:&lt;br/&gt;[AssetData([Conditions QuestCondition Context]) Text] [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9942</LineID>
+    </Text>
+  </Values>
+</Asset>

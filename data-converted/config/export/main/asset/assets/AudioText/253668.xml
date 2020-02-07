@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If you think this is best, who am I to protest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4051</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236245</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253668</GUID>
+      <Name>AT_Reporter_ManipulateArticle1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/gasparov_ai_06.portraitcamleft</CamFile>
+        </Left>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/gasparov_ai_06.portraitcamleft</CamFile>
+        </VideoLeft>
+        <ActiveTrade>
+          <CamFile>data/config/portraitcam/activetrade_default.portraitcam</CamFile>
+        </ActiveTrade>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>100667</GUID>
+      <Name>ai_06 (Artur Gasparov)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_06.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/ai_06/ai_06.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

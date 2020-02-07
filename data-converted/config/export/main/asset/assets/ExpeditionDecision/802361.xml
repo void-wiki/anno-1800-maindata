@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802361</GUID>
+      <Name>The Mayan Map 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802362</Option>
+        </Item>
+        <Item>
+          <Option>802364</Option>
+        </Item>
+        <Item>
+          <Option>802373</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The trail ends at a stone covered in glyphs.&lt;/b&gt; Following the confluence of high waters as they weave in and out of one another, you arrive several days later at the lake marked on the faded map. A keen-eyed young whippersnapper notices unmarked stones at regular intervals, which culminate at a waterfall, and a stone whose inscription must have been made long ago.</Text>
+          <Status>Exported</Status>
+          <ExportCount>9</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20981</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You teach us endlessly.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11361</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236238</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260321</GUID>
+      <Name>AT_Reporter_PositiveFeedbackToPlayer5</Name>
+    </Standard>
+  </Values>
+</Asset>

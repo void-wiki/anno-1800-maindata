@@ -1,0 +1,26 @@
+<Template>
+  <Name>SelectObjectObjective</Name>
+  <Properties>
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12733</TextCombinedContextValue>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500482</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <ConditionQuestSelectObject />
+    <ConditionPropsSessionSettings />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </ExecutionPlace>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

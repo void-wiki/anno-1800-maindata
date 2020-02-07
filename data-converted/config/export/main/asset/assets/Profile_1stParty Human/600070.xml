@@ -1,0 +1,38 @@
+<Asset>
+  <Template>Profile_1stParty Human</Template>
+  <Values>
+    <Standard>
+      <GUID>600070</GUID>
+      <Name>Human2</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_worker_4.png</IconFilename>
+    </Standard>
+    <Diplomacy />
+    <Profile>
+      <Portrait>100588</Portrait>
+      <ParticipantID>Human2</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_01.png</NotificationBackground>
+      <DefaultColor>Color3</DefaultColor>
+      <VisibleInDiplomacy>1</VisibleInDiplomacy>
+    </Profile>
+    <Object>
+      <DefaultParticipant>Human2</DefaultParticipant>
+    </Object>
+    <ParticipantMessages />
+    <ExpeditionUser />
+    <ProfileCounter />
+    <MetaInfluence>
+      <BaseInfluenceCapacity>85</BaseInfluenceCapacity>
+      <InfluenceCapacityPerLevel>15</InfluenceCapacityPerLevel>
+    </MetaInfluence>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Human2</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <KontorOwner />
+    <ParticipantMessageObject />
+    <MetaBuildPermits />
+  </Values>
+</Asset>

@@ -1,0 +1,316 @@
+<Asset>
+  <Template>A7_QuestPhotography</Template>
+  <Values>
+    <Standard>
+      <GUID>153178</GUID>
+      <Name>Writer1_MiddleEarth_SubQuest1_ TBD</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_iron_ore.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <FailureMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </FailureMessage>
+      <SelectionReminderMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SelectionReminderMessage>
+      <AbortedManuallyMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </AbortedManuallyMessage>
+      <OnQuestSucceeded>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions />
+          </ActionList>
+        </Values>
+      </OnQuestSucceeded>
+      <QuestGiver>87</QuestGiver>
+      <IsEnabled>0</IsEnabled>
+      <CountForQuestLimit>0</CountForQuestLimit>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <QuestActivation>QuestStart</QuestActivation>
+      <IsAbortable>0</IsAbortable>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Triggered;Active</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>153175</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Middle Earth SQ</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Reward>
+      <RewardAssets />
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestPhotography</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>1010304</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>1010305</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>1010307</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>1010308</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>1010309</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>1010311</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>101311</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>FakeQuestObjective</Template>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionQuestFakeObjective />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>MutuallyExclusive</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>None</HasStarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

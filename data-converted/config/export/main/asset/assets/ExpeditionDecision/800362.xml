@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800362</GUID>
+      <Name>The Minefield 1.4.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;While the path the volunteers cut is a true one,&lt;/b&gt; it does not account for the difference in size between the two ships. It only takes a narrow graze to explode one of the mines, and though no lives are lost, the damage to your ship is significant. The crew are dismayed by the situation. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5844</LineID>
+    </Text>
+  </Values>
+</Asset>

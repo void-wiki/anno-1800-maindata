@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Competitors have agreed an alliance.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15972</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234085</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265380</GUID>
+      <Name>AT_Narrator_Diplomacy_Information_DiplomacyAllianceOtherParticipant</Name>
+    </Standard>
+  </Values>
+</Asset>

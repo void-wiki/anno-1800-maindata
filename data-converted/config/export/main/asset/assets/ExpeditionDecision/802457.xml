@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802457</GUID>
+      <Name>Wood Keeper 1.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your expedition leaves safe, but hungry.&lt;/b&gt; The villagers stare, silent and disapproving, as your men raise their hands slowly and back away. As the expedition boards ship, the captain raises a spyglass to the village, high up the lush green valley. He can see the villagers still watching, waiting, until they are sure the thieves are gone.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20902</LineID>
+    </Text>
+  </Values>
+</Asset>

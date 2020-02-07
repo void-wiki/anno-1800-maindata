@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802994</GUID>
+      <Name>Blizzard 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802996</Option>
+        </Item>
+        <Item>
+          <Option>802997</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The task is far from easy.&lt;/b&gt; Your sailors have good strength and are used to climb the masts, but they lack either luck or skill when it comes to speed. Before they can reach the foremast, the fore sail breaks out of its bounds and flaps wildly against the weakened mast while the other sails continue to foster stalactites of increasing length and weight. The foremast emits a shrilling sound of protest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22144</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Don't worry, I forgive you, now off you pop.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2521</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212505</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251565</GUID>
+      <Name>AT_ai03_NpcAcceptsPeace2</Name>
+    </Standard>
+  </Values>
+</Asset>

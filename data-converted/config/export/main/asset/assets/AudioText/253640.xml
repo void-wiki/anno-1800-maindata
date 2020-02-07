@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Do I catch you in especially good humour, governor? </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4028</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232161</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253640</GUID>
+      <Name>AT_Reporter_WelcomeToPlayer3</Name>
+    </Standard>
+  </Values>
+</Asset>

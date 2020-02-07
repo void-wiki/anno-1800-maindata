@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100648</GUID>
+      <Name>Bush jungle 02</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/bushes/bush_jungle_02_small.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/bushes/bush_jungle_02_medium.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/bushes/bush_jungle_02_large.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop>
+      <HerdBlocking>Passable</HerdBlocking>
+    </Prop>
+  </Values>
+</Asset>

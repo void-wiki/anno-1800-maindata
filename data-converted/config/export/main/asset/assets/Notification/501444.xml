@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501444</GUID>
+      <Name>NotificationDiplomacy_PeacePlayerInitiator</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501368</IconAsset>
+            <FilterType>DiplomaticRelations</FilterType>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>17249</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <DisplayTimeout>0</DisplayTimeout>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

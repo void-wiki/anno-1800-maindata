@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We hear you Isabel, but first we return to Bright Sands and confront uncle Edvard. His wicked masquerade is over!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17136</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233468</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>14</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266898</GUID>
+      <Name>AT_Advisor01_movie06_04</Name>
+    </Standard>
+  </Values>
+</Asset>

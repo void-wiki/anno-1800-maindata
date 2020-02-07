@@ -1,0 +1,37 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102442</GUID>
+      <Name>TutorialWorkerStarterObject</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resident_worker.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>Default</MeshPlacement>
+      <DefaultSequence>greet01</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Specialist</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/resident_quests/start_object/worker/worker_questgiver.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Worker</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <Collectable />
+    <FeedbackController />
+  </Values>
+</Asset>

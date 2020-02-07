@@ -1,0 +1,28 @@
+<Asset>
+  <Template>WorkArea</Template>
+  <Values>
+    <Standard>
+      <GUID>1010549</GUID>
+      <Name>mining_08_workarea (Gold Ore)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_gold.png</IconFilename>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/mining_colony01_slot_01/mining_colony01_slot_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Slot>
+      <SnapsToSlot>1</SnapsToSlot>
+    </Slot>
+    <SoundEmitter />
+    <FeedbackController />
+    <WorkAreaPath>
+      <AreaPathConfig>data/graphics/buildings/production/mining_01/mining_rail_01.cfg</AreaPathConfig>
+    </WorkAreaPath>
+    <Selection />
+    <Blocking />
+  </Values>
+</Asset>

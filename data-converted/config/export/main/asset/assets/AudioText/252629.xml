@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You make a good minion.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8408</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221586</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252629</GUID>
+      <Name>AT_ai09_QuestSuccessful1</Name>
+    </Standard>
+  </Values>
+</Asset>

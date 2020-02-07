@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>240558</GUID>
+      <Name>wwe_sfx_bld_factory_arctic_01_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>240560</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>328004040</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

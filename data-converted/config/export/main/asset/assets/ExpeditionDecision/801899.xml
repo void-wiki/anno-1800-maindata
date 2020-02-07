@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801899</GUID>
+      <Name>Reward Expedition The Contract</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191473</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You finally have your hands on the Prosperity contract! Now there's a chance of clearing your father's name, and by so doing, preventing the outbreak of war between Isabel Sarmento and the Queen.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21893</LineID>
+    </Text>
+  </Values>
+</Asset>

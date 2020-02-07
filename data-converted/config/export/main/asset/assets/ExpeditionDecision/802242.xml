@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802242</GUID>
+      <Name>The Deeper You Go 1.1.1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They cannot read the snakes' behaviour.&lt;/b&gt; The sailors progress among the wriggling floor, so focused on their movements they do not see the mass of snakes backing away from them and piling against the sole exit. The crew has no choice but to run into the tunnel before it is filled with snakes, and several sailors end up as reptile diner.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21069</LineID>
+    </Text>
+  </Values>
+</Asset>

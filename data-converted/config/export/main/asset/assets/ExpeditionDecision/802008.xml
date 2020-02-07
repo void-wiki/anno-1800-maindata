@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802008</GUID>
+      <Name>Cracks in the Hull 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802016</Option>
+        </Item>
+        <Item>
+          <Option>802010</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;This joke of a pump looks like it came from the Dark Ages.&lt;/b&gt; As the sailors battle to have their own idea of a pump prevail over the others, they assemble a monster that does nothing more than blow bubbles. One of the cracks bursts in a spray of water that silences the machine and starts flooding the hull.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21882</LineID>
+    </Text>
+  </Values>
+</Asset>

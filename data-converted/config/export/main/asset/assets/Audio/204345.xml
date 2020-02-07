@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204345</GUID>
+      <Name>Play_AI_DRYNEWDL_IFV_TTP_00003_01NEWDL_30304</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>3012</DurationMinimum>
+          <DurationMaximum>3012</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>3099</DurationMinimum>
+          <DurationMaximum>3099</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>3302</DurationMinimum>
+          <DurationMaximum>3302</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2978</DurationMinimum>
+          <DurationMaximum>2978</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2100820610</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

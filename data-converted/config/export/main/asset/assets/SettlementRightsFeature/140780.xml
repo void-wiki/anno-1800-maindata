@@ -1,0 +1,26 @@
+<Asset>
+  <Template>SettlementRightsFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>140780</GUID>
+      <Name>SettlementRightsBalancing</Name>
+      <ID>SettlementRightsBalancing</ID>
+    </Standard>
+    <SettlementRights>
+      <ReservationFlag>100778</ReservationFlag>
+      <MaxReservationCost>250</MaxReservationCost>
+      <ReservationCostPerConstructionTile>7.8125</ReservationCostPerConstructionTile>
+      <AdditionalThresholdPerConstructionTile>0.3125</AdditionalThresholdPerConstructionTile>
+      <MaxAdditionalThreshold>10</MaxAdditionalThreshold>
+      <SettlementItems>
+        <Item>
+          <Item>6000014</Item>
+        </Item>
+        <Item>
+          <Item>190284</Item>
+        </Item>
+      </SettlementItems>
+    </SettlementRights>
+    <Cost />
+  </Values>
+</Asset>

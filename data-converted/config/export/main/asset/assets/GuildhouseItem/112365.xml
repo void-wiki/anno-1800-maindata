@@ -1,0 +1,81 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112365</GUID>
+      <Name>CoordiNATEd Levers Device</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_forklift_truck_1.png</IconFilename>
+      <InfoDescription>112488</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>ForkTuN8 Mk.1</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32336</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>68000</TradePrice>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>193856</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>112488</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <Buff />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>112518</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>120008</Product>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Product>1010211</Product>
+          <Amount>3</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <HeaterUpgrade />
+  </Values>
+</Asset>

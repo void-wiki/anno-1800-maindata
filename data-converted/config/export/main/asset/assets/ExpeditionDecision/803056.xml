@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803056</GUID>
+      <Name>Fear of the Light 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor's truth isn't convincing.&lt;/b&gt; He fumbles through his explanations as his limited knowledge of the dead man's illness shows, and if the doctor did seem to correctly identify the ailment, he fails to justify the impressive death the crew just witnessed. Doubts linger as the expedition goes on, and the doctor spends the rest of trip isolated in a quarantine of defiance and distrust.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26304</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,34 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>100978</GUID>
+      <Name>Wooden Beams Staple</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_beams_staple_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_beams_staple_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_beams_staple_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_beams_staple_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_beams_staple_05.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_beams_staple_06.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

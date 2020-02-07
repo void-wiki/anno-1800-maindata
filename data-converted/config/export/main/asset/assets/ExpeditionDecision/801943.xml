@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801943</GUID>
+      <Name>The Infiltration 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801754</Option>
+        </Item>
+        <Item>
+          <Option>801769</Option>
+        </Item>
+        <Item>
+          <Option>801789</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The sole survivor succeeds in getting back to Isabel's island. In his panic, he explains that the rest didn't make it, and describes how he traced the enemy back to an estate outside Montoya. A crew is assembled at once. They arrive to find the Casona looks quite modern, with its white walls and pleasant gables. &lt;b&gt;The Prosperity contract must be here.&lt;/b&gt; An adjoining orangery extends naturally towards the neat parterres of a sweet-smelling garden. An arc of white gravel serves as a drive, and long lines of equally white picket border the acreage in typical colonial style. Indeed were it not for the unusual height of this perimeter, and the shelters abutting it at intervals— armed guards no doubt stationed in each— it would appear much as any other estate. You consider your plan of entry.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23617</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800133</GUID>
+      <Name>Temple of the Monkey God 1.2.2.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800135</Option>
+        </Item>
+        <Item>
+          <Option>800136</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226557</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The local people are spellbound by your offer.&lt;/b&gt; They invite you enthusiastically to join their ritual.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5638</LineID>
+    </Text>
+  </Values>
+</Asset>

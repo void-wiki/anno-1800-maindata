@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801026</GUID>
+      <Name>Dockyard Dupe 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801027</Option>
+        </Item>
+        <Item>
+          <Option>801028</Option>
+        </Item>
+        <Item>
+          <Option>801029</Option>
+        </Item>
+        <Item>
+          <Option>801030</Option>
+        </Item>
+        <Item>
+          <Option>801031</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Robbed!&lt;/b&gt; Having thanked the generous innkeeper, your ship departed what seemed a most hospitable port. Even at the time your crew were surprised to see so many smiling faces gather at the dock to wave you off. A mere hour into the onward journey, it is discovered that a great deal of valuable property is missing from the hold. You must decide now if it's worth going back for.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13105</LineID>
+    </Text>
+  </Values>
+</Asset>

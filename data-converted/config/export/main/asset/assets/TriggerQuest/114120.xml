@@ -1,0 +1,116 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>114120</GUID>
+      <Name>Trigger EnterSession</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionActiveSession</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveSession>
+            <ActiveSession>180045</ActiveSession>
+          </ConditionActiveSession>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionPlayMovie</Template>
+            <Values>
+              <Action />
+              <ActionPlayMovie>
+                <Movie>115213</Movie>
+              </ActionPlayMovie>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSpawnObjects</Template>
+            <Values>
+              <Action />
+              <ActionSpawnObjects>
+                <SpawnGUID>114125</SpawnGUID>
+                <Amount>1</Amount>
+                <RandomRotation>1</RandomRotation>
+                <Owner>Arctic_LadyFaithful</Owner>
+              </ActionSpawnObjects>
+              <SpawnArea>
+                <SpawnContext>Object</SpawnContext>
+                <ContextGUID>114127</ContextGUID>
+                <DistanceToContext>5</DistanceToContext>
+              </SpawnArea>
+              <SessionFilter>
+                <Sessions>
+                  <Item>
+                    <Session>180045</Session>
+                  </Item>
+                </Sessions>
+              </SessionFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDiscoverIsland</Template>
+            <Values>
+              <Action />
+              <ActionDiscoverIsland>
+                <TargetIsland>114384</TargetIsland>
+              </ActionDiscoverIsland>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDiscoverIsland</Template>
+            <Values>
+              <Action />
+              <ActionDiscoverIsland>
+                <TargetIsland>116974</TargetIsland>
+              </ActionDiscoverIsland>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetIslandName</Template>
+            <Values>
+              <Action />
+              <ActionSetIslandName>
+                <SessionIsland>180045</SessionIsland>
+                <IslandAsset>114384</IslandAsset>
+                <NewIslandName>116355</NewIslandName>
+              </ActionSetIslandName>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>114117</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

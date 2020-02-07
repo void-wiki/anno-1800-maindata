@@ -1,0 +1,16 @@
+<Asset>
+  <Template>RailwayFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>141598</GUID>
+      <Name>RailwayFeature</Name>
+      <ID>RailwayFeature</ID>
+    </Standard>
+    <RailwayFeature>
+      <RestartRouteUpperThreshold>100</RestartRouteUpperThreshold>
+      <RestartRouteLowerThreshold>0</RestartRouteLowerThreshold>
+      <RailwayConnectionHintColor>-337045</RailwayConnectionHintColor>
+      <RailwayConnectionBlockedHintColor>-39373</RailwayConnectionBlockedHintColor>
+    </RailwayFeature>
+  </Values>
+</Asset>

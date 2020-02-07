@@ -1,0 +1,99 @@
+<Template>
+  <Name>HarborWarehouse7_NoAttacker</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Blocking />
+    <Building>
+      <BuildingType>Factory</BuildingType>
+      <Destructable>0</Destructable>
+      <TerrainType>Coast</TerrainType>
+    </Building>
+    <Cost />
+    <Selection>
+      <GUIType>Generic</GUIType>
+      <ParticipantMessageTrigger>ClickKontor</ParticipantMessageTrigger>
+      <AllowedDragType>ItemSocket;CargoProductStack;CargoItemStack</AllowedDragType>
+    </Selection>
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Constructable>
+      <DestructionCategory>Production</DestructionCategory>
+    </Constructable>
+    <Mesh />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+      </DestroySounds>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>200133</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <Locked />
+    <Infolayer />
+    <FeedbackController>
+      <NightBehavior>HideNone</NightBehavior>
+    </FeedbackController>
+    <Warehouse>
+      <WarehouseStorage>
+        <StorageMax>100</StorageMax>
+      </WarehouseStorage>
+    </Warehouse>
+    <LogisticNode>
+      <TransporterCountMax>0</TransporterCountMax>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>2</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+    <DistributionCenter />
+    <MinimapToken>
+      <TokenAsset>2001544</TokenAsset>
+    </MinimapToken>
+    <AmbientMoodProvider />
+    <StorageBase />
+    <Attackable>
+      <SelfHealPerHealTick>300</SelfHealPerHealTick>
+      <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+      <RuinSmokeParticles>
+        <Item>
+          <SmokeParticleFilePath>data/graphics/effects/military/explosions/damage_smoke_01.cfg</SmokeParticleFilePath>
+        </Item>
+      </RuinSmokeParticles>
+      <RuinSmokeParticlesMin>1</RuinSmokeParticlesMin>
+      <RuinSmokeParticlesMax>3</RuinSmokeParticlesMax>
+      <RuinSmokeParticleRectBorderPercent>0.2</RuinSmokeParticleRectBorderPercent>
+    </Attackable>
+    <Upgradable />
+    <Maintenance>
+      <IncomeCategory>InfrastructureBuildings</IncomeCategory>
+    </Maintenance>
+    <Pausable />
+    <Distribution />
+    <UpgradeList />
+    <LoadingPier>
+      <MinLoadingTime>1.5</MinLoadingTime>
+    </LoadingPier>
+  </Properties>
+</Template>

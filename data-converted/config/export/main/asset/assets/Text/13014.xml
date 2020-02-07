@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>13014</GUID>
+      <Name>RQ_Goods_ObjectiveText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Provide the resident with:&lt;br/&gt;[Conditions QuestCondition Amount(ObjectiveIndex)]t [AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text] </Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22526</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141858</GUID>
+      <Name>JewelrySupplyVeryBad</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14981</Headline>
+      <Subline>14982</Subline>
+      <Image>142053</Image>
+      <Category>Satisfaction</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <RecoveryByInterval>50</RecoveryByInterval>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <ArticleEffect>NeedConsumption</ArticleEffect>
+      <EffectValue>10</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

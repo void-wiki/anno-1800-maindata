@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Not enough workers!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15873</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234182</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265283</GUID>
+      <Name>AT_Narrator_Workforce_Warning_MissingWorkers</Name>
+    </Standard>
+  </Values>
+</Asset>

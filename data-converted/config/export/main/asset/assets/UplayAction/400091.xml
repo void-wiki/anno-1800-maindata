@@ -1,0 +1,50 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400091</GUID>
+      <Name>Action_Achievement_Fake News</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>General</AchievementCategory>
+      <AchievementTitle>15576</AchievementTitle>
+      <AchievementDescription>15577</AchievementDescription>
+      <AchievementUPlayID>48</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionNewspaperPublished</Template>
+        <Values>
+          <Condition />
+          <ConditionNewspaperPublished>
+            <PagesReplaced>3</PagesReplaced>
+          </ConditionNewspaperPublished>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>100588</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>109</UplayActionID>
+      <UplayXP>100</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

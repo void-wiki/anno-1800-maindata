@@ -1,0 +1,48 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190541</GUID>
+      <Name>silver ring</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_ring_rare.png</IconFilename>
+      <InfoDescription>10655</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Silver Ring</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15029</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Rare</Rarity>
+      <ItemType>Normal</ItemType>
+      <TradePrice>60000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010481</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>12898</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

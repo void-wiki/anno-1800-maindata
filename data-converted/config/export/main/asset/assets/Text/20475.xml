@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20475</GUID>
+      <Name>GoodsConsumption(FestivalBuff1)</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_options.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Consumption of [AssetData([ItemAssetData([AreaManager AreaFestival BuffGuids AT(1) Text]) GoodConsumptionProvidedNeed(index)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28983</LineID>
+    </Text>
+  </Values>
+</Asset>

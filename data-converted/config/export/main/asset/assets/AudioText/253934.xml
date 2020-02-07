@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Where have you been? Without you brats we’ll never be done with this obligation!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4122</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233214</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>4</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>253934</GUID>
+      <Name>AT_enemy01_movie03_06</Name>
+    </Standard>
+  </Values>
+</Asset>

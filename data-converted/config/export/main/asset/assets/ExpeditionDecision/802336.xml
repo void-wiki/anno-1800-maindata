@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802336</GUID>
+      <Name>Teeth of the Mountain 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802337</Option>
+        </Item>
+        <Item>
+          <Option>802340</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202365</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Not too clever.&lt;/b&gt; Fearing exposure up on the slopes, your men opt to tiptoe through the village. Perhaps they smell too delicious, because the pallid, hungry-looking villagers emerge from their dwellings as one, equipped with all sorts of sharp-looking implements...</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20964</LineID>
+    </Text>
+  </Values>
+</Asset>

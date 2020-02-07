@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>215915</GUID>
+      <Name>wwe_sfx_com_launch_projectile_volley</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>7674</DurationMinimum>
+          <DurationMaximum>8612</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>100</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2232356594</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

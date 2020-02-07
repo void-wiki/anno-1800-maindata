@@ -1,0 +1,35 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>142607</GUID>
+      <Name>WarDeclaredToPlayer</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14326</Headline>
+      <Subline>14327</Subline>
+      <Image>142609</Image>
+      <NewsPriority>
+        <StartValue>0</StartValue>
+        <LossOnPublish>0</LossOnPublish>
+        <RecoveryByInterval>0</RecoveryByInterval>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Minimum>0</Minimum>
+        <Maximum>0</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+      <SpecialEditorMessage>142611</SpecialEditorMessage>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

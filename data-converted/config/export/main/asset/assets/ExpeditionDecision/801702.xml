@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801702</GUID>
+      <Name>The Chasing 1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>801714</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is clear now why the Pyrphorians did not use the inlet themselves.&lt;/b&gt; Perhaps they were more willing to admit they had not the skill to navigate it without risking their ship. The inlet chokes, and a tooth-like incisor of rock rakes the boards from your hull. Limping out on the other side, you have made up the distance enough to see the Pyrphorians are headed to the port of Montoya. Your crew are very glad, since your ship is now in dire need of repair. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21132</LineID>
+    </Text>
+  </Values>
+</Asset>

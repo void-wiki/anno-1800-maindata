@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>216013</GUID>
+      <Name>wwe_sfx_veh_gun_boat_lp_play</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>40</MaxAttenuation>
+      <StopEvent>216014</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3880580784</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

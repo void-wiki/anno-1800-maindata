@@ -1,0 +1,99 @@
+<Template>
+  <Name>Quest</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <ReminderMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </ReminderMessage>
+      <ResolveConfirmationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </ResolveConfirmationMessage>
+      <NeededProgressLevel>EarlyGame;EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_smugglewithoutscanners_delivery_pickup.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList>
+          <Item>
+            <ReputationAmount>-2</ReputationAmount>
+          </Item>
+        </ReputationFailList>
+      </ReputationQuestFail>
+      <HasStarterSpeechBubble>1</HasStarterSpeechBubble>
+      <StarterSpeechBubble>
+        <Template>ConditionTutorialInteraction</Template>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintType>Object</HintType>
+            <HintAnchor>BottomRight</HintAnchor>
+            <OnlyShowOnQuestObjects>1</OnlyShowOnQuestObjects>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+      <SuccessSpeechBubble>
+        <Template>ConditionTutorialInteraction</Template>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintType>Object</HintType>
+            <HintEndCondition>Time</HintEndCondition>
+            <HintDisplayTime>30000</HintDisplayTime>
+            <HintAnchor>BottomRight</HintAnchor>
+            <OnlyShowOnQuestObjects>1</OnlyShowOnQuestObjects>
+          </ConditionTutorialInteraction>
+        </Values>
+      </SuccessSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardReputation>
+        <Item>
+          <ReputationAmount>3</ReputationAmount>
+        </Item>
+      </RewardReputation>
+    </Reward>
+    <Objectives />
+    <QuestOptional />
+  </Properties>
+</Template>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141229</GUID>
+      <Name>HarborDefenseBuilt</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11335</Headline>
+      <Subline>11336</Subline>
+      <Image>141316</Image>
+      <Category>Progress</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>250</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

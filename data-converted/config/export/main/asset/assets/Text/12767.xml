@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12767</GUID>
+      <Name>CQ001_Fish4Ticket_ObjectiveText_PickupFish</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pick up:&lt;br/&gt;[AssetData([Conditions QuestCondition Context]) Text] [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11702</LineID>
+    </Text>
+  </Values>
+</Asset>

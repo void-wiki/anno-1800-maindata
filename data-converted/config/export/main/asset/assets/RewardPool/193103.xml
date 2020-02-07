@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193103</GUID>
+      <Name>Culture - Furry Animals - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191112</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190004</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191507</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191094</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

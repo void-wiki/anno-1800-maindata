@@ -1,0 +1,29 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117600</GUID>
+      <Name>Pool_OldNateArctic_Airships</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <Context>112689</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextGroups>
+        <Item>
+          <Group>1180880079</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

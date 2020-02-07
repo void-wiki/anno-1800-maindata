@@ -1,0 +1,33 @@
+<Asset>
+  <Template>IncidentCommunication</Template>
+  <Values>
+    <Standard>
+      <GUID>141717</GUID>
+      <Name>FireExplosionCommunication</Name>
+    </Standard>
+    <IncidentCommunication>
+      <IncidentStartNotification>501129</IncidentStartNotification>
+      <IncidentEscalatedNotification>500301</IncidentEscalatedNotification>
+      <IncidentEndNotification>500304</IncidentEndNotification>
+      <IncidentEndDestructionNotification>500471</IncidentEndDestructionNotification>
+      <IncidentPamsyTriggers>
+        <Item>
+          <InfectedAreaSize>27</InfectedAreaSize>
+          <PaMSyTrigger>IncidentStart</PaMSyTrigger>
+          <PaMSyContextAsset>2001025</PaMSyContextAsset>
+        </Item>
+      </IncidentPamsyTriggers>
+      <NewspaperArticleIncidentStart>140739</NewspaperArticleIncidentStart>
+      <NewspaperArticleIncidentSolved>140752</NewspaperArticleIncidentSolved>
+      <NewspaperArticleIncidentTimedOut>140751</NewspaperArticleIncidentTimedOut>
+      <NewspaperArticleIncidentSpecialAction>140829</NewspaperArticleIncidentSpecialAction>
+      <NewspaperArticleIncidentEndDestroyed>140976</NewspaperArticleIncidentEndDestroyed>
+      <NewspaperArticleIncidentEscalated>140740</NewspaperArticleIncidentEscalated>
+      <NewspaperArticleIncidentEscalatedSolved>140955</NewspaperArticleIncidentEscalatedSolved>
+      <NewspaperArticleIncidentEscalatedTimedOut>140956</NewspaperArticleIncidentEscalatedTimedOut>
+      <NewspaperArticleIncidentEscalatedSpecialAction>140954</NewspaperArticleIncidentEscalatedSpecialAction>
+      <NewspaperArticleIncidentEscalatedEndDestroyed>140977</NewspaperArticleIncidentEscalatedEndDestroyed>
+      <IncidentMusicType>Fire</IncidentMusicType>
+    </IncidentCommunication>
+  </Values>
+</Asset>

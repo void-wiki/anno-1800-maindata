@@ -1,0 +1,55 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>111048</GUID>
+      <Name>Continental Exhibition: Arts and Architecture</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/posters/icon_cyclideon_artsarchitecture.png</IconFilename>
+      <ID>ITEM_DM_5</ID>
+      <InfoDescription>111053</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The International Liberal Forum on Art and Craft</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30877</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>758000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190781</GUID>
+        </Item>
+      </EffectTargets>
+      <BuildingDecoration>142628</BuildingDecoration>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

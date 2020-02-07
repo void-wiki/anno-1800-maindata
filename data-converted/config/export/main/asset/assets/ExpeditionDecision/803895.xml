@@ -1,0 +1,48 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803895</GUID>
+      <Name>Blizzard 1 from south</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804145</Option>
+        </Item>
+        <Item>
+          <Option>803896</Option>
+        </Item>
+        <Item>
+          <Option>803915</Option>
+        </Item>
+        <Item>
+          <Option>803912</Option>
+        </Item>
+      </Options>
+      <DecisionVideo>data/dlc03/ui/video/dlc03_snow_storm_polar.bk2</DecisionVideo>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path05.png</PathSegment>
+        <PathPosX>316</PathPosX>
+        <PathPosY>-358</PathPosY>
+        <ProgressReview>117452</ProgressReview>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_blizzard.png</Sketch>
+        <SketchPosX>1196</SketchPosX>
+        <SketchPosY>210</SketchPosY>
+        <SketchSizeX>121</SketchSizeX>
+        <SketchSizeY>98</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The first severe blizzard.&lt;/b&gt; You have just caught sight of the Baffling Island littoral, when the headwind suddenly whips up and a dark fringe of cloud appears in the heavens. All take cover below deck, as rock-hard pellets of ice begin to pelt the ship with such force as to cause lasting damage. &lt;b&gt;"We've lost control of her," screams the navigator,&lt;/b&gt; but it'd take a hero to go back out into that.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34380</LineID>
+    </Text>
+  </Values>
+</Asset>

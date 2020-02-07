@@ -1,0 +1,25 @@
+<Asset>
+  <Template>IncidentResolverFeedbackObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101938</GUID>
+      <Name>IncidentResolverFeedback</Name>
+      <ID>IncidentResolverFeedback</ID>
+    </Standard>
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/emptyDummy/empty_dummy_picturepuzzle.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <FeedbackController />
+    <DynamicVariation>
+      <DynamicVariationType>SequenceAsset</DynamicVariationType>
+    </DynamicVariation>
+  </Values>
+</Asset>

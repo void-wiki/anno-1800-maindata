@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You fly against the grain!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30363</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204245</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109743</GUID>
+      <Name>AT_ai10_PosiFeedbackToPlayer6</Name>
+    </Standard>
+  </Values>
+</Asset>

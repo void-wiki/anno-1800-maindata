@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20095</GUID>
+      <Name>Notification NonAggressionPactPlayerTarget</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You now have a non-aggression pact with [Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28030</LineID>
+    </Text>
+  </Values>
+</Asset>

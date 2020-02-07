@@ -1,0 +1,36 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192075</GUID>
+      <Name>The Runaway Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192976</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192977</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192978</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192979</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192980</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

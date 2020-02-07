@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bring us home safe!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8028</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217386</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255744</GUID>
+      <Name>AT_captain_GenericEventCallToAction12</Name>
+    </Standard>
+  </Values>
+</Asset>

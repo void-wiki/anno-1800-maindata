@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500500</GUID>
+      <Name>AchievementUnlocked</Name>
+      <ID>NotificationAchievementUnlocked</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>10052</Title>
+            <NotificationMainIconAsset>500118</NotificationMainIconAsset>
+            <NotificationMainDescription>10053</NotificationMainDescription>
+            <IsAchievementNotification>1</IsAchievementNotification>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>500</NotificationPriority>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

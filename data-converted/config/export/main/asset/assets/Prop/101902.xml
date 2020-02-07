@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101902</GUID>
+      <Name>Trees Burned 01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/burned_trees/burned_tree_large_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/burned_trees/burned_tree_large_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/burned_trees/burned_tree_ground_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/burned_trees/burned_tree_stump_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/burned_trees/burned_tree_stump_02.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop>
+      <HerdBlocking>PassableWhenSparse</HerdBlocking>
+      <VegetationType>Tree</VegetationType>
+    </Prop>
+  </Values>
+</Asset>

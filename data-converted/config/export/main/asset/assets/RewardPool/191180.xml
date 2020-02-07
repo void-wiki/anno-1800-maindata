@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191180</GUID>
+      <Name>Temples and Shrines L</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190516</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190514</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190509</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190499</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112483</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

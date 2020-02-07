@@ -1,0 +1,37 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>800076</GUID>
+      <Name>Polar Expedition</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cabaret.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>2985</ExpeditionDescription>
+      <ExpeditionRegion>Arctic</ExpeditionRegion>
+      <IsMandatory>1</IsMandatory>
+      <MandatoryFailExpedition>
+        <Item>
+          <NewExpedition>800000</NewExpedition>
+        </Item>
+      </MandatoryFailExpedition>
+      <EventList>
+        <Item>
+          <EventOrEventPool>800005</EventOrEventPool>
+        </Item>
+      </EventList>
+      <Threats>
+        <Item>
+          <Threat>800034</Threat>
+        </Item>
+      </Threats>
+      <FillThreats>1</FillThreats>
+      <MinPauseBetweenEvents>10000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>10000</MaxPauseBetweenEvents>
+      <Reward>800392</Reward>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193477</GUID>
+      <Name>Specialists - Treasure Hunters - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>113361</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>113364</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

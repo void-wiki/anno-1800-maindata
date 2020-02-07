@@ -1,0 +1,25 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>141037</GUID>
+      <Name>ProductionFreeformScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingDistance</Template>
+            <Values>
+              <RatingDistance>
+                <DistanceTo>Kontor</DistanceTo>
+                <ZeroFrom>300</ZeroFrom>
+              </RatingDistance>
+            </Values>
+          </Rating>
+          <RelativeWeight>0.5</RelativeWeight>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

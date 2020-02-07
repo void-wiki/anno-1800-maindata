@@ -1,0 +1,23 @@
+<Asset>
+  <Template>IncidentResolverUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>100582</GUID>
+      <Name>Resolver Unit Riot Special</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_police_2d.png</IconFilename>
+    </Standard>
+    <IncidentResolverUnit>
+      <FeedbackUnitClass>2001080</FeedbackUnitClass>
+    </IncidentResolverUnit>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Neighborhood Watch</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25833</LineID>
+    </Text>
+  </Values>
+</Asset>

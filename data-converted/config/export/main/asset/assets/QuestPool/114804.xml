@@ -1,0 +1,33 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>114804</GUID>
+      <Name>BotanicaForcedTutorialPool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_botanic_garden.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>1447942851</QuestGroup>
+        </Item>
+      </Groups>
+      <PoolCooldown>0</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>0</QuestCooldown>
+    </QuestPool>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

@@ -1,0 +1,37 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151130</GUID>
+      <Name>200_IronMines_Check</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>Noti_BulkOrderDialog</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>150749</Quest>
+                <QuestSession>180023</QuestSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

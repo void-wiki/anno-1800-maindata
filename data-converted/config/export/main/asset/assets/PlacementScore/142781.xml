@@ -1,0 +1,73 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>142781</GUID>
+      <Name>BlockAirshipHangarScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingDistance</Template>
+            <Values>
+              <RatingDistance>
+                <OneFrom>60</OneFrom>
+                <ZeroFrom>160</ZeroFrom>
+                <DisableUpperBorders>1</DisableUpperBorders>
+              </RatingDistance>
+            </Values>
+          </Rating>
+          <RelativeWeight>40</RelativeWeight>
+          <Comment>Not too close to the City</Comment>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingNeighborTiles</Template>
+            <Values>
+              <RatingNeighborTiles>
+                <NeighborCategories>
+                  <Buildings>
+                    <Score>1</Score>
+                  </Buildings>
+                  <StaticBlockedLand>
+                    <Score>1</Score>
+                  </StaticBlockedLand>
+                  <UnusedWithinBlock>
+                    <Score>1</Score>
+                  </UnusedWithinBlock>
+                </NeighborCategories>
+              </RatingNeighborTiles>
+            </Values>
+          </Rating>
+          <RelativeWeight>25</RelativeWeight>
+          <Comment>If possible try to align to adjacent blocks / bocking</Comment>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingDistance</Template>
+            <Values>
+              <RatingDistance>
+                <DistanceTo>StaticBlocker_Coarse</DistanceTo>
+                <OneTo>7</OneTo>
+                <ZeroFrom>23</ZeroFrom>
+              </RatingDistance>
+            </Values>
+          </Rating>
+          <RelativeWeight>15</RelativeWeight>
+          <Comment>We prefer to fill some gap near a blocking </Comment>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingOverwrittenBlocks</Template>
+            <Values>
+              <RatingOverwrittenBlocks />
+            </Values>
+          </Rating>
+          <RelativeWeight>15</RelativeWeight>
+          <Comment>Don't overwrite existing blocks if possible</Comment>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

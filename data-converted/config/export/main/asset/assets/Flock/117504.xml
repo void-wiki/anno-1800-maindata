@@ -1,0 +1,42 @@
+<Asset>
+  <Template>Flock</Template>
+  <Values>
+    <Flock>
+      <Speed>0.14</Speed>
+      <AutoSpawnOverIsland>0</AutoSpawnOverIsland>
+      <CatchesFishes>1</CatchesFishes>
+      <MinHeight>7</MinHeight>
+      <Lands>1</Lands>
+    </Flock>
+    <Standard>
+      <GUID>117504</GUID>
+      <Name>BirdFlock Santa</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_module_workforce.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_eagle.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/santa/flying_santa.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>1</UnitCountMin>
+      <UnitCountMax>1</UnitCountMax>
+      <AutoSpawn_RelativeProbability>15</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>235518</Animal_AudioLoop>
+      <IsHappyDayAnimal>1</IsHappyDayAnimal>
+    </AnimalBase>
+  </Values>
+</Asset>

@@ -1,0 +1,45 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>114676</GUID>
+      <Name>Echium Wildpretii</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_echium_wildpretii.png</IconFilename>
+      <InfoDescription>114692</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tower Of Jewels</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33415</LineID>
+    </Text>
+    <Item>
+      <Allocation>BotanicGarden</Allocation>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Normal</ItemType>
+      <TradePrice>689600</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>111083</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemRegions>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>114692</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

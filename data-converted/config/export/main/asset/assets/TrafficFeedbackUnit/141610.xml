@@ -1,0 +1,22 @@
+<Asset>
+  <Template>TrafficFeedbackUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>141610</GUID>
+      <Name>SA | Logistic Transporter Warehouse Electric</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_mineral_desposits.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackUnit>
+      <UnitType>Vehicle</UnitType>
+      <CfgPath>data/graphics/vehicle/motorized_vehicle_01/motorized_vehicle_01.cfg</CfgPath>
+      <SpeedSource>Managed</SpeedSource>
+    </TrafficFeedbackUnit>
+    <Trailer>
+      <TrailerEndPartCfgVariations>
+        <Item>
+          <CfgVariation>data/graphics/vehicle/horse_drawn_carriage_warehouse/horse_drawn_carriage_warehouse_rear.cfg</CfgVariation>
+        </Item>
+      </TrailerEndPartCfgVariations>
+    </Trailer>
+  </Values>
+</Asset>

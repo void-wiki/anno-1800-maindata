@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>265454</GUID>
+      <Name>Pool_3rd_party03_PlyrYieldsNPCThreat</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258464</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258465</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258469</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256373</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256370</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

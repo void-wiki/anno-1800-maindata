@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140762</GUID>
+      <Name>Illness Lv2 Active</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>3751</Headline>
+      <Subline>3752</Subline>
+      <Image>142127</Image>
+      <Category>Special</Category>
+      <NewsPriority>
+        <StartValue>450</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>-5</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,60 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>130236</GUID>
+      <Name>intermediate colony01 1.0</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>101308</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130094</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>101254</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130093</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130095</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130185</Asset>
+                  </Item>
+                </UnlockAssets>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>130096</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>101284</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

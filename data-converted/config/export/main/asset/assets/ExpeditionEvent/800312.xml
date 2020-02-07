@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800312</GUID>
+      <Name>Opera House in the Jungle</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>An Opera in the Jungle</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3787</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica</EventRegion>
+      <EventThreat>800034</EventThreat>
+      <StartDecision>800313</StartDecision>
+      <EventMusicChoice>226704</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

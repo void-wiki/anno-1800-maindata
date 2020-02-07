@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>500424</GUID>
+      <Name>Good Storage Trend Text Mapping</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-1E+07</ValidFrom>
+          <Asset>4041</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-4</ValidFrom>
+          <Asset>4042</Asset>
+        </Item>
+        <Item>
+          <Asset>4043</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.1</ValidFrom>
+          <Asset>4044</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>5</ValidFrom>
+          <Asset>4045</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

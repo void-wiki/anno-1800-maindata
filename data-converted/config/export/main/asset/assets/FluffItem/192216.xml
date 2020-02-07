@@ -1,0 +1,26 @@
+<Asset>
+  <Template>FluffItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192216</GUID>
+      <Name>Artur's journal</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_comon.png</IconFilename>
+      <InfoDescription>19880</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Artur's Portfolio</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27851</LineID>
+    </Text>
+    <Item />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

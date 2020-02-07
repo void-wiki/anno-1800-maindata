@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Iron into Steel, Steel into Arms and we shall have fulfilled our first Royal commission!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17174</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233335</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266224</GUID>
+      <Name>advisor01_Industrialisation_01</Name>
+    </Standard>
+  </Values>
+</Asset>

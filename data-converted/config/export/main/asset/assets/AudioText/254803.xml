@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I feel awful about us losing touch!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5983</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216399</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254803</GUID>
+      <Name>AT_ai01_NPCReputationAutocorrectDecrease2</Name>
+    </Standard>
+  </Values>
+</Asset>

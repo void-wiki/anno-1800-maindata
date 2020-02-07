@@ -1,0 +1,97 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>114061</GUID>
+      <Name>SL209_TimeToGo_TriggerNewspaper</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>Noti_SL102_10_LastSuccess</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>1000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionForceNewspaper</Template>
+                            <Values>
+                              <Action />
+                              <ActionForceNewspaper>
+                                <Articles>
+                                  <Item>
+                                    <Article>113227</Article>
+                                  </Item>
+                                </Articles>
+                                <OpenNewspaperUI>1</OpenNewspaperUI>
+                                <OpenNewspaperType>SpecialEdition</OpenNewspaperType>
+                                <PamsyWelcomeRequiredAsset>113664</PamsyWelcomeRequiredAsset>
+                              </ActionForceNewspaper>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionDeleteObjects</Template>
+                            <Values>
+                              <Action />
+                              <ActionDeleteObjects />
+                              <ObjectFilter>
+                                <ObjectGUID>111878</ObjectGUID>
+                                <ObjectSession>110934</ObjectSession>
+                              </ObjectFilter>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>114066</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

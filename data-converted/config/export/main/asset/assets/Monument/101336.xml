@@ -1,0 +1,120 @@
+<Asset>
+  <Template>Monument</Template>
+  <Values>
+    <Standard>
+      <GUID>101336</GUID>
+      <Name>monument_01_02</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_world_fair_2.png</IconFilename>
+    </Standard>
+    <Building>
+      <PickingAsset>1010489</PickingAsset>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+      <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs />
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/public/monument_01/monument_01_02/monument_01_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Monument</GUIType>
+      <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>World's Fair: Glazing</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20109</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>200865</Sound>
+        </Item>
+      </ActiveSounds>
+      <BuildingRepaired>
+        <Item>
+          <Sound>203866</Sound>
+        </Item>
+      </BuildingRepaired>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <FactoryBase>
+      <FactoryInputs>
+        <Item>
+          <Product>1010207</Product>
+          <Amount>10</Amount>
+          <StorageAmount>300</StorageAmount>
+        </Item>
+        <Item>
+          <Product>1010224</Product>
+          <Amount>5</Amount>
+          <StorageAmount>150</StorageAmount>
+        </Item>
+        <Item>
+          <Product>1010242</Product>
+          <Amount>5</Amount>
+          <StorageAmount>150</StorageAmount>
+        </Item>
+      </FactoryInputs>
+      <CycleTime>60</CycleTime>
+    </FactoryBase>
+    <LogisticNode>
+      <TransporterCountMax>2</TransporterCountMax>
+    </LogisticNode>
+    <Monument>
+      <UpgradeTarget>1010491</UpgradeTarget>
+      <MicrophaseCount>30</MicrophaseCount>
+      <UnfinishedIcon>500415</UnfinishedIcon>
+      <FinishedIcon>500419</FinishedIcon>
+      <ShutdownText>6783</ShutdownText>
+      <MonumentFluff>22114</MonumentFluff>
+      <MonumentHeadline>1010492</MonumentHeadline>
+      <BackgroundImage>
+        <Blueprint>data/ui/2kimages/main/assets16/monument_construction/monument_worldfair_00.png</Blueprint>
+        <PhasePlanned>data/ui/2kimages/main/assets16/monument_construction/monument_worldfair_03.png</PhasePlanned>
+        <PhaseFinished>data/ui/2kimages/main/assets16/monument_construction/monument_worldfair_03_coloured.png</PhaseFinished>
+      </BackgroundImage>
+      <ProgressbarHeight>70</ProgressbarHeight>
+    </Monument>
+    <Culture />
+    <AmbientMoodProvider>
+      <Murmur>MonumentConstruction</Murmur>
+    </AmbientMoodProvider>
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010116</Product>
+          <Amount>1500</Amount>
+          <ShutdownThreshold>0.4</ShutdownThreshold>
+        </Item>
+      </Maintenances>
+      <ConsumerPriorityAlarmed>2</ConsumerPriorityAlarmed>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>10000</MaximumHitPoints>
+      <SelfHealPerHealTick>6</SelfHealPerHealTick>
+    </Attackable>
+    <Pausable />
+    <IslandUnique>
+      <UniqueType>Monument01</UniqueType>
+    </IslandUnique>
+    <UpgradeList />
+    <Electric />
+    <QuestObject />
+  </Values>
+</Asset>

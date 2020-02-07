@@ -1,0 +1,46 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192038</GUID>
+      <Name>Songs Under the Sea Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190466</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190463</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191084</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190449</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191087</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191095</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191096</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191097</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191108</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191109</ItemLink>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

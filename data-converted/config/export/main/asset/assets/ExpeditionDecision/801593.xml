@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801593</GUID>
+      <Name>Sunken Depths 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801595</Option>
+        </Item>
+        <Item>
+          <Option>801596</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The diving bell looks decent and feels solid.&lt;/b&gt; Two men climb aboard and the bell plunges into the depths while a whole group of sailors pumps air into its ventilation tube. The bell descends until it is stopped by a surface of coral. Underneath the colorful shapes, the sailors notice a silver coin on their left and a gaping, perfectly circular hole on their right.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16123</LineID>
+    </Text>
+  </Values>
+</Asset>

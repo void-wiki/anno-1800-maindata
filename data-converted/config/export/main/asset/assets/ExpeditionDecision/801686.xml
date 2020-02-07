@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801686</GUID>
+      <Name>The Chasing 1.1.1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <InsertEvent>801714</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The shot seems to pass through them,&lt;/b&gt; as if beneath mask and cloak their bodies are incorporeal, or perhaps your marksmen are drunk. Either way, it allows the Pyrphorians to turn and catch a strong westerly squall. They are halfway to the bay of Montoya before your sailors can reposition. You will have to rely on picking up their trail when you get there.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21116</LineID>
+    </Text>
+  </Values>
+</Asset>

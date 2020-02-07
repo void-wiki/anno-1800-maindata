@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802155</GUID>
+      <Name>Selfless Deeds 1.2.1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Audacity does not make up for their lack of numbers.&lt;/b&gt; The crew manages to take down five guards before the noise attracts more armed bandits, and the sailors are driven back to their boat without a chance to liberate more children. The flee to the village and share what information they can with the villagers, glad to have freed some kids but aware that many more are still captive.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21009</LineID>
+    </Text>
+  </Values>
+</Asset>

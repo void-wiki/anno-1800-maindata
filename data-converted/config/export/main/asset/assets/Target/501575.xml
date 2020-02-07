@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>ITEM</ActionID>
+      <PositionCheck>Water</PositionCheck>
+      <Matches>
+        <TargetMatch1>
+          <Flags>AndNotNextMatch;IsCoastalBuilding</Flags>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Never</Flags>
+        </DisableMatch1>
+        <TargetMatch2>
+          <Flags>OwnedByPirate</Flags>
+        </TargetMatch2>
+      </Matches>
+      <MouseCursorTarget>2001298</MouseCursorTarget>
+      <MouseCursorMode>2001299</MouseCursorMode>
+      <MouseCursorPosition>2001298</MouseCursorPosition>
+    </Target>
+    <Standard>
+      <GUID>501575</GUID>
+      <Name>Torpedo</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

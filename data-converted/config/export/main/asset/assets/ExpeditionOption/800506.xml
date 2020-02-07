@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800506</GUID>
+      <Name>The Singular Case of the Midshipman 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Expert will have the answers</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5881</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800509</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <ItemGroup>852315592</ItemGroup>
+        </Item>
+      </Requirements>
+      <IsFavorableOption>1</IsFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

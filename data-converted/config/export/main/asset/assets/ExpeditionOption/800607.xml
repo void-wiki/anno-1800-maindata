@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800607</GUID>
+      <Name>A Grizzly Encounter 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Scare the bears away</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5694</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800611</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <ItemOrProduct>1010222</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>192013</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>192016</ItemOrProduct>
+        </Item>
+      </Requirements>
+      <ConsumeRequirement>1</ConsumeRequirement>
+      <IsFavorableOption>1</IsFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

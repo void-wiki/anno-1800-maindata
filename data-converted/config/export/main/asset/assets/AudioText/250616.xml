@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Her Majesty wearies of Mr. von Malching's pinguid claims to a non-existent barony. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1228</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212185</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250616</GUID>
+      <Name>AT_3rdParty02_IdleMessageGossip_Malching</Name>
+    </Standard>
+  </Values>
+</Asset>

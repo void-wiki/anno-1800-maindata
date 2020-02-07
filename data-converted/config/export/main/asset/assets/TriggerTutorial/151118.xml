@@ -1,0 +1,127 @@
+<Asset>
+  <Template>TriggerTutorial</Template>
+  <Values>
+    <Standard>
+      <GUID>151118</GUID>
+      <Name>TQ_012_Introduction_Aarhant</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/advisor_02.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>3000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionNotification</Template>
+                            <Values>
+                              <Action />
+                              <ActionNotification>
+                                <Notification>
+                                  <Template>CharacterNotification</Template>
+                                  <Values>
+                                    <CharacterNotification>
+                                      <Profile>31</Profile>
+                                    </CharacterNotification>
+                                    <BaseNotification>
+                                      <NotificationText>14751</NotificationText>
+                                      <NotificationPriority>600</NotificationPriority>
+                                      <NotificationMinDisplayTime>8000</NotificationMinDisplayTime>
+                                    </BaseNotification>
+                                    <NotificationSubtitle>
+                                      <Subtitle>268094</Subtitle>
+                                    </NotificationSubtitle>
+                                  </Values>
+                                </Notification>
+                              </ActionNotification>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsTutorial</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionIsTutorial />
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsCampaign</Template>
+                  <Values>
+                    <ConditionPropsNegatable>
+                      <NegateCondition>1</NegateCondition>
+                    </ConditionPropsNegatable>
+                    <ConditionIsCampaign />
+                    <Condition />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionActiveSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionActiveSession>
+                      <ActiveSession>180039</ActiveSession>
+                      <SessionBlacklist>1</SessionBlacklist>
+                    </ConditionActiveSession>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

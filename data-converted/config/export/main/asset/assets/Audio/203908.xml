@@ -1,0 +1,35 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203908</GUID>
+      <Name>wwe_voc_mur_artisan_happy_without_delay</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+      <ID>SoundArtisanHappyMurmur</ID>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1900</DurationMinimum>
+          <DurationMaximum>5676</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1793</DurationMinimum>
+          <DurationMaximum>2878</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1554</DurationMinimum>
+          <DurationMaximum>5350</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1295</DurationMinimum>
+          <DurationMaximum>4994</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>666153141</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

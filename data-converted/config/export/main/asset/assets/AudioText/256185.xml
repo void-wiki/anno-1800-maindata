@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>That's quite enough o' that, now.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7578</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217326</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256185</GUID>
+      <Name>AT_ai05_NpcDeclinesPlayerProposalTooOften4</Name>
+    </Standard>
+  </Values>
+</Asset>

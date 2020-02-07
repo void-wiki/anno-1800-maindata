@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800520</GUID>
+      <Name>The Singular Case of the Midshipman 1.2.1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The interrogation is painfully haphazard.&lt;/b&gt; Though it is clear one of the suspects must be the killer, lines of inquiry fail to produce answers. No option remains but to offload all the suspects at the next port to prevent further incident. It is a source of great shame to the crew that fine innocent sailors are certain to be among them.  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5890</LineID>
+    </Text>
+  </Values>
+</Asset>

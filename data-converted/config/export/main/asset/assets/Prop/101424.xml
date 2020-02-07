@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101424</GUID>
+      <Name>goods_shelf</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/goods_v1.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/goods_v2.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

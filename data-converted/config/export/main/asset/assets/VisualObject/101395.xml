@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101395</GUID>
+      <Name>Electric Pole Corner</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/electricity/electricity_post_04_corner.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

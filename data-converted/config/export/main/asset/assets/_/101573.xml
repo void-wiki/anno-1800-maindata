@@ -1,0 +1,114 @@
+<Asset>
+  <BaseAssetGUID>1010525</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101573</GUID>
+      <Name>harbor_colony01_07 (Repair Crane)</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking>
+      <GroundDecalAsset>102460</GroundDecalAsset>
+      <GroundDecalInvisible>102459</GroundDecalInvisible>
+    </Blocking>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/special/harbor_07_colony_01/harbor_07_colony_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection />
+    <Text>
+      <LineID>14138</LineID>
+    </Text>
+    <Cost>
+      <Costs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>RepairCrane</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>500</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>RepairCrane</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>RepairCrane</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>75</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>RepairCrane</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>4</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>RepairCrane</TemplateName>
+                <Index>4</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>5</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>RepairCrane</TemplateName>
+                <Index>5</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Costs>
+    </Cost>
+    <Attackable />
+    <Infolayer />
+    <Maintenance />
+    <Locked />
+    <RepairCrane />
+    <Pausable />
+    <DelayedConstruction />
+    <SoundEmitter />
+    <UpgradeList />
+    <FeedbackController />
+  </Values>
+</Asset>

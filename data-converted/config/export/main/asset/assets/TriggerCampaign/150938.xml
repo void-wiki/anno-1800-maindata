@@ -1,0 +1,74 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150938</GUID>
+      <Name>CQ252_TakeRevenge_CombatDialog02</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionObjHPCheck</Template>
+        <Values>
+          <Condition />
+          <ConditionObjHPCheck>
+            <HPTargetGUID>101400</HPTargetGUID>
+            <HPTargetOwner>Campaign_character_02_pyrophorian_red</HPTargetOwner>
+            <HPPercentage>0.1</HPPercentage>
+            <HPComparison>LessThan</HPComparison>
+          </ConditionObjHPCheck>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>113</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>11896</NotificationText>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>266265</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>31</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>11895</NotificationText>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>266241</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

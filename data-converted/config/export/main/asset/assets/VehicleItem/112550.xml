@@ -1,0 +1,75 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112550</GUID>
+      <Name>Pressurized Diving Bell</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_diving_bell_1.png</IconFilename>
+      <ID>ITEM_DLC1_8</ID>
+      <InfoDescription>112581</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>"Spoondrift" — Nathaniel's Pressurised Diving Bell</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32317</LineID>
+    </Text>
+    <Item>
+      <Allocation>DivingVessel</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ExclusiveGroup>DivingBell</ExclusiveGroup>
+      <TradePrice>709500</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>112581</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>112523</Product>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Product>1010219</Product>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Product>1010249</Product>
+          <Amount>10</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <DivingBellUpgrade>
+      <RarityWeightUpgrade>
+        <Epic>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Epic>
+        <Legendary>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Legendary>
+      </RarityWeightUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

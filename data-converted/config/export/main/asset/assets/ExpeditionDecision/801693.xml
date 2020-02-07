@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801693</GUID>
+      <Name>The Chasing 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>801714</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The clouds finally part over Montoya.&lt;/b&gt; Your crew had been about to give up, until by chance, on of them caught sight of a ship. Moored in a secluded corner of the bay, it is the empty, but unmistakable property of the shadow Pyrphorians you pursued. The contract must surely still be somewhere here in Montoya.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21123</LineID>
+    </Text>
+  </Values>
+</Asset>

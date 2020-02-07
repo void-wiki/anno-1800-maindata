@@ -1,0 +1,47 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117124</GUID>
+      <Name>Pool_Explorer_Chilly</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>115653</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115654</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115655</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115656</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115659</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115663</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115665</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115666</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191104</GUID>
+      <Name>kolponomos</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_kolponomos.png</IconFilename>
+      <InfoDescription>13727</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Kolponomos</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26483</LineID>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <ItemSet>191116</ItemSet>
+      <TradePrice>745000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100814</ChangeModule>
+      <ForcedFeedbackVariation>101769</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203355</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthAmerica;SouthAmerica;SouthernSouthAmerica</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>14087</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

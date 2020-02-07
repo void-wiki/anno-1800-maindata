@@ -1,0 +1,46 @@
+<Asset>
+  <Template>Flock</Template>
+  <Values>
+    <Flock>
+      <Speed>0.09</Speed>
+      <AutoSpawnOverWholeMap>0</AutoSpawnOverWholeMap>
+      <AutoSpawnOverIsland>0</AutoSpawnOverIsland>
+      <AutoSpawnAtCoasts>1</AutoSpawnAtCoasts>
+      <CatchesFishes>1</CatchesFishes>
+      <MinHeight>5</MinHeight>
+      <MaxHeight>10</MaxHeight>
+      <Lands>1</Lands>
+      <DynamicAutoSpawning>Coast</DynamicAutoSpawning>
+    </Flock>
+    <Standard>
+      <GUID>102443</GUID>
+      <Name>BirdFlock Seagull</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_parrot.png</IconFilename>
+      <ID>Herd_air_11</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_seagull.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/seagull/seagull.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Colony01</AutoSpawn_Regions>
+      <UnitCountMin>3</UnitCountMin>
+      <UnitCountMax>4</UnitCountMax>
+      <AutoSpawn_RelativeProbability>50</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>235606</Animal_AudioLoop>
+    </AnimalBase>
+  </Values>
+</Asset>

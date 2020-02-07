@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I told you not to touch the emergency flares!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33956</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245354</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>115927</GUID>
+      <Name>AT_DLC03_res2_ProductionFire2</Name>
+    </Standard>
+  </Values>
+</Asset>

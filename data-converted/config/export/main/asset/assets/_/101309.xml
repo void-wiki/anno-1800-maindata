@@ -1,0 +1,31 @@
+<Asset>
+  <BaseAssetGUID>1010035</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101309</GUID>
+      <Name>fast_street_colony01</Name>
+      <ID>Colony01StreetStone</ID>
+    </Standard>
+    <Cost />
+    <Street>
+      <InternalID>26</InternalID>
+    </Street>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+    </SoundEmitter>
+    <Text>
+      <LineID>11042</LineID>
+    </Text>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+  </Values>
+</Asset>

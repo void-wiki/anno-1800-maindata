@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800392</GUID>
+      <Name>Reward Event 1</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>114303</Reward>
+          <Amount>2</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You found some mysterious item</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

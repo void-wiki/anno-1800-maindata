@@ -1,0 +1,20 @@
+<Template>
+  <Name>VisualBuilding_NoLogic</Name>
+  <Properties>
+    <Standard />
+    <Building>
+      <BuildingType>Factory</BuildingType>
+    </Building>
+    <Blocking />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Production</GUIType>
+    </Selection>
+    <Text />
+    <SoundEmitter />
+    <FeedbackController />
+  </Properties>
+</Template>

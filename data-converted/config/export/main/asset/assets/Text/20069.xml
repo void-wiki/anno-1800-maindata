@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20069</GUID>
+      <Name>REPLACEEscortDestination</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Escort the ship to [AssetData([Conditions QuestCondition EscortTarget]) Text]</Text>
+          <Status>ToBeDeleted</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29828</LineID>
+    </Text>
+  </Values>
+</Asset>

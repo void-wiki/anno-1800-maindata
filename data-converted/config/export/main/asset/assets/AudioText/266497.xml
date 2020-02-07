@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>When your ship / Has you snoring / When the waiting is boring / I click fast forward!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16494</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234443</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_57</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266497</GUID>
+      <Name>AT_3rdParty02_Credits_16</Name>
+    </Standard>
+  </Values>
+</Asset>

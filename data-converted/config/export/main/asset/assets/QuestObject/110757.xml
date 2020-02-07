@@ -1,0 +1,41 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>110757</GUID>
+      <Name>QO PositionMarker - Mercier Mobilize their minds and Main arc 5</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+      <DeconstructionEffectDuration>0</DeconstructionEffectDuration>
+      <MoveEffectDuration>0</MoveEffectDuration>
+      <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/waypoint_buoy/waypoint_buoy.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>QO - Bente A Glorious Discovery 2</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <Collectable />
+    <FeedbackController />
+  </Values>
+</Asset>

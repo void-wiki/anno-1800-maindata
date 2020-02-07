@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Goode &amp; Sons has a future among the constellations, not in petty ship trades!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12983</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229801</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261104</GUID>
+      <Name>AT_enemy_01_IdleMessageSelf2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,91 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191407</GUID>
+      <Name>Mrs Mayson The Manager</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_401.png</IconFilename>
+      <InfoDescription>19630</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mrs. Mayson, The Very Good Housekeeper</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26672</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>769000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+      <AdditionalOutput>
+        <Item>
+          <Product>120035</Product>
+          <AdditionalOutputCycle>3</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+      </AdditionalOutput>
+      <ReplaceInputs>
+        <Item>
+          <OldInput>1010227</OldInput>
+          <NewInput>1010235</NewInput>
+        </Item>
+      </ReplaceInputs>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010295</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19630</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,47 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>1000197</GUID>
+      <Name>harbor_decal</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_05.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_06.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_07.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_08.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_09.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_10.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/harbor/harbor_decal_11.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

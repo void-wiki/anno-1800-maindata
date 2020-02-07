@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stay clear of the laboratory if you want to avoid a nasty accident.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13036</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230427</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261511</GUID>
+      <Name>AT_ai01_PlyrScienceNegative3</Name>
+    </Standard>
+  </Values>
+</Asset>

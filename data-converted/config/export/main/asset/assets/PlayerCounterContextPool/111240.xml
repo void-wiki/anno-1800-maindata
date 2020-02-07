@@ -1,0 +1,29 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>111240</GUID>
+      <Name>Pool - All Anarchy Newspaper Articles</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>111241</Asset>
+        </Item>
+        <Item>
+          <Asset>111250</Asset>
+        </Item>
+        <Item>
+          <Asset>111251</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pool - All Anarchy Newspaper Articles</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

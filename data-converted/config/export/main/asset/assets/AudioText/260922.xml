@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All the punishments you see are more than justified!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11712</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229823</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260922</GUID>
+      <Name>AT_3rdParty07_PlayerSelectsNpcBuilding1</Name>
+    </Standard>
+  </Values>
+</Asset>

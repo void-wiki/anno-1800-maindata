@@ -1,0 +1,18 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>140717</GUID>
+      <Name>Resolver Unit Fire Normal</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fire_house.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>140712</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

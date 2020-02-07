@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802526</GUID>
+      <Name>The Storm 1.3.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Disaster.&lt;/b&gt; Proving once more how unable they are to navigate the ship, the navigators attempt what should never be attempted: go against the wind. As the ship twirls the transversal gale strikes it with full force, transforming the yaw into a full-length broaching. The masts plunge into the sea, and there is no more up or down, no more sky or deck. Everything is water. When it drains away, allowing the ship to sway back into position, there is no trace left of the sailors taken by the storm.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21807</LineID>
+    </Text>
+  </Values>
+</Asset>

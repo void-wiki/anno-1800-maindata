@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your sister reminds me of you. Must mean new adventures await, old pal.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4117</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222389</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Positve</Mood>
+      <DialogSequence>9</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>253933</GUID>
+      <Name>AT_Advisor02_Movie03_011</Name>
+    </Standard>
+  </Values>
+</Asset>

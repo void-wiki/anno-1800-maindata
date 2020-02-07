@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141867</GUID>
+      <Name>Diplomacy Non Attack Player</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>15005</Headline>
+      <Subline>15006</Subline>
+      <Image>142167</Image>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>450</StartValue>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Maximum>600</Maximum>
+      </NewsPriority>
+      <ArticleEffect>RiotChanceGlobal</ArticleEffect>
+      <EffectValue>-25</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,85 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190650</GUID>
+      <Name>Mme. Elise "The Nose" Bouquet   </Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_sommelier_824.png</IconFilename>
+      <InfoDescription>12541</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mme. Elise "The Nose" Bouquet   </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26514</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>935000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>100659</GUID>
+        </Item>
+        <Item>
+          <GUID>1010340</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>10</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>12541</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>7</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

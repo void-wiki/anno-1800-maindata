@@ -1,0 +1,27 @@
+<Asset>
+  <Template>HostileTakeoverNewsTracker</Template>
+  <Values>
+    <Standard>
+      <GUID>141663</GUID>
+      <Name>HostileTakeoverNewsTracker</Name>
+    </Standard>
+    <NewsTrackerBase>
+      <NewsTrackerType>HostileTakeoverNewsTracker</NewsTrackerType>
+      <NewsTrackerScope>Global</NewsTrackerScope>
+    </NewsTrackerBase>
+    <HostileTakeoverNewsTracker>
+      <ShareSoldNpcFromNpc>141784</ShareSoldNpcFromNpc>
+      <ShareSoldNpcFromPlayer>141785</ShareSoldNpcFromPlayer>
+      <ShareSoldPlayerFromNpc>141786</ShareSoldPlayerFromNpc>
+      <ShareSoldPlayerFromPlayer>141787</ShareSoldPlayerFromPlayer>
+      <ShareBoughtNpcFromPlayer>141788</ShareBoughtNpcFromPlayer>
+      <ShareBoughtPlayerFromNpc>141789</ShareBoughtPlayerFromNpc>
+      <ShareBoughtBackNpc>141790</ShareBoughtBackNpc>
+      <ShareBoughtBackPlayer>141791</ShareBoughtBackPlayer>
+      <ShareBoughtNpcFromNpc>141792</ShareBoughtNpcFromNpc>
+      <HostileTakeoverPossibleForNpc>141793</HostileTakeoverPossibleForNpc>
+      <HostileTakeoverPossibleForPlayer>141794</HostileTakeoverPossibleForPlayer>
+      <TakeoverProbabilityForArticle>100</TakeoverProbabilityForArticle>
+    </HostileTakeoverNewsTracker>
+  </Values>
+</Asset>

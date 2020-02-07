@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803924</GUID>
+      <Name>Beechey Island 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803925</Option>
+        </Item>
+        <Item>
+          <Option>803927</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path16.png</PathSegment>
+        <PathPosX>47</PathPosX>
+        <PathPosY>-299</PathPosY>
+        <MapLabel>804149</MapLabel>
+        <LabelPosX>-18</LabelPosX>
+        <LabelPosY>-307</LabelPosY>
+        <ProgressReview>117453</ProgressReview>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Sir!" cries the lookout, "dark shapes on the ridge!"&lt;/b&gt; A group climb the icy escarpment. At the top they find a companionable trio of driftwood boards plugged in three man-sized heaps of snow. Sunlight hits the scritchings in the wood, "Sacred to the memory of Joseph Braine, who departed this life New Year's Day 1846 on board of H.M. Styx." The others named are "John Gore" and "Francis Seeley." &lt;b&gt;Your men tremble at the idea of disturbing the graves.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34889</LineID>
+    </Text>
+  </Values>
+</Asset>

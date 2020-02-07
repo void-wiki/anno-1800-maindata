@@ -1,0 +1,50 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>117446</GUID>
+      <Name>Flag Mountain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_anarchy_flag_2.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+      <InitialVisibility>0</InitialVisibility>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/flags/flagwithemptydummies.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Summit</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36185</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <Collectable>
+      <PickupCursor>2001028</PickupCursor>
+    </Collectable>
+    <FeedbackController />
+  </Values>
+</Asset>

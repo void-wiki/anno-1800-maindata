@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803115</GUID>
+      <Name>Ghosts in the Ice 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803074</Option>
+        </Item>
+        <Item>
+          <Option>803077</Option>
+        </Item>
+        <Item>
+          <Option>803078</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A ship trapped in the floe!&lt;/b&gt; While navigating the treacherous Northern seas, your expedition happens upon frozen waters, whose masses spread over the horizon and plant their roots deep below the surface. Their dominion imprisoned a ship much like yours. Skin parched, voice torn, eyes buried deep in their skulls, the stranded sailors sacrifice their last bits of strength to beg for help.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23429</LineID>
+    </Text>
+  </Values>
+</Asset>

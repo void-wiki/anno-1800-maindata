@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My bond is to you, not to your monarch.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17346</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232624</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266795</GUID>
+      <Name>advisor02_Ch2Ph1_Additional_02</Name>
+    </Standard>
+  </Values>
+</Asset>

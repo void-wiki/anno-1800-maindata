@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Herd</Template>
+  <Values>
+    <Standard>
+      <GUID>115216</GUID>
+      <Name>Herd Arctic Wolf</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cattle.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_goat.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <Herd>
+      <LikesToRunAround>1</LikesToRunAround>
+      <Attacks>1</Attacks>
+    </Herd>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/wolf/antarctic_wolf_footsteps.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_AmbientZones>North;South</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Arctic</AutoSpawn_Regions>
+      <UnitCountMin>3</UnitCountMin>
+      <UnitCountMax>5</UnitCountMax>
+      <AutoSpawn_RelativeProbability>20</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>235450</Animal_AudioLoop>
+      <ScaleFactor>0.8</ScaleFactor>
+    </AnimalBase>
+  </Values>
+</Asset>

@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/resident_tier02.portraitcamleft</CamFile>
+        </Left>
+        <Right>
+          <CamFile>data/config/portraitcam/resident_tier02.portraitcamright</CamFile>
+        </Right>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/resident_tier02.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/resident_tier02.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>1000166</GUID>
+      <Name>Worker</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/portrait_icons_0014_resident_tier02.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/residents/resident_tier02/resident_tier02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

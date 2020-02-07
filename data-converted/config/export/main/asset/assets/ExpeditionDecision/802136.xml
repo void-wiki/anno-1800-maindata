@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802136</GUID>
+      <Name>Lava Maze 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202359</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/stranger_things_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Fear is a treacherous adviser.&lt;/b&gt; Seeing that the only unburnt path is up, the sailors climb the jungle's trees in an attempt to escape the lava flow. Ground, then bark, then branches, then humans: everything burns. In the distance, the ship's remaining crew stay transfixed as they witness the volcano island devouring itself.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21761</LineID>
+    </Text>
+  </Values>
+</Asset>

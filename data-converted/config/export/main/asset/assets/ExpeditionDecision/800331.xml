@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800331</GUID>
+      <Name>Opera House in the Jungle 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Competent navigation&lt;/b&gt; rescues your ship from the mother of all rivers. Mr. Cardinale is tremulous throughout, believing his dreams may beach like a river dolphin at any time. But over the course of three tricky days, information is relayed quickly enough between wheel and forecastle to avoid any harmful collisions. There is relief all around when the corner is made and the river broadens again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3805</LineID>
+    </Text>
+  </Values>
+</Asset>

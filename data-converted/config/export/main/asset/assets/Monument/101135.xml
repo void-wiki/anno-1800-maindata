@@ -1,0 +1,92 @@
+<Asset>
+  <Template>Monument</Template>
+  <Values>
+    <Standard>
+      <GUID>101135</GUID>
+      <Name>CO_Tunnel_Final</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_dynamite.png</IconFilename>
+    </Standard>
+    <Building>
+      <Destructable>0</Destructable>
+      <Movable>0</Movable>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs />
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/tunnel/tunnel_entrance_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Generic</GUIType>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+      <ParticipantMessageArcheType>Campaign_character_01_demolition_expert</ParticipantMessageArcheType>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Excavation Site</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25854</LineID>
+    </Text>
+    <Constructable />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <FactoryBase>
+      <FactoryInputs>
+        <Item>
+          <Product>1010196</Product>
+          <Amount>5</Amount>
+          <StorageAmount>25</StorageAmount>
+        </Item>
+        <Item>
+          <Product>1010205</Product>
+          <Amount>5</Amount>
+          <StorageAmount>25</StorageAmount>
+        </Item>
+      </FactoryInputs>
+    </FactoryBase>
+    <LogisticNode>
+      <TransporterCountMax>0</TransporterCountMax>
+    </LogisticNode>
+    <Monument>
+      <UnfinishedIcon>501753</UnfinishedIcon>
+      <FinishedIcon>501754</FinishedIcon>
+      <MonumentHeadline>101040</MonumentHeadline>
+      <BackgroundImage>
+        <Blueprint>data/ui/2kimages/main/assets16/monument_construction/monument_excavationsite_04.png</Blueprint>
+      </BackgroundImage>
+      <ProgressbarHeight>190</ProgressbarHeight>
+    </Monument>
+    <Culture />
+    <AmbientMoodProvider />
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010052</Product>
+          <Amount>10</Amount>
+          <ShutdownThreshold>0.4</ShutdownThreshold>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable />
+    <Pausable />
+    <IslandUnique />
+    <UpgradeList />
+    <Electric />
+    <QuestObject />
+  </Values>
+</Asset>

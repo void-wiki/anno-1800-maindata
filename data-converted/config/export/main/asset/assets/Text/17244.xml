@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>17244</GUID>
+      <Name>Notification AlliancePlayerCancelledOtherParticipant</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])] has cancelled your alliance.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22594</LineID>
+    </Text>
+  </Values>
+</Asset>

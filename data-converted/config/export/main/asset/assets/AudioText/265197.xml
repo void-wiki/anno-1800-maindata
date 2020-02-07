@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The epidemic spreads across your city!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15787</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234121</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265197</GUID>
+      <Name>AT_Narrator_Incidents_Warning_EscalatedIllness</Name>
+    </Standard>
+  </Values>
+</Asset>

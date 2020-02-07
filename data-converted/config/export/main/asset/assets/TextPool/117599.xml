@@ -1,0 +1,32 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117599</GUID>
+      <Name>Pool_OldNateArctic_IdleStory</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>114117</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>116517</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116518</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

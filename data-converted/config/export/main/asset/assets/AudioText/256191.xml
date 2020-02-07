@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You got too greedy!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7678</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217401</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256191</GUID>
+      <Name>AT_ai07_NpcDeclinesPlayerProposalTooOften2</Name>
+    </Standard>
+  </Values>
+</Asset>

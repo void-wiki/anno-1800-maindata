@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>22465</GUID>
+      <Name>StorageGraph_01_Infotip</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[EconomyStatistic History TimeSinceSnapshot([RefOid])] / [EconomyStatistic History ProductAmount([RefOid], [RefGuid]) &gt;&gt; storagegoodM] [AssetData([RefGuid]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36073</LineID>
+    </Text>
+  </Values>
+</Asset>

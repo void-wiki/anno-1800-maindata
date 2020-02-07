@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Torpedo!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19802</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238212</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268521</GUID>
+      <Name>AT_MurmurMale6_Monitor_ShipTorpedo01</Name>
+    </Standard>
+  </Values>
+</Asset>

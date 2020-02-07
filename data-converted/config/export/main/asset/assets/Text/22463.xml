@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>22463</GUID>
+      <Name>PopulationGraph_01_Infotip</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[EconomyStatistic History TimeSinceSnapshot([RefOid])] / [EconomyStatistic History PopulationAmount([RefOid], [RefGuid]) &gt;&gt; storagegoodM] [AssetData([RefGuid]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36067</LineID>
+    </Text>
+  </Values>
+</Asset>

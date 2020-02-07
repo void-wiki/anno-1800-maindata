@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803305</GUID>
+      <Name>Good Whale Hunting 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803306</Option>
+        </Item>
+        <Item>
+          <Option>803308</Option>
+        </Item>
+        <Item>
+          <Option>803312</Option>
+        </Item>
+        <Item>
+          <Option>803320</Option>
+        </Item>
+        <Item>
+          <Option>803333</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"The whales are still around us!"&lt;/b&gt;&lt;br/&gt;Impossibly large trails of water break the wake of the ship, and the froth parts to reveal leathery dark skin. The whales are gaining speed, and impact is imminent.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26324</LineID>
+    </Text>
+  </Values>
+</Asset>

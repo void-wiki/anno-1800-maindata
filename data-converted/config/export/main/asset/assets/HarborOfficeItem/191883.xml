@@ -1,0 +1,69 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191883</GUID>
+      <Name>Wooden Tower Repair Crane</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_construction_crane_1.png</IconFilename>
+      <InfoDescription>19730</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wooden Repair Crane</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26813</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <TradePrice>21800</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191887</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19730</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade>
+      <HealRadiusUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </HealRadiusUpgrade>
+      <HealPerMinuteUpgrade>
+        <Value>-10</Value>
+        <Percental>1</Percental>
+      </HealPerMinuteUpgrade>
+    </RepairCraneUpgrade>
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

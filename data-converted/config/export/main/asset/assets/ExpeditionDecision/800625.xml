@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800625</GUID>
+      <Name>A Grizzly Encounter 1.2.2.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Against all anxiety, the Bear doesn't follow.&lt;/b&gt; Still, the men in the cave are too afraid to light a fire, or sleep through the night. Shattered and hungry, they emerge the next morning, only to find their sacrifice was wholly unnecessary. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5707</LineID>
+    </Text>
+  </Values>
+</Asset>

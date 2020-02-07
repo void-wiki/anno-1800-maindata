@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101287</GUID>
+      <Name>power post</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/special/power_line/power_line_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

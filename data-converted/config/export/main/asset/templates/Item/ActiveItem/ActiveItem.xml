@@ -1,0 +1,16 @@
+<Template>
+  <Name>ActiveItem</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item />
+    <Cost />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+    <SpecialAction />
+    <Locked />
+    <CraftableItem />
+  </Properties>
+</Template>

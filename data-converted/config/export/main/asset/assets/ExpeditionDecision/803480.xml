@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803480</GUID>
+      <Name>The Mascarade 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>1010249</Reward>
+          <Amount>10</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your luck does not desert you,&lt;/b&gt; and soon among those drawn to your blessed table, you spy a beautiful sequined elephant. Your eyes meet, and hers widen. She must recognise you! There are gasps as she rushes for the exit. By the time you have forced your way outside, &lt;b&gt;her carriage has set off at speed. You wave another cab down, and get in.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32650</LineID>
+    </Text>
+  </Values>
+</Asset>

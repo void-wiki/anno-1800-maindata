@@ -1,0 +1,49 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191858</GUID>
+      <Name>Plate Heat Exchanger</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_heatexchanger_3.png</IconFilename>
+      <InfoDescription>19709</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Plate Heat Exchanger</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26800</LineID>
+    </Text>
+    <Item>
+      <Allocation>SteamShip</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>201000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <IgnoreDamageFactorUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IgnoreDamageFactorUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade>
+        <Value>30</Value>
+        <Percental>1</Percental>
+      </MaxHitpointsUpgrade>
+    </AttackableUpgrade>
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

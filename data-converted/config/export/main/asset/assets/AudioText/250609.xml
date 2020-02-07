@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Isabel Sarmento? You should probably be careful where you speak that name.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1221</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212178</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>250609</GUID>
+      <Name>AT_3rdParty02_IdleMessageGossip_Sarmento</Name>
+    </Standard>
+  </Values>
+</Asset>

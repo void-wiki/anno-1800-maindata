@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ItemReplacementPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193855</GUID>
+      <Name>AirShipReplacementPool</Name>
+    </Standard>
+    <ItemReplacementPool>
+      <ReplacementPools>
+        <Item>
+          <DummyItem>116829</DummyItem>
+          <ReplacementPool>116830</ReplacementPool>
+        </Item>
+        <Item>
+          <DummyItem>116832</DummyItem>
+          <ReplacementPool>116831</ReplacementPool>
+        </Item>
+        <Item>
+          <DummyItem>117416</DummyItem>
+          <ReplacementPool>117398</ReplacementPool>
+        </Item>
+      </ReplacementPools>
+    </ItemReplacementPool>
+  </Values>
+</Asset>

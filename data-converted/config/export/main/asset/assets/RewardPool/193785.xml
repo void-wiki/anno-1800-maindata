@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193785</GUID>
+      <Name>Specialists - Arctic Goods - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>116130</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116142</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116146</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116147</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116148</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

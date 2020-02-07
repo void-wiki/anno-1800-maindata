@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14267</GUID>
+      <Name>CQ311_Escape_ObjectiveText_02</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deliver:&lt;br/&gt;[Conditions QuestCondition Amount(ObjectiveIndex)] [AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text] from Prosperity Island to La Isla</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18002</LineID>
+    </Text>
+  </Values>
+</Asset>

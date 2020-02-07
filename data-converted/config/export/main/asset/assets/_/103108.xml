@@ -1,0 +1,73 @@
+<Asset>
+  <BaseAssetGUID>100441</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>103108</GUID>
+      <Name>TQO Clipper (Trade) with Starting Materials</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31767</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting />
+    <Collector />
+    <Attackable />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <InitSlotItems>
+        <Item>
+          <Item>1010196</Item>
+          <StackSize>50</StackSize>
+        </Item>
+        <Item>
+          <Item>1010196</Item>
+          <StackSize>20</StackSize>
+        </Item>
+        <Item>
+          <Item>1010205</Item>
+          <StackSize>50</StackSize>
+        </Item>
+        <Item>
+          <Item>1010218</Item>
+          <StackSize>50</StackSize>
+        </Item>
+      </InitSlotItems>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

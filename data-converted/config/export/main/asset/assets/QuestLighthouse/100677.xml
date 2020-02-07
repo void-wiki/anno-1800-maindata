@@ -1,0 +1,85 @@
+<Asset>
+  <Template>QuestLighthouse</Template>
+  <Values>
+    <Standard>
+      <GUID>100677</GUID>
+      <Name>HB_QuestObject (Aarhant)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/advisor_02.png</IconFilename>
+      <InfoDescription>2676</InfoDescription>
+    </Standard>
+    <Building />
+    <Blocking>
+      <GroundDecalAsset>100446</GroundDecalAsset>
+    </Blocking>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject_lighthouse.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection>
+      <OnSelection>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionNotification</Template>
+                  <Values>
+                    <Action />
+                    <ActionNotification>
+                      <Notification>
+                        <Template>CharacterNotification</Template>
+                        <Values>
+                          <CharacterNotification>
+                            <Profile>31</Profile>
+                          </CharacterNotification>
+                          <BaseNotification>
+                            <NotificationText>16779</NotificationText>
+                          </BaseNotification>
+                          <NotificationSubtitle>
+                            <Subtitle>268726</Subtitle>
+                          </NotificationSubtitle>
+                        </Values>
+                      </Notification>
+                    </ActionNotification>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnSelection>
+      <InteractionDistance>10</InteractionDistance>
+      <Colors>
+        <SelectionColorType>PropertySelectionColor</SelectionColorType>
+        <SelectionColor>-337045</SelectionColor>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Derelict Lighthouse</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7041</LineID>
+    </Text>
+    <Cost />
+    <Infolayer />
+    <Maintenance />
+    <Locked />
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

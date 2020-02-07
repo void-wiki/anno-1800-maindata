@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ah, a scholar of the sciences?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12621</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230076</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261410</GUID>
+      <Name>AT_ai01_PlyrSciencePositive1</Name>
+    </Standard>
+  </Values>
+</Asset>

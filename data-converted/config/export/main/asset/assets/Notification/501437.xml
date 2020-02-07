@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501437</GUID>
+      <Name>NotificationDiplomacy_WarPlayerOtherParticipant</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501449</IconAsset>
+            <FilterType>DiplomaticRelations</FilterType>
+            <IsWarning>1</IsWarning>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>17251</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <DisplayTimeout>0</DisplayTimeout>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

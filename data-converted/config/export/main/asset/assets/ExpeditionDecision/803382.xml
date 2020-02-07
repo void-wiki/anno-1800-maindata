@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803382</GUID>
+      <Name>The Great Sickness 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803383</Option>
+        </Item>
+        <Item>
+          <Option>803386</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your people find it impossible to get the message across.&lt;/b&gt; The locals go about their business as usual, disregarding the strictures you have tried to put in place. Sensing the coming epidemic, and as fears for the health of your own crew mount, it may be time just to leave...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31571</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,81 @@
+<Asset>
+  <Template>OilPumpBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>113751</GUID>
+      <Name>mining_arctic_01_pump (Gas Pump)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_gas_red.png</IconFilename>
+      <InfoDescription>114289</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildModeRandomRotation>90</BuildModeRandomRotation>
+      <AssociatedRegions>Arctic</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>4000</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>6</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+          <Amount>8</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/buildings/production/production_colony03_06/production_colony03_06_module_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Gas Pump</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35087</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>244864</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <Slot>
+      <SlotType>Gas</SlotType>
+    </Slot>
+    <AmbientMoodProvider>
+      <Murmur>Arctic_Mine</Murmur>
+    </AmbientMoodProvider>
+    <Attackable>
+      <MaximumHitPoints>500</MaximumHitPoints>
+    </Attackable>
+    <BuildingModule />
+  </Values>
+</Asset>

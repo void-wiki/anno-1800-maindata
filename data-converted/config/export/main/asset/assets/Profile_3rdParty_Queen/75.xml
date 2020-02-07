@@ -1,0 +1,169 @@
+<Asset>
+  <Template>Profile_3rdParty_Queen</Template>
+  <Values>
+    <Standard>
+      <GUID>75</GUID>
+      <Name>Third_party_01 (Queen)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_01.png</IconFilename>
+      <ID>ProfileQueen</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Queen</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7067</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/3rd_party_01.png</ProfilePicture>
+      <Portrait>100668</Portrait>
+      <CompanyIcon>501260</CompanyIcon>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>4075</InfoCornerDescription>
+      <ParticipantID>Third_party_01_Queen</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestStarterObject>0</QuestStarterObject>
+      <DefaultColor>Color11</DefaultColor>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <ClickKontor>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>3rdParty_Female</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle>
+                    <SubtitleGroup>1807089449</SubtitleGroup>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickKontor>
+        <SellIslandShare>
+          <Reactions>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-2046378713</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </SellIslandShare>
+        <BuyIslandShare>
+          <Reactions>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>1563060854</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle>
+                    <SubtitleGroup>-456791422</SubtitleGroup>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </BuyIslandShare>
+        <QuestResolveConfirmation>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationText>10549</NotificationText>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestResolveConfirmation>
+        <QuestStarted>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>Profile_Queen</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                  <Entry>
+                    <TemplateName>Profile_3rdParty_Queen</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>699</NotificationPriority>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestStarted>
+      </MessageTriggers>
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Third_party_01_Queen</DefaultParticipant>
+    </Object>
+    <ThirdParty />
+    <ParticipantMessageObject>
+      <ParticipantMessages>150</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Diplomacy>
+      <InitialRelation>
+        <DefaultMemory>50</DefaultMemory>
+        <Exceptions>
+          <Item>
+            <Participant>Campaign_character_02_pyrophorian_red</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+          <Item>
+            <Participant>Campaign_character_02_pyrophorian_red_blinded</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+          <Item>
+            <Treaties>Alliance</Treaties>
+          </Item>
+        </Exceptions>
+        <DefaultTreatiesUndiscovered>Peace</DefaultTreatiesUndiscovered>
+      </InitialRelation>
+      <IsDiscoveredOnStart>1</IsDiscoveredOnStart>
+    </Diplomacy>
+    <Locked />
+  </Values>
+</Asset>

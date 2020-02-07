@@ -1,0 +1,20 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>116923</GUID>
+      <Name>Arctic Seal Hunter Ships</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>FishingBoat</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>117266</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+      <ClassFlags>IsChild</ClassFlags>
+      <UseSpecialPathPlannerLayer>1</UseSpecialPathPlannerLayer>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

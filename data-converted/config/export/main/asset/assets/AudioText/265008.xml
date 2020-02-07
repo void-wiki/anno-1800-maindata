@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your worthless rags have barely covered anything. Now bring me sails— It's not like you have any use for them!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15561</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232185</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265008</GUID>
+      <Name>enemy_01_RepayYourDebt_02</Name>
+    </Standard>
+  </Values>
+</Asset>

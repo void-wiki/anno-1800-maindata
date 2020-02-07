@@ -1,0 +1,18 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142782</GUID>
+      <Name>SantaClaus_OnlyChristmasSeason</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142790</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>DangerAvoiding</AllowedReactions>
+      <HappyEventDates>ChristmanSeason</HappyEventDates>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

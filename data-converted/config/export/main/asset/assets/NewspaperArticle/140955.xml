@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140955</GUID>
+      <Name>Fire Lv2 Solved</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>3731</Headline>
+      <Subline>3732</Subline>
+      <Image>142257</Image>
+      <Category>Special</Category>
+      <NewsPriority>
+        <StartValue>300</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

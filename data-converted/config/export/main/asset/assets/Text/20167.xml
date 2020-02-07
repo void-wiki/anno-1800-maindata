@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20167</GUID>
+      <Name>Festival Description</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_flatter.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[ToolOneHelper InfoDescription([AreaManager AreaFestival BuffGuids AT(0) GUID]) Text]</Text>
+          <Status>Edit</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28625</LineID>
+    </Text>
+  </Values>
+</Asset>

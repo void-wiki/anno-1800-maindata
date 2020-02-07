@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEventPool</Template>
+  <Values>
+    <Standard>
+      <GUID>800374</GUID>
+      <Name>Melee Events</Name>
+    </Standard>
+    <ExpeditionEventPool>
+      <EventPool>
+        <Item>
+          <EventOrEventPool>800171</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>801607</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802020</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802987</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>803609</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>803727</EventOrEventPool>
+        </Item>
+      </EventPool>
+    </ExpeditionEventPool>
+  </Values>
+</Asset>

@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239980</GUID>
+      <Name>wwe_voc_mur_war_surrenderLikely</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2329</DurationMinimum>
+          <DurationMaximum>19420</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1639</DurationMinimum>
+          <DurationMaximum>20917</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1784</DurationMinimum>
+          <DurationMaximum>19278</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2096</DurationMinimum>
+          <DurationMaximum>19246</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4465088</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

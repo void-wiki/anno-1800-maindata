@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Basic supplies lacking!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15894</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233992</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265305</GUID>
+      <Name>AT_Narrator_Population_Warning_PopulationMissingSupplyGood</Name>
+    </Standard>
+  </Values>
+</Asset>

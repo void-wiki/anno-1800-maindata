@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>3937</GUID>
+      <Name>CQ_Sell_Ship_ObjectiveText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sail schooner to [AssetData([Conditions QuestCondition Context]) Text], select it and sell it</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11716</LineID>
+    </Text>
+  </Values>
+</Asset>

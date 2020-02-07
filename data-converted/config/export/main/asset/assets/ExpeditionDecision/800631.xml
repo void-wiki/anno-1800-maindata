@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800631</GUID>
+      <Name>A Grizzly Encounter 1.3.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Out here, bears rule.&lt;/b&gt; The wildly inaccurate gunfire  serves only to rile the bear into a frenzy, and draw attention to your position. Then a second, larger bear thunders from the undergrowth and mauls a man to death. A few of your piffling soldiery manage to escape with all their limbs attached.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5722</LineID>
+    </Text>
+  </Values>
+</Asset>

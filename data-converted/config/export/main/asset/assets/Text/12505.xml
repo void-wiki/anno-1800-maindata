@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12505</GUID>
+      <Name>No Electricity</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_electric_works_2d.png</IconFilename>
+      <ID>ProductionWarningElectricity</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Missing Electricity</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14524</LineID>
+    </Text>
+  </Values>
+</Asset>

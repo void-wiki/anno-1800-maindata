@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802138</GUID>
+      <Name>Selfless Deeds</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Selfless Deeds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20999</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800033</EventThreat>
+      <StartDecision>802139</StartDecision>
+      <EventMusicChoice>226701</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/wildlife_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

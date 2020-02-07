@@ -1,0 +1,53 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>111152</GUID>
+      <Name>Religion sweet poison - Hiding priest 2</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_priest_201.png</IconFilename>
+    </Standard>
+    <Collectable />
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+      <InitialVisibility>0</InitialVisibility>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/quest/unit_groups/priest_with_kneeling_believers/priest_with_kneeling_believers.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Congregation</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31289</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController>
+      <UseMeshRenderFlags>1</UseMeshRenderFlags>
+    </FeedbackController>
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

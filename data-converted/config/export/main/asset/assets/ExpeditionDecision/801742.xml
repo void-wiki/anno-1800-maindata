@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801742</GUID>
+      <Name>The Investigation 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801743</Option>
+        </Item>
+        <Item>
+          <Option>801746</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The Madam refuses to help without payment.&lt;/b&gt; Time is money, and your mumbling mummers are wasting it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21171</LineID>
+    </Text>
+  </Values>
+</Asset>

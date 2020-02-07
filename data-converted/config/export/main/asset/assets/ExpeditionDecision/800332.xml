@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800332</GUID>
+      <Name>Opera House in the Jungle 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Rapids?!" exhales Mr. Cardinale crossly.&lt;/b&gt; Ahead white water churns. There is nothing for it but to push on. As the ship strains against the current, there are dreadful noises from rocks on the keel. The crew wince at each and every thump and screech. Finally, after a week, the river broadens again, and the crew can inspect the damage - it doesn't look good.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3806</LineID>
+    </Text>
+  </Values>
+</Asset>

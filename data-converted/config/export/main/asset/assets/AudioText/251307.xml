@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You've let yerself, yer family, and worst of all, me down.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2342</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212583</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251307</GUID>
+      <Name>AT_ai03_NegFeedbackToPlyr7</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,49 @@
+<Asset>
+  <BaseAssetGUID>100586</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101286</GUID>
+      <Name>harbor_office_colony01</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking>
+      <GroundDecalAsset>102460</GroundDecalAsset>
+      <GroundDecalInvisible>102459</GroundDecalInvisible>
+    </Blocking>
+    <Cost />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>HarborOffice</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/buildings/special/harbor_office_colony01/harbor_office_colony01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LineID>8505</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <ItemContainer />
+    <UpgradeList />
+    <Attackable />
+    <Pausable />
+    <Maintenance />
+    <Culture />
+  </Values>
+</Asset>

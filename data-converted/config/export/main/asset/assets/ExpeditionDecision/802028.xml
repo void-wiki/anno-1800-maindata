@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802028</GUID>
+      <Name>Tavern Troubles 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802035</Option>
+        </Item>
+        <Item>
+          <Option>802036</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Bribing them with alcohol doesn't seem to work.&lt;/b&gt; Your crew invites the men to sit and share a beer, on them, to try and bring the tension down. The thug doesn't let go of the doctor and points at the aligned liquors behind the bartender. A glass of all of these, he says, and a bottle of your best whatever. That's way more than they can drink and way more than your sailors can afford.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21736</LineID>
+    </Text>
+  </Values>
+</Asset>

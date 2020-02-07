@@ -1,0 +1,61 @@
+<Asset>
+  <Template>Matcher</Template>
+  <Values>
+    <Standard>
+      <GUID>110799</GUID>
+      <Name>Matcher Mercier The Hunt Bank</Name>
+    </Standard>
+    <Matcher>
+      <Criterion>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <MatcherCriterion />
+          <MatcherCriterionAnd>
+            <CriterionOperandListAnd>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>0</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>MatcherCriterionAnd</TemplateName>
+                      <Index>0</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <CriterionOperand>
+                  <Template>MatcherCriterionGUID</Template>
+                  <Values>
+                    <MatcherCriterion />
+                    <MatcherCriterionGUID>
+                      <ObjectMatched>1010365</ObjectMatched>
+                    </MatcherCriterionGUID>
+                  </Values>
+                </CriterionOperand>
+              </Item>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>1</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>MatcherCriterionAnd</TemplateName>
+                      <Index>1</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <CriterionOperand>
+                  <Template>MatcherCriterionOwner</Template>
+                  <Values>
+                    <MatcherCriterion />
+                    <MatcherCriterionOwner>
+                      <OwnerMatched>Second_ai_11_Mercier</OwnerMatched>
+                    </MatcherCriterionOwner>
+                  </Values>
+                </CriterionOperand>
+              </Item>
+            </CriterionOperandListAnd>
+          </MatcherCriterionAnd>
+        </Values>
+      </Criterion>
+    </Matcher>
+  </Values>
+</Asset>

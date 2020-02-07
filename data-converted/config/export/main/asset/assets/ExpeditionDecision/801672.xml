@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801672</GUID>
+      <Name>The Chasing 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801674</Option>
+        </Item>
+        <Item>
+          <Option>801675</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Only a partial success&lt;/b&gt;, as the fire forces the Pyrphorians to turn to face you. Sensing they might still have a chance in a fight, the Pyrphorians prime what few small dragon cannons they have. Your crew must act quickly.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21103</LineID>
+    </Text>
+  </Values>
+</Asset>

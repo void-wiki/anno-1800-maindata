@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NeedsSatisfactionNews</Template>
+  <Values>
+    <Standard>
+      <GUID>141843</GUID>
+      <Name>TortillaSupplyVeryBad</Name>
+    </Standard>
+    <NeedsSatisfactionNews>
+      <Need>120035</Need>
+      <TrackingDuration>120000</TrackingDuration>
+      <MaximumNeedSatisfaction>0.5</MaximumNeedSatisfaction>
+      <MaximumNeedSatisfactionAtRelease>0.5</MaximumNeedSatisfactionAtRelease>
+      <MinResidencesCount>60</MinResidencesCount>
+      <SatisfactionArticle>141863</SatisfactionArticle>
+    </NeedsSatisfactionNews>
+  </Values>
+</Asset>

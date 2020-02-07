@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802079</GUID>
+      <Name>The Mutiny 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The loyalists find it difficult to act against their friends.&lt;/b&gt; "Go on then, arrest them!" blares an officer, when they show a moment's hesitation. The ringleader is eventually captured, made a scapegoat and marooned at the next port, but weakness has been shown. A few little cracks have started to appear...</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21607</LineID>
+    </Text>
+  </Values>
+</Asset>

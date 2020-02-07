@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802489</GUID>
+      <Name>The Storm 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802490</Option>
+        </Item>
+        <Item>
+          <Option>802491</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's no courage in these cowards.&lt;/b&gt; Despite the repeated calls of the lieutenants and the emergency of the situation, the sailors stay frozen in the face of the thunderstorm, awed mice before a famished cat. You can beat them into life, or say your prayers.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21774</LineID>
+    </Text>
+  </Values>
+</Asset>

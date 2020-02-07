@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You don't need to be an insect like the others.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7698</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217045</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255376</GUID>
+      <Name>AT_ai08_NPCReputationAutocorrectIncrease2</Name>
+    </Standard>
+  </Values>
+</Asset>

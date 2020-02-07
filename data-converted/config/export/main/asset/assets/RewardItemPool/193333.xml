@@ -1,0 +1,26 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193333</GUID>
+      <Name>Mercier Common Machines</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193276</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193281</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193286</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192703</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

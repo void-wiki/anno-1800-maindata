@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>801599</GUID>
+      <Name>Sunken Depths 1.2.1.1.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ignore the pearl and risk the dive into darkness</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16126</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Faith</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>801601</Decision>
+          <Threshold>RewardMediumThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>801602</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

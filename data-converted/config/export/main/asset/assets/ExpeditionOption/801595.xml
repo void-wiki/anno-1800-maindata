@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>801595</GUID>
+      <Name>Sunken Depths 1.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hope that it will resist the dive and push the bell into the hole</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16124</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Faith</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>801597</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>801598</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

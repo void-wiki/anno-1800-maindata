@@ -1,0 +1,55 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151073</GUID>
+      <Name>CQ322_DefenseMeasures_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>150908</Quest>
+                <WinQuest>1</WinQuest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionShipsOwnedInSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionShipsOwnedInSession>
+                      <ShipSession>180025</ShipSession>
+                      <ShipTarget>100439</ShipTarget>
+                      <ShipAmount>2</ShipAmount>
+                    </ConditionShipsOwnedInSession>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

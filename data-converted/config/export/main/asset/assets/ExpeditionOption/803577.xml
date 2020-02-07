@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803577</GUID>
+      <Name>The Coral Island 1.2.3.2.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>They just need to eat, that's all</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33051</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Hunting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803578</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803579</Decision>
+          <Threshold>LossMediumThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803580</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

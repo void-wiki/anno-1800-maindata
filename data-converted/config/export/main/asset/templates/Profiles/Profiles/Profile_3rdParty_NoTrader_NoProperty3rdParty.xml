@@ -1,0 +1,142 @@
+<Template>
+  <Name>Profile_3rdParty_NoTrader_NoProperty3rdParty</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Profile>
+      <ProfileType>VirtualParticipant_NeverOwnsGameObjects</ProfileType>
+      <AttackableThroughPirateFlagItem>0</AttackableThroughPirateFlagItem>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <QuestAborted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-999474322</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestAborted>
+        <QuestInvitation>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-607220429</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestInvitation>
+        <QuestEscortShipSelected>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>674720140</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestEscortShipSelected>
+        <QuestFailed>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1928161372</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestFailed>
+        <QuestStarted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-2052884805</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestStarted>
+        <QuestSuccessful>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>1380477898</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestSuccessful>
+        <SettlementRightsClaimIsland>
+          <Reactions>
+            <Item>
+              <MyRole>ObserverToInitiator</MyRole>
+            </Item>
+          </Reactions>
+        </SettlementRightsClaimIsland>
+        <SettlementRightsSeizeIsland>
+          <Reactions>
+            <Item />
+          </Reactions>
+        </SettlementRightsSeizeIsland>
+      </MessageTriggers>
+    </ParticipantMessages>
+    <Object />
+    <ParticipantMessageObject />
+    <Interaction />
+    <Diplomacy>
+      <InitialRelation>
+        <DefaultTreatiesUndiscovered>Peace</DefaultTreatiesUndiscovered>
+      </InitialRelation>
+    </Diplomacy>
+    <MilitaryAI />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <Scope>Account</Scope>
+    </Locked>
+  </Properties>
+</Template>

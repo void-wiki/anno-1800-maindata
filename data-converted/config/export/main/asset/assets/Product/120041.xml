@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>120041</GUID>
+      <Name>bananas</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_banana.png</IconFilename>
+      <InfoDescription>12800</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Plantains</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20146</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>3</BasePrice>
+      <CivLevel>1</CivLevel>
+      <AssociatedRegion>Colony01</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

@@ -1,0 +1,142 @@
+<Asset>
+  <Template>A7_QuestDeliveryObject</Template>
+  <Values>
+    <Standard>
+      <GUID>113291</GUID>
+      <Name>SL102_03_AnointedByGod</Name>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <Profile>75</Profile>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>113596</NotificationText>
+              <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+              <RestrictedToSessionOrRegions>
+                <Item>
+                  <SessionOrRegion>110934</SessionOrRegion>
+                </Item>
+              </RestrictedToSessionOrRegions>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>257028</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <QuestGiver>75</QuestGiver>
+      <StoryText>112354</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <QuestCategory>SunkenTreasureQuest</QuestCategory>
+      <QuestActivation>QuestStart</QuestActivation>
+      <IsAbortable>0</IsAbortable>
+      <ConfirmOnReached>0</ConfirmOnReached>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>110934</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <QuestHints>
+        <Item>
+          <Text>21994</Text>
+        </Item>
+      </QuestHints>
+      <HasStarterSpeechBubble>0</HasStarterSpeechBubble>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>112353</HintText>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>God's Mandate</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32249</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets />
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>12714</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <Context>1010359</Context>
+                <CounterAmount>1</CounterAmount>
+                <CounterScope>Area</CounterScope>
+                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                <CounterScopeContext>112140</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>None</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectPrebuiltObject</Template>
+              <Values>
+                <ConditionObjectPrebuiltObject>
+                  <PrebuiltObject>111878</PrebuiltObject>
+                </ConditionObjectPrebuiltObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

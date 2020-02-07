@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803781</GUID>
+      <Name>The snake bite 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803782</Option>
+        </Item>
+        <Item>
+          <Option>803802</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Today after the usual lunch, one crew member died. he was the only one who had eaten the porridge, it had certainly been poisoned! If we have a traitor on board, we better find him now! The obvious suspects are the cook and his assistant.</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hey now, don't be sad, you've come a long way. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2325</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212611</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251283</GUID>
+      <Name>AT_ai03_PosiFeedbackToPlayer4</Name>
+    </Standard>
+  </Values>
+</Asset>

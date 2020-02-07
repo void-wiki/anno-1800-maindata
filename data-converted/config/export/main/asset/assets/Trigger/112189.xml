@@ -1,0 +1,52 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>112189</GUID>
+      <Name>Start Notification Trade Item</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionIsDiscovered</Template>
+        <Values>
+          <Condition />
+          <ParticipantRelation>
+            <SourceIsOwner>1</SourceIsOwner>
+            <TargetParticipant>Second_ai_11_Mercier</TargetParticipant>
+          </ParticipantRelation>
+          <ConditionIsDiscovered />
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>220</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>112202</NotificationText>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>110167</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

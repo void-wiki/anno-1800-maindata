@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>247124</GUID>
+      <Name>wwe_sfx_bld_xmas_santa</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>247125</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2298461501</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

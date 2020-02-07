@@ -1,0 +1,46 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190802</GUID>
+      <Name>Brigand Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010192</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010194</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010195</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>120014</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010198</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>15</Weight>
+        </Item>
+      </ItemsPool>
+      <GenerateUniqueRewards>0</GenerateUniqueRewards>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141824</GUID>
+      <Name>PopulationHappinessIncrease</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14936</Headline>
+      <Subline>14937</Subline>
+      <Image>142225</Image>
+      <Category>Satisfaction</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>250</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <Maximum>300</Maximum>
+      </NewsPriority>
+      <ArticleEffect>RiotChanceGlobal</ArticleEffect>
+      <EffectValue>-50</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000000</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

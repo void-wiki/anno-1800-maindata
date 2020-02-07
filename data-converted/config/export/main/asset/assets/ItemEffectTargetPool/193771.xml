@@ -1,0 +1,51 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193771</GUID>
+      <Name>all heavy production</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Heavy Industries</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36151</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010296</GUID>
+        </Item>
+        <Item>
+          <GUID>1010297</GUID>
+        </Item>
+        <Item>
+          <GUID>1010298</GUID>
+        </Item>
+        <Item>
+          <GUID>1010299</GUID>
+        </Item>
+        <Item>
+          <GUID>1010301</GUID>
+        </Item>
+        <Item>
+          <GUID>1010302</GUID>
+        </Item>
+        <Item>
+          <GUID>1010303</GUID>
+        </Item>
+        <Item>
+          <GUID>1010282</GUID>
+        </Item>
+        <Item>
+          <GUID>101331</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

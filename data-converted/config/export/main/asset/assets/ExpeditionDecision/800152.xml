@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800152</GUID>
+      <Name>Temple of the Monkey God 1.4.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226565</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;After some scrabbling amid bristly vegetation,&lt;/b&gt; the tired crew finally get up to the water source and fill the barrels. The journey back down with the heavy burden is equally exhausting, and scarcely feels worth it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5655</LineID>
+    </Text>
+  </Values>
+</Asset>

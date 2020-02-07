@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Don't come to me looking crestfallen!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8415</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221591</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252638</GUID>
+      <Name>AT_ai09_QuestFailed3</Name>
+    </Standard>
+  </Values>
+</Asset>

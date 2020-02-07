@@ -1,0 +1,26 @@
+<Template>
+  <Name>ObjectmenuKontor</Name>
+  <Properties>
+    <Standard />
+    <ObjectmenuKontorScene>
+      <Regions>
+        <Moderate>
+          <ProductFilter>500514</ProductFilter>
+          <ItemFilter>501516</ItemFilter>
+        </Moderate>
+        <Colony01>
+          <ProductFilter>500514</ProductFilter>
+          <ItemFilter>501516</ItemFilter>
+        </Colony01>
+        <Arctic>
+          <ProductFilter>500514</ProductFilter>
+          <ItemFilter>502015</ItemFilter>
+        </Arctic>
+        <Africa>
+          <ProductFilter>500514</ProductFilter>
+          <ItemFilter>501516</ItemFilter>
+        </Africa>
+      </Regions>
+    </ObjectmenuKontorScene>
+  </Properties>
+</Template>

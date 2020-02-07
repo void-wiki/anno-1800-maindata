@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Don't dabble with Kahina, she's a lethal businesswoman.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12314</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231310</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261100</GUID>
+      <Name>AT_3rdParty06_IdleMessageGossip_Kahina</Name>
+    </Standard>
+  </Values>
+</Asset>

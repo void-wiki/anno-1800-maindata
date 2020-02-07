@@ -1,0 +1,161 @@
+<Asset>
+  <Template>TutorialQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>151362</GUID>
+      <Name>TQ_NoFarmFieldsWheat</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_farmfield_module.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationText>14840</NotificationText>
+              <NotificationPriority>500</NotificationPriority>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>268105</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <AbortedAutomaticallyMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </AbortedAutomaticallyMessage>
+      <StoryText>14841</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <LatencyTimer>15000</LatencyTimer>
+      <KeepCheckingPreconditionsWhenRunning>1</KeepCheckingPreconditionsWhenRunning>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionActiveSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionActiveSession>
+                      <ActiveSession>180039</ActiveSession>
+                      <SessionBlacklist>1</SessionBlacklist>
+                    </ConditionActiveSession>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>StreetConnection</PlayerCounter>
+                      <Context>1010262</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionModuleCount</Template>
+                  <Values>
+                    <Condition />
+                    <ObjectFilter>
+                      <ObjectGUID>1010262</ObjectGUID>
+                    </ObjectFilter>
+                    <ConditionModuleCount>
+                      <ModuleComparison>LessThan</ModuleComparison>
+                      <ModulePercentage>0.1</ModulePercentage>
+                    </ConditionModuleCount>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Reap What You Sow</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22069</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>ModuleBuildingEfficiencyObjective</Template>
+            <Values>
+              <ConditionQuestModuleBuildingEfficiency>
+                <ModuleBuildingAsset>1010262</ModuleBuildingAsset>
+                <Efficiency>0.5</Efficiency>
+              </ConditionQuestModuleBuildingEfficiency>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <TextCombinedContextValue>17434</TextCombinedContextValue>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionPropsNegatable />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>FakeQuestObjective</Template>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionQuestFakeObjective>
+                <QuestTrackerEntries>
+                  <Item>
+                    <CombinedText>17434</CombinedText>
+                    <QuestTrackerIcon>data/ui/2kimages/main/3dicons/icon_cereals_2.png</QuestTrackerIcon>
+                  </Item>
+                </QuestTrackerEntries>
+              </ConditionQuestFakeObjective>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>MutuallyExclusive</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority />
+  </Values>
+</Asset>

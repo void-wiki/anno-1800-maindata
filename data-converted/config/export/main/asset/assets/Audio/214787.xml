@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>214787</GUID>
+      <Name>wwe_sfx_aui_bld_place_rails</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>987</DurationMinimum>
+          <DurationMaximum>987</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>170</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4016721815</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

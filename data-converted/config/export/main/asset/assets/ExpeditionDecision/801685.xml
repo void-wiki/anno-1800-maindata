@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801685</GUID>
+      <Name>The Chasing 1.1.1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>801714</InsertEvent>
+      <Conclusion>17412</Conclusion>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192430</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The cowled figures fall like beetles swept from a window ledge.&lt;/b&gt; Your marksmen pause to survey the scene, "a fearful desire these Pyrphorians have to die for their cause..." says one wistfully. Picking through their ship reveals some arcane Pyrphorian devices, but no sign of the Prosperity contract. Knowing it can only have changed hands in nearby Montoya, you make a beeline for the port.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21115</LineID>
+    </Text>
+  </Values>
+</Asset>

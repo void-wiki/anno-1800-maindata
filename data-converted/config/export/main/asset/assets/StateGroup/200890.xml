@@ -1,0 +1,23 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>200890</GUID>
+      <Name>ST_in_promo_popup</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>2178957281</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>200888</Choice>
+        </Item>
+        <Item>
+          <Choice>200889</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

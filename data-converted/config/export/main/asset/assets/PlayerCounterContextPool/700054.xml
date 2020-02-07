@@ -1,0 +1,44 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700054</GUID>
+      <Name>AP - All Artisan Products</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010241</Asset>
+        </Item>
+        <Item>
+          <Asset>1010207</Asset>
+        </Item>
+        <Item>
+          <Asset>1010215</Asset>
+        </Item>
+        <Item>
+          <Asset>1010217</Asset>
+        </Item>
+        <Item>
+          <Asset>1010206</Asset>
+        </Item>
+        <Item>
+          <Asset>1010247</Asset>
+        </Item>
+        <Item>
+          <Asset>120016</Asset>
+        </Item>
+        <Item>
+          <Asset>1010250</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Asset Pool All Artisans Products</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

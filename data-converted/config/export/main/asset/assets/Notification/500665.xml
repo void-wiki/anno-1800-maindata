@@ -1,0 +1,35 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500665</GUID>
+      <Name>Quest - Generic Item Acceptance Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <CharacterNotification>
+            <ThirdpartyNotificationButtons>
+              <Item>
+                <Icon>500109</Icon>
+              </Item>
+              <Item>
+                <Icon>500108</Icon>
+              </Item>
+            </ThirdpartyNotificationButtons>
+          </CharacterNotification>
+          <BaseNotification>
+            <NotificationText>11314</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>400</NotificationPriority>
+            <NotificationMinDisplayTime>1000</NotificationMinDisplayTime>
+            <NotificationGroup>PlayerClick</NotificationGroup>
+            <IsUnique>1</IsUnique>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

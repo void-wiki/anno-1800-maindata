@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239951</GUID>
+      <Name>wwe_voc_mur_engineer_unhappy</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2798</DurationMinimum>
+          <DurationMaximum>20675</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2442</DurationMinimum>
+          <DurationMaximum>20432</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2610</DurationMinimum>
+          <DurationMaximum>20890</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2594</DurationMinimum>
+          <DurationMaximum>20293</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>945424804</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

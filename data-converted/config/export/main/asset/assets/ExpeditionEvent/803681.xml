@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803681</GUID>
+      <Name>In Dangerous territory</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Trespassers</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32991</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>803682</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

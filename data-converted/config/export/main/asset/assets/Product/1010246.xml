@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010246</GUID>
+      <Name>pocket watch</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_pocket_watch.png</IconFilename>
+      <InfoDescription>11780</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pocket Watches</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5381</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11705</ProductCategory>
+      <BasePrice>4160</BasePrice>
+      <CivLevel>4</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <FluffText>12851</FluffText>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

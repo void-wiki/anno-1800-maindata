@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801604</GUID>
+      <Name>Sunken Depths 1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190527</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Low risk, low reward.&lt;/b&gt; The diving bell emerges without a scratch and the crew enjoys the tiny silver coin, passing it around and commenting on its singular aspect. Their excitement can only survive for so long and the coin is stored in the officers' coffers while the sailors whisper what ifs leading to grander treasures.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16133</LineID>
+    </Text>
+  </Values>
+</Asset>

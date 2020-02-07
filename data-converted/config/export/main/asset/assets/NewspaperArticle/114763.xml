@@ -1,0 +1,31 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>114763</GUID>
+      <Name>Storyline_MusicalPavillon</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>114036</Headline>
+      <Subline>114037</Subline>
+      <Image>142711</Image>
+      <Category>Progress</Category>
+      <NewsPriority>
+        <StartValue>393</StartValue>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>8</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

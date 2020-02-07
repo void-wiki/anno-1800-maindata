@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192278</GUID>
+      <Name>QI Brew kettle - Tea ceremony</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_brewing_machine_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Beryl's Second Favourite Kettle</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27937</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103060</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

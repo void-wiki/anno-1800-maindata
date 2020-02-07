@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802325</GUID>
+      <Name>Teeth of the Mountain 1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your diplomat establishes a common heritage!&lt;/b&gt; At least, their language certainly suggests as much; there are familiar sounding terms such as "gonne" and "gun" for example, although the words for water, tree and mountain are consistent with local dialects. Their mythology appears to centre around a tall, blue-eyed ancestor, who long ago came from the Old World, and eloped up this mountain with a local woman in order to conceive the eagles who now circle its peak. Your party receive the stories with great interest and are made to feel very welcome.</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20955</LineID>
+    </Text>
+  </Values>
+</Asset>

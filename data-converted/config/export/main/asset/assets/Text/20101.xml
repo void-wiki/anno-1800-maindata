@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20101</GUID>
+      <Name>Notification PeacePlayerTarget</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are at peace with [Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28022</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,62 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501757</GUID>
+      <Name>special reward menu</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/preorder_statue_back.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>102483</Building>
+        </Item>
+        <Item>
+          <Building>116706</Building>
+        </Item>
+        <Item>
+          <Building>117511</Building>
+        </Item>
+        <Item>
+          <Building>112297</Building>
+        </Item>
+        <Item>
+          <Building>112298</Building>
+        </Item>
+        <Item>
+          <Building>112299</Building>
+        </Item>
+        <Item>
+          <Building>112300</Building>
+        </Item>
+        <Item>
+          <Building>112301</Building>
+        </Item>
+        <Item>
+          <Building>112302</Building>
+        </Item>
+        <Item>
+          <Building>112303</Building>
+        </Item>
+        <Item>
+          <Building>112304</Building>
+        </Item>
+        <Item>
+          <Building>112305</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Special Ornaments</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31783</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

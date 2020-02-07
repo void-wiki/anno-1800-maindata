@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800948</GUID>
+      <Name>The Icy Blizzard 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The clumsy snowshoes fail you.&lt;/b&gt; Whether it is in their design or construction, every step sinks the party deeper. The cold will claim lives before the storm is weathered.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16057</LineID>
+    </Text>
+  </Values>
+</Asset>

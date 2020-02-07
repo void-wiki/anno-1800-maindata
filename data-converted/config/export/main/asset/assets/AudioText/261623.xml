@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Defend our home!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12399</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230495</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261623</GUID>
+      <Name>AT_MurmurMale3_War_Action</Name>
+    </Standard>
+  </Values>
+</Asset>

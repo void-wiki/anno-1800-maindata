@@ -1,0 +1,183 @@
+<Asset>
+  <Template>A7_QuestPhotography</Template>
+  <Values>
+    <Standard>
+      <GUID>152585</GUID>
+      <Name>Recruitment - Sarmento</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <SubtitleGroup>1937737451</SubtitleGroup>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <OnQuestSucceeded>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionForceNewspaper</Template>
+                  <Values>
+                    <Action />
+                    <ActionForceNewspaper>
+                      <Articles>
+                        <Item>
+                          <Article>142487</Article>
+                        </Item>
+                      </Articles>
+                      <OpenNewspaperUI>1</OpenNewspaperUI>
+                      <OpenNewspaperType>SpecialEdition</OpenNewspaperType>
+                    </ActionForceNewspaper>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnQuestSucceeded>
+      <QuestGiver>29</QuestGiver>
+      <StoryText>18686</StoryText>
+      <QuestActivation>ConfirmationDialog</QuestActivation>
+      <DelayTimer>1200000</DelayTimer>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180025</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>18684</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102591</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>29</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Information Warfare</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26213</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestEscortObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Reward>150038</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectPrebuiltObject</Template>
+                      <Values>
+                        <ConditionObjectPrebuiltObject>
+                          <PrebuiltObject>100683</PrebuiltObject>
+                        </ConditionObjectPrebuiltObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <AppearInNewspaperArticle>142487</AppearInNewspaperArticle>
+                    <ShowHintMarkerWhenOffscreen>1</ShowHintMarkerWhenOffscreen>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102591</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>PlayerKontor</SpawnContext>
+                        <DistanceToContext>30</DistanceToContext>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Third_party_05_Sarmento</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>500173</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

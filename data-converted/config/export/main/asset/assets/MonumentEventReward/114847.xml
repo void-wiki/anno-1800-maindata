@@ -1,0 +1,37 @@
+<Asset>
+  <Template>MonumentEventReward</Template>
+  <Values>
+    <Standard>
+      <GUID>114847</GUID>
+      <Name>9 Mythical Plants</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_9.png</IconFilename>
+      <InfoDescription>114856</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Plants of Myth</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33435</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>193735</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>193758</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>193759</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+  </Values>
+</Asset>

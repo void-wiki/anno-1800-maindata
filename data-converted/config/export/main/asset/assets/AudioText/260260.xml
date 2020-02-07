@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This island is crucial, you'll ruin everything! </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10976</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223607</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260260</GUID>
+      <Name>AT_ai09_PlyrBuyoutFromNpc1</Name>
+    </Standard>
+  </Values>
+</Asset>

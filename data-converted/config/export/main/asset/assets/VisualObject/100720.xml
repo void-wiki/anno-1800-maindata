@@ -1,0 +1,37 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>100720</GUID>
+      <Name>cannon old</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/weapons/cannon_old_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/weapons/cannon_old_01_broken1.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/weapons/cannon_old_01_broken2.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/weapons/cannon_old_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/weapons/cannon_old_02_broken1.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/weapons/cannon_old_02_broken2.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

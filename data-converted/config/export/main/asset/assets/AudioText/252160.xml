@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pigcrap let me have the island, believes anything they say.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3364</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215007</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252160</GUID>
+      <Name>AT_ai08_NpcAcquiresIslandFromPlyr1</Name>
+    </Standard>
+  </Values>
+</Asset>

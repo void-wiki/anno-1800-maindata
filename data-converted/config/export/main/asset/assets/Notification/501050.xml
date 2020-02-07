@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501050</GUID>
+      <Name>MilitaryTakeoverStarted_Oner</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501103</IconAsset>
+            <NotificationSideTitle>11621</NotificationSideTitle>
+            <FilterType>Military</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>13128</NotificationText>
+            <NotificationBlockingTime>30000</NotificationBlockingTime>
+            <NotificationAudioAsset>239733</NotificationAudioAsset>
+            <NotificationPriority>402</NotificationPriority>
+            <NotificationMinDisplayTime>10000</NotificationMinDisplayTime>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265218</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

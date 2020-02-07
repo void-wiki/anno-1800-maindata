@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501401</GUID>
+      <Name>NewCityState_Town_Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>16981</Title>
+            <NotificationMainIconAsset>1010520</NotificationMainIconAsset>
+            <Icon01>100586</Icon01>
+            <Icon02>1010288</Icon02>
+            <Icon03>1010519</Icon03>
+            <Icon04>1010522</Icon04>
+            <BackgroundAnimation>data\ui\video\ui_alpha\main_banner\mainbanner_city_shipyard_a.bk2</BackgroundAnimation>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>16984</NotificationText>
+            <NotificationAudioAsset>201837</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>76</PortraitName>
+      <PortraitColor>-12806521</PortraitColor>
+    </Portrait>
+    <Standard>
+      <GUID>100670</GUID>
+      <Name>3rd_party_04 (Toussaint La Fortune)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_04.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/3rd_party_04/3rd_party_04.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

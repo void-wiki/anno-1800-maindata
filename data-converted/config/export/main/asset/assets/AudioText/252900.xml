@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Toppled by a pawn.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12893</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231495</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252900</GUID>
+      <Name>AT_ai09_PlyrDestroysNpcStructure1</Name>
+    </Standard>
+  </Values>
+</Asset>

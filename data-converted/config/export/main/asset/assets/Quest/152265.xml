@@ -1,0 +1,160 @@
+<Asset>
+  <Template>Quest</Template>
+  <Values>
+    <Standard>
+      <GUID>152265</GUID>
+      <Name>PietSmiet_PubNight</Name>
+    </Standard>
+    <Quest>
+      <OnQuestEnd>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionDeleteObjects</Template>
+                  <Values>
+                    <Action />
+                    <ActionDeleteObjects />
+                    <ObjectFilter>
+                      <ObjectGUID>102415</ObjectGUID>
+                      <ObjectSession>180023</ObjectSession>
+                    </ObjectFilter>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnQuestEnd>
+      <QuestGiver>89</QuestGiver>
+      <StoryText>17205</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <MaxAbortCount>1</MaxAbortCount>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <QuestActivation>ManualActivation</QuestActivation>
+      <IsAbortable>1</IsAbortable>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>17212</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102415</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>89</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Gang Reunited</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23422</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192441</Reward>
+          <Amount>1</Amount>
+          <IsDisguised>1</IsDisguised>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>PicturePuzzleObjective</Template>
+            <Values>
+              <ConditionQuestPicturePuzzle>
+                <PicturePuzzleObjects>
+                  <Item>
+                    <Object>103051</Object>
+                    <Amount>1</Amount>
+                    <Context>
+                      <SpawnArea>
+                        <Template>QuestSpawnArea</Template>
+                        <Values>
+                          <SpawnArea>
+                            <SpawnContext>Object</SpawnContext>
+                            <ContextGUID>1010358</ContextGUID>
+                            <ContextMarkerName>quest_spawn_0</ContextMarkerName>
+                            <LimitToQuestArea>1</LimitToQuestArea>
+                          </SpawnArea>
+                        </Values>
+                      </SpawnArea>
+                    </Context>
+                  </Item>
+                </PicturePuzzleObjects>
+              </ConditionQuestPicturePuzzle>
+              <ConditionQuestObjective />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectPrebuiltObject</Template>
+              <Values>
+                <ConditionObjectPrebuiltObject>
+                  <PrebuiltObject>102415</PrebuiltObject>
+                </ConditionObjectPrebuiltObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective>
+            <ObjectiveSignsAndFeedback>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>501006</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </ObjectiveSignsAndFeedback>
+          </ConditionQuestObjective>
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

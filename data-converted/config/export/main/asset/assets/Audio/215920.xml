@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>215920</GUID>
+      <Name>wwe_sfx_aui_bld_start_street_cobble</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>810</DurationMinimum>
+          <DurationMaximum>810</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>170</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3459944346</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

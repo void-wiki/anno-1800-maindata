@@ -1,0 +1,60 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>192005</GUID>
+      <Name>Iron Chain Shots</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_chainshot_1.png</IconFilename>
+      <InfoDescription>19588</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <MouseEffect>500992</MouseEffect>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ItemAction>NOACTION</ItemAction>
+      <ActionScope>Self</ActionScope>
+      <ActionDistance>10</ActionDistance>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <Charges>3</Charges>
+      <ActionDuration>20000</ActionDuration>
+      <ActiveBuff>192453</ActiveBuff>
+      <ActionDescription>22097</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <ExclusiveGroup>AutoAttackProjectile</ExclusiveGroup>
+      <TradePrice>10000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Chain Shots</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26867</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>4</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19588</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <CraftableItem />
+  </Values>
+</Asset>

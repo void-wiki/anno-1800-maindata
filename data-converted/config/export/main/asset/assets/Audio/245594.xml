@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245594</GUID>
+      <Name>Play_AI_EXPLO_BASIC_C2ZGW_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1097</DurationMinimum>
+          <DurationMaximum>2274</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>641</DurationMinimum>
+          <DurationMaximum>2160</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>836</DurationMinimum>
+          <DurationMaximum>2322</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1077</DurationMinimum>
+          <DurationMaximum>2090</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2286264349</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

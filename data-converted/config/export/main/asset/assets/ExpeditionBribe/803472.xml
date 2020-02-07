@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>803472</GUID>
+      <Name>The Mascarade 1.1.a</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The costumier waits, hands on hips, her face pale and smooth with crème céleste.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32641</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>22258</TraderName>
+      <FollowupSuccessOption>803473</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>803474</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>2500</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

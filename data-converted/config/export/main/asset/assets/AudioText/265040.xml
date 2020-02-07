@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Edvard’s charges against us are pure fabrication! The man is an impostor!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15578</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236483</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265040</GUID>
+      <Name>resident_tier5_EdvardsPrisoners_03</Name>
+    </Standard>
+  </Values>
+</Asset>

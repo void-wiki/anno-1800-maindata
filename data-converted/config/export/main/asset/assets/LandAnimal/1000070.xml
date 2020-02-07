@@ -1,0 +1,32 @@
+<Asset>
+  <Template>LandAnimal</Template>
+  <Values>
+    <Standard>
+      <GUID>1000070</GUID>
+      <Name>donkey</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/donkey/donkey.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/donkey/donkey_brown.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/donkey/donkey_light_brown.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <SpecialMovementType />
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

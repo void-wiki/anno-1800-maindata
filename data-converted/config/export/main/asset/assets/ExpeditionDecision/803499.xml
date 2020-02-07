@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803499</GUID>
+      <Name>The Mascarade 1.2.1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803488</Option>
+        </Item>
+        <Item>
+          <Option>803491</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"No, no," one of the doormen shakes his head,&lt;/b&gt; "the Prince of Monégasque would not accept such a donation. I am under strict instructions only to admit those in suitable costume." &lt;b&gt;It seems you'll have to settle for a less fashionable route.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32669</LineID>
+    </Text>
+  </Values>
+</Asset>

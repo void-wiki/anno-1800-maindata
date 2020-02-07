@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802092</GUID>
+      <Name>Cut or Lift 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The vague idea of a lever never becomes real.&lt;/b&gt; The sailors try to lift the mizzenmast by rolling logs underneath, but the huge wooden pole is far too heavy for its rolling movement to be controlled. The mast lurches forward and rolls from the sailor's leg to his chest, pushing his insides out. The view stays with the sailors for days before they can finally reach a decent harbour, get rid of the broken mast, and clean up the grisly mess underneath.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21691</LineID>
+    </Text>
+  </Values>
+</Asset>

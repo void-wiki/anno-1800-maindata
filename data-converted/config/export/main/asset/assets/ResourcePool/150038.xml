@@ -1,0 +1,18 @@
+<Asset>
+  <Template>ResourcePool</Template>
+  <Values>
+    <Standard>
+      <GUID>150038</GUID>
+      <Name>MoneyPool</Name>
+    </Standard>
+    <ResourceRewardPool>
+      <PossibleRewards>
+        <Item>
+          <Resource>1010017</Resource>
+          <Amount>1</Amount>
+        </Item>
+      </PossibleRewards>
+    </ResourceRewardPool>
+    <Locked />
+  </Values>
+</Asset>

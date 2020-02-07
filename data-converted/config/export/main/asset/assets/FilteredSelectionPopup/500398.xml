@@ -1,0 +1,34 @@
+<Asset>
+  <Template>FilteredSelectionPopup</Template>
+  <Values>
+    <Standard>
+      <GUID>500398</GUID>
+      <Name>FilteredSelectionPopup</Name>
+      <ID>FilteredSelectionPopup</ID>
+    </Standard>
+    <FilteredSelectionPopup>
+      <ShipFilterTexts>
+        <None>
+          <Text>11427</Text>
+        </None>
+        <Idle>
+          <Text>3105</Text>
+        </Idle>
+        <Session>
+          <Text>3106</Text>
+        </Session>
+        <Available>
+          <Text>3104</Text>
+        </Available>
+      </ShipFilterTexts>
+      <KontorFilterTexts>
+        <None>
+          <Text>12482</Text>
+        </None>
+        <Session>
+          <Text>12481</Text>
+        </Session>
+      </KontorFilterTexts>
+    </FilteredSelectionPopup>
+  </Values>
+</Asset>

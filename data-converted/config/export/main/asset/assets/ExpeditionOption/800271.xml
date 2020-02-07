@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800271</GUID>
+      <Name>The Ghost Ship 1.3.2.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Turn and face it, whatever it is!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5549</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Might</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800274</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+          <ThresholdValue>90</ThresholdValue>
+        </Item>
+        <Item>
+          <Decision>800275</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+          <ThresholdValue>60</ThresholdValue>
+        </Item>
+        <Item>
+          <Decision>800276</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

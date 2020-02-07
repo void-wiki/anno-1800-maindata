@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20066</GUID>
+      <Name>Player disconnected</Name>
+      <ID>PlayerDisconnected</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Online PlayerName([Popup RefGUID])] was disconnected.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29191</LineID>
+    </Text>
+  </Values>
+</Asset>

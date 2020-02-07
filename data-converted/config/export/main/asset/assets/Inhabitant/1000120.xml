@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>1000120</GUID>
+      <Name>residence_tier03_small_m_01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/residents/residence_tier03_small_m_01/residence_tier03_small_m_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/residents/residence_tier03_small_m_01/residence_tier03_small_m_with_balloon_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/residents/residence_tier03_small_m_01/residence_tier03_small_m_with_horse_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction>
+      <UnitNightBehavior>OnlyShowAtDay</UnitNightBehavior>
+    </DayNightReaction>
+  </Values>
+</Asset>

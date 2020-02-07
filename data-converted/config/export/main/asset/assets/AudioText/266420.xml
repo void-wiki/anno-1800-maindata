@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>—And what, grandpa? Get with the program. The Anno series has its best moments behind it. The Jørgensens, on the other hand, are rising stars in the strategy universe. Rumour has it Ubisoft already plans a whole new franchise, with me at the helm.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16786</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232940</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_11</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266420</GUID>
+      <Name>AT_ai01_Credits06</Name>
+    </Standard>
+  </Values>
+</Asset>

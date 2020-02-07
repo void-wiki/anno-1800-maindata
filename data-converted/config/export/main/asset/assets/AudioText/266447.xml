@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Poppycock! Don’t be such a prude. How do you know I haven’t been wearing a tutu all along? You only ever see my top-half in-game.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17033</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233125</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_19</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266447</GUID>
+      <Name>AT_ai07_Credits03</Name>
+    </Standard>
+  </Values>
+</Asset>

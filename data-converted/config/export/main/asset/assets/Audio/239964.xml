@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239964</GUID>
+      <Name>wwe_voc_mur_jornalero_happy</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1784</DurationMinimum>
+          <DurationMaximum>21275</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1806</DurationMinimum>
+          <DurationMaximum>20097</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1873</DurationMinimum>
+          <DurationMaximum>21139</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1670</DurationMinimum>
+          <DurationMaximum>21087</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3591821192</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Princess Qing is itching to betray her Imperialist heritage, I can sense it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30437</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204181</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109805</GUID>
+      <Name>AT_ai10_IdleMessageGossip_Qing</Name>
+    </Standard>
+  </Values>
+</Asset>

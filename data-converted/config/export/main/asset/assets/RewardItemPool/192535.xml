@@ -1,0 +1,37 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192535</GUID>
+      <Name>Third_party_02 (Archibald Blake) Common Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_1.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192697</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192708</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192804</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192652</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192667</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192647</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193697</ItemLink>
+          <Weight>11</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

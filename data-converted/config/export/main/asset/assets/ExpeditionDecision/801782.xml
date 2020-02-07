@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801782</GUID>
+      <Name>The Infiltration 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801783</Option>
+        </Item>
+        <Item>
+          <Option>801786</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's some progress at first&lt;/b&gt;; the fence is climbed, the house draws near. But the weakness of your scout's chosen route suddenly becomes apparent. They find themselves in an exposed part of the garden, if they dwell any longer they'll be caught. &lt;b&gt;What would you have them do?&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21209</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>203689</GUID>
+      <Name>ST_mus_3rd_factor</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>1528490306</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>203687</Choice>
+        </Item>
+        <Item>
+          <Choice>203688</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

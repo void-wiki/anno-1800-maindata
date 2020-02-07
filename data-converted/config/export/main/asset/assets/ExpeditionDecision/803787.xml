@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803787</GUID>
+      <Name>The snake bite 1.1.2.1.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803788</Option>
+        </Item>
+        <Item>
+          <Option>803791</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The doctor has absolutely no idea what the bottle contains. It is not banana for sure, but it doesn't mean it is poison. It's part of the cook's supplies but it doesn't prove he is involved.</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

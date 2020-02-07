@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190512</GUID>
+      <Name>roman mosaic</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_corinthian_mosaik_1.png</IconFilename>
+      <InfoDescription>10629</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Imperial Eagle Mosaic</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15048</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Epic</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>191130</ItemSet>
+      <TradePrice>210000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100932</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>20</BaseMorale>
+      <ItemRegions>NorthAfrica;SouthernEurope;CentralEurope</ItemRegions>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

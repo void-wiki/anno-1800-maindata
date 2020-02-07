@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800467</GUID>
+      <Name>Love Island</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Love Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5590</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800029</EventThreat>
+      <StartDecision>800468</StartDecision>
+      <EventMusicChoice>226706</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>226680</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

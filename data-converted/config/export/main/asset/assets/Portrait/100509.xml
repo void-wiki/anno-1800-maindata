@@ -1,0 +1,41 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/resident_tier05.portraitcamleft</CamFile>
+        </Left>
+        <Right>
+          <CamFile>data/config/portraitcam/resident_tier05.portraitcamright</CamFile>
+        </Right>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/resident_tier05.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/resident_tier05.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>100509</GUID>
+      <Name>Investor</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier05.png</IconFilename>
+      <ID>Investor</ID>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/residents/resident_tier05/resident_tier05.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

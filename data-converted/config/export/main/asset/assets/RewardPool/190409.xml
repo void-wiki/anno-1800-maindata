@@ -1,0 +1,36 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190409</GUID>
+      <Name>Specialists Visits 14</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_109.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193230</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193231</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193232</ItemLink>
+          <Weight>45</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193233</ItemLink>
+          <Weight>35</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192975</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

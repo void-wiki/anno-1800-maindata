@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>9818387</GUID>
+      <Name>wwe_sfx_aui_deny</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1199</DurationMinimum>
+          <DurationMaximum>1199</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>170</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>823995167</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

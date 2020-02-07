@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192573</GUID>
+      <Name>Third_party_07 (Eli Bleakworth) Forced Voluntary Reward</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_jewelry.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190961</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192568</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192569</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192570</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192571</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192572</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

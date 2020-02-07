@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>237</PortraitName>
+      <PortraitColor>-4549255</PortraitColor>
+    </Portrait>
+    <Standard>
+      <GUID>101019</GUID>
+      <Name>Third_party_11 (Inuit)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/inuit_trader.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/portrait/inuit_trader/inuit_trader.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <DLCDependency>410042</DLCDependency>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

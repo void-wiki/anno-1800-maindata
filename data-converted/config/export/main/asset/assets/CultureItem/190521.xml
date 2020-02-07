@@ -1,0 +1,47 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190521</GUID>
+      <Name>copper coins</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_coin_common.png</IconFilename>
+      <InfoDescription>10636</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Rusty Sestertius</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14996</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <ItemType>Normal</ItemType>
+      <TradePrice>6700</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010481</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>12867</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

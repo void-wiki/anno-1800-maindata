@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802368</GUID>
+      <Name>The Mayan Map 1.2.1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The whole roof seems to give way!&lt;/b&gt; Perhaps they should have thought to secure the ceiling first, because as they move a large stone, a primeval bellow comes from above. "Run! RUN!" is the cry, as they all rush out. When the noise subsides, the passage is discovered sealed. In any case, there are some who have been injured by the falling debris, and must urgently be taken to a doctor.   </Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20988</LineID>
+    </Text>
+  </Values>
+</Asset>

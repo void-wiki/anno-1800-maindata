@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802576</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802607</Option>
+        </Item>
+        <Item>
+          <Option>802578</Option>
+        </Item>
+        <Item>
+          <Option>802579</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The thieves passed through these hills only recently.&lt;/b&gt; Weaving between the lagoons, reading prints, snapped twigs and all the rest, your hunting party finally spies the distant trio of varmints scaling a barren incline towards a farmstead. "We've got 'em now!" they say, but arriving at the isolated ranch, the rancher has bad news. "They gone stole my horses!" &lt;b&gt;Seems there's no hope of catching them on foot.&lt;/b&gt; "I 'preciate you trying to catch those sinners, but I can't let any more of these here beauties go for free! Unless you want to try an' buck a wild one..."</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21650</LineID>
+    </Text>
+  </Values>
+</Asset>

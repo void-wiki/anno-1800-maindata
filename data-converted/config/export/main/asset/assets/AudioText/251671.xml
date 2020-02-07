@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are generous with yer islands, don't mind if do!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2605</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215694</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251671</GUID>
+      <Name>AT_ai03_NpcAcquiresIslandFromPlyr2</Name>
+    </Standard>
+  </Values>
+</Asset>

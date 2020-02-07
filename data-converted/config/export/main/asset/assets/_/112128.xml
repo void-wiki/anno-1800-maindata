@@ -1,0 +1,48 @@
+<Asset>
+  <BaseAssetGUID>1010361</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>112128</GUID>
+      <Name>service_05 (Cabaret) - Mercier</Name>
+    </Standard>
+    <Building />
+    <Blocking />
+    <Cost />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/dm/graphics/quest/quest_buildings/mercier_service_05/mercier_service_05.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text />
+    <Constructable />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <LogisticNode />
+    <PublicService />
+    <AmbientMoodProvider />
+    <Maintenance />
+    <Attackable />
+    <Pausable />
+    <IncidentInfectable />
+    <Electric />
+    <Culture />
+  </Values>
+</Asset>

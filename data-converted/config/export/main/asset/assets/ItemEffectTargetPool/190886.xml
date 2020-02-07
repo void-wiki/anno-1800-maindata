@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190886</GUID>
+      <Name>All quarries</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Quarries</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15257</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010310</GUID>
+        </Item>
+        <Item>
+          <GUID>1010560</GUID>
+        </Item>
+        <Item>
+          <GUID>100416</GUID>
+        </Item>
+        <Item>
+          <GUID>1010309</GUID>
+        </Item>
+        <Item>
+          <GUID>101303</GUID>
+        </Item>
+        <Item>
+          <GUID>101267</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>25000160</GUID>
+      <Name>GenericOnScreenNotification</Name>
+      <ID>GenericOnScreenNotification</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>OnScreenNotification</Template>
+        <Values>
+          <OnScreenNotification />
+          <BaseNotification />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

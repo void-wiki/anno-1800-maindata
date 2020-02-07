@@ -1,0 +1,46 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112612</GUID>
+      <Name>Giant Water Lily</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_giant_water_lily.png</IconFilename>
+      <InfoDescription>112764</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Giant Water Lily</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33131</LineID>
+    </Text>
+    <Item>
+      <Allocation>BotanicGarden</Allocation>
+      <Rarity>Rare</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>193653</ItemSet>
+      <TradePrice>99000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>112610</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemRegions>SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>112764</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

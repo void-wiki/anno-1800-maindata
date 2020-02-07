@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500554</GUID>
+      <Name>OtherShare_OtherIsland_CanStartTakeover</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_takeover_small.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501358</IconAsset>
+            <NotificationSideTitle>10427</NotificationSideTitle>
+            <FilterType>HostileTakeover</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>10415</NotificationText>
+            <NotificationAudioAsset>9818749</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

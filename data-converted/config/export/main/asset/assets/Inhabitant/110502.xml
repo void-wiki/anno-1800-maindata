@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>110502</GUID>
+      <Name>quest_worker_m</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/quest/new_quest_units/quest_workers/quest_worker_m_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dm/graphics/quest/new_quest_units/quest_workers/quest_worker_m_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dm/graphics/quest/new_quest_units/quest_workers/quest_worker_m_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

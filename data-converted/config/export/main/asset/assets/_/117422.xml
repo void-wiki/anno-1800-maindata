@@ -1,0 +1,33 @@
+<Asset>
+  <BaseAssetGUID>77</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>117422</GUID>
+      <Name>Third_party_06b (Old Nate Arctic)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_06_new.png</IconFilename>
+    </Standard>
+    <Text />
+    <Profile>
+      <ParticipantID>Third_party_06b_Nate_Arctic</ParticipantID>
+      <IsChildProfile>1</IsChildProfile>
+      <IsChildOf>Third_party_06_Nate</IsChildOf>
+    </Profile>
+    <Diplomacy />
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Third_party_06b_Nate_Arctic</DefaultParticipant>
+    </Object>
+    <ThirdParty>
+      <AllowedRegions>Arctic</AllowedRegions>
+    </ThirdParty>
+    <ParticipantMessageObject>
+      <ParticipantMessages>117423</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <ItemCrafter />
+    <Trader>
+      <ProvidesShipReplacements>None</ProvidesShipReplacements>
+    </Trader>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,18 @@
+<Template>
+  <Name>InfluenceTitleBuff</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <VehicleUpgrade />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <CultureUpgrade />
+    <ItemEffect />
+    <BuildingUpgrade />
+    <NewspaperUpgrade>
+      <NewspaperArticleModifier>1</NewspaperArticleModifier>
+    </NewspaperUpgrade>
+    <Locked />
+    <DistributionUpgrade />
+  </Properties>
+</Template>

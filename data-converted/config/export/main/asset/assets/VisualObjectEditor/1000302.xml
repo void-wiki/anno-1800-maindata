@@ -1,0 +1,41 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>1000302</GUID>
+      <Name>CFG Fog</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_001.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_002.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_003.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_004.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_005.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_006.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_007.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_008.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/particles/fog/fog_009.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+  </Values>
+</Asset>

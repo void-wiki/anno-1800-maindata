@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We're quite out of energy!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11300</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222462</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260603</GUID>
+      <Name>AT_res_tier03_ProductionHasNoElectricity1</Name>
+    </Standard>
+  </Values>
+</Asset>

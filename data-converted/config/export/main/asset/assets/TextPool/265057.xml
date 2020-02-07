@@ -1,0 +1,51 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>265057</GUID>
+      <Name>Pool_3rdParty02_WelcomeChapter1</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionIsCampaign</Template>
+        <Values>
+          <ConditionPropsNegatable />
+          <ConditionIsCampaign />
+          <Condition />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>150810</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextGroups>
+        <Item>
+          <Group>392427295</Group>
+        </Item>
+        <Item>
+          <Group>1180219215</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

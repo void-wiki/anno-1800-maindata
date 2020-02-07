@@ -1,0 +1,20 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>1003294</GUID>
+      <Name>snow blowing</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/environment/snow_blowing.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

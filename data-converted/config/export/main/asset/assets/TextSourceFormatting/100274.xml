@@ -1,0 +1,138 @@
+<Asset>
+  <Template>TextSourceFormatting</Template>
+  <Values>
+    <Standard>
+      <GUID>100274</GUID>
+      <Name>TextSourceFormatting</Name>
+      <ID>TextSourceFormatting</ID>
+    </Standard>
+    <TextSourceFormatting>
+      <Styles>
+        <Item>
+          <Name>tradegood</Name>
+          <Format>unit &gt;&gt; sign &gt;&gt; abscolor &gt;&gt; decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>storagegood</Name>
+          <Format>unit &gt;&gt; decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>storagegoodM</Name>
+          <Format>unit &gt;&gt; decimals(0) &gt;&gt; formatM</Format>
+        </Item>
+        <Item>
+          <Name>time</Name>
+          <Format>time(hh:MM:SS)</Format>
+        </Item>
+        <Item>
+          <Name>percentage</Name>
+          <Format>percentage &gt;&gt; decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>percentageSigned</Name>
+          <Format>percentage &gt;&gt; sign &gt;&gt; decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>percentageRounded</Name>
+          <Format>percentage &gt;&gt; decimals(-1)</Format>
+        </Item>
+        <Item>
+          <Name>workforce</Name>
+          <Format>decimals(0) &gt;&gt; sign</Format>
+        </Item>
+        <Item>
+          <Name>workforce_no_sign</Name>
+          <Format>decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>balance</Name>
+          <Format>decimals(0) &gt;&gt; sign</Format>
+        </Item>
+        <Item>
+          <Name>balance10K</Name>
+          <Format>decimals(0) &gt;&gt; sign &gt;&gt; format10K</Format>
+        </Item>
+        <Item>
+          <Name>dps</Name>
+          <Format>unit &gt;&gt; decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>newspaperMoodPreview</Name>
+          <Format>sign &gt;&gt; abscolor</Format>
+        </Item>
+        <Item>
+          <Name>newspaperMood</Name>
+          <Format>sign</Format>
+        </Item>
+        <Item>
+          <Name>newspaperTotalMood</Name>
+          <Format>sign &gt;&gt; color(0xFF111111)</Format>
+        </Item>
+        <Item>
+          <Name>unsignedInt</Name>
+          <Format>decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>float</Name>
+          <Format>decimals(2)</Format>
+        </Item>
+        <Item>
+          <Name>maintenance</Name>
+          <Format>sign &gt;&gt; decimals(0) &gt;&gt; invert</Format>
+        </Item>
+        <Item>
+          <Name>stress</Name>
+          <Format>sign &gt;&gt; percentage &gt;&gt; decimals(0) &gt;&gt; invert</Format>
+        </Item>
+        <Item>
+          <Name>happiness</Name>
+          <Format>decimals(0) &gt;&gt; sign</Format>
+        </Item>
+        <Item>
+          <Name>moneyValue</Name>
+          <Format>sign &gt;&gt; decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>sellShipPrice</Name>
+          <Format>invert</Format>
+        </Item>
+        <Item>
+          <Name>incidentChance</Name>
+          <Format>decimals(1)</Format>
+        </Item>
+        <Item>
+          <Name>healthpoint</Name>
+          <Format>decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>productDelta</Name>
+          <Format>sign &gt;&gt; decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>knots</Name>
+          <Format>multiply(2) &gt;&gt; decimals(1)</Format>
+        </Item>
+        <Item>
+          <Name>reputation</Name>
+          <Format>sign &gt;&gt; decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>expeditionSuccessChance</Name>
+          <Format>decimals(0)</Format>
+        </Item>
+        <Item>
+          <Name>constrTimeNewspaper</Name>
+          <Format>sign &gt;&gt; invert</Format>
+        </Item>
+        <Item>
+          <Name>percentageInvert</Name>
+          <Format>percentage &gt;&gt; decimals(0) &gt;&gt; invert &gt;&gt; sign</Format>
+        </Item>
+        <Item>
+          <Name>commonUnit</Name>
+          <Format>unit</Format>
+        </Item>
+      </Styles>
+    </TextSourceFormatting>
+  </Values>
+</Asset>

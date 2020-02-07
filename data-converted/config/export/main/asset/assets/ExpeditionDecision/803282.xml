@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803282</GUID>
+      <Name>The Haunted Mansion 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803283</Option>
+        </Item>
+        <Item>
+          <Option>803295</Option>
+        </Item>
+        <Item>
+          <Option>803298</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The first mate's tremulous voice returns no answer&lt;/b&gt; but its own echo, somehow distorted and corrupted by the castle walls. Can it be, that whatever now inhabits this place, no longer has the power to speak? Or perhaps it is merely biding its time...</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26280</LineID>
+    </Text>
+  </Values>
+</Asset>

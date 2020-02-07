@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>141569</GUID>
+      <Name>CampaignSEPicture_Blasting</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/blasting_finished.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/blasting_finished.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/blasting_finished.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets16/newspaper/special_edition/blasting_finished.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

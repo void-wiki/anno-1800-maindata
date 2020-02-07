@@ -1,0 +1,60 @@
+<Asset>
+  <BaseAssetGUID>100440</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>111201</GUID>
+      <Name>QO Liner (Military) Mercier The Hunt</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking>
+      <ForwardSpeed>2</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31780</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable />
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

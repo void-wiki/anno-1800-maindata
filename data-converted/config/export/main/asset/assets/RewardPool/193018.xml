@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193018</GUID>
+      <Name>Machines - Farmer Machines - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190858</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190861</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190871</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190904</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190875</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

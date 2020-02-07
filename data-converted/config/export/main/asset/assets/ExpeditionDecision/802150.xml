@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802150</GUID>
+      <Name>Selfless Deeds 1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802152</Option>
+        </Item>
+        <Item>
+          <Option>802153</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The bandits don't know what hit them.&lt;/b&gt; Using the element of surprise to their advantage, your sailors break into the camp and stifle the children's escorts before they can call for help. They hush the kids and squat behind what few bushes offer protection, monitoring the other bandits. The attack wasn't noticed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21006</LineID>
+    </Text>
+  </Values>
+</Asset>

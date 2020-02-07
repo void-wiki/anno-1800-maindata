@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Er...I’m not sure if her Majesty would approve. Perhaps over tea at the palace we could discuss your designs and—</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16483</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234432</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_10</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266486</GUID>
+      <Name>AT_3rdParty02_Credits_05</Name>
+    </Standard>
+  </Values>
+</Asset>

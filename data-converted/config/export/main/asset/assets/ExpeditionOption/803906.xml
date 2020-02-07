@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803906</GUID>
+      <Name>Blizzard 1.1.3.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Risk finding a climbing aid</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34875</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Crafting</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803907</Decision>
+          <Threshold>LossMediumThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>803908</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>140084</GUID>
+      <Name>VillageRiot</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_small_02.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_medium_02.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_big_02.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets/newspaper_article_bg/article_big_02.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

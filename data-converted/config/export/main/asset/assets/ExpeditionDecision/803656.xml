@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803656</GUID>
+      <Name>Devil snare 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803657</Option>
+        </Item>
+        <Item>
+          <Option>803670</Option>
+        </Item>
+        <Item>
+          <Option>803678</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sound of a human scream alarms your expedition&lt;/b&gt; as they pass through a small forest village. Good conscience obliges them to investigate, either &lt;b&gt;openly&lt;/b&gt; or &lt;b&gt;in secret,&lt;/b&gt; unless of course they feel it &lt;b&gt;best not to interfere&lt;/b&gt; in local affairs.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34350</LineID>
+    </Text>
+  </Values>
+</Asset>

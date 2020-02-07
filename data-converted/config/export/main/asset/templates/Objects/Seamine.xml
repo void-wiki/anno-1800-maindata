@@ -1,0 +1,22 @@
+<Template>
+  <Name>Seamine</Name>
+  <Properties>
+    <Standard />
+    <Object />
+    <Mesh>
+      <UnderwaterOutlineIfOwnedOrAllianceMember>1</UnderwaterOutlineIfOwnedOrAllianceMember>
+    </Mesh>
+    <Seamine />
+    <Exploder />
+    <Projectile />
+    <Selection>
+      <DetectionCfg>data/dlc01/graphics/effects/particles/sonar_radar/mine_detected_01.cfg</DetectionCfg>
+      <DetectionToken>501779</DetectionToken>
+      <OnlySelectableForOwnerAndAllianceMembers>1</OnlySelectableForOwnerAndAllianceMembers>
+    </Selection>
+    <Text />
+    <Attackable>
+      <DisableGettingAutoAttacked>1</DisableGettingAutoAttacked>
+    </Attackable>
+  </Properties>
+</Template>

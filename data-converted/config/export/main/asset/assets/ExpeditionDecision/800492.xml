@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800492</GUID>
+      <Name>Love Island 1.3.3.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800494</Option>
+        </Item>
+        <Item>
+          <Option>800495</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Careful diplomacy has him thinking twice.&lt;/b&gt; Perhaps there is a way for the crew to prove themselves. A lean champion steps forward. Fighting him may impress the king, or else you can try and outhunt him.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5610</LineID>
+    </Text>
+  </Values>
+</Asset>

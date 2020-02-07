@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The enemy is anyone who isn't your friend!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17114</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234460</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252909</GUID>
+      <Name>AT_ai09_NpcDefeatsNpcFriend1</Name>
+    </Standard>
+  </Values>
+</Asset>

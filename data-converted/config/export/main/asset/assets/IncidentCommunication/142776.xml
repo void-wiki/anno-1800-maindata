@@ -1,0 +1,19 @@
+<Asset>
+  <Template>IncidentCommunication</Template>
+  <Values>
+    <Standard>
+      <GUID>142776</GUID>
+      <Name>FireArctic_BombardmentCommunication</Name>
+    </Standard>
+    <IncidentCommunication>
+      <IncidentPamsyTriggers>
+        <Item>
+          <InfectedAreaSize>27</InfectedAreaSize>
+          <PaMSyTrigger>IncidentStart</PaMSyTrigger>
+          <PaMSyContextAsset>2001025</PaMSyContextAsset>
+        </Item>
+      </IncidentPamsyTriggers>
+      <IncidentMusicType>Fire</IncidentMusicType>
+    </IncidentCommunication>
+  </Values>
+</Asset>

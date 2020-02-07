@@ -1,0 +1,66 @@
+<Asset>
+  <Template>FeedbackVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>100432</GUID>
+      <Name>Tourism Ship 01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/tourism_ship_01/tourism_ship_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <DefaultParticipant>Human0</DefaultParticipant>
+    </Object>
+    <Mesh />
+    <Selection>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <ReservationLength>16</ReservationLength>
+      <ReservationWidth>6</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <TurnAroundRadius>5</TurnAroundRadius>
+      <Acceleration>1</Acceleration>
+      <Deceleration>1</Deceleration>
+      <TurnSpeed>30</TurnSpeed>
+      <TurnMovement>50</TurnMovement>
+      <LeaningMaxAngle>10</LeaningMaxAngle>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ferry</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>9818383</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>2.75</Length>
+      <Width>0.85</Width>
+      <FactorRotation>0.8</FactorRotation>
+    </Drifting>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+    </MinimapToken>
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController>
+      <DefaultFeedbackSequence>Work</DefaultFeedbackSequence>
+    </FeedbackController>
+  </Values>
+</Asset>

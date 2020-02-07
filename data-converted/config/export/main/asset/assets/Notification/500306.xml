@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500306</GUID>
+      <Name>IncidentEndIllness</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501365</IconAsset>
+            <NotificationSideTitle>3127</NotificationSideTitle>
+            <FilterType>Incidents</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>3128</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationGroup>IncidentIllness</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265182</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

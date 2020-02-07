@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803096</GUID>
+      <Name>Ghosts in the Ice 1.1.1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew promises to send help.&lt;/b&gt; They leave the stranded men after telling them of steam-powered icebreakers and expeditions versed in the art of rescuing people such as them, and the tales seem to satisfy their angst. Your sailors hope that the next harbour will indeed provide such saviours.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23442</LineID>
+    </Text>
+  </Values>
+</Asset>

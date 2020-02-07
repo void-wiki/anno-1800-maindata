@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Archie's mind is a lot sharper than he lets on.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12379</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230167</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261053</GUID>
+      <Name>AT_3rdParty08_IdleMessageGossip_Blake</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You lost control of one of your islands!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15834</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233946</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265244</GUID>
+      <Name>AT_Narrator_HostileTakeOver_Warning_OtherPlayerTakeoverIslandFromYou</Name>
+    </Standard>
+  </Values>
+</Asset>

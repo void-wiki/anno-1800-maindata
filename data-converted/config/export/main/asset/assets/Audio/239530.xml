@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239530</GUID>
+      <Name>wwe_sfx_bld_institution_01</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>15</MaxAttenuation>
+      <StopEvent>239531</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1869822926</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

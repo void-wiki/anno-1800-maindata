@@ -1,0 +1,58 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>116174</GUID>
+      <Name>Pulleys</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_pulleys.png</IconFilename>
+      <InfoDescription>117646</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Particularly Pull-y Pulley</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36233</LineID>
+    </Text>
+    <Item>
+      <Allocation>AirShip</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>678000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>116206</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade>
+      <LoadingSpeedUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </LoadingSpeedUpgrade>
+    </TradeShipUpgrade>
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

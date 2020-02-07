@@ -1,0 +1,112 @@
+<Template>
+  <Name>SlotFactoryBuilding7</Name>
+  <Properties>
+    <Standard>
+      <InfoDescription>11143</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildingType>Factory</BuildingType>
+      <BuildingCategoryName>100000</BuildingCategoryName>
+    </Building>
+    <Blocking>
+      <RemoveGrass>0</RemoveGrass>
+    </Blocking>
+    <Cost />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Production</GUIType>
+    </Selection>
+    <Text />
+    <Constructable>
+      <DestructionCategory>Production</DestructionCategory>
+    </Constructable>
+    <Locked />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+      </DestroySounds>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>203993</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+      <IncidentSounds>
+        <ExplosionOneShots>
+          <Item>
+            <Sound>203848</Sound>
+          </Item>
+        </ExplosionOneShots>
+      </IncidentSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <Factory7 />
+    <FactoryBase />
+    <LogisticNode />
+    <Slot>
+      <SnapsToSlot>1</SnapsToSlot>
+    </Slot>
+    <AmbientMoodProvider />
+    <Maintenance>
+      <ConsumerPriority>1</ConsumerPriority>
+    </Maintenance>
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+    </Attackable>
+    <Pausable>
+      <CanPauseManually>1</CanPauseManually>
+    </Pausable>
+    <IncidentInfectable>
+      <Infectable>
+        <Illness>
+          <Base>0</Base>
+          <Communication>IllnessIndustry</Communication>
+        </Illness>
+        <Fire>
+          <Communication>FireIndustry</Communication>
+        </Fire>
+        <Riot>
+          <Communication>RiotIndustry</Communication>
+          <InitiallySpreadToSameGUID>1</InitiallySpreadToSameGUID>
+        </Riot>
+        <Explosion>
+          <Communication>ExplosionIndustry</Communication>
+        </Explosion>
+      </Infectable>
+      <IncidentInfectionChanceFactors>
+        <Explosion>
+          <BaseChance>0.1</BaseChance>
+          <FactoryProductivityFactor>0.1</FactoryProductivityFactor>
+          <FactoryOvertimeFactor>0.1</FactoryOvertimeFactor>
+        </Explosion>
+      </IncidentInfectionChanceFactors>
+    </IncidentInfectable>
+    <Culture>
+      <CultureType>Factory</CultureType>
+    </Culture>
+    <Electric />
+  </Properties>
+</Template>

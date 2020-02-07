@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sarmento's last location is all we have. We need to plan our expedition route carefully. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17195</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233307</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266260</GUID>
+      <Name>advisor01_ExpeditionToSA_01</Name>
+    </Standard>
+  </Values>
+</Asset>

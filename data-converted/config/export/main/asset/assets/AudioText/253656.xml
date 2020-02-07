@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I once went undercover as a clown, and joined the circus! But when the balloon burst, my report was far too colourful to publish.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4041</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236223</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253656</GUID>
+      <Name>AT_Reporter_IdleMessageSelf3</Name>
+    </Standard>
+  </Values>
+</Asset>

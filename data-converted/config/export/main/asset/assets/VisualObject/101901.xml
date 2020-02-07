@@ -1,0 +1,50 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101901</GUID>
+      <Name>Burned Ruins</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/burned_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/burned_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/burned_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/burned_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/burned_05.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/burned_06.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/scorched_heap01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/scorched_soil_decal.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/scorched_soil_decal_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/scorched_heap02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/burned_ruins/burned_church_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

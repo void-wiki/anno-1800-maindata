@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I didn't know you liked fighting.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3002</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211160</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252077</GUID>
+      <Name>AT_ai01_MilitaryPlayerNegative3</Name>
+    </Standard>
+  </Values>
+</Asset>

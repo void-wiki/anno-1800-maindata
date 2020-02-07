@@ -1,0 +1,27 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>100732</GUID>
+      <Name>3rd_party_03_stair_04</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_03/3rd_party_03_stair_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_03/3rd_party_03_stair_04_left.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_03/3rd_party_03_stair_04_right.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <DefaultParticipant>Third_party_03_Pirate_Harlow</DefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

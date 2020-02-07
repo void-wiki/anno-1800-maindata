@@ -1,0 +1,47 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141047</GUID>
+      <Name>Propaganda No Effect 03</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>10964</Headline>
+      <Subline>10965</Subline>
+      <Image>142287</Image>
+      <NewsPriority>
+        <StartValue>1</StartValue>
+        <LossOnPublish>0</LossOnPublish>
+        <RecoveryByInterval>0</RecoveryByInterval>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Minimum>0</Minimum>
+        <Maximum>0</Maximum>
+      </NewsPriority>
+      <ArticleEffects>
+        <Item />
+      </ArticleEffects>
+      <EffectStrength>Strong</EffectStrength>
+      <InfluenceCosts>10</InfluenceCosts>
+      <Rating>Neutral</Rating>
+      <ArticleName>10874</ArticleName>
+    </NewspaperArticle>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+    </Locked>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>140540</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+      <AutoSelfUnlock>1</AutoSelfUnlock>
+    </TriggerSetup>
+  </Values>
+</Asset>

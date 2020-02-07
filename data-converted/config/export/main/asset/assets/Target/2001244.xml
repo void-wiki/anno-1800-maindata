@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>SET_RALLY_POINT</ActionID>
+      <PositionCheck>Always</PositionCheck>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer;CheckProperty</Flags>
+          <Property>Shipyard</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>Never</Flags>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Never</Flags>
+        </DisableMatch1>
+      </Matches>
+      <MouseCursorTarget>501558</MouseCursorTarget>
+      <MouseCursorDisable>2001299</MouseCursorDisable>
+      <MouseCursorMode>501558</MouseCursorMode>
+      <MouseCursorPosition>501558</MouseCursorPosition>
+      <MouseCursorPositionDisable>2001299</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>2001244</GUID>
+      <Name>SetRallyPoint</Name>
+      <ID>TargetRallyPoint</ID>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

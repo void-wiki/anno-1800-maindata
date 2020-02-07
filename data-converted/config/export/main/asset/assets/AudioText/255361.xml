@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I've heard enough to think better of you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7748</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217975</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255361</GUID>
+      <Name>AT_ai09_NPCReputationAutocorrectIncrease4</Name>
+    </Standard>
+  </Values>
+</Asset>

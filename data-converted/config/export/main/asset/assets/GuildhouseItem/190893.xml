@@ -1,0 +1,65 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190893</GUID>
+      <Name>Smith Electric Stove</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_stove_3.png</IconFilename>
+      <InfoDescription>15886</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Elmer's Electric Oven</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20247</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>239000</TradePrice>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>40</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190897</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade>
+      <WorkforceAmountUpgrade>
+        <Value>-25</Value>
+        <Percental>1</Percental>
+      </WorkforceAmountUpgrade>
+    </BuildingUpgrade>
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentFireIncreaseUpgrade>
+        <Value>-3</Value>
+      </IncidentFireIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

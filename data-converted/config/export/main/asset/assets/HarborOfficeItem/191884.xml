@@ -1,0 +1,65 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191884</GUID>
+      <Name>Gantry Repair Crane</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_construction_crane_2.png</IconFilename>
+      <InfoDescription>19731</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Gantry Repair Crane</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26814</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>81500</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191887</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19731</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade>
+      <HealRadiusUpgrade>
+        <Value>30</Value>
+        <Percental>1</Percental>
+      </HealRadiusUpgrade>
+    </RepairCraneUpgrade>
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

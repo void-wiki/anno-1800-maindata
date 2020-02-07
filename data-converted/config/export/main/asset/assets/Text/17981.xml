@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>17981</GUID>
+      <Name>Player changed team</Name>
+      <ID>PlayerChangedTeam</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Online PlayerName([NotificationContext Value(Peer) Int])] switched team to [Online PlayerTeam([NotificationContext Value(Peer) Int])]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>24786</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12194</GUID>
+      <Name>CQ310_ANewHome_ObjectiveText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Shelter:&lt;br/&gt;[AssetData([Conditions QuestCondition Context]) Text] [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] on La Isla </Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10373</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>That's my friend, you ill-mannered youth.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16886</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233300</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265557</GUID>
+      <Name>AT_ai04_NegativeInteraction_NPCsFriend2</Name>
+    </Standard>
+  </Values>
+</Asset>

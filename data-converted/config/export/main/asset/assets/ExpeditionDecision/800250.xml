@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800250</GUID>
+      <Name>Of Unsound Mind 1.5.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The officers react with disgust to your decision to toss him overboard,&lt;/b&gt; and state in no uncertain terms that the whole matter will be reported. But the sailors are quite obviously relieved that his demonic presence has been exorcised. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5750</LineID>
+    </Text>
+  </Values>
+</Asset>

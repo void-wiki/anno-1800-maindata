@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Queen is fond of me, and vice-versa. But her administration is a scandal! I demand a barony!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1610</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211604</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250316</GUID>
+      <Name>AT_ai07_IdleMessageGossip_Queen</Name>
+    </Standard>
+  </Values>
+</Asset>

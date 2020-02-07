@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802746</GUID>
+      <Name>Jolly Roger 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802747</Option>
+        </Item>
+        <Item>
+          <Option>802748</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Pirates!&lt;/b&gt; The torn black flag bearing skull and bones is a shock to those on your expedition who thought they were a dying breed. The weather-worn ship emerges from the mist with every confidence of plundering you to pieces. Astride her bow stands her colourful captain, axe raised, and along her rails, the spectral silhouette of her starving crew, hungry to feed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21502</LineID>
+    </Text>
+  </Values>
+</Asset>

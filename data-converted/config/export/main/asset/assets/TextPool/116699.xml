@@ -1,0 +1,52 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>116699</GUID>
+      <Name>Pool_Inuit_QuestSuccessful</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>264652</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264653</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264654</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264659</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264662</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264680</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264681</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264682</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>1697307084</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

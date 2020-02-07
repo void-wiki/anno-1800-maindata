@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800675</GUID>
+      <Name>The Seven-Year Itch 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800677</Option>
+        </Item>
+        <Item>
+          <Option>800678</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There are bedbugs everywhere!&lt;/b&gt; There must be something that can be done to exterminate these disc-bodied hangers-on!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5759</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803001</GUID>
+      <Name>Interrogation 1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803002</Option>
+        </Item>
+        <Item>
+          <Option>803003</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"You think I care about your stupid empire?!"&lt;/b&gt; curses Isabel, beckoning to two guards to tightly restrain you. "No sooner do we gain independence from La Corona, we receive an offer too-goo-to-be-true from an envoy of your Queen. An 'amazing prospect, Prosperity', he said, and at first it was." Isabel grunts and slams her bootknife into a barrel, from which wine spurts. "Now that island, our last hope of freedom, is overrun with these masks, these...twisted people, and their fire!" &lt;b&gt;She rushes at you, and forces your lips open for a better answer...&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23759</LineID>
+    </Text>
+  </Values>
+</Asset>

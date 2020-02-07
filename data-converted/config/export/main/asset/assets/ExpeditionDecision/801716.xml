@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801716</GUID>
+      <Name>The Investigation 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <InsertEvent>801808</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your attaché hits it off with the harbourmaster&lt;/b&gt;, presenting you (not entirely falsely) as a fellow port official sympathetic to the Pyrphorian problem in the region. "I am sick of it," says the Montoyan, "whenever they come here it is a nightmare for us! If you take will action, it will be my pleasure to assist." Out on the sun-baked rooftop he points upriver. "There, at the casona." A large verdant ranch wavers in the distance, the sanctuary of the Pyrphorians.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21145</LineID>
+    </Text>
+  </Values>
+</Asset>

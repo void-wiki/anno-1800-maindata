@@ -1,0 +1,37 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191928</GUID>
+      <Name>ExtinguisherGrenade lvl1</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_extinguisher_grenade_1.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>6000018</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hand-Blown Grenade</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26370</LineID>
+    </Text>
+    <BuildingUpgrade />
+    <Buff />
+    <PopulationUpgrade />
+    <ResidenceUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentFireIncreaseUpgrade>
+        <Value>-4</Value>
+      </IncidentFireIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <CultureUpgrade />
+  </Values>
+</Asset>

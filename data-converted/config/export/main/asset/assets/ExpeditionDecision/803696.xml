@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803696</GUID>
+      <Name>In Dangerous territory 1.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803697</Option>
+        </Item>
+        <Item>
+          <Option>803698</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men make themselves easy targets,&lt;/b&gt; desperately trying to pursue and isolate their adversaries, to no avail. As more of the feathery darts hit home, so does a realisation of their function. Whistles all around signal a surprise retreat, and those who have been hit begin to wheeze heavily, collapsing to the floor. &lt;b&gt;The darts are tipped with poison!&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33008</LineID>
+    </Text>
+  </Values>
+</Asset>

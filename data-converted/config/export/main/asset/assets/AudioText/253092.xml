@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The small flower wilts under heavy dew.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6021</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216635</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253092</GUID>
+      <Name>AT_ai02_NpcYieldsToPlayerThreat1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802033</GUID>
+      <Name>Tavern Troubles 1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;War anaesthetics are remarkably useful against small-time thugs.&lt;/b&gt; After a few rounds spent boasting their virile resistance to any kind of liquor, the crew notices the drop in attention of their opponents and their doctor seizes the opportunity, lacing the incoming mugs with just the right dosage of chloroform. The snoring hoodlums are delivered to the local authorities, who enjoy the unexpected present.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21734</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You've upset the established order.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13247</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230416</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256271</GUID>
+      <Name>AT_enemy02_NpcMakesThreat4</Name>
+    </Standard>
+  </Values>
+</Asset>

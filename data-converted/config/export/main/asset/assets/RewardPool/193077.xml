@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193077</GUID>
+      <Name>Specialists - Investor Specialists - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191577</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191619</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

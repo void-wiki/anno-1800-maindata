@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239974</GUID>
+      <Name>wwe_voc_mur_pirate_anne</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMaximum>21940</DurationMaximum>
+        </English>
+        <German>
+          <DurationMaximum>20593</DurationMaximum>
+        </German>
+        <French>
+          <DurationMaximum>21926</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMaximum>21726</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>743380981</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

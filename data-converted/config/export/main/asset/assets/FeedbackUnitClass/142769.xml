@@ -1,0 +1,18 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142769</GUID>
+      <Name>Woodcutters</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142771</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+      <UseSpecialPathPlannerLayer>1</UseSpecialPathPlannerLayer>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

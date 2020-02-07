@@ -1,0 +1,68 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191814</GUID>
+      <Name>Big Tourism Ad Campaign</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_rare.png</IconFilename>
+      <InfoDescription>19511</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Madame Kahina's Executive Tourism Drive</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27009</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ExclusiveGroup>TourismAdCampaign</ExclusiveGroup>
+      <TradePrice>258000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191563</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+    </BuildingUpgrade>
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade>
+      <SpawnProbabilityFactor>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </SpawnProbabilityFactor>
+    </VisitorHarborUpgrade>
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade />
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

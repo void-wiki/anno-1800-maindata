@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>235844</GUID>
+      <Name>wwe_sfx_com_big_bertha_impact_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>8909</DurationMinimum>
+          <DurationMaximum>12221</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>100</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3311850978</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

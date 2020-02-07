@@ -1,0 +1,77 @@
+<Asset>
+  <Template>Monument</Template>
+  <Values>
+    <Standard>
+      <GUID>101952</GUID>
+      <Name>CourtOfJustice_01_04</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_court_of_justice.png</IconFilename>
+      <InfoDescription>15535</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildingType>Other</BuildingType>
+      <BuildingCategoryName>100003</BuildingCategoryName>
+      <Destructable>0</Destructable>
+      <Movable>0</Movable>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs />
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/courthouse/courthouse_04.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Court of Justice</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25858</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <FactoryBase />
+    <LogisticNode>
+      <TransporterCountMax>0</TransporterCountMax>
+    </LogisticNode>
+    <Monument>
+      <UnfinishedIcon>500417</UnfinishedIcon>
+      <FinishedIcon>500421</FinishedIcon>
+      <ShutdownText>6783</ShutdownText>
+      <MonumentHeadline>101952</MonumentHeadline>
+      <BackgroundImage>
+        <Blueprint>data/ui/2kimages/main/assets16/monument_construction/monument_courtofjustice_06.png</Blueprint>
+      </BackgroundImage>
+      <ProgressbarHeight>160</ProgressbarHeight>
+    </Monument>
+    <Culture>
+      <Attractiveness>100</Attractiveness>
+    </Culture>
+    <AmbientMoodProvider />
+    <Maintenance>
+      <ConsumerPriorityAlarmed>2</ConsumerPriorityAlarmed>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>1000</MaximumHitPoints>
+    </Attackable>
+    <Pausable />
+    <IslandUnique />
+    <UpgradeList />
+    <Electric />
+    <QuestObject />
+  </Values>
+</Asset>

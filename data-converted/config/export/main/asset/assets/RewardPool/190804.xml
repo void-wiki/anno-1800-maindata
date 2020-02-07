@@ -1,0 +1,40 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190804</GUID>
+      <Name>Custom Officer Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010221</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010222</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010223</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010210</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>20</Weight>
+        </Item>
+      </ItemsPool>
+      <GenerateUniqueRewards>0</GenerateUniqueRewards>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

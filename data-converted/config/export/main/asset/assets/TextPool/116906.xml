@@ -1,0 +1,47 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>116906</GUID>
+      <Name>Pool_Inuit_OpenTradeMenu</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>264661</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264662</AudioText>
+        </Item>
+        <Item>
+          <AudioText>264669</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116412</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116413</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116414</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116415</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116416</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

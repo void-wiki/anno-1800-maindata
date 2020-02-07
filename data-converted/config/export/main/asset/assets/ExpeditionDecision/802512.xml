@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802512</GUID>
+      <Name>The Storm 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802521</Option>
+        </Item>
+        <Item>
+          <Option>802522</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You would have been better off with a windjammer.&lt;/b&gt; Navigating the ship through the storm proves trickier than expected, and the navigators' lack of familiarity with steam ships shows as they rely on the sails to maneuver, despite the ship's peculiar lack of a middle mast. It doesn't take long for the ship to protest against the poor handling. It yaws, and a loud rumble erupts from the hull: the ballast is unfastened!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21801</LineID>
+    </Text>
+  </Values>
+</Asset>

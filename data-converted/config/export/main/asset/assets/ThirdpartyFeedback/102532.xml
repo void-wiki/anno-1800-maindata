@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>102532</GUID>
+      <Name>colony01_3rdparty04_01_fb_02_transport_cave_barrel</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/colony01_3rdparty04_01/colony01_3rdparty04_01_fb_02/colony01_3rdparty04_01_fb_02.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController>
+      <NightBehavior>HideAll</NightBehavior>
+    </FeedbackController>
+  </Values>
+</Asset>

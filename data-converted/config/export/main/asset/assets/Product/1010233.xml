@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010233</GUID>
+      <Name>gold ore</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_gold_ore.png</IconFilename>
+      <InfoDescription>11770</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Gold Ore</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5373</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>625</BasePrice>
+      <CivLevel>4</CivLevel>
+      <AssociatedRegion>Colony01</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

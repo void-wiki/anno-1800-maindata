@@ -1,0 +1,32 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>190044</GUID>
+      <Name>Short Time Grain Fertility</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_happy.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010262</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Short Time Grain Fertility</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <FactoryUpgrade>
+      <AddedFertility>1010571</AddedFertility>
+    </FactoryUpgrade>
+    <BuildingUpgrade />
+    <Buff />
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I don't ever recall bowing to thugs.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6113</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216540</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253421</GUID>
+      <Name>AT_ai04_NpcRebuffsPlayerThreat1</Name>
+    </Standard>
+  </Values>
+</Asset>

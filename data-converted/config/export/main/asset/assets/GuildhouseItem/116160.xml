@@ -1,0 +1,77 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>116160</GUID>
+      <Name>Music Box</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_music_box.png</IconFilename>
+      <InfoDescription>116192</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Music Box</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35967</LineID>
+    </Text>
+    <Item>
+      <Allocation>Lodge</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>56800</TradePrice>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>193770</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>116192</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+    <Buff />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>115980</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010196</Product>
+          <Amount>10</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <HeaterUpgrade />
+  </Values>
+</Asset>

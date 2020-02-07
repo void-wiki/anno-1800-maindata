@@ -1,0 +1,75 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>113355</GUID>
+      <Name>Flinders Petrie, the Pioneer of Preservation of Artefacts</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_archaeologist_100.png</IconFilename>
+      <InfoDescription>113301</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Peter Flinders, Conservator of Artefacts</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32416</LineID>
+    </Text>
+    <Item>
+      <Allocation>DivingVessel</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>950000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Attribute>Hunting</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>113301</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade>
+      <RarityWeightUpgrade>
+        <Rare>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Rare>
+        <Epic>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Epic>
+        <Legendary>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Legendary>
+      </RarityWeightUpgrade>
+      <AllocationWeightUpgrade>
+        <Museum>
+          <AdditionalWeight>30</AdditionalWeight>
+        </Museum>
+      </AllocationWeightUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

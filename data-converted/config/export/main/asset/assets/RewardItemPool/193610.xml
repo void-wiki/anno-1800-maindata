@@ -1,0 +1,35 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193610</GUID>
+      <Name>2nd_party_08 (Alonso Gravez) Takeover Drops LateMidGame</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_jewelry.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192516</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192517</ItemLink>
+          <Weight>35</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192518</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192519</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192520</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

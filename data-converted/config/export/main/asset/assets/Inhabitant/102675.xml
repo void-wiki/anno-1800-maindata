@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>102675</GUID>
+      <Name>module_fountain</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/heavy_colony01_01/heavy_colony01_module_fountain_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Mesh />
+    <Walking />
+    <DayNightReaction />
+  </Values>
+</Asset>

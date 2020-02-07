@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>114750</GUID>
+      <Name>AirshipConstructed</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Big>
+          <Image>data/ui/2kimages/main/assets16/newspaper/northwest_passage/article_nwpassage_airship_finished.png</Image>
+        </Big>
+        <Small>
+          <Image>data/ui/2kimages/main/assets16/newspaper/northwest_passage/article_nwpassage_airship_finished.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets16/newspaper/northwest_passage/article_nwpassage_airship_finished.png</Image>
+        </Medium>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_build.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

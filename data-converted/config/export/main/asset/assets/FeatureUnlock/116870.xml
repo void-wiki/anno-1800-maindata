@@ -1,0 +1,22 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>116870</GUID>
+      <Name>ThePassage AI Settle Unlock MAIN</Name>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>0</AutoRegisterTrigger>
+    </TriggerSetup>
+  </Values>
+</Asset>

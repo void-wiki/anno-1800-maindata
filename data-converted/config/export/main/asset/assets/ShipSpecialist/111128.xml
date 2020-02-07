@@ -1,0 +1,73 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>111128</GUID>
+      <Name>Fierce Pyromaniac</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_402.png</IconFilename>
+      <InfoDescription>111157</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jittery Pyromaniac</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31325</LineID>
+    </Text>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <ExclusiveGroup>AutoAttackProjectile</ExclusiveGroup>
+      <TradePrice>112400</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <AttackRangeUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </AttackRangeUpgrade>
+      <BaseDamageUpgrade>
+        <Value>-30</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <UseProjectile>111134</UseProjectile>
+      <LineOfSightRangeUpgrade>
+        <Value>-40</Value>
+        <Percental>1</Percental>
+      </LineOfSightRangeUpgrade>
+      <AttackSpeedUpgrade>110</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <TradeShipUpgrade>
+      <ActiveTradePriceInPercent>90</ActiveTradePriceInPercent>
+    </TradeShipUpgrade>
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

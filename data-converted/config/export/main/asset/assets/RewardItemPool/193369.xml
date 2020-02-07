@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193369</GUID>
+      <Name>Archetype (Anarchists) Resident Quest Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/icons/difficulty_settings/icon_start_capital_1.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190961</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193364</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193365</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193366</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193367</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193368</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

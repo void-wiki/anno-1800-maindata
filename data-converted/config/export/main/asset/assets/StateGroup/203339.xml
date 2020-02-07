@@ -1,0 +1,35 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>203339</GUID>
+      <Name>ST_region</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>3349761223</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>203334</Choice>
+        </Item>
+        <Item>
+          <Choice>203335</Choice>
+        </Item>
+        <Item>
+          <Choice>203336</Choice>
+        </Item>
+        <Item>
+          <Choice>203337</Choice>
+        </Item>
+        <Item>
+          <Choice>203338</Choice>
+        </Item>
+        <Item>
+          <Choice>234885</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

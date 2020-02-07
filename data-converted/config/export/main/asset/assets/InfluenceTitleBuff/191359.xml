@@ -1,0 +1,41 @@
+<Asset>
+  <Template>InfluenceTitleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191359</GUID>
+      <Name>MilitaryBuff2</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/influence/icon_buff_military_silver.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Supreme Commander</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27109</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <AttackerUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>-15</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <AttackSpeedUpgrade>15</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <CultureUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190608</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <NewspaperUpgrade />
+    <Locked />
+    <DistributionUpgrade />
+  </Values>
+</Asset>

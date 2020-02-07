@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203963</GUID>
+      <Name>wwe_sfx_env_spot_market_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>15</MaxAttenuation>
+      <StopEvent>203964</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3442115205</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

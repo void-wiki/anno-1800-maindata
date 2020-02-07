@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The gossip about you at the salon is rich.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10718</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222524</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252317</GUID>
+      <Name>AT_ai06_NegFeedbackToPlyr6</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,11 @@
+<Template>
+  <Name>ConditionShipsInRange</Name>
+  <Properties>
+    <Condition />
+    <ConditionShipsInRange />
+    <SessionFilter>
+      <AllowParentConditionSession>0</AllowParentConditionSession>
+      <AllowProcessingSession>1</AllowProcessingSession>
+    </SessionFilter>
+  </Properties>
+</Template>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>212200</GUID>
+      <Name>Play_AI_DRYSIRAR_BASIC_RFX_00001_01SIRAR_1202</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>995</DurationMinimum>
+          <DurationMaximum>995</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1573</DurationMinimum>
+          <DurationMaximum>1573</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1001</DurationMinimum>
+          <DurationMaximum>1001</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>952</DurationMinimum>
+          <DurationMaximum>952</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3010221938</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

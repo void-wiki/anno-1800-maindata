@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>231471</GUID>
+      <Name>Play_AI_DRYQUEEN_BASIC_E5I_00010_01QUEEN_12204</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>6080</DurationMinimum>
+          <DurationMaximum>6080</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>8056</DurationMinimum>
+          <DurationMaximum>8056</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>5768</DurationMinimum>
+          <DurationMaximum>5768</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>5000</DurationMinimum>
+          <DurationMaximum>5000</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4161822339</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

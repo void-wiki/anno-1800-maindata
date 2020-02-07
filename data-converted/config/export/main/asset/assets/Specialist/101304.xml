@@ -1,0 +1,41 @@
+<Asset>
+  <Template>Specialist</Template>
+  <Values>
+    <Standard>
+      <GUID>101304</GUID>
+      <Name>CLICKABLE Item (Item Generator Effect)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/Temporary_Ornament/Crates4.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/large_wooden_boxes_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/large_wooden_boxes_02_04.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Selection>
+      <GUIType>Specialist</GUIType>
+    </Selection>
+    <Infolayer>
+      <DefaultInfoLayer>25000123</DefaultInfoLayer>
+    </Infolayer>
+    <ItemContainer>
+      <SpawnsFlotsam>0</SpawnsFlotsam>
+    </ItemContainer>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Item generated!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25843</LineID>
+    </Text>
+    <FeedbackController />
+  </Values>
+</Asset>

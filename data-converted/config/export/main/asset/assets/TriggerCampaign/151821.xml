@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151821</GUID>
+      <Name>CQ233_GettingExpert_MoveObject_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionMoveObject</Template>
+            <Values>
+              <Action />
+              <ObjectFilter>
+                <ObjectGUID>100591</ObjectGUID>
+                <CheckParticipantID>1</CheckParticipantID>
+                <ObjectParticipantID>Third_party_07_Jailor_Bleakworth</ObjectParticipantID>
+              </ObjectFilter>
+              <ObjectTargetFilter>
+                <TargetGUID>100685</TargetGUID>
+              </ObjectTargetFilter>
+              <ActionMoveObject />
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

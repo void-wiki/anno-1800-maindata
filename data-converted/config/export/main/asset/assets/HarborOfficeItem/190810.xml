@@ -1,0 +1,58 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190810</GUID>
+      <Name>FasterShipConstructionItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cattle.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Betsy the Mechanic</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190783</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute />
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade>
+      <ConstructionCostInPercent>-50</ConstructionCostInPercent>
+      <ConstructionTimeInPercent>-50</ConstructionTimeInPercent>
+      <ReplaceAssemblyOptions>
+        <Item>
+          <OldOption>100438</OldOption>
+          <NewOption>100853</NewOption>
+        </Item>
+      </ReplaceAssemblyOptions>
+      <AddAssemblyOptions>
+        <Item>
+          <NewOption>100442</NewOption>
+        </Item>
+      </AddAssemblyOptions>
+    </ShipyardUpgrade>
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade />
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

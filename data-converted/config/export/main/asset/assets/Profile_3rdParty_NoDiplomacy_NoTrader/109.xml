@@ -1,0 +1,41 @@
+<Asset>
+  <Template>Profile_3rdParty_NoDiplomacy_NoTrader</Template>
+  <Values>
+    <Standard>
+      <GUID>109</GUID>
+      <Name>campaign_character01_demolition_expert</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_01.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Thomas N. Ticker</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7060</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/campaign_portrait_01.png</ProfilePicture>
+      <Portrait>101138</Portrait>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>11594</InfoCornerDescription>
+      <ParticipantID>Campaign_character_01_demolition_expert</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <DefaultColor>Color11</DefaultColor>
+      <CreateModeMeta>AutoCreate_OnlyCampaign</CreateModeMeta>
+      <CreateModeSession>AutoCreate_OnlyCampaign</CreateModeSession>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Campaign_character_01_demolition_expert</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>153</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <ThirdParty />
+    <Locked />
+  </Values>
+</Asset>

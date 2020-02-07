@@ -1,0 +1,56 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268730</GUID>
+      <Name>Pool_advisor_01_MausoleumMessages</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>267696</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267697</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267706</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267717</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267718</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267719</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267720</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267721</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267722</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267723</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267724</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

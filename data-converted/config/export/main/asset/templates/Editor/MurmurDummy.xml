@@ -1,0 +1,19 @@
+<Template>
+  <Name>MurmurDummy</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/murmur_dummy.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <AmbientMoodProvider />
+  </Properties>
+</Template>

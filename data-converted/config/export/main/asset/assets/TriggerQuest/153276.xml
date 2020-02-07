@@ -1,0 +1,66 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>153276</GUID>
+      <Name>Resettle Quest - Ship Init 3 Liner - Jean La Fortune</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSpawnObjects</Template>
+            <Values>
+              <Action />
+              <ActionSpawnObjects>
+                <SpawnGUID>102431</SpawnGUID>
+                <Amount>3</Amount>
+                <Owner>General_Enemy</Owner>
+                <DoSetVisualSpawnOwner>1</DoSetVisualSpawnOwner>
+                <VisualSpawnOwner>Third_party_04_Pirate_LaFortune</VisualSpawnOwner>
+                <SpawnObjectGroupLabel>PirateLafortuneResettleGroup</SpawnObjectGroupLabel>
+              </ActionSpawnObjects>
+              <SpawnArea>
+                <DistanceToBorder>Near</DistanceToBorder>
+                <DistanceToIsland>Far</DistanceToIsland>
+              </SpawnArea>
+              <SessionFilter>
+                <Sessions>
+                  <Item>
+                    <Session>180025</Session>
+                  </Item>
+                </Sessions>
+              </SessionFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionMoveObject</Template>
+            <Values>
+              <Action />
+              <ObjectFilter>
+                <ObjectLabel>PirateLafortuneResettleGroup</ObjectLabel>
+              </ObjectFilter>
+              <ObjectTargetFilter>
+                <TargetGUID>100682</TargetGUID>
+              </ObjectTargetFilter>
+              <ActionMoveObject>
+                <IgnoreEveryDistractionDuringMove>1</IgnoreEveryDistractionDuringMove>
+                <UseDangerLayer>1</UseDangerLayer>
+              </ActionMoveObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

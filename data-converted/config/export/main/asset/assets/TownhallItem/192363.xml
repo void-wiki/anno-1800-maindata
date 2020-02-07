@@ -1,0 +1,77 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192363</GUID>
+      <Name>Vicente Main arc - Vicente's eyes and ears</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_603.png</IconFilename>
+      <InfoDescription>20039</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vicente's Informant</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28493</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>25000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Hunting</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>5</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>20039</FluffText>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <AdditionalHappiness>8</AdditionalHappiness>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentRiotIncreaseUpgrade>
+        <Value>-4</Value>
+      </IncidentRiotIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

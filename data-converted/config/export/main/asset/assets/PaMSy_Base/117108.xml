@@ -1,0 +1,419 @@
+<Asset>
+  <Template>PaMSy_Base</Template>
+  <Values>
+    <Standard>
+      <GUID>117108</GUID>
+      <Name>PaMSy_MASTER_Template_ArcticResident</Name>
+    </Standard>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <QuestAbortedAutomatically>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <SideNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestAbortedAutomatically>
+        <MenuIdleMessage>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <CooldownTime>3600000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>100</NotificationPriority>
+                    <NotificationGroup>PaMSyGossip</NotificationGroup>
+                    <DisplayTimeout>3000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </MenuIdleMessage>
+        <ClickOwnResidence>
+          <Reactions>
+            <Item>
+              <RequiredContextAsset>2001088</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>300</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>117109</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>300</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>117110</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>300</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>117111</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>300</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>117112</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>300</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>2001025</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>300</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>142753</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>300</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickOwnResidence>
+        <ClickProductionBuildingWithInfolayer>
+          <Reactions>
+            <Item>
+              <RequiredContextAsset>2001025</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>142753</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>116919</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>25000170</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>501502</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>2001576</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>2002088</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>2002087</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>2001920</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>500449</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>2001292</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <RequiredContextAsset>2001976</RequiredContextAsset>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <CooldownTime>900000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                    <DisplayTimeout>1000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickProductionBuildingWithInfolayer>
+        <PauseProductionBuilding>
+          <Reactions>
+            <Item>
+              <CooldownTime>600000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <DisplayTimeout>2000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </PauseProductionBuilding>
+        <ResumeProductionBuilding>
+          <Reactions>
+            <Item>
+              <CooldownTime>600000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationPriority>200</NotificationPriority>
+                    <DisplayTimeout>2000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ResumeProductionBuilding>
+      </MessageTriggers>
+    </ParticipantMessages>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802629</GUID>
+      <Name>The Mountain Maw 1.1.2.1.2.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202366</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_polar_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew extends its stay in the cold to gather supplies.&lt;/b&gt; Game is scarce and hunting takes time. However, the food makes for a decent meal and the smell of roasted hare fills the sailors' stomachs almost as well as the meat itself. The cooking fire's lights spreads through the forest at night and beckons the missing sailors. Reunited, the crew avoids talking about abandoning their companions and they leave the mountain in silence.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21838</LineID>
+    </Text>
+  </Values>
+</Asset>

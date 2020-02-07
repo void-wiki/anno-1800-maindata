@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>112711</GUID>
+      <Name>arctic parka chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fur_parka.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>112672</Building>
+      <Tier1>
+        <Item>
+          <Building>112673</Building>
+        </Item>
+        <Item>
+          <Building>112674</Building>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Parkas</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35202</LineID>
+    </Text>
+  </Values>
+</Asset>

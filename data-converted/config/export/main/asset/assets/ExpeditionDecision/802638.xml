@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802638</GUID>
+      <Name>The Mountain Maw 1.1.2.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/polar_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ordeal is much bigger than your sailors.&lt;/b&gt; They launch ropes into the rift but the slippery walls of ice cannot be climbed. The rescuers attempt to haul the others up, and they plant their feet into the ground, pulling and pulling and panting, their physical reserves long drained by the cold. As they fall to their knees and break their nails on the frozen hemp, the rift cracks and the mountain opens its mouth wide. The swallowed crew is never seen again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21845</LineID>
+    </Text>
+  </Values>
+</Asset>

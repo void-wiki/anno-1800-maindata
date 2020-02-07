@@ -1,0 +1,69 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>114115</GUID>
+      <Name>ThePassage SessionDiscovery Condition</Name>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionIsDLCActive</Template>
+        <Values>
+          <Condition />
+          <ConditionIsDLCActive>
+            <DLCAssetList>
+              <Item>
+                <DLCAsset>410042</DLCAsset>
+              </Item>
+            </DLCAssetList>
+          </ConditionIsDLCActive>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationByLevel</PlayerCounter>
+                      <Context>15000003</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+                <SubTriggers>
+                  <Item>
+                    <SubTrigger>
+                      <Template>AutoCreateTrigger</Template>
+                      <Values>
+                        <Trigger>
+                          <TriggerCondition>
+                            <Template>ConditionTimer</Template>
+                            <Values>
+                              <Condition />
+                              <ConditionTimer>
+                                <TimeLimit>60000</TimeLimit>
+                              </ConditionTimer>
+                            </Values>
+                          </TriggerCondition>
+                        </Trigger>
+                      </Values>
+                    </SubTrigger>
+                  </Item>
+                </SubTriggers>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

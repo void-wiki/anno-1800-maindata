@@ -1,0 +1,73 @@
+<Asset>
+  <Template>OrnamentalBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>111930</GUID>
+      <Name>AnarchyBanner</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anarchy Banner</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31283</LineID>
+    </Text>
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+      <DeletePropsRadius>0</DeletePropsRadius>
+    </Blocking>
+    <Building>
+      <BuildingCategoryName>11149</BuildingCategoryName>
+      <BuildModeRandomRotation>90</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+    </Building>
+    <Cost />
+    <Selection>
+      <Colors>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/quest/quest_buildings/propaganda_tower/dm_propaganda_tower_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>OrnamentalBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </DestroySounds>
+    </SoundEmitter>
+    <Locked>
+      <Scope>Account</Scope>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+    <FeedbackController />
+    <Ornament>
+      <OrnamentUnit>1</OrnamentUnit>
+      <OrnamentDescritpion>111926</OrnamentDescritpion>
+    </Ornament>
+    <AmbientMoodProvider />
+    <Pausable />
+    <Infolayer />
+  </Values>
+</Asset>

@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800349</GUID>
+      <Name>The Minefield 1.2.3.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"She survived! It worked!" calls the lookout,&lt;/b&gt; as makeshift grapples trailing behind the little dinghy are able to hook the mines aside. Relief only comes, of course, once the expedition ship is clear of this last line of mines. "How did we get in such a pickle?" says one. "At least we're out of it," says another.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5831</LineID>
+    </Text>
+  </Values>
+</Asset>

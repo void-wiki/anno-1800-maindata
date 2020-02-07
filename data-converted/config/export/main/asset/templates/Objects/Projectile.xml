@@ -1,0 +1,18 @@
+<Template>
+  <Name>Projectile</Name>
+  <Properties>
+    <Projectile>
+      <ProjectileSpeed>2</ProjectileSpeed>
+    </Projectile>
+    <Standard />
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Text />
+    <SoundEmitter />
+    <ProjectileIncident />
+  </Properties>
+</Template>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>240848</GUID>
+      <Name>MS4_env_moo_tundra</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>244828</Choice>
+        </Item>
+        <Item>
+          <Choice>244829</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>2455679272</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>141671</GUID>
+      <Name>ExplosionIncidents</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_bomb.png</IconFilename>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>1010358</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

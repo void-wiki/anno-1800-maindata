@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You... old fossil. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2731</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211251</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251091</GUID>
+      <Name>AT_ai01_NegFeedbackToPlyr2</Name>
+    </Standard>
+  </Values>
+</Asset>

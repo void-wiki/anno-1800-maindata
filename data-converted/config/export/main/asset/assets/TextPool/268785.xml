@@ -1,0 +1,46 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268785</GUID>
+      <Name>Pool_3rdParty03_PosDiplomacyWithFoe</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258471</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258474</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256376</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256377</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256378</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>-145756122</Group>
+        </Item>
+        <Item>
+          <Group>-1145959349</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

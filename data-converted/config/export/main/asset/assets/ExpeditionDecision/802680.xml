@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802680</GUID>
+      <Name>The Runaway 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802681</Option>
+        </Item>
+        <Item>
+          <Option>802682</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your attempt at deception fails.&lt;/b&gt; The officer in charge lies that your ship has never docked the port in question, yet the officials present a logbook stating conclusively that it did. This only serves to further rouse their suspicion he is somewhere aboard.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21615</LineID>
+    </Text>
+  </Values>
+</Asset>

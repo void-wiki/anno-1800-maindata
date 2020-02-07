@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800193</GUID>
+      <Name>The Inspector 1.2.3.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The speed and power of the royal clipper&lt;/b&gt; is impossible to match despite best efforts. Your ship takes significant damage, and a young sailor is killed by shrapnel. Retreat is the only option. Mercifully the Inspector chooses not to make pursuit.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5800</LineID>
+    </Text>
+  </Values>
+</Asset>

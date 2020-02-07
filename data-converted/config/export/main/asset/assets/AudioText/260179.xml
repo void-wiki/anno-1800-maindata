@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ah old pal, it's been a while since we adventured together.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17736</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236153</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260179</GUID>
+      <Name>AT_advisor_02_FirstIntroduction1</Name>
+    </Standard>
+  </Values>
+</Asset>

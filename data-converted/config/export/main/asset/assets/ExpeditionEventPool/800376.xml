@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionEventPool</Template>
+  <Values>
+    <Standard>
+      <GUID>800376</GUID>
+      <Name>Crafting Events</Name>
+    </Standard>
+    <ExpeditionEventPool>
+      <EventPool>
+        <Item>
+          <EventOrEventPool>800312</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>800932</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>801063</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>801587</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802000</EventOrEventPool>
+        </Item>
+      </EventPool>
+    </ExpeditionEventPool>
+  </Values>
+</Asset>

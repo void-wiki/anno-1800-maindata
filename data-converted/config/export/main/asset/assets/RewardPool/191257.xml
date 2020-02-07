@@ -1,0 +1,25 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191257</GUID>
+      <Name>Inventions 3</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191243</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191250</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191252</ItemLink>
+          <Weight>12</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

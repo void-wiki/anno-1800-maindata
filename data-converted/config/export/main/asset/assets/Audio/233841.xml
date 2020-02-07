@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>233841</GUID>
+      <Name>wwe_sfx_aui_coop_marker_placed_player</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>361</DurationMinimum>
+          <DurationMaximum>379</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>170</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1189051331</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

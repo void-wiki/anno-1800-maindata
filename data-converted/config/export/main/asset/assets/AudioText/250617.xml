@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I worry Artur Gasparov might one day appear at the palace better-dressed than her majesty. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1229</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212186</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>250617</GUID>
+      <Name>AT_3rdParty02_IdleMessageGossip_Gasparov</Name>
+    </Standard>
+  </Values>
+</Asset>

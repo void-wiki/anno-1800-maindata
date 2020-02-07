@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NoLocaText</Template>
+  <Values>
+    <Standard>
+      <GUID>10294</GUID>
+      <Name>Current / Needed Value Percentage Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Conditions QuestCondition CurrentAmount]% / [Conditions QuestCondition Amount]%</Text>
+          <Status>Localization</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803962</GUID>
+      <Name>Polar Bear 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803963</Option>
+        </Item>
+        <Item>
+          <Option>803972</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path07.png</PathSegment>
+        <PathPosX>430</PathPosX>
+        <PathPosY>239</PathPosY>
+        <ProgressReview>117458</ProgressReview>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_inuitsettlement.png</Sketch>
+        <SketchPosX>1348</SketchPosX>
+        <SketchPosY>700</SketchPosY>
+        <SketchSizeX>208</SketchSizeX>
+        <SketchSizeY>148</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The route to the Inuit settlement of Ivujivik is &lt;b&gt;a two day trek by foot across exposed ice flats.&lt;/b&gt; A small expedition party set off leaving the rest at sea to await their return.&lt;br/&gt;Although the going is tough, it is not this that preoccupies the crew. &lt;b&gt;As night falls, they are sure something has been following them.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35243</LineID>
+    </Text>
+  </Values>
+</Asset>

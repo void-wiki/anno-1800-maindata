@@ -1,0 +1,71 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>114770</GUID>
+      <Name>Trigger MP EnterSession</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionActiveSession</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveSession>
+            <ActiveSession>180045</ActiveSession>
+          </ConditionActiveSession>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>1000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionSpawnObjects</Template>
+                            <Values>
+                              <Action />
+                              <ActionSpawnObjects>
+                                <SpawnGUID>114140</SpawnGUID>
+                                <Amount>1</Amount>
+                                <RandomRotation>1</RandomRotation>
+                                <OwnerIsProcessingParticipant>1</OwnerIsProcessingParticipant>
+                              </ActionSpawnObjects>
+                              <SpawnArea>
+                                <SpawnContext>Object</SpawnContext>
+                                <ContextGUID>100684</ContextGUID>
+                                <DistanceToContext>10</DistanceToContext>
+                                <MinObjectDistance>1</MinObjectDistance>
+                                <MaxObjectDistance>5</MaxObjectDistance>
+                              </SpawnArea>
+                              <SessionFilter>
+                                <Sessions>
+                                  <Item>
+                                    <Session>180045</Session>
+                                  </Item>
+                                </Sessions>
+                              </SessionFilter>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802266</GUID>
+      <Name>The Deeper You Go 1.2.1.1.2.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseItem</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Wrong answer.&lt;/b&gt;As the cockroach is pressed, the insect shivers and shakes the dust off its shell. It's alive! The ceiling opens and a swarm of cockroaches flies into the room, aiming for the sailors' mouths. The crew smashes the insects with whatever object they have at hand and their horror gives them wings of their own, pushing them to climb the walls until they reach the outside.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21092</LineID>
+    </Text>
+  </Values>
+</Asset>

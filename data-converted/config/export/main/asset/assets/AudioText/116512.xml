@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If you can't squeeze it out of old Archie, I've seen gas come out the ground to the north.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33693</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245322</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116512</GUID>
+      <Name>AT_DLC03_OldNate_ArcticQ109_01</Name>
+    </Standard>
+  </Values>
+</Asset>

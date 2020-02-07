@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193057</GUID>
+      <Name>Specialists - Farmer Specialists - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190619</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190748</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190749</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191582</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

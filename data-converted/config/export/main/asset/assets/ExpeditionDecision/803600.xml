@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803600</GUID>
+      <Name>Lianas 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803601</Option>
+        </Item>
+        <Item>
+          <Option>803605</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A perilous plunge!&lt;/b&gt; Your expedition is walking a ridge of the rainforest interior, and has become entranced by the scintillating blue of 'Le Cotinga des Mezoas'. Perhaps it is the distraction of looking up at the extraordinary bird that causes someone to misstep. They fall suddenly through the floor, and tumble into fresh air, &lt;b&gt;only an elastic tangle of vines spares them the drop. The problem now is they are suspended above a ravine,&lt;/b&gt; and it's a long way down...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32968</LineID>
+    </Text>
+  </Values>
+</Asset>

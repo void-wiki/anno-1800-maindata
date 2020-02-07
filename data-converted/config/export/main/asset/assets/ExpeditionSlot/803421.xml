@@ -1,0 +1,20 @@
+<Asset>
+  <Template>ExpeditionSlot</Template>
+  <Values>
+    <ExpeditionSlot>
+      <SlotRegion>SouthernEurope</SlotRegion>
+      <SpecialExpeditionsSlot>
+        <Item>
+          <Expedition>803420</Expedition>
+        </Item>
+        <Item>
+          <Expedition>803519</Expedition>
+        </Item>
+      </SpecialExpeditionsSlot>
+    </ExpeditionSlot>
+    <Standard>
+      <GUID>803421</GUID>
+      <Name>SunkenTreasures_Unlock</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Template>
+  <Name>CampaignQuestObject</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <MeshPlacement>OnWater</MeshPlacement>
+    </Mesh>
+    <Selection />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Text />
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <CampaignBehaviour />
+    <Attackable>
+      <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+    </Attackable>
+    <Blocking />
+    <FeedbackController />
+    <Culture />
+    <Building />
+  </Properties>
+</Template>

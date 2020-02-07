@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>214109</GUID>
+      <Name>SW_global_timer_production_bld</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>214614</Choice>
+        </Item>
+        <Item>
+          <Choice>214615</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>1395691182</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

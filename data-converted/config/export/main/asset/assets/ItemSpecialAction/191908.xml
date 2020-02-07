@@ -1,0 +1,58 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191908</GUID>
+      <Name>Penicillin</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_medicine_2.png</IconFilename>
+      <InfoDescription>19540</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>192179</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <ItemAction>HEAL_INCIDENT</ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <ActionIncidentType>Illness</ActionIncidentType>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>4800000</ActionDuration>
+      <ActiveBuff>191911</ActiveBuff>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <Item>
+      <Allocation>TownHall</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>12000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Penicillin</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26832</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>6</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19540</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

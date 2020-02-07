@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12749</GUID>
+      <Name>ShipsBuilt_Headline_Combined</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Construct: &lt;br/&gt;[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] [AssetData([Conditions QuestCondition Context]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11665</LineID>
+    </Text>
+  </Values>
+</Asset>

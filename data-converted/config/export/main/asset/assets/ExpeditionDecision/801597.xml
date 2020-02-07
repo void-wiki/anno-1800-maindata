@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801597</GUID>
+      <Name>Sunken Depths 1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801599</Option>
+        </Item>
+        <Item>
+          <Option>801600</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Their trust in the work of their comrades pays.&lt;/b&gt; The bell slithers in a slow fall which allows the bewitched divers to take in the view. This is no sunken ship: the engraved hole was a window among a hundred more lining a hall of ridiculous proportions. A single ray of light, pouring from the hole, accompanies the bell's descent until it lands on what might have been statue alcoves. A shining green pearl lies in the lowest part of the alcove.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16125</LineID>
+    </Text>
+  </Values>
+</Asset>

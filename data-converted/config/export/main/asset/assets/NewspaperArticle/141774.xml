@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141774</GUID>
+      <Name>Military Island War Started Other Participants</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14608</Headline>
+      <Subline>14625</Subline>
+      <Image>142119</Image>
+      <Category>Military</Category>
+      <NewsPriority>
+        <StartValue>350</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>205084</GUID>
+      <Name>sfx_props_smelter_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>35</MaxAttenuation>
+      <StopEvent>205085</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2654475047</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

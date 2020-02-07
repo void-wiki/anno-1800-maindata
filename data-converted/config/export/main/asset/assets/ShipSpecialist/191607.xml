@@ -1,0 +1,79 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191607</GUID>
+      <Name>Willma von Tegetthoff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/icon_navigator_pirate.png</IconFilename>
+      <InfoDescription>19972</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wilma the Wild, Bearer of Barracudas.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26762</LineID>
+    </Text>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>990000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>55</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkFormerPirate</Attribute>
+          <Amount>1</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19972</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>-20</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <AccuracyUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </AccuracyUpgrade>
+      <HitpointDamage>
+        <Item>
+          <MinDamageFactor>1.6</MinDamageFactor>
+        </Item>
+      </HitpointDamage>
+      <AttackSpeedUpgrade>25</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <TradeShipUpgrade />
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

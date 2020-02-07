@@ -1,0 +1,56 @@
+<Asset>
+  <Template>ObjectmenuProductionScene</Template>
+  <Values>
+    <Standard>
+      <GUID>500365</GUID>
+      <Name>ObjectmenuProductionScene</Name>
+      <ID>ObjectmenuProductionScene</ID>
+    </Standard>
+    <ObjectmenuProductionScene>
+      <FarmFieldText>100365</FarmFieldText>
+      <InfiniteFarmFieldText>12659</InfiniteFarmFieldText>
+      <MineralInput>501524</MineralInput>
+      <SeaInput>501525</SeaInput>
+      <LandInput>501526</LandInput>
+      <IconPlay>500101</IconPlay>
+      <IconPause>500102</IconPause>
+    </ObjectmenuProductionScene>
+    <ObjectmenuHeader>
+      <BuffDisplayList>
+        <Item>
+          <Buffgroup>
+            <Item>
+              <DataSource>[Selection Object Factory EconomyModifier(0)]</DataSource>
+              <MinThreshold>-10000</MinThreshold>
+              <MaxThreshold>-0.0001</MaxThreshold>
+            </Item>
+          </Buffgroup>
+          <Icon>500273</Icon>
+          <InfoTip>500681</InfoTip>
+        </Item>
+        <Item>
+          <Buffgroup>
+            <Item>
+              <DataSource>[Selection Object Factory EconomyModifier(0)]</DataSource>
+              <MinThreshold>0.0001</MinThreshold>
+              <MaxThreshold>10000</MaxThreshold>
+            </Item>
+          </Buffgroup>
+          <Icon>500272</Icon>
+          <InfoTip>500681</InfoTip>
+        </Item>
+        <Item>
+          <Buffgroup>
+            <Item>
+              <DataSource>[Selection Object Factory NewspaperProductivityIncrease]</DataSource>
+              <MinThreshold>0.0001</MinThreshold>
+              <MaxThreshold>10000</MaxThreshold>
+            </Item>
+          </Buffgroup>
+          <Icon>500272</Icon>
+          <InfoTip>501115</InfoTip>
+        </Item>
+      </BuffDisplayList>
+    </ObjectmenuHeader>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800279</GUID>
+      <Name>The Predator</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Predator</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5661</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>800280</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/wildlife_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202365</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

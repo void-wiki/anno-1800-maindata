@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Production has stopped.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15860</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233914</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265270</GUID>
+      <Name>AT_Narrator_Economy_Warning_ProductionShutdown</Name>
+    </Standard>
+  </Values>
+</Asset>

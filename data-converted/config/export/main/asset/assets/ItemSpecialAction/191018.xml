@@ -1,0 +1,49 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191018</GUID>
+      <Name>Ignite</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_incident_fire.png</IconFilename>
+    </Standard>
+    <SpecialAction>
+      <MouseEffect>500992</MouseEffect>
+      <Projectile>101562</Projectile>
+      <BarrageCount>1</BarrageCount>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001744</ActionTarget>
+      <ActionDistance>10</ActionDistance>
+      <ActionCooldown>2000</ActionCooldown>
+      <ActionDuration>20000</ActionDuration>
+      <ActionDescription>12828</ActionDescription>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>5000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Greek Fire</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

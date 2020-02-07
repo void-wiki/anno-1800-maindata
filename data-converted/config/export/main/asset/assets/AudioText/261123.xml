@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Do not incite violence. Prepare for it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12976</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229506</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261123</GUID>
+      <Name>AT_advisor_02_IdleMessageSelf4</Name>
+    </Standard>
+  </Values>
+</Asset>

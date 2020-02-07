@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802002</GUID>
+      <Name>Cracks in the Hull 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802003</Option>
+        </Item>
+        <Item>
+          <Option>802004</Option>
+        </Item>
+        <Item>
+          <Option>802005</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Water in the hull!&lt;/b&gt; The overloaded ship could only go so far with this many supplies in its belly: a series of strong waves sends the crates churning and the boat's stomach soon explodes. Cracks pierce the hull where the cargo hit it, and trickles of water pop one after the other in the storage space.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21877</LineID>
+    </Text>
+  </Values>
+</Asset>

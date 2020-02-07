@@ -1,0 +1,18 @@
+<Asset>
+  <Template>RFX</Template>
+  <Values>
+    <Standard>
+      <GUID>240080</GUID>
+      <Name>RFX_bld_production_col01_coastal_perals_01</Name>
+    </Standard>
+    <RFX>
+      <RFXRadius>12</RFXRadius>
+      <AreaConstraints>
+        <InnerRadius>1</InnerRadius>
+        <AngleMax>40</AngleMax>
+        <AngleMin>-30</AngleMin>
+      </AreaConstraints>
+      <TriggerEvent>239508</TriggerEvent>
+    </RFX>
+  </Values>
+</Asset>

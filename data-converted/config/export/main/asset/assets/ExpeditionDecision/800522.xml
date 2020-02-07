@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800522</GUID>
+      <Name>The Singular Case of the Midshipman 1.2.1.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Torture seldom results in happiness.&lt;/b&gt; Your victim screams a confession, perhaps in the hope it will end the pain. With nothing else to go on, you scapegoat the poor beggar, and he is keelhauled until dead. The crew are in no doubt that this was the wrong man, and hope to escape your inhuman expedition at the first opportunity.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5893</LineID>
+    </Text>
+  </Values>
+</Asset>

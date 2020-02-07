@@ -1,0 +1,51 @@
+<Asset>
+  <Template>SessionModerate</Template>
+  <Values>
+    <Standard>
+      <GUID>240034</GUID>
+      <Name>Audio Map</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_brass_tube.png</IconFilename>
+    </Standard>
+    <Session>
+      <MapTemplate>240033</MapTemplate>
+      <CameraLoopSequence1>11</CameraLoopSequence1>
+      <CameraLoopSequence2>10</CameraLoopSequence2>
+      <AllowAdvancedCameraSettings>1</AllowAdvancedCameraSettings>
+      <TransferData>
+        <Item>
+          <Session>180001</Session>
+          <Duration>5000</Duration>
+        </Item>
+        <Item>
+          <Session>180003</Session>
+          <Duration>5000</Duration>
+        </Item>
+        <Item>
+          <Session>180032</Session>
+          <Duration>5000</Duration>
+        </Item>
+        <Item>
+          <Session>180055</Session>
+          <Duration>5000</Duration>
+        </Item>
+        <Item>
+          <Session>180037</Session>
+          <Duration>5000</Duration>
+        </Item>
+        <Item>
+          <Session>180038</Session>
+          <Duration>5000</Duration>
+        </Item>
+      </TransferData>
+    </Session>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Audio Test</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

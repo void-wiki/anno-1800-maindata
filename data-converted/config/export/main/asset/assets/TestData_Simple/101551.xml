@@ -1,0 +1,28 @@
+<Asset>
+  <Template>TestData_Simple</Template>
+  <Values>
+    <Standard>
+      <GUID>101551</GUID>
+      <Name>SequenceAsset_onTerrain</Name>
+    </Standard>
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>test_data/graphics/placeholder/placeholder.cfg</Filename>
+        </Item>
+      </Variations>
+      <AddToObjectGroups>0</AddToObjectGroups>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <SetCompanyLogo>1</SetCompanyLogo>
+    </Mesh>
+    <DynamicVariation>
+      <DynamicVariationType>SequenceAsset</DynamicVariationType>
+    </DynamicVariation>
+    <SoundEmitter />
+    <FeedbackController />
+  </Values>
+</Asset>

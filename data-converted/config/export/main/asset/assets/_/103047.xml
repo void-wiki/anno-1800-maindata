@@ -1,0 +1,31 @@
+<Asset>
+  <BaseAssetGUID>102229</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>103047</GUID>
+    </Standard>
+    <Text />
+    <Blocking />
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Cost />
+    <Selection />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/ornamental/uplay_props/fountain_colony01_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter />
+    <Locked />
+    <FeedbackController />
+    <Ornament />
+    <AmbientMoodProvider />
+    <Pausable />
+    <Infolayer />
+  </Values>
+</Asset>

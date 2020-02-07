@@ -1,0 +1,53 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>112335</GUID>
+      <Name>The Invisible Box</Name>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Collectable>
+      <DestroyOnCollect>0</DestroyOnCollect>
+      <CollectOnSelection>0</CollectOnSelection>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/quest/quest_objects/invisible_dummy/invisible_dummy.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sir Archibald's Peacock</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController>
+      <UseMeshRenderFlags>1</UseMeshRenderFlags>
+    </FeedbackController>
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

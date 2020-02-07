@@ -1,0 +1,58 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>192166</GUID>
+      <Name>Grapeshot Cast Mortar</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_active_mortar_2.png</IconFilename>
+      <InfoDescription>22056</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <UseEffectAsset>1</UseEffectAsset>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>102496</Projectile>
+      <BarrageCount>1</BarrageCount>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>70</ActionDistance>
+      <ActionCooldown>45000</ActionCooldown>
+      <ActionDuration>2000</ActionDuration>
+      <ActiveBuff>193242</ActiveBuff>
+      <ActionDescription>20071</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>260000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Grapeshot Cast Mortar</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29556</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>40</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>22056</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

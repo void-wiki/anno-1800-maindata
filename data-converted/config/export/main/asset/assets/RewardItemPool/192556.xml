@@ -1,0 +1,41 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192556</GUID>
+      <Name>Third_party_05 (Isabel Sarmento) Uncommon Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_4.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192653</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192709</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192719</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192734</ItemLink>
+          <Weight>11</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192643</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192693</ItemLink>
+          <Weight>9</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192699</ItemLink>
+          <Weight>6</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

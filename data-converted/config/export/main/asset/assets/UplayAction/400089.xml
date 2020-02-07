@@ -1,0 +1,44 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400089</GUID>
+      <Name>Action_Achievement_Party Like 1851</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Culture</AchievementCategory>
+      <AchievementTitle>21499</AchievementTitle>
+      <AchievementDescription>15573</AchievementDescription>
+      <AchievementUPlayID>22</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionMonumentEventActive</Template>
+        <Values>
+          <Condition />
+          <ConditionMonumentEventsActive>
+            <MonumentEventsActive>
+              <Item>
+                <MonumentEventGUID>17008</MonumentEventGUID>
+              </Item>
+              <Item>
+                <MonumentEventGUID>17011</MonumentEventGUID>
+              </Item>
+              <Item>
+                <MonumentEventGUID>17014</MonumentEventGUID>
+              </Item>
+            </MonumentEventsActive>
+          </ConditionMonumentEventsActive>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>504</UplayActionID>
+      <BadgeID>1004</BadgeID>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

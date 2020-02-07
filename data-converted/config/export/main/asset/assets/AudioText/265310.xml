@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Supplies are running low.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15899</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233997</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265310</GUID>
+      <Name>AT_Narrator_Population_Warning_PopulationSupplyBad</Name>
+    </Standard>
+  </Values>
+</Asset>

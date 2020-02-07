@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803418</GUID>
+      <Name>Isla de los Muertos 1.1.1.1.1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190476</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Delicious desecration!&lt;/b&gt; What better way to enliven this truly oppressive place? As the fuse is expended there seems a longer-than-expected pause...only for the boom to sound all the mightier. "Ha-ha!" the captain rasps with glee, "pirate kings be damned!" Through the fissure made by the dynamite comes a first glimpse of the sarcophagus' sensational gilded interior, and the &lt;b&gt;many riches within!&lt;/b&gt;   </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31844</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <BaseAssetGUID>100664</BaseAssetGUID>
+  <Values>
+    <Portrait />
+    <Standard>
+      <GUID>116869</GUID>
+      <Name>Doedelmann Portrait</Name>
+      <IconFilename>test_data/graphics/dummy_jeichner/doedel/ai_doedel.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Portrait</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>test_data/graphics/dummy_jeichner/doedel/ai_123.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked />
+  </Values>
+</Asset>

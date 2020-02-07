@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AssetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>102418</GUID>
+      <Name>CQIPool_Pyrphorian_WarItems01</Name>
+    </Standard>
+    <AssetPool>
+      <AssetList>
+        <Item>
+          <Probability>80</Probability>
+          <Asset>1010221</Asset>
+        </Item>
+        <Item>
+          <Probability>50</Probability>
+          <Asset>191481</Asset>
+        </Item>
+        <Item>
+          <Probability>50</Probability>
+          <Asset>191474</Asset>
+        </Item>
+      </AssetList>
+    </AssetPool>
+  </Values>
+</Asset>

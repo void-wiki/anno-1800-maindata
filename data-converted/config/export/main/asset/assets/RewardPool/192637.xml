@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192637</GUID>
+      <Name>Consumables - Naval Combat - Common</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192184</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191955</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191962</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191964</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

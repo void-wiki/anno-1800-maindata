@@ -1,0 +1,31 @@
+<Template>
+  <Name>WorkArea</Name>
+  <Properties>
+    <Standard />
+    <Object />
+    <Mesh />
+    <Slot>
+      <SlotType>WorkAreaMountain</SlotType>
+    </Slot>
+    <SoundEmitter>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <WorkAreaPath>
+      <AreaPathConfig>test_data/graphics/lp/buildings/production/coal_mining/coal_mining_rail.cfg</AreaPathConfig>
+    </WorkAreaPath>
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+      <DeletePropsRadius>0</DeletePropsRadius>
+    </Blocking>
+  </Properties>
+</Template>

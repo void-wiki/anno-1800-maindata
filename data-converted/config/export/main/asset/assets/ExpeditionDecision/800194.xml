@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800194</GUID>
+      <Name>The Inspector 1.2.3.2.4</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The superior clipper chews through your ship&lt;/b&gt; with its dread bank of cannons - the ruthless Inspector intent on bringing traitors to their knees. "We surrender!" the crew cry, but the plea falls on deaf ears. Once he has shredded the ship to bits, the smug Inspector turns his clipper about, and disappears into the distance.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5801</LineID>
+    </Text>
+  </Values>
+</Asset>

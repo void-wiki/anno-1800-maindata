@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait />
+    <Standard>
+      <GUID>101819</GUID>
+      <Name>Jornalero</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/residents/resident_colony_tier01/resident_colony_tier01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

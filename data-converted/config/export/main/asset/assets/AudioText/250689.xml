@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Failed? I feel a ghastly surge coming on.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1141</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212329</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250689</GUID>
+      <Name>AT_3rdParty02_QuestFailed2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>"This is the way the farmers ride, hobbledy-hoy, hobbledy-hoy. This is the way the farmers ride, hobbledy-hobbledy-hoy!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4380</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215250</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253982</GUID>
+      <Name>AT_res_tier01_IdleMessageSelf1</Name>
+    </Standard>
+  </Values>
+</Asset>

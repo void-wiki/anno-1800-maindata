@@ -1,0 +1,32 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>203385</GUID>
+      <Name>st_sfx_aui_style_TMP</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>1987014714</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>203380</Choice>
+        </Item>
+        <Item>
+          <Choice>203381</Choice>
+        </Item>
+        <Item>
+          <Choice>203382</Choice>
+        </Item>
+        <Item>
+          <Choice>203383</Choice>
+        </Item>
+        <Item>
+          <Choice>203384</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

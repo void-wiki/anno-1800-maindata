@@ -1,0 +1,98 @@
+<Asset>
+  <Template>HarborWarehouse7</Template>
+  <Values>
+    <Standard>
+      <GUID>116035</GUID>
+      <Name>Third_party_09</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_kontor.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Inuit Trading Post</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35113</LineID>
+    </Text>
+    <Blocking>
+      <HidePropsRadius>-20</HidePropsRadius>
+      <DeletePropsRadius>-20</DeletePropsRadius>
+      <BlockHarborFeedback>1</BlockHarborFeedback>
+      <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+      <HarbourAreaExpand>1</HarbourAreaExpand>
+    </Blocking>
+    <Building>
+      <BuildingType>Warehouse</BuildingType>
+      <SnapRadius>10</SnapRadius>
+    </Building>
+    <Cost />
+    <Selection>
+      <GUIType>Kontor</GUIType>
+      <Colors>
+        <SelectionColorType>PropertySelectionColor</SelectionColorType>
+        <SelectionColor>-337045</SelectionColor>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/buildings/3rd_party/3rd_party_09_kontor/3rd_party_09_kontor.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <DefaultParticipant>Arctic_Inuit</DefaultParticipant>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>245767</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <Locked />
+    <Infolayer />
+    <FeedbackController />
+    <Warehouse>
+      <WarehouseStorage>
+        <StorageMax>50</StorageMax>
+      </WarehouseStorage>
+    </Warehouse>
+    <LogisticNode>
+      <QueueConfiguration>
+        <ProcessingQueueParallelCount>4</ProcessingQueueParallelCount>
+      </QueueConfiguration>
+    </LogisticNode>
+    <DistributionCenter />
+    <MinimapToken>
+      <TokenAsset>117510</TokenAsset>
+    </MinimapToken>
+    <AmbientMoodProvider />
+    <LoadingPier>
+      <NumOfPiers>1</NumOfPiers>
+      <LoadingSpeed>10</LoadingSpeed>
+    </LoadingPier>
+    <StorageBase />
+    <Attackable>
+      <MaximumHitPoints>5000</MaximumHitPoints>
+      <HasRuinState>1</HasRuinState>
+      <ExplosionEffectsMin>1</ExplosionEffectsMin>
+      <ExplosionEffectsMax>1</ExplosionEffectsMax>
+    </Attackable>
+    <Upgradable />
+    <Maintenance />
+    <Pausable />
+    <Distribution />
+    <UpgradeList />
+    <Culture />
+    <QuestObject />
+    <Attacker>
+      <Turrets />
+    </Attacker>
+    <CommandQueue />
+  </Values>
+</Asset>

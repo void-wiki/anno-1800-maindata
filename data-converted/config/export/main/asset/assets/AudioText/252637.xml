@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You bear a pigeon standard.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8414</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221590</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252637</GUID>
+      <Name>AT_ai09_QuestFailed2</Name>
+    </Standard>
+  </Values>
+</Asset>

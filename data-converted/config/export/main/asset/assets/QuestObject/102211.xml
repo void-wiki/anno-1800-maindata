@@ -1,0 +1,41 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102211</GUID>
+      <Name>CQO_Jornalero_Refugees02A</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_journaleros_refugees.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>walk01</DefaultSequence>
+      <InitialVisibility>0</InitialVisibility>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/units/jornalero_refugee_group/jornalero_refugee_group_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Prosperity Refugees</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20132</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <Collectable />
+    <FeedbackController />
+  </Values>
+</Asset>

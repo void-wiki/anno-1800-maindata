@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802421</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.2.2.1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cancel</Text>
+          <Status>Localization</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802423</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

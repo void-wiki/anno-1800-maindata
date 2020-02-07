@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802691</GUID>
+      <Name>The Runaway 1.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802692</Option>
+        </Item>
+        <Item>
+          <Option>802693</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men hesitate at the order,&lt;/b&gt; because they can see the neighbouring ship is not one to be trifled with. Eyeing your sailors as they not-so-secretly prepare for a sea battle, one of the officials sounds his shrill whistle, and a troop of navy-uniformed soldiers rush from below deck. They fully intend to board you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21626</LineID>
+    </Text>
+  </Values>
+</Asset>

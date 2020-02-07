@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802328</GUID>
+      <Name>Teeth of the Mountain 1.1.1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;She is saved, at least.&lt;/b&gt; "Feels like we killed one of our own today," says a soldier, in reference to the villager they shot. "Not really..." another replies, "...but it's terrible he had to die nonetheless." Your expedition leaves the mountain pass quickly, so the pale and mysterious community can begin to mourn this violation.</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20958</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802198</GUID>
+      <Name>Selfless Deeds 1.3.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The intention is here, but not the result.&lt;/b&gt; The bandits recognize your sailors for what they are: sharp-shooters indeed, but weaklings when it comes to close-range confrontation. The crew's threats are nothing to them. Knowing that these men know where the rest of the children are held, your crew hands them to the villagers along with the kids they found, and leave with a feeling of defeat.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21049</LineID>
+    </Text>
+  </Values>
+</Asset>

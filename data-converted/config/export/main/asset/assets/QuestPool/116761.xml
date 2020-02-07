@@ -1,0 +1,57 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>116761</GUID>
+      <Name>RQ_Explorer_Pool</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony03_tier01.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>-1455977849</QuestGroup>
+        </Item>
+      </Groups>
+      <PoolCooldown>9000000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>90000000</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionMutualAreaInSubconditions</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionMutualAreaInSubconditions />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationByLevel</PlayerCounter>
+                      <Context>112642</Context>
+                      <CounterAmount>300</CounterAmount>
+                      <CounterScope>Area</CounterScope>
+                      <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+  </Values>
+</Asset>

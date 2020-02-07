@@ -1,0 +1,119 @@
+<Template>
+  <Name>A7_QuestSustain</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <NotificationTextFemale>21471</NotificationTextFemale>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>21478</NotificationText>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <DescriptionText>3965</DescriptionText>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <QuestActivation>ManualActivation</QuestActivation>
+      <IsAbortable>1</IsAbortable>
+      <NeededProgressLevel>EarlyGame;EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_construction_sustain.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList>
+          <Item>
+            <ReputationAmount>-2</ReputationAmount>
+          </Item>
+        </ReputationFailList>
+      </ReputationQuestFail>
+      <QuestHints>
+        <Item>
+          <Text>17699</Text>
+        </Item>
+      </QuestHints>
+      <HasStarterSpeechBubble>1</HasStarterSpeechBubble>
+      <StarterSpeechBubble>
+        <Template>ConditionTutorialInteraction</Template>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintType>Object</HintType>
+            <HintAnchor>BottomRight</HintAnchor>
+            <OnlyShowOnQuestObjects>1</OnlyShowOnQuestObjects>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+      <SuccessSpeechBubble>
+        <Template>ConditionTutorialInteraction</Template>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintType>Object</HintType>
+            <HintEndCondition>Time</HintEndCondition>
+            <HintDisplayTime>30000</HintDisplayTime>
+            <HintAnchor>BottomRight</HintAnchor>
+            <OnlyShowOnQuestObjects>1</OnlyShowOnQuestObjects>
+          </ConditionTutorialInteraction>
+        </Values>
+      </SuccessSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+          </VectorElement>
+          <Reward>0</Reward>
+        </Item>
+      </RewardAssets>
+      <RewardReputation>
+        <Item>
+          <ReputationAmount>3</ReputationAmount>
+        </Item>
+      </RewardReputation>
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>SustainObjective</Template>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionPlayerCounter />
+              <ConditionQuestSustain>
+                <ResetTimer>1</ResetTimer>
+                <SustainObjectiveText>10051</SustainObjectiveText>
+              </ConditionQuestSustain>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>QuestGiver</HasStarterObject>
+    </QuestOptional>
+  </Properties>
+</Template>

@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>235854</GUID>
+      <Name>wwe_sfx_com_mortar_impact_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3668</DurationMinimum>
+          <DurationMaximum>5630</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>80</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1694000888</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

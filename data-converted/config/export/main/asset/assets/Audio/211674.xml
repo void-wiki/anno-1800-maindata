@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>211674</GUID>
+      <Name>Play_AI_DRYCARLL_DAC_EAM_00001_01CARLL_1683</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2400</DurationMinimum>
+          <DurationMaximum>2400</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2563</DurationMinimum>
+          <DurationMaximum>2563</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2358</DurationMinimum>
+          <DurationMaximum>2358</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2120</DurationMinimum>
+          <DurationMaximum>2120</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>789742732</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

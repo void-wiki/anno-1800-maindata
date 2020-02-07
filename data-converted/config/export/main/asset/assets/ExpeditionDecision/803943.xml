@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803943</GUID>
+      <Name>Cracking Ice 1.1.2.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <InsertEvent>804148</InsertEvent>
+      <Conclusion>114641</Conclusion>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_tradingpost.png</Sketch>
+        <SketchPosX>1689</SketchPosX>
+        <SketchPosY>724</SketchPosY>
+        <SketchSizeX>228</SketchSizeX>
+        <SketchSizeY>222</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>To those in the water &lt;b&gt;the encouragement sounds noticeably strained.&lt;/b&gt; Convulsing as they slip down between part-frozen cuboids, their resolve fades with the voices, the light above ever more distant. &lt;b&gt;Knowing they could have done more,&lt;/b&gt; the survivors trudge for the thin comforts of the disused trading post. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35228</LineID>
+    </Text>
+  </Values>
+</Asset>

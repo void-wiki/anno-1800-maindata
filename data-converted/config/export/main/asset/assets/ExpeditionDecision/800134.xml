@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800134</GUID>
+      <Name>Temple of the Monkey God 1.2.2.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800139</Option>
+        </Item>
+        <Item>
+          <Option>800140</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226560</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The locals are at first interested,&lt;/b&gt; but the foremost of them, clad in monkey skins and wearing a linen monkey mask begins scolding his peers, violently knocking offers from their hands with a monkey-pommeled stick. All parties are now just as agitated as before.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5644</LineID>
+    </Text>
+  </Values>
+</Asset>

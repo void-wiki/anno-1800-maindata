@@ -1,0 +1,47 @@
+<Asset>
+  <Template>Flock</Template>
+  <Values>
+    <Flock>
+      <Speed>0.2</Speed>
+      <AutoSpawnOverWholeMap>0</AutoSpawnOverWholeMap>
+      <MinHeight>5</MinHeight>
+      <MaxHeight>9</MaxHeight>
+    </Flock>
+    <Standard>
+      <GUID>1003238</GUID>
+      <Name>BirdFlock Swift</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_parrot.png</IconFilename>
+      <ID>Herd_Air_6</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_swift.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/swift/swift.cfg</AnimalCFG>
+          <RelativeProbability>50</RelativeProbability>
+        </Item>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/swift/swift_02.cfg</AnimalCFG>
+          <RelativeProbability>50</RelativeProbability>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_AmbientZones>North;South</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>3</UnitCountMin>
+      <UnitCountMax>5</UnitCountMax>
+      <AutoSpawn_RelativeProbability>5</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>235626</Animal_AudioLoop>
+    </AnimalBase>
+  </Values>
+</Asset>

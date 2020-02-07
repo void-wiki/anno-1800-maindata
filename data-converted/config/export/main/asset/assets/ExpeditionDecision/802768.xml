@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802768</GUID>
+      <Name>Jolly Roger 1.1.2.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192079</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;After a long exchange, the pirates are sunk!&lt;/b&gt; Damage is done to both ships, before finally your men "cross the T" releasing a full broadside at their prow. Immediately the enemy ship is guzzling water. Any plunder floating above their wreck can serve to compensate the small damage you have received.   </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21520</LineID>
+    </Text>
+  </Values>
+</Asset>

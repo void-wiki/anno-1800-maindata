@@ -1,0 +1,82 @@
+<Asset>
+  <Template>Farmfield</Template>
+  <Values>
+    <Standard>
+      <GUID>1010277</GUID>
+      <Name>agriculture_08_field (Pig Sty)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_general_module_01.png</IconFilename>
+      <InfoDescription>15222</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildingCategoryName>11175</BuildingCategoryName>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking>
+      <GroundDecalAsset>102509</GroundDecalAsset>
+      <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+    </Blocking>
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_08/agriculture_08_field_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_08/agriculture_08_field_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_08/agriculture_08_field_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_08/agriculture_08_field_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_08/agriculture_08_field_05.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pig Sty</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5244</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <BuildingModule />
+    <AmbientMoodProvider>
+      <DynamicEnvironmentType>None</DynamicEnvironmentType>
+    </AmbientMoodProvider>
+  </Values>
+</Asset>

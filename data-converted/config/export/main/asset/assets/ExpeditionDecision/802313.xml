@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802313</GUID>
+      <Name>Release the Kraken 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your gunmen cannot keep their feet long enough.&lt;/b&gt; The ctenidious cephalopod rocks the ship to and fro, shaking your boys from the big guns, before sealing itself over an open window and sucking up men as if it had its straw in an ice cream sundae. Eventually after enough poking and prodding the monstrosity relinquishes its goily grasp, and flops back to the deep to digest the better part of your crew to a liquid.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20945</LineID>
+    </Text>
+  </Values>
+</Asset>

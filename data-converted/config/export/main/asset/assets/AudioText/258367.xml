@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Whenever you back out, you can expect retribution. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10645</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222589</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258367</GUID>
+      <Name>AT_ai05_PlyrCancelsTradeRights1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20323</GUID>
+      <Name>AdditionalProvisionsInfo</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_trade.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residences with the [ItemAssetData([RefGuid]) AllSubstituteNeedsFormatted] need fulfilled, are provided with [ItemAssetData([RefGuid]) AllProvidedNeedsFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29033</LineID>
+    </Text>
+  </Values>
+</Asset>

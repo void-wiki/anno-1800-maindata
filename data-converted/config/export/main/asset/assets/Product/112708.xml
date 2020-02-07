@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>112708</GUID>
+      <Name>heat from heater</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_heating_center.png</IconFilename>
+      <ID>ServiceHeat</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Heat</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35133</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <ProductColor>-11415604</ProductColor>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <IsAbstract>1</IsAbstract>
+      <AssociatedRegion>Arctic</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

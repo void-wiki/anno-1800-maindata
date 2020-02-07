@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141771</GUID>
+      <Name>Military Island War Offense Won</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14605</Headline>
+      <Subline>14622</Subline>
+      <Image>142116</Image>
+      <Category>Military</Category>
+      <NewsPriority>
+        <StartValue>525</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>RiotChanceGlobal</ArticleEffect>
+      <EffectValue>-50</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

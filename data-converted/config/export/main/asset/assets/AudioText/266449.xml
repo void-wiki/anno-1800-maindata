@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>No I refuse to be quiet / Now everything’s out in the light / If in loading screens, the harbour, / or in the trading menu / forever I’ll wear a tutu!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17035</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233127</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_23</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266449</GUID>
+      <Name>AT_ai07_Credits05</Name>
+    </Standard>
+  </Values>
+</Asset>

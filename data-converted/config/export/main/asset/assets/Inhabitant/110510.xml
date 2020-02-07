@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>110510</GUID>
+      <Name>praying_resident_normal_m</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/quest/new_quest_units/praying_residents/praying_resident_normal_m_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dm/graphics/quest/new_quest_units/praying_residents/praying_resident_normal_m_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dm/graphics/quest/new_quest_units/praying_residents/praying_resident_normal_m_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

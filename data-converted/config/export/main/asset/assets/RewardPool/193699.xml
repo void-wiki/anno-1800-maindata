@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193699</GUID>
+      <Name>Culture - Farming Plants EU - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>111111</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111116</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114656</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114670</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

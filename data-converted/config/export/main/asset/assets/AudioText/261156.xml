@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Watch out. There'll be trouble on the way, if you start stirring in the pond. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12662</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229703</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261156</GUID>
+      <Name>AT_ai05_WelcomeCampaign</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12972</GUID>
+      <Name>DeliveryContext_Combined_SingleItems</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deliver to [AssetData([Conditions QuestCondition ExecutionObject]) Text]: &lt;br/&gt;[AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18286</LineID>
+    </Text>
+  </Values>
+</Asset>

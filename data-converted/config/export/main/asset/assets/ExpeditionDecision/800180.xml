@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800180</GUID>
+      <Name>The Inspector 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800185</Option>
+        </Item>
+        <Item>
+          <Option>800186</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"This is far from over!"&lt;/b&gt; the Inspector snarls as he evacuates his men to the row boat. Sure enough, back aboard the royal clipper, he is seen making preparations to attack. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5791</LineID>
+    </Text>
+  </Values>
+</Asset>

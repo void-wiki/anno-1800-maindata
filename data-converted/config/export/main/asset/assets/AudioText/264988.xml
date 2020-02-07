@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You have father’s fortitude! These people will follow you as  they once followed him.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15494</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232222</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264988</GUID>
+      <Name>advisor_01_RepayYourDebt_01</Name>
+    </Standard>
+  </Values>
+</Asset>

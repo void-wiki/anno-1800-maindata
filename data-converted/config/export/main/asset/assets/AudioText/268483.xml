@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What better for an expedition than a flagship!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19764</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238163</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268483</GUID>
+      <Name>AT_MurmurMale5_Flagship_ShipOnExpedition01</Name>
+    </Standard>
+  </Values>
+</Asset>

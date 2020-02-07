@@ -1,0 +1,65 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>115170</GUID>
+      <Name>Trigger Spawn Otzi Man</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>112643</Context>
+            <CounterAmount>300</CounterAmount>
+            <CounterScope>Region</CounterScope>
+            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+            <CounterScopeContext>160001</CounterScopeContext>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSpawnObjects</Template>
+            <Values>
+              <Action />
+              <ActionSpawnObjects>
+                <SpawnGUID>115164</SpawnGUID>
+                <Amount>1</Amount>
+              </ActionSpawnObjects>
+              <SpawnArea>
+                <SpawnContext>ForceContextPosition</SpawnContext>
+                <ContextGUID>116842</ContextGUID>
+                <DistanceToContext>2</DistanceToContext>
+              </SpawnArea>
+              <SessionFilter>
+                <Sessions>
+                  <Item>
+                    <Session>180045</Session>
+                  </Item>
+                </Sessions>
+              </SessionFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>115169</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+    </TriggerSetup>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141204</GUID>
+      <Name>FirstEngineersSettled</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11186</Headline>
+      <Subline>11187</Subline>
+      <Image>141276</Image>
+      <Category>Progress</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>394</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

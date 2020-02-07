@@ -1,0 +1,50 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141050</GUID>
+      <Name>Propaganda Happiness Weak</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>10970</Headline>
+      <Subline>10971</Subline>
+      <Image>142283</Image>
+      <NewsPriority>
+        <StartValue>2</StartValue>
+        <LossOnPublish>0</LossOnPublish>
+        <RecoveryByInterval>0</RecoveryByInterval>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Minimum>0</Minimum>
+        <Maximum>0</Maximum>
+      </NewsPriority>
+      <ArticleType>Propaganda</ArticleType>
+      <EffectValue>5</EffectValue>
+      <ArticleEffects>
+        <Item>
+          <ArticleEffect>HappinessGlobal</ArticleEffect>
+          <ArticleValue>5</ArticleValue>
+        </Item>
+      </ArticleEffects>
+      <InfluenceCosts>30</InfluenceCosts>
+      <ArticleName>10938</ArticleName>
+    </NewspaperArticle>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+    </Locked>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>140540</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+      <AutoSelfUnlock>1</AutoSelfUnlock>
+    </TriggerSetup>
+  </Values>
+</Asset>

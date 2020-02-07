@@ -1,0 +1,56 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>110806</GUID>
+      <Name>Paranoia - Leon family</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_worker_405.png</IconFilename>
+    </Standard>
+    <Collectable>
+      <DestroyOnCollect>0</DestroyOnCollect>
+      <CollectOnSelection>0</CollectOnSelection>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+      <InitialVisibility>0</InitialVisibility>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/quest/unit_groups/worker_with_children/worker_with_children.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Leon's family</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31297</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController>
+      <UseMeshRenderFlags>1</UseMeshRenderFlags>
+    </FeedbackController>
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

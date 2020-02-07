@@ -1,0 +1,58 @@
+<Asset>
+  <BaseAssetGUID>1010271</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101281</GUID>
+      <Name>agriculture_colony01_09_field (Cattle Pasture)</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_colony01_09_module/agriculture_colony01_09_module_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_colony01_09_module/agriculture_colony01_09_module_02.cfg</Filename>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Farmfield</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Farmfield</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LineID>8495</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <BuildingModule />
+    <AmbientMoodProvider />
+  </Values>
+</Asset>

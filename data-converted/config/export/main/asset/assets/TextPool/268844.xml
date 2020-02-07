@@ -1,0 +1,40 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268844</GUID>
+      <Name>Pool_3rdParty04_NegDiplomacyWithFriend</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>256437</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256438</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256439</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>186046179</Group>
+        </Item>
+        <Item>
+          <Group>687958689</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

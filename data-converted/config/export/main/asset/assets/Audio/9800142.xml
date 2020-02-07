@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>9800142</GUID>
+      <Name>wwe_sfx_veh_horse_drawn_carriage_01_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <ClusterRange>10</ClusterRange>
+      <MaxAttenuation>16</MaxAttenuation>
+      <StopEvent>9800147</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>768613229</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

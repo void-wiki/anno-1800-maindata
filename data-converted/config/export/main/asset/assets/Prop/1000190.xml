@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>1000190</GUID>
+      <Name>Table</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/furniture/table_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/furniture/table_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/furniture/table_03_static.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/furniture/table_04.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

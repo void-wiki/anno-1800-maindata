@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192950</GUID>
+      <Name>QI Hot Jam Tarts - Passionate Love</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_crates.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>'Hot' Jam Tarts</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29843</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103060</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

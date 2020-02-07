@@ -1,0 +1,44 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>264414</GUID>
+      <Name>Pool_3rd_party03_SinkShipObserverToInitiator</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258457</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258458</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258460</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258461</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258463</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258468</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258469</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

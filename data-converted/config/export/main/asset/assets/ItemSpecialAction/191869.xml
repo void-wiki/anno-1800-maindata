@@ -1,0 +1,59 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191869</GUID>
+      <Name>24 cm Mörser M 98</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_howitzer_3.png</IconFilename>
+      <InfoDescription>19712</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <UseEffectAsset>1</UseEffectAsset>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>102340</Projectile>
+      <BarrageCount>1</BarrageCount>
+      <ActionRadius>1</ActionRadius>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>100</ActionDistance>
+      <ActionCooldown>30000</ActionCooldown>
+      <ActionDuration>2000</ActionDuration>
+      <ActiveBuff>193241</ActiveBuff>
+      <ActionDescription>20071</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>644000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mulcher M1897</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26803</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>50</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19712</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

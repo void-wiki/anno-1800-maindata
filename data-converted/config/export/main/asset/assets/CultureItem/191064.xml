@@ -1,0 +1,48 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191064</GUID>
+      <Name>ox</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_oxen.png</IconFilename>
+      <InfoDescription>13686</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ox</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26437</LineID>
+    </Text>
+    <Item>
+      <TradePrice>7000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100813</ChangeModule>
+      <ForcedFeedbackVariation>1000044</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203422</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>14083</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

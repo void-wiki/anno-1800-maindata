@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>801942</GUID>
+      <Name>The Infiltration</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Infiltration</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23616</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <StartDecision>801943</StartDecision>
+      <EventVideo>data/ui/video/expedition/campaign_02_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

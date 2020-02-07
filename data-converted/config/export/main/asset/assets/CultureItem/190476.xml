@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190476</GUID>
+      <Name>redbeard's skeleton</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_museum_readbeard_skeletton.png</IconFilename>
+      <InfoDescription>10496</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Barbarossa's Bones</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15052</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Epic</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>191128</ItemSet>
+      <TradePrice>300000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010483</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>20</BaseMorale>
+      <ItemRegions>NorthAmerica;NorthAfrica;Africa;SouthernEurope;CentralEurope</ItemRegions>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

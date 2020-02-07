@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>226726</GUID>
+      <Name>wwe_spot_river_fast_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>226729</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>226727</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+      <ClusterSmoothPositioning>0</ClusterSmoothPositioning>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3057321364</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

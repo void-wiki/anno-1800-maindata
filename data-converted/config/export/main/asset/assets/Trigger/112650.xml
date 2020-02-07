@@ -1,0 +1,69 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>112650</GUID>
+      <Name>Intermediate Arctic 2.2</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>112643</Context>
+            <CounterAmount>300</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>112688</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112719</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>116034</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>117267</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>116287</Asset>
+                  </Item>
+                </UnlockAssets>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>112722</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>116029</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>114192</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>117074</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>117561</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

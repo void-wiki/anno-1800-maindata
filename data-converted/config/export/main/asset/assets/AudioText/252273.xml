@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It's out of my hands now...</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3999</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236252</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252273</GUID>
+      <Name>AT_Reporter_NewsPublishAuto1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,35 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <AmbientName>Portrait Light silhouette</AmbientName>
+      <PortraitCameraAmbientConfig>
+        <Kontor>
+          <AmbientName>Portrait Light silhouette</AmbientName>
+        </Kontor>
+        <Trader>
+          <AmbientName>Portrait Light silhouette</AmbientName>
+        </Trader>
+        <Foreign>
+          <AmbientName>Portrait Light silhouette</AmbientName>
+        </Foreign>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>116746</GUID>
+      <Name>Unknown_Silhouette</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rdparty_unknown.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/unknown/unknown.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+    </Locked>
+  </Values>
+</Asset>

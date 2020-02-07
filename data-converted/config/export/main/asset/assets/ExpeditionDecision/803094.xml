@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803094</GUID>
+      <Name>Ghosts in the Ice 1.1.1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190423</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ship is freed!&lt;/b&gt; Your artillery men take hold of the stranded ship's cannons, ordering the crew in their handling of the frozen artillery and coordinating them with your own firepower. The combined shots from both vessels trace the contours of the ice, breaking it with successive volleys until the floe parts and lets go under the united cheer of both crews. One of the sailors who helped shooting, taken with your crew's kindness and its brilliant skills, even offers to join it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23439</LineID>
+    </Text>
+  </Values>
+</Asset>

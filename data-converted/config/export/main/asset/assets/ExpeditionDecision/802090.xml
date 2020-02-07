@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802090</GUID>
+      <Name>Cut or Lift 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Butchery.&lt;/b&gt; The doctor's hands tremble more than his victim does, and the saw draws zigzags in the flesh, each cut unable to connect with the previous ones. The trapped sailor's screams become whimpers, then silence. The doctor has to be stopped before he can ruin any more of the unfortunate corpse, and his blood-clad figure sends a warning to whoever might ever need his help in the future.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21688</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Flock</Template>
+  <Values>
+    <Flock>
+      <Speed>0.14</Speed>
+      <AutoSpawnOverWholeMap>0</AutoSpawnOverWholeMap>
+      <MinHeight>7</MinHeight>
+    </Flock>
+    <Standard>
+      <GUID>101327</GUID>
+      <Name>BirdFlock Eagle</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_parrot.png</IconFilename>
+      <ID>Herd_Air_7</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_eagle.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/eagle/eagle.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>1</UnitCountMin>
+      <UnitCountMax>1</UnitCountMax>
+      <AutoSpawn_RelativeProbability>1</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>235518</Animal_AudioLoop>
+    </AnimalBase>
+  </Values>
+</Asset>

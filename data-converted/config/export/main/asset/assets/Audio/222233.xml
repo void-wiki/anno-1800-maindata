@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>222233</GUID>
+      <Name>wwe_sfx_vox_mob_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>22</MaxAttenuation>
+      <StopEvent>222234</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1412985616</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

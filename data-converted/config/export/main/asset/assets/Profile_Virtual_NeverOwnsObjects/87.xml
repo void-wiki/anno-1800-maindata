@@ -1,0 +1,41 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>87</GUID>
+      <Name>Artisan</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Artisan</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3774</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/resident_tier03.png</ProfilePicture>
+      <Portrait>100507</Portrait>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>163118</InfoCornerDescription>
+      <ParticipantID>Resident_tier03</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_01.png</NotificationBackground>
+      <DefaultColor>Color8</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers />
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Resident_tier03</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>157</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

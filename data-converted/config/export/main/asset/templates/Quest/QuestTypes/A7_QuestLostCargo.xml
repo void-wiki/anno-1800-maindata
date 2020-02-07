@@ -1,0 +1,79 @@
+<Template>
+  <Name>A7_QuestLostCargo</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <IsAbortable>1</IsAbortable>
+      <NeededProgressLevel>EarlyGame;EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_smugglewithoutscanners_delivery_pickup.png</QuestBookBackground>
+      <StarterSpeechBubble>
+        <Template>ConditionTutorialInteraction</Template>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintType>Object</HintType>
+            <HintAnchor>BottomRight</HintAnchor>
+            <OnlyShowOnQuestObjects>1</OnlyShowOnQuestObjects>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+      <SuccessSpeechBubble>
+        <Template>ConditionTutorialInteraction</Template>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintType>Object</HintType>
+            <HintEndCondition>Time</HintEndCondition>
+            <HintDisplayTime>30000</HintDisplayTime>
+            <HintAnchor>BottomRight</HintAnchor>
+            <OnlyShowOnQuestObjects>1</OnlyShowOnQuestObjects>
+          </ConditionTutorialInteraction>
+        </Values>
+      </SuccessSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardAssets />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>PickupObjective</Template>
+            <Values>
+              <ConditionQuestPickup />
+              <ConditionQuestObjective />
+              <SpawnArea>
+                <SpawnAreaType>Mountain_01</SpawnAreaType>
+                <DistanceToBorder />
+              </SpawnArea>
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectAnywhere</Template>
+                  <Values>
+                    <ConditionObjectAnywhere />
+                  </Values>
+                </ExecutionPlace>
+              </ConditionPropsExecutionPlaceSettings>
+              <ConditionPropsSessionSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+  </Properties>
+</Template>

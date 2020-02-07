@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ProductFilter</Template>
+  <Values>
+    <Standard>
+      <GUID>502030</GUID>
+      <Name>Filter by Good Type - KontorArctic</Name>
+    </Standard>
+    <ProductFilter>
+      <Categories>
+        <Item>
+          <Icon>17624</Icon>
+          <ProductList>502068</ProductList>
+        </Item>
+        <Item>
+          <Icon>11511</Icon>
+          <ProductList>502035</ProductList>
+        </Item>
+        <Item>
+          <Icon>11510</Icon>
+          <ProductList>501957</ProductList>
+        </Item>
+        <Item>
+          <Icon>11512</Icon>
+          <ProductList>502054</ProductList>
+        </Item>
+        <Item>
+          <Icon>11513</Icon>
+          <ProductList>502042</ProductList>
+        </Item>
+        <Item>
+          <Icon>11514</Icon>
+          <ProductList>502048</ProductList>
+        </Item>
+      </Categories>
+    </ProductFilter>
+  </Values>
+</Asset>

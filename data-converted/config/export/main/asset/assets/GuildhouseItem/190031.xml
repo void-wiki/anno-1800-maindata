@@ -1,0 +1,52 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190031</GUID>
+      <Name>fertility cocoa</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cocoa.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cocoa Seeds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27049</LineID>
+    </Text>
+    <Item>
+      <IsDestroyedOnUnequip>1</IsDestroyedOnUnequip>
+      <Rarity>Rare</Rarity>
+      <TradePrice>10000</TradePrice>
+      <TradePriceOnlineCurrency>100</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade>
+      <AddedFertility>1010575</AddedFertility>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010332</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

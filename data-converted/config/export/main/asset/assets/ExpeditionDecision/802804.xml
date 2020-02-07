@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802804</GUID>
+      <Name>Taken In Broken Out 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802806</Option>
+        </Item>
+        <Item>
+          <Option>802807</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Two guards are not enough to resist your science.&lt;/b&gt; The doctor brings out a sachet of vials and packets and produces leathery pouches filled with white powders, some matte, some glittering like sugar. He mixes a bit of this one and a bit of that one, gauging measures with the eye of the seasoned practitioner, then calls to the guards. When the unsuspecting wardens are close enough, the doctor blows the mixture in their face. The men drop dead!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22015</LineID>
+    </Text>
+  </Values>
+</Asset>

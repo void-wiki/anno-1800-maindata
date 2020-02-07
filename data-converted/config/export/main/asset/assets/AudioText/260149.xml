@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>That's not in the handbook!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11470</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223625</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260149</GUID>
+      <Name>AT_visitor_GenRejection2</Name>
+    </Standard>
+  </Values>
+</Asset>

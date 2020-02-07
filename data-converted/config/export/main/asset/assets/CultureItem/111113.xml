@@ -1,0 +1,46 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>111113</GUID>
+      <Name>Staghorn Coral</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_staghorn_coral.png</IconFilename>
+      <InfoDescription>112749</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Staghorn Coral</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33122</LineID>
+    </Text>
+    <Item>
+      <Allocation>BotanicGarden</Allocation>
+      <Rarity>Uncommon</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>193655</ItemSet>
+      <TradePrice>22400</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>111093</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>20</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemRegions>SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>112749</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

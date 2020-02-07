@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>202261</GUID>
+      <Name>wwe_sfx_bld_heavy_06_steam_hiss_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3912</DurationMinimum>
+          <DurationMaximum>8279</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2679242744</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

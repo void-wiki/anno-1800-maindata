@@ -1,0 +1,69 @@
+<Asset>
+  <Template>FeedbackVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>101203</GUID>
+      <Name>CQO_Rowboat_Castaways (Quest Object)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rowing_boat.png</IconFilename>
+      <InfoDescription>1083</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/castaway_lifeboat/castaway_lifeboat_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <SelectionPriority>1</SelectionPriority>
+    </Selection>
+    <Walking>
+      <ReservationLength>9</ReservationLength>
+      <ReservationWidth>5</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <LeaningMaxAngle>27</LeaningMaxAngle>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Prison Transport Lifeboat</Text>
+          <Status>Localization</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+      <TradeShipPoints>1</TradeShipPoints>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+      <FactorMovement>0</FactorMovement>
+      <FactorRotation>0</FactorRotation>
+      <AffectedByDriftingWhileIdle>0</AffectedByDriftingWhileIdle>
+      <AffectedByDriftingWhileMoving>0</AffectedByDriftingWhileMoving>
+      <CausesDrifting>0</CausesDrifting>
+      <UseSlowDownTactic>0</UseSlowDownTactic>
+    </Drifting>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+      <StrategicMapAsset>500433</StrategicMapAsset>
+    </MinimapToken>
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+  </Values>
+</Asset>

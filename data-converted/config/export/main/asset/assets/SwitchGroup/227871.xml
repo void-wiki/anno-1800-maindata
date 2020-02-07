@@ -1,0 +1,32 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>227871</GUID>
+      <Name>SW_monument</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>227866</Choice>
+        </Item>
+        <Item>
+          <Choice>227867</Choice>
+        </Item>
+        <Item>
+          <Choice>227868</Choice>
+        </Item>
+        <Item>
+          <Choice>227869</Choice>
+        </Item>
+        <Item>
+          <Choice>227870</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>103327465</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

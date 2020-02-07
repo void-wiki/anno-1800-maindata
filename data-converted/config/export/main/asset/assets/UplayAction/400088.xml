@@ -1,0 +1,33 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400088</GUID>
+      <Name>Action_Achievement_City Planner</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Construction</AchievementCategory>
+      <AchievementTitle>15552</AchievementTitle>
+      <AchievementDescription>15553</AchievementDescription>
+      <AchievementUPlayID>14</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionBuildingsInBlueprintmode</Template>
+        <Values>
+          <Condition />
+          <ConditionBuildingsInBlueprintmode>
+            <BuildingCount>10</BuildingCount>
+          </ConditionBuildingsInBlueprintmode>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>105</UplayActionID>
+      <UplayXP>50</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

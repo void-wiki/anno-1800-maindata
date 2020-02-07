@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionThreat</Template>
+  <Values>
+    <Standard>
+      <GUID>800029</GUID>
+      <Name>Diplomacy</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_option_negotiate.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Diplomacy</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15225</LineID>
+    </Text>
+    <ExpeditionThreat>
+      <Attributes>Diplomacy</Attributes>
+      <ThreatDescriptions>
+        <Item>
+          <Description>2539</Description>
+        </Item>
+      </ThreatDescriptions>
+      <Hint>12699</Hint>
+    </ExpeditionThreat>
+  </Values>
+</Asset>

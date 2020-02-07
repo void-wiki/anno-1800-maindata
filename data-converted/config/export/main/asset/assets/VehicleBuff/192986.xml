@@ -1,0 +1,29 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>192986</GUID>
+      <Name>IllnessDebuff</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_incident_diseases.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Infected</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29854</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

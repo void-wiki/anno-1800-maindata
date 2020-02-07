@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802188</GUID>
+      <Name>Selfless Deeds 1.2.2.2.1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Pity to let the culprits escape so easily.&lt;/b&gt; The sailors bring the children back to their respective families, but the kids' joy fails to hide how many more could have been saved given an extra effort.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21040</LineID>
+    </Text>
+  </Values>
+</Asset>

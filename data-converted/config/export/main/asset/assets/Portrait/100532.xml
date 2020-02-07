@@ -1,0 +1,42 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/malching_ai_08.portraitcamleft</CamFile>
+        </Left>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/malching_ai_08.portraitcamleft</CamFile>
+        </VideoLeft>
+        <ProfileCreation>
+          <CamFile>data/config/portraitcam/creategame_malching.portraitcam</CamFile>
+        </ProfileCreation>
+        <CreateGame>
+          <CamFile>data/config/portraitcam/creategame_malching.portraitcam</CamFile>
+        </CreateGame>
+        <ActiveTrade>
+          <CamFile>data/config/portraitcam/activetrade_default.portraitcam</CamFile>
+        </ActiveTrade>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>100532</GUID>
+      <Name>ai_07 (Carl Leonard von Malching)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_07.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/ai_07/ai_07.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

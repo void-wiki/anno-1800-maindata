@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803776</GUID>
+      <Name>Permit A38 1.3.</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Too bad for the planned nice time on land, administration is one of the circle of hell</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803777</Decision>
+        </Item>
+      </FollowupDecisions>
+      <IsUnFavorableOption>1</IsUnFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

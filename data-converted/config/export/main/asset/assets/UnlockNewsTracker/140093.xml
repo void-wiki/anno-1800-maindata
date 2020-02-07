@@ -1,0 +1,32 @@
+<Asset>
+  <Template>UnlockNewsTracker</Template>
+  <Values>
+    <Standard>
+      <GUID>140093</GUID>
+      <Name>UnlockNewsTracker</Name>
+    </Standard>
+    <NewsTrackerBase>
+      <NewsTrackerScope>Global</NewsTrackerScope>
+    </NewsTrackerBase>
+    <UnlockNewsTracker>
+      <UnlockNews>
+        <Item>
+          <UnlockAsset>1010283</UnlockAsset>
+          <Article>140359</Article>
+        </Item>
+        <Item>
+          <UnlockAsset>1010285</UnlockAsset>
+          <Article>140360</Article>
+        </Item>
+        <Item>
+          <UnlockAsset>1010280</UnlockAsset>
+          <Article>141204</Article>
+        </Item>
+        <Item>
+          <UnlockAsset>1010489</UnlockAsset>
+          <Article>141205</Article>
+        </Item>
+      </UnlockNews>
+    </UnlockNewsTracker>
+  </Values>
+</Asset>

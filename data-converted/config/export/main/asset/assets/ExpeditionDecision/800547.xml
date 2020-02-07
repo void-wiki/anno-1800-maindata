@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800547</GUID>
+      <Name>The Visitation 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is nothing so savage.&lt;/b&gt; All are concealed around the strip of meat, expecting the worst. But what descends from the rafters of the hold, silent and gentle winged, is a luminous white owl. It is an ambiguous omen, according to those that know, but the sailors are content to keep it aboard. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5561</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,45 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>114672</GUID>
+      <Name>Tiger-Spotted Stanhopea</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_spotted_stanhopea.png</IconFilename>
+      <InfoDescription>114689</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tiger-Spotted Stanhopea</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33413</LineID>
+    </Text>
+    <Item>
+      <Allocation>BotanicGarden</Allocation>
+      <Rarity>Epic</Rarity>
+      <ItemType>Normal</ItemType>
+      <TradePrice>220000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>111083</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemRegions>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>114689</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

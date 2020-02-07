@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>22171</GUID>
+      <Name>SustaintradeBalance</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Passive Trade Balance: [Conditions QuestCondition CurrentAmount]&lt;br /&gt;&lt;br /&gt;Establish and maintain a positive passive trade balance for [Conditions QuestCondition TimeLimit &gt;&gt; time]</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31429</LineID>
+    </Text>
+  </Values>
+</Asset>

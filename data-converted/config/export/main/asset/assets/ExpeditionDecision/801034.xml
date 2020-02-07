@@ -1,0 +1,38 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801034</GUID>
+      <Name>Dockyard Dupe 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801036</Option>
+        </Item>
+        <Item>
+          <Option>801039</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your assault is too slow.&lt;/b&gt; Just as you begin to gain the upper hand over the defenders, the cavalry appear. Cannons pop from the west; a slew of artillery reinforcements. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13113</LineID>
+    </Text>
+  </Values>
+</Asset>

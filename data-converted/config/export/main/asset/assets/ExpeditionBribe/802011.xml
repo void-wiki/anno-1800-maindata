@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>802011</GUID>
+      <Name>Cracks in the Hull 1.2.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Make a decision, who knows what happens if you don't!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21885</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>15600</TraderName>
+      <FollowupSuccessOption>802017</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802018</FollowupFailOrCancelOption>
+      <SuccessConclusion>0</SuccessConclusion>
+      <FailOrCancelConclusion>0</FailOrCancelConclusion>
+      <OptionInfotip>0</OptionInfotip>
+      <TradeHeadline>22629</TradeHeadline>
+      <AcceptOption>9960</AcceptOption>
+      <TradeType>22630</TradeType>
+      <TendencyFeedback>0</TendencyFeedback>
+      <SuccessChance>
+        <IgnoreAllTradeValues>1</IgnoreAllTradeValues>
+        <SuccessTradeValue>20</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

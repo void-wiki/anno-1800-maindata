@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'll scrape off your carapace you wood weevil!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1641</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211774</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250369</GUID>
+      <Name>AT_ai07_NpcMakesThreat2</Name>
+    </Standard>
+  </Values>
+</Asset>

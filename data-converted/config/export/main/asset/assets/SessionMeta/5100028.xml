@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SessionMeta</Template>
+  <Values>
+    <Standard>
+      <GUID>5100028</GUID>
+      <Name>Session Editor</Name>
+      <IconFilename>data/ui/session_images/dummy_session_small.png</IconFilename>
+      <ID>EditorSession</ID>
+    </Standard>
+    <Session>
+      <Region>5000000</Region>
+      <InMenuVisible>0</InMenuVisible>
+    </Session>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>NO LOCA MetaSession</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

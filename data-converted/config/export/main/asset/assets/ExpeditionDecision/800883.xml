@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800883</GUID>
+      <Name>Parasite Infestation 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800886</Option>
+        </Item>
+        <Item>
+          <Option>800887</Option>
+        </Item>
+        <Item>
+          <Option>800888</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctors disagree.&lt;/b&gt; "Madam! Bloodletting gives our patients only a fifty-fifty chance!" says one. "Sir, tinctures are seldom beneficial OR effective on parasites!" says the other.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13198</LineID>
+    </Text>
+  </Values>
+</Asset>

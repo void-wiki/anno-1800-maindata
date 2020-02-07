@@ -1,0 +1,61 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191623</GUID>
+      <Name>Renowned Diplomat</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_welldress_806.png</IconFilename>
+      <InfoDescription>20026</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Delores the Diplomat</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26775</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>288100</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade>
+      <MaintainanceUpgrade>
+        <Value>-80</Value>
+        <Percental>1</Percental>
+      </MaintainanceUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>20026</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <TradeShipUpgrade>
+      <ActiveTradePriceInPercent>90</ActiveTradePriceInPercent>
+    </TradeShipUpgrade>
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

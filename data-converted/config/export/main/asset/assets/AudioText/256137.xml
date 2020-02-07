@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I won't be bullied any longer!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7467</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217985</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256137</GUID>
+      <Name>AT_ai03_NpcDeclinesPlayerProposalTooOften1</Name>
+    </Standard>
+  </Values>
+</Asset>

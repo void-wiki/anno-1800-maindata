@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151482</GUID>
+      <Name>CQ420_AttackerWaves_ENDLESS_MoveObject_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionMoveObject</Template>
+            <Values>
+              <Action />
+              <ObjectFilter>
+                <ObjectGUID>101978</ObjectGUID>
+                <CheckParticipantID>1</CheckParticipantID>
+                <ObjectParticipantID>Campaign_character_02_pyrophorian_red</ObjectParticipantID>
+              </ObjectFilter>
+              <ObjectTargetFilter>
+                <TargetLabel>CQO420_FirstWave_MovePoint</TargetLabel>
+              </ObjectTargetFilter>
+              <ActionMoveObject />
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

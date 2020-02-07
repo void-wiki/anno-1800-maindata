@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800627</GUID>
+      <Name>A Grizzly Encounter 1.2.2.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew climb the trees well enough&lt;/b&gt;, but the bear isn't going to make their lives easy. It is a full day and night before it gives up shaking trunks, or climbing halfway up towards the dangling crew. When it finally leaves, the exhausted crew descend, their nerves in shreds.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5710</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193344</GUID>
+      <Name>Mercier Uncommon Edicts</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193312</ItemLink>
+          <Weight>4</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193317</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

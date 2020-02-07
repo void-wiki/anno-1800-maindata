@@ -1,0 +1,36 @@
+<Asset>
+  <Template>StreetFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>140346</GUID>
+      <Name>StreetFeature</Name>
+      <ID>StreetFeature</ID>
+    </Standard>
+    <StreetFeature>
+      <OverbuildableBy>
+        <Default />
+        <BadStreet>
+          <GoodStreet>1</GoodStreet>
+          <Railcrossing>1</Railcrossing>
+        </BadStreet>
+        <GoodStreet>
+          <Railcrossing>1</Railcrossing>
+        </GoodStreet>
+        <Rail>
+          <Railcrossing>1</Railcrossing>
+        </Rail>
+        <Railcrossing />
+        <Harbour />
+        <Visual>
+          <Default>1</Default>
+          <BadStreet>1</BadStreet>
+          <GoodStreet>1</GoodStreet>
+          <Rail>1</Rail>
+          <Railcrossing>1</Railcrossing>
+          <Harbour>1</Harbour>
+        </Visual>
+      </OverbuildableBy>
+      <StreetConnectionHintColor>-337045</StreetConnectionHintColor>
+    </StreetFeature>
+  </Values>
+</Asset>

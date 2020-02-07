@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Better hope you can hold yer own with a rapier.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8204</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220446</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256870</GUID>
+      <Name>AT_3rd_party_03_WelcomeToPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

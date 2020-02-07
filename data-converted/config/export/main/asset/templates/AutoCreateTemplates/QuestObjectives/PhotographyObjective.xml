@@ -1,0 +1,25 @@
+<Template>
+  <Name>PhotographyObjective</Name>
+  <Properties>
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12722</TextCombinedContextValue>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>501594</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <ConditionQuestPhotography />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </ExecutionPlace>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

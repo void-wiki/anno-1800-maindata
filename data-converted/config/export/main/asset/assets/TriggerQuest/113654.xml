@@ -1,0 +1,55 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>113654</GUID>
+      <Name>SL100_02_EnterSession Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionActiveSession</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveSession>
+            <ActiveSession>110934</ActiveSession>
+          </ConditionActiveSession>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionPlayMovie</Template>
+            <Values>
+              <Action />
+              <ActionPlayMovie>
+                <Movie>113466</Movie>
+              </ActionPlayMovie>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>113383</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

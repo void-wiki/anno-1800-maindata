@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21492</GUID>
+      <Name>ReplaceWorkforceInfoActive</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_trade.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Instead of its usual workforce, the building now employs [AssetData([ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) ReplacingWorkforce]) Text].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29221</LineID>
+    </Text>
+  </Values>
+</Asset>

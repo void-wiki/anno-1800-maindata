@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>So let's gather our townsfolk and ask them to spruce the place up.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15482</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232196</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>264972</GUID>
+      <Name>advisor_01_CleanTheIsland_03</Name>
+    </Standard>
+  </Values>
+</Asset>

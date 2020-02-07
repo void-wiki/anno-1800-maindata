@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We shouldn't expect to find them right away...this is a vast wilderness.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33719</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245175</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>1.5</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>116441</GUID>
+      <Name>AT_DLC03_LadyFaithful_ArcticMovie01_01</Name>
+    </Standard>
+  </Values>
+</Asset>

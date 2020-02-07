@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500126</GUID>
+      <Name>VisitorLeavingNotification</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_visitor_habour_2d.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501357</IconAsset>
+            <NotificationSideTitle>2444</NotificationSideTitle>
+            <FilterType>VisitorsAndCulture</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>2443</NotificationText>
+            <NotificationBlockingTime>1800000</NotificationBlockingTime>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationGroup>Visitors</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

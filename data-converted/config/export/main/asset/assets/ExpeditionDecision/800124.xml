@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800124</GUID>
+      <Name>Temple of the Monkey God 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226552</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;[AssetData([ExpeditionEventRequirement]) Text] negotiates the much needed-water&lt;/b&gt;, through a lengthy exchange of sound and gesture, not all of which the crew can be certain is relevant. Having collected the water, the crew are content to leave the unanswered mysteries of the Temple of the Monkey God behind them.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5628</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I feel bad for the poor jornaleros, they will never experience the bliss that comes with progress.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13828</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230681</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>263947</GUID>
+      <Name>AT_res_tier07_IdleMessageGossipJornaleros</Name>
+    </Standard>
+  </Values>
+</Asset>

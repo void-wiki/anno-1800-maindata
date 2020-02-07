@@ -1,0 +1,74 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400084</GUID>
+      <Name>Action_Achievement_Finish Campaign Hard</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Campaign</AchievementCategory>
+      <AchievementTitle>15349</AchievementTitle>
+      <AchievementDescription>15346</AchievementDescription>
+      <AchievementUPlayID>13</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionCorporationDifficulty</Template>
+        <Values>
+          <Condition />
+          <ConditionCorporationDifficulty>
+            <Difficulty>Hard</Difficulty>
+          </ConditionCorporationDifficulty>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>1000130</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>QuestSolved</PlayerCounter>
+                      <Context>151425</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>8</UplayActionID>
+      <UplayActionPoints>15</UplayActionPoints>
+      <UplayXP>300</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

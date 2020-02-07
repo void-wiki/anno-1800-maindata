@@ -1,0 +1,22 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193171</GUID>
+      <Name>Eli Epic Edicts</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192802</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193309</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

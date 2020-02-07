@@ -1,0 +1,28 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192037</GUID>
+      <Name>The Deeper You Go Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190536</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190500</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190474</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190501</ItemLink>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,180 @@
+<Asset>
+  <Template>A7_QuestDeliveryObject</Template>
+  <Values>
+    <Standard>
+      <GUID>150168</GUID>
+      <Name>An Icy Reception - Archibald Blake</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <SubtitleGroup>93739329</SubtitleGroup>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>45</QuestGiver>
+      <StoryText>3831</StoryText>
+      <PreActivationTimer>1800000</PreActivationTimer>
+      <DelayTimer>90000</DelayTimer>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180023</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>17097</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102588</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>45</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>1010247</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>An Icy Reception</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5465</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDeliveryObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>2</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDeliveryObject</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Reward>190974</Reward>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDeliveryObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ConditionQuestDelivery>
+                <DeliveryObject_cqd>
+                  <Item>
+                    <ObjectGUID>1010247</ObjectGUID>
+                    <Min>12</Min>
+                    <Max>18</Max>
+                  </Item>
+                </DeliveryObject_cqd>
+                <DeliveryExecutionPlace>
+                  <Template>ConditionObjectStarterObject</Template>
+                  <Values>
+                    <ConditionScanner />
+                    <ConditionObjectStarterObject />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </DeliveryExecutionPlace>
+              </ConditionQuestDelivery>
+              <ConditionQuestObjective />
+              <ObjectiveScaling />
+              <ConditionPropsSessionSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102588</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>ClientObject</SpawnContext>
+                        <DistanceToContext>30</DistanceToContext>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Third_party_02_Blake</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>500173</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

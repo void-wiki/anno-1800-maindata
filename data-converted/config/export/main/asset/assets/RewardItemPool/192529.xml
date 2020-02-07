@@ -1,0 +1,38 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192529</GUID>
+      <Name>2nd_party_10 (Margaret Hunt) Common Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_1.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192627</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193050</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192799</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193453</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193458</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193463</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193707</ItemLink>
+          <Weight>7</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

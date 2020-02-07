@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010200</GUID>
+      <Name>fish</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fish.png</IconFilename>
+      <InfoDescription>11737</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fish</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3749</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11704</ProductCategory>
+      <BasePrice>20</BasePrice>
+      <CivLevel>1</CivLevel>
+      <AssociatedRegion>Moderate;Colony01</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

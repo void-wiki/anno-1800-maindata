@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I have assembled many of the finest-known craftsmen and ship-builders at our outpost. Presently they are preparing the shipyards to house our impressive icebreakers— vessels that will help carve a way through this frozen world.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17556</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233675</AudioAsset>
+      <DialogSequence>4</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267224</GUID>
+      <Name>AT_LadyFaithful_EventMovie02_02</Name>
+    </Standard>
+  </Values>
+</Asset>

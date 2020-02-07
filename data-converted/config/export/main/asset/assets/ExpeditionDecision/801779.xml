@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801779</GUID>
+      <Name>The Infiltration 1.2.1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801763</Option>
+        </Item>
+        <Item>
+          <Option>801766</Option>
+        </Item>
+      </Options>
+      <NegativeOutcomeLosses>LoseSpecialistPreferAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The glass does not entirely give, and the noise echoes across the yard.&lt;/b&gt; Footsteps come from both sides, and your infiltrator is caught. With little time now before the contract is moved on by foot or horseback, &lt;b&gt;the rest of your brigade open fire.&lt;/b&gt; Cloaked figures on horseback flood into the garden from the stables. Even the gardeners have downed tools and pulled pistols. This is going to be rough.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21206</LineID>
+    </Text>
+  </Values>
+</Asset>

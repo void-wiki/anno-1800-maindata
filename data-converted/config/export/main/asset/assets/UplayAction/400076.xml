@@ -1,0 +1,37 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400076</GUID>
+      <Name>Action_Achievement_Full Steam Ahead</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Construction</AchievementCategory>
+      <AchievementTitle>15354</AchievementTitle>
+      <AchievementDescription>15355</AchievementDescription>
+      <AchievementUPlayID>16</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Common</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>ObjectBuilt</ConditionEvent>
+            <ContextAsset>400078</ContextAsset>
+            <ContextAssetInfolayer>0</ContextAssetInfolayer>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>106</UplayActionID>
+      <UplayXP>50</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,20 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193179</GUID>
+      <Name>Sarmento Legendary Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192656</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192646</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

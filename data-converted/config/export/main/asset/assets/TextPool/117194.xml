@@ -1,0 +1,53 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117194</GUID>
+      <Name>Pool_Technician_Chilly</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>115884</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115885</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115886</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115887</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115888</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115889</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115890</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115891</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115893</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115894</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

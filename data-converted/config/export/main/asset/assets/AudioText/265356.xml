@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A competitor has completed their monument!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15942</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234063</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265356</GUID>
+      <Name>AT_Narrator_Monument_Information_MonumentCompletedOtherPlayer</Name>
+    </Standard>
+  </Values>
+</Asset>

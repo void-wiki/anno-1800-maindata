@@ -1,0 +1,36 @@
+<Asset>
+  <Template>MineSlotSet</Template>
+  <Values>
+    <Standard>
+      <GUID>142547</GUID>
+      <Name>Set 03 (Coal Focus, No Oil)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_mineral_desposits.png</IconFilename>
+    </Standard>
+    <ResourceSetCondition>
+      <Priority>10</Priority>
+      <AllowedRegion>Moderate</AllowedRegion>
+      <AllowedIslandType>Normal</AllowedIslandType>
+      <AllowedIslandDifficulty>Normal;Hard</AllowedIslandDifficulty>
+      <AllowedResourceAmounts>Low</AllowedResourceAmounts>
+    </ResourceSetCondition>
+    <MineSlotResourceSet>
+      <MineSlots>
+        <Item>
+          <MineSlot>1010500</MineSlot>
+        </Item>
+        <Item>
+          <MineSlot>1010500</MineSlot>
+        </Item>
+        <Item>
+          <MineSlot>1010504</MineSlot>
+        </Item>
+        <Item>
+          <MineSlot>1010501</MineSlot>
+        </Item>
+        <Item>
+          <MineSlot>1010500</MineSlot>
+        </Item>
+      </MineSlots>
+    </MineSlotResourceSet>
+  </Values>
+</Asset>

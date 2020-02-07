@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Don't let those Pyrphorians near my vases!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16959</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232873</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266571</GUID>
+      <Name>AT_ai06_WelcomeCampaignBattle</Name>
+    </Standard>
+  </Values>
+</Asset>

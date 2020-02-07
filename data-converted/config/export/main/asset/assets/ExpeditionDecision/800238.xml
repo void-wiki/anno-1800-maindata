@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800238</GUID>
+      <Name>Of Unsound Mind 1.2.4</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistWithAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Hellish horror ensues,&lt;/b&gt; as the doctor insists on checking if 'ought is stuck in the throat'. As he prises open the lion's jaws, the daemon creature lurches up into his throat. So frenzied is this vampiric assault, that there is little the crew can do but to raise their pistols to the gruesomeness. When the gunsmoke clears, doctor and patient lie dead, entwined and contorted beneath a bloody dew.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5735</LineID>
+    </Text>
+  </Values>
+</Asset>

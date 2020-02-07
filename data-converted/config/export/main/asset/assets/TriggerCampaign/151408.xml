@@ -1,0 +1,51 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151408</GUID>
+      <Name>CQ401_CourtOfJustice_Dialog01_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>MovieFinished</ConditionEvent>
+            <ContextAsset>300014</ContextAsset>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>31</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationLabel>Noti_CourtOfJustice_01</NotificationLabel>
+                      <NotificationText>12461</NotificationText>
+                      <NotificationPriority>702</NotificationPriority>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267547</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

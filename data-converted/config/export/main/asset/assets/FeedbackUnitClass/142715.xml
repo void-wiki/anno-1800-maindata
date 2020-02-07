@@ -1,0 +1,17 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142715</GUID>
+      <Name>UniformedWithLantern</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142716</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Greet;Talk;DangerAvoiding</AllowedReactions>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

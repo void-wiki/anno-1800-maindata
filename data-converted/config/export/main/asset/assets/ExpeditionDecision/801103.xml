@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801103</GUID>
+      <Name>The Arid Basin 1.3.2.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Hardly seems worth waiting for.&lt;/b&gt; The hippos wallow all evening, leaving only as night falls to graze. The crew have lost half a day's march on the rendezvous, for a bit of muddy water. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16112</LineID>
+    </Text>
+  </Values>
+</Asset>

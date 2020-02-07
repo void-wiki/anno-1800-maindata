@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800166</GUID>
+      <Name>Calico's Rogues Snare a Merchant Ship 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The attack is an abysmal failure.&lt;/b&gt; Almost every cannon shoots wayward, giving the pirates ample time to prepare their own onslaught. They laugh and cheer, and shout awful things as your tattered ship is forced to flee in shame.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5521</LineID>
+    </Text>
+  </Values>
+</Asset>

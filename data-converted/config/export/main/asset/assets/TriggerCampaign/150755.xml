@@ -1,0 +1,42 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150755</GUID>
+      <Name>CAMPAIGN - TunnelMonumentLaststepUnlock</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>150773</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>101186</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>101135</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,59 @@
+<Asset>
+  <Template>Matcher</Template>
+  <Values>
+    <Standard>
+      <GUID>151852</GUID>
+      <Name>BlueprintMatcher</Name>
+    </Standard>
+    <Matcher>
+      <Criterion>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <MatcherCriterion />
+          <MatcherCriterionAnd>
+            <CriterionOperandListAnd>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>0</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>MatcherCriterionAnd</TemplateName>
+                      <Index>0</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <CriterionOperand>
+                  <Template>MatcherCriterionObjectState</Template>
+                  <Values>
+                    <MatcherCriterion />
+                    <MatcherCriterionObjectState>
+                      <StateFlagsMatched>Blueprint</StateFlagsMatched>
+                    </MatcherCriterionObjectState>
+                  </Values>
+                </CriterionOperand>
+              </Item>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>1</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>MatcherCriterionAnd</TemplateName>
+                      <Index>1</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <CriterionOperand>
+                  <Template>MatcherCriterionOwner</Template>
+                  <Values>
+                    <MatcherCriterion />
+                    <MatcherCriterionOwner />
+                  </Values>
+                </CriterionOperand>
+              </Item>
+            </CriterionOperandListAnd>
+          </MatcherCriterionAnd>
+        </Values>
+      </Criterion>
+    </Matcher>
+  </Values>
+</Asset>

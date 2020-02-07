@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>205088</GUID>
+      <Name>sfx_props_wheel02_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>35</MaxAttenuation>
+      <StopEvent>205089</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2229093562</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

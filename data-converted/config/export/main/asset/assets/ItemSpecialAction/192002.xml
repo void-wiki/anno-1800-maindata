@@ -1,0 +1,61 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>192002</GUID>
+      <Name>Elektron Grenades</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_fire_bomb_2.png</IconFilename>
+      <InfoDescription>19587</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <UseEffectAsset>1</UseEffectAsset>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>102627</Projectile>
+      <BarrageCount>1</BarrageCount>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001744</ActionTarget>
+      <ActionDistance>45</ActionDistance>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <Charges>5</Charges>
+      <ActionDuration>2000</ActionDuration>
+      <ActiveBuff>193239</ActiveBuff>
+      <ActionDescription>22097</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>30000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Incendiary Grenades</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26866</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19587</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <CraftableItem />
+  </Values>
+</Asset>

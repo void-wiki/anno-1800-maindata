@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802964</GUID>
+      <Name>Through the Jungle 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802950</Option>
+        </Item>
+        <Item>
+          <Option>802953</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The cannonfire has precisely the desired effect.&lt;/b&gt; A bellowing crack, and the high cliff spills several hundred tonnes of orange sandstone into the river. Having contemplated this new obstacle, the Iron Dragon turns, and disappears back downstream. With the rapids ahead, you are forced to admit &lt;b&gt;the river has taken you as far as it can.&lt;/b&gt; You must decide whether to continue across a marsh of uncertain depth, or as Ramón suggests, through a nearby network of caves.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23736</LineID>
+    </Text>
+  </Values>
+</Asset>

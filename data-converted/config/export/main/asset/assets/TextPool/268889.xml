@@ -1,0 +1,52 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268889</GUID>
+      <Name>Pool_3rdParty05_Ship Trade</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>259866</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260944</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260942</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260945</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256895</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256965</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256945</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>91574379</Group>
+        </Item>
+        <Item>
+          <Group>-1357025055</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

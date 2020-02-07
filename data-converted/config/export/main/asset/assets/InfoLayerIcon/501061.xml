@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>501061</GUID>
+      <Name>TradeRouteWaiting</Name>
+      <ID>Infolayer_TradeshipWaiting</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/busy.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ship Waiting for Trade</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19975</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It doesn't suit you to mingle with the upper crust.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17002</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233154</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265593</GUID>
+      <Name>AT_ai07_NegativeInteraction_NPCsFriend2</Name>
+    </Standard>
+  </Values>
+</Asset>

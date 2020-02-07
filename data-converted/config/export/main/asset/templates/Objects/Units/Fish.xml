@@ -1,0 +1,16 @@
+<Template>
+  <Name>Fish</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Walking />
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <DayNightReaction>
+      <UnitNightBehavior>AlwaysShow</UnitNightBehavior>
+    </DayNightReaction>
+  </Properties>
+</Template>

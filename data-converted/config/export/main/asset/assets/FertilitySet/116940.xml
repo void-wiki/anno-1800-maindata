@@ -1,0 +1,29 @@
+<Asset>
+  <Template>FertilitySet</Template>
+  <Values>
+    <Standard>
+      <GUID>116940</GUID>
+      <Name>Set 5</Name>
+    </Standard>
+    <ResourceSetCondition>
+      <AllowedRegion>Arctic</AllowedRegion>
+      <AllowedIslandType>Normal</AllowedIslandType>
+      <AllowedIslandDifficulty>Normal;Hard</AllowedIslandDifficulty>
+      <AllowedResourceAmounts>Low</AllowedResourceAmounts>
+      <AllowedIslandSize>Small</AllowedIslandSize>
+    </ResourceSetCondition>
+    <FertilitySet>
+      <Fertilities>
+        <Item>
+          <Fertility>114236</Fertility>
+        </Item>
+        <Item>
+          <Fertility>112860</Fertility>
+        </Item>
+        <Item>
+          <Fertility>1010581</Fertility>
+        </Item>
+      </Fertilities>
+    </FertilitySet>
+  </Values>
+</Asset>

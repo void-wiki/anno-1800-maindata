@@ -1,0 +1,71 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>110955</GUID>
+      <Name>Leader Anarchy Flag</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_mercier_flag.png</IconFilename>
+      <ID>ITEM_DM_2</ID>
+      <InfoDescription>110964</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <UseEffectAsset>1</UseEffectAsset>
+      <MouseEffect>500992</MouseEffect>
+      <ActionRadius>20</ActionRadius>
+    </SpecialAction>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191454</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <ItemAction>BUFF_OTHER</ItemAction>
+      <ActionTarget>501575</ActionTarget>
+      <ActionDistance>45</ActionDistance>
+      <RadiusBuffTargets>Ally</RadiusBuffTargets>
+      <ActionCooldown>60000</ActionCooldown>
+      <ActionDuration>30000</ActionDuration>
+      <ActiveBuff>110956</ActiveBuff>
+      <ActionCompletedEffect>
+        <EffectAsset>500992</EffectAsset>
+      </ActionCompletedEffect>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>689500</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dr. Mercier's Feverishly Federating Flag of the Free</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30909</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

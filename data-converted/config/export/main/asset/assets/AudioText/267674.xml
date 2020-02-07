@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You cannot allow Bright Sands to be subjugated! Our childhood home!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17273</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233410</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267674</GUID>
+      <Name>advisor01_Ch4Ph2_Additional_01</Name>
+    </Standard>
+  </Values>
+</Asset>

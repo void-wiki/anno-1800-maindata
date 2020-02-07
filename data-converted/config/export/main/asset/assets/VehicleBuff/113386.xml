@@ -1,0 +1,38 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>113386</GUID>
+      <Name>NewWorldArtefactsTreasureMapBuff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_worldmap_3d.png</IconFilename>
+      <InfoDescription>113316</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Treasure Map</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32756</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff>
+      <PossibleFluffTexts>
+        <Item>
+          <FluffText>113395</FluffText>
+        </Item>
+      </PossibleFluffTexts>
+    </Buff>
+    <AttackerUpgrade>
+      <UseProjectile>113313</UseProjectile>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

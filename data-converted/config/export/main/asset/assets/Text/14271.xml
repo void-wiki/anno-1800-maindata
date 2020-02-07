@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14271</GUID>
+      <Name>New Incident Explosion Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Explosion in [NotificationContext Value(StartObj) Object Static Text] in [NotificationContext Value(Area) Area CityName] [Incidents InfectionChanceSourceNotificationText([NotificationContext Value(IncidentType) Int], [NotificationContext Value(IncidentReason) Int])]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22586</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15794</GUID>
+      <Name>CQ425_EvacuateBrightSands_DeliverBackText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Slip past Pyrphorian patrols and deliver &lt;b&gt;[AssetData([Conditions QuestCondition CurrentDeliveryObject]) Text]&lt;/b&gt; to your island</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18379</LineID>
+    </Text>
+  </Values>
+</Asset>

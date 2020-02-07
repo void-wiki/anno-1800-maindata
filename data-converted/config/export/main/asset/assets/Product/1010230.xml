@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010230</GUID>
+      <Name>copper</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_copper.png</IconFilename>
+      <InfoDescription>11768</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Copper</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5371</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>125</BasePrice>
+      <CivLevel>4</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <FluffText>12821</FluffText>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

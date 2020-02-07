@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Maybe nothing need be sunk at all, majesty!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17133</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233465</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266894</GUID>
+      <Name>AT_Advisor01_movie06_01</Name>
+    </Standard>
+  </Values>
+</Asset>

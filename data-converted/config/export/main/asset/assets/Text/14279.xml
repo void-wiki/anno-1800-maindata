@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14279</GUID>
+      <Name>New Incident Fire Shipped Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A burning ship ignited [NotificationContext Value(StartObj) Object Static Text] in [NotificationContext Value(Area) Area CityName]!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22584</LineID>
+    </Text>
+  </Values>
+</Asset>

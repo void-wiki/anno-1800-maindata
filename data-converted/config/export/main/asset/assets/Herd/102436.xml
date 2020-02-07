@@ -1,0 +1,46 @@
+<Asset>
+  <Template>Herd</Template>
+  <Values>
+    <Standard>
+      <GUID>102436</GUID>
+      <Name>Herd Donkey</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cattle.png</IconFilename>
+      <ID>Colony_Herd_Land_2</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_crocodile.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <Herd>
+      <StandTogetherRadius>2</StandTogetherRadius>
+      <Attackable>1</Attackable>
+    </Herd>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/donkey/donkey.cfg</AnimalCFG>
+        </Item>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/donkey/donkey_brown.cfg</AnimalCFG>
+        </Item>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/donkey/donkey_light_brown.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Colony01</AutoSpawn_Regions>
+      <UnitCountMin>3</UnitCountMin>
+      <UnitCountMax>6</UnitCountMax>
+      <AutoSpawn_RelativeProbability>50</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>236632</Animal_AudioLoop>
+      <ScaleFactor>0.7</ScaleFactor>
+    </AnimalBase>
+  </Values>
+</Asset>

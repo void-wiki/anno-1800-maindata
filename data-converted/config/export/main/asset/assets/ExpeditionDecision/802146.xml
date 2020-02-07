@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802146</GUID>
+      <Name>Selfless Deeds 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802173</Option>
+        </Item>
+        <Item>
+          <Option>802174</Option>
+        </Item>
+        <Item>
+          <Option>802175</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The terrain is not one your crew is used to.&lt;/b&gt; They get stuck in the mangrove roots and their swearing can be heard all the way to the coast. When they manage to get free, the bandits' steamboat is waiting, its railings lined with guns.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21029</LineID>
+    </Text>
+  </Values>
+</Asset>

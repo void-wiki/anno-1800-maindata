@@ -1,0 +1,48 @@
+<Asset>
+  <Template>CollectableFeedback</Template>
+  <Values>
+    <Collectable>
+      <CollectOnSelection>0</CollectOnSelection>
+      <CollectableType>LandCollectable</CollectableType>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/thief_quest/caught_thief.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>117582</GUID>
+      <Name>Inuit_Explore_Snowshoe_Quest_25_Treasure</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_necklace_uncommon.png</IconFilename>
+    </Standard>
+    <Selection>
+      <InteractionDistance>1</InteractionDistance>
+    </Selection>
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ornate Stolen Necklace</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35879</LineID>
+    </Text>
+    <Infolayer>
+      <DefaultInfoLayer>500334</DefaultInfoLayer>
+    </Infolayer>
+    <MinimapToken />
+    <SoundEmitter />
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+    <FeedbackController />
+  </Values>
+</Asset>

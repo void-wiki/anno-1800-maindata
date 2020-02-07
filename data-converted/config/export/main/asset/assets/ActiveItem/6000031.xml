@@ -1,0 +1,42 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>6000031</GUID>
+      <Name>RepairItem</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resource_worker_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Repair Test Item</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <HasAction>1</HasAction>
+      <TradePrice>1000</TradePrice>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>REPAIR</ItemAction>
+      <ActionTarget>2001748</ActionTarget>
+      <ActionScope>TargetRadius</ActionScope>
+      <ActionDistance>15</ActionDistance>
+      <RepairSpeed>10</RepairSpeed>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+    <SpecialAction />
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

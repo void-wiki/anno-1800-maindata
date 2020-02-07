@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206295</GUID>
+      <Name>wwe_sfx_bld_heavy_03_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>206297</StopEvent>
+      <SoundEventType>MiddleBuildingSound</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>462612954</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

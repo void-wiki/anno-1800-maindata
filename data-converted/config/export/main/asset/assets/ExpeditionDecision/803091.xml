@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803091</GUID>
+      <Name>Ghosts in the Ice 1.1.1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803077</Option>
+        </Item>
+        <Item>
+          <Option>803078</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The floe is barren.&lt;/b&gt; Unable to catch any game on the frozen ice and the surrounding hills of snow despite the numerous tracks sprinkling the area, your hunters come back empty-handed and ashamed. The stranded sailors appreciate the effort but their eyes grow duller still. They are still desperate for any kind of help.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23450</LineID>
+    </Text>
+  </Values>
+</Asset>

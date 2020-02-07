@@ -1,0 +1,37 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>192175</GUID>
+      <Name>Pirate Captain Flag</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_pirate_flag_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pirate Captain's Black Flag</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29531</LineID>
+    </Text>
+    <VehicleUpgrade>
+      <ActivatePirateFlag>1</ActivatePirateFlag>
+    </VehicleUpgrade>
+    <Buff />
+    <AttackerUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>-17</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <AttackSpeedUpgrade>20</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

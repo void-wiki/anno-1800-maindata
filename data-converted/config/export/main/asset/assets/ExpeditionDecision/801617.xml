@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801617</GUID>
+      <Name>The Trial 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191151</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The foreigners are drawn in by your officer's pace.&lt;/b&gt; He inspects the body, noticing knife cuts of varying depths and bleeding. Through methodical questioning, the officer presses the foreigners and reveals the deception: each wound was made by a different hand, the victim was killed by all of them! The prince buys the sailors' silence and they leave wondering what could have motivated the curious murder.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16043</LineID>
+    </Text>
+  </Values>
+</Asset>

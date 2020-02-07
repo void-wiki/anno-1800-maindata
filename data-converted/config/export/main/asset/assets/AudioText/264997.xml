@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hurry, I already smell the tar, see the masts a-swaying from father’s study!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15513</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232221</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264997</GUID>
+      <Name>advisor_01_AcquireShipyard_02</Name>
+    </Standard>
+  </Values>
+</Asset>

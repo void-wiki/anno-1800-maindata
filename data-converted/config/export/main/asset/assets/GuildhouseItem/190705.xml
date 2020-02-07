@@ -1,0 +1,98 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190705</GUID>
+      <Name>Henri Zanchi, Man of Steel</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_111.png</IconFilename>
+      <InfoDescription>12587</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Henri Zanchi, Man of Steel</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26544</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>750000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010296</GUID>
+        </Item>
+        <Item>
+          <GUID>1010299</GUID>
+        </Item>
+        <Item>
+          <GUID>1010301</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkMilitaryShip</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>12587</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-75</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+      <WorkforceAmountUpgrade>
+        <Value>-25</Value>
+        <Percental>1</Percental>
+      </WorkforceAmountUpgrade>
+    </BuildingUpgrade>
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

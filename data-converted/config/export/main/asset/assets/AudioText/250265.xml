@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You dare deny the cat his milk! </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1567</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211615</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250265</GUID>
+      <Name>AT_ai07_NegFeedbackToPlyr6</Name>
+    </Standard>
+  </Values>
+</Asset>

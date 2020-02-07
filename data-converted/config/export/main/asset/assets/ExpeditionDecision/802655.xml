@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802655</GUID>
+      <Name>Blood Oil Tears and Sweat 1.1.2.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew's speed cannot match the water's.&lt;/b&gt; Overwhelmed by the current and unable to prioritise their tasks or even shape a plan of the repairs, the sailors quickly abandon the idea of patching up the hull. They flee to the upper deck and brace themselves as the ship crashes on the shore, ripped apart. The repairs last for weeks.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21860</LineID>
+    </Text>
+  </Values>
+</Asset>

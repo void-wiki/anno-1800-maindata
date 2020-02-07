@@ -1,0 +1,45 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>181</GUID>
+      <Name>campaign_character10_SA_ticketseller</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01_work.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Grumpy Ticket Agent</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13094</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/resident_colony_tier01_work.png</ProfilePicture>
+      <Portrait>101822</Portrait>
+      <CompanyIcon>500967</CompanyIcon>
+      <ProfileType>ThirdParty</ProfileType>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>12009</InfoCornerDescription>
+      <ParticipantID>Campaign_character_10_SA_ticketseller</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestStarterObject>101407</QuestStarterObject>
+      <DefaultColor>Color3</DefaultColor>
+      <HostileTakeoverEnabled>0</HostileTakeoverEnabled>
+      <MoodImage>data/ui/2kimages/main/assets/thirdparty_islandbar/bg_islandbar_isabel.png</MoodImage>
+      <CreateModeMeta>AutoCreate_OnlyCampaign</CreateModeMeta>
+      <CreateModeSession>AutoCreate_OnlyCampaign</CreateModeSession>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Campaign_character_10_SA_ticketseller</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>182</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

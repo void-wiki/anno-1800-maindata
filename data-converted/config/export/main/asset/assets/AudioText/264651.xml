@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Arctic Council thought breaking the ice impossible too, yet someone has clearly managed it! </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13317</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230248</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264651</GUID>
+      <Name>AT_LadyFaithful_Phase2_BuildIceBreaker_FailureAudio</Name>
+    </Standard>
+  </Values>
+</Asset>

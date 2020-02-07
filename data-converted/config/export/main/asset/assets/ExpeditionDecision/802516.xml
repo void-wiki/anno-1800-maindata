@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802516</GUID>
+      <Name>The Storm 1.3.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You should have been more patient.&lt;/b&gt; The crew cannot manage such a brusque change of pace, and their meager knowledge of the machinery is not enough to demand so much from the engines without paying an equivalent price. The ship vaults away from the storm in a cacophony of complaining metal and agonizing devices - when at least the tempest is gone, the engines require your immediate attention and repairs.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21798</LineID>
+    </Text>
+  </Values>
+</Asset>

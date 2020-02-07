@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Is it only Madame Kahina's prices that are criminal, or is there some truth to these rumours about her past?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12344</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229815</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261043</GUID>
+      <Name>AT_3rdParty07_IdleMessageGossip_Kahina</Name>
+    </Standard>
+  </Values>
+</Asset>

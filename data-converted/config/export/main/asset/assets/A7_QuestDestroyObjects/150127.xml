@@ -1,0 +1,213 @@
+<Asset>
+  <Template>A7_QuestDestroyObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>150127</GUID>
+      <Name>The End of an Era - Archibald Blake</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <SubtitleGroup>93739329</SubtitleGroup>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>45</QuestGiver>
+      <StoryText>3632</StoryText>
+      <PreActivationTimer>1800000</PreActivationTimer>
+      <NeededProgressLevel>LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <DelayTimer>90000</DelayTimer>
+      <ConfirmOnReached>1</ConfirmOnReached>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180023</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>17100</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102588</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>45</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The End of an Era</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28821</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDestroyObjects</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>3</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDestroyObjects</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Reward>190974</Reward>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDestroyObjects</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionQuestDestroy>
+                <DestroyObjects>
+                  <Item>
+                    <DestroyObject>
+                      <Template>QuestObjectList</Template>
+                      <Values>
+                        <ObjectList>
+                          <Object>103070</Object>
+                          <MinAmount>1</MinAmount>
+                          <MaxAmount>2</MaxAmount>
+                          <DoSetOwner>1</DoSetOwner>
+                          <Owner>General_Enemy</Owner>
+                        </ObjectList>
+                      </Values>
+                    </DestroyObject>
+                  </Item>
+                </DestroyObjects>
+                <DestroyFinishObjects>
+                  <Item>
+                    <DestroyFinishObject>
+                      <Template>QuestObjectList</Template>
+                      <Values>
+                        <ObjectList>
+                          <Object>191015</Object>
+                          <Amount>1</Amount>
+                        </ObjectList>
+                      </Values>
+                    </DestroyFinishObject>
+                  </Item>
+                </DestroyFinishObjects>
+              </ConditionQuestDestroy>
+              <SpawnArea>
+                <SpawnContext>ClientObject</SpawnContext>
+                <SpreadObjects>1</SpreadObjects>
+                <DistanceToContext>350</DistanceToContext>
+                <MinObjectDistance>50</MinObjectDistance>
+                <MaxObjectDistance>80</MaxObjectDistance>
+                <DistanceToBorder>Far</DistanceToBorder>
+                <DistanceToIsland>Far</DistanceToIsland>
+              </SpawnArea>
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectStarterObject</Template>
+                  <Values>
+                    <ConditionScanner />
+                    <ConditionObjectStarterObject />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </ExecutionPlace>
+                <ExecutionPlaceText>12972</ExecutionPlaceText>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102588</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>ClientObject</SpawnContext>
+                        <DistanceToContext>30</DistanceToContext>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Third_party_02_Blake</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>500173</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

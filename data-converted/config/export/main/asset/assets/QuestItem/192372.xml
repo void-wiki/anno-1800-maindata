@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192372</GUID>
+      <Name>QI Donated Book - Fill It With Knowledge (Smuggle/Pickup)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_comon.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Donated Used Books</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27944</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103060</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

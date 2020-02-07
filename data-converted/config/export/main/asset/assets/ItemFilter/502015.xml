@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ItemFilter</Template>
+  <Values>
+    <Standard>
+      <GUID>502015</GUID>
+      <Name>ArcticItemFilter</Name>
+    </Standard>
+    <ItemFilter>
+      <ItemCategories>
+        <Item>
+          <CategoryAsset>18021</CategoryAsset>
+          <ItemTypes>None;RadiusBuilding;GuildHouse;TownHall;HarborOffice;Headquarter;Culture;Zoo;BotanicGarden;Museum;Ship;SailShip;SteamShip;Expedition;Warship;Tradeship;DivingVessel;Pavilion;AirShip;Lodge</ItemTypes>
+        </Item>
+        <Item>
+          <CategoryAsset>18022</CategoryAsset>
+          <ItemTypes>Ship;SailShip;SteamShip;Expedition;Warship;Tradeship;DivingVessel;AirShip</ItemTypes>
+        </Item>
+        <Item>
+          <CategoryAsset>116633</CategoryAsset>
+          <ItemTypes>Lodge</ItemTypes>
+        </Item>
+      </ItemCategories>
+    </ItemFilter>
+  </Values>
+</Asset>

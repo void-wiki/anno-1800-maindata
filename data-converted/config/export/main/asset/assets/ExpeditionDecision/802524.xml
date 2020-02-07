@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802524</GUID>
+      <Name>The Storm 1.3.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Too heavy, too dangerous.&lt;/b&gt; Your sailors are ill-prepared to handle the massive basalt stones that act as ballast. They try to secure the stones in place but the ship continues to pitch and their footing is unsteady and the rocks are so, so heavy. A sudden yaw sends the basalt rolling into them and your sailors are knocked down and crushed like clay figures. There is nothing more to be done but wait for the ire of the tempest to pass.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21804</LineID>
+    </Text>
+  </Values>
+</Asset>

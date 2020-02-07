@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239957</GUID>
+      <Name>wwe_voc_mur_inc_illness</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMaximum>14550</DurationMaximum>
+        </English>
+        <German>
+          <DurationMaximum>13590</DurationMaximum>
+        </German>
+        <French>
+          <DurationMaximum>14562</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMaximum>14416</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>692486556</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

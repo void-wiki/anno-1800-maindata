@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>10816</GUID>
+      <Name>GenericTraderBuyRequest</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[NotificationContext Value(Trader) Object Static Text] sells this ship for &lt;img src='data/ui/2kimages/main/icons/icon_resource_money_4.png' height='24' width='24'/&gt;[NotificationContext Value(Ship) Object Sellable CurrentParticipantBuyPrice MoneyCost] and &lt;img src='data/ui/2kimages/main/icons/icon_influence.png' height='24' width='24'/&gt;[NotificationContext Value(Ship) Object Sellable CurrentParticipantBuyPrice InfluenceCost].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11994</LineID>
+    </Text>
+  </Values>
+</Asset>

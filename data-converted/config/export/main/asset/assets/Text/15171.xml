@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15171</GUID>
+      <Name>CQ425_EvacuateBrightSands_Objective02Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deliver:&lt;br/&gt;[Conditions QuestCondition Amount(ObjectiveIndex)] [AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text] to your island</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18375</LineID>
+    </Text>
+  </Values>
+</Asset>

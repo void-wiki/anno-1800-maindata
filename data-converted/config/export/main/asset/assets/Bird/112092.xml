@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Bird</Template>
+  <Values>
+    <Standard>
+      <GUID>112092</GUID>
+      <Name>goose</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc02/graphics/units/wildlife/goose/goose.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <SpecialMovementType />
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

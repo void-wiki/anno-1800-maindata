@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800979</GUID>
+      <Name>Baptism of Fire 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;If anything the flames are cool&lt;/b&gt;, as if like bundles of ribbons brushing the skin. This gate is, without question, an earthly manifestation of the divine, for not far along the tunnel, the light breaks in once more, and your party arrive on the far side of the ridge, spiritually tranquil, and having saved days of trekking.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13148</LineID>
+    </Text>
+  </Values>
+</Asset>

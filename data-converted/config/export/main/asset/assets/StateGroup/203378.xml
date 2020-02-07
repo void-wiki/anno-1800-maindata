@@ -1,0 +1,29 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>203378</GUID>
+      <Name>st_sfx_aui_notification_type</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>3505645535</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>203374</Choice>
+        </Item>
+        <Item>
+          <Choice>203375</Choice>
+        </Item>
+        <Item>
+          <Choice>203376</Choice>
+        </Item>
+        <Item>
+          <Choice>203377</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

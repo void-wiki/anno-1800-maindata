@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802879</GUID>
+      <Name>The Hunter and the Prey 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802880</Option>
+        </Item>
+        <Item>
+          <Option>802883</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your ship moves in absolute silence,&lt;/b&gt; all its light extinguished. The iron dragon cannot have spotted you, or it would surely have changed course. The darkness makes navigating the bay harder however, and the crew are under a misapprehension about the depth of this bay. You are almost clear, when a loud sound resonates as the hull touches the bottom, the iron dragon, though some distance away, now begins to turn. You can try to manouevre out of the shallows and flee, or turn and face them, still with some advantage of surprise.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23702</LineID>
+    </Text>
+  </Values>
+</Asset>

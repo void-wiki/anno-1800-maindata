@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>235643</GUID>
+      <Name>wwc_sfx_anm_herds_wild_horses_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>235645</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>168609252</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,54 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>51</PortraitName>
+      <PortraitColor>-5610446</PortraitColor>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/edvard_enemy_01.portraitcamleft</CamFile>
+        </Left>
+        <Right>
+          <CamFile>data/config/portraitcam/edvard_enemy_01.portraitcamright</CamFile>
+        </Right>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/edvard_enemy_01.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/edvard_enemy_01.portraitcamright</CamFile>
+        </VideoRight>
+        <CreateGame>
+          <CamFile>data/config/portraitcam/creategameedvard.portraitcam</CamFile>
+        </CreateGame>
+        <ProfileSelection>
+          <CamFile>data/config/portraitcam/creategameedvard.portraitcam</CamFile>
+        </ProfileSelection>
+        <ProfileCreation>
+          <CamFile>data/config/portraitcam/creategameedvard.portraitcam</CamFile>
+        </ProfileCreation>
+        <ActiveTrade>
+          <CamFile>data/config/portraitcam/activetrade_default.portraitcam</CamFile>
+        </ActiveTrade>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>100588</GUID>
+      <Name>enemy_01 (Uncle Edvard Goode)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/enemy_01.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/enemy_01/enemy_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

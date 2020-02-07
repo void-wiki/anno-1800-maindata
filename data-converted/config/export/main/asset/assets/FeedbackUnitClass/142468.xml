@@ -1,0 +1,34 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142468</GUID>
+      <Name>SA | Residence2Vehicles</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_mineral_desposits.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>ResidenceVehicle</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142592</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142464</UnitAsset>
+          <RelativeProbability>10</RelativeProbability>
+        </Item>
+        <Item>
+          <UnitAsset>142465</UnitAsset>
+          <RelativeProbability>10</RelativeProbability>
+        </Item>
+        <Item>
+          <UnitAsset>142466</UnitAsset>
+          <RelativeProbability>10</RelativeProbability>
+        </Item>
+        <Item>
+          <UnitAsset>142591</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>DangerAvoiding</AllowedReactions>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

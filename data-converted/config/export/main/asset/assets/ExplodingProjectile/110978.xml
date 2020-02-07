@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>110978</GUID>
+      <Name>AnarchyNewspaperProjectile</Name>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>35</ShotAngle>
+      <ProjectileSpeed>10</ProjectileSpeed>
+      <Effectivities>
+        <Item>
+          <GUID>191508</GUID>
+          <Factor>1.5</Factor>
+        </Item>
+      </Effectivities>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_chain_shot_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>0</InnerDamageRadius>
+      <InnerDamage>0</InnerDamage>
+      <DebrisCount>0</DebrisCount>
+    </Exploder>
+    <SoundEmitter />
+    <UpgradeList />
+    <ProjectileIncident>
+      <CausedIncident>Riot</CausedIncident>
+      <CausedIncidentBuff>110980</CausedIncidentBuff>
+      <CausedIncidentDuration>600000</CausedIncidentDuration>
+    </ProjectileIncident>
+  </Values>
+</Asset>

@@ -1,0 +1,56 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>130240</GUID>
+      <Name>intermediate colony01 1.4</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier01.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000005</Context>
+            <CounterAmount>300</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>101274</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130099</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>101255</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130189</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010339</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130195</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

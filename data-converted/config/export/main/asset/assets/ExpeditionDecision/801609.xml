@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801609</GUID>
+      <Name>The Trial 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801610</Option>
+        </Item>
+        <Item>
+          <Option>801611</Option>
+        </Item>
+        <Item>
+          <Option>801612</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew faces the bloody customs of foreign lands.&lt;/b&gt; After a night of feasting, the sailors believe that meeting the foreign prince and his sea-traveling court is the highlight of their trip. However, morning comes with news of a sudden death among the court, and your crew is immediately accused of murder. The prince demands a trial by combat and your men are left with little freedom but the choice of the challenge's nature.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16035</LineID>
+    </Text>
+  </Values>
+</Asset>

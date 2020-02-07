@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>102628</GUID>
+      <Name>KamikazeProjectile_B</Name>
+    </Standard>
+    <Projectile />
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/kamikaze_projectile_a.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamage>1.2</InnerDamage>
+      <OuterDamageRadius>10</OuterDamageRadius>
+      <MinimumDamage>0.5</MinimumDamage>
+      <KamikazeRadiusDecal>501554</KamikazeRadiusDecal>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>238322</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>238321</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident />
+  </Values>
+</Asset>

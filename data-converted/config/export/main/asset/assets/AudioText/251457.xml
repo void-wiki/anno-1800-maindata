@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are treading on dodgy water!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2437</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212766</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251457</GUID>
+      <Name>AT_ai03_NpcMakesThreat4</Name>
+    </Standard>
+  </Values>
+</Asset>

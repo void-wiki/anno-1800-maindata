@@ -1,0 +1,27 @@
+<Template>
+  <Name>PicturePuzzleObjective</Name>
+  <Properties>
+    <ConditionQuestPicturePuzzle />
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12760</TextCombinedContextValue>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>501016</Infolayer>
+            <ShowMinimapToken>0</ShowMinimapToken>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <ConditionPropsSessionSettings />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </ExecutionPlace>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

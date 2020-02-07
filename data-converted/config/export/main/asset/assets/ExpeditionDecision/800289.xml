@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800289</GUID>
+      <Name>The Predator 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800290</Option>
+        </Item>
+        <Item>
+          <Option>800291</Option>
+        </Item>
+        <Item>
+          <Option>800292</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Three days pass, and still no word.&lt;/b&gt; There is a common feeling something must be done to save those men.  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5668</LineID>
+    </Text>
+  </Values>
+</Asset>

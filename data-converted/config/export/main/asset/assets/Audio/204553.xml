@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204553</GUID>
+      <Name>Play_AI_NEWD2_BASIC_XXY_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>6488</DurationMinimum>
+          <DurationMaximum>6488</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>7364</DurationMinimum>
+          <DurationMaximum>7364</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>9205</DurationMinimum>
+          <DurationMaximum>9205</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>7870</DurationMinimum>
+          <DurationMaximum>7870</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1481217583</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

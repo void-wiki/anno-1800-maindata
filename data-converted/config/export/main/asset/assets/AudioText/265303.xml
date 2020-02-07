@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents are leaving your city!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15892</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233990</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265303</GUID>
+      <Name>AT_Narrator_Population_Warning_PopulationDecliningSignificantly</Name>
+    </Standard>
+  </Values>
+</Asset>

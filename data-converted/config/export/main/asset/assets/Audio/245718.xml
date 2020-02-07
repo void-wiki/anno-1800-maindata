@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245718</GUID>
+      <Name>Play_AI_TECHN_IFV_SFM03_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1102</DurationMinimum>
+          <DurationMaximum>3051</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1368</DurationMinimum>
+          <DurationMaximum>5169</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1032</DurationMinimum>
+          <DurationMaximum>3253</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1145</DurationMinimum>
+          <DurationMaximum>2927</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3798055040</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

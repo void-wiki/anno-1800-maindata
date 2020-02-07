@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Oh? I've never seen George grumpy, he's such a caring man with so many remarkable stories!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2768</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211244</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251128</GUID>
+      <Name>AT_ai01_IdleMessageGossip_Smith</Name>
+    </Standard>
+  </Values>
+</Asset>

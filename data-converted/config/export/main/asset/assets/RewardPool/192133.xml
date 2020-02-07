@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192133</GUID>
+      <Name>Signage</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>102464</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>102465</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>102467</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

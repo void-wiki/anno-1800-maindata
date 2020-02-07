@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>801728</GUID>
+      <Name>The Investigation 1.1.3.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Smash down the warehouse door and charge in</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21157</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Melee</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>801729</Decision>
+          <Threshold>LossMediumThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>801730</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

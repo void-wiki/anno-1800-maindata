@@ -1,0 +1,24 @@
+<Asset>
+  <Template>SessionMeta</Template>
+  <Values>
+    <Standard>
+      <GUID>180039</GUID>
+      <Name>Session Worldmap</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_globe.png</IconFilename>
+      <ID>WorldmapSession</ID>
+    </Standard>
+    <Session>
+      <Region>5000005</Region>
+      <UseFixDayTime>1</UseFixDayTime>
+      <SpawnStartShipAndKontor>0</SpawnStartShipAndKontor>
+    </Session>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>NO LOCA MetaSession</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

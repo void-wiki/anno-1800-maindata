@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801089</GUID>
+      <Name>The Arid Basin 1.3.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801082</Option>
+        </Item>
+        <Item>
+          <Option>801084</Option>
+        </Item>
+        <Item>
+          <Option>801085</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's movement in the hippo camp&lt;/b&gt;, as the crew approach, followed by violent evacuations of their gigantic nostrils. Mandolin jaws open wide in display, and it is pretty clear to the crew they have no choice but to back off. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16096</LineID>
+    </Text>
+  </Values>
+</Asset>

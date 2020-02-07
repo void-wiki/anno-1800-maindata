@@ -1,0 +1,22 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>2001837</GUID>
+      <Name>QuestInteractionBusy A6</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/busy.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vehicle is performing an interaction</Text>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4241</LineID>
+    </Text>
+  </Values>
+</Asset>

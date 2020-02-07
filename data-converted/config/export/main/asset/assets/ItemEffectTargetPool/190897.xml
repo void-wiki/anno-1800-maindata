@@ -1,0 +1,47 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190897</GUID>
+      <Name>All food productions</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Food Productions</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15259</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010291</GUID>
+        </Item>
+        <Item>
+          <GUID>1010293</GUID>
+        </Item>
+        <Item>
+          <GUID>1010316</GUID>
+        </Item>
+        <Item>
+          <GUID>1010341</GUID>
+        </Item>
+        <Item>
+          <GUID>101264</GUID>
+        </Item>
+        <Item>
+          <GUID>101271</GUID>
+        </Item>
+        <Item>
+          <GUID>1010317</GUID>
+        </Item>
+        <Item>
+          <GUID>1010295</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

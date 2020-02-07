@@ -1,0 +1,31 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192871</GUID>
+      <Name>LaFortune Common Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192637</ItemLink>
+          <Weight>4</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192642</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193453</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193458</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193463</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,57 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400098</GUID>
+      <Name>Action_Achievement_Besties</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>ThirdParty</AchievementCategory>
+      <AchievementTitle>15589</AchievementTitle>
+      <AchievementDescription>15590</AchievementDescription>
+      <AchievementUPlayID>76</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionDiplomaticState</Template>
+        <Values>
+          <Condition />
+          <ConditionDiplomaticState>
+            <TargetParticipant2>Second_ai_01_Jorgensen</TargetParticipant2>
+            <DesiredState>Alliance</DesiredState>
+          </ConditionDiplomaticState>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionDiplomaticState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionDiplomaticState>
+                      <TargetParticipant2>Second_ai_02_Qing</TargetParticipant2>
+                      <DesiredState>Alliance</DesiredState>
+                    </ConditionDiplomaticState>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>113</UplayActionID>
+      <UplayXP>50</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

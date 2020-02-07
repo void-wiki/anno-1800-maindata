@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010210</GUID>
+      <Name>sailcloth</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_sail.png</IconFilename>
+      <ID>ProductSails</ID>
+      <InfoDescription>11747</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sails</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5352</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11703</ProductCategory>
+      <BasePrice>43</BasePrice>
+      <CivLevel>2</CivLevel>
+      <AssociatedRegion>Moderate;Colony01</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

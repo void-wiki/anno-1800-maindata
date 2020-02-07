@@ -1,0 +1,42 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193666</GUID>
+      <Name>all culture</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness_group.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cultural Buildings</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33218</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010470</GUID>
+        </Item>
+        <Item>
+          <GUID>1010471</GUID>
+        </Item>
+        <Item>
+          <GUID>102282</GUID>
+        </Item>
+        <Item>
+          <GUID>102283</GUID>
+        </Item>
+        <Item>
+          <GUID>110935</GUID>
+        </Item>
+        <Item>
+          <GUID>114141</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

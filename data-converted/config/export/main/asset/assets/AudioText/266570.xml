@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The denizens of night have returned to their crack in the wall, for now.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17089</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232791</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266570</GUID>
+      <Name>AT_ai08_WelcomeCampaignVictory</Name>
+    </Standard>
+  </Values>
+</Asset>

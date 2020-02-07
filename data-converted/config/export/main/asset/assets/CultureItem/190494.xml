@@ -1,0 +1,40 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190494</GUID>
+      <Name>wooden ring</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_wooden_ring.png</IconFilename>
+      <InfoDescription>10514</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wooden Ring</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15001</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <ItemType>Normal</ItemType>
+      <TradePrice>4400</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010481</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

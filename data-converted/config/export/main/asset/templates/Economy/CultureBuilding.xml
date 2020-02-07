@@ -1,0 +1,111 @@
+<Template>
+  <Name>CultureBuilding</Name>
+  <Properties>
+    <Standard />
+    <Building>
+      <BuildingCategoryName>100005</BuildingCategoryName>
+    </Building>
+    <Blocking />
+    <Cost />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Culture</GUIType>
+      <AllowedDragType>ItemSocket;CargoItemStack;StorageItemStack</AllowedDragType>
+    </Selection>
+    <Text />
+    <Constructable>
+      <DestructionCategory>Production</DestructionCategory>
+    </Constructable>
+    <Locked />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+      </DestroySounds>
+      <ConstructionSounds>
+        <BuildSuccessful>
+          <Item>
+            <VectorElement>
+              <InheritedIndex>0</InheritedIndex>
+            </VectorElement>
+            <Sound>214786</Sound>
+          </Item>
+        </BuildSuccessful>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>203995</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <FeedbackController>
+      <NightBehavior>HideAll</NightBehavior>
+    </FeedbackController>
+    <Infolayer />
+    <UpgradeList />
+    <Culture />
+    <ModuleOwner>
+      <ModuleLimits>
+        <Main>
+          <Limit>100</Limit>
+        </Main>
+        <Pavilion>
+          <Limit>1</Limit>
+        </Pavilion>
+        <Connector>
+          <Limit>100</Limit>
+        </Connector>
+      </ModuleLimits>
+    </ModuleOwner>
+    <AmbientMoodProvider />
+    <LogisticNode>
+      <TransporterCountMax>0</TransporterCountMax>
+    </LogisticNode>
+    <Factory7 />
+    <FactoryBase />
+    <Maintenance>
+      <IncomeCategory>CultureBuildings</IncomeCategory>
+    </Maintenance>
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+    </Attackable>
+    <IncidentInfectable>
+      <Infectable>
+        <Fire>
+          <Base>0</Base>
+        </Fire>
+        <Riot>
+          <Base>0</Base>
+        </Riot>
+        <Illness>
+          <Base>0</Base>
+        </Illness>
+      </Infectable>
+    </IncidentInfectable>
+    <Electric>
+      <BoostedByElectricity>0</BoostedByElectricity>
+    </Electric>
+    <Pausable />
+    <StreetActivation />
+    <QuestObject />
+  </Properties>
+</Template>

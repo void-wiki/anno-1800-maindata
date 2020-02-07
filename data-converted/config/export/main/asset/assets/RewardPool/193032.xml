@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193032</GUID>
+      <Name>Machines - Engineer Machines - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190828</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190848</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190867</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190888</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191830</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191833</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191839</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191857</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,37 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>114308</GUID>
+      <Name>ArcticQuests_StarterGas_Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_gas_red.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Quests>
+        <Item>
+          <Quest>114307</Quest>
+        </Item>
+      </Quests>
+      <IsTopLevel>1</IsTopLevel>
+      <PoolCooldown>0</PoolCooldown>
+      <QuestCooldown>0</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionIsDLCActive</Template>
+        <Values>
+          <Condition />
+          <ConditionIsDLCActive>
+            <DLCAssetList>
+              <Item>
+                <DLCAsset>410042</DLCAsset>
+              </Item>
+            </DLCAssetList>
+          </ConditionIsDLCActive>
+          <ConditionPropsNegatable />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

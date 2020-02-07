@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802159</GUID>
+      <Name>Selfless Deeds 1.2.1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors' cause fuels their victory.&lt;/b&gt; Driven by their will to save the children, your sailors do not waver in front of the bandits' leader, all muscles and swords and wild eyes. It takes six fighters to face the man, piling up on him in a torrent of dust and groans until he finally stops rampaging. Disheartened by this defeat and their leader's meaningless pride, the remaining kidnappers are brought to their knees and the children are freed. The crew returns to the village triumphant!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21014</LineID>
+    </Text>
+  </Values>
+</Asset>

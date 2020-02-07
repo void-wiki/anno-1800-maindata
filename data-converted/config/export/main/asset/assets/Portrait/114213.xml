@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>94</PortraitName>
+      <PortraitColor>-7355755</PortraitColor>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/ladyjane.portraitcamleft</CamFile>
+        </Left>
+      </VideoPresentation>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>114213</GUID>
+      <Name>Third_party_10 (Lady Jane)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/lady_faithful.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/portrait/lady_faithful/lady_faithful.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <DLCDependency>410042</DLCDependency>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,43 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269042</GUID>
+      <Name>Pool_resident_tier3_ST_HandIn_Goods</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>257703</AudioText>
+        </Item>
+        <Item>
+          <AudioText>257638</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254228</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254191</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254193</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>2124362808</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

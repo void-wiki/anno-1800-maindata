@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200907</GUID>
+      <Name>wwc_sfx_anm_herds_crow_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>12</MaxAttenuation>
+      <StopEvent>200909</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1872679918</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245744</GUID>
+      <Name>Play_AI_OLDNA_BASIC_4FM0D_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2027</DurationMinimum>
+          <DurationMaximum>4446</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1949</DurationMinimum>
+          <DurationMaximum>4581</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2080</DurationMinimum>
+          <DurationMaximum>4906</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1935</DurationMinimum>
+          <DurationMaximum>4384</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2005498197</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

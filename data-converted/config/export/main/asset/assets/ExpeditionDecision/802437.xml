@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802437</GUID>
+      <Name>Wood Keeper 1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802439</Option>
+        </Item>
+        <Item>
+          <Option>802440</Option>
+        </Item>
+        <Item>
+          <Option>802441</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew study the chalk symbol with due reverence.&lt;/b&gt; It has three points like an arrowhead, and the smiling face of a deity at its centre. The crew interpret the slight angle of this triangle as a sign, since it points roughly towards a distant and cloud-wreathed peak. </Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20882</LineID>
+    </Text>
+  </Values>
+</Asset>

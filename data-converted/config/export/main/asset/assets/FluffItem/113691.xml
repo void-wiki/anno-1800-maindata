@@ -1,0 +1,25 @@
+<Asset>
+  <Template>FluffItem</Template>
+  <Values>
+    <Standard>
+      <GUID>113691</GUID>
+      <Name>QI_TestingTheProtoype_Dummy</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_6.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Scrap</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32724</LineID>
+    </Text>
+    <Item>
+      <Rarity>Quest</Rarity>
+    </Item>
+    <ExpeditionAttribute />
+    <Locked />
+  </Values>
+</Asset>

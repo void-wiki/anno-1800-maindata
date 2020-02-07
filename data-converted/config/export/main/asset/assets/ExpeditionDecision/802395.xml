@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802395</GUID>
+      <Name>The Devil Calls 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202359</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/stranger_things_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Fear incites a rash decision.&lt;/b&gt; The majority tremble in silence, as the eerie voice draws nearer still, except for one cocksure officer who jabs his pistol every which way, looking for something to shoot. Seeing movement among the trees he fires, only to see his bullet graze the shoulder of an indigenous girl, perhaps five or six years old. It is likely she has never come across the white devil before, and she disappears into the trees wailing. She will survive. The officer however is clutching his chest, he has had a heart attack, and dies. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20851</LineID>
+    </Text>
+  </Values>
+</Asset>

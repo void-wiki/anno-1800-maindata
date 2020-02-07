@@ -1,0 +1,25 @@
+<Template>
+  <Name>Street</Name>
+  <Properties>
+    <Standard />
+    <Cost />
+    <Street />
+    <Constructable>
+      <ConstructionMode>Street</ConstructionMode>
+    </Constructable>
+    <Locked />
+    <SoundEmitter>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <Text />
+    <Building>
+      <BuildingCategoryName>11153</BuildingCategoryName>
+    </Building>
+  </Properties>
+</Template>

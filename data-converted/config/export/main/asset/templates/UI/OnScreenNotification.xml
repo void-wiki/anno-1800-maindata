@@ -1,0 +1,11 @@
+<Template>
+  <Name>OnScreenNotification</Name>
+  <Properties>
+    <OnScreenNotification />
+    <BaseNotification>
+      <NotificationBlockingTime>1000</NotificationBlockingTime>
+      <NotificationPriority>-1</NotificationPriority>
+      <NotificationMinDisplayTime>3000</NotificationMinDisplayTime>
+    </BaseNotification>
+  </Properties>
+</Template>

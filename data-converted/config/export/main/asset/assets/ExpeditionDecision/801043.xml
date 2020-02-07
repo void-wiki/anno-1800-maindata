@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801043</GUID>
+      <Name>Dockyard Dupe 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801045</Option>
+        </Item>
+        <Item>
+          <Option>801046</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The disguises are unconvincing.&lt;/b&gt; A lick of paint, and the ship differs enough to blend in at the busy port, but moustaches and a change of clothes aren't enough for the sly innkeeper. "Thought you could fool us?" he scoffs.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13122</LineID>
+    </Text>
+  </Values>
+</Asset>

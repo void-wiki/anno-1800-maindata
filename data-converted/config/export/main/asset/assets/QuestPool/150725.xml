@@ -1,0 +1,47 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>150725</GUID>
+      <Name>QP Old World</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>1500248353</QuestGroup>
+        </Item>
+        <Item>
+          <QuestGroup>1580782796</QuestGroup>
+        </Item>
+        <Item>
+          <QuestGroup>-803542299</QuestGroup>
+        </Item>
+        <Item>
+          <QuestGroup>-1026455134</QuestGroup>
+        </Item>
+        <Item>
+          <QuestGroup>1682228442</QuestGroup>
+        </Item>
+      </Groups>
+      <QuestLimit>10</QuestLimit>
+      <PoolCooldown>10000</PoolCooldown>
+      <QuestCooldown>10000</QuestCooldown>
+      <SessionDependencies>
+        <Item>
+          <SessionOrRegion>180023</SessionOrRegion>
+        </Item>
+      </SessionDependencies>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

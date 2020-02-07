@@ -1,0 +1,13 @@
+<Template>
+  <Name>Movies_VisualObjectFeedback</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <DefaultSequence>work01</DefaultSequence>
+    </Mesh>
+    <Object />
+    <FeedbackController>
+      <DefaultFeedbackSequence>Work</DefaultFeedbackSequence>
+    </FeedbackController>
+  </Properties>
+</Template>

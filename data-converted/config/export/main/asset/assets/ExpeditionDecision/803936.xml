@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803936</GUID>
+      <Name>Cracking Ice 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>804148</InsertEvent>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_tradingpost.png</Sketch>
+        <SketchPosX>1689</SketchPosX>
+        <SketchPosY>724</SketchPosY>
+        <SketchSizeX>228</SketchSizeX>
+        <SketchSizeY>222</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew's instincts are solid.&lt;/b&gt; Keeping a distance apart, they move at a purposeful speed, avoiding cracks and the dark splodges indicative of thinner ice. They reach the abandoned building without incident.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35221</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,48 @@
+<Template>
+  <Name>LandSpy</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection>
+      <GUIType>Vehicle</GUIType>
+      <InteractionDistance>2</InteractionDistance>
+      <AllowedDragType>ItemSocket;CargoProductStack;CargoItemStack;StorageProductStack;StorageItemStack</AllowedDragType>
+    </Selection>
+    <Walking>
+      <ReservationLength>3</ReservationLength>
+      <ReservationWidth>1</ReservationWidth>
+      <TurnAroundRadius>3</TurnAroundRadius>
+      <TurnSpeed>45</TurnSpeed>
+      <TurnMovement>50</TurnMovement>
+      <ForwardSpeed>5</ForwardSpeed>
+      <WindMinSlowdownFactor>0.8</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1.33</WindMaxSpeedupFactor>
+    </Walking>
+    <Text />
+    <CommandQueue>
+      <IsPlayerControllableVehicle>1</IsPlayerControllableVehicle>
+      <CommandChainLength>3</CommandChainLength>
+      <InsecurityAttractiveness>-10</InsecurityAttractiveness>
+    </CommandQueue>
+    <MinimapToken />
+    <SoundEmitter>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>203983</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <Infolayer />
+    <Locked />
+    <MetaPersistent />
+  </Properties>
+</Template>

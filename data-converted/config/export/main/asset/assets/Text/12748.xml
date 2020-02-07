@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12748</GUID>
+      <Name>GoodsInStorage_Headline_Combined</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Increase your stock of [AssetData([Conditions QuestCondition Context]) Text] by [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11671</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204622</GUID>
+      <Name>Play_AI_NEWDL_DAC_NR4_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>1450</DurationMinimum>
+          <DurationMaximum>4125</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>1533</DurationMinimum>
+          <DurationMaximum>4266</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2098</DurationMinimum>
+          <DurationMaximum>4728</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1820</DurationMinimum>
+          <DurationMaximum>4554</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1346179418</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

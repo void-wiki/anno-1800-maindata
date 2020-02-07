@@ -1,0 +1,55 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>113471</GUID>
+      <Name>SL107_UnderTheSeas Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionShipsInRange</Template>
+        <Values>
+          <Condition />
+          <ConditionShipsInRange>
+            <Range>120</Range>
+            <TargetObject_sir>113416</TargetObject_sir>
+            <UseProcessingParticipantAsTarget>1</UseProcessingParticipantAsTarget>
+            <CheckSpecificShipOwner>1</CheckSpecificShipOwner>
+            <UseProcessingParticipantAsShipOwner>1</UseProcessingParticipantAsShipOwner>
+            <SpecifiedShipOrPool>112084</SpecifiedShipOrPool>
+          </ConditionShipsInRange>
+          <SessionFilter />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>75</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationLabel>queen_comments_vasco</NotificationLabel>
+                      <NotificationText>112403</NotificationText>
+                      <DisplayTimeout>300000</DisplayTimeout>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>112279</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

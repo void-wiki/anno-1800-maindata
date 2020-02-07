@@ -1,0 +1,35 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141723</GUID>
+      <Name>Diplomacy Alliance Player</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14305</Headline>
+      <Subline>14306</Subline>
+      <Image>142167</Image>
+      <Category>Diplomacy</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>530</StartValue>
+        <LossOnPublish>0</LossOnPublish>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>RiotChanceGlobal</ArticleEffect>
+      <EffectValue>-50</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

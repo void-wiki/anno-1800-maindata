@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245721</GUID>
+      <Name>Play_AI_TECHN_ISJLE_5RUAS_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1852</DurationMinimum>
+          <DurationMaximum>4948</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2280</DurationMinimum>
+          <DurationMaximum>4901</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1120</DurationMinimum>
+          <DurationMaximum>3689</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1462</DurationMinimum>
+          <DurationMaximum>3600</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4002192255</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

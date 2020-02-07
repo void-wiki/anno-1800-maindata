@@ -1,0 +1,63 @@
+<Asset>
+  <Template>Farmfield</Template>
+  <Values>
+    <Standard>
+      <GUID>1010559</GUID>
+      <Name>agriculture_09_field (Hunting Grounds)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_farmfield_module.png</IconFilename>
+    </Standard>
+    <Building>
+      <BuildModeRandomRotation>90</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking>
+      <OneTileBlockerOnly>1</OneTileBlockerOnly>
+    </Blocking>
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hunting Grounds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5245</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <BuildingModule />
+    <AmbientMoodProvider>
+      <AmbientMood>None</AmbientMood>
+      <DynamicEnvironmentType>None</DynamicEnvironmentType>
+    </AmbientMoodProvider>
+  </Values>
+</Asset>

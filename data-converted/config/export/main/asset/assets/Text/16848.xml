@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>16848</GUID>
+      <Name>Notification Monument phase completed</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext Value(buildingGUID) Int]) Text] construction phase has been completed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>24441</LineID>
+    </Text>
+  </Values>
+</Asset>

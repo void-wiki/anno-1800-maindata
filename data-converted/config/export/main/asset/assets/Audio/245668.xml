@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245668</GUID>
+      <Name>Play_AI_NEWD7_RRGS5_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1269</DurationMinimum>
+          <DurationMaximum>1670</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1655</DurationMinimum>
+          <DurationMaximum>1957</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1691</DurationMinimum>
+          <DurationMaximum>1745</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1425</DurationMinimum>
+          <DurationMaximum>1735</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1088196167</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

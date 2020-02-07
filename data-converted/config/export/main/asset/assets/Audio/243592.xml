@@ -1,0 +1,17 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>243592</GUID>
+      <Name>wwe_sfx_exp_arctic</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <StopEvent>243593</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2291199491</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803039</GUID>
+      <Name>Fortress Break 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You secure an early release!&lt;/b&gt; Your men return to the ship and wait for night. At the sign of a signal flare, the prisoners anticipate your course of action and answer at each window grille with candles. After careful calibration of the cannons, a second flare goes up signalling the imminent blast. The candles extinguish in aknowledgement before the ship's guns sound. The cliff wall of the fortress crumbles away! Taking their chance the prisoners launch themselves into the water below, just as your ship passes by. Tales of the daring rescue will be going around for years.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22099</LineID>
+    </Text>
+  </Values>
+</Asset>

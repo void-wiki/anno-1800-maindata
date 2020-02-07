@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800583</GUID>
+      <Name>Lost in the Desert 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800586</Option>
+        </Item>
+        <Item>
+          <Option>800587</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Something of a path appears&lt;/b&gt;, though as much by luck as star-gazing. A little way along it, a silhouette crenellates the night - an imposing fortress. Too tired for trouble, you wonder if it is worth knocking at the grand door.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5857</LineID>
+    </Text>
+  </Values>
+</Asset>

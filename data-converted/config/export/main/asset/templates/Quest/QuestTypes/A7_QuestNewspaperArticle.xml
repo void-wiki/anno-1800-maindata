@@ -1,0 +1,85 @@
+<Template>
+  <Name>A7_QuestNewspaperArticle</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <NotificationTextFemale>111549</NotificationTextFemale>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>111550</NotificationText>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <QuestTrackerVisibility>Global</QuestTrackerVisibility>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_construction_sustain.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList>
+          <Item>
+            <ReputationParticipant>Second_ai_11_Mercier</ReputationParticipant>
+            <ReputationAmount>-4</ReputationAmount>
+          </Item>
+        </ReputationFailList>
+      </ReputationQuestFail>
+      <ReputationQuestDeclined>
+        <ReputationDeclinedList>
+          <Item>
+            <ReputationParticipant>Second_ai_11_Mercier</ReputationParticipant>
+            <ReputationAmount>-3</ReputationAmount>
+          </Item>
+        </ReputationDeclinedList>
+      </ReputationQuestDeclined>
+    </Quest>
+    <PreConditionList />
+    <Text />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+          </VectorElement>
+        </Item>
+      </RewardAssets>
+      <RewardReputation>
+        <Item>
+          <ReputationParticipant>Second_ai_11_Mercier</ReputationParticipant>
+          <ReputationAmount>5</ReputationAmount>
+        </Item>
+      </RewardReputation>
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>111801</TextCombinedContextValue>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>NewspaperArticlePublished</PlayerCounter>
+                <Context>111240</Context>
+                <CounterAmount>1</CounterAmount>
+                <RelativeToQuestStart>1</RelativeToQuestStart>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+  </Properties>
+</Template>

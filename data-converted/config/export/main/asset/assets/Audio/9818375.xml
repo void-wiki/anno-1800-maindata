@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>9818375</GUID>
+      <Name>wwe_sfx_veh_railway_with_trailer_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <ActivationRangeOffset>10</ActivationRangeOffset>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>203894</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>387543130</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

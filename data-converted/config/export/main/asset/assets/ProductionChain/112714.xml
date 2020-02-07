@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>112714</GUID>
+      <Name>arctic sleds chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_sled.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>112680</Building>
+      <Tier1>
+        <Item>
+          <Building>112682</Building>
+        </Item>
+        <Item>
+          <Building>112681</Building>
+          <Tier2>
+            <Item>
+              <Building>112674</Building>
+            </Item>
+            <Item>
+              <Building>114703</Building>
+            </Item>
+          </Tier2>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Husky Sleds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35203</LineID>
+    </Text>
+  </Values>
+</Asset>

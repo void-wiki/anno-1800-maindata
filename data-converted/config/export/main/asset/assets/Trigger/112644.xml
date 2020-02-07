@@ -1,0 +1,56 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>112644</GUID>
+      <Name>Intermediate Arctic 1.0</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>112113</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112091</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112716</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112715</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112717</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>114889</Asset>
+                  </Item>
+                </UnlockAssets>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>112718</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

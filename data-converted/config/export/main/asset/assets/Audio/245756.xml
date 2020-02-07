@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245756</GUID>
+      <Name>Play_AI_NEWN1_MRRTO_WUNF1_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>5760</DurationMinimum>
+          <DurationMaximum>21038</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>5760</DurationMinimum>
+          <DurationMaximum>21038</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>5760</DurationMinimum>
+          <DurationMaximum>21035</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>5760</DurationMinimum>
+          <DurationMaximum>21035</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4205330426</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

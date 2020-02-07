@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The strike left some buildings damaged.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15791</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234125</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265201</GUID>
+      <Name>AT_Narrator_Incidents_Warning_EndDestructionStrike</Name>
+    </Standard>
+  </Values>
+</Asset>

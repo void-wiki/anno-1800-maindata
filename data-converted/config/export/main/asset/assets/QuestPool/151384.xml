@@ -1,0 +1,30 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>151384</GUID>
+      <Name>QP Tutorial 3 Problem Hints</Name>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>-499715491</QuestGroup>
+        </Item>
+      </Groups>
+      <PoolCooldown>5000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>0</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

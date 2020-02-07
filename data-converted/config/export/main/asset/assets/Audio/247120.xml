@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>247120</GUID>
+      <Name>wwe_sfx_bld_xmas_carousel</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>247121</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2947638772</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

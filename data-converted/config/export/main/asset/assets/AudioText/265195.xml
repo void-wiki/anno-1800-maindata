@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The revolt left your city in ruins.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15785</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234119</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265195</GUID>
+      <Name>AT_Narrator_Incidents_Warning_EndDestructionRiot</Name>
+    </Standard>
+  </Values>
+</Asset>

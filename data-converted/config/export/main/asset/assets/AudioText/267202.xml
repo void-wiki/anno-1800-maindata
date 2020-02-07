@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We've not heard from them since. The Arctic Council are sending rescue parties north, but their fleet is too thin to cover that vast territory before the arctic winter kicks in.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17553</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233672</AudioAsset>
+      <DialogSequence>3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267202</GUID>
+      <Name>AT_LadyFaithful_EventMovie01_03</Name>
+    </Standard>
+  </Values>
+</Asset>

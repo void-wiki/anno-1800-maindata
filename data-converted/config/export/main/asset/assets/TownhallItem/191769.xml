@@ -1,0 +1,59 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191769</GUID>
+      <Name>Medium Freedom</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png</IconFilename>
+      <InfoDescription>19469</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Free Press Act</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26969</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <ExclusiveGroup>HumanRightsAct</ExclusiveGroup>
+      <TradePrice>80000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010345</GUID>
+        </Item>
+        <Item>
+          <GUID>1010346</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <AdditionalHappiness>8</AdditionalHappiness>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentRiotIncreaseUpgrade>
+        <Value>2</Value>
+      </IncidentRiotIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

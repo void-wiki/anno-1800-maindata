@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your victory rouses no leviathan, only the wild and happy monster of freedom.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30652</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204081</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>110021</GUID>
+      <Name>AT_ai10_PlayerDefeatsNpcFoe2</Name>
+    </Standard>
+  </Values>
+</Asset>

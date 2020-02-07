@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Playing tin soldiers?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1865</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211508</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250653</GUID>
+      <Name>AT_ai07_MilitaryPlayerNegative2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501952</GUID>
+      <Name>NewCityState_Camp_Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>16981</Title>
+            <NotificationMainIconAsset>114751</NotificationMainIconAsset>
+            <Icon01>112669</Icon01>
+            <Icon02>112675</Icon02>
+            <BackgroundAnimation>data\ui\video\ui_alpha\main_banner\mainbanner_camp_a.bk2</BackgroundAnimation>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>117086</NotificationText>
+            <NotificationAudioAsset>202372</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

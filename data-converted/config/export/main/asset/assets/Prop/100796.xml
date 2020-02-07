@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100796</GUID>
+      <Name>log_pile</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/wood_log_pile_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wood_log_pile_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wood_log_pile_03.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/wood_log_pile_04.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

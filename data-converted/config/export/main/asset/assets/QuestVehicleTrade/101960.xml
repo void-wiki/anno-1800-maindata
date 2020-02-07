@@ -1,0 +1,105 @@
+<Asset>
+  <Template>QuestVehicleTrade</Template>
+  <Values>
+    <Standard>
+      <GUID>101960</GUID>
+      <Name>QO Schooner No Heal (Trade)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+      <InfoDescription>1083</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/schooner/schooner.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <MultiSelectable>1</MultiSelectable>
+    </Selection>
+    <Walking>
+      <ReservationLength>9</ReservationLength>
+      <ReservationWidth>5</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <LeaningMaxAngle>27</LeaningMaxAngle>
+      <ForwardSpeed>4.4</ForwardSpeed>
+      <WindMinSlowdownFactor>0.6</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1.6</WindMaxSpeedupFactor>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Schooner</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17953</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>4000</MaximumHitPoints>
+      <SelfHealPerHealTick>0</SelfHealPerHealTick>
+      <SelfHealPausedTimeIfAttacked>60000</SelfHealPausedTimeIfAttacked>
+    </Attackable>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+    </MinimapToken>
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <SocketCount>1</SocketCount>
+      <SlotCount>3</SlotCount>
+      <StackLimit>40</StackLimit>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010210</Ingredient>
+          <Amount>15</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+  </Values>
+</Asset>

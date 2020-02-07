@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>801607</GUID>
+      <Name>The Trial</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Trial</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16034</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800032</EventThreat>
+      <StartDecision>801609</StartDecision>
+      <EventMusicChoice>226699</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/melee_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801682</GUID>
+      <Name>The Chasing 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801683</Option>
+        </Item>
+        <Item>
+          <Option>801687</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors cannot disguise what they intend.&lt;/b&gt; As your ship readies to join theirs at the hip, the Pyrphorians yank night palls away to reveal a line of signature dragon guns. They will burn anyone who tries to come near...</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21113</LineID>
+    </Text>
+  </Values>
+</Asset>

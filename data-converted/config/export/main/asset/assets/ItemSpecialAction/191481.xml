@@ -1,0 +1,52 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191481</GUID>
+      <Name>Mortar_Dummy</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ship_military/icon_mortar.png</IconFilename>
+      <InfoDescription>15951</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>191482</Projectile>
+      <BarrageCount>1</BarrageCount>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>100</ActionDistance>
+      <ActionCooldown>10000</ActionCooldown>
+      <ActionDuration>2000</ActionDuration>
+      <ActionDescription>12828</ActionDescription>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <HasAction>1</HasAction>
+      <TradePrice>1000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mortar</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30280</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

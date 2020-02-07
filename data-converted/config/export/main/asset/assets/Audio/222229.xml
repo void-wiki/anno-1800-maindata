@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>222229</GUID>
+      <Name>wwe_sfx_vox_inc_rio_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterCount>3</ClusterCount>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>222232</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>222230</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2173381901</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

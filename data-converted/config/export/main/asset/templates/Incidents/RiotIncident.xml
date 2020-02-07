@@ -1,0 +1,12 @@
+<Template>
+  <Name>RiotIncident</Name>
+  <Properties>
+    <Standard />
+    <IncidentRiot>
+      <RiotMoveOutInterval>5</RiotMoveOutInterval>
+    </IncidentRiot>
+    <Incident />
+    <Text />
+    <IncidentEffectConfiguration />
+  </Properties>
+</Template>

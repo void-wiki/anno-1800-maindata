@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801729</GUID>
+      <Name>The Investigation 1.1.3.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <InsertEvent>801808</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Of course, the Pyrphorians have been waiting.&lt;/b&gt; The warehouse appears to be workshop for the production of devotional sculptures, its tables now flipped into barricades. Bullets ting through the many hundred stone representations of the goddess Pyr, as bodies drop on both sides. Eventually, the cultists prove too few. Having honoured the dead, you conduct a search. There is no contract, but a fiery oculus stares up from the floor, it is a Pyrphorian paper tract— an invitation to a rally at the Casado estate.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21158</LineID>
+    </Text>
+  </Values>
+</Asset>

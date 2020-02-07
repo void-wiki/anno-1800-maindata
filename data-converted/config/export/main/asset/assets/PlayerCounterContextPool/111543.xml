@@ -1,0 +1,21 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>111543</GUID>
+      <Name>All_OQ_HugoMercier_ContextPool_Theme2</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>111206</Asset>
+        </Item>
+        <Item>
+          <Asset>111213</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text />
+  </Values>
+</Asset>

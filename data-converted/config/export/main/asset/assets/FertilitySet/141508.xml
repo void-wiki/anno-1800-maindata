@@ -1,0 +1,25 @@
+<Asset>
+  <Template>FertilitySet</Template>
+  <Values>
+    <Standard>
+      <GUID>141508</GUID>
+      <Name>Set 1</Name>
+    </Standard>
+    <ResourceSetCondition>
+      <AllowedRegion>Moderate</AllowedRegion>
+      <AllowedIslandType>Normal;Starter</AllowedIslandType>
+      <AllowedIslandDifficulty>Normal;Hard</AllowedIslandDifficulty>
+      <AllowedResourceAmounts>Low</AllowedResourceAmounts>
+    </ResourceSetCondition>
+    <FertilitySet>
+      <Fertilities>
+        <Item>
+          <Fertility>1010569</Fertility>
+        </Item>
+        <Item>
+          <Fertility>1010571</Fertility>
+        </Item>
+      </Fertilities>
+    </FertilitySet>
+  </Values>
+</Asset>

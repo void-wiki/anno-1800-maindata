@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100800</GUID>
+      <Name>window_stand</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/window_stand_01_single.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/window_stand_02_small_group.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/window_stand_03_large_group.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/glass_plate_stand_single.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

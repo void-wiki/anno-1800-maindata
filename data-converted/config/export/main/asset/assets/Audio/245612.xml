@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245612</GUID>
+      <Name>Play_AI_EXPLO_ISJLE_ZOUZ1_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1272</DurationMinimum>
+          <DurationMaximum>5470</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>951</DurationMinimum>
+          <DurationMaximum>4847</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1411</DurationMinimum>
+          <DurationMaximum>5251</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1590</DurationMinimum>
+          <DurationMaximum>5760</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2013457644</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

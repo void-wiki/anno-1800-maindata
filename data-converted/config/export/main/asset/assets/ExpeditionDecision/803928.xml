@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803928</GUID>
+      <Name>Beechey Island 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803929</Option>
+        </Item>
+        <Item>
+          <Option>803930</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_grave.png</Sketch>
+        <SketchPosX>909</SketchPosX>
+        <SketchPosY>150</SketchPosY>
+        <SketchSizeX>164</SketchSizeX>
+        <SketchSizeY>119</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A hundred metres from the graves, &lt;b&gt;the men find the remains of a camp&lt;/b&gt; at which the lost expedition wintered. They built a cairn— a stack of stones— under which a tin cylinder containing a tightly-rolled letter is found. "They left a note of their progress," the captain says. Lady Faithful recognizes her husband's handwriting.&lt;br/&gt;&lt;font  overrideTextColor="true" color='#695c4c'&gt;&lt;i&gt;May 28th, 1847 { H.M. ships 'Styx' and 'Hades' wintered in the ice in lat. 70˚ 05' N ; long. 98˚ 23' W. Having wintered in 1846-7 at Baffling Island, in lat. 74˚ 43' 28" N., long. 91˚ 39' 15" W., after having sailed Wailing Channel to lat. 77˚, and returned by the west side of Cornell Island. Total loss by deaths to this date has been 3 men due to sickness — Braine, Gore and Seeley, God rest their souls. Leaving tomorrow for Labrador Island. Aim to reach Passage by end June; we must be close now. John Faithful, Commander, HMS Styx.&lt;/i&gt;&lt;/font&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34893</LineID>
+    </Text>
+  </Values>
+</Asset>

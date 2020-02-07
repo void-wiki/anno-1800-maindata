@@ -1,0 +1,41 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268835</GUID>
+      <Name>Pool_3rdParty04_ResettlePlayerFailure</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258533</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258528</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258529</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258530</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258531</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258532</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

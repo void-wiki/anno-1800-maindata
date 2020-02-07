@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239978</GUID>
+      <Name>wwe_voc_mur_war_action</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1410</DurationMinimum>
+          <DurationMaximum>19845</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1085</DurationMinimum>
+          <DurationMaximum>19733</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1192</DurationMinimum>
+          <DurationMaximum>20038</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1294</DurationMinimum>
+          <DurationMaximum>19572</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>960553452</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245704</GUID>
+      <Name>Play_AI_TECHN_BASIC_31YL0_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>971</DurationMinimum>
+          <DurationMaximum>1235</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>344</DurationMinimum>
+          <DurationMaximum>1099</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>430</DurationMinimum>
+          <DurationMaximum>892</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>767</DurationMinimum>
+          <DurationMaximum>884</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2947711945</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

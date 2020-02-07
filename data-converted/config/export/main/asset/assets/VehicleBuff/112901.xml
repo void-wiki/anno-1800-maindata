@@ -1,0 +1,40 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>112901</GUID>
+      <Name>Fish Bait Bocal Buff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/item_fishbait_bocal.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jar of Worms</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32324</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade>
+      <RarityWeightUpgrade>
+        <Rare>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Rare>
+      </RarityWeightUpgrade>
+      <AllocationWeightUpgrade>
+        <Zoo>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Zoo>
+      </AllocationWeightUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You needs a warehouse, you do!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8798</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221004</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257283</GUID>
+      <Name>AT_res_tier01_ProductionMissingWarehouse2</Name>
+    </Standard>
+  </Values>
+</Asset>

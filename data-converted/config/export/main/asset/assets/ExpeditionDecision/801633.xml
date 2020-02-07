@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801633</GUID>
+      <Name>Wall of Ice 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your ship performs a rather messy dismount.&lt;/b&gt; After that intial roll, the iceberg halts long enough to suggest it wants to stay in its new position. But then everything happens all at once. The berg spins violently, and the ship with it! The ship strikes the water at such an angle that very serious damage is done to much of the lee-side. Fortunately the crew come out unharmed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17968</LineID>
+    </Text>
+  </Values>
+</Asset>

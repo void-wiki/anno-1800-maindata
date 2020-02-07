@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204608</GUID>
+      <Name>Play_AI_NEWDL_BASIC_TZV_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>1676</DurationMinimum>
+          <DurationMaximum>5940</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>1810</DurationMinimum>
+          <DurationMaximum>6205</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2013</DurationMinimum>
+          <DurationMaximum>5845</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1722</DurationMinimum>
+          <DurationMaximum>4350</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>998122288</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

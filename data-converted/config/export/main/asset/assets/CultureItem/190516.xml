@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190516</GUID>
+      <Name>uppsala altar</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_viking_uppsala_altar.png</IconFilename>
+      <InfoDescription>10633</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Altar of Uppsidaisi</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15062</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>191131</ItemSet>
+      <TradePrice>645000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100942</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthernEurope;CentralEurope</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>12868</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

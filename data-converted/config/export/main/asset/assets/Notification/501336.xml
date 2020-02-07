@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501336</GUID>
+      <Name>Play Time 12h</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_timer.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501356</IconAsset>
+            <IsArchived>0</IsArchived>
+            <FilterType>System</FilterType>
+            <Infotip>0</Infotip>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>16920</NotificationText>
+            <NotificationBlockingTime>3600000</NotificationBlockingTime>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265149</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802944</GUID>
+      <Name>Through the Jungle</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Finding Sarmento</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23716</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <StartDecision>802945</StartDecision>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

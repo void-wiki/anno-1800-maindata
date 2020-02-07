@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Projectile</Template>
+  <Values>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>0</ShotAngle>
+      <ProjectileSpeed>30</ProjectileSpeed>
+      <DamageType>Cannon</DamageType>
+    </Projectile>
+    <Standard>
+      <GUID>101973</GUID>
+      <Name>Small_Multi_Shot</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_cannon_small_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text />
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>235859</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235858</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <ProjectileIncident />
+  </Values>
+</Asset>

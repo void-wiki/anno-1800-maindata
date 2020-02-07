@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802025</GUID>
+      <Name>Tavern Troubles 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew crushes them.&lt;/b&gt; The collar-grabbed doctor slaps away the hand of the hoodlum, seizes his sleeve and pulls him above his shoulder, sending him to crash into a table. With a roar, the other thugs pounce on your sailors who greet them with jabs to the chin and sternum, downing the attackers with no more than two hits per man - the seconds for the pleasure of good fighting form. The tavern applauds the action and the bartender offers a round to celebrate the deserved beating.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21726</LineID>
+    </Text>
+  </Values>
+</Asset>

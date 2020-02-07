@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The refit is complete.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33675</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245301</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116570</GUID>
+      <Name>AT_DLC03_Airship_ShipUpgraded_01</Name>
+    </Standard>
+  </Values>
+</Asset>

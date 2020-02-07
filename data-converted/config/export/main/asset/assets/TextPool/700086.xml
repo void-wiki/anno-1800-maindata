@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700086</GUID>
+      <Name>Flagship_MovePool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268466</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268467</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268468</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268469</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268470</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803501</GUID>
+      <Name>Trelawney 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803502</Option>
+        </Item>
+        <Item>
+          <Option>803510</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The Queen fled the casino at speed,&lt;/b&gt; and your own carriage is some distance behind. Your driver thinks she is headed up the coast, perhaps to a ship. &lt;b&gt;You can either keep up your pursuit, or else rush to your own ship,&lt;/b&gt; which, if the orders you gave to the captain have been followed, should be waiting in the Monégasque marina. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32671</LineID>
+    </Text>
+  </Values>
+</Asset>

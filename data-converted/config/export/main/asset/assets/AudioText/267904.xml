@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Off to the colonies as royal ambassador? You may end up the tray of hors d'oeuvres!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17085</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232787</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267904</GUID>
+      <Name>AT_ai08_WelcomeCampaign03</Name>
+    </Standard>
+  </Values>
+</Asset>

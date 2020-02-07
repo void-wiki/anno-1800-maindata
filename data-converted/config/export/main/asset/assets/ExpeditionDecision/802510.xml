@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802510</GUID>
+      <Name>The Storm 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Mayhem.&lt;/b&gt; Disheartened by the enormity of the task, the sailors hardly listen to their lieutenants. Four crew members attempt to follow orders and unfasten the deck's supplies, which roll away from them and swing through the deck as the ship continues to pitch, knocking down sailors and pushing them overboard, breaking the ship's railings and toppling its weakened masts. When the sun emerges, it reveals the emaciated silhouette of a ghost ship.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21793</LineID>
+    </Text>
+  </Values>
+</Asset>

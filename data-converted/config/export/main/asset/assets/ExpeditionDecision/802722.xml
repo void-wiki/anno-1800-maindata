@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802722</GUID>
+      <Name>Bottles Found in the Sea 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190423</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Found them!&lt;/b&gt; Your look-out shows their brilliance when they spot the thin smoke line of a campfire in the distance. A dinghy is sent to retrieve the castaways and comes back filled to the brim with men in overgrown beards, torn clothes, and awed faces. Their captain pledges himself to your crew and, once shaved and washed, the castaways prove themselves to be excellent sailors and even better companions.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21700</LineID>
+    </Text>
+  </Values>
+</Asset>

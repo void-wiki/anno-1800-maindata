@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800953</GUID>
+      <Name>The Icy Blizzard 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistWithAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor knows nothing of urgency.&lt;/b&gt; "Give my patient space!" he snaps at those trying to move things along. Meanwhile, a blizzard sweeps the ravine, and the onset of frostbite is enough to split the party. Neither the doctor nor his unfortunate patient are to be seen again. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16054</LineID>
+    </Text>
+  </Values>
+</Asset>

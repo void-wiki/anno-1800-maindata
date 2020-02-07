@@ -1,0 +1,30 @@
+<Asset>
+  <Template>DiscoveryFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>140477</GUID>
+      <Name>DiscoveryBalancing</Name>
+      <ID>DiscoveryBalancing</ID>
+    </Standard>
+    <DiscoveryFeature>
+      <IslandDilation>40</IslandDilation>
+      <IslandDiscoverySpeed>14</IslandDiscoverySpeed>
+      <TileFadeOutDuration>1</TileFadeOutDuration>
+      <MaxFragmentSize>200</MaxFragmentSize>
+      <DiscoveredSessions>
+        <Item>
+          <Session>180001</Session>
+        </Item>
+        <Item>
+          <Session>180014</Session>
+        </Item>
+        <Item>
+          <Session>180040</Session>
+        </Item>
+      </DiscoveredSessions>
+      <EmptyIslandDiscoveredNotification>501305</EmptyIslandDiscoveredNotification>
+      <FogOfWarDiscoverRadius>30</FogOfWarDiscoverRadius>
+      <DiscoveryEventObjectLabelPrefix>DiscoverMe_</DiscoveryEventObjectLabelPrefix>
+    </DiscoveryFeature>
+  </Values>
+</Asset>

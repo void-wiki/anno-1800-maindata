@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Do you play me false?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8225</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221273</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255500</GUID>
+      <Name>AT_ai06_QuestAborted2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802740</GUID>
+      <Name>The Preacher 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor only proves his own paranoia.&lt;/b&gt; Your doctor interrupts the chaplain's daily sermon with a loud declaration, stating that the man of faith is, in fact, a soul tormented by a mental illness. With all eyes on him, your doctor utters a list of personal opinions rather than medical facts, and the chaplain welcomes his doubts with benevolence. His influence flourishes and your lieutenants have to make do with him for the rest of the trip.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21717</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are rubbing up the wrong balustrade.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16962</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232902</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265577</GUID>
+      <Name>AT_ai06_PositiveInteraction_NPCsFoe1</Name>
+    </Standard>
+  </Values>
+</Asset>

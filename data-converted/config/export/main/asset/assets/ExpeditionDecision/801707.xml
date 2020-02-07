@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801707</GUID>
+      <Name>The Chasing 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>801714</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The navigator is as sure of himself&lt;/b&gt; as he can be in the circumstances. "If I were Pyrphorian, god help me, I would head for Montoya," his finger circles the large settlement, "it has a large marina where my devilish vessel might be easily concealed." Upon searching Montoya harbour, they indeed find the Pyrphorian ship in a secluded corner of mangrove. That being well, they must hope now they have not lost too much time.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21137</LineID>
+    </Text>
+  </Values>
+</Asset>

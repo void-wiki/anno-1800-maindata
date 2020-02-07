@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141870</GUID>
+      <Name>Victory Conditions Annihilation Other Participant</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>15011</Headline>
+      <Subline>15012</Subline>
+      <Image>142169</Image>
+      <Category>VictoryAndLose</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>600</StartValue>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

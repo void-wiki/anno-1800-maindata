@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A letter, it bears Edvard’s Seal!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15517</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232145</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265005</GUID>
+      <Name>advisor_02_EdvardsPrisoners_02</Name>
+    </Standard>
+  </Values>
+</Asset>

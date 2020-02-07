@@ -1,0 +1,48 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>500023</GUID>
+      <Name>steam motor chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_steam_machine.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>1010302</Building>
+      <Tier1>
+        <Item>
+          <Building>1010297</Building>
+          <Tier2>
+            <Item>
+              <Building>1010305</Building>
+            </Item>
+            <Item>
+              <Building>1010304</Building>
+            </Item>
+          </Tier2>
+        </Item>
+        <Item>
+          <Building>1010282</Building>
+          <Tier2>
+            <Item>
+              <Building>1010307</Building>
+            </Item>
+            <Item>
+              <Building>1010308</Building>
+            </Item>
+          </Tier2>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Steam Motors</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14902</LineID>
+    </Text>
+  </Values>
+</Asset>

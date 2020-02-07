@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12495</GUID>
+      <Name>NPC Needs Help in Protection - f</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>As a protector of [AssetData([NotificationContext CharacterGUID]) Text], you are now at war with her enemy [Participants ParticipantName([NotificationContext Value(WarParty) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10775</LineID>
+    </Text>
+  </Values>
+</Asset>

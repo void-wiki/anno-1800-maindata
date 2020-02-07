@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>802061</GUID>
+      <Name>The Mutiny 1.1.3.1.2.1.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This will be costly.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21586</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>22622</TraderName>
+      <FollowupSuccessOption>802062</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802063</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>10000</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

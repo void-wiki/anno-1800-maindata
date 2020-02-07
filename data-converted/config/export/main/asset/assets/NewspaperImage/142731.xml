@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>142731</GUID>
+      <Name>Monument Event 4 Started - Botanica</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Big>
+          <Image>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_exhibition_started.png</Image>
+        </Big>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_exhibition_started.png</Image>
+        </Medium>
+        <Small>
+          <Image>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_exhibition_started.png</Image>
+        </Small>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets16/newspaper/botanica/article_botanica_exhibition_started.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

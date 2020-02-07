@@ -1,0 +1,55 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>111026</GUID>
+      <Name>The Needs of Mass Production</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/books/icon_capitalist_economic_doctrine_01.png</IconFilename>
+      <InfoDescription>111029</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Captains Of Industry, Vol IV</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30881</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <ExclusiveGroup>EconomicDoctrine</ExclusiveGroup>
+      <TradePrice>29560</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <WorkforceModifierInPercent>15</WorkforceModifierInPercent>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentIllnessIncreaseUpgrade>
+        <Value>2</Value>
+      </IncidentIllnessIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

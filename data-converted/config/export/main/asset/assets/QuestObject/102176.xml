@@ -1,0 +1,39 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102176</GUID>
+      <Name>CQO_SewerExit_Crate </Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_box_pile_small_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bright Sands Refugees</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25859</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <Collectable />
+    <FeedbackController />
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193101</GUID>
+      <Name>Culture - Furry Animals - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191072</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191078</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191052</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191506</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190007</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191079</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

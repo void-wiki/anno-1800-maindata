@@ -1,0 +1,45 @@
+<Asset>
+  <Template>Herd</Template>
+  <Values>
+    <Standard>
+      <GUID>1003224</GUID>
+      <Name>Herd Bear</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cattle.png</IconFilename>
+      <ID>Earth_Herd_Land_0</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_bear.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <Herd>
+      <Attacks>1</Attacks>
+    </Herd>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/bear_brown/bear_brown.cfg</AnimalCFG>
+          <RelativeProbability>40</RelativeProbability>
+        </Item>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/bear_black/bear_black.cfg</AnimalCFG>
+          <RelativeProbability>60</RelativeProbability>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_AmbientZones>North;South</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>1</UnitCountMin>
+      <UnitCountMax>1</UnitCountMax>
+      <AutoSpawn_RelativeProbability>35</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>202360</Animal_AudioLoop>
+      <ScaleFactor>0.6</ScaleFactor>
+    </AnimalBase>
+  </Values>
+</Asset>

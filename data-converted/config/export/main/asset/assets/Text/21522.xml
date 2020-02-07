@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21522</GUID>
+      <Name>AdditionalHappinessInfo</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_hospital_2d.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents gain bonus happiness from [ItemAssetData([RefGuid]) InputBenefitAllAdditionalHappinessFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29230</LineID>
+    </Text>
+  </Values>
+</Asset>

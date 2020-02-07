@@ -1,0 +1,18 @@
+<Asset>
+  <Template>NoLocaText</Template>
+  <Values>
+    <Standard>
+      <GUID>11537</GUID>
+      <Name>RetrieveItemText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([Conditions QuestCondition Item]) Text]</Text>
+          <Status>Localization</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

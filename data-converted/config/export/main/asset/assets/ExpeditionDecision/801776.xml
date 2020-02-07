@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801776</GUID>
+      <Name>The Infiltration 1.2.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801777</Option>
+        </Item>
+        <Item>
+          <Option>801780</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Much as using a pipe stem seemed a fine idea&lt;/b&gt;, it snaps off with the strain, and the lock will no longer budge. Should they risk staying longer?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21203</LineID>
+    </Text>
+  </Values>
+</Asset>

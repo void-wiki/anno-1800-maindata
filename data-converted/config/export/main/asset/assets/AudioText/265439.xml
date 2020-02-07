@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You have received a donation.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16267</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234193</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265439</GUID>
+      <Name>AT_Narrator_Donations_Information_DonationReceived</Name>
+    </Standard>
+  </Values>
+</Asset>

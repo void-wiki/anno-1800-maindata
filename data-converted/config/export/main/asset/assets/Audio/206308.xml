@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206308</GUID>
+      <Name>wwe_bld_agriculture_02_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>235669</StopEvent>
+      <SoundEventType>MiddleBuildingSound</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2256830461</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

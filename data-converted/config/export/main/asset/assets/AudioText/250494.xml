@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You're flourishing!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1166</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212233</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250494</GUID>
+      <Name>AT_3rdParty02_PosiFeedbackToPlayer6</Name>
+    </Standard>
+  </Values>
+</Asset>

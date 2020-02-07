@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802838</GUID>
+      <Name>Taken In Broken Out 1.2.1.1.2.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Not enough.&lt;/b&gt; The judges scoff at your attempt to bribe them with a so-called fine, and advise your crew to aim for a higher amount next time. To show they are not cheap, they extend their penalty to two months of forced labour and place the sailors under the tightest surveillance. The two months are a mixture of menial and unrewarding tasks and frequent and unwarranted whipping.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22032</LineID>
+    </Text>
+  </Values>
+</Asset>

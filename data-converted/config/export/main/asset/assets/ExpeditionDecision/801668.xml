@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801668</GUID>
+      <Name>The Chasing 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801670</Option>
+        </Item>
+        <Item>
+          <Option>801680</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"There! We have them," your navigator smiles.&lt;/b&gt; "See? Here." The finger traces a route behind Ventura island. "Remarkable how few options they have. Montoya is the only port they might blend in for fifty leagues." Sure enough, you intercept one of the tiny vessels off Montoya's twinkling bay. It may be no match for your own ship, but to sink them outright risks losing that precious contract to the water.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21100</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The unpredictable, like Graves, develop no power to predict.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13006</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230380</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260998</GUID>
+      <Name>AT_enemy_02_IdleMessageGossip_Gravez</Name>
+    </Standard>
+  </Values>
+</Asset>

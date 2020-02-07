@@ -1,0 +1,21 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>190108</GUID>
+      <Name>RealExistingSocialism</Name>
+    </Standard>
+    <ItemSocketSet>
+      <SetBuff>190110</SetBuff>
+      <BuffScope>Area</BuffScope>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Socialism</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

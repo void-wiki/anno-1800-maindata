@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Can I interest you in this recently-polished apple?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11370</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232164</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260369</GUID>
+      <Name>AT_Reporter_WelcomeToPlayer6</Name>
+    </Standard>
+  </Values>
+</Asset>

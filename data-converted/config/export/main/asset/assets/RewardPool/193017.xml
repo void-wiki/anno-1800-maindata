@@ -1,0 +1,36 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193017</GUID>
+      <Name>Machines - Farmer Machines - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190851</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190857</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190859</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190863</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190870</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190874</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190903</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

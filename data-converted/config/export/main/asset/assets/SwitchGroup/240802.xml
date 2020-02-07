@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>240802</GUID>
+      <Name>MS2_env_moo_coast_stone_steep</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>244792</Choice>
+        </Item>
+        <Item>
+          <Choice>244793</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>2583157954</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>116973</GUID>
+      <Name>Pool Inuit and Resident Quests</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>116634</Asset>
+        </Item>
+        <Item>
+          <Asset>116761</Asset>
+        </Item>
+        <Item>
+          <Asset>116762</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text />
+  </Values>
+</Asset>

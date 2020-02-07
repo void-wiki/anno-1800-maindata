@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>115006</GUID>
+      <Name>Heating CoalTendencyNegative NotificationText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You're running out of coal in [NotificationContext Value(Area) Area CityName]!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35001</LineID>
+    </Text>
+  </Values>
+</Asset>

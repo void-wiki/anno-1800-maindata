@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802853</GUID>
+      <Name>The Hunter and the Prey 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802854</Option>
+        </Item>
+        <Item>
+          <Option>802878</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Cornered by a fearsome Pyrphorian vessel!&lt;/b&gt; Your expedition has reached South America at last, and all look forward to some well-earned rest. Night has fallen and your ship is already in the tranquil bay, when the look out screams "behind us!" There, looming from the darkness, gleams a dragon of iron, its nostrils livid with fire. "The same dire vessel of Mr. Goode's murderer, but more than twice the size! We are at their mercy." The bay is hidden from the bright gaze of the moon, however, and it is possible the dragon has not yet spotted you. If you choose to show yourself, you cannot expect to be a match for the dragon, only to somehow hinder it long enough to flee.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23673</LineID>
+    </Text>
+  </Values>
+</Asset>

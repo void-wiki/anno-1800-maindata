@@ -1,0 +1,22 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101063</GUID>
+      <Name>DynamiteFishingExplosion</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>work01</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/dynamite_fishing/dynamite_fishing_explosion.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

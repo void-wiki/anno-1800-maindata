@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The drums of war can be heard.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12397</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230493</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261621</GUID>
+      <Name>AT_MurmurMale3_War_Declared</Name>
+    </Standard>
+  </Values>
+</Asset>

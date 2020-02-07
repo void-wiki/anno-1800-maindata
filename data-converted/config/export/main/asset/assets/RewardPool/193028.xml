@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193028</GUID>
+      <Name>Machines - Artisan Machines - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190893</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190896</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190900</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190907</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191825</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

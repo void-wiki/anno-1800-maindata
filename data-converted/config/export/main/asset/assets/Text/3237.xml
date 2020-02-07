@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>3237</GUID>
+      <Name>NPC Gives Gift - f</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] presents you with a gift.&lt;br/&gt;+[NotificationContext Value(MoneyValue) Int] Coins</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6883</LineID>
+    </Text>
+  </Values>
+</Asset>

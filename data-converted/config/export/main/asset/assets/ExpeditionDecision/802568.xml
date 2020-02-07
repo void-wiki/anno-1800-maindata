@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802568</GUID>
+      <Name>A Fistful of Doubloons 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802570</Option>
+        </Item>
+        <Item>
+          <Option>802571</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ship's coffers have been emptied!&lt;/b&gt; "I knew they had a wicked air about 'em" your purser says of the turncoats, who at first light took off inland, taking with them as many shiny simoleons as they could lay hands on. Now the crew are worried they may not be paid for this expedition. If you are going to apprehend the thieves out in these frontier lands, you had better set to it sharpish.</Text>
+          <Status>Exported</Status>
+          <ExportCount>10</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21646</LineID>
+    </Text>
+  </Values>
+</Asset>

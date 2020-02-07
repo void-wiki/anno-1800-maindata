@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193750</GUID>
+      <Name>Exotic Flowers R</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>114665</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114668</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111110</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

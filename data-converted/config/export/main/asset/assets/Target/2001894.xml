@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>DRAG</ActionID>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>CheckProperty</Flags>
+          <Property>Collector</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>CheckProperty;IsDroppableDraggable;IsDraggedBySelection</Flags>
+          <Property>Draggable</Property>
+        </TargetMatch1>
+      </Matches>
+      <MouseCursorTarget>2001879</MouseCursorTarget>
+      <MouseCursorDisable>2001207</MouseCursorDisable>
+      <MouseCursorMode>2001879</MouseCursorMode>
+    </Target>
+    <Standard>
+      <GUID>2001894</GUID>
+      <Name>Draggable Drop (not used anymore)</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

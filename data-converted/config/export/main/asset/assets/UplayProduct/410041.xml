@@ -1,0 +1,27 @@
+<Asset>
+  <Template>UplayProduct</Template>
+  <Values>
+    <Standard>
+      <GUID>410041</GUID>
+      <Name>Anno 1800 DLC - Botanica</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_dlc_botanica.png</IconFilename>
+      <ID>DLC2_Botanica</ID>
+    </Standard>
+    <Locked />
+    <UplayProduct>
+      <UplayProductID>14215</UplayProductID>
+      <ProductType>DLC</ProductType>
+      <PromotionAsset>410030</PromotionAsset>
+    </UplayProduct>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Botanica</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32447</LineID>
+    </Text>
+  </Values>
+</Asset>

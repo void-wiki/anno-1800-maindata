@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>22017</GUID>
+      <Name>BlockTakeoverInfo</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_bankrupt.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Prevents another party from taking ownership of your island when they possess all shares.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30212</LineID>
+    </Text>
+  </Values>
+</Asset>

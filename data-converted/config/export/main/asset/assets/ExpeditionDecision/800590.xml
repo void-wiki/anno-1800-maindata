@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800590</GUID>
+      <Name>Lost in the Desert 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is a long and draining journey.&lt;/b&gt; Finally the crew limp exhausted into a settlement, from where it will no doubt be possible to procure the appropriate charts. Most would be happy never to see those grumpy old camels ever again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5862</LineID>
+    </Text>
+  </Values>
+</Asset>

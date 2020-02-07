@@ -1,0 +1,39 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>141706</GUID>
+      <Name>SA | FarmWorker</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>FarmWorker</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142470</UnitAsset>
+          <RelativeProbability>50</RelativeProbability>
+        </Item>
+        <Item>
+          <UnitAsset>142471</UnitAsset>
+          <RelativeProbability>50</RelativeProbability>
+        </Item>
+        <Item>
+          <UnitAsset>142472</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142473</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142474</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142478</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142479</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Talk</AllowedReactions>
+      <UseSpecialPathPlannerLayer>1</UseSpecialPathPlannerLayer>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802046</GUID>
+      <Name>The Mutiny 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They soon reach an understanding.&lt;/b&gt; After all, the demands made by the mutineers are perfectly understandable. The officers address each of their criticisms of the running of the ship, agreeing where possible to make adjustments, and where they find it is not possible, taking the time to explain exactly why things are just fine the way they are. Everyone seems most satisfied with so fair and democratic a resolution.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21576</LineID>
+    </Text>
+  </Values>
+</Asset>

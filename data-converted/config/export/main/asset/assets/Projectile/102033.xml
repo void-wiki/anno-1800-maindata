@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Projectile</Template>
+  <Values>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>0</ShotAngle>
+      <ProjectileSpeed>60</ProjectileSpeed>
+      <DamageType>Cannon</DamageType>
+    </Projectile>
+    <Standard>
+      <GUID>102033</GUID>
+      <Name>Large_Single_Shot</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_cannon_modern_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text />
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>235849</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235848</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <ProjectileIncident />
+  </Values>
+</Asset>

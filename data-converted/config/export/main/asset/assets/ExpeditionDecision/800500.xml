@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800500</GUID>
+      <Name>Love Island 1.3.3.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Paradise lost!&lt;/b&gt; The expedition may be back underway, but the mood is abject as the beautiful island becomes but painful memory. Too painful for one, who is discovered dead, it is said, by way of a broken heart.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5619</LineID>
+    </Text>
+  </Values>
+</Asset>

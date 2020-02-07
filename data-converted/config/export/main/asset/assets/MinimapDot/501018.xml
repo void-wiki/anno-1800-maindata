@@ -1,0 +1,17 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>501018</GUID>
+      <Name>Steam Ships</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_routemap_steamship.png</IconFilename>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>Yellow</Color>
+      <Tooltip>2736</Tooltip>
+      <Filter>Ships</Filter>
+      <UsePlayerColor>1</UsePlayerColor>
+      <Outline>data/ui/2kimages/main/icons/icon_routemap_steamship_outline.png</Outline>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

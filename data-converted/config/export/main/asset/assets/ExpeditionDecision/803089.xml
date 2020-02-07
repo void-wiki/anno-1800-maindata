@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803089</GUID>
+      <Name>Ghosts in the Ice 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803092</Option>
+        </Item>
+        <Item>
+          <Option>803093</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The icy domain gives a profuse bounty.&lt;/b&gt; Your fishermen forsake the idea of exploring the floe, knowing that the local game hides underwater. They catch enough seals to feed the whole crew and the feast, if it does not miraculously heal the sick, seems to replenish their spirit. They encourage your crew to use cannons to break the ice encasing their ship - despite the risk of damaging their hull.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23437</LineID>
+    </Text>
+  </Values>
+</Asset>

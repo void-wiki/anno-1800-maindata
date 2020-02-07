@@ -1,0 +1,35 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269053</GUID>
+      <Name>Pool_enemy02_BigBotanicalGarden</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268047</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256273</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258391</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256469</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

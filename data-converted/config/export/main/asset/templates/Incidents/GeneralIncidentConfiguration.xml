@@ -1,0 +1,22 @@
+<Template>
+  <Name>GeneralIncidentConfiguration</Name>
+  <Properties>
+    <GeneralIncidentConfiguration>
+      <ProgressConfig>
+        <EarlyGame>
+          <TotalIncidentLimit>1</TotalIncidentLimit>
+          <TotalIslandIncidentLimit>1</TotalIslandIncidentLimit>
+        </EarlyGame>
+        <EarlyMidGame>
+          <TotalIncidentLimit>2</TotalIncidentLimit>
+          <TotalIslandIncidentLimit>2</TotalIslandIncidentLimit>
+        </EarlyMidGame>
+        <MidGame>
+          <TotalIncidentLimit>3</TotalIncidentLimit>
+          <TotalIslandIncidentLimit>3</TotalIslandIncidentLimit>
+        </MidGame>
+      </ProgressConfig>
+    </GeneralIncidentConfiguration>
+    <Standard />
+  </Properties>
+</Template>

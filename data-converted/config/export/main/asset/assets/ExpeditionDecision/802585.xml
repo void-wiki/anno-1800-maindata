@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802585</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802587</Option>
+        </Item>
+        <Item>
+          <Option>802588</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The locals agree to help.&lt;/b&gt; Your diplomat carefully brings the subject of thieves to a man of imposing authority, the sheriff in charge of the small town. The modus operandi is familiar to him: a local gang is famous for their sneaking around foreign businessmen, but he never would have imagined they'd be so bold as to rob a ship. If the robbery was today, he says, the thieves are sure to come and celebrate at the saloon tonight.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21655</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192618</GUID>
+      <Name>Archetype (Jornaleros) Legendary Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_9.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192696</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193019</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193084</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193119</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193725</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

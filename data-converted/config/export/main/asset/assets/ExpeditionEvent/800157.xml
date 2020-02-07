@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800157</GUID>
+      <Name>Calico's Rogues Snare a Merchant Ship</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Calico's Rogues Snare a Merchant Ship</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5515</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800004</EventThreat>
+      <StartDecision>800158</StartDecision>
+      <EventMusicChoice>226699</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/naval_battle_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

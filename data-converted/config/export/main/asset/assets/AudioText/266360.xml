@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stop hogging the rum, or Annie'll hear of it!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18158</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238051</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266360</GUID>
+      <Name>AT_MurmurMale2_Pirates_Anne</Name>
+    </Standard>
+  </Values>
+</Asset>

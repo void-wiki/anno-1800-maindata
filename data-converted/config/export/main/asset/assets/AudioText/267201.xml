@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It has been three years since the Arctic Council sent its two best ships in search of the legendary north-west passage, led by my dear husband, Sir John Faithful.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17552</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233671</AudioAsset>
+      <DialogSequence>2</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267201</GUID>
+      <Name>AT_LadyFaithful_EventMovie01_02</Name>
+    </Standard>
+  </Values>
+</Asset>

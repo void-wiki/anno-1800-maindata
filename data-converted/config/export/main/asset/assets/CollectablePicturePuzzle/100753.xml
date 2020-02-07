@@ -1,0 +1,43 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>100753</GUID>
+      <Name>QO_Castaway_Water</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rum_master.png</IconFilename>
+    </Standard>
+    <Collectable />
+    <Mesh>
+      <MeshPlacement>OnWater</MeshPlacement>
+    </Mesh>
+    <Selection />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/castaway_lifewest/castaway_lifewest.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Castaway</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214110</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

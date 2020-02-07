@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>211602</GUID>
+      <Name>Play_AI_DRYCARLL_BASIC_E5I_00009_01CARLL_1608</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>11000</DurationMinimum>
+          <DurationMaximum>11000</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>12681</DurationMinimum>
+          <DurationMaximum>12681</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>10641</DurationMinimum>
+          <DurationMaximum>10641</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>10367</DurationMinimum>
+          <DurationMaximum>10367</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>583188745</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

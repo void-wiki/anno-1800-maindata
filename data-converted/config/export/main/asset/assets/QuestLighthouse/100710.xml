@@ -1,0 +1,43 @@
+<Asset>
+  <Template>QuestLighthouse</Template>
+  <Values>
+    <Standard>
+      <GUID>100710</GUID>
+      <Name>HB QuestObject (Old Nate)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_06.png</IconFilename>
+      <InfoDescription>2676</InfoDescription>
+    </Standard>
+    <Building />
+    <Blocking />
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject_lighthouse.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Old Nate's Lighthouse</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7037</LineID>
+    </Text>
+    <Cost />
+    <Infolayer />
+    <Maintenance />
+    <Locked />
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

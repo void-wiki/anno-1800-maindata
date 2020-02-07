@@ -1,0 +1,23 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>500695</GUID>
+      <Name>QuestObject_UseDynamite</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/infolayer_a7_marker_quest_minor_01.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Use &lt;b&gt;[AssetData(102487) Text]&lt;/b&gt; here!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19957</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,82 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>111167</GUID>
+      <Name>Capitalist Club Founder</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_normal_dressed_203.png</IconFilename>
+      <InfoDescription>111173</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mr. Garrick, Founder of the Entrepreneur Gentlemen's Club</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31332</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>278300</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010346</GUID>
+        </Item>
+        <Item>
+          <GUID>1010347</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010356</Product>
+          <AdditionalMoney>5</AdditionalMoney>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>40</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <NeedProvideNeedUpgrade>
+        <Item>
+          <ProvidedNeed>1010246</ProvidedNeed>
+          <SubstituteNeed>1010356</SubstituteNeed>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010250</ProvidedNeed>
+          <SubstituteNeed>1010356</SubstituteNeed>
+        </Item>
+      </NeedProvideNeedUpgrade>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

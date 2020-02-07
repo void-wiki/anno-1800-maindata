@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192710</GUID>
+      <Name>Machines - Repair Tools - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192152</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191880</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191884</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

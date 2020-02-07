@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It's hard to get ships. We are lucky to have friends to help us.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11697</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230113</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>260944</GUID>
+      <Name>AT_3rdParty05_PlayerSelectsNpcShip3</Name>
+    </Standard>
+  </Values>
+</Asset>

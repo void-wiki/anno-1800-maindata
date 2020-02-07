@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15195</GUID>
+      <Name>SelfHeal</Name>
+      <IconFilename>data/ui/2kimages/main/icons/ship_info/icon_hitpoints.png</IconFilename>
+      <ID>BuffSelfheal</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Self-repair</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22653</LineID>
+    </Text>
+  </Values>
+</Asset>

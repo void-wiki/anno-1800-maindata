@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801635</GUID>
+      <Name>Wall of Ice 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801622</Option>
+        </Item>
+        <Item>
+          <Option>801623</Option>
+        </Item>
+        <Item>
+          <Option>801625</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The wrong wood is selected for the task.&lt;/b&gt; It is a decorative mahogany veneer, stripped from the captain's cabin. "Whatever it takes," the captain says with laudable magnanimity, but the whole business is futile. Despite the wedges being placed in great number at the stern of the ship, no amount of pressure from the crew can encourage the ship to move since the levers lack the requisite spring. They'll need to find another way off this berg. </Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17971</LineID>
+    </Text>
+  </Values>
+</Asset>

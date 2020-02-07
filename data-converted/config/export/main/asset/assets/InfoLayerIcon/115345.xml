@@ -1,0 +1,23 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>115345</GUID>
+      <Name>Missing Heat - Monument</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_heating_center_2d.png</IconFilename>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/heat.cfg</Config>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Without heat, no one can work at the monument</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35193</LineID>
+    </Text>
+  </Values>
+</Asset>

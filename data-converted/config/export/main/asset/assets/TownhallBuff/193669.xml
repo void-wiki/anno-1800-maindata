@@ -1,0 +1,42 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193669</GUID>
+      <Name>herbs</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_dandelion.png</IconFilename>
+      <InfoDescription>22354</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190777</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Herb Garden</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33508</LineID>
+    </Text>
+    <BuildingUpgrade>
+      <ResolverUnitCountUpgrade>
+        <Value>2</Value>
+      </ResolverUnitCountUpgrade>
+      <ResolverUnitMovementSpeedUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </ResolverUnitMovementSpeedUpgrade>
+    </BuildingUpgrade>
+    <Buff />
+    <PopulationUpgrade />
+    <ResidenceUpgrade />
+    <IncidentInfectableUpgrade />
+    <CultureUpgrade />
+  </Values>
+</Asset>

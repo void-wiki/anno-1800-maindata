@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204623</GUID>
+      <Name>Play_AI_NEWDL_DAC_QTG_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>2543</DurationMinimum>
+          <DurationMaximum>5034</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>2737</DurationMinimum>
+          <DurationMaximum>5062</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2903</DurationMinimum>
+          <DurationMaximum>4745</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2435</DurationMinimum>
+          <DurationMaximum>4860</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2416693796</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

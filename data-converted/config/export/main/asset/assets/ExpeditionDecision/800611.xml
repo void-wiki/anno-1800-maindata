@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800611</GUID>
+      <Name>A Grizzly Encounter 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Boooooom!&lt;/b&gt; The valley shudders with the sweet stench of exploded dynamite. The bears hurry away, leaving the crew thoroughly entertained at the superiority of mankind and the power of invention.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5695</LineID>
+    </Text>
+  </Values>
+</Asset>

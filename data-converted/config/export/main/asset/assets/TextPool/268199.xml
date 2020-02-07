@@ -1,0 +1,44 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268199</GUID>
+      <Name>Pool_PyroGrandmaster_NPCSinksPlayerShip</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>267835</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267850</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267851</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267852</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267853</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267854</AudioText>
+        </Item>
+        <Item>
+          <AudioText>267859</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

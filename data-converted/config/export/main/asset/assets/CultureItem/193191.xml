@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>193191</GUID>
+      <Name>white peacock</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_albino_peacock.png</IconFilename>
+      <InfoDescription>22048</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>White Peacock</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30258</LineID>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <ItemSet>193193</ItemSet>
+      <TradePrice>800000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>102014</ChangeModule>
+      <ForcedFeedbackVariation>103126</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203285</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>SouthernEurope</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>22048</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

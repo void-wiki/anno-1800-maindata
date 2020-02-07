@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800181</GUID>
+      <Name>The Inspector 1.2.4</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800195</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There is a commotion&lt;/b&gt; and the Inspector's soldiers are already among the crew. Being exceptionally well-drilled, they quickly force the crew to drop their weapons. "Now," says the Inspector, "if you are quite finished, I'd like to continue my inspection of your vessel!" </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5802</LineID>
+    </Text>
+  </Values>
+</Asset>

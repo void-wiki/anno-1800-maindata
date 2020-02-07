@@ -1,0 +1,17 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>2001947</GUID>
+      <Name>Ships</Name>
+      <IconFilename>data/ui/2kimages/main/assets/icon_minimap_ships.png</IconFilename>
+      <ID>QuestToken</ID>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>Yellow</Color>
+      <Tooltip>2736</Tooltip>
+      <Filter>Ships</Filter>
+      <UsePlayerColor>1</UsePlayerColor>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

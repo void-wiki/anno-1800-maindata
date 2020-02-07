@@ -1,0 +1,71 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191604</GUID>
+      <Name>Chief of the Navy</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/icon_specialist_captain_legendary_female.png</IconFilename>
+      <InfoDescription>19969</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vice-Admiral Romanov</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26759</LineID>
+    </Text>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>365700</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>45</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>19969</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <AttackRangeUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </AttackRangeUpgrade>
+      <BaseDamageUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <LineOfSightRangeUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </LineOfSightRangeUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <TradeShipUpgrade />
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

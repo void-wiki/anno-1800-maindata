@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803055</GUID>
+      <Name>Fear of the Light 1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There is no truth but the voice of science.&lt;/b&gt; The accusation was the plea of a sick fool. Your doctor knows what ravages meningitis can do in the mind of its victims, and his collected account of symptoms convinces your crew of your doctor's innocence and acute knowledge. He is free to inspect all men onboard and identifies who else carries the symptoms: the sick are promptly isolated and disembarked at the next harbour. Your expedition is unscathed!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26303</LineID>
+    </Text>
+  </Values>
+</Asset>

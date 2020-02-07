@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193321</GUID>
+      <Name>Characters - Mercier - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>111187</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111188</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111189</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111190</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

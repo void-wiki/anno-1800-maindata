@@ -1,0 +1,54 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150614</GUID>
+      <Name>UnlockConstructionMenu_03</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>150596</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionLockAsset</Template>
+            <Values>
+              <Action />
+              <ActionLockAsset>
+                <LockAssets>
+                  <Item>
+                    <Asset>1010520</Asset>
+                  </Item>
+                </LockAssets>
+              </ActionLockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>1010520</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801755</GUID>
+      <Name>The Infiltration 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801756</Option>
+        </Item>
+        <Item>
+          <Option>801759</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The guards at the main gate are efficiently dispatched&lt;/b&gt;, and their keys are taken. Your brigade flood into the ranch in formation, taking cover behind hedge and shrubbery, as the scattered enemy attempts to muster. Sure enough the robes begin to flow, and the petit pistols are out.  </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21182</LineID>
+    </Text>
+  </Values>
+</Asset>

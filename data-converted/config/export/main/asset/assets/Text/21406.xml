@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21406</GUID>
+      <Name>ProvidedNeedsInfoActive</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_patrol.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents are provided with [ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) GoodConsumptionAllProvidedNeedsFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29076</LineID>
+    </Text>
+  </Values>
+</Asset>

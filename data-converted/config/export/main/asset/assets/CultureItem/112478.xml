@@ -1,0 +1,47 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112478</GUID>
+      <Name>atlantis wall</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_atlantis_wall.png</IconFilename>
+      <ID>ITEM_DLC1_2</ID>
+      <InfoDescription>112835</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Atlantean Wall</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32309</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>193405</ItemSet>
+      <TradePrice>609900</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>112479</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemRegions>NorthAfrica;SouthernEurope;CentralEurope</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>112835</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

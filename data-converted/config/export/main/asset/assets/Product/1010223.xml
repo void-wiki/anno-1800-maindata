@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010223</GUID>
+      <Name>advanced weapons</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_advanced_weaponry.png</IconFilename>
+      <InfoDescription>11761</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Advanced Weapons</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5364</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11707</ProductCategory>
+      <BasePrice>12055</BasePrice>
+      <CivLevel>5</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <FluffText>12847</FluffText>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

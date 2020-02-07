@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191173</GUID>
+      <Name>Burial Treasures E</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190545</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190546</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190547</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190474</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190550</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

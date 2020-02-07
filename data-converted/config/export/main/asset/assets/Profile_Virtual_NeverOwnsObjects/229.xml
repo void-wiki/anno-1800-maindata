@@ -1,0 +1,47 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>229</GUID>
+      <Name>ArcticWorker</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_resident_colony03_tier01.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Explorer</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35158</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/resident_colony03_tier01.png</ProfilePicture>
+      <Portrait>112794</Portrait>
+      <ParticipantID>Arctic_Resident_tier01</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestPoolList>
+        <Item>
+          <QuestPool>116761</QuestPool>
+        </Item>
+        <Item>
+          <QuestPool>117260</QuestPool>
+        </Item>
+      </QuestPoolList>
+      <DefaultColor>Color8</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Arctic_Resident_tier01</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>235</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

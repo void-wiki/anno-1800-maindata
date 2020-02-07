@@ -1,0 +1,70 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191448</GUID>
+      <Name>Pilot</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/icon_captain_common.png</IconFilename>
+      <InfoDescription>19819</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tugboatman</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26706</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>78400</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>30</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>5</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19819</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade>
+        <Value>600</Value>
+      </MaxHitpointsUpgrade>
+      <SelfHealUpgrade>
+        <Value>300</Value>
+        <Percental>1</Percental>
+      </SelfHealUpgrade>
+    </AttackableUpgrade>
+    <TradeShipUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

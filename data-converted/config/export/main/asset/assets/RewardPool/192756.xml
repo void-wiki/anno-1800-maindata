@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192756</GUID>
+      <Name>Specialists - Military - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191435</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191603</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191604</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191605</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191606</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

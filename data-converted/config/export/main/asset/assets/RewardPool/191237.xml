@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191237</GUID>
+      <Name>Buildings</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190819</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190870</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190874</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

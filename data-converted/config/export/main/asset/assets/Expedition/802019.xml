@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>802019</GUID>
+      <Name>Test Expedition - Tavern Troubles</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_melee.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>3597</ExpeditionDescription>
+      <ExpeditionRegion>NorthernEurope</ExpeditionRegion>
+      <ExpeditionDifficulty>Hard</ExpeditionDifficulty>
+      <EventList>
+        <Item>
+          <EventOrEventPool>802020</EventOrEventPool>
+        </Item>
+      </EventList>
+      <FillThreats>1</FillThreats>
+      <MinPauseBetweenEvents>30000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>30000</MaxPauseBetweenEvents>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

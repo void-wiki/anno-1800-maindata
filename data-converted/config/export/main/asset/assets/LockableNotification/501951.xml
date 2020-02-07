@@ -1,0 +1,31 @@
+<Asset>
+  <Template>LockableNotification</Template>
+  <Values>
+    <Standard>
+      <GUID>501951</GUID>
+      <Name>NewAge_Colony32_Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>117084</Title>
+            <NotificationMainIconAsset>112643</NotificationMainIconAsset>
+            <Icon01>112685</Icon01>
+            <Icon02>112684</Icon02>
+            <BackgroundAnimation>data\ui\video\ui_alpha\main_banner\mainbanner_airship_a.bk2</BackgroundAnimation>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>117085</NotificationText>
+            <NotificationAudioAsset>202372</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+    <Locked />
+  </Values>
+</Asset>

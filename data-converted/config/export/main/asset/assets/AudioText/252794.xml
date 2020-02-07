@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Victory depends on consistent supplies!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10940</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223586</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252794</GUID>
+      <Name>AT_ai09_NpcCancelsTradeRights3</Name>
+    </Standard>
+  </Values>
+</Asset>

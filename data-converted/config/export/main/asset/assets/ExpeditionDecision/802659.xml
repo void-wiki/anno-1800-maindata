@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802659</GUID>
+      <Name>Blood Oil Tears and Sweat 1.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802652</Option>
+        </Item>
+        <Item>
+          <Option>802653</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Too weak.&lt;/b&gt; The drinks your sailors offer to the merchants in an attempt to soothe their anger are far too poorly made to have any kind of impact on them. As they continue to struggle against your crew, a vivid growl resonates in the ship: it came too close to shore, and the reefs pierced your hull! Water starts to pour in the lower decks.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21866</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803957</GUID>
+      <Name>Continue south toward the inuit settlement</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_compass_southwest.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Continue south toward the Inuit settlement of Ivujivik</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35240</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803961</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>665</OptionPosX>
+      <OptionPosY>238</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path06.png</PathSegment>
+      <PathPosX>660</PathPosX>
+      <PathPosY>70</PathPosY>
+      <PathAlpha>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path06_alpha.png</PathAlpha>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

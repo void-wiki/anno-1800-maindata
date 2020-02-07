@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>142300</GUID>
+      <Name>Frogman#2</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>2691</Headline>
+      <Subline>2692</Subline>
+      <Image>141324</Image>
+      <Category>Filler</Category>
+      <NewsPriority>
+        <StartValue>0</StartValue>
+        <LossOnPublish>500</LossOnPublish>
+        <Minimum>-1000</Minimum>
+      </NewsPriority>
+      <ArticleType>Filler</ArticleType>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

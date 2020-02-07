@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You're a noble creature, living a fantasy.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3058</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>210941</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251886</GUID>
+      <Name>AT_ai08_PosiFeedbackToPlayer4</Name>
+    </Standard>
+  </Values>
+</Asset>

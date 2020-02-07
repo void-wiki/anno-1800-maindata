@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193691</GUID>
+      <Name>Culture - Faraway Plants - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>114667</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114668</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112734</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

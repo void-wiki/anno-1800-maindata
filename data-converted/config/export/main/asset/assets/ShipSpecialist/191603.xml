@@ -1,0 +1,70 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191603</GUID>
+      <Name>Grand Admiral</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_captain_103.png</IconFilename>
+      <InfoDescription>19968</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vice-Admiral Adams</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26758</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>345000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>KAMIKAZE</ItemAction>
+      <ActionCooldown>60000</ActionCooldown>
+      <ActionDuration>5000</ActionDuration>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>45</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>19968</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade>
+        <Value>800</Value>
+      </MaxHitpointsUpgrade>
+      <SelfHealPausedTimeIfAttackedUpgrade>
+        <Value>-100</Value>
+        <Percental>1</Percental>
+      </SelfHealPausedTimeIfAttackedUpgrade>
+    </AttackableUpgrade>
+    <TradeShipUpgrade />
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

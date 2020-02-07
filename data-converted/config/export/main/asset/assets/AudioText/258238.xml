@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It is beyond my control what happens to your island now.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10466</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223485</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258238</GUID>
+      <Name>AT_ai02_ExpansionNpcBuyoutIslandFromPlyr1</Name>
+    </Standard>
+  </Values>
+</Asset>

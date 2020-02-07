@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>116136</GUID>
+      <Name>Incident_EndArcticIllness</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>116129</IconAsset>
+            <FilterType>Incidents</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>116238</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationGroup>IncidentIllness</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265182</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

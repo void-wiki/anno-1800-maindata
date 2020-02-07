@@ -1,0 +1,31 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>114762</GUID>
+      <Name>Storyline_EquipModule</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>114034</Headline>
+      <Subline>114035</Subline>
+      <Image>142710</Image>
+      <Category>Progress</Category>
+      <NewsPriority>
+        <StartValue>392</StartValue>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>8</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

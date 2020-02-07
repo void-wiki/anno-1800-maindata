@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21434</GUID>
+      <Name>TreatyReaction Make NAP Like - m</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Participants ParticipantName([NotificationContext Value(SpeakingParticipant) Int])] likes your non-aggression pact with [Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29174</LineID>
+    </Text>
+  </Values>
+</Asset>

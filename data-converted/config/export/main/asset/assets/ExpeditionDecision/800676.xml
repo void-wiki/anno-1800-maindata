@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800676</GUID>
+      <Name>The Seven-Year Itch 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They cannot see the wood for the trees!&lt;/b&gt; Evidence of fleas would be everywhere to the right pair of eyes. Two weeks pass, and murine typhus breaks out. Rashes, fever and vomiting grip the fleas' hosts, who are never able to find the cause of their itching agony. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5765</LineID>
+    </Text>
+  </Values>
+</Asset>

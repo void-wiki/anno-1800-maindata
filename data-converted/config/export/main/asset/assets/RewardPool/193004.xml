@@ -1,0 +1,35 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193004</GUID>
+      <Name>Archetype (Artisan) Resident Quest Grand Tragedian Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190726</ItemLink>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190727</ItemLink>
+          <Weight>35</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190728</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190731</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192438</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

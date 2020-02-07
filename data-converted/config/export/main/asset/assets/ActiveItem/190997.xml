@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190997</GUID>
+      <Name>Snare</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_expedition_hypnotist.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Go Ship!</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>BUFF_OTHER</ItemAction>
+      <ActionTarget>2001744</ActionTarget>
+      <ActionScope>TargetRadius</ActionScope>
+      <ActionDistance>15</ActionDistance>
+      <RadiusBuffTargets>Enemy</RadiusBuffTargets>
+      <ActionCooldown>30000</ActionCooldown>
+      <ActionDuration>30000</ActionDuration>
+      <ActiveBuff>190998</ActiveBuff>
+    </ItemAction>
+    <ExpeditionAttribute />
+    <SpecialAction>
+      <MouseEffect>500992</MouseEffect>
+      <ActionRadius>8</ActionRadius>
+    </SpecialAction>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

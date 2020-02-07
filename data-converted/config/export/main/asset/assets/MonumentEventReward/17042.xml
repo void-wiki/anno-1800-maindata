@@ -1,0 +1,37 @@
+<Asset>
+  <Template>MonumentEventReward</Template>
+  <Values>
+    <Standard>
+      <GUID>17042</GUID>
+      <Name>4 Advanced Tools</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_4.png</IconFilename>
+      <InfoDescription>17824</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Advanced Tools</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27208</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191277</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>191278</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>191279</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+  </Values>
+</Asset>

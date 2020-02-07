@@ -1,0 +1,106 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>114375</GUID>
+      <Name>ArcticQ102_CrateWithLogbook</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_cairn.png</IconFilename>
+    </Standard>
+    <Collectable>
+      <OnCollect>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionAddGoodsToItemContainer</Template>
+                  <Values>
+                    <Action />
+                    <ActionAddGoodsToItemContainer>
+                      <Goods>
+                        <Item>
+                          <Good>114376</Good>
+                          <Amount>1</Amount>
+                        </Item>
+                      </Goods>
+                      <ItemContainerObjects>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                          <ObjectFilter>
+                            <ObjectLabel>arctic_player_kontor</ObjectLabel>
+                            <ObjectGUID>112659</ObjectGUID>
+                            <CheckParticipantID>1</CheckParticipantID>
+                            <CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+                            <ObjectSession>180045</ObjectSession>
+                          </ObjectFilter>
+                        </Values>
+                      </ItemContainerObjects>
+                    </ActionAddGoodsToItemContainer>
+                  </Values>
+                </Action>
+              </Item>
+              <Item>
+                <Action>
+                  <Template>ActionEndQuest</Template>
+                  <Values>
+                    <Action />
+                    <ActionEndQuest>
+                      <Quest>116949</Quest>
+                      <WinQuest>1</WinQuest>
+                    </ActionEndQuest>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnCollect>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <InitialVisibility>0</InitialVisibility>
+      <ConstructionEffectDuration>2000</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/props/cairn/cairn.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sir John's Belongings</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35120</LineID>
+    </Text>
+    <Infolayer>
+      <DefaultInfoLayer>500334</DefaultInfoLayer>
+    </Infolayer>
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Trailer />
+    <Blocking>
+      <RemoveGrass>0</RemoveGrass>
+    </Blocking>
+  </Values>
+</Asset>

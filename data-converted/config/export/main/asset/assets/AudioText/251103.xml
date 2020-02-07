@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Oh do tell of your adventures!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2743</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211282</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251103</GUID>
+      <Name>AT_ai01_WelcomeToPlayer5</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191954</GUID>
+      <Name>PucklegunDebufflvl2</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_expedition_hypnotist.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cannon Impact</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26408</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <AccuracyUpgrade>
+        <Value>-50</Value>
+      </AccuracyUpgrade>
+      <AttackSpeedUpgrade>-30</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

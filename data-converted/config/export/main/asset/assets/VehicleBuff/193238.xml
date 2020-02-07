@@ -1,0 +1,29 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193238</GUID>
+      <Name>FireGrenades Buff A</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_fire_bomb_1.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Kamikaze</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <UseProjectile>111141</UseProjectile>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

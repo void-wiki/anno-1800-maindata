@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802729</GUID>
+      <Name>Bottles Found in the Sea 1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Shark, bottle and messages are thrown overboard.&lt;/b&gt; Several sailors protest against the rash decision and would have preferred to exhaust all options before giving up, or at least keep the messages to share them at the next harbour. The imagined blame and grief of the castaways haunt them for a while.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21707</LineID>
+    </Text>
+  </Values>
+</Asset>

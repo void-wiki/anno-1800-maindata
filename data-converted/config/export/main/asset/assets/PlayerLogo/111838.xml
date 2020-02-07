@@ -1,0 +1,18 @@
+<Asset>
+  <Template>PlayerLogo</Template>
+  <Values>
+    <Standard>
+      <GUID>111838</GUID>
+      <Name>PlayerLogo_Mercier</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_dlc_anarchist.png</IconFilename>
+    </Standard>
+    <PlayerLogo>
+      <DefaultLogo>data/ui/2kimages/main/profiles/playerlogos/large/player_logo_dlc_anarchist.png</DefaultLogo>
+      <MiniLogo>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_dlc_anarchist.png</MiniLogo>
+    </PlayerLogo>
+    <Locked>
+      <DLCDependency>4100010</DLCDependency>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>Specialist</Template>
+  <Values>
+    <Standard>
+      <GUID>100964</GUID>
+      <Name>CLICKABLE Specialist (Visitor Harbor)</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resident_investor.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/special/specialist_01/specialist_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Selection>
+      <GUIType>Specialist</GUIType>
+    </Selection>
+    <Infolayer>
+      <DefaultInfoLayer>501817</DefaultInfoLayer>
+    </Infolayer>
+    <ItemContainer>
+      <SpawnsFlotsam>0</SpawnsFlotsam>
+    </ItemContainer>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Special Visit</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25842</LineID>
+    </Text>
+    <FeedbackController />
+  </Values>
+</Asset>

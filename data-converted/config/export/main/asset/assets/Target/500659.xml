@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>ITEM</ActionID>
+      <Matches>
+        <TargetMatch1>
+          <Flags>CheckProperty;NotSelf;NotActionBlocked</Flags>
+          <Property>ChannelTarget</Property>
+        </TargetMatch1>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer</Flags>
+        </SelectionMatch1>
+      </Matches>
+      <MouseCursorTarget>2001297</MouseCursorTarget>
+      <MouseCursorDisable>2001202</MouseCursorDisable>
+      <MouseCursorMode>501558</MouseCursorMode>
+    </Target>
+    <Standard>
+      <GUID>500659</GUID>
+      <Name>Use Item In Area</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

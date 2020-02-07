@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801650</GUID>
+      <Name>Scylla and Charybdis 1.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Fear clouds the navigators' readings.&lt;/b&gt; Unable to choose between several possible courses which could all end in disaster, they opt for a stunned silence and let the crew maneuver on their own. The ship crashes on the shore in an explosion of metal and wood which sends a dozen men overboard and straight into the rock fangs of the coast. It is a wreck more than a ship which escapes the deadly strait.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17987</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>HappinessFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>141576</GUID>
+      <Name>HappinessBalancing</Name>
+      <ID>HappinessBalancing</ID>
+    </Standard>
+    <HappinessFeature>
+      <States>
+        <Angry>
+          <Value>-1000</Value>
+        </Angry>
+        <Unhappy>
+          <Value>-20</Value>
+        </Unhappy>
+        <Happy>
+          <Value>20</Value>
+        </Happy>
+        <Euphoric>
+          <Value>40</Value>
+        </Euphoric>
+      </States>
+      <Pollution>
+        <HappinessWithoutPollution>5</HappinessWithoutPollution>
+        <HappinessWithMaxPollution>-20</HappinessWithMaxPollution>
+        <Steepness>0.005</Steepness>
+      </Pollution>
+      <Warfare>
+        <Threshold>80</Threshold>
+        <Rate>1</Rate>
+        <StartValue>5</StartValue>
+      </Warfare>
+    </HappinessFeature>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>VisualQuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101120</GUID>
+      <Name>fish_swarm</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/fish/fish_group.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <FeedbackController />
+    <SoundEmitter />
+    <Walking>
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CreatePathPlannerUnit>0</CreatePathPlannerUnit>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <Infolayer />
+    <Text />
+  </Values>
+</Asset>

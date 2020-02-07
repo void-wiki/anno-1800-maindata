@@ -1,0 +1,51 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>153045</GUID>
+      <Name>Highly Valuable Trigger - Kahina</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionShipsInRange</Template>
+        <Values>
+          <Condition />
+          <ConditionShipsInRange>
+            <Range>25</Range>
+            <TargetObject_sir>102619</TargetObject_sir>
+            <CheckSpecificShipOwner>1</CheckSpecificShipOwner>
+            <UseProcessingParticipantAsShipOwner>1</UseProcessingParticipantAsShipOwner>
+          </ConditionShipsInRange>
+          <SessionFilter />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>150379</Quest>
+                <WinQuest>1</WinQuest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>153044</Quest>
+                <UseCurrentSession>1</UseCurrentSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'm fighting your ally, save time and say I can drown you both. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12235</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229537</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261513</GUID>
+      <Name>AT_3rd_party_03_NpcInvokesAllianceDecision1</Name>
+    </Standard>
+  </Values>
+</Asset>

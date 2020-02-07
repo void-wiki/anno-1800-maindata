@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802238</GUID>
+      <Name>The Deeper You Go 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802239</Option>
+        </Item>
+        <Item>
+          <Option>802240</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The effort is above the crew's strength.&lt;/b&gt; An officer loses her nerve and her grip, slips down the stone, and a soft thud welcomes her fall. Smooth slithering sounds hush her desperate cries. The floor is covered in snakes!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21066</LineID>
+    </Text>
+  </Values>
+</Asset>

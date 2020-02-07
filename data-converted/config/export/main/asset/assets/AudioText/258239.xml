@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I fear the Empress will demand I take over your island…  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10468</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223486</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258239</GUID>
+      <Name>AT_ai02_ExpansionNpcBuyoutIslandFromPlyr2</Name>
+    </Standard>
+  </Values>
+</Asset>

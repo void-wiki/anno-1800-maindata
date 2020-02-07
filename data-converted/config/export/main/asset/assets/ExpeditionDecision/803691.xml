@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803691</GUID>
+      <Name>In Dangerous territory 1.1.1.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"You always hear stories about poison dart frogs out here,"&lt;/b&gt; says one of the officers. He doesn't seem to know much more than that, except that in a 'Boy's Own' adventure story chloroform was used to treat frog poisoning. No-one seems to know where the medicine box is, but by the time it is found, someone has already succumbed to convulsions. It is only a slight relief then, that the chloroform does indeed relax the other victims sufficiently to keep their hearts beating. Time to leave this place.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33001</LineID>
+    </Text>
+  </Values>
+</Asset>

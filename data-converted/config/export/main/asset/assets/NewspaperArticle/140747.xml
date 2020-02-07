@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140747</GUID>
+      <Name>Fire Chance Low</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>3707</Headline>
+      <Subline>3708</Subline>
+      <Image>142256</Image>
+      <Category>Special</Category>
+      <NewsPriority>
+        <LossOnPublish>300</LossOnPublish>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Naturally I deal with Sir Archibald; it's his duty to greet Her Majesty's proudest subjects.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12988</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229788</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261108</GUID>
+      <Name>AT_enemy_01_IdleMessageGossip_Blake</Name>
+    </Standard>
+  </Values>
+</Asset>

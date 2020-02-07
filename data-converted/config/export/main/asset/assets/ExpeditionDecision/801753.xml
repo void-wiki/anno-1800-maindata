@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801753</GUID>
+      <Name>The Infiltration 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801754</Option>
+        </Item>
+        <Item>
+          <Option>801769</Option>
+        </Item>
+        <Item>
+          <Option>801789</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The Prosperity contract must be here.&lt;/b&gt; The Casona looks quite modern, with its white walls and pleasant gables. There is even an adjoining orangery, that extends naturally towards the neat parterres of a sweet-smelling garden. An arc of white gravel serves as a drive, and long lines of equally white picket border the acreage in typically colonial style. Indeed were it not for the unusual height of this perimeter, and the shelters abutting it at intervals— armed guards no doubt stationed in each— it would appear much as any other estate. You consider your plan of entry.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21180</LineID>
+    </Text>
+  </Values>
+</Asset>

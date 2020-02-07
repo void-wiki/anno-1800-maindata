@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193105</GUID>
+      <Name>Culture - Low Level Animals - Common</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191058</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191059</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191062</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191065</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190467</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

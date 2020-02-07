@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>215874</GUID>
+      <Name>wwe_sfx_com_launch_projectile_STOP</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>6735</DurationMinimum>
+          <DurationMaximum>9899</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>100</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>563065429</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

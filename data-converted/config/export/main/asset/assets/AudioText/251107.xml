@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You've unearthed one of my buildings, how fascinating!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2747</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211261</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251107</GUID>
+      <Name>AT_ai01_PlayerSelectsNpcBuilding2</Name>
+    </Standard>
+  </Values>
+</Asset>

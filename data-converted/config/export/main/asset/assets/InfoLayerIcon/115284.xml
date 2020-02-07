@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>115284</GUID>
+      <Name>LowHeat</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_heating_center_2d.png</IconFilename>
+      <ID>InfolayerLowHeat</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/heat_blue.cfg</Config>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Low Heat</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35194</LineID>
+    </Text>
+  </Values>
+</Asset>

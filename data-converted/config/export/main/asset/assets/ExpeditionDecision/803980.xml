@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803980</GUID>
+      <Name>Inuit settlement 1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>804016</InsertEvent>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path08.png</PathSegment>
+        <PathPosX>-12</PathPosX>
+        <PathPosY>102</PathPosY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Silver cutlery embossed with the names Hades and Styx. These are from Sir John's expedition ships!&lt;/b&gt; There are also cufflinks belonging to Sir John engraved with assorted marsupials, and a knife handle with the emblem of the Arctic council. Tapeesa says that about a year ago, some men came wanting to know about channels through the ice, and traded their things for information. &lt;b&gt;She points to the west coast of Labrador Island on your map.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35263</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802122</GUID>
+      <Name>Lava Maze 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802131</Option>
+        </Item>
+        <Item>
+          <Option>802132</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew is lost and perplexed.&lt;/b&gt; Your most committed explorers cannot wrap their heads around the complexity of the jungle, which changes with every new burnt tree, and it seems that every uncovered path might end in lava-devoured dead ends.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21755</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Template>
+  <Name>BringVehicleToObjectObjective</Name>
+  <Properties>
+    <ConditionQuestBringVehicleToObject>
+      <VehicleDistance>20</VehicleDistance>
+    </ConditionQuestBringVehicleToObject>
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>15268</TextCombinedContextValue>
+    </ConditionQuestObjective>
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </ExecutionPlace>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

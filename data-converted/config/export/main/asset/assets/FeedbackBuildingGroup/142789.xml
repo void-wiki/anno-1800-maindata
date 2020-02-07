@@ -1,0 +1,29 @@
+<Asset>
+  <Template>FeedbackBuildingGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>142789</GUID>
+      <Name>ChristmasMarket</Name>
+    </Standard>
+    <FeedbackBuildingGroup>
+      <Buildings>
+        <Item>
+          <Building>117514</Building>
+        </Item>
+        <Item>
+          <Building>117515</Building>
+        </Item>
+        <Item>
+          <Building>117516</Building>
+        </Item>
+        <Item>
+          <Building>117527</Building>
+        </Item>
+        <Item>
+          <Building>116618</Building>
+        </Item>
+      </Buildings>
+      <BuildingRole>ProvidesForAllResidenceTiers</BuildingRole>
+    </FeedbackBuildingGroup>
+  </Values>
+</Asset>

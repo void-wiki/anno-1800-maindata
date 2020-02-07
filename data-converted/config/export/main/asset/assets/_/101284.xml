@@ -1,0 +1,47 @@
+<Asset>
+  <BaseAssetGUID>1010516</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101284</GUID>
+      <Name>guild_house_colony01</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Guildhouse</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/buildings/special/guild_house_colony01/guild_house_colony01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LineID>8503</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <ItemContainer />
+    <UpgradeList />
+    <Attackable />
+    <Pausable />
+    <Maintenance />
+    <IncidentInfluencer />
+    <Culture />
+  </Values>
+</Asset>

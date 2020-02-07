@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200892</GUID>
+      <Name>wwe_sfx_bld_harbor_01_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>200893</StopEvent>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>202262</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3741837133</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

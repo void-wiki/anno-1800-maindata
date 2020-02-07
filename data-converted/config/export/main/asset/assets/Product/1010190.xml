@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010190</GUID>
+      <Name>Influence</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_influence.png</IconFilename>
+      <ID>ProductInfluence</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Influence</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3745</LineID>
+    </Text>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <Product>
+      <CanBeNegative>1</CanBeNegative>
+    </Product>
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803707</GUID>
+      <Name>Reward Event Botanical Expeditions</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202362</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/success_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190417</Reward>
+          <Amount>3</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You have discovered new plants species! The wonderful foreign smell perfurme the air.</Text>
+          <Status>ToBeDeleted</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

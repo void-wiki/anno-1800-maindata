@@ -1,0 +1,22 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I have declared war on your ally, so you'd better choose carefully.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12917</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231494</AudioAsset>
+    </AudioText>
+    <Standard>
+      <GUID>261323</GUID>
+      <Name>AT_ai09_NpcInvokesAllianceDecision</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ordinary ships cannot breach the ancient ice. Build a dedicated Icebreaker before the channels thicken solid!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8070</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230244</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254646</GUID>
+      <Name>AT_LadyFaithful_Phase2_BuildIceBreaker_StarterAudio</Name>
+    </Standard>
+  </Values>
+</Asset>

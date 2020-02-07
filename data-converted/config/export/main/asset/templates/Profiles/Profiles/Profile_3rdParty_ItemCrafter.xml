@@ -1,0 +1,706 @@
+<Template>
+  <Name>Profile_3rdParty_ItemCrafter</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Profile>
+      <QuestStarterObject>100518</QuestStarterObject>
+      <HostileTakeoverEnabled>0</HostileTakeoverEnabled>
+      <AttackableThroughPirateFlagItem>0</AttackableThroughPirateFlagItem>
+    </Profile>
+    <Diplomacy>
+      <RepeatableActionBalancing>
+        <Actions>
+          <Insult>
+            <Subdivisions>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>0</InheritedIndex>
+                </VectorElement>
+                <SuccessChance>75</SuccessChance>
+              </Item>
+            </Subdivisions>
+          </Insult>
+        </Actions>
+      </RepeatableActionBalancing>
+      <InitialRelation>
+        <DefaultMemory>50</DefaultMemory>
+        <DefaultTreaties>Peace;TradeRights</DefaultTreaties>
+        <DefaultTreatiesUndiscovered>Peace</DefaultTreatiesUndiscovered>
+      </InitialRelation>
+    </Diplomacy>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <QuestAborted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-999474322</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestAborted>
+        <QuestInvitation>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-607220429</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestInvitation>
+        <QuestEscortShipSelected>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>674720140</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestEscortShipSelected>
+        <QuestFailed>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1928161372</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestFailed>
+        <QuestStarted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-2052884805</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestStarted>
+        <QuestSuccessful>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>1380477898</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestSuccessful>
+        <SettlePermissionAccepted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1827240673</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </SettlePermissionAccepted>
+        <SettlePermissionDeclined>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>221577917</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </SettlePermissionDeclined>
+        <SettlePermissionRequest>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>899995330</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </SettlePermissionRequest>
+        <ShipTradeConfirmation>
+          <Reactions>
+            <Item>
+              <SideEffect>AddReputation</SideEffect>
+              <SideEffectValue>2</SideEffectValue>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1807749032</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <SideEffect>AddReputation</SideEffect>
+              <SideEffectValue>2</SideEffectValue>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1807749032</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ShipTradeConfirmation>
+        <DiplomacyOffer>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>151127921</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOffer>
+        <DiplomacyOfferThreat>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>284129818</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferThreat>
+        <DiplomacyOfferAccept>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>754486854</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferAccept>
+        <DiplomacyOfferRejected>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>645868267</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferRejected>
+        <DiplomacyOfferThreatAccepted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-284323475</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferThreatAccepted>
+        <DiplomacyOfferThreatRejected>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1939792076</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferThreatRejected>
+        <DiplomacyDeclareWar>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-218808192</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-632830325</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyDeclareWar>
+        <DiplomacyCancelTraderights>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-623597739</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>1144458106</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyCancelTraderights>
+        <DiplomacyCancelAlliance>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>1239738472</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-2070662333</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyCancelAlliance>
+        <DiplomacyAcceptFlatter>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>677632030</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyAcceptFlatter>
+        <DiplomacyDeclineFlatter>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>391245361</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyDeclineFlatter>
+        <DiplomacyAcceptInsult>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>73657461</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyAcceptInsult>
+        <DiplomacyDeclineInsult>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1987606274</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyDeclineInsult>
+        <ClickKontor>
+          <Reactions>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1080710421</NotificationTextGroup>
+                    <NotificationBlockingTime>20000</NotificationBlockingTime>
+                    <DisplayTimeout>5000</DisplayTimeout>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickKontor>
+        <SettlementRightsSeizeIsland>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>2066088125</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1783512920</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </SettlementRightsSeizeIsland>
+        <DiplomacyOfferPeaceAccepted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>1353937510</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferPeaceAccepted>
+        <DiplomacyOfferTraderightsAccepted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1995946385</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferTraderightsAccepted>
+        <DiplomacyOfferAllianceAccepted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1957572021</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferAllianceAccepted>
+        <DiplomacyOfferGiftAccepted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-649618500</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferGiftAccepted>
+        <DiplomacyOfferGiftRejected>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-1552193238</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyOfferGiftRejected>
+        <DiplomacyAskForQuestRejected>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>-225827922</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyAskForQuestRejected>
+        <DiplomacyRequestSupportFleetAccepted>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>834970647</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyRequestSupportFleetAccepted>
+        <DiplomacyRequestSupportFleetRejected>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationTextGroup>1170493352</NotificationTextGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </DiplomacyRequestSupportFleetRejected>
+        <ParticipantDiscovered>
+          <Reactions>
+            <Item>
+              <CooldownTime>180000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationText>10143</NotificationText>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ParticipantDiscovered>
+      </MessageTriggers>
+    </ParticipantMessages>
+    <Object>
+      <AddToObjectGroups>0</AddToObjectGroups>
+      <AddToEditorObjectGrid>0</AddToEditorObjectGrid>
+      <PlacableInEditor>0</PlacableInEditor>
+      <SelectableInEditor>0</SelectableInEditor>
+    </Object>
+    <ThirdParty />
+    <ParticipantMessageObject />
+    <Interaction>
+      <PaMSyTrade>
+        <ActiveTrade>
+          <TradeAmount>500</TradeAmount>
+          <ReputationGain>1</ReputationGain>
+        </ActiveTrade>
+        <PassiveTrade>
+          <TradeAmount>5000</TradeAmount>
+          <ReputationGain>1</ReputationGain>
+        </PassiveTrade>
+      </PaMSyTrade>
+    </Interaction>
+    <ItemCrafter />
+    <Trader />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <Scope>Account</Scope>
+    </Locked>
+  </Properties>
+</Template>

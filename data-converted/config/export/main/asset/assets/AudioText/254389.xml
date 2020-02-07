@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Farmers? Didn't know we still had the blighters! Come to think of it, did see some wretches plodding about the estate; probably poaching my grouse!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4730</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215550</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254389</GUID>
+      <Name>AT_res_tier05_IdleMessageGossip_Farmer</Name>
+    </Standard>
+  </Values>
+</Asset>

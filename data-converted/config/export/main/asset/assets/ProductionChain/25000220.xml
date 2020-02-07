@@ -1,0 +1,34 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>25000220</GUID>
+      <Name>soap chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_soap_2.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>1010281</Building>
+      <Tier1>
+        <Item>
+          <Building>1010312</Building>
+          <Tier2>
+            <Item>
+              <Building>1010269</Building>
+            </Item>
+          </Tier2>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Soap</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14889</LineID>
+    </Text>
+  </Values>
+</Asset>

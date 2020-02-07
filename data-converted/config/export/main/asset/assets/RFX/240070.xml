@@ -1,0 +1,19 @@
+<Asset>
+  <Template>RFX</Template>
+  <Values>
+    <Standard>
+      <GUID>240070</GUID>
+      <Name>RFX_bld_prod_agriculture_06_colo01_tree_falling_os</Name>
+    </Standard>
+    <RFX>
+      <RFXRadius>10</RFXRadius>
+      <HeightConfig>
+        <ClampToTerrain>1</ClampToTerrain>
+        <ClampToWater>1</ClampToWater>
+        <HeightOffsetMax>10</HeightOffsetMax>
+      </HeightConfig>
+      <TriggerRateMin>15000</TriggerRateMin>
+      <TriggerEvent>200787</TriggerEvent>
+    </RFX>
+  </Values>
+</Asset>

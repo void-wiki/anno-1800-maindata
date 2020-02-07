@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190846</GUID>
+      <Name>Industrial Processing</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Industrial Processing</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15253</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010284</GUID>
+        </Item>
+        <Item>
+          <GUID>1010295</GUID>
+        </Item>
+        <Item>
+          <GUID>1010323</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

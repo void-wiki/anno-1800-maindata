@@ -1,0 +1,48 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802547</GUID>
+      <Name>Apostasy 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802550</Option>
+        </Item>
+        <Item>
+          <Option>802549</Option>
+        </Item>
+        <Item>
+          <Option>802548</Option>
+        </Item>
+        <Item>
+          <Option>802553</Option>
+        </Item>
+        <Item>
+          <Option>802552</Option>
+        </Item>
+        <Item>
+          <Option>802551</Option>
+        </Item>
+        <Item>
+          <Option>802554</Option>
+        </Item>
+        <Item>
+          <Option>802555</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew need some common ground.&lt;/b&gt; It is a fact that your crew were recruited regardless of their origins or beliefs, and your officers now wonder if this was a mistake. After weeks of lasting rainstorms, the more devout sailors raise their voice: this constant punishment is testimony to His obvious displeasure at the heresy aboard. Something is wanted to bring believers and apostates together before things get out of hand.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21554</LineID>
+    </Text>
+  </Values>
+</Asset>

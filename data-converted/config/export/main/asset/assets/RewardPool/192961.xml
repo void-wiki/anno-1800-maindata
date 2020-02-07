@@ -1,0 +1,31 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192961</GUID>
+      <Name>Culture - Animals - Common</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192768</ItemLink>
+          <Weight>19</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192773</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192778</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193426</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193789</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

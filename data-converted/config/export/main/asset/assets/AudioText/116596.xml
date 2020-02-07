@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cecil, look at the thermometer! </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33639</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245252</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116596</GUID>
+      <Name>AT_DLC03_Murmur_Glacier_Male_03</Name>
+    </Standard>
+  </Values>
+</Asset>

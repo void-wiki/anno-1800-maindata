@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Enemy target established!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19944</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>237961</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268720</GUID>
+      <Name>AT_MurmurFemale7_Fleet_ShipAttack04</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800515</GUID>
+      <Name>The Singular Case of the Midshipman 1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800517</Option>
+        </Item>
+        <Item>
+          <Option>800518</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The autopsy is sufficient to confirm it was murder.&lt;/b&gt; Strangulation was the cause of death, not a slit throat - which was added post-mortem. All else remains unknown. Nevertheless, with the cause of death established, the list of suspects is narrowed down to just a few who had the means and the motive for the crime.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5887</LineID>
+    </Text>
+  </Values>
+</Asset>

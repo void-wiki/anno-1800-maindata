@@ -1,0 +1,40 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>142202</GUID>
+      <Name>Working Conditions Bad Worker</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>16760</Headline>
+      <Subline>16761</Subline>
+      <Image>142242</Image>
+      <Category>Economy</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <RequiresObjectContext>1</RequiresObjectContext>
+      <NewsPriority>
+        <StartValue>450</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>-5</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000001</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

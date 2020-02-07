@@ -1,0 +1,21 @@
+<Asset>
+  <Template>BuildingBaseTiles</Template>
+  <Values>
+    <Standard>
+      <GUID>2001241</GUID>
+      <Name>BuildingBaseTiles</Name>
+      <ID>BuildingBaseTiles</ID>
+    </Standard>
+    <BuildingBaseTiles>
+      <HarbourBaseHeight>0.55</HarbourBaseHeight>
+      <HarbourFeedbackHeight>0.55</HarbourFeedbackHeight>
+      <HarbourTerrainHeight>0.55</HarbourTerrainHeight>
+      <HarbourAreaFree>-432562515</HarbourAreaFree>
+      <HarbourAreaOccupied>-1595180997</HarbourAreaOccupied>
+      <HarbourAreaBuildable>551665809</HarbourAreaBuildable>
+      <HarbourConstructionAreaRadius>28</HarbourConstructionAreaRadius>
+      <HarbourConstructionAreaDistanceToEdge>2</HarbourConstructionAreaDistanceToEdge>
+      <HarbourAreaFreeTexture>data/graphics/effects/feedback/section_lining_diff.psd</HarbourAreaFreeTexture>
+    </BuildingBaseTiles>
+  </Values>
+</Asset>

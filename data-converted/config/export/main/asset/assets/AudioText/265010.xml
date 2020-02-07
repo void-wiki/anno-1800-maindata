@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Baa baa black sheep, have you any wool? Yes sir, yes sir, four bags full.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15563</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232187</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265010</GUID>
+      <Name>enemy_01_RepayYourDebt_04</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142694</GUID>
+      <Name>PaperBoys</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142352</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142353</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142596</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142598</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>DangerAvoiding</AllowedReactions>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

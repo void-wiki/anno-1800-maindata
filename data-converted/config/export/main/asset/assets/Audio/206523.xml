@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206523</GUID>
+      <Name>wwe_sfx_bld_residence_tier_01_Doors_Footsteps_RFX</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>6718</DurationMinimum>
+          <DurationMaximum>10999</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>6718</DurationMinimum>
+          <DurationMaximum>10999</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>6718</DurationMinimum>
+          <DurationMaximum>10999</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>6718</DurationMinimum>
+          <DurationMaximum>10999</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>20</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>763277466</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

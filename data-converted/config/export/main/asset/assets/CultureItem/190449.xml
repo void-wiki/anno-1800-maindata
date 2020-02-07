@@ -1,0 +1,54 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190449</GUID>
+      <Name>common dolphin</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_dolphin.png</IconFilename>
+      <InfoDescription>10455</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bottlenose Dolphin</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14989</LineID>
+    </Text>
+    <Item>
+      <Rarity>Rare</Rarity>
+      <ItemSet>191117</ItemSet>
+      <TradePrice>65000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010479</ChangeModule>
+      <ForcedFeedbackVariation>1000064</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203315</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>12879</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

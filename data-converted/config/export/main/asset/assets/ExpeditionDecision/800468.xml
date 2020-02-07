@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800468</GUID>
+      <Name>Love Island 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800470</Option>
+        </Item>
+        <Item>
+          <Option>800471</Option>
+        </Item>
+        <Item>
+          <Option>800472</Option>
+        </Item>
+        <Item>
+          <Option>800473</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226680</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A matter of the heart.&lt;/b&gt; The crew have been enjoying some island hospitality, but many are now refusing to leave. They have fallen in love with the sons and daughters of the local king. Perhaps he can be convinced to allow them to come with you? You can attempt to come to an arrangement, or else wait for him to consult his copper oracle.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5591</LineID>
+    </Text>
+  </Values>
+</Asset>

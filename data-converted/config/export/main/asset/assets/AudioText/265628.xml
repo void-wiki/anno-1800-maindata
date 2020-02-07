@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Friends and foes may often be confused.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17497</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233712</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265628</GUID>
+      <Name>AT_enemy02_NegativeInteraction_NPCsFriend1</Name>
+    </Standard>
+  </Values>
+</Asset>

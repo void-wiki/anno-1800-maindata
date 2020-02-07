@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>2672</GUID>
+      <Name>SL - Ship bought - Good</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The [Newspaper FindArticle([RefGuid]) Context ObjectName] was bought from [Newspaper FindArticle([RefGuid]) Context ParticipantName]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7089</LineID>
+    </Text>
+  </Values>
+</Asset>

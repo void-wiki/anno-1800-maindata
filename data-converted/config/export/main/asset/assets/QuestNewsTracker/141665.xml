@@ -1,0 +1,31 @@
+<Asset>
+  <Template>QuestNewsTracker</Template>
+  <Values>
+    <Standard>
+      <GUID>141665</GUID>
+      <Name>QuestNewsTracker</Name>
+    </Standard>
+    <NewsTrackerBase>
+      <NewsTrackerType>QuestNewsTracker</NewsTrackerType>
+      <NewsTrackerScope>Global</NewsTrackerScope>
+    </NewsTrackerBase>
+    <QuestNewsTracker>
+      <QuestWonArticles>
+        <Item>
+          <QuestArticle>141777</QuestArticle>
+          <MinQuestsWon>1</MinQuestsWon>
+        </Item>
+        <Item>
+          <QuestArticle>141778</QuestArticle>
+          <MinQuestsWon>2</MinQuestsWon>
+        </Item>
+      </QuestWonArticles>
+      <QuestLostArticles>
+        <Item>
+          <QuestArticle>141779</QuestArticle>
+          <MinQuestLost>1</MinQuestLost>
+        </Item>
+      </QuestLostArticles>
+    </QuestNewsTracker>
+  </Values>
+</Asset>

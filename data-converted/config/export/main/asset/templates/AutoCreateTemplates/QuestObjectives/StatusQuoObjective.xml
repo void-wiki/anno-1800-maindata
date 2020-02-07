@@ -1,0 +1,16 @@
+<Template>
+  <Name>StatusQuoObjective</Name>
+  <Properties>
+    <ConditionQuestObjective />
+    <ConditionPlayerCounter />
+    <ConditionQuestStatusQuo />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </ExecutionPlace>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

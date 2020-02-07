@@ -1,0 +1,37 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>115492</GUID>
+      <Name>Arctic Generic Harbour Workers</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>HarborWorker</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>115461</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115462</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115463</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115464</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115465</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115466</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115467</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Listen;Talk;DangerAvoiding;DummyWorkHammerWall;DummyWorkHammerFloor;DummyWorkShovel;DummyWorkThink;DummyWorkHands</AllowedReactions>
+      <ClassFlags>HarbourWorker</ClassFlags>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

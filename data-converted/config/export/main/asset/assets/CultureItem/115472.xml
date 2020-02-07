@@ -1,0 +1,46 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>115472</GUID>
+      <Name>qamutiik toy</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_qamutiik_toy.png</IconFilename>
+      <InfoDescription>116051</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Toy Qamutiik</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35906</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Rare</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>193774</ItemSet>
+      <TradePrice>73800</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010481</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemRegions>Arctic</ItemRegions>
+      <ItemDifficulties>Easy;Average;Hard</ItemDifficulties>
+      <FluffText>116051</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

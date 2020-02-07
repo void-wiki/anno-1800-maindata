@@ -1,0 +1,20 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142590</GUID>
+      <Name>SA | FishingBoat</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>FishingBoat</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142589</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+      <ClassFlags>IsChild</ClassFlags>
+      <UseSpecialPathPlannerLayer>1</UseSpecialPathPlannerLayer>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

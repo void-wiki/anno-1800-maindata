@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802253</GUID>
+      <Name>The Deeper You Go 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802255</Option>
+        </Item>
+        <Item>
+          <Option>802256</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The boulder moves!&lt;/b&gt; The combined efforts of the crew manage to lift the giant stone out of its socket. As the boulder rolls, a loud snap resonates and the rock bounces back in place. A wall falls behind the sailors and, in a concert of grating dirt and destroyed stone, it starts to advance towards the crew.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21081</LineID>
+    </Text>
+  </Values>
+</Asset>

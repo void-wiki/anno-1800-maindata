@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Nobody likes a traitor, let alone his tainted offspring. Better make yourself scarce.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4123</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233215</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>7</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>253935</GUID>
+      <Name>AT_enemy01_movie03_09</Name>
+    </Standard>
+  </Values>
+</Asset>

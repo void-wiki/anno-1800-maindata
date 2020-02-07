@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>800839</GUID>
+      <Name>Archeological Expedition Easy</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/expeditions/icon_expedition_archeology.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11629</ExpeditionName>
+      <ExpeditionDescription>3161</ExpeditionDescription>
+      <ExpeditionRegion>SouthernEurope</ExpeditionRegion>
+      <FillEventPool>800037</FillEventPool>
+      <Threats>
+        <Item>
+          <Threat>800029</Threat>
+        </Item>
+      </Threats>
+      <FillThreats>1</FillThreats>
+      <WorldMapCardBG>501388</WorldMapCardBG>
+      <ExpeditionWorldMapAsset>data/graphics/ui/3d_objects/expedition_marker/expedition_marker_01.cfg</ExpeditionWorldMapAsset>
+      <Reward>803424</Reward>
+      <BackgroundVideo>data/ui/video/expedition/temperate_a.bk2</BackgroundVideo>
+      <BackgroundVideoSounds>
+        <Item>
+          <Event>202364</Event>
+        </Item>
+      </BackgroundVideoSounds>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

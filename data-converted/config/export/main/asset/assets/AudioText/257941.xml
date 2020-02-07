@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I am the wrath of the Furies!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9619</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221350</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257941</GUID>
+      <Name>AT_enemy_02_NpcDeclaresWarOnPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

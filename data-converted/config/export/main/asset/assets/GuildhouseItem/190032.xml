@@ -1,0 +1,52 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190032</GUID>
+      <Name>fertility cotton</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cotton.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cotton Seeds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27055</LineID>
+    </Text>
+    <Item>
+      <IsDestroyedOnUnequip>1</IsDestroyedOnUnequip>
+      <Rarity>Rare</Rarity>
+      <TradePrice>15000</TradePrice>
+      <TradePriceOnlineCurrency>150</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade>
+      <AddedFertility>1010576</AddedFertility>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010331</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I still have the medal Sir Archibald gave me. I must give it back to him some day. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3118</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>210898</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251940</GUID>
+      <Name>AT_ai08_IdleMessageGossip_Blake</Name>
+    </Standard>
+  </Values>
+</Asset>

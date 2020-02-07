@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101049</GUID>
+      <Name>fishtrap</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/harbor/fishtrap_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/harbor/fishtrap_02.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

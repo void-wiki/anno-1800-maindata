@@ -1,0 +1,47 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112484</GUID>
+      <Name>columns of laws</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_colums_of_law.png</IconFilename>
+      <ID>ITEM_DLC1_4</ID>
+      <InfoDescription>112837</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Court of Laws</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32311</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>193405</ItemSet>
+      <TradePrice>609900</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>112481</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemRegions>NorthAfrica;SouthernEurope;CentralEurope</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>112837</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

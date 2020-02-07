@@ -1,0 +1,23 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>1000175</GUID>
+      <Name>cloth_ornament</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/harbor/cloth_ornament_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/harbor/cloth_ornament_02.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

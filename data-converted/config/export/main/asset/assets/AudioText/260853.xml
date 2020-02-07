@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mr. Bleakworth does isolate himself, he should really try and take some fresh air.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11756</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229647</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260853</GUID>
+      <Name>AT_ai01_IdleMessageGossip_Bleakworth</Name>
+    </Standard>
+  </Values>
+</Asset>

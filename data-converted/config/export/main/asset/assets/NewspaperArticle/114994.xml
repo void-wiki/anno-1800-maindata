@@ -1,0 +1,31 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>114994</GUID>
+      <Name>Monument Event 4 Ended</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>114831</Headline>
+      <Subline>114832</Subline>
+      <Image>142732</Image>
+      <Category>Progress</Category>
+      <NewsPriority>
+        <StartValue>393</StartValue>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>8</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

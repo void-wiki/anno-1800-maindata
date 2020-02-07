@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Samuel was always so suspicious of Lady Hunt, but she has a seat on the royal council for goodness' sake!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12991</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229791</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261111</GUID>
+      <Name>AT_enemy_01_IdleMessageGossip_Hunt</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I fought in a skirmish once!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13233</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230626</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261852</GUID>
+      <Name>AT_MurmurMale8_War_Declared</Name>
+    </Standard>
+  </Values>
+</Asset>

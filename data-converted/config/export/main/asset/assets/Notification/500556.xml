@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500556</GUID>
+      <Name>OtherPlayerTakeoverIslandFromYou</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_takeover_small.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501358</IconAsset>
+            <NotificationSideTitle>10429</NotificationSideTitle>
+            <FilterType>HostileTakeover</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>10417</NotificationText>
+            <NotificationAudioAsset>9818749</NotificationAudioAsset>
+            <DisplayTimeout>0</DisplayTimeout>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265244</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

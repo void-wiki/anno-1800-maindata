@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800035</GUID>
+      <Name>Polar Event 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800110</Option>
+        </Item>
+        <Item>
+          <Option>800087</Option>
+        </Item>
+        <Item>
+          <Option>800085</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>800391</InsertEvent>
+      <NegativeOutcomeLosses>LoseGoodsPreferAttribute</NegativeOutcomeLosses>
+      <NegativeOutcomeMin>5</NegativeOutcomeMin>
+      <NegativeOutcomeMax>10</NegativeOutcomeMax>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It's too cold.</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

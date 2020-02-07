@@ -1,0 +1,126 @@
+<Asset>
+  <Template>CityInstitutionBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>1010463</GUID>
+      <Name>institution_02 (Fire Department)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fire_house.png</IconFilename>
+      <InfoDescription>118032</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildModeRandomRotation>180</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>500</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>4</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/public/institution_02/institution_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>CityInstitution</GUIType>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fire Station</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3736</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>202400</Sound>
+        </Item>
+      </ActiveSounds>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+      <BuildingRepaired>
+        <Item>
+          <Sound>203866</Sound>
+        </Item>
+      </BuildingRepaired>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <IncidentResolver>
+      <ResolverUnit>100579</ResolverUnit>
+      <SpecialUnit>100580</SpecialUnit>
+      <ResolvableIncidents>Fire</ResolvableIncidents>
+      <DuringConstructionText>17463</DuringConstructionText>
+      <DuringIncidentHeadline>3779</DuringIncidentHeadline>
+      <ActionButtonText>3690</ActionButtonText>
+      <DuringIncidentHeadlineIcon>500323</DuringIncidentHeadlineIcon>
+    </IncidentResolver>
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010017</Product>
+          <Amount>25</Amount>
+          <InactiveAmount>25</InactiveAmount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>3500</MaximumHitPoints>
+      <SelfHealPerHealTick>4</SelfHealPerHealTick>
+    </Attackable>
+    <Pausable />
+    <IncidentInfluencer>
+      <Influence>
+        <Fire>
+          <Influence>-7</Influence>
+          <Distance>15</Distance>
+        </Fire>
+        <Explosion>
+          <Influence>-7</Influence>
+          <Distance>9</Distance>
+        </Explosion>
+      </Influence>
+    </IncidentInfluencer>
+    <DelayedConstruction />
+    <AmbientMoodProvider>
+      <AmbientMood>ResidenceTier1</AmbientMood>
+    </AmbientMoodProvider>
+    <Culture />
+    <QuestObject />
+  </Values>
+</Asset>

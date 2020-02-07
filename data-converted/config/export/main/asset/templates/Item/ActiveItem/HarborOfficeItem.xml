@@ -1,0 +1,33 @@
+<Template>
+  <Name>HarborOfficeItem</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>HarborOffice</Allocation>
+    </Item>
+    <ItemEffect />
+    <ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade />
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Properties>
+</Template>

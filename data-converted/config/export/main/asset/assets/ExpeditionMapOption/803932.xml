@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803932</GUID>
+      <Name>Lancaster Detroit Go West</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_compass_west.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Go West</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34377</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>804141</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>636</OptionPosX>
+      <OptionPosY>-360</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path01.png</PathSegment>
+      <PathPosX>635</PathPosX>
+      <PathPosY>-381</PathPosY>
+      <PathAlpha>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path01_alpha.png</PathAlpha>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

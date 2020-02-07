@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>217759</GUID>
+      <Name>Play_AI_DRYLADYM_BASIC_YLS_00007_01LADYM_7842</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2050</DurationMinimum>
+          <DurationMaximum>2050</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2165</DurationMinimum>
+          <DurationMaximum>2165</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1943</DurationMinimum>
+          <DurationMaximum>1943</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2011</DurationMinimum>
+          <DurationMaximum>2011</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>364613626</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

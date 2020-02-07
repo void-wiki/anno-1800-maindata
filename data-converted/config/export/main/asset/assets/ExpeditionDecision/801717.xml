@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801717</GUID>
+      <Name>The Investigation 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801750</Option>
+        </Item>
+        <Item>
+          <Option>801719</Option>
+        </Item>
+        <Item>
+          <Option>801720</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The only one who may be willing to help you is a Great Plainsman.&lt;/b&gt; The softly-spoken giant is hauling thick rope at the dock. "I would be putting my life at risk," he says gravely, looking over his shoulder. He seems to know something.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21146</LineID>
+    </Text>
+  </Values>
+</Asset>

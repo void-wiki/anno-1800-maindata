@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I owe you one.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9593</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220396</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258132</GUID>
+      <Name>AT_Advisor02_Accepted3</Name>
+    </Standard>
+  </Values>
+</Asset>

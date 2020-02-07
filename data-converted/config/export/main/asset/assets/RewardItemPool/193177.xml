@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193177</GUID>
+      <Name>Sarmento Common Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192652</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192642</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

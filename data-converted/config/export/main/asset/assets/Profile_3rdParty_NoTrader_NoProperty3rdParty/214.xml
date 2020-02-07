@@ -1,0 +1,61 @@
+<Asset>
+  <Template>Profile_3rdParty_NoTrader_NoProperty3rdParty</Template>
+  <Values>
+    <Standard>
+      <GUID>214</GUID>
+      <Name>campaign_character04_pyrophorian_gold_nonattackable</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_pyrophoriangrandmaster.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pyrphorian Grandmaster</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29252</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/campaign_portrait_pyrophoriangrandmaster.png</ProfilePicture>
+      <Portrait>101302</Portrait>
+      <CompanyIcon>501262</CompanyIcon>
+      <ProfileType>ThirdParty</ProfileType>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <ParticipantID>Campaign_character_04b_pyrophorian_gold_nonattackable</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestStarterObject>101249</QuestStarterObject>
+      <DefaultColor>Color9</DefaultColor>
+      <TakeoverBehaviour>RuinState</TakeoverBehaviour>
+      <CreateModeMeta>AutoCreate_OnlyCampaign</CreateModeMeta>
+      <CreateModeSession>AutoCreate_OnlyCampaign</CreateModeSession>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers />
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Campaign_character_04b_pyrophorian_gold_nonattackable</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>202</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Diplomacy>
+      <IsDiscoveredOnStart>1</IsDiscoveredOnStart>
+      <DiscoverAnyoneOnInit>1</DiscoverAnyoneOnInit>
+    </Diplomacy>
+    <MilitaryAI>
+      <StrengthLevels>
+        <Levels>
+          <Equal>
+            <Flee>0</Flee>
+          </Equal>
+        </Levels>
+      </StrengthLevels>
+      <SquadLogic>
+        <FleeStrengthRatio>0</FleeStrengthRatio>
+      </SquadLogic>
+    </MilitaryAI>
+    <Locked />
+  </Values>
+</Asset>

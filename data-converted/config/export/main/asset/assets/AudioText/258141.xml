@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I sense you have news?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9606</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220414</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258141</GUID>
+      <Name>AT_Advisor02_QuestHandIn3</Name>
+    </Standard>
+  </Values>
+</Asset>

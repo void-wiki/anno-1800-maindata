@@ -1,0 +1,18 @@
+<Template>
+  <Name>SustainObjective</Name>
+  <Properties>
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12761</TextCombinedContextValue>
+    </ConditionQuestObjective>
+    <ConditionPlayerCounter />
+    <ConditionQuestSustain />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </ExecutionPlace>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

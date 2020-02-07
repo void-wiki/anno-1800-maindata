@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Twenty-four hours and the game is still running. You've reached the end of line. No more play time warnings. Let's hope you pressed fast forward and left for bed, so I am merely talking to myself right now. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15740</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234166</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265150</GUID>
+      <Name>AT_Narrator_System_Warning_Playtime24hours</Name>
+    </Standard>
+  </Values>
+</Asset>

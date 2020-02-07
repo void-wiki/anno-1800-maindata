@@ -1,0 +1,27 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>101976</GUID>
+      <Name>CQI GroupOfBrightSandsRefuges</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+      <InfoDescription>15223</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bright Sands Refugees</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25871</LineID>
+    </Text>
+    <Item>
+      <Flotsam>101977</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

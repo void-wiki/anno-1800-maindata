@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200910</GUID>
+      <Name>wwe_voc_mur_kahinas_island</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4858</DurationMinimum>
+          <DurationMaximum>8180</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>5083</DurationMinimum>
+          <DurationMaximum>6891</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4995</DurationMinimum>
+          <DurationMaximum>7538</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>4983</DurationMinimum>
+          <DurationMaximum>7288</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1744567988</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

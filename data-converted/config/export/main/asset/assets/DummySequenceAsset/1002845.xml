@@ -1,0 +1,18 @@
+<Asset>
+  <Template>DummySequenceAsset</Template>
+  <Values>
+    <Standard>
+      <GUID>1002845</GUID>
+      <Name>Constraint Dummy</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/constraint_dummy.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

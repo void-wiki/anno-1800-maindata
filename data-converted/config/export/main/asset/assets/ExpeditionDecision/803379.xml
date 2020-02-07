@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803379</GUID>
+      <Name>The Great Sickness 1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistPreferAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;With regret, the doctor must be marooned.&lt;/b&gt; Men in gloves carry a stretcher up the beach beyond the tideline to a place in the shade where it seems likely the doctor will live out a few more days. "Fresh air might revive you," says one optimistically, but already the doctor has no strength to reply.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31568</LineID>
+    </Text>
+  </Values>
+</Asset>

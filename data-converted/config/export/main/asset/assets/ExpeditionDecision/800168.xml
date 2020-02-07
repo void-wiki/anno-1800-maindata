@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800168</GUID>
+      <Name>Calico's Rogues Snare a Merchant Ship 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>1010249</Reward>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Reward>190495</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Victory comes at a cost.&lt;/b&gt; Luck often plays a part in deck skirmishes, and your crew, unable to surprise the wary pirates, must take many casualties before asserting dominance. The merchants are indebted, and reward your rash heroism appropriately.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5525</LineID>
+    </Text>
+  </Values>
+</Asset>

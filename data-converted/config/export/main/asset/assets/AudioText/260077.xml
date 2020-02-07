@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You've kept things in good order.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10995</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223089</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260077</GUID>
+      <Name>AT_advisor01_PosiFeedbackToPlayer3</Name>
+    </Standard>
+  </Values>
+</Asset>

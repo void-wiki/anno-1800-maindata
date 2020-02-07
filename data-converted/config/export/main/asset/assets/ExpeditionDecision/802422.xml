@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802422</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.2.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You trade various goods against safe passage.&lt;/b&gt; Not so much a trade as blackmail, your sailors feel the shame of ridicule as their clothes are returned. What kind of rational being believes in the existence of Ben Sahid's treasure, and permits a blind man to lead them to it!?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20873</LineID>
+    </Text>
+  </Values>
+</Asset>

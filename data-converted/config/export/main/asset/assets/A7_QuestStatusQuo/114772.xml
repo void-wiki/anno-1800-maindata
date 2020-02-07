@@ -1,0 +1,191 @@
+<Asset>
+  <Template>A7_QuestStatusQuo</Template>
+  <Values>
+    <Standard>
+      <GUID>114772</GUID>
+      <Name>MPQ101 BuildBasics</Name>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <Profile>117422</Profile>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>115197</NotificationText>
+              <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+              <RestrictedToSessionOrRegions>
+                <Item>
+                  <SessionOrRegion>180045</SessionOrRegion>
+                </Item>
+              </RestrictedToSessionOrRegions>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>116504</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <Profile>117422</Profile>
+              <NotificationTextFemale>0</NotificationTextFemale>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>114800</NotificationText>
+              <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+              <RestrictedToSessionOrRegions>
+                <Item>
+                  <SessionOrRegion>180045</SessionOrRegion>
+                </Item>
+              </RestrictedToSessionOrRegions>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>259961</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>117422</QuestGiver>
+      <StoryText>116878</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <QuestActivation>ConfirmationDialog</QuestActivation>
+      <DelayTimer>10000</DelayTimer>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180045</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_passage.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A Settlement on the Arctic</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35882</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets />
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>SelectObjectObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>22008</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionQuestSelectObject>
+                <SelectObjects>
+                  <Item>
+                    <Object>
+                      <Template>ObjectFilter</Template>
+                      <Values>
+                        <ObjectFilter>
+                          <ObjectGUID>114140</ObjectGUID>
+                          <ObjectSession>180045</ObjectSession>
+                        </ObjectFilter>
+                      </Values>
+                    </Object>
+                  </Item>
+                </SelectObjects>
+              </ConditionQuestSelectObject>
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>12714</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <Context>114889</Context>
+                <CounterAmount>1</CounterAmount>
+                <CounterScope>Session</CounterScope>
+                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                <CounterScopeContext>180045</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>12714</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <Context>112091</Context>
+                <CounterAmount>6</CounterAmount>
+                <CounterScope>Session</CounterScope>
+                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                <CounterScopeContext>180045</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectPrebuiltObject</Template>
+              <Values>
+                <ConditionObjectPrebuiltObject>
+                  <PrebuiltObject>100684</PrebuiltObject>
+                </ConditionObjectPrebuiltObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

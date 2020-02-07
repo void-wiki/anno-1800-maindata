@@ -1,0 +1,50 @@
+<Asset>
+  <Template>ItemWithUI</Template>
+  <Values>
+    <Standard>
+      <GUID>101638</GUID>
+      <Name>CQI_Prisoner_Conviction_Letter</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_letter_open.png</IconFilename>
+      <InfoDescription>13241</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Edvard's Judicial Sentencing</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25867</LineID>
+    </Text>
+    <Item>
+      <Flotsam>101493</Flotsam>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <ItemWithUI>
+      <ItemActions>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionTriggerTextPopup</Template>
+                  <Values>
+                    <ActionTriggerTextPopup>
+                      <PopupText>10521</PopupText>
+                    </ActionTriggerTextPopup>
+                    <Action />
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </ItemActions>
+    </ItemWithUI>
+    <Locked />
+    <ItemAction />
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20327</GUID>
+      <Name>HarbourActivityInfo</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_trade.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Every time passive trade happens at the trading post, there is a chance to gain 5t of [ItemAssetData([RefGuid]) GoodGenerationPoolFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29037</LineID>
+    </Text>
+  </Values>
+</Asset>

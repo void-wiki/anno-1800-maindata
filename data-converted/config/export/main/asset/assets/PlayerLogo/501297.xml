@@ -1,0 +1,18 @@
+<Asset>
+  <Template>PlayerLogo</Template>
+  <Values>
+    <Standard>
+      <GUID>501297</GUID>
+      <Name>3rdPartyLogo_OldNate</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_28.png</IconFilename>
+    </Standard>
+    <PlayerLogo>
+      <DefaultLogo>data/ui/2kimages/main/profiles/playerlogos/large/player_logo_sunkentreasures_01.png</DefaultLogo>
+      <MiniLogo>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_dlc_sunkentreasures_oldnate.png</MiniLogo>
+    </PlayerLogo>
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

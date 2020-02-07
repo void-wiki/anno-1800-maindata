@@ -1,0 +1,44 @@
+<Asset>
+  <Template>HarborWarehouseSlot7</Template>
+  <Values>
+    <Standard>
+      <GUID>114775</GUID>
+      <Name>Airship Harbour Slot (Ghost) Arctic</Name>
+      <InfoDescription>163049</InfoDescription>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/buildings/special/airship_landing_platform/airship_landing_platform.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <DistributionCenterMarker />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Unpopulated Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35863</LineID>
+    </Text>
+    <QuestObject />
+    <MinimapToken>
+      <TokenAsset>0</TokenAsset>
+    </MinimapToken>
+    <Blocking />
+    <SoundEmitter />
+    <Constructable />
+    <Building>
+      <BuildingType>Warehouse</BuildingType>
+      <HasBorderRectOutline>0</HasBorderRectOutline>
+      <TerrainType>Terrain</TerrainType>
+      <AssociatedRegions>Arctic</AssociatedRegions>
+    </Building>
+  </Values>
+</Asset>

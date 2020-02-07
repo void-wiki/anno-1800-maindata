@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>7</GUID>
+      <Name>advisor_01 (Hannah Goode)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/advisor_01.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hannah Goode</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3762</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/advisor_01.png</ProfilePicture>
+      <Portrait>1000129</Portrait>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>4087</InfoCornerDescription>
+      <ParticipantID>Advisor_01_Hannah</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestStarterObject>101237</QuestStarterObject>
+      <DefaultColor>Color4</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Advisor_01_Hannah</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>139</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

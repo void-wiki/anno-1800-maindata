@@ -1,0 +1,53 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400061</GUID>
+      <Name>Action_Achievement_Privacy of Correspondence</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Campaign</AchievementCategory>
+      <AchievementTitle>15323</AchievementTitle>
+      <AchievementDescription>15324</AchievementDescription>
+      <AchievementUPlayID>3</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>QuestSolved</PlayerCounter>
+            <Context>150770</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>100631</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>2</UplayActionID>
+      <UplayActionPoints>10</UplayActionPoints>
+      <UplayXP>50</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

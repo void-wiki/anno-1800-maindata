@@ -1,0 +1,45 @@
+<Asset>
+  <Template>Flock</Template>
+  <Values>
+    <Flock>
+      <Speed>0.2</Speed>
+      <AutoSpawnOverWholeMap>0</AutoSpawnOverWholeMap>
+      <MinHeight>5</MinHeight>
+      <MaxHeight>12</MaxHeight>
+    </Flock>
+    <Standard>
+      <GUID>102441</GUID>
+      <Name>BirdFlock Parrot purple limegreen</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_parrot.png</IconFilename>
+      <ID>Herd_air_10</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_parrot.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/parrot/parrot_purple.cfg</AnimalCFG>
+        </Item>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/parrot/parrot_limegreen.cfg</AnimalCFG>
+          <RelativeProbability>50</RelativeProbability>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Colony01</AutoSpawn_Regions>
+      <UnitCountMin>1</UnitCountMin>
+      <UnitCountMax>3</UnitCountMax>
+      <AutoSpawn_RelativeProbability>5</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>235785</Animal_AudioLoop>
+    </AnimalBase>
+  </Values>
+</Asset>

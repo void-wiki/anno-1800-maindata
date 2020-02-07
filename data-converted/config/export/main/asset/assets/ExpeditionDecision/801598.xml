@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801598</GUID>
+      <Name>Sunken Depths 1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The bell doesn't resist the fall.&lt;/b&gt; Instead of gliding along the sides of the hole, the bell tilts, letting the water in. The men call for help and the crew immediately tries to pull them up, fighting against what rocks snare the bell, doing their best to save their mates, and unable to react when the rope snaps into their hands. They are left to mourn their sea-buried companions.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16131</LineID>
+    </Text>
+  </Values>
+</Asset>

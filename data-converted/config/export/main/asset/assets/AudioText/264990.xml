@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Speak to our humble cousin! He writes of a worker riot in Bright Sands.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15500</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232208</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264990</GUID>
+      <Name>advisor_01_WorkerRiot_01</Name>
+    </Standard>
+  </Values>
+</Asset>

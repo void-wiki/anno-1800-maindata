@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You have damaged the balance of things.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13432</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231207</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264660</GUID>
+      <Name>AT_Inuit_NegativeFeedbackToPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>205096</GUID>
+      <Name>wwe_sfx_veh_diving_vessel_water_ping_return_quest</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1000</DurationMinimum>
+          <DurationMaximum>2149</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>70</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2961119258</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

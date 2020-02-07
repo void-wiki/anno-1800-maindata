@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Any pirate not flying my flag is a dead man - you hear me La Fortune?!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12216</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229550</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261006</GUID>
+      <Name>AT_3rd_party_03_IdleMessageGossip_Fortune</Name>
+    </Standard>
+  </Values>
+</Asset>

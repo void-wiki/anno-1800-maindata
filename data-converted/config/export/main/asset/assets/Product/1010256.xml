@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010256</GUID>
+      <Name>pearls</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_pearls.png</IconFilename>
+      <InfoDescription>11790</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pearls</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5389</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>38</BasePrice>
+      <CivLevel>1</CivLevel>
+      <AssociatedRegion>Colony01</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

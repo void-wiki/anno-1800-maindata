@@ -1,0 +1,23 @@
+<Asset>
+  <Template>IncidentResolverUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>114896</GUID>
+      <Name>Arctic Ranger Special</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_expedition_anthropologist.png</IconFilename>
+    </Standard>
+    <IncidentResolverUnit>
+      <FeedbackUnitClass>142720</FeedbackUnitClass>
+    </IncidentResolverUnit>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Volunteer Rangers</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35217</LineID>
+    </Text>
+  </Values>
+</Asset>

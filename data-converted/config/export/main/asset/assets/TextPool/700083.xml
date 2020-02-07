@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700083</GUID>
+      <Name>Battlecruiser_MovePool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268432</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268433</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268434</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268435</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268436</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

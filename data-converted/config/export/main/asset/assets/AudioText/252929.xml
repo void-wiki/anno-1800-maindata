@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'm a man-o-war, and you're a jellyfish.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12913</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231492</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252929</GUID>
+      <Name>AT_ai09_PlyrSelectsNpcShipAtWar2</Name>
+    </Standard>
+  </Values>
+</Asset>

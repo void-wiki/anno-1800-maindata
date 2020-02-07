@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The skies are filled with dragons.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12460</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231413</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253251</GUID>
+      <Name>AT_ai02_PlyrSelectsNpcBuildingAtWar1</Name>
+    </Standard>
+  </Values>
+</Asset>

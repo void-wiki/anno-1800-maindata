@@ -1,0 +1,38 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>111817</GUID>
+      <Name>DM01 - Labor Syndicates</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DM</AchievementCategory>
+      <AchievementTitle>111807</AchievementTitle>
+      <AchievementDescription>111812</AchievementDescription>
+      <AchievementUPlayID>89</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Common</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionDiplomaticState</Template>
+        <Values>
+          <Condition />
+          <ConditionDiplomaticState>
+            <SourceIsQuestOwner2>1</SourceIsQuestOwner2>
+            <TargetParticipant2>Second_ai_11_Mercier</TargetParticipant2>
+            <DesiredState>Alliance</DesiredState>
+            <IgnoreTeamAlliance>1</IgnoreTeamAlliance>
+          </ConditionDiplomaticState>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>15</UplayActionID>
+      <UplayXP>300</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

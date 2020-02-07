@@ -1,0 +1,39 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192326</GUID>
+      <Name>Endangered butterflies</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_butterflies.png</IconFilename>
+      <InfoDescription>20006</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Endangered butterflies</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27905</LineID>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <TradePrice>252000</TradePrice>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>102558</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>20</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,34 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400101</GUID>
+      <Name>Action_Achievement_World Peace</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>ThirdParty</AchievementCategory>
+      <AchievementTitle>15595</AchievementTitle>
+      <AchievementDescription>15596</AchievementDescription>
+      <AchievementUPlayID>79</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionDiplomaticStateChanged</Template>
+        <Values>
+          <Condition />
+          <ConditionDiplomaticStateChanged>
+            <AllianceCount>5</AllianceCount>
+          </ConditionDiplomaticStateChanged>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>116</UplayActionID>
+      <UplayXP>250</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

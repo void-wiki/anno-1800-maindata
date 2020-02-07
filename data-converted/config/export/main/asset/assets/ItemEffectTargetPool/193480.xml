@@ -1,0 +1,51 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193480</GUID>
+      <Name>all loading time buildings</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Harbour Buildings</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32452</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>190797</GUID>
+        </Item>
+        <Item>
+          <GUID>100519</GUID>
+        </Item>
+        <Item>
+          <GUID>100783</GUID>
+        </Item>
+        <Item>
+          <GUID>101403</GUID>
+        </Item>
+        <Item>
+          <GUID>101404</GUID>
+        </Item>
+        <Item>
+          <GUID>101344</GUID>
+        </Item>
+        <Item>
+          <GUID>101329</GUID>
+        </Item>
+        <Item>
+          <GUID>101405</GUID>
+        </Item>
+        <Item>
+          <GUID>101406</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

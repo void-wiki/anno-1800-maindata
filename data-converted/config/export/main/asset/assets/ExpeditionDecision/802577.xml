@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802577</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew finds no guarantee of safe crossing.&lt;/b&gt; The sailors quickly get tired of the senseless search: the river's depth cannot be appraised by their untrained eyes, and each segment of the water seems both deep and shallow. The crew is too reluctant to try its luck, and abandons its search, disgruntled.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21670</LineID>
+    </Text>
+  </Values>
+</Asset>

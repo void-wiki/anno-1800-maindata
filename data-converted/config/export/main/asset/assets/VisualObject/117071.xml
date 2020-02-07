@@ -1,0 +1,23 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>117071</GUID>
+      <Name>expedition_boats</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/small_boat/small_sailing_boat_no_sails.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/small_boat/small_sailing_boat_no_sails_with_goods_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

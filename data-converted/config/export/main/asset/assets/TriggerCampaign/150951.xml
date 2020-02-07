@@ -1,0 +1,51 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150951</GUID>
+      <Name>200_BulkOrderDialog01_Check</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>Noti_BulkOrderStart</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>212</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationLabel>Noti_BulkOrderDialog</NotificationLabel>
+                      <NotificationText>10917</NotificationText>
+                      <NotificationPriority>701</NotificationPriority>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>266197</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

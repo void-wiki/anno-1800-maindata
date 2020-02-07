@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Please don't leave your crate unattended, sir.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12331</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230469</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261593</GUID>
+      <Name>AT_MurmurMale2_Harbour</Name>
+    </Standard>
+  </Values>
+</Asset>

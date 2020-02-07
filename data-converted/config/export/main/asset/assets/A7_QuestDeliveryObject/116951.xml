@@ -1,0 +1,150 @@
+<Asset>
+  <Template>A7_QuestDeliveryObject</Template>
+  <Values>
+    <Standard>
+      <GUID>116951</GUID>
+      <Name>ArcticQ102C_SirJohnsLastBase HIDDEN CHECK</Name>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <OnQuestSucceeded>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionEndQuest</Template>
+                  <Values>
+                    <Action />
+                    <ActionEndQuest>
+                      <Quest>114386</Quest>
+                      <WinQuest>1</WinQuest>
+                    </ActionEndQuest>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnQuestSucceeded>
+      <QuestGiver>94</QuestGiver>
+      <StoryText>116871</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <QuestCategory>ThePassageQuest</QuestCategory>
+      <QuestActivation>QuestStart</QuestActivation>
+      <IsAbortable>0</IsAbortable>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <ConfirmOnReached>0</ConfirmOnReached>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180045</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_passage.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <QuestHints />
+      <HasStarterSpeechBubble>0</HasStarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sir John's Camp</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Reward>
+      <RewardAssets />
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>10037</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>CampaignRuinRemoved</PlayerCounter>
+                <Context>114373</Context>
+                <ComparisonOp>Equals</ComparisonOp>
+                <CounterAmount>1</CounterAmount>
+                <CounterScope>Session</CounterScope>
+                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                <CounterScopeContext>180045</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>10037</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>CampaignRuinRemoved</PlayerCounter>
+                <Context>116942</Context>
+                <ComparisonOp>Equals</ComparisonOp>
+                <CounterAmount>1</CounterAmount>
+                <CounterScope>Session</CounterScope>
+                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                <CounterScopeContext>180045</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>10037</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>CampaignRuinRemoved</PlayerCounter>
+                <Context>116943</Context>
+                <ComparisonOp>Equals</ComparisonOp>
+                <CounterAmount>1</CounterAmount>
+                <CounterScope>Session</CounterScope>
+                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                <CounterScopeContext>180045</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>None</HasStarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

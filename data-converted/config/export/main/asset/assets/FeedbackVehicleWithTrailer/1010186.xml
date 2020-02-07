@@ -1,0 +1,59 @@
+<Asset>
+  <Template>FeedbackVehicleWithTrailer</Template>
+  <Values>
+    <Standard>
+      <GUID>1010186</GUID>
+      <Name>Railway with Trailer</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/railway_01/railway_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnTerrainSlope</MeshPlacement>
+    </Mesh>
+    <Selection />
+    <Walking>
+      <ReservationLength>5</ReservationLength>
+      <Acceleration>2</Acceleration>
+      <TurnSpeed>50</TurnSpeed>
+      <TurnMovement>50</TurnMovement>
+      <LeaningMaxAngle>27</LeaningMaxAngle>
+      <ForwardSpeed>2</ForwardSpeed>
+      <WindMinSlowdownFactor>0.7273</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1.6</WindMaxSpeedupFactor>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>small_feedback_ship01</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+    </CommandQueue>
+    <Attackable />
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>0.7</Length>
+      <Width>0.5</Width>
+      <AffectedByDriftingWhileIdle>0</AffectedByDriftingWhileIdle>
+      <AffectedByDriftingWhileMoving>0</AffectedByDriftingWhileMoving>
+      <CausesDrifting>0</CausesDrifting>
+      <UseSlowDownTactic>0</UseSlowDownTactic>
+    </Drifting>
+    <SoundEmitter />
+    <Trailer>
+      <TrailerCount>7</TrailerCount>
+      <TrailerEndPartCfgVariations>
+        <Item>
+          <CfgVariation>data/graphics/vehicle/railway_cargo_01/railway_cargo_01.cfg</CfgVariation>
+        </Item>
+      </TrailerEndPartCfgVariations>
+    </Trailer>
+  </Values>
+</Asset>

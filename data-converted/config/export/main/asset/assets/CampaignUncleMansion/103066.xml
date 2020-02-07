@@ -1,0 +1,63 @@
+<Asset>
+  <Template>CampaignUncleMansion</Template>
+  <Values>
+    <Standard>
+      <GUID>103066</GUID>
+      <Name>uncle_island_monument</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_world_fair_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>World's Fair: Glazing</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20109</LineID>
+    </Text>
+    <Blocking />
+    <Building>
+      <PickingAsset>1010489</PickingAsset>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+      <DeactivateHideWhenClippingIntoCamera>1</DeactivateHideWhenClippingIntoCamera>
+    </Building>
+    <Cost>
+      <Costs />
+    </Cost>
+    <Selection>
+      <GUIType>Monument</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/public/monument_01/monument_01_02/monument_01_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/uncle_island/monument_ruin_variation.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>200865</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <Locked />
+    <FeedbackController />
+    <Ornament />
+    <AmbientMoodProvider>
+      <Murmur>MonumentConstruction</Murmur>
+    </AmbientMoodProvider>
+    <Pausable />
+    <Infolayer />
+    <Attackable>
+      <MaximumHitPoints>10000</MaximumHitPoints>
+      <SelfHealPerHealTick>6</SelfHealPerHealTick>
+    </Attackable>
+  </Values>
+</Asset>

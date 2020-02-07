@@ -1,0 +1,25 @@
+<Asset>
+  <Template>CampaignFeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>152656</GUID>
+      <Name>PrologueIntroPlayed</Name>
+      <ID>PrologueIntroPlayed</ID>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>MovieFinished</ConditionEvent>
+            <ContextAsset>300000</ContextAsset>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

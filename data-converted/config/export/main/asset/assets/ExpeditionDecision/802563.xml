@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802563</GUID>
+      <Name>Apostasy 1.7.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistPreferAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The priest further inflames those in opposition.&lt;/b&gt;&lt;br/&gt;"If your friend who is as your own soul entices you secretly, saying, 'Let us go and serve other gods,' your hand shall be first against him to put him to death!"&lt;br/&gt;Needless to say, the tensions that a few kind words might so easily have relieved, now threaten to sabotage your expedition. </Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21569</LineID>
+    </Text>
+  </Values>
+</Asset>

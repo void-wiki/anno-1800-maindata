@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802502</GUID>
+      <Name>The Storm 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802503</Option>
+        </Item>
+        <Item>
+          <Option>802504</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A move as wasteful as it was risky.&lt;/b&gt; Meek doesn't even begin to describe your sailors' ability: they deploy the sails in an incoherent manner, letting the wind take hold of the ship. The vessel yaws to one side, then to other, its rudder barely in contact with the water. A wave grabs a sailor and runs away with him. Any more of this and the whole crew will follow!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21787</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,20 @@
+<Template>
+  <Name>LockableNotification</Name>
+  <Properties>
+    <Standard />
+    <Notification>
+      <NotificationType>
+        <Template>CharacterNotification</Template>
+        <Values>
+          <CharacterNotification />
+          <BaseNotification>
+            <NotificationAudioAsset>9818749</NotificationAudioAsset>
+            <NotificationPriority>0</NotificationPriority>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+    <Locked />
+  </Properties>
+</Template>

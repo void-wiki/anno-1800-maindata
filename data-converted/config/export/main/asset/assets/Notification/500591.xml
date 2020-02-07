@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500591</GUID>
+      <Name>PassiveTrade</Name>
+      <ID>NotificationPassiveTrade</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501363</IconAsset>
+            <NotificationSideTitle>10840</NotificationSideTitle>
+            <FilterType>Trade</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>10819</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

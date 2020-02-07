@@ -1,0 +1,38 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190967</GUID>
+      <Name>2nd_party_04 (George Smith) Voluntary Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190961</ItemLink>
+          <Weight>75</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192492</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192493</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192494</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192495</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192496</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

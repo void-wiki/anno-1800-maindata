@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>17235</GUID>
+      <Name>Notification AllianceOtherParticipantCancelled</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Alliance between [Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])] and [Participants ParticipantName([NotificationContext Value(TargetParticipant) Int])] has ended.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22595</LineID>
+    </Text>
+  </Values>
+</Asset>

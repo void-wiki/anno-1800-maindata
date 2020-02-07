@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I’m sorry Nathaniel, but in this condition it is impossible for you to take part.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16797</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232951</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_45</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266431</GUID>
+      <Name>AT_ai01_Credits17</Name>
+    </Standard>
+  </Values>
+</Asset>

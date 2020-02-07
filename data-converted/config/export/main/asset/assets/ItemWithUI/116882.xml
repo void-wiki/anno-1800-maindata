@@ -1,0 +1,50 @@
+<Asset>
+  <Template>ItemWithUI</Template>
+  <Values>
+    <Standard>
+      <GUID>116882</GUID>
+      <Name>TheThing_CairnLetter</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_ship_construction_plan.png</IconFilename>
+      <InfoDescription>117517</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ragged Research Journal</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35189</LineID>
+    </Text>
+    <Item>
+      <Flotsam>114600</Flotsam>
+    </Item>
+    <ItemWithUI>
+      <ItemActions>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionTriggerTextPopup</Template>
+                  <Values>
+                    <ActionTriggerTextPopup>
+                      <PopupText>116883</PopupText>
+                      <TextPopupLayout>LetterQuest</TextPopupLayout>
+                    </ActionTriggerTextPopup>
+                    <Action />
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </ItemActions>
+    </ItemWithUI>
+    <Locked />
+    <ItemAction />
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

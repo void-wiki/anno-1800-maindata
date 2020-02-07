@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239985</GUID>
+      <Name>wwe_voc_mur_worker_unhappy</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1711</DurationMinimum>
+          <DurationMaximum>22360</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1907</DurationMinimum>
+          <DurationMaximum>20033</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1559</DurationMinimum>
+          <DurationMaximum>21675</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1706</DurationMinimum>
+          <DurationMaximum>21955</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2268676161</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

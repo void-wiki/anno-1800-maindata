@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501132</GUID>
+      <Name>IncidentNewIllnessIndustry</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501365</IconAsset>
+            <NotificationSideTitle>3113</NotificationSideTitle>
+            <FilterType>Incidents</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>3113</NotificationText>
+            <NotificationAudioAsset>239733</NotificationAudioAsset>
+            <NotificationPriority>300</NotificationPriority>
+            <NotificationGroup>IncidentIllness</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265207</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

@@ -1,0 +1,55 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>102058</GUID>
+      <Name>Competitors 1</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_110.png</IconFilename>
+    </Standard>
+    <Collectable />
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <InitialVisibility>0</InitialVisibility>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/resident_quests/investors/competitors/residence_tier05_muscular_m_01/residence_tier_05_muscular_m_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/quest/objects/resident_quests/investors/competitors/residence_tier05_normal_f_01/residence_tier05_normal_f_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/quest/objects/resident_quests/investors/competitors/residence_tier05_normal_m_03/residence_tier05_normal_m_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>the investor's competitors</Text>
+          <Status>Edit</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Trailer />
+    <Blocking />
+  </Values>
+</Asset>

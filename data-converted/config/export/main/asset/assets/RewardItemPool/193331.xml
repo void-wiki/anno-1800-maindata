@@ -1,0 +1,29 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193331</GUID>
+      <Name>Mercier Epic Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193269</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193274</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193264</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192640</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192660</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

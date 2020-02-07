@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802628</GUID>
+      <Name>The Mountain Maw 1.1.2.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802622</Option>
+        </Item>
+        <Item>
+          <Option>802624</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailors are too weakened by the cold.&lt;/b&gt; They dig through the powder snow which collapses on them without revealing any safe path. Their endurance crippled by the frost, they abandon the task and try to focus on less demanding options.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21836</LineID>
+    </Text>
+  </Values>
+</Asset>

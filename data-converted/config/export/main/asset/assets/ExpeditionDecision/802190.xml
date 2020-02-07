@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802190</GUID>
+      <Name>Selfless Deeds 1.2.2.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's only so much your sailors can do.&lt;/b&gt; They back away under the menace of the bandits' guns, doing their best not to trigger an attack, and row back to the coast. The parents of the abducted children thank them for the effort, but their strangled hopes make their voices break. The sailors leave knowing they could have done better.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21043</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141783</GUID>
+      <Name>City Attractiveness Status Maximum Reach Other Participant</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14640</Headline>
+      <Subline>14641</Subline>
+      <Image>142097</Image>
+      <Category>CityAttractiveness</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>340</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <EffectValue>5</EffectValue>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NoLocaText</Template>
+  <Values>
+    <Standard>
+      <GUID>2330</GUID>
+      <Name>ObjectiveContext</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([Conditions QuestCondition Context]) Text]</Text>
+          <Status>Localization</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

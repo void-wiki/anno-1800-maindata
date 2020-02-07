@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>How many times? It’s Bente, not Tanya, thickie!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16787</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232941</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_13</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266421</GUID>
+      <Name>AT_ai01_Credits07</Name>
+    </Standard>
+  </Values>
+</Asset>

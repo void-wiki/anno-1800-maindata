@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800160</GUID>
+      <Name>Calico's Rogues Snare a Merchant Ship 1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fire cannons at the pirates' ship</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5519</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Might</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800164</Decision>
+          <Threshold>NeutralThreshold</Threshold>
+          <ThresholdValue>80</ThresholdValue>
+        </Item>
+        <Item>
+          <Decision>800165</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+          <ThresholdValue>60</ThresholdValue>
+        </Item>
+        <Item>
+          <Decision>800166</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

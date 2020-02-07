@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Regard here, your Majesty! The Prosperity contract and our father's diary. The signatures do not match!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17134</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233466</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>6</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266895</GUID>
+      <Name>AT_Advisor01_movie06_02</Name>
+    </Standard>
+  </Values>
+</Asset>

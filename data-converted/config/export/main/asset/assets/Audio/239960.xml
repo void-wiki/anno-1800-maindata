@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239960</GUID>
+      <Name>wwe_voc_mur_investor_happy</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1893</DurationMinimum>
+          <DurationMaximum>22450</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2123</DurationMinimum>
+          <DurationMaximum>22659</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1980</DurationMinimum>
+          <DurationMaximum>22167</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1852</DurationMinimum>
+          <DurationMaximum>21950</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>791868424</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

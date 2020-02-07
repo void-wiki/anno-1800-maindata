@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501490</GUID>
+      <Name>moderate park path (category)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_1x1_27.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>102099</Building>
+        </Item>
+        <Item>
+          <Building>102100</Building>
+        </Item>
+        <Item>
+          <Building>102101</Building>
+        </Item>
+        <Item>
+          <Building>102102</Building>
+        </Item>
+        <Item>
+          <Building>102103</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Promenade</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27172</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

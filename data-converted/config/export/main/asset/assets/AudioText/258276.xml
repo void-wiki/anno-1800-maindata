@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Regrettable, don't you think? </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10608</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222608</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258276</GUID>
+      <Name>AT_ai05_NegFeedbackToPlyr1</Name>
+    </Standard>
+  </Values>
+</Asset>

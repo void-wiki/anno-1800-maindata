@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802144</GUID>
+      <Name>Selfless Deeds 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your assault is swift and without a single casualty.&lt;/b&gt; The kidnappers oppose no resistance when their carcass of a craft faces your own fresh-from-the-factory gunboat. They reluctantly lead you to their hideout, a sweatshop with no other employees than the stolen kids. Your crew sets the hideout afire, heads back to the village, and returns the children to their exulting parents: they give no rewards but smiles and tears, and your crew basks in this priceless payment.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21002</LineID>
+    </Text>
+  </Values>
+</Asset>

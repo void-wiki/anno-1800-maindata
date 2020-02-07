@@ -1,0 +1,45 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150807</GUID>
+      <Name>Chapter400_Banner</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CampaignNotification</Template>
+                  <Values>
+                    <BaseNotification>
+                      <NotificationText>12251</NotificationText>
+                      <NotificationPriority>800</NotificationPriority>
+                      <NotificationMinDisplayTime>11000</NotificationMinDisplayTime>
+                      <DisplayTimeout>300000</DisplayTimeout>
+                    </BaseNotification>
+                    <CampaignNotification>
+                      <CampaignNotificationTitle>12252</CampaignNotificationTitle>
+                    </CampaignNotification>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

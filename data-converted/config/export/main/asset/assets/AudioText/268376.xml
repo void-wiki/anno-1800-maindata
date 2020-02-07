@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Frigate on patrol.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19661</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238031</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268376</GUID>
+      <Name>AT_MurmurMale2_Frigate_ShipPatrol01</Name>
+    </Standard>
+  </Values>
+</Asset>

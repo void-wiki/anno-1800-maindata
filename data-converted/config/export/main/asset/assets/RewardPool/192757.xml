@@ -1,0 +1,36 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192757</GUID>
+      <Name>Specialists - Military - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191436</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191442</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191607</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191608</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191609</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191610</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191611</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

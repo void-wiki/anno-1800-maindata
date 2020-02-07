@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802377</GUID>
+      <Name>The Mayan Map 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men succumb to their greed.&lt;/b&gt; The map must have been a cruel hoax! The worst thing was that it raised hopes. Some of its landmarks— a high waterfall, a boulder improbably perched— are found really to exist. Beyond that, there is nothing, but gold fever has already set in. Weeks, months go by before some of your people get a grip of themselves again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20996</LineID>
+    </Text>
+  </Values>
+</Asset>

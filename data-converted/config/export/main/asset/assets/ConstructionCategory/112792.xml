@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>112792</GUID>
+      <Name>arctic construction menu harbour (tier)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_harbour_buildings.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>112670</Building>
+        </Item>
+        <Item>
+          <Building>112671</Building>
+        </Item>
+        <Item>
+          <Building>116030</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19173</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Harbour</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35206</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803384</GUID>
+      <Name>The Great Sickness 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Saved by a cow with cowpox.&lt;/b&gt; Your doctors remember that the "vacca" of vaccination means cow, and extract cowpox from the pustuled udders of a local beast. Everyone receives the injection, which due to the lack of appropriate facilities the doctor is unable to purify. Fortunately this only results in a number of outbreaks of other, much less destructive infections.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31573</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,57 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>151530</GUID>
+      <Name>RQ_Engineers_Pool</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>252346483</QuestGroup>
+        </Item>
+      </Groups>
+      <PoolCooldown>9000000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>90000000</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionMutualAreaInSubconditions</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionMutualAreaInSubconditions />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationByLevel</PlayerCounter>
+                      <Context>15000003</Context>
+                      <CounterAmount>300</CounterAmount>
+                      <CounterScope>Area</CounterScope>
+                      <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+  </Values>
+</Asset>

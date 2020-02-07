@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802728</GUID>
+      <Name>Bottles Found in the Sea 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There is nothing to find but deceit.&lt;/b&gt; Your cooper burns sage among the remains of the shark and sniffs the lumpy smoke. If forces do talk to him, they might have been beyond what he could handle: he suddenly pounces on the closest sailor, crushing her throat between his hands. Three more fall before his frenzy drives him overboard with an otherworldly scream. The castaways are cursed and the sailors mourn their comrades for the rest of the trip.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21705</LineID>
+    </Text>
+  </Values>
+</Asset>

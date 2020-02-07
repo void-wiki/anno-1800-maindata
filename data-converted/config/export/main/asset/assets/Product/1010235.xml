@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010235</GUID>
+      <Name>flour</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_flour.png</IconFilename>
+      <InfoDescription>11772</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Flour</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5375</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11703</ProductCategory>
+      <BasePrice>45</BasePrice>
+      <CivLevel>2</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Hunting</Attribute>
+          <Amount>5</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <FluffText>12853</FluffText>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

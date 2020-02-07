@@ -1,0 +1,43 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191101</GUID>
+      <Name>orangutan</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_orangutan.png</IconFilename>
+      <InfoDescription>13724</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Orangutan</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26477</LineID>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <TradePrice>200000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100816</ChangeModule>
+      <ForcedFeedbackVariation>101791</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203386</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>20</BaseMorale>
+      <ItemRegions>SouthernEurope</ItemRegions>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

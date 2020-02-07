@@ -1,0 +1,35 @@
+<Asset>
+  <Template>VisualQuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>103081</GUID>
+      <Name>QO Castaway (Lifeboat) - Visual Quest Object</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rowing_boat.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/castaway_lifeboat/castaway_lifeboat_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <FeedbackController />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214110</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <Walking>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+    </Walking>
+    <Infolayer />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802731</GUID>
+      <Name>Bottles Found in the Sea 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802725</Option>
+        </Item>
+        <Item>
+          <Option>802726</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your navigator is overwhelmed by the mass of possibilities.&lt;/b&gt; Unable to find a proper searching method and define a list of reasonable proportions, they abandon their task and admit the crew might as well try to work out the contents of the entrails. It is said as a joke, however, some sailors consider the idea.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21710</LineID>
+    </Text>
+  </Values>
+</Asset>

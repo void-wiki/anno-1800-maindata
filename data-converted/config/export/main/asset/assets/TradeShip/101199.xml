@@ -1,0 +1,127 @@
+<Asset>
+  <Template>TradeShip</Template>
+  <Values>
+    <Standard>
+      <GUID>101199</GUID>
+      <Name>CQO_Tradeship (Archibald)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+      <InfoDescription>1083</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/vehicle/ambassador_ship/ambassador_ship.cfg</Filename>
+        </Item>
+      </Variations>
+      <DefaultParticipant>Third_party_02_Blake</DefaultParticipant>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <SelectionPriority>1</SelectionPriority>
+    </Selection>
+    <Walking>
+      <ReservationLength>9</ReservationLength>
+      <ReservationWidth>5</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <LeaningMaxAngle>27</LeaningMaxAngle>
+      <ForwardSpeed>4</ForwardSpeed>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Her Majesty II</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20121</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+      <TradeShipPoints>1</TradeShipPoints>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>3500</MaximumHitPoints>
+      <SelfHealPausedTimeIfAttacked>60000</SelfHealPausedTimeIfAttacked>
+    </Attackable>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+      <StrategicMapAsset>500433</StrategicMapAsset>
+    </MinimapToken>
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <SocketCount>1</SocketCount>
+      <SlotCount>2</SlotCount>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010210</Ingredient>
+          <Amount>10</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+    <Craftable>
+      <CraftingTime>180000</CraftingTime>
+    </Craftable>
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>5</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkTradeShip</Attribute>
+          <Amount>1</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+    <ShipMaintenance>
+      <Maintenance>0</Maintenance>
+    </ShipMaintenance>
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

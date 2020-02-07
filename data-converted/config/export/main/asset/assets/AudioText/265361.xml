@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>An event at another player's monument has come to a close.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15947</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234068</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265361</GUID>
+      <Name>AT_Narrator_Monument_Information_MonumentEventEndedOtherParticipant</Name>
+    </Standard>
+  </Values>
+</Asset>

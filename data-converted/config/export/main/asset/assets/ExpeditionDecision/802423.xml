@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802423</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.2.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseGoods</NegativeOutcomeLosses>
+      <NegativeOutcomeMin>5</NegativeOutcomeMin>
+      <NegativeOutcomeMax>10</NegativeOutcomeMax>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men offer far too little,&lt;/b&gt; so the bathhouse thugs help themselves to it all anyway. Their ringleader, the old man who led your treasure-seeking officers here, turns out not to be blind at all. He gives your officers something rather less pleasant than a massage until they agree to write a note ordering supplies be released from the ship's hold. Once the exchange has been made, your shame-faced officers are finally allowed to go free.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20874</LineID>
+    </Text>
+  </Values>
+</Asset>

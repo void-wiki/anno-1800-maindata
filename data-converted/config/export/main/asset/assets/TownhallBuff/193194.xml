@@ -1,0 +1,44 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193194</GUID>
+      <Name>white animals</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_albinos_fennec.png</IconFilename>
+      <InfoDescription>22052</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191561</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Albino Park</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30260</LineID>
+    </Text>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+    </BuildingUpgrade>
+    <Buff />
+    <PopulationUpgrade />
+    <ResidenceUpgrade />
+    <IncidentInfectableUpgrade />
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+  </Values>
+</Asset>

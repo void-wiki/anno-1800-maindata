@@ -1,0 +1,14 @@
+<Template>
+  <Name>Flock</Name>
+  <Description>A group of CFGs move around constantly in a box without asking pathplanner infos</Description>
+  <Properties>
+    <Flock />
+    <Standard />
+    <Mesh />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase />
+  </Properties>
+</Template>

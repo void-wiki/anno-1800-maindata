@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804076</GUID>
+      <Name>Narrow channels 1.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804062</Option>
+        </Item>
+        <Item>
+          <Option>804077</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Climbing a glacier is no task for the weak and untrained. The sailors are not up for the task and keep slipping down. Soon, exhausted, they must admit another solution needs to be found.</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

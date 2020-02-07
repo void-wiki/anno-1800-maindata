@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The attempt to capture your ship has failed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16014</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234104</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265428</GUID>
+      <Name>AT_Narrator_Items_Warning_ItemActionHijackFailureOtherProfile</Name>
+    </Standard>
+  </Values>
+</Asset>

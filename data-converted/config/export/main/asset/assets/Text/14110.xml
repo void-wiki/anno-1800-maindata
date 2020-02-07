@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14110</GUID>
+      <Name>CQ320_Escape2_ObjectiveText_01</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pick up:&lt;br/&gt;[AssetData([Conditions QuestCondition Context]) Text] [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] from Prosperity Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18031</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,60 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>151063</GUID>
+      <Name>Artisan All Products Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010207</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010206</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010215</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010217</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010241</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010246</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010250</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010247</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>120016</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

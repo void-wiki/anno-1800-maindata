@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203289</GUID>
+      <Name>wwc_sfx_anm_zoo_black_panther</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>203290</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2443662121</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

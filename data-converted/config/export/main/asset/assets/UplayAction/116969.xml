@@ -1,0 +1,102 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>116969</GUID>
+      <Name>DLC03 Achievement03</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DLC03</AchievementCategory>
+      <AchievementTitle>116957</AchievementTitle>
+      <AchievementDescription>116963</AchievementDescription>
+      <AchievementUPlayID>122</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Common</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>ItemSetsActive</PlayerCounter>
+            <Context>191119</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>ItemSetsActive</PlayerCounter>
+                      <Context>193773</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+                <SubTriggers>
+                  <Item>
+                    <SubTrigger>
+                      <Template>AutoCreateTrigger</Template>
+                      <Values>
+                        <Trigger>
+                          <TriggerCondition>
+                            <Template>ConditionPlayerCounter</Template>
+                            <Values>
+                              <Condition />
+                              <ConditionPlayerCounter>
+                                <PlayerCounter>ItemSetsActive</PlayerCounter>
+                                <Context>193774</Context>
+                                <CounterAmount>1</CounterAmount>
+                              </ConditionPlayerCounter>
+                            </Values>
+                          </TriggerCondition>
+                          <SubTriggers>
+                            <Item>
+                              <SubTrigger>
+                                <Template>AutoCreateTrigger</Template>
+                                <Values>
+                                  <Trigger>
+                                    <TriggerCondition>
+                                      <Template>ConditionPlayerCounter</Template>
+                                      <Values>
+                                        <Condition />
+                                        <ConditionPlayerCounter>
+                                          <PlayerCounter>ItemSetsActive</PlayerCounter>
+                                          <Context>193776</Context>
+                                          <CounterAmount>1</CounterAmount>
+                                        </ConditionPlayerCounter>
+                                      </Values>
+                                    </TriggerCondition>
+                                  </Trigger>
+                                </Values>
+                              </SubTrigger>
+                            </Item>
+                          </SubTriggers>
+                        </Trigger>
+                      </Values>
+                    </SubTrigger>
+                  </Item>
+                </SubTriggers>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>24</UplayActionID>
+      <UplayXP>300</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

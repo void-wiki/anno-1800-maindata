@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802234</GUID>
+      <Name>The Deeper You Go 1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192037</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The trial is passed!&lt;/b&gt; As they swing their arms to keep their balance, your sailors hit ropes suspended around the bridge, hidden by a clever camouflage of paint and shadow play. They grasp the ropes to steady their footing and a distant mechanism clicks. A rumbling door opens on the other side of the chasm, revealing the exit and, on its threshold, a shiny artifact.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21062</LineID>
+    </Text>
+  </Values>
+</Asset>

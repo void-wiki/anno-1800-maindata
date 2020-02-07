@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800108</GUID>
+      <Name>FeedOption</Name>
+      <IconFilename>data/ui/2kimages/main/assets16/bg_exp_continue_01.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Provide Extra Rations and Continue</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5921</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800109</Decision>
+        </Item>
+      </FollowupDecisions>
+      <OptionDescription>13030</OptionDescription>
+    </ExpeditionOption>
+  </Values>
+</Asset>

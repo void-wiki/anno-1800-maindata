@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I hear it has been stolen from the exhibition?! Crime is becoming a terrible problem for the Empire. I will find that sceptre, but for now I'm sorry your efforts have gone in vain.</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31647</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204937</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>111729</GUID>
+      <Name>AT_Queen_DLCStory51</Name>
+    </Standard>
+  </Values>
+</Asset>

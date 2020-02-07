@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800086</GUID>
+      <Name>ContinueExpeditionOption</Name>
+      <IconFilename>data/ui/2kimages/main/assets16/bg_exp_continue_02.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Continue</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5919</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800002</Decision>
+        </Item>
+      </FollowupDecisions>
+      <OptionDescription>13031</OptionDescription>
+    </ExpeditionOption>
+  </Values>
+</Asset>

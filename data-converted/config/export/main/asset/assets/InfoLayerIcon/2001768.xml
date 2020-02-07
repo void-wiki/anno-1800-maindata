@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>2001768</GUID>
+      <Name>MonumentFinalizable</Name>
+      <ID>Infolayer_MonumentFinalizable</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/3d_objects/infolayer/arrow_green.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ready for finalization</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3697</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193329</GUID>
+      <Name>Mercier Uncommon Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193267</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193272</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193262</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192638</ItemLink>
+          <Weight>6</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192658</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

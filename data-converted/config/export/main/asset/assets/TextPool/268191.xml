@@ -1,0 +1,53 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268191</GUID>
+      <Name>Pool_3rd_party04_NPCOffersNonAggressionPact</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>256396</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256398</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256399</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256400</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256421</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256423</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258004</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258005</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258538</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258539</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

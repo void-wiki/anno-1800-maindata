@@ -1,0 +1,77 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112379</GUID>
+      <Name>Final DestiNATE-Tion</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ship_military/icon_hydrojet_3.png</IconFilename>
+      <ID>ITEM_DLC1_25</ID>
+      <InfoDescription>112508</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jet Propeller— "Hurricane"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32368</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>709500</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+      <IgnoreWeightFactorUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IgnoreWeightFactorUpgrade>
+      <IgnoreDamageFactorUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IgnoreDamageFactorUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>112508</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>112523</Product>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Product>1010219</Product>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Product>1010224</Product>
+          <Amount>10</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

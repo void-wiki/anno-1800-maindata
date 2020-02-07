@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800209</GUID>
+      <Name>The Inspector 1.3.4</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"You've talked yourself into very serious trouble,"&lt;/b&gt; the Inspector sneers, pointing to three unlucky sailors. "Hang them," he says, and they are promptly strung from a beam until dead. Your ship, he decrees, must leave sovereign waters and take the long way round.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5820</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800121</GUID>
+      <Name>Temple of the Monkey God 1.1.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Join the ritual</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5625</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800123</Decision>
+        </Item>
+      </FollowupDecisions>
+      <OptionDescription>17416</OptionDescription>
+    </ExpeditionOption>
+  </Values>
+</Asset>

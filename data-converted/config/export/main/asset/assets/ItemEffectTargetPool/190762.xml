@@ -1,0 +1,45 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190762</GUID>
+      <Name>all residences EU &amp; SA</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residences</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15239</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010343</GUID>
+        </Item>
+        <Item>
+          <GUID>1010344</GUID>
+        </Item>
+        <Item>
+          <GUID>1010345</GUID>
+        </Item>
+        <Item>
+          <GUID>1010346</GUID>
+        </Item>
+        <Item>
+          <GUID>1010347</GUID>
+        </Item>
+        <Item>
+          <GUID>101254</GUID>
+        </Item>
+        <Item>
+          <GUID>101255</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

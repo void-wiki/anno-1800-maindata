@@ -1,0 +1,39 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>100971</GUID>
+      <Name>CQO_SouthAmerica_Session</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/expeditions/icon_expedition_exploration.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/residence/residence_tier02_estate01/residence_tier02_estate01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The New World</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13080</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <Collectable />
+    <FeedbackController />
+  </Values>
+</Asset>

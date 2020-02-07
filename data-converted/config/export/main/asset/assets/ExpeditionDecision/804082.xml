@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804082</GUID>
+      <Name>Atoll 1.4.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>114992</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your diver takes like a fish to water,&lt;/b&gt; having ample experience. Still the others worry when after five or six minutes, they have not yet surfaced. Suddenly the boat begins to wobble— it has been cut free! Soon after, your hero emerges from the water giddy and glistening, and brandishing magnificent coral in their hands.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33498</LineID>
+    </Text>
+  </Values>
+</Asset>

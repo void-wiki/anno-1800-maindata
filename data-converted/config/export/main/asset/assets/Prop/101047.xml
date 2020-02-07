@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101047</GUID>
+      <Name>chain_fence</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/fences/chain_fence_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/fences/chain_fence_02.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

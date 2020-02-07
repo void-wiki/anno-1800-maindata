@@ -1,0 +1,35 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400059</GUID>
+      <Name>Action_Achievement_A Ticket Home</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Campaign</AchievementCategory>
+      <AchievementTitle>15316</AchievementTitle>
+      <AchievementDescription>15317</AchievementDescription>
+      <AchievementUPlayID>1</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>QuestSolved</PlayerCounter>
+            <Context>150810</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>100</UplayActionID>
+      <UplayXP>50</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193180</GUID>
+      <Name>Sarmento Common Machines</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192692</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192697</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192708</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192718</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

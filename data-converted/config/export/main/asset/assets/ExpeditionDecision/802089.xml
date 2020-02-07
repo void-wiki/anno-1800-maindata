@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802089</GUID>
+      <Name>Cut or Lift 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An extreme but commendable choice.&lt;/b&gt; The sailor is given rum to drink and cloth to bite before he is held in place, his leg bound with a tight tourniquet. The doctor's labour is gruesome and the man can feel the grinding cuts as they tear through him, and he screams through the cloth and he howls and he roars - and yet the doctor stays composed and focused. When the leg is finally cut and the sailor dragged away, the crew feels that they are in capable hands.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21687</LineID>
+    </Text>
+  </Values>
+</Asset>

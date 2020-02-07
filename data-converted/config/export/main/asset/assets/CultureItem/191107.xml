@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191107</GUID>
+      <Name>dire wolf</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_dire_wolf.png</IconFilename>
+      <InfoDescription>13730</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dire Wolf</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26486</LineID>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <ItemSet>191116</ItemSet>
+      <TradePrice>714000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010474</ChangeModule>
+      <ForcedFeedbackVariation>101788</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203311</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Hunting</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>Arctic;NorthernEurope;NorthAmerica;NorthernNorthAmerica</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>12882</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

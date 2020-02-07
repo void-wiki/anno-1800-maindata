@@ -1,0 +1,82 @@
+<Asset>
+  <Template>CultureModule</Template>
+  <Values>
+    <Standard>
+      <GUID>114789</GUID>
+      <Name>culture_02_module_01a_men_inukshuk</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_museum.png</IconFilename>
+      <InfoDescription>11665</InfoDescription>
+    </Standard>
+    <Building>
+      <PickingAsset>100454</PickingAsset>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>500</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+      <InfluenceCostType>MuseumModule</InfluenceCostType>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/buildings/public/cultural_colony03_02/cultural_colony03_module_01/cultural_02_colony03_module_01_a.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <Colors>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Inukshuk</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35859</LineID>
+    </Text>
+    <Constructable />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <BuildingModule>
+      <ModuleMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_artic.png</ModuleMoodImage>
+    </BuildingModule>
+    <ItemContainer>
+      <SocketAllocation>Culture;Museum</SocketAllocation>
+    </ItemContainer>
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+      <SelfHealPerHealTick>4</SelfHealPerHealTick>
+    </Attackable>
+    <QuestObject />
+    <AmbientMoodProvider />
+  </Values>
+</Asset>

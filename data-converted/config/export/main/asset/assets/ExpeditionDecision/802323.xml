@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802323</GUID>
+      <Name>Teeth of the Mountain 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802324</Option>
+        </Item>
+        <Item>
+          <Option>802333</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202365</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The trail leads through the centre of a hilltop village,&lt;/b&gt; the straw shelters improbably nestled between steep-sided slopes. But it is the appearance of the inhabitants that astonishes; they are, seemingly unlike all other peoples of this great rainforest, tall and pale, blond-haired and blue-eyed. "Why, what can their story be?" someone chuckles, only to find their companions oddly tense.</Text>
+          <Status>Exported</Status>
+          <ExportCount>15</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20953</LineID>
+    </Text>
+  </Values>
+</Asset>

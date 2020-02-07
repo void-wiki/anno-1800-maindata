@@ -1,0 +1,95 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191442</GUID>
+      <Name>General of the Army</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_uniformed_101.png</IconFilename>
+      <InfoDescription>19804</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>General Ewing Thomson, Planter of Flags.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26701</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>990000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191443</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>55</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19804</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade>
+      <AttackRangeUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </AttackRangeUpgrade>
+      <LineOfSightRangeUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </LineOfSightRangeUpgrade>
+      <HitpointDamage>
+        <Item>
+          <MinDamageFactor>1.6</MinDamageFactor>
+        </Item>
+      </HitpointDamage>
+    </AttackerUpgrade>
+    <VisitorHarborUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade>
+      <DamageReceiveFactor>
+        <Normal>
+          <Factor>0.75</Factor>
+        </Normal>
+      </DamageReceiveFactor>
+    </AttackableUpgrade>
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade />
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

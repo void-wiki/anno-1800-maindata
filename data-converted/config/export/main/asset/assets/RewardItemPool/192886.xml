@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192886</GUID>
+      <Name>Sarmento Legendary Machines</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192722</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192696</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192702</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192712</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

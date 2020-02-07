@@ -1,0 +1,35 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400013</GUID>
+      <Name>Action_Achievement_Gold Digger</Name>
+    </Standard>
+    <Achievement>
+      <AchievementTitle>10133</AchievementTitle>
+      <AchievementDescription>10134</AchievementDescription>
+      <AchievementUPlayID>33</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>GoodsInStock</PlayerCounter>
+            <Context>1010017</Context>
+            <CounterAmount>100000</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>10</UplayActionID>
+      <UplayActionPoints>10</UplayActionPoints>
+      <UplayXP>100</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

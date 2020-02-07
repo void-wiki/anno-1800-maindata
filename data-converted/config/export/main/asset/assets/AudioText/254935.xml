@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I believe you'd slow my runaway train!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6310</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216492</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254935</GUID>
+      <Name>AT_ai07_NPCReputationAutocorrectDecrease5</Name>
+    </Standard>
+  </Values>
+</Asset>

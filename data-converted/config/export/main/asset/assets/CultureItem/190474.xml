@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190474</GUID>
+      <Name>pakal's necklaces</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_necklace_epic.png</IconFilename>
+      <InfoDescription>10494</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Takal's Necklace</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15049</LineID>
+    </Text>
+    <Item>
+      <Allocation>Museum</Allocation>
+      <Rarity>Epic</Rarity>
+      <ItemType>Normal</ItemType>
+      <ItemSet>191126</ItemSet>
+      <TradePrice>245000</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101453</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>SouthAmerica;SouthernSouthAmerica</ItemRegions>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>12899</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

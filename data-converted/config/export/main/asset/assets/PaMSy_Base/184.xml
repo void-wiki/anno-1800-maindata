@@ -1,0 +1,36 @@
+<Asset>
+  <Template>PaMSy_Base</Template>
+  <Values>
+    <Standard>
+      <GUID>184</GUID>
+      <Name>PaMSy_Narrative_Character_Cousin_Female</Name>
+    </Standard>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <QuestAbortedAutomatically>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <SideNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestAbortedAutomatically>
+      </MessageTriggers>
+    </ParticipantMessages>
+  </Values>
+</Asset>

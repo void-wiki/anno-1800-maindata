@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192429</GUID>
+      <Name>QI Teacher - Educational Habit (Smuggle/Pickup)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_teacher_825.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Reputable Schoolmaster</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28501</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103061</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

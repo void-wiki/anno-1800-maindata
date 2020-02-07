@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/pyrophorian.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/pyrophorian.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>101300</GUID>
+      <Name>campaign_character_02_pyrophorian_red</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_pyrophorian.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/campaign_portrait_02/campaign_portrait_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141796</GUID>
+      <Name>Hostile Takeover Finished By NPC</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14668</Headline>
+      <Subline>14669</Subline>
+      <Image>142159</Image>
+      <Category>HostileTakeover</Category>
+      <NewsPriority>
+        <StartValue>699</StartValue>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>-5</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

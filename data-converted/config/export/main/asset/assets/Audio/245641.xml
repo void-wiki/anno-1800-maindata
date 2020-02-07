@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245641</GUID>
+      <Name>Play_AI_NEW3_NAKU0_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4030</DurationMinimum>
+          <DurationMaximum>8772</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4883</DurationMinimum>
+          <DurationMaximum>8933</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4129</DurationMinimum>
+          <DurationMaximum>7563</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>4151</DurationMinimum>
+          <DurationMaximum>8769</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>152421223</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

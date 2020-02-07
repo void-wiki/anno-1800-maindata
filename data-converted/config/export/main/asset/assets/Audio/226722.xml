@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>226722</GUID>
+      <Name>wwe_spot_river_small_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>226723</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3239362339</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

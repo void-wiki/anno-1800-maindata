@@ -1,0 +1,14 @@
+<Template>
+  <Name>Camera</Name>
+  <Description>Camera for Render-Sequences</Description>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <Type>NotSerialized</Type>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+  </Properties>
+</Template>

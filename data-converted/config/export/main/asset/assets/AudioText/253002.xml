@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your ways seem fickle and foreign. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10355</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223436</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253002</GUID>
+      <Name>AT_ai02_NegFeedbackToPlyr6</Name>
+    </Standard>
+  </Values>
+</Asset>

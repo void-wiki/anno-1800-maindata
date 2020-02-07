@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190450</GUID>
+      <Name>orca</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_killerwhale.png</IconFilename>
+      <InfoDescription>10456</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Orca</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14991</LineID>
+    </Text>
+    <Item>
+      <Rarity>Rare</Rarity>
+      <ItemSet>191122</ItemSet>
+      <TradePrice>97500</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100815</ChangeModule>
+      <ForcedFeedbackVariation>1001460</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203424</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>25</BaseMorale>
+      <ItemRegions>Arctic;NorthernEurope;NorthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>10456</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

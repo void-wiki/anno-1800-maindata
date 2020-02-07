@@ -1,0 +1,32 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700014</GUID>
+      <Name>AP - TuQ Missing Street Connection</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010265</Asset>
+        </Item>
+        <Item>
+          <Asset>1010294</Asset>
+        </Item>
+        <Item>
+          <Asset>1010266</Asset>
+        </Item>
+        <Item>
+          <Asset>100451</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All buildings that need a street connection</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

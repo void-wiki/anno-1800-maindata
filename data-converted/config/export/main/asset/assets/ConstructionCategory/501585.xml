@@ -1,0 +1,47 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501585</GUID>
+      <Name>sa park decorations (category)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_1x1_13.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>103121</Building>
+        </Item>
+        <Item>
+          <Building>102835</Building>
+        </Item>
+        <Item>
+          <Building>102837</Building>
+        </Item>
+        <Item>
+          <Building>102841</Building>
+        </Item>
+        <Item>
+          <Building>102842</Building>
+        </Item>
+        <Item>
+          <Building>102844</Building>
+        </Item>
+        <Item>
+          <Building>103049</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Park Decorations</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29588</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

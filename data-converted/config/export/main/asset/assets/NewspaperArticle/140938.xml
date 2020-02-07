@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140938</GUID>
+      <Name>Monument Construction Slowed Present</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11251</Headline>
+      <Subline>11252</Subline>
+      <Image>142260</Image>
+      <Category>Monument</Category>
+      <NewsPriority>
+        <StartValue>600</StartValue>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>-5</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

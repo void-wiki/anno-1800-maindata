@@ -1,0 +1,48 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190763</GUID>
+      <Name>RemoveGlassInput</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_parrot.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Glassless light bulbs</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+    </Item>
+    <FactoryUpgrade>
+      <InputAmountUpgrade>
+        <Item>
+          <Product>1010241</Product>
+        </Item>
+      </InputAmountUpgrade>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010286</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute />
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

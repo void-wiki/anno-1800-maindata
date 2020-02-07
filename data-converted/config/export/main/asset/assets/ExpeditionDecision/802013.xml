@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802013</GUID>
+      <Name>Cracks in the Hull 1.2.2.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseGoods</NegativeOutcomeLosses>
+      <NegativeOutcomeMin>10</NegativeOutcomeMin>
+      <NegativeOutcomeMax>30</NegativeOutcomeMax>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's nothing to be done.&lt;/b&gt; The ship slowly sinks, pulled into the water with each new fracture in its hull. Cargo and crew are washed by the leakage and the ship vomits their remains when it crashes on the shore. The survivors contemplate the wreckage in despair before trying to put the ship back in shape.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21889</LineID>
+    </Text>
+  </Values>
+</Asset>

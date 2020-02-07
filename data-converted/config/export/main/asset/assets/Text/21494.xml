@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21494</GUID>
+      <Name>ShipyardBlueprintsInfoActive</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_trade.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Adds the possibility for the [ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) AddAssemblyOptionsFormatted] to be constructed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29223</LineID>
+    </Text>
+  </Values>
+</Asset>

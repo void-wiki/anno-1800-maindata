@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Did you fire by mistake?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2978</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211150</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251966</GUID>
+      <Name>AT_ai01_PlayerAttacksNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

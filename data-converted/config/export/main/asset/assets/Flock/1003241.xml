@@ -1,0 +1,44 @@
+<Asset>
+  <Template>Flock</Template>
+  <Values>
+    <Flock>
+      <Speed>0.08</Speed>
+      <AutoSpawnOverIsland>0</AutoSpawnOverIsland>
+      <MaxHeight>17</MaxHeight>
+    </Flock>
+    <Standard>
+      <GUID>1003241</GUID>
+      <Name>BirdFlock Stork</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_parrot.png</IconFilename>
+      <ID>Herd_Air_4</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_stork.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/stork/stork.cfg</AnimalCFG>
+        </Item>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/stork/stork_with_bag.cfg</AnimalCFG>
+          <RelativeProbability>0.5</RelativeProbability>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>5</UnitCountMin>
+      <UnitCountMax>7</UnitCountMax>
+      <AutoSpawn_RelativeProbability>60</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>236624</Animal_AudioLoop>
+    </AnimalBase>
+  </Values>
+</Asset>

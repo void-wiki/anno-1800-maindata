@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191092</GUID>
+      <Name>puerto rican amazon</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_puerto_rican_amazon.png</IconFilename>
+      <InfoDescription>13715</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Iguaca</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26480</LineID>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <ItemSet>191118</ItemSet>
+      <TradePrice>225000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100812</ChangeModule>
+      <ForcedFeedbackVariation>101797</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203398</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>SouthAmerica;SouthernSouthAmerica</ItemRegions>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>12866</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

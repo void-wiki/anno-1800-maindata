@@ -1,0 +1,12 @@
+<Template>
+  <Name>MatcherCriterionOr</Name>
+  <Properties>
+    <MatcherCriterion />
+    <MatcherCriterionOr>
+      <CriterionOperandListOr>
+        <Item />
+        <Item />
+      </CriterionOperandListOr>
+    </MatcherCriterionOr>
+  </Properties>
+</Template>

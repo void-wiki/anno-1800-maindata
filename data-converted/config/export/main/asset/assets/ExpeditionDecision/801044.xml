@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801044</GUID>
+      <Name>Dockyard Dupe 1.3.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your disguises are so comically poor&lt;/b&gt;, and yet the innkeeper is the picture of cordiality as he ushers your men to retake their seats. Your men exchange hopeful looks, but the other patrons start laughing. Almost in unison, they have drawn their pistols. "What were we thinking?" mutter your men. "I wonder where you'll end up!" the innkeeper cackles, as he has your crew stripped, bound, and pushed off to sea.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13123</LineID>
+    </Text>
+  </Values>
+</Asset>

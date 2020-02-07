@@ -1,0 +1,93 @@
+<Asset>
+  <Template>SettingsMenu</Template>
+  <Values>
+    <Standard>
+      <GUID>500527</GUID>
+      <Name>AudioSettings</Name>
+      <ID>AudioSettings</ID>
+    </Standard>
+    <SettingsMenu>
+      <Container>
+        <Item>
+          <Container>
+            <Template>OptionGrid</Template>
+            <Values>
+              <OptionGrid>
+                <Columns>2</Columns>
+                <CellSizeX>550</CellSizeX>
+                <CellSizeY>75</CellSizeY>
+                <Controls>
+                  <Item>
+                    <Controls>
+                      <Template>OptionAudioSlider</Template>
+                      <Values>
+                        <OptionAudioSlider>
+                          <AudioValueTextsource>[Options MasterVolume]</AudioValueTextsource>
+                          <AudioHeadline>10286</AudioHeadline>
+                          <AudioTextTextsource>[Options MasterVolume &gt;&gt; percentage]</AudioTextTextsource>
+                          <AudioSliderInfotip>501617</AudioSliderInfotip>
+                        </OptionAudioSlider>
+                      </Values>
+                    </Controls>
+                  </Item>
+                  <Item>
+                    <Controls>
+                      <Template>OptionAudioSlider</Template>
+                      <Values>
+                        <OptionAudioSlider>
+                          <AudioValueTextsource>[Options UIVolume]</AudioValueTextsource>
+                          <AudioHeadline>10287</AudioHeadline>
+                          <AudioTextTextsource>[Options UIVolume &gt;&gt; percentage]</AudioTextTextsource>
+                          <AudioSliderInfotip>501617</AudioSliderInfotip>
+                        </OptionAudioSlider>
+                      </Values>
+                    </Controls>
+                  </Item>
+                  <Item>
+                    <Controls>
+                      <Template>OptionAudioSlider</Template>
+                      <Values>
+                        <OptionAudioSlider>
+                          <AudioValueTextsource>[Options MusicVolume]</AudioValueTextsource>
+                          <AudioHeadline>10288</AudioHeadline>
+                          <AudioTextTextsource>[Options MusicVolume &gt;&gt; percentage]</AudioTextTextsource>
+                          <AudioSliderInfotip>501617</AudioSliderInfotip>
+                        </OptionAudioSlider>
+                      </Values>
+                    </Controls>
+                  </Item>
+                  <Item>
+                    <Controls>
+                      <Template>OptionAudioSlider</Template>
+                      <Values>
+                        <OptionAudioSlider>
+                          <AudioValueTextsource>[Options VoiceVolume]</AudioValueTextsource>
+                          <AudioHeadline>10289</AudioHeadline>
+                          <AudioTextTextsource>[Options VoiceVolume &gt;&gt; percentage]</AudioTextTextsource>
+                          <AudioSliderInfotip>501617</AudioSliderInfotip>
+                        </OptionAudioSlider>
+                      </Values>
+                    </Controls>
+                  </Item>
+                  <Item>
+                    <Controls>
+                      <Template>OptionAudioSlider</Template>
+                      <Values>
+                        <OptionAudioSlider>
+                          <AudioValueTextsource>[Options SFXVolume]</AudioValueTextsource>
+                          <AudioHeadline>10290</AudioHeadline>
+                          <AudioTextTextsource>[Options SFXVolume &gt;&gt; percentage]</AudioTextTextsource>
+                          <AudioSliderInfotip>501617</AudioSliderInfotip>
+                        </OptionAudioSlider>
+                      </Values>
+                    </Controls>
+                  </Item>
+                </Controls>
+              </OptionGrid>
+            </Values>
+          </Container>
+        </Item>
+      </Container>
+    </SettingsMenu>
+  </Values>
+</Asset>

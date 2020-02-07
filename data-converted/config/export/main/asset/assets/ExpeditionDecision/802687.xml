@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802687</GUID>
+      <Name>The Runaway 1.1.2.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They don't give in easily.&lt;/b&gt; Your sailors wait until the officials pass them by, before knocking them to the floor, and confiscating their weapons. A shrill whistle sounds from the other ship, and armed men in smart navy uniforms pour up the boarding plank onto your deck. There follows a heavy skirmish, but your sailors gain the upper hand. The authorities surrender and retreat. Though grateful, your fugitive wishes to avoid causing further injury by his presence, and insists on leaving at the next port.</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21620</LineID>
+    </Text>
+  </Values>
+</Asset>

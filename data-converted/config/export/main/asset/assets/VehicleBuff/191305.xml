@@ -1,0 +1,42 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191305</GUID>
+      <Name>PucklegunDebuff</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_warning_debuff_ship.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Incapacitated</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26391</LineID>
+    </Text>
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+    </VehicleUpgrade>
+    <Buff>
+      <AddedInfolayer>501510</AddedInfolayer>
+    </Buff>
+    <AttackerUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>44</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <AttackSpeedUpgrade>-30</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

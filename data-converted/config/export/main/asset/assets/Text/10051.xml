@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>10051</GUID>
+      <Name>SustainTimerText</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_construction_time.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sustain this status for [Conditions QuestCondition TimeLimit &gt;&gt; time]</Text>
+          <Status>ToBeDeleted</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4903</LineID>
+    </Text>
+  </Values>
+</Asset>

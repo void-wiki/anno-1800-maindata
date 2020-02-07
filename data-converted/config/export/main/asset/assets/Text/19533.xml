@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>19533</GUID>
+      <Name>InputBenefitSupplyActive</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_house.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents provided by [AssetData([ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) InputBenefitModifierProduct(index)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28970</LineID>
+    </Text>
+  </Values>
+</Asset>

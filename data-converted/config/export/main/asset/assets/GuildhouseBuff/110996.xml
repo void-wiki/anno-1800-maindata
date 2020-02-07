@@ -1,0 +1,43 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>110996</GUID>
+      <Name>Inflammable Kit Buff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_bomb_recipe_1.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190882</GUID>
+        </Item>
+      </EffectTargets>
+      <BuildingDecoration>142628</BuildingDecoration>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Inflammable Concoction</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31348</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <BuildingUpgrade />
+    <Buff />
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentExplosionIncreaseUpgrade>
+        <Value>5</Value>
+      </IncidentExplosionIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+  </Values>
+</Asset>

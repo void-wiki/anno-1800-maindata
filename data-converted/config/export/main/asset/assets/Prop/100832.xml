@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100832</GUID>
+      <Name>economy_market_horse_carriage</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/vehicles/economy_market_horse_carriage_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/vehicles/economy_market_horse_carriage_02.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

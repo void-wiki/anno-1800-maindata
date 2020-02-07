@@ -1,0 +1,35 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200894</GUID>
+      <Name>wwe_sfx_bld_harbor_typeCluster_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4580</DurationMinimum>
+          <DurationMaximum>49986</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4580</DurationMinimum>
+          <DurationMaximum>49986</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4580</DurationMinimum>
+          <DurationMaximum>49986</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>4580</DurationMinimum>
+          <DurationMaximum>49986</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+      <StopEvent>200895</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>100754407</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,61 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269045</GUID>
+      <Name>Pool_captain_TreasureMapFailure</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>260070</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260071</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259915</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259916</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259917</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259918</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259919</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259920</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259921</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259922</AudioText>
+        </Item>
+        <Item>
+          <AudioText>259923</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>932569632</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

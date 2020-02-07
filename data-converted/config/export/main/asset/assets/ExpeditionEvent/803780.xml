@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803780</GUID>
+      <Name>The snake bite</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The snake bite</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>803781</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/disease_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

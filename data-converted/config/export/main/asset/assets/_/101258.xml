@@ -1,0 +1,179 @@
+<Asset>
+  <BaseAssetGUID>1010359</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101258</GUID>
+      <Name>service_colony01_02 (Chapel)</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>500</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>4</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>4</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>5</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>5</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/buildings/public/service_colony01_02/service_colony01_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Chapel</Text>
+        </English>
+      </LocaText>
+      <LineID>8498</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>200869</Sound>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <LogisticNode />
+    <PublicService>
+      <FullSatisfactionDistance>30</FullSatisfactionDistance>
+      <NoSatisfactionDistance>60</NoSatisfactionDistance>
+      <PublicServiceOutputs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Product>120050</Product>
+        </Item>
+      </PublicServiceOutputs>
+    </PublicService>
+    <AmbientMoodProvider />
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PublicServiceBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>10</Amount>
+          <InactiveAmount>5</InactiveAmount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>1500</MaximumHitPoints>
+    </Attackable>
+    <Pausable />
+    <IncidentInfectable />
+    <Electric />
+    <Culture />
+  </Values>
+</Asset>

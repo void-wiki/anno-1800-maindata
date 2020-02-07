@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Madame Kahina has been a great comfort since father died, she knew him well.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3957</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212041</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253734</GUID>
+      <Name>AT_ParticipantDiscovered_MadameKahina</Name>
+    </Standard>
+  </Values>
+</Asset>

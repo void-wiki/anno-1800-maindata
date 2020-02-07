@@ -1,0 +1,39 @@
+<Asset>
+  <Template>QuestObjectFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>100818</GUID>
+      <Name>CQO_residence_tier02</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_resident.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/residence_cousin/cousins_residence.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your Cousin's House</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13071</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+    <SoundEmitter />
+  </Values>
+</Asset>

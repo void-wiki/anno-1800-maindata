@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>201828</GUID>
+      <Name>wwe_sfx_veh_collier_lp_STOP</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3559</DurationMinimum>
+          <DurationMaximum>3875</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>3559</DurationMinimum>
+          <DurationMaximum>3875</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3559</DurationMinimum>
+          <DurationMaximum>3875</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>3559</DurationMinimum>
+          <DurationMaximum>3875</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>40</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4200567589</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

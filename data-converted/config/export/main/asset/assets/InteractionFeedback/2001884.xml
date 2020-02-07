@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InteractionFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>2001884</GUID>
+      <Name>PickupFeedback</Name>
+    </Standard>
+    <InteractionFeedback>
+      <InteractionEffect>1000219</InteractionEffect>
+      <InteractionTime>3000</InteractionTime>
+      <InteractionInfolayer>2001837</InteractionInfolayer>
+    </InteractionFeedback>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Loading cargo</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4265</LineID>
+    </Text>
+  </Values>
+</Asset>

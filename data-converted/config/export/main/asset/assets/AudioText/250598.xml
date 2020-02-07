@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Her Majesty rarely needs guidance - ah, a little here and there - I think she simply likes to have my company.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1210</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212237</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>250598</GUID>
+      <Name>AT_3rdParty02_IdleMessageSelf3</Name>
+    </Standard>
+  </Values>
+</Asset>

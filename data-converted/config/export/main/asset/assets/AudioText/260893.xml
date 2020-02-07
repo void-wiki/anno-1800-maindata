@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Damn those pirates. Damn their greed!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11893</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229760</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260893</GUID>
+      <Name>AT_ai07_IdleMessageGossip_Harlow</Name>
+    </Standard>
+  </Values>
+</Asset>

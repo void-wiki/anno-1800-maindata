@@ -1,0 +1,33 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>153163</GUID>
+      <Name>OP - Quest Pool All</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <SubPools>
+        <Item>
+          <Pool>153161</Pool>
+        </Item>
+        <Item>
+          <Pool>153162</Pool>
+        </Item>
+      </SubPools>
+      <IsTopLevel>1</IsTopLevel>
+      <QuestLimit>6</QuestLimit>
+      <PoolCooldown>0</PoolCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

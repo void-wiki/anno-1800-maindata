@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Perhaps not refined enough for your sister, but at least your workers can start their dig. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17344</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232640</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266209</GUID>
+      <Name>advisor02_ExcavationAndDemolitionExpert_03</Name>
+    </Standard>
+  </Values>
+</Asset>

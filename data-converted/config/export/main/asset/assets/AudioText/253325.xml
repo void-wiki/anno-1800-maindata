@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You appal me.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10523</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223000</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253325</GUID>
+      <Name>AT_ai04_NegFeedbackToPlyr3</Name>
+    </Standard>
+  </Values>
+</Asset>

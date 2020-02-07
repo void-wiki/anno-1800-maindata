@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800120</GUID>
+      <Name>Temple of the Monkey God 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800121</Option>
+        </Item>
+        <Item>
+          <Option>800122</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226550</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;'Nothing to fear from this ritual,'&lt;/b&gt; beams the anthropologist, having consulted a bound volume entitled "Creed of the Monkey God". 'If I am correct, the devotees gather to disperse the malefic spirit of envy. It would be excellent form for us to join in.' At which remark, the crew begin to look a little hesitant.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5624</LineID>
+    </Text>
+  </Values>
+</Asset>

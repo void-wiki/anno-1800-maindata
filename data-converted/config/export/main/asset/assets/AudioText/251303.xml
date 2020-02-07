@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You're a blatant wibblyist!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2338</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212579</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251303</GUID>
+      <Name>AT_ai03_NegFeedbackToPlyr3</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Put more skulls on the pile?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11625</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222694</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260070</GUID>
+      <Name>AT_captain_ContScreen_LowMorale2</Name>
+    </Standard>
+  </Values>
+</Asset>

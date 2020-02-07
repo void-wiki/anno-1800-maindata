@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Majesty will soon be mentioning you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1164</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212231</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250492</GUID>
+      <Name>AT_3rdParty02_PosiFeedbackToPlayer4</Name>
+    </Standard>
+  </Values>
+</Asset>

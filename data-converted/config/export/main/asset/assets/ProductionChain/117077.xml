@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>117077</GUID>
+      <Name>arctic schnapps chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_schnapps_4.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>1010294</Building>
+      <Tier1>
+        <Item>
+          <Building>1010265</Building>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Schnapps</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36000</LineID>
+    </Text>
+  </Values>
+</Asset>

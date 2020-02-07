@@ -1,0 +1,26 @@
+<Asset>
+  <Template>TargetGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>500918</GUID>
+      <Name>BuildingMouseTargets</Name>
+      <ID>MouseTargetGroupBuilding</ID>
+    </Standard>
+    <TargetGroup>
+      <Elements>
+        <Item>
+          <TargetAsset>2001042</TargetAsset>
+        </Item>
+        <Item>
+          <TargetAsset>2001043</TargetAsset>
+        </Item>
+        <Item>
+          <TargetAsset>2001044</TargetAsset>
+        </Item>
+        <Item>
+          <TargetAsset>2001775</TargetAsset>
+        </Item>
+      </Elements>
+    </TargetGroup>
+  </Values>
+</Asset>

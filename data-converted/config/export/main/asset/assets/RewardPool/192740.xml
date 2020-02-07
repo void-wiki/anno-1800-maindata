@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192740</GUID>
+      <Name>Specialists - Public Buildings EU - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190672</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190677</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190728</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191566</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191571</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191577</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

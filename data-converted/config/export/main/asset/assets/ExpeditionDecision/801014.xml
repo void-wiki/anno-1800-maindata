@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801014</GUID>
+      <Name>Mysterious Artefacts 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202359</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/stranger_things_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The fire is chaotic&lt;/b&gt;, and the buckets of water seem not to extinguish, but provoke. The flame leaps to the priest's cassock like spring-heeled jack, and as it sweeps up his back, he is heard to utter his last words,"forgive me father, for I have sinned."  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13181</LineID>
+    </Text>
+  </Values>
+</Asset>

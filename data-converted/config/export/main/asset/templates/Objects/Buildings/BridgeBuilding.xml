@@ -1,0 +1,59 @@
+<Template>
+  <Name>BridgeBuilding</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Blocking>
+      <GroundDecalAsset>1010035</GroundDecalAsset>
+      <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+    </Blocking>
+    <Building>
+      <Movable>0</Movable>
+      <TakeOverTransformation>DontTouch</TakeOverTransformation>
+    </Building>
+    <Cost />
+    <Selection>
+      <GUIType>Ornamental</GUIType>
+      <Selectable>0</Selectable>
+    </Selection>
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Constructable />
+    <SoundEmitter>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>200133</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <Locked />
+    <FeedbackController />
+    <Ornament>
+      <PlazzaSize>20</PlazzaSize>
+    </Ornament>
+    <AmbientMoodProvider />
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+    </Attackable>
+    <Pausable />
+    <Bridge />
+  </Properties>
+</Template>

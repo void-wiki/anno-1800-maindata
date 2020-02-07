@@ -1,0 +1,112 @@
+<Asset>
+  <BaseAssetGUID>1010464</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101276</GUID>
+      <Name>institution_colony01_03 (Hospital)</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>4</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>4</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>5</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>CityInstitutionBuilding</TemplateName>
+                <Index>5</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/public/institution_colony01_03/institution_colony01_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LineID>8502</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <IncidentResolver />
+    <Maintenance />
+    <Attackable />
+    <Pausable />
+    <IncidentInfluencer />
+    <DelayedConstruction />
+    <AmbientMoodProvider />
+    <Culture />
+    <QuestObject />
+  </Values>
+</Asset>

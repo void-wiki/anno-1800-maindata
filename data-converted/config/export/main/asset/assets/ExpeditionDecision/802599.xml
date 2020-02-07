@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802599</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802607</Option>
+        </Item>
+        <Item>
+          <Option>802578</Option>
+        </Item>
+        <Item>
+          <Option>802579</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A safe passage!&lt;/b&gt; The raft is basic but sturdy, and it crosses the river without losing so much as a plank. The crew boards the opposite bank safely and climbs the hill rising right beyond it. On the other side, they happen upon a vast enclosed field: a pen for horse breeding. A quick discussion with the owner confirms that the thieves stole several animals mere hours ago. The land beyond is barren and unfit for explorers on foot. Your crew needs horses.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21672</LineID>
+    </Text>
+  </Values>
+</Asset>

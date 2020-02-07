@@ -1,0 +1,46 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>115469</GUID>
+      <Name>arctic fox</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_arctic_fox.png</IconFilename>
+      <InfoDescription>116045</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Arctic Fox</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35441</LineID>
+    </Text>
+    <Item>
+      <Rarity>Uncommon</Rarity>
+      <ItemSet>191119</ItemSet>
+      <TradePrice>18600</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>114788</ChangeModule>
+      <ForcedFeedbackVariation>117605</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>20</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203340</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemRegions>Arctic;NorthernEurope;NorthAmerica;NorthernNorthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>116045</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

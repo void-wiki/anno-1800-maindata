@@ -1,0 +1,93 @@
+<Template>
+  <Name>CityInstitutionBuilding</Name>
+  <Properties>
+    <Standard />
+    <Building>
+      <BuildingType>Factory</BuildingType>
+      <BuildingCategoryName>100001</BuildingCategoryName>
+    </Building>
+    <Blocking />
+    <Cost />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Production</GUIType>
+    </Selection>
+    <Text />
+    <Constructable>
+      <DestructionCategory>Production</DestructionCategory>
+    </Constructable>
+    <Locked />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+      </DestroySounds>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>203995</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <IncidentResolver>
+      <SpecialUnitThresholds>
+        <Item>
+          <UnitAmount>1</UnitAmount>
+          <HappinessThreshold>10</HappinessThreshold>
+          <PopulationCount>100</PopulationCount>
+        </Item>
+        <Item>
+          <UnitAmount>2</UnitAmount>
+          <HappinessThreshold>30</HappinessThreshold>
+          <PopulationCount>200</PopulationCount>
+        </Item>
+        <Item>
+          <UnitAmount>3</UnitAmount>
+          <HappinessThreshold>50</HappinessThreshold>
+          <PopulationCount>300</PopulationCount>
+        </Item>
+      </SpecialUnitThresholds>
+    </IncidentResolver>
+    <Maintenance>
+      <IncomeCategory>CityInstitutionBuildings</IncomeCategory>
+    </Maintenance>
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+    </Attackable>
+    <Pausable />
+    <IncidentInfluencer>
+      <Influence>
+        <ArcticIllness>
+          <Influence>0</Influence>
+        </ArcticIllness>
+      </Influence>
+    </IncidentInfluencer>
+    <DelayedConstruction />
+    <AmbientMoodProvider />
+    <Culture />
+    <QuestObject />
+  </Properties>
+</Template>

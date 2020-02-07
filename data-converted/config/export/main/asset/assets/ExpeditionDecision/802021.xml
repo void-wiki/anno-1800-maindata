@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802021</GUID>
+      <Name>Tavern Troubles 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802022</Option>
+        </Item>
+        <Item>
+          <Option>802023</Option>
+        </Item>
+        <Item>
+          <Option>802024</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;These hoodlums are asking for it.&lt;/b&gt; To each harbour its own ill-famed tavern, and this one is no exception. While your crew enjoys a beer at the counter, the tavern's door slams open, the bartender stiffens and the volume of conversations dwindles: the newcomers are regulars of the bad kind. One of the scruffy men elbows your doctor and gasps as the alcohol splashes on his unkempt clothes. He immediately grabs your sailor by the collar and demands an apology.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21724</LineID>
+    </Text>
+  </Values>
+</Asset>

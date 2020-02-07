@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>114193</GUID>
+      <Name>ArcticQ111_SirJohn_Item</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/missing_captain.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sir John And A Few Survivors</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34516</LineID>
+    </Text>
+    <Item>
+      <Flotsam>114136</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

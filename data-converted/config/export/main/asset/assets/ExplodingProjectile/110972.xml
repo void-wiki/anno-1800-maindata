@@ -1,0 +1,55 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>110972</GUID>
+      <Name>AnarchyBombBigProjectile</Name>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>35</ShotAngle>
+      <ProjectileSpeed>20</ProjectileSpeed>
+      <Effectivities>
+        <Item>
+          <GUID>191508</GUID>
+          <Factor>1.5</Factor>
+        </Item>
+      </Effectivities>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_dynamite_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>2</InnerDamageRadius>
+      <InnerDamage>2000</InnerDamage>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>3</OuterDamageRadius>
+      <MinimumDamage>1500</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>239774</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>239773</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident>
+      <CausedIncident>Fire</CausedIncident>
+      <CausedIncidentBuff>192004</CausedIncidentBuff>
+    </ProjectileIncident>
+  </Values>
+</Asset>

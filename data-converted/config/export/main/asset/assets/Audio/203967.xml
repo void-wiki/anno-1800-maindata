@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203967</GUID>
+      <Name>wwe_sfx_env_spot_metal_rattle_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>15</MaxAttenuation>
+      <StopEvent>203968</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1603632295</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

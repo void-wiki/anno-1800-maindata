@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802402</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802415</Option>
+        </Item>
+        <Item>
+          <Option>802416</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The old man leads you into a trap!&lt;/b&gt; He chatters amiably all the way to a hammam— a steam bath— where he insists a descendant of Ben Sahid now works. Before they can realise how misplaced their trust in him was, your officers, naked and relieved of their weapons, are surrounded by a gang asking for payment.</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20868</LineID>
+    </Text>
+  </Values>
+</Asset>

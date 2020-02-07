@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>102296</GUID>
+      <Name>woman_with_stroller</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/woman_with_stroller/woman_with_stroller_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/woman_with_stroller/woman_with_stroller_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/woman_with_stroller/woman_with_stroller_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

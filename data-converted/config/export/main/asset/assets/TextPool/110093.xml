@@ -1,0 +1,47 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>110093</GUID>
+      <Name>Pool_ai11_PlayerAttacksAndLoosesMilitaryTakeover</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>109731</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109734</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109736</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109737</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109827</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109850</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109851</AudioText>
+        </Item>
+        <Item>
+          <AudioText>109852</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

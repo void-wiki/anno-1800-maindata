@@ -1,0 +1,214 @@
+<Asset>
+  <Template>A7_QuestEscortObject</Template>
+  <Values>
+    <Standard>
+      <GUID>150343</GUID>
+      <Name>Escort Safer Haven - Sarmento - DISABLED - not approved</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <SubtitleGroup>1937737451</SubtitleGroup>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>29</QuestGiver>
+      <StoryText>9746</StoryText>
+      <IsEnabled>0</IsEnabled>
+      <PreActivationTimer>1800000</PreActivationTimer>
+      <NeededProgressLevel>MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <DelayTimer>90000</DelayTimer>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102591</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>29</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Starting From Scratch (TBC - Quest not yet written)</Text>
+          <Status>ToBeDeleted</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestEscortObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>3</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestEscortObject</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Reward>190977</Reward>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestEscortObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ConditionQuestEscort>
+                <EscortObjects>
+                  <Item>
+                    <EscortObject>
+                      <Template>QuestObjectList</Template>
+                      <Values>
+                        <ObjectList>
+                          <Object>102371</Object>
+                          <Amount>1</Amount>
+                        </ObjectList>
+                      </Values>
+                    </EscortObject>
+                  </Item>
+                </EscortObjects>
+                <MinSurvivors>1</MinSurvivors>
+                <SpawnArea>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <SpawnArea>
+                      <SpawnContext>ClientKontor</SpawnContext>
+                      <DistanceToContext>10</DistanceToContext>
+                      <MinObjectDistance>5</MinObjectDistance>
+                      <MaxObjectDistance>10</MaxObjectDistance>
+                      <DistanceToBorder>Far</DistanceToBorder>
+                      <DistanceToIsland>Near</DistanceToIsland>
+                    </SpawnArea>
+                  </Values>
+                </SpawnArea>
+                <Destinations>
+                  <Item />
+                </Destinations>
+                <AttackerObjects>
+                  <Item>
+                    <AttackerObject>
+                      <Template>QuestObjectList</Template>
+                      <Values>
+                        <ObjectList>
+                          <Object>100565</Object>
+                          <Amount>1</Amount>
+                          <DoSetOwner>1</DoSetOwner>
+                          <Owner>General_Enemy</Owner>
+                        </ObjectList>
+                      </Values>
+                    </AttackerObject>
+                  </Item>
+                </AttackerObjects>
+                <MinDistAttackerToObject>30</MinDistAttackerToObject>
+                <MaxDistAttackerToObject>50</MaxDistAttackerToObject>
+                <AttackerSpawnInterval>105000</AttackerSpawnInterval>
+              </ConditionQuestEscort>
+              <ConditionQuestObjective />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectStarterObject</Template>
+                  <Values>
+                    <ConditionScanner />
+                    <ConditionObjectStarterObject />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </ExecutionPlace>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102591</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>ClientObject</SpawnContext>
+                        <DistanceToContext>30</DistanceToContext>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Third_party_05_Sarmento</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>500173</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

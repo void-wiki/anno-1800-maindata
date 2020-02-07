@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500561</GUID>
+      <Name>PlayerSellShare</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_takeover_small.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501358</IconAsset>
+            <NotificationSideTitle>10433</NotificationSideTitle>
+            <FilterType>HostileTakeover</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>10421</NotificationText>
+            <NotificationAudioAsset>9818749</NotificationAudioAsset>
+            <DisplayTimeout>0</DisplayTimeout>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

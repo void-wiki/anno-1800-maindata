@@ -1,0 +1,58 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>130219</GUID>
+      <Name>intermediate moderate 3.3</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier03.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000002</Context>
+            <CounterAmount>900</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>140046</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010464</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130173</Asset>
+                  </Item>
+                </UnlockAssets>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>130046</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010346</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010471</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

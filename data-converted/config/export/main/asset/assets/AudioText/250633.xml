@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>That ship cost me an arm and a leg!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1845</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211513</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250633</GUID>
+      <Name>AT_ai07_PlayerSinksNpcShip1</Name>
+    </Standard>
+  </Values>
+</Asset>

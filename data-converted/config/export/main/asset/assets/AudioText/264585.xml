@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We've found no trace of Sir John and his crew, let us hope there is time to try again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13282</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229752</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264585</GUID>
+      <Name>AT_captain_OnlineEvent_Failure1</Name>
+    </Standard>
+  </Values>
+</Asset>

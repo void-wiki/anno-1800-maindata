@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Alonso's tactics are rash and confused, if he succeeds it will be down to luck!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12874</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231506</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252711</GUID>
+      <Name>AT_ai09_IdleMessageGossip_Gravez</Name>
+    </Standard>
+  </Values>
+</Asset>

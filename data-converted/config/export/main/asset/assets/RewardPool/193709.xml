@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193709</GUID>
+      <Name>Culture - Luxury Plants - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>111115</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114387</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111120</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114388</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111123</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112736</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

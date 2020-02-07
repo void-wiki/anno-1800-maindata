@@ -1,0 +1,23 @@
+<Asset>
+  <Template>IncomeBalanceNewsTracker</Template>
+  <Values>
+    <Standard>
+      <GUID>140543</GUID>
+      <Name>IncomeBalanceNewsTracker</Name>
+    </Standard>
+    <NewsTrackerBase>
+      <NewsTrackerScope>Global</NewsTrackerScope>
+    </NewsTrackerBase>
+    <IncomeBalanceNewsTracker>
+      <Duration>120000</Duration>
+      <IncomeBalanceLow>-100</IncomeBalanceLow>
+      <IncomeBalanceLowMaximumAtRelease>-50</IncomeBalanceLowMaximumAtRelease>
+      <IncomeLowArticle>140547</IncomeLowArticle>
+      <IncomeBalanceHigh>250</IncomeBalanceHigh>
+      <IncomeBalanceHighMinimumAtRelease>200</IncomeBalanceHighMinimumAtRelease>
+      <IncomeHighArticle>140546</IncomeHighArticle>
+      <IncomeLowPastArticle>140964</IncomeLowPastArticle>
+      <MoneyLowPastArticle>140965</MoneyLowPastArticle>
+    </IncomeBalanceNewsTracker>
+  </Values>
+</Asset>

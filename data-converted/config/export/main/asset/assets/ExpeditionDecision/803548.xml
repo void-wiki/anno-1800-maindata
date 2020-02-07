@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803548</GUID>
+      <Name>The Coral Island 1.2.1.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803549</Option>
+        </Item>
+        <Item>
+          <Option>803552</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ship has been repaired, but the hunters still have not returned.&lt;/b&gt; You had better decide if its worth the risk to go after them.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33022</LineID>
+    </Text>
+  </Values>
+</Asset>

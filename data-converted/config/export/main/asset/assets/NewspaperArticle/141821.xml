@@ -1,0 +1,37 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141821</GUID>
+      <Name>PopulationHappinessContent</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14932</Headline>
+      <Subline>14933</Subline>
+      <Image>142221</Image>
+      <Category>Satisfaction</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>250</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <Maximum>300</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000000</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

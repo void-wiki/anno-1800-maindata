@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If the body is the field in which the mind works, would you farm on barren soil?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12975</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229505</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261122</GUID>
+      <Name>AT_advisor_02_IdleMessageSelf3</Name>
+    </Standard>
+  </Values>
+</Asset>

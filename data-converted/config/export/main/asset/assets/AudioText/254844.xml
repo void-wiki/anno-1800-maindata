@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>When you listen, I believe you hear.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6139</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216581</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254844</GUID>
+      <Name>AT_ai04_NPCReputationAutocorrectIncrease5</Name>
+    </Standard>
+  </Values>
+</Asset>

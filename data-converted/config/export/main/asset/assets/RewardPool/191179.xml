@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191179</GUID>
+      <Name>Library L</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190480</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112935</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112940</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112941</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112824</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

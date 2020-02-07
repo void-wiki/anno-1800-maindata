@@ -1,0 +1,41 @@
+<Asset>
+  <Template>SimpleVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>102573</GUID>
+      <Name>Royal Stagecoach (Campaign Movies)</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/royal_stagecoach/royal_stagecoach.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnTerrainSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <CreatePathPlannerUnit>0</CreatePathPlannerUnit>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>economy_market_horse_carriage_01</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>9818381</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <MinimapToken />
+  </Values>
+</Asset>

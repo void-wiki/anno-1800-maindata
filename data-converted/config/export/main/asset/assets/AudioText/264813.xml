@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This is a place of death. You can die here without knowing. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13497</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231253</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264813</GUID>
+      <Name>AT_Inuit_Phase3_FindtheExpeditionShips_Failure</Name>
+    </Standard>
+  </Values>
+</Asset>

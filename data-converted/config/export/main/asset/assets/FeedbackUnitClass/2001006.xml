@@ -1,0 +1,19 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>2001006</GUID>
+      <Name>Resolver Unit Riot Normal</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_police.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>2001005</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+      <ClassFlags>FightsRiot</ClassFlags>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802919</GUID>
+      <Name>The Frozen Chasm 1.1.1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Sufficient supplies are found.&lt;/b&gt; Your hunters are much better at crafting snares than rescue harnesses, and they gather game on a regular enough basis that the team can survive until helps finally arrives. The diet of bony rabbits wasn't enough to keep your sailors in perfect health, but a couple weeks of care and proper food should put them back on their feet.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22117</LineID>
+    </Text>
+  </Values>
+</Asset>

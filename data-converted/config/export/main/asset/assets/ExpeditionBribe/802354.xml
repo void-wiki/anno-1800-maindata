@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>802354</GUID>
+      <Name>The Mayan Map 1.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>"El Doodah, you say? Yes, I know something of it..."</Text>
+          <Status>Exported</Status>
+          <ExportCount>9</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29592</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>17086</TraderName>
+      <FollowupSuccessOption>802355</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802357</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>3000</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

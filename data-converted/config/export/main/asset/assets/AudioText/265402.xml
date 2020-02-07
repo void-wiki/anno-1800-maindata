@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>New event stage reached!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15988</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234143</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265402</GUID>
+      <Name>AT_Narrator_OnlineEvents_Information_OnlineEventPhaseCompleted</Name>
+    </Standard>
+  </Values>
+</Asset>

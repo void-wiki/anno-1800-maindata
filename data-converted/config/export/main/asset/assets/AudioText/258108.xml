@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My sword is always ready.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9585</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220381</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258108</GUID>
+      <Name>AT_Advisor02_WelcomeToPlayer7</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You may have failed, but the others succeeded. That sort of togetherness is going to be vital.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8061</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230207</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254635</GUID>
+      <Name>AT_LadyFaithful_Phase1_ExpeditionEvent_FailureAudio</Name>
+    </Standard>
+  </Values>
+</Asset>

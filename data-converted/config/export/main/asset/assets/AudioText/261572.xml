@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Good tidings from the front!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12307</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230440</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261572</GUID>
+      <Name>AT_MurmurMale1_War_SurrenderUnlikely</Name>
+    </Standard>
+  </Values>
+</Asset>

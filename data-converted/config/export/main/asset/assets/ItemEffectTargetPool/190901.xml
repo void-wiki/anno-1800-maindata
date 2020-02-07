@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190901</GUID>
+      <Name>All breweries</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All drinks production</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15260</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010292</GUID>
+        </Item>
+        <Item>
+          <GUID>1010294</GUID>
+        </Item>
+        <Item>
+          <GUID>100659</GUID>
+        </Item>
+        <Item>
+          <GUID>1010314</GUID>
+        </Item>
+        <Item>
+          <GUID>101252</GUID>
+        </Item>
+        <Item>
+          <GUID>1010340</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

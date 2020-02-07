@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800112</GUID>
+      <Name>Temple of the Monkey God</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Temple of the Monkey God</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5622</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800029</EventThreat>
+      <StartDecision>800114</StartDecision>
+      <EventMusicChoice>226706</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>224051</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802783</GUID>
+      <Name>Jolly Roger 1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802784</Option>
+        </Item>
+        <Item>
+          <Option>802785</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Pirates are always ready for a skirmish!&lt;/b&gt; Having delayed boarding until they were properly armed and ready, your men fail to make use of their conviction. On seeing the pirate planks fall first, your lieutenant backtracks, urging caution in the face of the oncoming horde!</Text>
+          <Status>Exported</Status>
+          <ExportCount>9</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21537</LineID>
+    </Text>
+  </Values>
+</Asset>

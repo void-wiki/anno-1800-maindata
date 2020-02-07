@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802218</GUID>
+      <Name>The Amazons 1.2.2.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your exotic supplies intrigue the warriors.&lt;/b&gt; Their curiosity overtakes their anger and seeing how fascinated they are by the crew's maps, the sailors guess that the women might share their taste for exploration. Sadly, it appears too late to earn the warriors' trust and they depart looking cautiously over their shoulders. You must tend the sorry diplomat, for the bleed on his leg is severe.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20923</LineID>
+    </Text>
+  </Values>
+</Asset>

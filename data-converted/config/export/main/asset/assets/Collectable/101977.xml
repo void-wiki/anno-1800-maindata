@@ -1,0 +1,57 @@
+<Asset>
+  <Template>Collectable</Template>
+  <Values>
+    <Collectable>
+      <DestroyOnCollect>1</DestroyOnCollect>
+    </Collectable>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/units/castaway_prisoners/castaway_prisoner.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>101977</GUID>
+      <Name>CQO_BrightSandsRefugees</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier01.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Walking>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bright Sands Refugees</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25906</LineID>
+    </Text>
+    <Infolayer>
+      <DefaultInfoLayer>501212</DefaultInfoLayer>
+    </Infolayer>
+    <MinimapToken />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214110</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+  </Values>
+</Asset>

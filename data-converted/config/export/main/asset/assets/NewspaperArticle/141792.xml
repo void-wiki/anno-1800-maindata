@@ -1,0 +1,31 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141792</GUID>
+      <Name>Hostile Takeover Share Bought NPC From NPC</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14660</Headline>
+      <Subline>14661</Subline>
+      <Image>142159</Image>
+      <Category>HostileTakeover</Category>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

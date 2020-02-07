@@ -1,0 +1,35 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>114077</GUID>
+      <Name>arctic_ground</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/landscape/terrain/decals/arctic_ground/arctic_ground_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/landscape/terrain/decals/arctic_ground/arctic_ground_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/landscape/terrain/decals/arctic_ground/arctic_ground_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/landscape/terrain/decals/arctic_ground/arctic_ground_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/landscape/terrain/decals/arctic_ground/arctic_ground_05.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/landscape/terrain/decals/arctic_ground/arctic_ground_06.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

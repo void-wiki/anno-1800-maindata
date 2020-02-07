@@ -1,0 +1,66 @@
+<Asset>
+  <BaseAssetGUID>120</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>128</GUID>
+      <Name>PaMSy_Template_Queen</Name>
+    </Standard>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <ClickNPCShip>
+          <Reactions>
+            <Item>
+              <CooldownTime>600000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification>
+                    <NotificationTextGroupFemale>-445853968</NotificationTextGroupFemale>
+                  </CharacterNotification>
+                  <BaseNotification>
+                    <NotificationTextGroup>-1632291246</NotificationTextGroup>
+                    <NotificationPriority>500</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickNPCShip>
+        <BuyIslandShare>
+          <Reactions>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationText>18511</NotificationText>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </BuyIslandShare>
+        <SellIslandShare>
+          <Reactions>
+            <Item>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationText>10358</NotificationText>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </SellIslandShare>
+      </MessageTriggers>
+    </ParticipantMessages>
+  </Values>
+</Asset>

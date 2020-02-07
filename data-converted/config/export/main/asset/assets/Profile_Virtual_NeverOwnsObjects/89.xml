@@ -1,0 +1,42 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>89</GUID>
+      <Name>Investor</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier05.png</IconFilename>
+      <ID>InvestorProfile</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Investor</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3776</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/resident_tier05.png</ProfilePicture>
+      <Portrait>100509</Portrait>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>4083</InfoCornerDescription>
+      <ParticipantID>Resident_tier05</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_01.png</NotificationBackground>
+      <DefaultColor>Color8</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers />
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Resident_tier05</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>159</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

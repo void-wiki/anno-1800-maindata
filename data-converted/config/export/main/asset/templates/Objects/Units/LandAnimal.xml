@@ -1,0 +1,19 @@
+<Template>
+  <Name>LandAnimal</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Walking>
+      <CreatePathPlannerUnit>0</CreatePathPlannerUnit>
+    </Walking>
+    <DayNightReaction>
+      <UnitNightBehavior>AlwaysShow</UnitNightBehavior>
+    </DayNightReaction>
+  </Properties>
+</Template>

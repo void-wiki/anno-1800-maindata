@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800637</GUID>
+      <Name>A Grizzly Encounter 1.3.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The decision is unpopular.&lt;/b&gt; "Stubborn 'til the end," say those in the minority. But the greater part have things to say on the subject of dishonour. "Those brothers loved each other to the end," remarks one old sailor, "and what little love did we show for them..." </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5721</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>En route to drop.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33668</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245288</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116563</GUID>
+      <Name>AT_DLC03_Airship_ShipEnRoute_01</Name>
+    </Standard>
+  </Values>
+</Asset>

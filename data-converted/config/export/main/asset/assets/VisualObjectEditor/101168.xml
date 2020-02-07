@@ -1,0 +1,27 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>101168</GUID>
+      <Name>Impact Crater</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/impact_craters/impact_crater_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/effects/decals/damage_decals/crater_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/effects/decals/damage_decals/crater_01_plane.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/effects/decals/damage_decals/crater_02_plane.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

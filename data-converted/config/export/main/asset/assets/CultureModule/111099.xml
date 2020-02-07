@@ -1,0 +1,93 @@
+<Asset>
+  <Template>CultureModule</Template>
+  <Values>
+    <Standard>
+      <GUID>111099</GUID>
+      <Name>C03_M03_f_AmazonTree</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_botanic_garden_module.png</IconFilename>
+      <InfoDescription>111085</InfoDescription>
+    </Standard>
+    <Building>
+      <PickingAsset>111104</PickingAsset>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>500</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+      <InfluenceCostType>BotanicModule</InfluenceCostType>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_03/cultural_03_module_03_f/cultural_03_module_03_f.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <Colors>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Arboreal Space</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33180</LineID>
+    </Text>
+    <Constructable />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>209211</Sound>
+        </Item>
+        <Item>
+          <Sound>209210</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <BuildingModule>
+      <ModuleMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_rainforest_2.png</ModuleMoodImage>
+    </BuildingModule>
+    <ItemContainer>
+      <SocketAllocation>Culture;BotanicGarden</SocketAllocation>
+      <SocketSound>203866</SocketSound>
+      <UnsocketSound>9818755</UnsocketSound>
+    </ItemContainer>
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+      <SelfHealPerHealTick>4</SelfHealPerHealTick>
+    </Attackable>
+    <QuestObject />
+    <AmbientMoodProvider />
+  </Values>
+</Asset>

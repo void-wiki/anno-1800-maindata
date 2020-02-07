@@ -1,0 +1,19 @@
+<Asset>
+  <Template>WorldMapGlobe</Template>
+  <Values>
+    <Standard>
+      <GUID>100740</GUID>
+      <Name>WorldMapGlobe</Name>
+      <ID>WorldMapGlobe</ID>
+    </Standard>
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/3d_objects/world_map/world_map_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+  </Values>
+</Asset>

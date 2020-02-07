@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800364</GUID>
+      <Name>The Minefield 1.4.1.1.4</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistPreferAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is horrifying that most significant members of the crew&lt;/b&gt; are aboard this fragile dinghy. Of course one would not wish a mine to explode any loyal man, but when it bellows up below a collection of your finest, death stings all the more. The crew are understandably devastated at the destruction they have witnessed firsthand. Life feels as if it may never be the same again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5846</LineID>
+    </Text>
+  </Values>
+</Asset>

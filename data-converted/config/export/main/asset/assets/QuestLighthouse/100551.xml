@@ -1,0 +1,49 @@
+<Asset>
+  <Template>QuestLighthouse</Template>
+  <Values>
+    <Standard>
+      <GUID>100551</GUID>
+      <Name>HB QuestObject (Blake)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_02.png</IconFilename>
+      <InfoDescription>2676</InfoDescription>
+    </Standard>
+    <Building />
+    <Blocking />
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject_lighthouse.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection>
+      <Colors>
+        <SelectionColorType>PropertySelectionColor</SelectionColorType>
+        <SelectionColor>-337045</SelectionColor>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sir Archibald Blake's Lighthouse</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7033</LineID>
+    </Text>
+    <Cost />
+    <Infolayer />
+    <Maintenance />
+    <Locked />
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

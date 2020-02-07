@@ -1,0 +1,21 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>804110</GUID>
+      <Name>Map Event B</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Map Event B</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthAmerica</EventRegion>
+      <EventRarity>3</EventRarity>
+      <StartDecision>804111</StartDecision>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

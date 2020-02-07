@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802697</GUID>
+      <Name>The Runaway 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802698</Option>
+        </Item>
+        <Item>
+          <Option>802699</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The officials seem undaunted.&lt;/b&gt; "Oh, I think we should have little to fear from so ill-equipped a ship as yours, but from your hostility, it's clear you are hiding the man we seek." They signal back to their own vessel to ready arms. &lt;b&gt;"Now...think carefully, do you really refuse to give him up?"&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21633</LineID>
+    </Text>
+  </Values>
+</Asset>

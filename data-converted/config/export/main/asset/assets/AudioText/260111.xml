@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What a way for you to treat a guest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11445</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223627</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260111</GUID>
+      <Name>AT_visitor_NegFeedbackTo Player1</Name>
+    </Standard>
+  </Values>
+</Asset>

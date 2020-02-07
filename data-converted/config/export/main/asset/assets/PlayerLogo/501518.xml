@@ -1,0 +1,17 @@
+<Asset>
+  <Template>PlayerLogo</Template>
+  <Values>
+    <Standard>
+      <GUID>501518</GUID>
+      <Name>player_logo_reward_magnate</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_reward_magnate.png</IconFilename>
+    </Standard>
+    <PlayerLogo>
+      <DefaultLogo>data/ui/2kimages/main/profiles/playerlogos/large/player_logo_reward_magnate.png</DefaultLogo>
+      <MiniLogo>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_reward_magnate.png</MiniLogo>
+    </PlayerLogo>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

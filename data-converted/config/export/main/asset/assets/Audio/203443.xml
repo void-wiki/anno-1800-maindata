@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203443</GUID>
+      <Name>wwe_sfx_bld_service_colony01_01_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>203444</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2632646420</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

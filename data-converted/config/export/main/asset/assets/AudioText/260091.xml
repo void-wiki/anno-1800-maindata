@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You forget yourself sibling.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11009</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223072</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260091</GUID>
+      <Name>AT_advisor01_NegFeedbackToPlayer3</Name>
+    </Standard>
+  </Values>
+</Asset>

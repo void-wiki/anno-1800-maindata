@@ -1,0 +1,45 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192960</GUID>
+      <Name>Consumables - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192631</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192636</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192641</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192646</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192651</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192656</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192661</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192666</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192671</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192676</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

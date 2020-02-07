@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21423</GUID>
+      <Name>TreatyReaction Make NAP Dislike - f</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Participants ParticipantName([NotificationContext Value(SpeakingParticipant) Int])] dislikes your non-aggression pact with [Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29163</LineID>
+    </Text>
+  </Values>
+</Asset>

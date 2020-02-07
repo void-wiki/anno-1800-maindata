@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We didn't come here to be insulted, we came to strike a bargain. The demolitions man Thomas, we want him.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17320</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232726</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>10</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267151</GUID>
+      <Name>AT_Advisor02_movie12_02</Name>
+    </Standard>
+  </Values>
+</Asset>

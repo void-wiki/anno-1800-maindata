@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193826</GUID>
+      <Name>Third_party_11 (Inuit) Epic Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_7.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193792</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193797</ItemLink>
+          <Weight>4</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193782</ItemLink>
+          <Weight>7</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193787</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>115476</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115479</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115482</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

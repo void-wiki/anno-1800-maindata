@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There's human in you somewhere.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6137</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216579</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254841</GUID>
+      <Name>AT_ai04_NPCReputationAutocorrectIncrease2</Name>
+    </Standard>
+  </Values>
+</Asset>

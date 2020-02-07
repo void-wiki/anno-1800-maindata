@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800487</GUID>
+      <Name>Love Island 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226690</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The copper oracle reveals a little doubt in your crew's hearts.&lt;/b&gt; The king interprets that his children will only be happy if they remain on the island., and that some of your sailors are not in love, but merely infatuated. Still, you must lose the fine crew who have formed genuine bonds.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5607</LineID>
+    </Text>
+  </Values>
+</Asset>

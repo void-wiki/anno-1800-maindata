@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>214110</GUID>
+      <Name>wwe_sfx_aui_pickup_people</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>794</DurationMinimum>
+          <DurationMaximum>794</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>170</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>600687233</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803903</GUID>
+      <Name>Blizzard 1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>804147</InsertEvent>
+      <Conclusion>114638</Conclusion>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_blizzard.png</Sketch>
+        <SketchPosX>1196</SketchPosX>
+        <SketchPosY>210</SketchPosY>
+        <SketchSizeX>121</SketchSizeX>
+        <SketchSizeY>98</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The mainmast takes much of the brunt,&lt;/b&gt; whipped and contorted in every direction by the impassioned sails. When the storm and seizures finally end, &lt;b&gt;the carpenter tallies the cost of your inaction.&lt;/b&gt; "There's fissures in the mast. It may hold with enough resin, then again, maybe not..."    </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34873</LineID>
+    </Text>
+  </Values>
+</Asset>

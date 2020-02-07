@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What are you talking about, child? Only a talk between brothers, that's all.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17448</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233206</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>2</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267035</GUID>
+      <Name>AT_enemy01_movie09_01</Name>
+    </Standard>
+  </Values>
+</Asset>

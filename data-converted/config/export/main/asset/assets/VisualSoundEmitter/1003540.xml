@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualSoundEmitter</Template>
+  <Values>
+    <Standard>
+      <GUID>1003540</GUID>
+      <Name>Waterfall_Sound</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/water/waterfall_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/effects/water/waterfall_01_bttm.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+  </Values>
+</Asset>

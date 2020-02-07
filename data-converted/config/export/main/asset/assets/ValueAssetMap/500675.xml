@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>500675</GUID>
+      <Name>Satisfaction Icon Text Mapping</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-0.3</ValidFrom>
+          <Asset>500607</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-0.15</ValidFrom>
+          <Asset>500172</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-0.005</ValidFrom>
+          <Asset>500605</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.005</ValidFrom>
+          <Asset>500171</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.15</ValidFrom>
+          <Asset>500606</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

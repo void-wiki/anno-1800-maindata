@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>221309</GUID>
+      <Name>Play_AI_DRYKAHIN_IFV_D1I_00001_01KAHIN_8373</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1000</DurationMinimum>
+          <DurationMaximum>1000</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2015</DurationMinimum>
+          <DurationMaximum>2015</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>923</DurationMinimum>
+          <DurationMaximum>923</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1093</DurationMinimum>
+          <DurationMaximum>1093</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1903114007</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

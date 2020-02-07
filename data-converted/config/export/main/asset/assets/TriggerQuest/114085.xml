@@ -1,0 +1,82 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>114085</GUID>
+      <Name>Trigger End Metropolis line when build World Fair</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <Context>1010489</Context>
+            <CounterAmount>1</CounterAmount>
+            <CounterScope>Area</CounterScope>
+            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+            <CounterScopeContext>112140</CounterScopeContext>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>113293</Quest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>113294</Quest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>113296</Quest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>113297</Quest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>113298</Quest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

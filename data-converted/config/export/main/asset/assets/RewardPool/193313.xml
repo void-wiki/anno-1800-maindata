@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193313</GUID>
+      <Name>Edicts - Anarchist Doctrines - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>111003</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111019</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111033</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111039</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15292</GUID>
+      <Name>TQ_LowHappiness_Objective</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Raise [AssetData([Conditions QuestCondition Context]) Text]' Happiness [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22401</LineID>
+    </Text>
+  </Values>
+</Asset>

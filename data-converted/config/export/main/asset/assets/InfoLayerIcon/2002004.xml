@@ -1,0 +1,23 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>2002004</GUID>
+      <Name>OnscreenNegative</Name>
+      <ID>OnscreenNegative</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/building_downgrade_arrow_pt.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Satisfaction decreased</Text>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4248</LineID>
+    </Text>
+  </Values>
+</Asset>

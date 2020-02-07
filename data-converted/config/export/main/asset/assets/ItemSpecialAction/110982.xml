@@ -1,0 +1,58 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>110982</GUID>
+      <Name>Sea Mine Small</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_seamine_1.png</IconFilename>
+      <ID>ITEM_DM_0</ID>
+      <InfoDescription>110984</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>112048</Projectile>
+      <Mine>112048</Mine>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ItemAction>PLACE_MINE</ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>8</ActionDistance>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <Charges>5</Charges>
+      <ActiveBuff>112200</ActiveBuff>
+      <ActionDescription>22097</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>22500</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Naval Mine</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30902</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>235860</GUID>
+      <Name>wwe_sfx_com_torpedo_impact_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4775</DurationMinimum>
+          <DurationMaximum>8431</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>80</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>944887704</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

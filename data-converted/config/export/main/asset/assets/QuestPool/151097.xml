@@ -1,0 +1,126 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>151097</GUID>
+      <Name>FOQ_B.Jorgensen_Pool</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>1807446943</QuestGroup>
+        </Item>
+      </Groups>
+      <PoolCooldown>5400000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>32400000</QuestCooldown>
+      <QuestPoolActionCallbacks>
+        <OnQuestDiscarded>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <ActionList>
+              <Actions>
+                <Item>
+                  <Action>
+                    <Template>ActionDelayedActions</Template>
+                    <Values>
+                      <Action />
+                      <ActionDelayedActions>
+                        <ExecutionDelay>30000</ExecutionDelay>
+                        <DelayedActions>
+                          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                          <Values>
+                            <ActionList>
+                              <Actions>
+                                <Item>
+                                  <Action>
+                                    <Template>ActionDeleteObjects</Template>
+                                    <Values>
+                                      <Action />
+                                      <ActionDeleteObjects />
+                                      <ObjectFilter>
+                                        <ObjectGUID>102577</ObjectGUID>
+                                      </ObjectFilter>
+                                    </Values>
+                                  </Action>
+                                </Item>
+                              </Actions>
+                            </ActionList>
+                          </Values>
+                        </DelayedActions>
+                      </ActionDelayedActions>
+                    </Values>
+                  </Action>
+                </Item>
+              </Actions>
+            </ActionList>
+          </Values>
+        </OnQuestDiscarded>
+      </QuestPoolActionCallbacks>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionIsDiscovered</Template>
+        <Values>
+          <Condition />
+          <ParticipantRelation>
+            <SourceIsOwner>1</SourceIsOwner>
+            <TargetParticipant>Second_ai_01_Jorgensen</TargetParticipant>
+          </ParticipantRelation>
+          <ConditionIsDiscovered />
+          <ConditionPropsNegatable />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <Context>100549</Context>
+                      <CounterAmount>1</CounterAmount>
+                      <CounterScope>Session</CounterScope>
+                      <CounterScopeKeepFirstFound>0</CounterScopeKeepFirstFound>
+                      <CheckSpecificParticipant>1</CheckSpecificParticipant>
+                      <CheckedParticipant>Second_ai_01_Jorgensen</CheckedParticipant>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionDiplomaticState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionDiplomaticState>
+                      <SourceIsQuestOwner2>1</SourceIsQuestOwner2>
+                      <TargetParticipant2>Second_ai_01_Jorgensen</TargetParticipant2>
+                    </ConditionDiplomaticState>
+                    <ConditionPropsNegatable>
+                      <NegateCondition>1</NegateCondition>
+                    </ConditionPropsNegatable>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+  </Values>
+</Asset>

@@ -1,0 +1,27 @@
+<Template>
+  <Name>HarborWarehouseSlot7</Name>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object>
+      <Type>EditorObject</Type>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <DistributionCenterMarker />
+    <Selection>
+      <GUIType>SlotGhost</GUIType>
+    </Selection>
+    <Text />
+    <QuestObject />
+    <MinimapToken>
+      <TokenAsset>2002338</TokenAsset>
+    </MinimapToken>
+    <Blocking />
+    <SoundEmitter />
+    <Constructable />
+    <Building>
+      <Destructable>0</Destructable>
+      <TerrainType>Coast</TerrainType>
+    </Building>
+  </Properties>
+</Template>

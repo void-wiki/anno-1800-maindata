@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You know, I almost smiled. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10500</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223008</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253302</GUID>
+      <Name>AT_ai04_GenPositiveFeedback1</Name>
+    </Standard>
+  </Values>
+</Asset>

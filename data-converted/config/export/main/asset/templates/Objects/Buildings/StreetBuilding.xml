@@ -1,0 +1,52 @@
+<Template>
+  <Name>StreetBuilding</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Blocking />
+    <Building />
+    <Cost />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <Locked />
+    <Street />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>200140</Sound>
+        </Item>
+      </DestroySounds>
+      <ConstructionSounds>
+        <BuildSuccessful>
+          <Item>
+            <Sound>200140</Sound>
+          </Item>
+        </BuildSuccessful>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>203995</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <QuestObject />
+  </Properties>
+</Template>

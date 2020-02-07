@@ -1,0 +1,44 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269006</GUID>
+      <Name>Pool_editor_WarDeclaredOnPlayer</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>260497</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260537</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260539</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253628</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260324</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260325</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260495</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801705</GUID>
+      <Name>The Chasing 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801706</Option>
+        </Item>
+        <Item>
+          <Option>801709</Option>
+        </Item>
+      </Options>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The lookout loses them.&lt;/b&gt; Complacency sets in, when at first you appear to be catching them, but upon rounding a cape, you find they have vanished! Bright white settlements cluster the sound like a fairy circle, it seems they could have docked in any of them. "We have lost them!" a skeptic pipes up, "so what now?! Stick a pin in the map?! Solicit a friendly local power for help?!!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21135</LineID>
+    </Text>
+  </Values>
+</Asset>

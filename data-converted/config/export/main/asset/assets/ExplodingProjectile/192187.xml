@@ -1,0 +1,46 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>192187</GUID>
+      <Name>TorpedoProjectile_A</Name>
+    </Standard>
+    <Projectile>
+      <ShotHeight>0.5</ShotHeight>
+      <ProjectileSpeed>1.5</ProjectileSpeed>
+      <DamageType>Torpedo</DamageType>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_torpedo_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>2</InnerDamageRadius>
+      <InnerDamage>1500</InnerDamage>
+      <DebrisForceY>0</DebrisForceY>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>4</OuterDamageRadius>
+      <MinimumDamage>500</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>235861</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235860</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident />
+  </Values>
+</Asset>

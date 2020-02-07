@@ -1,0 +1,50 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102649</GUID>
+      <Name>QO Wreckage - Bente A Glorious Discovery 1 + 2A</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+      <InfoDescription>1082</InfoDescription>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/wreckage/wreckage_03.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <DefaultParticipant>Captain</DefaultParticipant>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wreckage of Bente's Expedition Ship</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29486</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <Collectable />
+    <FeedbackController />
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Template>
+  <Name>FeedbackVehiclePatrol</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection>
+      <GUIType>Vehicle</GUIType>
+    </Selection>
+    <Walking>
+      <DiscoverRadius>10</DiscoverRadius>
+    </Walking>
+    <Text />
+    <CommandQueue>
+      <CommandChainLength>1</CommandChainLength>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting />
+    <SoundEmitter />
+  </Properties>
+</Template>

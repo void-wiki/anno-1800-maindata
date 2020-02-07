@@ -1,0 +1,29 @@
+<Asset>
+  <BaseAssetGUID>101008</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>113478</GUID>
+      <Name>Quay System Colony03 Invisible</Name>
+    </Standard>
+    <Cost />
+    <Street>
+      <CfgFileName>data/dlc03/graphics/buildings/special/quay_system_colony03_01/props_no_fence/quay_system_colony03_01_no_fence.cfg</CfgFileName>
+      <InternalID>39</InternalID>
+    </Street>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+    </SoundEmitter>
+    <Text>
+      <LineID>32908</LineID>
+    </Text>
+    <Building />
+  </Values>
+</Asset>

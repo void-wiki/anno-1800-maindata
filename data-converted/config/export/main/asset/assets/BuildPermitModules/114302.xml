@@ -1,0 +1,61 @@
+<Asset>
+  <Template>BuildPermitModules</Template>
+  <Values>
+    <Standard>
+      <GUID>114302</GUID>
+      <Name>labyrinth</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/icon_botanica_labybrinth.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hedge Maze</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33192</LineID>
+    </Text>
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+      <DeletePropsRadius>0</DeletePropsRadius>
+    </Blocking>
+    <Building>
+      <BuildingCategoryName>22392</BuildingCategoryName>
+      <PickingAsset>114302</PickingAsset>
+      <BuildModeRandomRotation>180</BuildModeRandomRotation>
+    </Building>
+    <Cost />
+    <Selection />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc02/graphics/buildings/cultural/cultural_03/cultural_03_module_04/cultural_03_module_04_a/cultural_03_module_04_a.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable>
+      <ConstructionMode>ConstructionItem</ConstructionMode>
+    </Constructable>
+    <Mesh />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>209211</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+    <FeedbackController />
+    <Ornament>
+      <OrnamentUnit>20</OrnamentUnit>
+      <OrnamentDescritpion>114594</OrnamentDescritpion>
+    </Ornament>
+    <AmbientMoodProvider />
+    <Pausable />
+    <BuildPermit />
+    <BuildingModule />
+  </Values>
+</Asset>

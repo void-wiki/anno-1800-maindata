@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You make things extraordinarily inconvenient!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11449</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223631</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260115</GUID>
+      <Name>AT_visitor_NegFeedbackTo Player1</Name>
+    </Standard>
+  </Values>
+</Asset>

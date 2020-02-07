@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21464</GUID>
+      <Name>VisitorSpawnProbabilityFormat</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_add_slot_guild.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>+[ItemAssetData([RefGuid]) SpecialistSpawnProbabilityIfPercent]%</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29218</LineID>
+    </Text>
+  </Values>
+</Asset>

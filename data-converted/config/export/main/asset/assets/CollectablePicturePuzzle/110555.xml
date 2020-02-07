@@ -1,0 +1,55 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>110555</GUID>
+      <Name>CQO_Pyro_Unit_NoPickup</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_pyrphorian.png</IconFilename>
+    </Standard>
+    <Collectable>
+      <DestroyOnCollect>0</DestroyOnCollect>
+      <CollectOnSelection>0</CollectOnSelection>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/units/pyrphorian_arsonist/pyrphorian_arsonist_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>-na-</Text>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214110</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Trailer />
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+      <DeletePropsRadius>0</DeletePropsRadius>
+    </Blocking>
+  </Values>
+</Asset>

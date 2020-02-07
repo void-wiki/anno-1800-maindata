@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ThirdpartyFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>102870</GUID>
+      <Name>colony_3rdparty05_01_fb_13_vendor_random</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/colony01_3rdparty05_01/colony01_3rdparty05_01_fb_13/colony01_3rdparty05_01_fb_13.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_feedback/colony01_3rdparty05_01/colony01_3rdparty05_01_fb_13_at/colony01_3rdparty05_01_fb_13_at.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FeedbackController>
+      <NightBehavior>HideAll</NightBehavior>
+    </FeedbackController>
+  </Values>
+</Asset>

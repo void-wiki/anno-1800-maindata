@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Paint slowly weeps from the face of trust.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6061</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216663</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254822</GUID>
+      <Name>AT_ai02_NPCReputationAutocorrectDecrease7</Name>
+    </Standard>
+  </Values>
+</Asset>

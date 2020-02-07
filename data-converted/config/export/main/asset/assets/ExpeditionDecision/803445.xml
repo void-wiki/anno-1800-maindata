@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803445</GUID>
+      <Name>The Tour 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803446</Option>
+        </Item>
+        <Item>
+          <Option>803449</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You can't imagine where she could have stayed in this town,&lt;/b&gt; pretty as it may be. You leave and take the road south, stopping beside an orchard to rest. Your knowledge of local dialect is passable enough to overhear fruit-pickers talking about a recent and distinguished visitor. &lt;b&gt;Curious, you ask them if they are referring to your Queen, at which they fall silent.&lt;/b&gt; It seems they must have sworn to secrecy.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32473</LineID>
+    </Text>
+  </Values>
+</Asset>

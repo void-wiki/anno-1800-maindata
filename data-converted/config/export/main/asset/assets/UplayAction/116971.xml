@@ -1,0 +1,81 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>116971</GUID>
+      <Name>DLC03 Achievement05</Name>
+      <ID>DLC03Achievement05</ID>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DLC03</AchievementCategory>
+      <AchievementTitle>116959</AchievementTitle>
+      <AchievementDescription>116965</AchievementDescription>
+      <AchievementUPlayID>124</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>112643</Context>
+            <CounterAmount>500</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationSatisfactionByGood</PlayerCounter>
+                      <Context>112708</Context>
+                      <ComparisonOp>Equals</ComparisonOp>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+                <SubTriggers>
+                  <Item>
+                    <SubTrigger>
+                      <Template>AutoCreateTrigger</Template>
+                      <Values>
+                        <Trigger>
+                          <TriggerCondition>
+                            <Template>ConditionTimer</Template>
+                            <Values>
+                              <Condition />
+                              <ConditionTimer>
+                                <TimeLimit>3600000</TimeLimit>
+                              </ConditionTimer>
+                            </Values>
+                          </TriggerCondition>
+                        </Trigger>
+                      </Values>
+                    </SubTrigger>
+                  </Item>
+                </SubTriggers>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>31</UplayActionID>
+      <UplayXP>500</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

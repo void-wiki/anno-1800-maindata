@@ -1,0 +1,49 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/princessqing.portraitcamleft</CamFile>
+        </Left>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/princessqing.portraitcamleft</CamFile>
+        </VideoLeft>
+        <ProfileCreation>
+          <CamFile>data/config/portraitcam/creategame_xing.portraitcam</CamFile>
+        </ProfileCreation>
+        <CreateGame>
+          <CamFile>data/config/portraitcam/creategame_xing.portraitcam</CamFile>
+        </CreateGame>
+        <ProfileSelection>
+          <CamFile>data/config/portraitcam/creategame_xing.portraitcam</CamFile>
+        </ProfileSelection>
+        <QuestBook>
+          <CamFile>data/config/portraitcam/princessqingquestbook.portraitcam</CamFile>
+        </QuestBook>
+        <ActiveTrade>
+          <CamFile>data/config/portraitcam/activetrade_default.portraitcam</CamFile>
+        </ActiveTrade>
+      </PortraitCameraAmbientConfig>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>100663</GUID>
+      <Name>ai_02 (Princess Qing)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_02.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/ai_02/ai_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

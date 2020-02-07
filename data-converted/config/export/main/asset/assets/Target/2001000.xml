@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>WALK</ActionID>
+      <PositionCheck>Always</PositionCheck>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer;CheckProperty</Flags>
+          <Property>Walking</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>Never</Flags>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Never</Flags>
+        </DisableMatch1>
+      </Matches>
+      <MouseCursorTarget>2001038</MouseCursorTarget>
+      <MouseCursorDisable>2001202</MouseCursorDisable>
+      <MouseCursorMode>2001038</MouseCursorMode>
+      <MouseCursorPosition>501558</MouseCursorPosition>
+      <MouseCursorPositionDisable>2001202</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>2001000</GUID>
+      <Name>Walk</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

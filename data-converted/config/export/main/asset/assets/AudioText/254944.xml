@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It's important to keep up appearances.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6287</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216395</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254944</GUID>
+      <Name>AT_ai06_NPCReputationAutocorrectIncrease6</Name>
+    </Standard>
+  </Values>
+</Asset>

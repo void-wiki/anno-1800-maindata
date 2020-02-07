@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802276</GUID>
+      <Name>Songs Under the Sea 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802277</Option>
+        </Item>
+        <Item>
+          <Option>802280</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Not one, but a dozen strange sea creatures answer the spirited shanty,&lt;/b&gt; swimming and leaping joyfully alongside your vessel. Since they seem like no creature you have ever seen, it might be an opportunity to catch a specimen for the benefit of natural science...</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20816</LineID>
+    </Text>
+  </Values>
+</Asset>

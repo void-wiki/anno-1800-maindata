@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802213</GUID>
+      <Name>The Amazons 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Firing a few shots skyward is enough.&lt;/b&gt; The warriors have only shields and jagged lances, coming as they do, from some nobler age. Yet the way they fearfully scurry away suggests they are no strangers to firearms. It feels like an opportunity missed to know them better. All that is left is to tend the sorry diplomat, whose leg has a very severe bleed. </Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20919</LineID>
+    </Text>
+  </Values>
+</Asset>

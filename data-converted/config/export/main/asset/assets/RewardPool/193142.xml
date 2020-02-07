@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193142</GUID>
+      <Name>Culture - Museum Item - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190552</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190480</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190475</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190493</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190470</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

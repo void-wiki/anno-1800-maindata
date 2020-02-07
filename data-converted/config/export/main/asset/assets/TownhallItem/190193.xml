@@ -1,0 +1,128 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190193</GUID>
+      <Name>Saint D'Artois, Vision of the Valley</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/icon_priest_legendary.png</IconFilename>
+      <InfoDescription>3470</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Saint D'Artois, Vision of the Valley</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15278</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>945000</TradePrice>
+      <Flotsam>100554</Flotsam>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <ResidentsUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </ResidentsUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010200</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010213</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010217</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010353</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>120032</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010208</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>120016</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010225</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010258</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>120033</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ItemAction>
+      <ActionScope>Target</ActionScope>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>30</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkHypnotist</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>3470</FluffText>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentIllnessIncreaseUpgrade>
+        <Value>-5</Value>
+      </IncidentIllnessIncreaseUpgrade>
+      <IncidentRiotIncreaseUpgrade>
+        <Value>-5</Value>
+      </IncidentRiotIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

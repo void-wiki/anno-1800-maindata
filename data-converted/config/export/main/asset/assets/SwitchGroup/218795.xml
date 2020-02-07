@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>218795</GUID>
+      <Name>MS1_env_moo_potato_field</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>244814</Choice>
+        </Item>
+        <Item>
+          <Choice>244815</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>579040287</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

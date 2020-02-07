@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>191129</GUID>
+      <Name>prehistorical</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_museum_neanderthaler.png</IconFilename>
+      <InfoDescription>15372</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <SetBuff>191147</SetBuff>
+      <BuffScope>Area</BuffScope>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>ORIGIN OF MANKIND</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21963</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

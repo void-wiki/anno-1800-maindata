@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>No, only in 2D! They went and splurged the entire emergency budget on sausages for the Anno Union.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16782</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232936</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_04</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266416</GUID>
+      <Name>AT_ai01_Credits02</Name>
+    </Standard>
+  </Values>
+</Asset>

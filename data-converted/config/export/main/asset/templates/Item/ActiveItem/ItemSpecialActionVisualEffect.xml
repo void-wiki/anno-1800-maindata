@@ -1,0 +1,19 @@
+<Template>
+  <Name>ItemSpecialActionVisualEffect</Name>
+  <Properties>
+    <Standard />
+    <SpecialAction />
+    <ItemEffect />
+    <ItemAction>
+      <ItemAction>NUKE</ItemAction>
+      <ActionScope>TargetRadius</ActionScope>
+    </ItemAction>
+    <Item />
+    <Text />
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+    <Locked />
+    <VisualEffectWhenActive />
+  </Properties>
+</Template>

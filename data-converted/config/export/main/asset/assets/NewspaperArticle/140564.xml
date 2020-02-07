@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140564</GUID>
+      <Name>Flying Machine</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>2687</Headline>
+      <Subline>2688</Subline>
+      <Image>142298</Image>
+      <Category>Filler</Category>
+      <NewsPriority>
+        <StartValue>0</StartValue>
+        <LossOnPublish>500</LossOnPublish>
+        <Minimum>-1000</Minimum>
+      </NewsPriority>
+      <ArticleType>Filler</ArticleType>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

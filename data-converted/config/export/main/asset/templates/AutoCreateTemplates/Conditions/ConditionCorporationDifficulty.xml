@@ -1,0 +1,18 @@
+<Template>
+  <Name>ConditionCorporationDifficulty</Name>
+  <Properties>
+    <Condition />
+    <ConditionCorporationDifficulty>
+      <Difficulty>Easy;Normal;Hard;Classic</Difficulty>
+      <DifficultyConstructionCostRefund>Full;Half;None;PayCredits</DifficultyConstructionCostRefund>
+      <DifficultyLossCondition>BailoutWithSlowLiquidation;BailoutWithFastLiquidation;Bankrupt</DifficultyLossCondition>
+      <DifficultyOptionalQuestFrequency>Often;Normal;Rare</DifficultyOptionalQuestFrequency>
+      <DifficultyOptionalQuestRewards>Plenty;Medium;Spare;PennyPinching</DifficultyOptionalQuestRewards>
+      <DifficultyRelocateBuildings>On;Off;PayCredits</DifficultyRelocateBuildings>
+      <DifficultyRevenue>Plenty;Medium;Spare</DifficultyRevenue>
+      <DifficultyStartCredits>Plenty;Medium;Spare</DifficultyStartCredits>
+      <DifficultyStartShips>None;OneShip;TradeFleet;WarFleet</DifficultyStartShips>
+      <DifficultyStartWithKontor>Off;Standard;Full</DifficultyStartWithKontor>
+    </ConditionCorporationDifficulty>
+  </Properties>
+</Template>

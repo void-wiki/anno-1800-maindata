@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140965</GUID>
+      <Name>BankAccountNegativePast</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11203</Headline>
+      <Subline>11204</Subline>
+      <Image>142236</Image>
+      <Category>Economy</Category>
+      <NewsPriority>
+        <StartValue>300</StartValue>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

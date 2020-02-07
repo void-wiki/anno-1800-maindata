@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>140086</GUID>
+      <Name>CityPanorama</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_small_04.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_medium_04.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_big_04.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets/newspaper_article_bg/article_big_04.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A majestic line-of-battle-ship ready to fly the flag!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19916</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>237912</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268681</GUID>
+      <Name>AT_MurmurFemale4_Liner_ShipBuilt01</Name>
+    </Standard>
+  </Values>
+</Asset>

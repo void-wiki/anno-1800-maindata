@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802418</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An officer drowns in a sweat-filled bath.&lt;/b&gt; Punches are thrown in every direction, and no-one sees him hit his head. The thugs hold up their hands, "we never thought it would come to this," they say, when it is discovered he is dead. There is a sombre mood as he is carried back aboard ship, and the others have to explain how he came to such a bizarre end.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20871</LineID>
+    </Text>
+  </Values>
+</Asset>

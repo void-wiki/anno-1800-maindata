@@ -1,0 +1,50 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>141016</GUID>
+      <Name>FarmCompoundScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingCompactness</Template>
+            <Values>
+              <RatingCompactness />
+            </Values>
+          </Rating>
+          <RelativeWeight>0.45</RelativeWeight>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingNeighborTiles</Template>
+            <Values>
+              <RatingNeighborTiles>
+                <NeighborCategories>
+                  <Streets>
+                    <Score>0.5</Score>
+                  </Streets>
+                  <Buildings>
+                    <Score>1</Score>
+                  </Buildings>
+                </NeighborCategories>
+              </RatingNeighborTiles>
+            </Values>
+          </Rating>
+          <RelativeWeight>0.45</RelativeWeight>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingProductionChainProximity</Template>
+            <Values>
+              <RatingProductionChainProximity />
+            </Values>
+          </Rating>
+          <RelativeWeight>0.1</RelativeWeight>
+          <DiscardThresholdScore>0.1</DiscardThresholdScore>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

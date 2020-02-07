@@ -1,0 +1,164 @@
+<Asset>
+  <Template>Quest</Template>
+  <Values>
+    <Standard>
+      <GUID>151826</GUID>
+      <Name>RQ_Worker_HeighOh3</Name>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <InvitationMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </InvitationMessage>
+      <OnQuestSucceeded>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionStartQuest</Template>
+                  <Values>
+                    <Action />
+                    <ActionStartQuest>
+                      <Quest>151837</Quest>
+                    </ActionStartQuest>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnQuestSucceeded>
+      <OnQuestEnd>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionEndQuest</Template>
+                  <Values>
+                    <Action />
+                    <ActionEndQuest>
+                      <Quest>151830</Quest>
+                      <WinQuest>1</WinQuest>
+                    </ActionEndQuest>
+                  </Values>
+                </Action>
+              </Item>
+              <Item>
+                <Action>
+                  <Template>ActionStartQuest</Template>
+                  <Values>
+                    <Action />
+                    <ActionStartQuest>
+                      <Quest>151831</Quest>
+                    </ActionStartQuest>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnQuestEnd>
+      <QuestGiver>30</QuestGiver>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <IsAbortable>1</IsAbortable>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Matchmaker(TBC - Quest not yet written)</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <Reward>
+      <RewardAssets />
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>PicturePuzzleObjective</Template>
+            <Values>
+              <ConditionQuestPicturePuzzle>
+                <PicturePuzzleObjects>
+                  <Item>
+                    <Object>101649</Object>
+                    <Amount>1</Amount>
+                    <Context>
+                      <SpawnArea>
+                        <Template>QuestSpawnArea</Template>
+                        <Values>
+                          <SpawnArea>
+                            <SpawnContext>Object</SpawnContext>
+                            <MatcherGUID>150932</MatcherGUID>
+                            <LimitToQuestArea>1</LimitToQuestArea>
+                            <DistanceToContext>5</DistanceToContext>
+                          </SpawnArea>
+                        </Values>
+                      </SpawnArea>
+                    </Context>
+                  </Item>
+                </PicturePuzzleObjects>
+              </ConditionQuestPicturePuzzle>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <TextCombinedContextValue>13009</TextCombinedContextValue>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectPrebuiltObject</Template>
+              <Values>
+                <ConditionObjectPrebuiltObject>
+                  <PrebuiltObject>101594</PrebuiltObject>
+                </ConditionObjectPrebuiltObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective>
+            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+          </ConditionQuestObjective>
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

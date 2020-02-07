@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Profile_3rdParty_NoDiplomacy_NoTrader</Template>
+  <Values>
+    <Standard>
+      <GUID>178</GUID>
+      <Name>campaign_character09_cousin_male</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_09.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cousin</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13093</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/campaign_portrait_09.png</ProfilePicture>
+      <Portrait>101307</Portrait>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <ParticipantID>Campaign_character_09_cousin_male</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <DefaultColor>Color11</DefaultColor>
+      <CreateModeMeta>AutoCreate_OnlyCampaign</CreateModeMeta>
+      <CreateModeSession>AutoCreate_OnlyCampaign</CreateModeSession>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Campaign_character_09_cousin_male</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>185</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <ThirdParty />
+    <Locked />
+  </Values>
+</Asset>

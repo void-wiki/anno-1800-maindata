@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I understand...</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4021</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236211</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253632</GUID>
+      <Name>AT_Reporter_NegativeFeedbackToPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>25000227</GUID>
+      <Name>Need Supply Text Mapping</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <Asset>100387</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1</ValidFrom>
+          <Asset>100386</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>25</ValidFrom>
+          <Asset>2636</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>50</ValidFrom>
+          <Asset>100385</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>75</ValidFrom>
+          <Asset>100384</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>100</ValidFrom>
+          <Asset>100383</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

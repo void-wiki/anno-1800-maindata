@@ -1,0 +1,75 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117260</GUID>
+      <Name>LostCargo_QuestVariationPool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_crates.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>1248761844</QuestGroup>
+        </Item>
+      </Groups>
+      <IsTopLevel>1</IsTopLevel>
+      <PoolCooldown>5400000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>21600000</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>MutuallyExclusive</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionPlayerCounter>
+            <Context>114166</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>116876</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionIsMultiplayer</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionIsMultiplayer />
+                    <ConditionPropsNegatable />
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+  </Values>
+</Asset>

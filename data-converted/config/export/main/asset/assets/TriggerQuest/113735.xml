@@ -1,0 +1,104 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>113735</GUID>
+      <Name>After Scanning the Seas Trigger Vasco Fleet Move</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>113661</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>30000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionMoveObject</Template>
+                            <Values>
+                              <Action />
+                              <ObjectFilter>
+                                <ObjectGUID>111881</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Third_party_09_Vasco_Silva</ObjectParticipantID>
+                              </ObjectFilter>
+                              <ObjectTargetFilter>
+                                <TargetLabel>SL202_StrandedSailors_Marker1</TargetLabel>
+                                <TargetGUID>113726</TargetGUID>
+                              </ObjectTargetFilter>
+                              <ActionMoveObject>
+                                <IgnoreEveryDistractionDuringMove>1</IgnoreEveryDistractionDuringMove>
+                              </ActionMoveObject>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionMoveObject</Template>
+                            <Values>
+                              <Action />
+                              <ObjectFilter>
+                                <ObjectGUID>112084</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Third_party_09_Vasco_Silva</ObjectParticipantID>
+                              </ObjectFilter>
+                              <ObjectTargetFilter>
+                                <TargetLabel>SL202_StrandedSailors_Marker2</TargetLabel>
+                                <TargetGUID>113727</TargetGUID>
+                              </ObjectTargetFilter>
+                              <ActionMoveObject>
+                                <IgnoreEveryDistractionDuringMove>1</IgnoreEveryDistractionDuringMove>
+                              </ActionMoveObject>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionMoveObject</Template>
+                            <Values>
+                              <Action />
+                              <ObjectFilter>
+                                <ObjectGUID>100441</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Third_party_09_Vasco_Silva</ObjectParticipantID>
+                              </ObjectFilter>
+                              <ObjectTargetFilter>
+                                <TargetLabel>SL202_StrandedSailors_Marker3</TargetLabel>
+                                <TargetGUID>113728</TargetGUID>
+                              </ObjectTargetFilter>
+                              <ActionMoveObject>
+                                <IgnoreEveryDistractionDuringMove>1</IgnoreEveryDistractionDuringMove>
+                              </ActionMoveObject>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191052</GUID>
+      <Name>brown bear</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_brown_bear.png</IconFilename>
+      <InfoDescription>13694</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Brown Bear</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26445</LineID>
+    </Text>
+    <Item>
+      <Rarity>Uncommon</Rarity>
+      <ItemSet>191115</ItemSet>
+      <TradePrice>24800</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100814</ChangeModule>
+      <ForcedFeedbackVariation>1000132</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>20</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203437</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>Arctic;NorthernEurope;NorthAmerica;SouthernEurope;NorthernNorthAmerica;CentralEurope</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>14087</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

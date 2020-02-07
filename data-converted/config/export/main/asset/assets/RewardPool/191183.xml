@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191183</GUID>
+      <Name>Dinosaurs L</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190502</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190504</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190505</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114794</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

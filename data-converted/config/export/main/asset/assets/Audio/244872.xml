@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>244872</GUID>
+      <Name>wwe_sfx_veh_airship_destroy</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3722</DurationMinimum>
+          <DurationMaximum>4541</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>40</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>655167008</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

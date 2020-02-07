@@ -1,0 +1,42 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800281</GUID>
+      <Name>The Predator 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bait the creature</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5663</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800286</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <ItemOrProduct>1010193</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>1010199</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>1010217</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>1010238</ItemOrProduct>
+        </Item>
+      </Requirements>
+      <ConsumeRequirement>1</ConsumeRequirement>
+      <IsFavorableOption>1</IsFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

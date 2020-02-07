@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802501</GUID>
+      <Name>The Storm 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Riding the wild wind isn't dangerous enough for your crew.&lt;/b&gt; In a display of utter complete control over the ship, they pull it to ride an invisible corridor of safe passage among the waves. What gale should have torn the sails apart fills them and makes the sailboat dance with a majesty at least as grand as the storm itself. Instead of leaving the tempest, the crew rides it until it calms down on its own, exhausted from carrying its new masters.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21786</LineID>
+    </Text>
+  </Values>
+</Asset>

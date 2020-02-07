@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Eugh! Get your dirty pox away from me!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7474</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217992</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255968</GUID>
+      <Name>AT_ai01_DiseaseStarts1</Name>
+    </Standard>
+  </Values>
+</Asset>

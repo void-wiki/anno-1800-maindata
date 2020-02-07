@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801102</GUID>
+      <Name>The Arid Basin 1.3.2.3.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801065</Option>
+        </Item>
+        <Item>
+          <Option>801066</Option>
+        </Item>
+        <Item>
+          <Option>801068</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Escape is more panic than anything else&lt;/b&gt;, the crew are spooked! Lurching through the water with hippos at their backs is not something they are lining up to try again, you will have to try something else...</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16110</LineID>
+    </Text>
+  </Values>
+</Asset>

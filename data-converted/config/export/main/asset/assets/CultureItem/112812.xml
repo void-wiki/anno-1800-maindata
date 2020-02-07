@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112812</GUID>
+      <Name>black swallower</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_blackswallower.png</IconFilename>
+      <InfoDescription>112831</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Black Swallower</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32292</LineID>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <ItemSet>193401</ItemSet>
+      <TradePrice>214000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>113764</ChangeModule>
+      <ForcedFeedbackVariation>113777</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>112831</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

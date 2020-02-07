@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Honour our agreement, drive back these scoundrels!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1868</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229755</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250656</GUID>
+      <Name>AT_ai07_NpcInvokesAlliance1</Name>
+    </Standard>
+  </Values>
+</Asset>

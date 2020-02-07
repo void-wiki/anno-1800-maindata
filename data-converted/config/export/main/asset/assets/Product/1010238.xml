@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010238</GUID>
+      <Name>sausage</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_meat_sausage.png</IconFilename>
+      <InfoDescription>11755</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sausages</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5358</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11704</ProductCategory>
+      <BasePrice>48</BasePrice>
+      <CivLevel>2</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>20</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

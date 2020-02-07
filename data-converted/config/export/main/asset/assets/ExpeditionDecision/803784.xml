@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803784</GUID>
+      <Name>The snake bite 1.1.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803785</Option>
+        </Item>
+        <Item>
+          <Option>803793</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The detective finds nothing of substance but an element makes him suspicious. A half empty bottle labeled banana liquor smells nothing like it. </Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

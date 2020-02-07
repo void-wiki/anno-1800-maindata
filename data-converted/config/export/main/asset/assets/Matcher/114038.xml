@@ -1,0 +1,61 @@
+<Asset>
+  <Template>Matcher</Template>
+  <Values>
+    <Standard>
+      <GUID>114038</GUID>
+      <Name>Matcher kontor crown falls</Name>
+    </Standard>
+    <Matcher>
+      <Criterion>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <MatcherCriterion />
+          <MatcherCriterionAnd>
+            <CriterionOperandListAnd>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>0</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>MatcherCriterionAnd</TemplateName>
+                      <Index>0</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <CriterionOperand>
+                  <Template>MatcherCriterionProperty</Template>
+                  <Values>
+                    <MatcherCriterion />
+                    <MatcherCriterionProperty>
+                      <MatchedProperty>DistributionCenter</MatchedProperty>
+                    </MatcherCriterionProperty>
+                  </Values>
+                </CriterionOperand>
+              </Item>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>1</InheritedIndex>
+                  <InheritanceMapV2>
+                    <Entry>
+                      <TemplateName>MatcherCriterionAnd</TemplateName>
+                      <Index>1</Index>
+                    </Entry>
+                  </InheritanceMapV2>
+                </VectorElement>
+                <CriterionOperand>
+                  <Template>MatcherCriterionIsland</Template>
+                  <Values>
+                    <MatcherCriterion />
+                    <MatcherCriterionIsland>
+                      <IslandToMatch>112140</IslandToMatch>
+                    </MatcherCriterionIsland>
+                  </Values>
+                </CriterionOperand>
+              </Item>
+            </CriterionOperandListAnd>
+          </MatcherCriterionAnd>
+        </Values>
+      </Criterion>
+    </Matcher>
+  </Values>
+</Asset>

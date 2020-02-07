@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This rock's for the worst of the worst, you'll not find a goodly soul upon it! </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12320</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229827</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261031</GUID>
+      <Name>AT_3rdParty07_IdleMessageSelf1</Name>
+    </Standard>
+  </Values>
+</Asset>

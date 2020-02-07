@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203357</GUID>
+      <Name>wwc_sfx_anm_zoo_leopard</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>203358</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3423809806</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

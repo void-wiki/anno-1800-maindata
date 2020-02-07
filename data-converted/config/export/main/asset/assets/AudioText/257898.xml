@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We have reached capacity.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9171</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220907</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257898</GUID>
+      <Name>AT_res_tier04_ProductionFullOutputStorage2</Name>
+    </Standard>
+  </Values>
+</Asset>

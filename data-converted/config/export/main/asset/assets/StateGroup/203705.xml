@@ -1,0 +1,26 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>203705</GUID>
+      <Name>ST_mus_end_type</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>412044497</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>203683</Choice>
+        </Item>
+        <Item>
+          <Choice>203684</Choice>
+        </Item>
+        <Item>
+          <Choice>203685</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Airship embarking on expedition!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33671</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245300</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116566</GUID>
+      <Name>AT_DLC03_Airship_ShipOnExpedition_01</Name>
+    </Standard>
+  </Values>
+</Asset>

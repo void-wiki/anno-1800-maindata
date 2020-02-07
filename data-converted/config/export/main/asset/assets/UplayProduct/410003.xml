@@ -1,0 +1,24 @@
+<Asset>
+  <Template>UplayProduct</Template>
+  <Values>
+    <Standard>
+      <GUID>410003</GUID>
+      <Name>Anno 1800 ULC - Imperial Pack - PreOrder Bonus</Name>
+      <ID>PreOrderPack</ID>
+    </Standard>
+    <Locked />
+    <UplayProduct>
+      <UplayProductID>4557</UplayProductID>
+      <UplayProductUnlocks>
+        <Item>
+          <UplayProductUnlock>102483</UplayProductUnlock>
+        </Item>
+        <Item>
+          <UplayProductUnlock>103050</UplayProductUnlock>
+        </Item>
+      </UplayProductUnlocks>
+      <ProductType>PreOrderBonus</ProductType>
+    </UplayProduct>
+    <Text />
+  </Values>
+</Asset>

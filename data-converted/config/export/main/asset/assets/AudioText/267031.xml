@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Enough! It was you who sold Prosperity for the Pyrphorians! You forged father's signature! You sentenced him to death! But now the sentence is on you, uncle!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17146</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233470</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>5</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267031</GUID>
+      <Name>AT_Advisor01_movie09_02</Name>
+    </Standard>
+  </Values>
+</Asset>

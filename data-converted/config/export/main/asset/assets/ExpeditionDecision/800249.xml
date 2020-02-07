@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800249</GUID>
+      <Name>Of Unsound Mind 1.4.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The damn guards are found with sacks over their heads.&lt;/b&gt; They swear they did not see their attacker, but weakly-tied hands suggest collusion. Of course the patient's bed is vacant, and he seems to be missing, permanently. After that, rumours circulate, and no-one seems to have any trust in anyone else.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5748</LineID>
+    </Text>
+  </Values>
+</Asset>

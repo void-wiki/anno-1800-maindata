@@ -1,0 +1,37 @@
+<Asset>
+  <Template>MonumentEventReward</Template>
+  <Values>
+    <Standard>
+      <GUID>17705</GUID>
+      <Name>5 Fountain Architecture</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_5.png</IconFilename>
+      <InfoDescription>17816</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fountain Architecture</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27200</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>102472</Reward>
+          <Amount>16</Amount>
+        </Item>
+        <Item>
+          <Reward>102468</Reward>
+          <Amount>4</Amount>
+        </Item>
+        <Item>
+          <Reward>102470</Reward>
+          <Amount>8</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+  </Values>
+</Asset>

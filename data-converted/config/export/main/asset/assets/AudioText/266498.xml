@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Is my island warehouse bare? / Is that just too hard to bear? / then I fast forward!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16495</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234444</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_59</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266498</GUID>
+      <Name>AT_3rdParty02_Credits_17</Name>
+    </Standard>
+  </Values>
+</Asset>

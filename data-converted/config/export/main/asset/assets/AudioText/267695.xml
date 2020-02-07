@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bright Sands! You must save them!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17274</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233411</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267695</GUID>
+      <Name>advisor01_Ch4Ph2_Additional_02</Name>
+    </Standard>
+  </Values>
+</Asset>

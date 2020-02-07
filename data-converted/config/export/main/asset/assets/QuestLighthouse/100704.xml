@@ -1,0 +1,44 @@
+<Asset>
+  <Template>QuestLighthouse</Template>
+  <Values>
+    <Standard>
+      <GUID>100704</GUID>
+      <Name>HB QuestObject (Gasparov)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_06.png</IconFilename>
+      <InfoDescription>2676</InfoDescription>
+    </Standard>
+    <Building />
+    <Blocking>
+      <OverwriteGroundDecalWithRegionQuay>1</OverwriteGroundDecalWithRegionQuay>
+      <BlockWater>1</BlockWater>
+      <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+    </Blocking>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/3rd_party/3rd_party_questobject/3rd_party_questobject.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Gasparov's Lighthouse</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7050</LineID>
+    </Text>
+    <Cost />
+    <Infolayer />
+    <Maintenance />
+    <Locked />
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

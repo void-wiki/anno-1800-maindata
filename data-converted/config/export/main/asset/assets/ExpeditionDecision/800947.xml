@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800947</GUID>
+      <Name>The Icy Blizzard 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800949</Option>
+        </Item>
+        <Item>
+          <Option>800951</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>800948</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Toboggans are better where it's flat.&lt;/b&gt; Though solidly made, the going is fast. One sled veers into a ravine. A cry below, "officer injured", but the wind is picking up.  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16051</LineID>
+    </Text>
+  </Values>
+</Asset>

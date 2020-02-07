@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12788</GUID>
+      <Name>ObjectBuiltAndConnectToKontor_Combined</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Build:&lt;br/&gt;[AssetData([Conditions QuestCondition Context]) Text], connect to Trading Post or Warehouse via street [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+          <Status>Edit</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11668</LineID>
+    </Text>
+  </Values>
+</Asset>

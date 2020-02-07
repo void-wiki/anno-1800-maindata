@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Untold perils await us!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4184</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>214207</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253843</GUID>
+      <Name>AT_captain_GenericEventStart1</Name>
+    </Standard>
+  </Values>
+</Asset>

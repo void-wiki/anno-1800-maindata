@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It is unethical.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6042</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216605</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253148</GUID>
+      <Name>AT_ai02_ReactionToGenNegDipFromPlyr1</Name>
+    </Standard>
+  </Values>
+</Asset>

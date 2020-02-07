@@ -1,0 +1,14 @@
+<Template>
+  <Name>Herd</Name>
+  <Description>A Group of Assets is Idling around and running away from danger (e.g. Cities)</Description>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <SoundEmitter />
+    <Herd />
+    <AnimalBase />
+  </Properties>
+</Template>

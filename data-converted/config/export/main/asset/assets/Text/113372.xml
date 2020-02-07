@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>113372</GUID>
+      <Name>SL_206_DeliveryObjective_TagOnly</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

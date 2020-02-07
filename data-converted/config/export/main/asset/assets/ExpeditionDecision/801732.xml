@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801732</GUID>
+      <Name>The Investigation 1.1.3.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <InsertEvent>801808</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew stalk noiselessly around the back.&lt;/b&gt; Scaling the wall they find an open window obscured by a heavy carmine drape. Peering beyond it, they see a workshop for the production of devotional sculptures, its tables now flipped into barricades. With the cultists' attentions fixed on the main door, you are able to ambush them before it turns into a gunfight, but that doesn't stop two of your own being shot dead. Having honoured the dead, your survivors conduct a search. There is no contract, but a fiery oculus stares up from the floor, it is a Pyrphorian paper tract— an invitation to a rally at the Casado estate.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21161</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,56 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269007</GUID>
+      <Name>Pool_editor_PeaceRequestedOnPlayer</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>260477</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260489</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253659</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253660</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253661</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253607</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253608</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260317</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260318</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253610</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260323</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

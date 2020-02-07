@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Let Uncle Edvard scoff. A modest island yes, but if you’re at all like Father, you’ll look beyond appearances. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15485</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232199</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264979</GUID>
+      <Name>advisor_01_CleanTheIsland_06</Name>
+    </Standard>
+  </Values>
+</Asset>

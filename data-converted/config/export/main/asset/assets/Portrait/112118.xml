@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>226</PortraitName>
+    </Portrait>
+    <Standard>
+      <GUID>112118</GUID>
+      <Name>3rd_party_09 (Vasco Silva)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_09.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/portraits/narrative/cousin_silva/cousin_silva.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

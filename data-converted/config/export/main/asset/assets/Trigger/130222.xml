@@ -1,0 +1,70 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>130222</GUID>
+      <Name>intermediate moderate 4.1</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_tier04.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000003</Context>
+            <CounterAmount>500</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>140040</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>140052</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130051</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>140053</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>1010524</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130176</Asset>
+                  </Item>
+                </UnlockAssets>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>130126</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130063</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>140042</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>101311</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

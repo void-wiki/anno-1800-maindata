@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101288</GUID>
+      <Name>Rock pebbles</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/rocks/rocks_pebbles/pebbles_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/rocks/rocks_pebbles/pebbles_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/rocks/rocks_pebbles/pebbles_03.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/rocks/rocks_pebbles/pebbles_04.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

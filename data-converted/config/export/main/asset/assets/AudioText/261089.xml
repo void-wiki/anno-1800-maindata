@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Semaphore stations'll soon be disused - there's a tip for old iron.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12292</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231320</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261089</GUID>
+      <Name>AT_3rdParty06_IdleMessageSelf1</Name>
+    </Standard>
+  </Values>
+</Asset>

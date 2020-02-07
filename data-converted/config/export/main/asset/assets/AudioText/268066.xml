@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The soil's pH is unsuitable for this crop.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17822</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236314</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>268066</GUID>
+      <Name>AT_res_tier04_Production_Missing_Facility01</Name>
+    </Standard>
+  </Values>
+</Asset>

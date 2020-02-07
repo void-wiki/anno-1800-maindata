@@ -1,0 +1,20 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>1003571</GUID>
+      <Name>placement effect arctic</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/feedback/placement_effect_arctic.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>No! It's a nasty trick!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2370</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212550</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251340</GUID>
+      <Name>AT_ai03_GenericRejection2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,12 @@
+<Template>
+  <Name>CharacterNotification</Name>
+  <IsExpertTemplate>1</IsExpertTemplate>
+  <Properties>
+    <CharacterNotification />
+    <BaseNotification>
+      <NotificationBlockingTime>0</NotificationBlockingTime>
+      <NotificationPriority>700</NotificationPriority>
+    </BaseNotification>
+    <NotificationSubtitle />
+  </Properties>
+</Template>

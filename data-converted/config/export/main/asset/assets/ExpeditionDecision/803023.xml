@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803023</GUID>
+      <Name>Blizzard 1.1.3.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There was no chance of success.&lt;/b&gt; To gather salt, your sailors keep away from the wind and bury inside the deck to lit a fire under a pot of seawater. Their condenser is poorly handled and causes the water to fall back into the pot - causing them to believe the fire isn't burning hard enough. They fan the flames. Hell rises. The blizzard is fed gusts of murky smoke and spits it back out before receding, revealing the half-burnt carcass of your ship.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22157</LineID>
+    </Text>
+  </Values>
+</Asset>

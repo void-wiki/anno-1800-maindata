@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802922</GUID>
+      <Name>The Frozen Chasm 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802932</Option>
+        </Item>
+        <Item>
+          <Option>802933</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An alternate entrance is found after a long while.&lt;/b&gt; Alternate is a euphemism: the sailors went deep into the entrails of the glacier and instead of finding a way to the crevasse, they discerned a fault in the thin ice wall. Breaking it allowed them inside but their delayed arrival, rather than soothe the fallen men, triggers their ire: couldn't they have come faster? Don't they see their freezing limbs? Don't they know the fright they caused?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22125</LineID>
+    </Text>
+  </Values>
+</Asset>

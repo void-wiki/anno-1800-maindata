@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>216615</GUID>
+      <Name>Play_AI_DRYPRINC_BASIC_YLS_00006_01PRINC_5995</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1248</DurationMinimum>
+          <DurationMaximum>1248</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2020</DurationMinimum>
+          <DurationMaximum>2020</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1241</DurationMinimum>
+          <DurationMaximum>1241</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1399</DurationMinimum>
+          <DurationMaximum>1399</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1889513782</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

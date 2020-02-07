@@ -1,0 +1,10 @@
+<Template>
+  <Name>AudioText</Name>
+  <Properties>
+    <Text />
+    <AudioText>
+      <SpeechAudioPriority>100</SpeechAudioPriority>
+    </AudioText>
+    <Standard />
+  </Properties>
+</Template>

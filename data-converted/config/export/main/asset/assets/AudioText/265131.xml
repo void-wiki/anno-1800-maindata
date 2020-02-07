@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Game saved.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15721</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234170</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265131</GUID>
+      <Name>AT_Narrator_System_Information_GameSaved</Name>
+    </Standard>
+  </Values>
+</Asset>

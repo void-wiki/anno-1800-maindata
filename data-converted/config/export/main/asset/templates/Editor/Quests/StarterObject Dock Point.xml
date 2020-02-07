@@ -1,0 +1,22 @@
+<Template>
+  <Name>StarterObject Dock Point</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicles/third_party/third_party_trader_blocking.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Blocking>
+      <BlockWater>1</BlockWater>
+      <RemoveFromWater>1</RemoveFromWater>
+      <DisableBlockingByDefault>1</DisableBlockingByDefault>
+    </Blocking>
+  </Properties>
+</Template>

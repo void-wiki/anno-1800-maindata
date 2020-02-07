@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Why am I letting you near me!? </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6306</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216488</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254931</GUID>
+      <Name>AT_ai07_NPCReputationAutocorrectDecrease1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I've been going over the accounts. There is no denying it, we're close to bankruptcy! Avert this disaster!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17728</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236351</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>268103</GUID>
+      <Name>TQ_10_BankruptcyDangerHannah</Name>
+    </Standard>
+  </Values>
+</Asset>

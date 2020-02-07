@@ -1,0 +1,19 @@
+<Template>
+  <Name>CampaignFeatureUnlock</Name>
+  <Properties>
+    <Standard />
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <AutoSelfUnlock>1</AutoSelfUnlock>
+    </TriggerSetup>
+  </Properties>
+</Template>

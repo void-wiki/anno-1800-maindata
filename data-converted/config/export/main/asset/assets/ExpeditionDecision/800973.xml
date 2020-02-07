@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800973</GUID>
+      <Name>Baptism of Fire 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800974</Option>
+        </Item>
+        <Item>
+          <Option>800975</Option>
+        </Item>
+        <Item>
+          <Option>800976</Option>
+        </Item>
+        <Item>
+          <Option>800977</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Everything points towards the fiery gate.&lt;/b&gt; It appears like a hallucination, an ancient stone doorway suffused with blue flame set into the rock face. Perhaps a long lost people constructed it, as a shortcut through the high ridge dividing the region. Your men consider it an auspicious sign to enter, but perhaps it would be safer to take the long way through the dense jungle.</Text>
+          <Status>Exported</Status>
+          <ExportCount>8</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13142</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>UplayProduct</Template>
+  <Values>
+    <Standard>
+      <GUID>410057</GUID>
+      <Name>Anno 1800 - Playtest Content</Name>
+      <ID>PlaytestContent</ID>
+    </Standard>
+    <Locked />
+    <UplayProduct>
+      <UplayProductID>15923</UplayProductID>
+      <UplayProductUnlocks>
+        <Item>
+          <UplayProductUnlock>4100010</UplayProductUnlock>
+        </Item>
+        <Item>
+          <UplayProductUnlock>410040</UplayProductUnlock>
+        </Item>
+        <Item>
+          <UplayProductUnlock>410041</UplayProductUnlock>
+        </Item>
+        <Item>
+          <UplayProductUnlock>410042</UplayProductUnlock>
+        </Item>
+      </UplayProductUnlocks>
+      <ProductType>DLC</ProductType>
+    </UplayProduct>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anno 1800 - Playtest Content</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

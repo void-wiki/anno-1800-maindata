@@ -1,0 +1,37 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191910</GUID>
+      <Name>Medecine lvl1</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_medicine_1.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>192179</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Antiseptics</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26364</LineID>
+    </Text>
+    <BuildingUpgrade />
+    <Buff />
+    <PopulationUpgrade />
+    <ResidenceUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentIllnessIncreaseUpgrade>
+        <Value>-4</Value>
+      </IncidentIllnessIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <CultureUpgrade />
+  </Values>
+</Asset>

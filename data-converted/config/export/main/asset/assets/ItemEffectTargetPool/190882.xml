@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190882</GUID>
+      <Name>All subsurface mines</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Mountain Mines</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15256</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010304</GUID>
+        </Item>
+        <Item>
+          <GUID>1010305</GUID>
+        </Item>
+        <Item>
+          <GUID>1010307</GUID>
+        </Item>
+        <Item>
+          <GUID>1010308</GUID>
+        </Item>
+        <Item>
+          <GUID>1010311</GUID>
+        </Item>
+        <Item>
+          <GUID>101311</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

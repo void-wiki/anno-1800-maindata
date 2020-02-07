@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>See how the whole world bows before us! </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9598</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220390</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258136</GUID>
+      <Name>AT_Advisor02_QuestSuccess5</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Template>
+  <Name>TownhallItem</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>TownHall</Allocation>
+    </Item>
+    <ItemEffect />
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Properties>
+</Template>

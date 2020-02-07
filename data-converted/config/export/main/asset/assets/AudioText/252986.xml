@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are a superior person.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10316</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223451</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252986</GUID>
+      <Name>AT_ai02_PosiFeedbackToPlayer4</Name>
+    </Standard>
+  </Values>
+</Asset>

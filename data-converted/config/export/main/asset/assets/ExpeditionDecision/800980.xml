@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800980</GUID>
+      <Name>Baptism of Fire 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800982</Option>
+        </Item>
+        <Item>
+          <Option>800983</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Some of the crew remain doubtful.&lt;/b&gt; Drawing a little closer to the gate, they are surprised to feel no heat coming from the fire. One leap of faith and they would be through! Still they hesitate, for a perfect human skeleton lies just the other side of the threshold.</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13149</LineID>
+    </Text>
+  </Values>
+</Asset>

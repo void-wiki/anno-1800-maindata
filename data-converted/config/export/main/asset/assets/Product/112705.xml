@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>112705</GUID>
+      <Name>pemmican</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_pemmican.png</IconFilename>
+      <InfoDescription>117249</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pemmican</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35142</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>630</BasePrice>
+      <CivLevel>1</CivLevel>
+      <AssociatedRegion>Arctic</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

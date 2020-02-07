@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>7</PortraitName>
+      <PortraitColor>-14447421</PortraitColor>
+      <VideoPresentation>
+        <Right>
+          <CamFile>data/config/portraitcam/hannah.portraitcamright</CamFile>
+        </Right>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/hannah.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/hannah.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>1000129</GUID>
+      <Name>advisor_01 (Hannah Goode)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/advisor_01.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/advisor_01/advisor_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

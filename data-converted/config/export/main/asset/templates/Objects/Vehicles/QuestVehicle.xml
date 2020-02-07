@@ -1,0 +1,104 @@
+<Template>
+  <Name>QuestVehicle</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection>
+      <GUIType>Vehicle</GUIType>
+      <SelectionPriority>5</SelectionPriority>
+      <InteractionDistance>2</InteractionDistance>
+      <AllowedDragType>ItemSocket;CargoProductStack;CargoItemStack;StorageProductStack;StorageItemStack</AllowedDragType>
+    </Selection>
+    <Walking>
+      <ReservationLength>3</ReservationLength>
+      <ReservationWidth>1</ReservationWidth>
+      <TurnAroundRadius>3</TurnAroundRadius>
+      <TurnSpeed>45</TurnSpeed>
+      <TurnMovement>50</TurnMovement>
+      <ForwardSpeed>5</ForwardSpeed>
+      <WindMinSlowdownFactor>0.8</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1.33</WindMaxSpeedupFactor>
+    </Walking>
+    <Text />
+    <CommandQueue>
+      <IsPlayerControllableVehicle>1</IsPlayerControllableVehicle>
+      <CommandChainLength>3</CommandChainLength>
+    </CommandQueue>
+    <Drifting />
+    <Collector>
+      <MaxDragShips>1</MaxDragShips>
+    </Collector>
+    <Attackable>
+      <SelfHealPerHealTick>300</SelfHealPerHealTick>
+      <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+    </Attackable>
+    <Attacker>
+      <RememberTargetOnNewCommand>1</RememberTargetOnNewCommand>
+      <ProjectileAsset>100501</ProjectileAsset>
+      <AccuracyByDistance>
+        <Item />
+        <Item>
+          <AccuracyByDistancePair>
+            <EnemyDistanceRelToAttackRange>100</EnemyDistanceRelToAttackRange>
+            <CorrespondingAccuracy>50</CorrespondingAccuracy>
+          </AccuracyByDistancePair>
+        </Item>
+      </AccuracyByDistance>
+    </Attacker>
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <SocketAllocation>Ship;SailShip</SocketAllocation>
+      <CanStoreProducts>1</CanStoreProducts>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable>
+      <DraggableDistanceFromDragger>6</DraggableDistanceFromDragger>
+      <DraggableFeedbackOnDrag>2001897</DraggableFeedbackOnDrag>
+      <DraggableFeedbackOnDrop>2001898</DraggableFeedbackOnDrop>
+      <DraggableDropInfoLayer>2001942</DraggableDropInfoLayer>
+    </Draggable>
+    <Cost />
+    <Craftable>
+      <CraftingTime>60000</CraftingTime>
+    </Craftable>
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>1</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+    <ShipMaintenance>
+      <Maintenance>5</Maintenance>
+    </ShipMaintenance>
+    <Sellable>
+      <Baseprice>
+        <Item>
+          <Amount>1000</Amount>
+          <Resource>1010017</Resource>
+        </Item>
+      </Baseprice>
+    </Sellable>
+    <Stance />
+    <Rentable />
+  </Properties>
+</Template>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>22247</GUID>
+      <Name>Player prompt whisper</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Online PlayerName(%i)] -&gt; [Online PlayerName(%i)]: </Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32604</LineID>
+    </Text>
+  </Values>
+</Asset>

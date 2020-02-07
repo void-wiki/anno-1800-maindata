@@ -1,0 +1,49 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268751</GUID>
+      <Name>Pool_ai03_IdleMessageActiveTrade</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>251277</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251278</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251284</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251286</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251477</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251479</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>1204150546</Group>
+        </Item>
+        <Item>
+          <Group>566665212</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

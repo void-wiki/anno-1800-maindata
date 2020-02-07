@@ -1,0 +1,120 @@
+<Asset>
+  <Template>SinglePlayerGame</Template>
+  <Values>
+    <GameSetup>
+      <Peers>
+        <Slot2>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot2>
+        <Slot3>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot3>
+        <Slot4>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot4>
+        <Slot1>
+          <Peer>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <Available>
+                <Coop>1</Coop>
+              </Available>
+            </Values>
+          </Peer>
+        </Slot1>
+        <Slot5>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot5>
+        <Slot6>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot6>
+        <Slot16>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot16>
+        <Slot15>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot15>
+        <Slot14>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot14>
+        <Slot13>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot13>
+        <Slot12>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot12>
+        <Slot11>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot11>
+        <Slot10>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot10>
+        <Slot9>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot9>
+        <Slot8>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot8>
+        <Slot7>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot7>
+      </Peers>
+      <Customizable>1</Customizable>
+      <Maps>
+        <Item>
+          <Asset>180023</Asset>
+        </Item>
+      </Maps>
+    </GameSetup>
+    <Standard>
+      <GUID>140985</GUID>
+      <Name>SinglePlayerSandbox</Name>
+      <ID>SinglePlayerSandbox</ID>
+    </Standard>
+  </Values>
+</Asset>

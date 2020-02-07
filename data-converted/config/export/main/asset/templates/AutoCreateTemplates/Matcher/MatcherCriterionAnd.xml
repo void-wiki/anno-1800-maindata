@@ -1,0 +1,12 @@
+<Template>
+  <Name>MatcherCriterionAnd</Name>
+  <Properties>
+    <MatcherCriterion />
+    <MatcherCriterionAnd>
+      <CriterionOperandListAnd>
+        <Item />
+        <Item />
+      </CriterionOperandListAnd>
+    </MatcherCriterionAnd>
+  </Properties>
+</Template>

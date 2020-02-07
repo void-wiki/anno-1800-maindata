@@ -1,0 +1,28 @@
+<Template>
+  <Name>QuestObjectiveScaling</Name>
+  <Properties>
+    <ObjectiveScaling>
+      <ScaleObjectives>1</ScaleObjectives>
+      <ScaleFactors>
+        <EarlyGame>
+          <Factor>1</Factor>
+        </EarlyGame>
+        <EarlyMidGame>
+          <Factor>1.2</Factor>
+        </EarlyMidGame>
+        <EndGame>
+          <Factor>2</Factor>
+        </EndGame>
+        <LateGame>
+          <Factor>1.8</Factor>
+        </LateGame>
+        <LateMidGame>
+          <Factor>1.6</Factor>
+        </LateMidGame>
+        <MidGame>
+          <Factor>1.4</Factor>
+        </MidGame>
+      </ScaleFactors>
+    </ObjectiveScaling>
+  </Properties>
+</Template>

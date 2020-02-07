@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802232</GUID>
+      <Name>The Deeper You Go 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802233</Option>
+        </Item>
+        <Item>
+          <Option>802236</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The obvious traps are easily evaded.&lt;/b&gt; The sailors contort themselves to avoid sharp stones and plated triggers, flowing through the corridor with the ease of seasoned explorers, or cutpurses. They quickly reach the pocket of the temple: a vast chasm crossed by a meager bridge with no handrails. Could this be a trial of courage?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21060</LineID>
+    </Text>
+  </Values>
+</Asset>

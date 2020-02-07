@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I see you have a heart.  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10508</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223016</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253310</GUID>
+      <Name>AT_ai04_PosiFeedbackToPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

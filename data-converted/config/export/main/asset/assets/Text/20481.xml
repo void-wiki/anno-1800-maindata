@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20481</GUID>
+      <Name>InputBenefitSupply(FestivalBuff3)</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_house.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Inhabitants provided by [AssetData([ItemAssetData([AreaManager AreaFestival BuffGuids AT(3) Text]) InputBenefitModifierProduct(index)]) Text]</Text>
+          <Status>ToBeDeleted</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29049</LineID>
+    </Text>
+  </Values>
+</Asset>

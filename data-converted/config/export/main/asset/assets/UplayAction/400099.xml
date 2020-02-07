@@ -1,0 +1,32 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400099</GUID>
+      <Name>Action_Achievement_Bankster</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>ThirdParty</AchievementCategory>
+      <AchievementTitle>15591</AchievementTitle>
+      <AchievementDescription>15592</AchievementDescription>
+      <AchievementUPlayID>77</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Common</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>114</UplayActionID>
+      <UplayXP>250</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

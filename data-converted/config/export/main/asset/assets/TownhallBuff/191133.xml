@@ -1,0 +1,69 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191133</GUID>
+      <Name>boreal forests</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_moose.png</IconFilename>
+      <InfoDescription>15758</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Taiga Forest Park</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21918</LineID>
+    </Text>
+    <BuildingUpgrade />
+    <Buff />
+    <PopulationUpgrade />
+    <ResidenceUpgrade>
+      <GoodConsumptionUpgrade>
+        <Item>
+          <ProvidedNeed>1010200</ProvidedNeed>
+          <AmountInPercent>-5</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010213</ProvidedNeed>
+          <AmountInPercent>-5</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010215</ProvidedNeed>
+          <AmountInPercent>-5</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010217</ProvidedNeed>
+          <AmountInPercent>-5</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010238</ProvidedNeed>
+          <AmountInPercent>-5</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010258</ProvidedNeed>
+          <AmountInPercent>-5</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>120033</ProvidedNeed>
+          <AmountInPercent>-5</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>120035</ProvidedNeed>
+          <AmountInPercent>-5</AmountInPercent>
+        </Item>
+      </GoodConsumptionUpgrade>
+    </ResidenceUpgrade>
+    <IncidentInfectableUpgrade />
+    <CultureUpgrade />
+  </Values>
+</Asset>

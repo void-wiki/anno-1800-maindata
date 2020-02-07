@@ -1,0 +1,30 @@
+<Asset>
+  <Template>PopulationGroup7</Template>
+  <Values>
+    <Standard>
+      <GUID>112641</GUID>
+      <Name>Arctic Population</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_session_passage.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Population: The Arctic</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34494</LineID>
+    </Text>
+    <PopulationGroup7>
+      <PopulationLevels>
+        <Item>
+          <Level>112642</Level>
+        </Item>
+        <Item>
+          <Level>112643</Level>
+        </Item>
+      </PopulationLevels>
+    </PopulationGroup7>
+  </Values>
+</Asset>

@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803967</GUID>
+      <Name>Polar Bear 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>804151</InsertEvent>
+      <Conclusion>114639</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Years of ambush drills pay off.&lt;/b&gt; Quickly forming a circle your men level their guns into the half-light. Sensing the danger they pose, Mama bear grows more cautious, and after a single circuit of your camp, disappears out of sight. &lt;br/&gt;Full of adrenaline, &lt;b&gt;your scout party reach the Inuit camp.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35248</LineID>
+    </Text>
+  </Values>
+</Asset>

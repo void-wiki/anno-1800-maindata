@@ -1,0 +1,80 @@
+<Asset>
+  <Template>ScannerObject</Template>
+  <Values>
+    <Standard>
+      <GUID>100713</GUID>
+      <Name>Dummy Scanner Gunboat</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+      <InfoDescription>1082</InfoDescription>
+    </Standard>
+    <Scanner>
+      <ScanRadius>10</ScanRadius>
+      <ScanEffect>500886</ScanEffect>
+      <AlarmTime>15000</AlarmTime>
+      <AlarmEffect>500888</AlarmEffect>
+    </Scanner>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/gunboat/gunboat.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <MultiSelectable>1</MultiSelectable>
+    </Selection>
+    <Walking>
+      <ReservationLength>9</ReservationLength>
+      <ReservationWidth>5</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <TurnSpeed>60</TurnSpeed>
+      <LeaningMaxAngle>27</LeaningMaxAngle>
+      <ForwardSpeed>4</ForwardSpeed>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <CommandQueue />
+    <Text />
+    <Attacker>
+      <AttackRange>30</AttackRange>
+      <AttackRangeApproachPercentage>0.85</AttackRangeApproachPercentage>
+      <LineOfSightRange>70</LineOfSightRange>
+      <ReloadTime>50</ReloadTime>
+      <ProjectileAsset>102277</ProjectileAsset>
+      <ProjectileCount>2</ProjectileCount>
+      <BaseDamage>105</BaseDamage>
+      <AccuracyBase>1</AccuracyBase>
+      <AccuracyIncreaseOverDistance>80</AccuracyIncreaseOverDistance>
+      <AccuracySpeedDecay>20</AccuracySpeedDecay>
+      <TargetAngleVariation>30</TargetAngleVariation>
+      <ShootingTracking>Front</ShootingTracking>
+      <MuzzleEffectAssets>
+        <Item>
+          <MuzzleEffectAsset>102278</MuzzleEffectAsset>
+        </Item>
+      </MuzzleEffectAssets>
+    </Attacker>
+    <Attackable>
+      <MaximumHitPoints>850</MaximumHitPoints>
+      <HPBarOffset>5</HPBarOffset>
+      <AccuracyWidth>2</AccuracyWidth>
+      <SelfHealPerHealTick>10</SelfHealPerHealTick>
+    </Attackable>
+    <ItemContainer />
+    <UpgradeList />
+    <Stance />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801712</GUID>
+      <Name>The Investigation 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801715</Option>
+        </Item>
+        <Item>
+          <Option>801734</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The contract and those Pyrphorians must be here in Montoya, but where?&lt;/b&gt; The city sprawls before you under a pastel blue sky, the distinctive whitewall and terracotta of Imperial La Corona glowing softly all along the narrow estuary where the Mixcoatl meets the ocean. Yet, tranquil it is not. Anxiety is written in every passing face. They must know who you are and what you seek, but finding one brave enough to share is a different matter. You can ask around, or rely instead on your own eyes to find clues.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21143</LineID>
+    </Text>
+  </Values>
+</Asset>

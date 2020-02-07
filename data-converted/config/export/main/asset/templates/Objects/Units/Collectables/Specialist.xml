@@ -1,0 +1,16 @@
+<Template>
+  <Name>Specialist</Name>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object />
+    <Selection />
+    <Infolayer />
+    <ItemContainer>
+      <SlotCount>1</SlotCount>
+      <StackLimit>1</StackLimit>
+    </ItemContainer>
+    <Text />
+    <FeedbackController />
+  </Properties>
+</Template>

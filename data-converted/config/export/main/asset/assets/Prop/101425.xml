@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101425</GUID>
+      <Name>cloth_roll</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/clothroll_v1.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/clothroll_v2.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/carpetroll.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

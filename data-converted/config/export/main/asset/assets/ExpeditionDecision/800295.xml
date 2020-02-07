@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800295</GUID>
+      <Name>The Predator 1.2.3.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800290</Option>
+        </Item>
+        <Item>
+          <Option>800292</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Doubtful prayer brings no news&lt;/b&gt; of the lost hunters. The men have nowhere to look for guidance, and there is a burdensome feeling that a decision must be made.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5673</LineID>
+    </Text>
+  </Values>
+</Asset>

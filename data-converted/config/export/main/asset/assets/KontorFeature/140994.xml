@@ -1,0 +1,16 @@
+<Asset>
+  <Template>KontorFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>140994</GUID>
+      <Name>KontorBalancing</Name>
+      <ID>KontorBalancing</ID>
+    </Standard>
+    <KontorFeature>
+      <KontorSwitchCooldown>60000</KontorSwitchCooldown>
+      <KontorSlotMoveThreshold>4</KontorSlotMoveThreshold>
+      <KontorBuildDistance>30</KontorBuildDistance>
+      <KontorSwitchCosts>1000</KontorSwitchCosts>
+    </KontorFeature>
+  </Values>
+</Asset>

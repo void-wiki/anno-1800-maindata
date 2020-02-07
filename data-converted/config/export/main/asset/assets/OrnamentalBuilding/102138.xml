@@ -1,0 +1,94 @@
+<Asset>
+  <Template>OrnamentalBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>102138</GUID>
+      <Name>park_1x1_hedgewall</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornament_placeholders/bush04.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hedge Junction</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28556</LineID>
+    </Text>
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+    </Blocking>
+    <Building>
+      <BuildingCategoryName>11149</BuildingCategoryName>
+      <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+    </Building>
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Selection>
+      <Colors>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/ornamental/park_props_system/park_props_system_1x1/park_props_system_1x1_09.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>OrnamentalBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </DestroySounds>
+    </SoundEmitter>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <FeedbackController />
+    <Ornament>
+      <OrnamentUnit>1</OrnamentUnit>
+      <OrnamentIconInfotip>500276</OrnamentIconInfotip>
+      <OrnamentDescritpion>3049</OrnamentDescritpion>
+    </Ornament>
+    <AmbientMoodProvider />
+    <Pausable />
+    <Infolayer />
+  </Values>
+</Asset>

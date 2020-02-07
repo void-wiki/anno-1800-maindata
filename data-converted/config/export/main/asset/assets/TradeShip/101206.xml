@@ -1,0 +1,118 @@
+<Asset>
+  <Template>TradeShip</Template>
+  <Values>
+    <Standard>
+      <GUID>101206</GUID>
+      <Name>DynamiteFishShip</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_dynamite.png</IconFilename>
+      <InfoDescription>1083</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/fish/fish_quest_object.cfg</Filename>
+        </Item>
+      </Variations>
+      <DefaultParticipant>General_Enemy</DefaultParticipant>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <WalkSequence>default</WalkSequence>
+      <IdleSequence2>default</IdleSequence2>
+      <ShortenSailsAfter>1000</ShortenSailsAfter>
+      <ReservationLength>9</ReservationLength>
+      <ReservationWidth>5</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <Acceleration>0.7</Acceleration>
+      <TurnSpeed>360</TurnSpeed>
+      <LeaningMaxAngle>27</LeaningMaxAngle>
+      <ForwardSpeed>2</ForwardSpeed>
+      <WindMinSlowdownFactor>1</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fish Swarm</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21451</LineID>
+    </Text>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+      <TradeShipPoints>1</TradeShipPoints>
+      <PriorityShipList>2</PriorityShipList>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+      <FactorMovement>0</FactorMovement>
+      <FactorRotation>0</FactorRotation>
+      <AffectedByDriftingWhileIdle>0</AffectedByDriftingWhileIdle>
+      <AffectedByDriftingWhileMoving>0</AffectedByDriftingWhileMoving>
+      <CausesDrifting>0</CausesDrifting>
+      <UseSlowDownTactic>0</UseSlowDownTactic>
+    </Drifting>
+    <Collector />
+    <Attackable />
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+      <StrategicMapAsset>500433</StrategicMapAsset>
+    </MinimapToken>
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <SocketAllocation />
+      <SlotCount>3</SlotCount>
+      <StackLimit>1</StackLimit>
+      <FlotsamNoRadius>1</FlotsamNoRadius>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010210</Ingredient>
+          <Amount>10</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+    <Craftable>
+      <CraftingTime>180000</CraftingTime>
+    </Craftable>
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance>
+      <DisableShipDestructionTracking>1</DisableShipDestructionTracking>
+      <DisableEscort>1</DisableEscort>
+    </ShipMaintenance>
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

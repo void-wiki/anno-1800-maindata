@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801673</GUID>
+      <Name>The Chasing 1.1.1.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>801714</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Miles off!&lt;/b&gt; Your novice gunners are so desperate to avoid striking the enemy in any meaningful way, that a small inoffensive patch of sea takes the brunt instead. Sensing their tiny ship is a match for yours after all, the Pyrphorians pump flame from dragon cannons, and give your ship a good licking. The ensuing panic gives them time to slip away. You will no doubt pick up their trail again in the port of Montoya, but the fire has caused significant damage that must be repaired first.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21110</LineID>
+    </Text>
+  </Values>
+</Asset>

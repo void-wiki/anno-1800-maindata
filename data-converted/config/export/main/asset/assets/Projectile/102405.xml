@@ -1,0 +1,42 @@
+<Asset>
+  <Template>Projectile</Template>
+  <Values>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>0</ShotAngle>
+      <ProjectileSpeed>15</ProjectileSpeed>
+      <DamageType>Cannon</DamageType>
+    </Projectile>
+    <Standard>
+      <GUID>102405</GUID>
+      <Name>Flamethrower_Small_Shot</Name>
+      <InfoDescription>22110</InfoDescription>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_flamethrower_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text />
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>203892</Sound>
+          </Item>
+        </ProjectileLaunch>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <ProjectileIncident>
+      <CausedIncident>Fire</CausedIncident>
+      <CausedIncidentBuff>192004</CausedIncidentBuff>
+      <CausedIncidentDuration>20000</CausedIncidentDuration>
+    </ProjectileIncident>
+  </Values>
+</Asset>

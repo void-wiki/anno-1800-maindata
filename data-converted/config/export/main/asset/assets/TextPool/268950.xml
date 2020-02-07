@@ -1,0 +1,43 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268950</GUID>
+      <Name>Pool_ai01_FlatterFail</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>251759</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251760</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251091</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251092</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251095</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>1962698286</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

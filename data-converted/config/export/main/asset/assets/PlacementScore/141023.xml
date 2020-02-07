@@ -1,0 +1,24 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>141023</GUID>
+      <Name>CulturalMain</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingDistance</Template>
+            <Values>
+              <RatingDistance>
+                <ZeroFrom>100</ZeroFrom>
+                <ManhattenDistance>1</ManhattenDistance>
+              </RatingDistance>
+            </Values>
+          </Rating>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501843</GUID>
+      <Name>BuildPermit</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501844</IconAsset>
+            <NotificationSideTitle>22383</NotificationSideTitle>
+            <FilterType>Items</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>22382</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

@@ -1,0 +1,55 @@
+<Asset>
+  <BaseAssetGUID>120</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>129</GUID>
+      <Name>PaMSy_Template_Event_Trader</Name>
+    </Standard>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <ClickNPCBuilding>
+          <Reactions>
+            <Item>
+              <CooldownTime>600000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification>
+                    <NotificationTextGroupFemale>-1108165468</NotificationTextGroupFemale>
+                  </CharacterNotification>
+                  <BaseNotification>
+                    <NotificationTextGroup>1160714306</NotificationTextGroup>
+                    <NotificationPriority>500</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickNPCBuilding>
+        <ClickNPCShip>
+          <Reactions>
+            <Item>
+              <CooldownTime>600000</CooldownTime>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification>
+                    <NotificationTextGroupFemale>-445853968</NotificationTextGroupFemale>
+                  </CharacterNotification>
+                  <BaseNotification>
+                    <NotificationTextGroup>-1632291246</NotificationTextGroup>
+                    <NotificationPriority>500</NotificationPriority>
+                    <NotificationGroup>PlayerClick</NotificationGroup>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </ClickNPCShip>
+      </MessageTriggers>
+    </ParticipantMessages>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You just crossed paths with the great Wibbly!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8604</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221674</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256552</GUID>
+      <Name>AT_ai03_ExpansionPlayerHigherThanNPC3</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I have never asked anything of you, firstborn. Not when you stole away a-tiptoe, leaving the family burden at your little sister’s door, nor in the hard years that since have followed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4873</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215489</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>2</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>254664</GUID>
+      <Name>AT_Advisor01_Movie02_01</Name>
+    </Standard>
+  </Values>
+</Asset>

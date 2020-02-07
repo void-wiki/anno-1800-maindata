@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140567</GUID>
+      <Name>Henry Rogers</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>17069</Headline>
+      <Subline>17070</Subline>
+      <Image>141277</Image>
+      <Category>Filler</Category>
+      <NewsPriority>
+        <StartValue>0</StartValue>
+        <LossOnPublish>500</LossOnPublish>
+        <Minimum>-1000</Minimum>
+      </NewsPriority>
+      <ArticleType>Filler</ArticleType>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

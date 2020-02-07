@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your people can't hold out much longer!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15817</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233897</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265220</GUID>
+      <Name>AT_Narrator_Military_Warning_IslandWarDefenseMoraleLow</Name>
+    </Standard>
+  </Values>
+</Asset>

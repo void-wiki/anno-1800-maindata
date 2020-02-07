@@ -1,0 +1,22 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>100980</GUID>
+      <Name>Clay Heap</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/raw_material_heaps/clay_heap_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/raw_material_heaps/clay_heap_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

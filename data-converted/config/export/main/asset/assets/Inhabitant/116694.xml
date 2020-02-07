@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>116694</GUID>
+      <Name>native_colony_03_male</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/units/inhabitants/residence/residence_colony_03_tier_01_natives_muscular_m_01/residence_colony_03_tier_01_natives_muscular_m_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/units/inhabitants/residence/residence_colony_03_tier_01_natives_muscular_m_02/residence_colony_03_tier_01_natives_muscular_m_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

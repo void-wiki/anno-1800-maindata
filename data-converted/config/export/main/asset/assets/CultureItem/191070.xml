@@ -1,0 +1,49 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191070</GUID>
+      <Name>pacific gull</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_pacific_gull.png</IconFilename>
+      <InfoDescription>13692</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Southern Gull</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26443</LineID>
+    </Text>
+    <Item>
+      <Rarity>Uncommon</Rarity>
+      <TradePrice>20100</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010477</ChangeModule>
+      <ForcedFeedbackVariation>101775</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>20</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203404</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>SouthernEurope</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>12878</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

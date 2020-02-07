@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>19537</GUID>
+      <Name>AdditionalOutputActive</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_options.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;[ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) AdditionalOutputAmount(index)]t&lt;/b&gt; of &lt;b&gt;[AssetData([ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) AdditionalOutputProduct(index)]) Text]&lt;/b&gt; generated every &lt;b&gt;[ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) AdditionalOutputCycle(index)] production cycles&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28972</LineID>
+    </Text>
+  </Values>
+</Asset>

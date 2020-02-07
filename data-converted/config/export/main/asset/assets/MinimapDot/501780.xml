@@ -1,0 +1,16 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>501780</GUID>
+      <Name>Treasure</Name>
+      <IconFilename>data/ui/2kimages/main/assets/icon_minimap_quest_02.png</IconFilename>
+      <ID>TreasureToken</ID>
+    </Standard>
+    <MinimapTokenSettings>
+      <Tooltip>2736</Tooltip>
+      <Filter>Treasure</Filter>
+      <IgnoreGameObjectVisibility>1</IgnoreGameObjectVisibility>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

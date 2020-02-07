@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You look as radiant as ever.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4029</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232162</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253641</GUID>
+      <Name>AT_Reporter_WelcomeToPlayer4</Name>
+    </Standard>
+  </Values>
+</Asset>

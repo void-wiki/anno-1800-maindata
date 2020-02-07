@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your people are unhappy.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15901</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233999</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265312</GUID>
+      <Name>AT_Narrator_Population_Warning_PopulationHappinessBad</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>17240</GUID>
+      <Name>Notification AlliancePlayerInititator</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are in alliance with [Participants ParticipantName([NotificationContext Value(TargetParticipant) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22591</LineID>
+    </Text>
+  </Values>
+</Asset>

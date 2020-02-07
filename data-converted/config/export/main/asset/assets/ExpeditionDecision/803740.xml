@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803740</GUID>
+      <Name>Atoll 1.3.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>114992</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your ship looks a sensation now she has coral poking from her keel.&lt;/b&gt; Like doctors treating a foreign object, your fine craftsmen utilise a panoply of tools to reach under the hull and fragment the coral. They are then nimbly able to dress the wound in the hull before very much water gets in. The few naughty pieces of coral that remain wedged in the hull look rather fetching!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33494</LineID>
+    </Text>
+  </Values>
+</Asset>

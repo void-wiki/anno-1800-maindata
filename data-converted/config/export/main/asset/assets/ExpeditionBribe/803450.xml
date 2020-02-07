@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>803450</GUID>
+      <Name>The Tour 1.1.2.2.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If you want to bribe us, it had better be all the wonderz of the high life!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32478</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>22257</TraderName>
+      <FollowupSuccessOption>803464</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>803465</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>1000</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

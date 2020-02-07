@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803609</GUID>
+      <Name>Lianas</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>At The End Of A Rope</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32967</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica</EventRegion>
+      <EventThreat>800032</EventThreat>
+      <StartDecision>803600</StartDecision>
+      <EventMusicChoice>226699</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

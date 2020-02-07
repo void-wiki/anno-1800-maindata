@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802121</GUID>
+      <Name>Lava Maze 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802125</Option>
+        </Item>
+        <Item>
+          <Option>802126</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Shelter!&lt;/b&gt; The crew finds a decrepit stone chapel, remains of a colonialist power, and deems it a better refuge than their cloth-made tents. An officer estimates that the lava will be on them soon: there's no choice but to spend the night here.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21748</LineID>
+    </Text>
+  </Values>
+</Asset>

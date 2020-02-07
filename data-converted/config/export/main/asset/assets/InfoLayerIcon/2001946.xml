@@ -1,0 +1,22 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>2001946</GUID>
+      <Name>QuestDraggableDrone A6</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/minor_important_questobject.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Use vehicle to attach</Text>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4231</LineID>
+    </Text>
+  </Values>
+</Asset>

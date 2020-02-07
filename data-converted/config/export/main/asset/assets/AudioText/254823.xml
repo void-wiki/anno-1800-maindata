@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sunlight is broken by ravens.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6062</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216664</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254823</GUID>
+      <Name>AT_ai02_NPCReputationAutocorrectDecrease8</Name>
+    </Standard>
+  </Values>
+</Asset>

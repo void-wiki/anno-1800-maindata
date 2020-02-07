@@ -1,0 +1,32 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700040</GUID>
+      <Name>QC134_ShipyardWorkforce_ObjectivePool</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>100416</Asset>
+        </Item>
+        <Item>
+          <Asset>1010283</Asset>
+        </Item>
+        <Item>
+          <Asset>1010269</Asset>
+        </Item>
+        <Item>
+          <Asset>1010316</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>QC134_ObjectivePool</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

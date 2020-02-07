@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There's no shortage of von Malchings; men who'd stuff their own dog if it made 'em rich.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11814</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230038</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253361</GUID>
+      <Name>AT_ai04_IdleMessageGossip_Malching</Name>
+    </Standard>
+  </Values>
+</Asset>

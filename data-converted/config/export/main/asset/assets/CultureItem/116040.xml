@@ -1,0 +1,52 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>116040</GUID>
+      <Name>walrus</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_walrus.png</IconFilename>
+      <InfoDescription>116046</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Walrus</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35442</LineID>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <ItemSet>191119</ItemSet>
+      <TradePrice>213400</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>114783</ChangeModule>
+      <ForcedFeedbackVariation>117573</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>244853</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>20</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>Arctic;NorthernEurope;NorthernNorthAmerica</ItemRegions>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>116046</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

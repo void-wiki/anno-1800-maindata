@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>221570</GUID>
+      <Name>Play_AI_DRYVICEN_IFV_CMJ_00001_01VICEN_8405</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1010</DurationMinimum>
+          <DurationMaximum>1010</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1409</DurationMinimum>
+          <DurationMaximum>1409</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1033</DurationMinimum>
+          <DurationMaximum>1033</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1039</DurationMinimum>
+          <DurationMaximum>1039</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2379675067</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802413</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192045</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A treasure cache!&lt;/b&gt; Matching the landmarks of the city to the crude objects depicted on the faded map, one thing in particular sticks out. "An old fort!" a smart young officer exclaims. The blind man follows the eager beagles in amusement, as they set off at a giddy clip. He knows the fort cannot where Ben Sahid's treasure is buried, since it belonged to a great enemy of his who came from the far north. It is nevertheless full of unclaimed riches!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20866</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192749</GUID>
+      <Name>Specialists - City Institutions - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190652</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190725</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191007</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

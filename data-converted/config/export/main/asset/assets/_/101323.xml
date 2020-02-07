@@ -1,0 +1,66 @@
+<Asset>
+  <BaseAssetGUID>1010371</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101323</GUID>
+      <Name>logistic_colony01_01 (Warehouse I)</Name>
+    </Standard>
+    <Text>
+      <LineID>11034</LineID>
+    </Text>
+    <Blocking />
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Cost />
+    <Selection />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/buildings/public/logistic_colony01_01/logistic_colony01_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter />
+    <Locked />
+    <Infolayer />
+    <FeedbackController />
+    <Warehouse />
+    <LogisticNode />
+    <UpgradeList />
+    <AmbientMoodProvider />
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>10</Amount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <StorageBase />
+    <Attackable />
+    <Upgradable>
+      <NextGUID>101324</NextGUID>
+    </Upgradable>
+    <Pausable />
+  </Values>
+</Asset>

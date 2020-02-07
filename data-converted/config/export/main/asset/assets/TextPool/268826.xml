@@ -1,0 +1,43 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268826</GUID>
+      <Name>Pool_ai09_NegDiplomacyWithFriend</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>252824</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252825</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252664</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252670</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>-824214492</Group>
+        </Item>
+        <Item>
+          <Group>-1252637136</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

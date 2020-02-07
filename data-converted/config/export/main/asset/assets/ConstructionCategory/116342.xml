@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>116342</GUID>
+      <Name>arctic construction menu materials (category)</Name>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>112709</Building>
+        </Item>
+        <Item>
+          <Building>112690</Building>
+        </Item>
+      </BuildingList>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Materials</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36004</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

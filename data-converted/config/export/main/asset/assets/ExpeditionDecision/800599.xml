@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800599</GUID>
+      <Name>Lost in the Desert 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Star of wonder, star of light!&lt;/b&gt; Your wise magi are stirred by an unusually bright celestial body, that is surely a sign! It foretells a spiritual pilgrimage through the desert leading to a garden of eden. A grove of flowing streams, orange and incense, where like-minded devotees congregate. Your crew feel blessed, and the expedition can resume with new-found devotion.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5873</LineID>
+    </Text>
+  </Values>
+</Asset>

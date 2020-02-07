@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800902</GUID>
+      <Name>Parasitic Infestation 1.2.2.1.2.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Extraordinary that you trusted that quack!&lt;/b&gt; She is sideshow surgeon, carving up her victims with the zeal of a ripper, and the accuracy of a pissing schoolboy. At least the screams will die away soon enough...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13214</LineID>
+    </Text>
+  </Values>
+</Asset>

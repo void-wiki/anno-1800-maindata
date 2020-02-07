@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800992</GUID>
+      <Name>Baptism of Fire 1.4.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There is no way through,&lt;/b&gt; thanks to your shambolic mapreading, as the jungle grows thicker and danker. The group tire, having many disagreements, and separate into factions. The sensible ones stick together, and decide the only realistic option is to backtrack several weeks. The rest will die among the roots and ferns.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13161</LineID>
+    </Text>
+  </Values>
+</Asset>

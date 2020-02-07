@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21782</GUID>
+      <Name>exclusive item text</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_untick.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cannot equip an item of the same type</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29888</LineID>
+    </Text>
+  </Values>
+</Asset>

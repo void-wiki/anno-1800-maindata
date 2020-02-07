@@ -1,0 +1,28 @@
+<Template>
+  <Name>ConditionStarterObject</Name>
+  <Properties>
+    <Condition />
+    <ConditionStarterObject>
+      <DockingPlaceDistance>20</DockingPlaceDistance>
+      <StarterObjectObject>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </StarterObjectObject>
+    </ConditionStarterObject>
+    <ConditionQuestObjective>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500173</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <ConditionPropsSessionSettings />
+  </Properties>
+</Template>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15074</GUID>
+      <Name>ST Plyr Takeover Possible From NPC - f</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] can now takeover your island [NotificationContext Value(Area) Area CityName] anytime.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>24294</LineID>
+    </Text>
+  </Values>
+</Asset>

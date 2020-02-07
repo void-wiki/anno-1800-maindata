@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802387</GUID>
+      <Name>The Devil Calls 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailors close their minds to the voices.&lt;/b&gt; With the stubborness of true believers, your crew convince themselves it is devil speak, repeating "I renounce him, his demons and his works!" Their faith is affirmed when the rain stops and the voices desist. Later that day they stumble across Eden; a thicket of Camucamu fruit trees. "Very tart indeed," says the doctor, "precisely what we've been wanting."</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20842</LineID>
+    </Text>
+  </Values>
+</Asset>

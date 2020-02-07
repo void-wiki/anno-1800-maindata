@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12687</GUID>
+      <Name>InputBenefitSupply</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_house.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents from [AssetData([ItemAssetData([RefGuid]) InputBenefitModifierProduct(index)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22647</LineID>
+    </Text>
+  </Values>
+</Asset>

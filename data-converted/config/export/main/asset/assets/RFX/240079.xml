@@ -1,0 +1,20 @@
+<Asset>
+  <Template>RFX</Template>
+  <Values>
+    <Standard>
+      <GUID>240079</GUID>
+      <Name>RFX_bld_production_agriculture_col01_typeCluster_rfx_04</Name>
+    </Standard>
+    <RFX>
+      <RFXRadius>11</RFXRadius>
+      <HeightConfig>
+        <ClampToTerrain>1</ClampToTerrain>
+        <ClampToWater>1</ClampToWater>
+        <HeightOffsetMax>10</HeightOffsetMax>
+      </HeightConfig>
+      <TriggerRateMin>15000</TriggerRateMin>
+      <TriggerRateMax>35000</TriggerRateMax>
+      <TriggerEvent>200793</TriggerEvent>
+    </RFX>
+  </Values>
+</Asset>

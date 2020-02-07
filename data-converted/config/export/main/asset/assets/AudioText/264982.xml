@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It's been a long hard day. The people need to rest. And maybe wet their whistles. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15515</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232143</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264982</GUID>
+      <Name>advisor_02_GainYourPeoplesTrust_01</Name>
+    </Standard>
+  </Values>
+</Asset>

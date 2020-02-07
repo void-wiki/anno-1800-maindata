@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>3116</GUID>
+      <Name>New Incident Illness Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Illness in [NotificationContext Value(StartObj) Object Static Text] in [NotificationContext Value(Area) Area CityName] [Incidents InfectionChanceSourceNotificationText([NotificationContext Value(IncidentType) Int], [NotificationContext Value(IncidentReason) Int])]</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11946</LineID>
+    </Text>
+  </Values>
+</Asset>

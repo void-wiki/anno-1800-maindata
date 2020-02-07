@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192775</GUID>
+      <Name>Culture - South American Animals - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191081</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191089</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191090</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191091</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191080</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

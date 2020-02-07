@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802701</GUID>
+      <Name>The Runaway 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It only serves to demonstrate your crew's incompetence,&lt;/b&gt; because they are still not ready! The vessel belonging to the local authority fires first, and being at such close range the effect is devastating. Half of your gunners lie maimed, and your ship shredded through. The white flag is waved. The fugitive leaves with the officials of his own free will, after all, he has better chances of survival almost anywhere else!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21636</LineID>
+    </Text>
+  </Values>
+</Asset>

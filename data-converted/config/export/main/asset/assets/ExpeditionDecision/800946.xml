@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800946</GUID>
+      <Name>The Icy Blizzard 1.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Shelter is minimal.&lt;/b&gt; Huddling cannot keep out the cold. When a rescue party arrives with equipment the next morning, they find men frostbitten and hypothermic. Not all of them will survive the journey down.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16075</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A concealed antechamber in the house of your enemy.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16970</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232898</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265579</GUID>
+      <Name>AT_ai06_MafiaDetected_NPCsFoe1</Name>
+    </Standard>
+  </Values>
+</Asset>

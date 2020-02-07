@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803029</GUID>
+      <Name>Fortress Break</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Breakout</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22092</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800004</EventThreat>
+      <StartDecision>803042</StartDecision>
+      <EventMusicChoice>226699</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/naval_battle_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

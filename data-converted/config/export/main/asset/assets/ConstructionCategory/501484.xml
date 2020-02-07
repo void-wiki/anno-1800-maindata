@@ -1,0 +1,56 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501484</GUID>
+      <Name>moderate engineers park (tier)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_park_ornament_base.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>102093</Building>
+        </Item>
+        <Item>
+          <Building>102094</Building>
+        </Item>
+        <Item>
+          <Building>102095</Building>
+        </Item>
+        <Item>
+          <Building>102096</Building>
+        </Item>
+        <Item>
+          <Building>102097</Building>
+        </Item>
+        <Item>
+          <Building>102098</Building>
+        </Item>
+        <Item>
+          <Building>102462</Building>
+        </Item>
+        <Item>
+          <Building>102106</Building>
+        </Item>
+        <Item>
+          <Building>102112</Building>
+        </Item>
+        <Item>
+          <Building>102862</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Elaborate Park</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27167</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

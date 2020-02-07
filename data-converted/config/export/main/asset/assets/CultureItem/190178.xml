@@ -1,0 +1,34 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190178</GUID>
+      <Name>Deer</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_deer.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deer</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27019</LineID>
+    </Text>
+    <Item>
+      <Rarity>Uncommon</Rarity>
+      <TradePrice>1000</TradePrice>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010477</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>300</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute />
+    <Locked />
+  </Values>
+</Asset>

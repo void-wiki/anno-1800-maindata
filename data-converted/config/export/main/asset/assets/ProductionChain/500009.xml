@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>500009</GUID>
+      <Name>sails chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_sail.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>1010288</Building>
+      <Tier1>
+        <Item>
+          <Building>1010267</Building>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sails</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14887</LineID>
+    </Text>
+  </Values>
+</Asset>

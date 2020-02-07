@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803072</GUID>
+      <Name>Ghosts in the Ice</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ghosts in the Ice</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23428</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;NorthernNorthAmerica</EventRegion>
+      <EventThreat>800031</EventThreat>
+      <StartDecision>803115</StartDecision>
+      <EventMusicChoice>226702</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/polar_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

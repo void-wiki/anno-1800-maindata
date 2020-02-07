@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193849</GUID>
+      <Name>Inuit Epic Cultural</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193792</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193797</ItemLink>
+          <Weight>4</Weight>
+        </Item>
+        <Item>
+          <ItemLink>115476</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115479</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115482</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

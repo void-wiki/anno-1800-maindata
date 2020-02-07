@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>No-one bought your item.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15995</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234147</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265407</GUID>
+      <Name>AT_Narrator_OnlineTrade_Warning_OnlineTradeTimedOut</Name>
+    </Standard>
+  </Values>
+</Asset>

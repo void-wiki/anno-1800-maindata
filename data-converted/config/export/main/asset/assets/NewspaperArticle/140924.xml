@@ -1,0 +1,36 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140924</GUID>
+      <Name>FishSupplyVeryBad</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>9830</Headline>
+      <Subline>9831</Subline>
+      <Image>142101</Image>
+      <Category>Satisfaction</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <RecoveryByInterval>50</RecoveryByInterval>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <ArticleEffect>NeedConsumption</ArticleEffect>
+      <EffectValue>10</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

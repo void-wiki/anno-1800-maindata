@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We have made every conceivable dispensation for Pincess Qing, as we are compelled do with visiting royalty!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1225</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212182</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>250613</GUID>
+      <Name>AT_3rdParty02_IdleMessageGossip_Qing</Name>
+    </Standard>
+  </Values>
+</Asset>

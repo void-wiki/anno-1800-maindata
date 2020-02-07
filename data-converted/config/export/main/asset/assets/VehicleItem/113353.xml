@@ -1,0 +1,65 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>113353</GUID>
+      <Name>Renowned Excavator</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_farmer_102_b.png</IconFilename>
+      <InfoDescription>113299</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Renowned Excavator</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32414</LineID>
+    </Text>
+    <Item>
+      <Allocation>DivingVessel</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>112000</TradePrice>
+      <TradePriceOnlineCurrency>100</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Hunting</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>113299</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade>
+      <RarityWeightUpgrade>
+        <Rare>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Rare>
+      </RarityWeightUpgrade>
+      <AllocationWeightUpgrade>
+        <Museum>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Museum>
+      </AllocationWeightUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

@@ -1,0 +1,76 @@
+<Asset>
+  <Template>Collectable</Template>
+  <Values>
+    <Collectable>
+      <DestroyOnCollect>1</DestroyOnCollect>
+      <OnCollect>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionDeleteObjects</Template>
+                  <Values>
+                    <Action />
+                    <ActionDeleteObjects />
+                    <ObjectFilter>
+                      <ObjectGUID>102664</ObjectGUID>
+                    </ObjectFilter>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnCollect>
+    </Collectable>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/main_arc_alonso_castaways/castaway_prisoner.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>102665</GUID>
+      <Name>QO Castaway - Prisoners - Alonso Main Arc</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_prisoners_cast_away.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Walking>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Prisoners</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29528</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214110</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+  </Values>
+</Asset>

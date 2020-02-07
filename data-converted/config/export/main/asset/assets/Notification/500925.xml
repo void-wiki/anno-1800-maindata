@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500925</GUID>
+      <Name>Session discovered South America</Name>
+      <ID>NotificationSessionDiscovered</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>12670</Title>
+            <NotificationMainIconAsset>180025</NotificationMainIconAsset>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>12671</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>500</NotificationPriority>
+            <NotificationMinDisplayTime>15000</NotificationMinDisplayTime>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265161</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

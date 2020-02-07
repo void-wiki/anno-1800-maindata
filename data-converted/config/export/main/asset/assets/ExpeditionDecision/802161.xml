@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802161</GUID>
+      <Name>Selfless Deeds 1.2.1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202359</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/stranger_things_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;No sailor harmed, no child saved.&lt;/b&gt; The crew manages to run back to the village, avoiding the multiple gunshots fired by the kidnappers. That no sailor was wounded is a miracle, but it pales when your rescue team comes back with no rescued child.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21017</LineID>
+    </Text>
+  </Values>
+</Asset>

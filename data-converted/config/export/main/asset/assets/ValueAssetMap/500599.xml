@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>500599</GUID>
+      <Name>FireChanceGlobalIconMap</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-1000000</ValidFrom>
+          <Asset>500629</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-1</ValidFrom>
+          <Asset>500630</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1</ValidFrom>
+          <Asset>500631</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

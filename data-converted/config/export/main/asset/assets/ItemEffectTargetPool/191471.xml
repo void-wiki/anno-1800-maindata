@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191471</GUID>
+      <Name>all eu farms</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Old World Crop Farms</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21941</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010262</GUID>
+        </Item>
+        <Item>
+          <GUID>1010264</GUID>
+        </Item>
+        <Item>
+          <GUID>1010265</GUID>
+        </Item>
+        <Item>
+          <GUID>100655</GUID>
+        </Item>
+        <Item>
+          <GUID>100654</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

@@ -1,0 +1,58 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>116970</GUID>
+      <Name>DLC03 Achievement04</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DLC03</AchievementCategory>
+      <AchievementTitle>116958</AchievementTitle>
+      <AchievementDescription>116964</AchievementDescription>
+      <AchievementUPlayID>123</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Common</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <Context>114705</Context>
+            <ComparisonOp>Equals</ComparisonOp>
+            <CounterValueType>Max</CounterValueType>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationByLevel</PlayerCounter>
+                      <Context>112643</Context>
+                      <CounterAmount>1000</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>30</UplayActionID>
+      <UplayXP>400</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

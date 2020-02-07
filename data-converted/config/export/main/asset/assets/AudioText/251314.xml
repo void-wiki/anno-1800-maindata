@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A wibbly-wobbly welcome!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2349</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212602</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251314</GUID>
+      <Name>AT_ai03_WelcomeToPlayer5</Name>
+    </Standard>
+  </Values>
+</Asset>

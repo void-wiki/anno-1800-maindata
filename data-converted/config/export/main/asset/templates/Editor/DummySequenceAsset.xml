@@ -1,0 +1,13 @@
+<Template>
+  <Name>DummySequenceAsset</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+  </Properties>
+</Template>

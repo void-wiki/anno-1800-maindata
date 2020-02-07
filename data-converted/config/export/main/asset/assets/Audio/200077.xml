@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200077</GUID>
+      <Name>wwe_voc_mur_agriculture</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMaximum>16595</DurationMaximum>
+        </English>
+        <German>
+          <DurationMaximum>15660</DurationMaximum>
+        </German>
+        <French>
+          <DurationMaximum>16156</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMaximum>15745</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1488369398</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

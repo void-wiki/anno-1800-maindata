@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A magician NEVER reveals his secrets.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12560</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231565</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261399</GUID>
+      <Name>AT_ai01_PlyrScienceNegative3</Name>
+    </Standard>
+  </Values>
+</Asset>

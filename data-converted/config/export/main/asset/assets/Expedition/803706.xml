@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>803706</GUID>
+      <Name>Test Expedition - The Coral Island</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_wild.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>3597</ExpeditionDescription>
+      <ExpeditionRegion>SouthAmerica</ExpeditionRegion>
+      <EventList>
+        <Item>
+          <EventOrEventPool>803537</EventOrEventPool>
+        </Item>
+      </EventList>
+      <FillThreats>1</FillThreats>
+      <MinPauseBetweenEvents>30000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>30000</MaxPauseBetweenEvents>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

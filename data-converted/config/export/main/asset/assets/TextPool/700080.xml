@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700080</GUID>
+      <Name>OilTanker_MovePool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268398</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268399</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268400</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268401</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268402</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

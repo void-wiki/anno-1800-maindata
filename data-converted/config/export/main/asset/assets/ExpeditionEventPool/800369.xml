@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEventPool</Template>
+  <Values>
+    <Standard>
+      <GUID>800369</GUID>
+      <Name>Naval Power Events</Name>
+    </Standard>
+    <ExpeditionEventPool>
+      <EventPool>
+        <Item>
+          <EventOrEventPool>800157</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>801025</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>801620</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802094</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802745</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>803029</EventOrEventPool>
+        </Item>
+      </EventPool>
+    </ExpeditionEventPool>
+  </Values>
+</Asset>

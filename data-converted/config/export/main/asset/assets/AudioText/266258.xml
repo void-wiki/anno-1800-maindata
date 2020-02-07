@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It is believed his accomplice supplies him with goods from the Emporium Exotique!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17641</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233064</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266258</GUID>
+      <Name>CC01_SamuelsMurderer_03</Name>
+    </Standard>
+  </Values>
+</Asset>

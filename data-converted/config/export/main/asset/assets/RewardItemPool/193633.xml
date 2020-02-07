@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193633</GUID>
+      <Name>Old Nate Rare Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192629</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192644</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192664</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192674</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

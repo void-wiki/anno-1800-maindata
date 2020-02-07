@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You wield the torch of hope?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4576</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215062</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254236</GUID>
+      <Name>AT_res_tier03_QuestHandInConfirmation2</Name>
+    </Standard>
+  </Values>
+</Asset>

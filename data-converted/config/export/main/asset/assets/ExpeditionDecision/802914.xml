@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802914</GUID>
+      <Name>The Frozen Chasm 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802915</Option>
+        </Item>
+        <Item>
+          <Option>802916</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;This will never work.&lt;/b&gt; The wounded are bound to the safety rope in the roughest way possible, their injuries pressed against the coarse hemp till the fibres are coloured red. Despite the need to leave quickly, there is no way the men could be pulled up without worsening their state. Your sailors need help. Will the crew still on the ship notice their prolonged absence?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22112</LineID>
+    </Text>
+  </Values>
+</Asset>

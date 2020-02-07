@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192823</GUID>
+      <Name>Characters - Artisan - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192306</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192307</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192308</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192309</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192311</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

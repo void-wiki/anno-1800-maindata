@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803951</GUID>
+      <Name>Trading Post 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803952</Option>
+        </Item>
+        <Item>
+          <Option>803954</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path03.png</PathSegment>
+        <PathPosX>743</PathPosX>
+        <PathPosY>-115</PathPosY>
+        <MapLabel>804138</MapLabel>
+        <LabelPosX>796</LabelPosX>
+        <LabelPosY>352</LabelPosY>
+        <ProgressReview>117457</ProgressReview>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"At least it's a shelter,"&lt;/b&gt; the captain remarks. The men shut the doors on the wind, to find the building interior licked with frost. Rusted hooks hang from the beams, relics of the short-lived fur trade. "Comforts are few and far between out here, I doubt Sir John would have passed it by." &lt;b&gt;There must be some evidence of the lost expedition here.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35233</LineID>
+    </Text>
+  </Values>
+</Asset>

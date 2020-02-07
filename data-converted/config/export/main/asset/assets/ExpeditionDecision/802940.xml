@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802940</GUID>
+      <Name>The Frozen Chasm 1.2.3.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors' best effort cannot compensate the loss of time.&lt;/b&gt; The crew's physical ability is of excellent nature, but the cold suffers no exception when it comes to eating flesh. The wounded are pulled up and the fangs of ice tear their feet and legs away, keeping these trophies as fees for the men's freedom. They are brought back to the ship but can never truly take part in the expedition again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22134</LineID>
+    </Text>
+  </Values>
+</Asset>

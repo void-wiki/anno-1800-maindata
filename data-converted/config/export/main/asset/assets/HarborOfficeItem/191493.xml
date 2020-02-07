@@ -1,0 +1,57 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191493</GUID>
+      <Name>RepairCraneItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_tools.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Scotties Tool</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010525</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute />
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade>
+      <HealRadiusUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </HealRadiusUpgrade>
+      <HealPerMinuteUpgrade>
+        <Value>200</Value>
+        <Percental>1</Percental>
+      </HealPerMinuteUpgrade>
+      <HealBuildingsPerMinuteUpgrade>
+        <Value>200</Value>
+        <Percental>1</Percental>
+      </HealBuildingsPerMinuteUpgrade>
+    </RepairCraneUpgrade>
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hardly worth investing in your island, but then, it won't be yours for long.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1790</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211780</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250573</GUID>
+      <Name>AT_ai07_NpcBuySharesFromPlyr2</Name>
+    </Standard>
+  </Values>
+</Asset>

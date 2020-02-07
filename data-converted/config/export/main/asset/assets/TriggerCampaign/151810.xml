@@ -1,0 +1,226 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151810</GUID>
+      <Name>CQ421_FinalBattle_Movie_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>Noti_SecondFuneral</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionPlayMovie</Template>
+            <Values>
+              <Action />
+              <ActionPlayMovie>
+                <Movie>300008</Movie>
+                <SuppressGamePause>1</SuppressGamePause>
+              </ActionPlayMovie>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectLabel>BrightSands_damagedAfterT_deleteAfterSF_HideProps</ObjectLabel>
+                <ObjectIslands>
+                  <Item>
+                    <Island>160008</Island>
+                  </Item>
+                </ObjectIslands>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectLabel>BrightSands_ruinedAfterT_deleteAfterSF_HideProps</ObjectLabel>
+                <ObjectIslands>
+                  <Item>
+                    <Island>160008</Island>
+                  </Item>
+                </ObjectIslands>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteStreets</Template>
+            <Values>
+              <Action />
+              <ActionDeleteStreets>
+                <InArea>Land_03</InArea>
+                <OnIsland>160008</OnIsland>
+                <SessionOfIsland>180023</SessionOfIsland>
+              </ActionDeleteStreets>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectLabel>BrightSands_pyroFlags</ObjectLabel>
+                <ObjectIslands>
+                  <Item>
+                    <Island>160008</Island>
+                  </Item>
+                </ObjectIslands>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectGUID>101218</ObjectGUID>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectGUID>101981</ObjectGUID>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectGUID>102245</ObjectGUID>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectGUID>101982</ObjectGUID>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectGUID>101983</ObjectGUID>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectGUID>102252</ObjectGUID>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>153250</Quest>
+                <WinQuest>1</WinQuest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>3000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionHostileTakeover</Template>
+                            <Values>
+                              <Action />
+                              <ActionHostileTakeover>
+                                <IslandSession>180023</IslandSession>
+                                <TakeoverIsland>160008</TakeoverIsland>
+                              </ActionHostileTakeover>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionEnableTicks</Template>
+                            <Values>
+                              <Action />
+                              <ActionEnableTicks />
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

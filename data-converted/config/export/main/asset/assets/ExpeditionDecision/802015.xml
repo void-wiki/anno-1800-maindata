@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802015</GUID>
+      <Name>Cracks in the Hull 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseGoods</NegativeOutcomeLosses>
+      <NegativeOutcomeMax>5</NegativeOutcomeMax>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The drown cargo cannot be salvaged.&lt;/b&gt; When the ship finally finds a harbour, its hull is so low under the waterline your crew fears the boat will sink. Although such fears are unfounded, the leakage drowned a good part of their stored food, and the repairs feel like they should have be done much earlier.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21892</LineID>
+    </Text>
+  </Values>
+</Asset>

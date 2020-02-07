@@ -1,0 +1,20 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>116107</GUID>
+      <Name>Arctic Prey Caribous</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>Prey</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>116109</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+      <ClassFlags>IsAnimal</ClassFlags>
+      <UseSpecialPathPlannerLayer>1</UseSpecialPathPlannerLayer>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

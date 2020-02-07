@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A discretionary fleet for national emergencies.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11653</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231472</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>260946</GUID>
+      <Name>AT_3rdParty01_PlayerSelectsNpcShip1</Name>
+    </Standard>
+  </Values>
+</Asset>

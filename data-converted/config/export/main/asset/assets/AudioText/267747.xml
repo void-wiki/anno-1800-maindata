@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The skies above Bright Sands glow with maleficence!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17413</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232711</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267747</GUID>
+      <Name>advisor02_Ch4Ph2_Additional_02</Name>
+    </Standard>
+  </Values>
+</Asset>

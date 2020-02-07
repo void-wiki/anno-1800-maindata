@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203892</GUID>
+      <Name>wwe_sfx_com_flame_thrower_launch_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1795</DurationMinimum>
+          <DurationMaximum>2622</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>75</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>814030429</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

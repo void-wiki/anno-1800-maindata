@@ -1,0 +1,55 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190601</GUID>
+      <Name>IncidentInfectableItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_gorilla.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>PlaqueItem</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190041</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute />
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentFireIncreaseUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IncidentFireIncreaseUpgrade>
+      <IncidentIllnessIncreaseUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IncidentIllnessIncreaseUpgrade>
+      <IncidentRiotIncreaseUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IncidentRiotIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

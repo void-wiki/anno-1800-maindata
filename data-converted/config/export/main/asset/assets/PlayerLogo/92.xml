@@ -1,0 +1,18 @@
+<Asset>
+  <Template>PlayerLogo</Template>
+  <Values>
+    <Standard>
+      <GUID>92</GUID>
+      <Name>PlayerLogo01</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_01.png</IconFilename>
+      <ID>TestLogo</ID>
+    </Standard>
+    <PlayerLogo>
+      <DefaultLogo>data/ui/2kimages/main/profiles/playerlogos/large/player_logo_01.png</DefaultLogo>
+      <MiniLogo>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_01.png</MiniLogo>
+    </PlayerLogo>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </Values>
+</Asset>

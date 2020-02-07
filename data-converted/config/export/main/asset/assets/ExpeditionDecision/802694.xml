@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802694</GUID>
+      <Name>The Runaway 1.1.2.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They don't give in easily.&lt;/b&gt; A second shrill whistle sounds from the other ship, and the navy-uniformed brigade pour up the boarding plank onto your deck. But your men are ready for them. There follows a heavy skirmish. Some are injured, but your forces prevail. The authorities surrender and depart. Though grateful, your fugitive wishes to avoid causing further injury by his presence, and insists on alighting at the next port.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21628</LineID>
+    </Text>
+  </Values>
+</Asset>

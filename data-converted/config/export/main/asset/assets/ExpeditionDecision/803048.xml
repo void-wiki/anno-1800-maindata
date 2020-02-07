@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803048</GUID>
+      <Name>Fear of the Light 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803050</Option>
+        </Item>
+        <Item>
+          <Option>803051</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The symptoms speak for themselves.&lt;/b&gt; The man's neck is stiff, his breathing distraught, his cheeks paralysed. As the doctor explains to the rest of the crew the details of meningitis, the lying patient suddenly trembles, taken by a seizure of such intensity that his whole body arches upwards, bent in a pyramidal pose of impossible tension. He screams out the name of your doctor before falling down, dead.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26301</LineID>
+    </Text>
+  </Values>
+</Asset>

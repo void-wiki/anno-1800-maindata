@@ -1,0 +1,34 @@
+<Asset>
+  <Template>IncidentCommunication</Template>
+  <Values>
+    <Standard>
+      <GUID>141668</GUID>
+      <Name>IllnessDefaultCommunication</Name>
+    </Standard>
+    <IncidentCommunication>
+      <IncidentStartWithoutNearbyResolverNotification>501792</IncidentStartWithoutNearbyResolverNotification>
+      <IncidentLostFirstBuildingNotification>501793</IncidentLostFirstBuildingNotification>
+      <IncidentEscalatedNotification>500303</IncidentEscalatedNotification>
+      <IncidentEndNotification>500306</IncidentEndNotification>
+      <IncidentEndDestructionNotification>500473</IncidentEndDestructionNotification>
+      <IncidentPamsyTriggers>
+        <Item>
+          <InfectedAreaSize>27</InfectedAreaSize>
+          <PaMSyTrigger>IncidentStart</PaMSyTrigger>
+          <PaMSyContextAsset>140585</PaMSyContextAsset>
+        </Item>
+      </IncidentPamsyTriggers>
+      <NewspaperArticleIncidentStart>140761</NewspaperArticleIncidentStart>
+      <NewspaperArticleIncidentSolved>140767</NewspaperArticleIncidentSolved>
+      <NewspaperArticleIncidentTimedOut>140766</NewspaperArticleIncidentTimedOut>
+      <NewspaperArticleIncidentSpecialAction>140830</NewspaperArticleIncidentSpecialAction>
+      <NewspaperArticleIncidentEndDestroyed>140980</NewspaperArticleIncidentEndDestroyed>
+      <NewspaperArticleIncidentEscalated>140762</NewspaperArticleIncidentEscalated>
+      <NewspaperArticleIncidentEscalatedSolved>140974</NewspaperArticleIncidentEscalatedSolved>
+      <NewspaperArticleIncidentEscalatedTimedOut>140975</NewspaperArticleIncidentEscalatedTimedOut>
+      <NewspaperArticleIncidentEscalatedSpecialAction>140960</NewspaperArticleIncidentEscalatedSpecialAction>
+      <NewspaperArticleIncidentEscalatedEndDestroyed>140983</NewspaperArticleIncidentEscalatedEndDestroyed>
+      <IncidentMusicType>Illness</IncidentMusicType>
+    </IncidentCommunication>
+  </Values>
+</Asset>

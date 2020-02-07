@@ -1,0 +1,51 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151472</GUID>
+      <Name>CQ420_FinalBattle_FlagshipCombatDialog04</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionObjHPCheck</Template>
+        <Values>
+          <Condition />
+          <ConditionObjHPCheck>
+            <HPTargetGUID>101248</HPTargetGUID>
+            <HPTargetOwner>Campaign_character_04_pyrophorian_gold</HPTargetOwner>
+            <HPPercentage>0.1</HPPercentage>
+            <HPComparison>LessThan</HPComparison>
+          </ConditionObjHPCheck>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>176</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>15339</NotificationText>
+                      <DisplayTimeout>5000</DisplayTimeout>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267862</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A farmer's life may be humblest. But green pastures, hands swept through corn, that is God's idyll!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4561</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215031</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254221</GUID>
+      <Name>AT_res_tier03_IdleMessageGossip_Farmer</Name>
+    </Standard>
+  </Values>
+</Asset>

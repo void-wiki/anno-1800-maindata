@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700095</GUID>
+      <Name>CargoShip_MovePool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268636</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268637</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268638</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268639</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268640</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Climb back in the cannon lunkhead, the fuse is already lit!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7119</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217106</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255478</GUID>
+      <Name>AT_3rd_party_03_Follow-UpQuestOffered1</Name>
+    </Standard>
+  </Values>
+</Asset>

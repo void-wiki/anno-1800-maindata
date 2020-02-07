@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Did you forget to flick the switch?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11330</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222901</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260823</GUID>
+      <Name>AT_res_tier04_ProductionHasNoElectricity2</Name>
+    </Standard>
+  </Values>
+</Asset>

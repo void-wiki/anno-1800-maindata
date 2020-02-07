@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803687</GUID>
+      <Name>In Dangerous territory 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Anxious to avoid misdiagnosis, the doctor is slow to react.&lt;/b&gt; Before long the one who took a dart to the neck suffers opisthotonos— his back arching in spasm, before giving out to exhaustion. Death sparks the good doctor into life, "ah, so it's strychnine!" he says gesturing to the trees, "sourced from breadfruit." Chloroform relaxes his patients for a cleansing irrigation, and they somehow manage to recover. Time to leave this place.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32997</LineID>
+    </Text>
+  </Values>
+</Asset>

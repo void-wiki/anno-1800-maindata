@@ -1,0 +1,49 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191093</GUID>
+      <Name>bird of paradise</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_bird_of_paradise.png</IconFilename>
+      <InfoDescription>13716</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bird-of-Paradise</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26469</LineID>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <TradePrice>281000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100812</ChangeModule>
+      <ForcedFeedbackVariation>101799</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203285</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>SouthAmerica;SouthernSouthAmerica</ItemRegions>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>12866</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

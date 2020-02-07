@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Help enough to demolish the larger ruins. Let's breathe some life into this place!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15480</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232194</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>264970</GUID>
+      <Name>advisor_01_CleanTheIsland_01</Name>
+    </Standard>
+  </Values>
+</Asset>

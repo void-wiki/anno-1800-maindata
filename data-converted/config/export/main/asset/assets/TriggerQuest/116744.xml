@@ -1,0 +1,98 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>116744</GUID>
+      <Name>Trigger Close OutroNewspaper</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/newspaper/icon_anarchist_newspaper_02.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>LeaveUIState</ConditionEvent>
+            <ContextData>NewspaperSpecialEdition</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>2000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionNotification</Template>
+                            <Values>
+                              <Action />
+                              <ActionNotification>
+                                <Notification>
+                                  <Template>CharacterNotification</Template>
+                                  <Values>
+                                    <CharacterNotification>
+                                      <Profile>117422</Profile>
+                                    </CharacterNotification>
+                                    <BaseNotification>
+                                      <NotificationLabel>Noti_CloseOutroNewspaper</NotificationLabel>
+                                      <NotificationText>116745</NotificationText>
+                                      <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+                                      <RestrictedToSessionOrRegions>
+                                        <Item>
+                                          <SessionOrRegion>180045</SessionOrRegion>
+                                        </Item>
+                                      </RestrictedToSessionOrRegions>
+                                    </BaseNotification>
+                                    <NotificationSubtitle>
+                                      <Subtitle>116514</Subtitle>
+                                    </NotificationSubtitle>
+                                  </Values>
+                                </Notification>
+                              </ActionNotification>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>114177</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,47 @@
+<Asset>
+  <Template>CollectableFeedback</Template>
+  <Values>
+    <Collectable>
+      <CollectOnSelection>0</CollectOnSelection>
+      <CollectableType>LandCollectable</CollectableType>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_units/artic_explorers/arctic_explorers_group.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Standard>
+      <GUID>114136</GUID>
+      <Name>ArcticQ111_SirJohn_Pickup</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/missing_captain.png</IconFilename>
+    </Standard>
+    <Selection>
+      <Selectable>0</Selectable>
+    </Selection>
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Lost Expedition</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35122</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter />
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+    <FeedbackController />
+  </Values>
+</Asset>

@@ -1,0 +1,21 @@
+<Template>
+  <Name>ModuleBuildingEfficiencyObjective</Name>
+  <Properties>
+    <ConditionQuestModuleBuildingEfficiency>
+      <Efficiency>1</Efficiency>
+    </ConditionQuestModuleBuildingEfficiency>
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12758</TextCombinedContextValue>
+    </ConditionQuestObjective>
+    <ConditionPropsNegatable />
+    <ConditionPropsSessionSettings />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </ExecutionPlace>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

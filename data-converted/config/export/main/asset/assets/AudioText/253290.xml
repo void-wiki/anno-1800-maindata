@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You wouldn’t have survived a day in those mines.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7495</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217528</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253290</GUID>
+      <Name>AT_ai04_QuestFailed3</Name>
+    </Standard>
+  </Values>
+</Asset>

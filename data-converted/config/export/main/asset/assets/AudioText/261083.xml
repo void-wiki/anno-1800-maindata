@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Miss Jorgensen is a distant relative. Although my relatives are all quite distant.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12200</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231467</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261083</GUID>
+      <Name>AT_3rdParty01_IdleMessageGossip_Jorgensen</Name>
+    </Standard>
+  </Values>
+</Asset>

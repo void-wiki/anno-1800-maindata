@@ -1,0 +1,21 @@
+<Asset>
+  <Template>TestData_Simple</Template>
+  <Values>
+    <Standard>
+      <GUID>1000101</GUID>
+      <Name>TestData_Simple</Name>
+      <ID>PlaceHolderMesh</ID>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>test_data/graphics/placeholder/placeholder.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <DynamicVariation />
+    <SoundEmitter />
+    <FeedbackController />
+  </Values>
+</Asset>

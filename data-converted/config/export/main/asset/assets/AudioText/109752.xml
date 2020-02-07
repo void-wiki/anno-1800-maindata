@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Well, enjoy the cage you have built for yourself.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30372</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204190</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109752</GUID>
+      <Name>AT_ai10_NegFeedbackToPlyr1</Name>
+    </Standard>
+  </Values>
+</Asset>

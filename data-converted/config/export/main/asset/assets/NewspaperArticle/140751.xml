@@ -1,0 +1,30 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140751</GUID>
+      <Name>Fire Lv1 Timed Out</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11207</Headline>
+      <Subline>11208</Subline>
+      <Image>142126</Image>
+      <Category>Special</Category>
+      <NewsPriority>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

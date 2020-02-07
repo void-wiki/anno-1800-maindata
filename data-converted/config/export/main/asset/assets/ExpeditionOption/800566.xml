@@ -1,0 +1,45 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800566</GUID>
+      <Name>The Visitation 1.3.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Smoke it out of hiding</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5579</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800569</Decision>
+        </Item>
+      </FollowupDecisions>
+      <Requirements>
+        <Item>
+          <ItemOrProduct>120008</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>1010196</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>1010226</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>1010252</ItemOrProduct>
+        </Item>
+        <Item>
+          <ItemOrProduct>1010259</ItemOrProduct>
+        </Item>
+      </Requirements>
+      <ConsumeRequirement>1</ConsumeRequirement>
+      <IsFavorableOption>1</IsFavorableOption>
+    </ExpeditionOption>
+  </Values>
+</Asset>

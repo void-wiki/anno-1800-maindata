@@ -1,0 +1,20 @@
+<Asset>
+  <Template>TreasureMapScene</Template>
+  <Values>
+    <Standard>
+      <GUID>113877</GUID>
+      <Name>TreasureMapScene</Name>
+      <ID>TreasureMapScene</ID>
+    </Standard>
+    <TreasureMapScene>
+      <RarityToMapQuality>
+        <Epic>
+          <MapQuality>Medium</MapQuality>
+        </Epic>
+        <Legendary>
+          <MapQuality>High</MapQuality>
+        </Legendary>
+      </RarityToMapQuality>
+    </TreasureMapScene>
+  </Values>
+</Asset>

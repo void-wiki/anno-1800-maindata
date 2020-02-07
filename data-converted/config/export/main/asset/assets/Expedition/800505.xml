@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>800505</GUID>
+      <Name>Test Expedition - The Singular Case of the Midshipman</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_severeweather.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>3597</ExpeditionDescription>
+      <ExpeditionRegion>NorthernEurope</ExpeditionRegion>
+      <EventList>
+        <Item>
+          <EventOrEventPool>800503</EventOrEventPool>
+        </Item>
+      </EventList>
+      <FillThreats>1</FillThreats>
+      <MinPauseBetweenEvents>30000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>30000</MaxPauseBetweenEvents>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

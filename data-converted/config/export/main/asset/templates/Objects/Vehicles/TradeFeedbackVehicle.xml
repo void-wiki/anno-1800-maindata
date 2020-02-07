@@ -1,0 +1,24 @@
+<Template>
+  <Name>TradeFeedbackVehicle</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection>
+      <GUIType>Vehicle</GUIType>
+      <Selectable>0</Selectable>
+    </Selection>
+    <Walking>
+      <SpecialMovementType />
+      <TurnSpeed>75</TurnSpeed>
+    </Walking>
+    <Text />
+    <SoundEmitter />
+    <MinimapToken />
+    <Drifting />
+  </Properties>
+</Template>

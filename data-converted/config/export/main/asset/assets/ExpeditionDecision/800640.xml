@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800640</GUID>
+      <Name>A Grizzly Encounter 1.4.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Dressing as pantomime trees is a bad idea&lt;/b&gt;, and as the bears attack, the flimsy branches the crew intended to cover their faces prove no more effective in self-defence. The ensuing scene might have made for an impressive spectacle on the stage, though only as the most gruesome of tragedies.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5726</LineID>
+    </Text>
+  </Values>
+</Asset>

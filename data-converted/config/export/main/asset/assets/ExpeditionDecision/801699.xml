@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801699</GUID>
+      <Name>The Chasing 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801700</Option>
+        </Item>
+        <Item>
+          <Option>801703</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The lookout never loses them&lt;/b&gt;, despite the vessel being nearly out of sight. As its small grey outline rounds an island, the lookout gestures excitedly to starboard. He has seen the golden thread of an inlet, by the navigation of which you may cut the nose off the cape, and intercept the Pyrphorians on the other side.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21129</LineID>
+    </Text>
+  </Values>
+</Asset>

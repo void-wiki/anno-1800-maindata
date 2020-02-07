@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802621</GUID>
+      <Name>The Mountain Maw 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802622</Option>
+        </Item>
+        <Item>
+          <Option>802623</Option>
+        </Item>
+        <Item>
+          <Option>802624</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The explorers get more lost with each passing day.&lt;/b&gt; They venture deep into the mountain and quickly abandon the idea of leaving marks for the lost sailors, too concerned for their own survival. The frost solidifies their clothes, steals their toes and rots their food.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21830</LineID>
+    </Text>
+  </Values>
+</Asset>

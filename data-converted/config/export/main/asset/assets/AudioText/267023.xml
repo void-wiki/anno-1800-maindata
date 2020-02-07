@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The firemen confirm it was arson! These fires were set upon us!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17230</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233456</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267023</GUID>
+      <Name>advisor01_Ch3Ph1_Additional_15</Name>
+    </Standard>
+  </Values>
+</Asset>

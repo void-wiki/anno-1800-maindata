@@ -1,0 +1,36 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>2001141</GUID>
+      <Name>Residence5Children</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_module_workforce.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>141133</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>141917</UnitAsset>
+          <RelativeProbability>50</RelativeProbability>
+        </Item>
+        <Item>
+          <UnitAsset>141918</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>141134</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>141919</UnitAsset>
+          <RelativeProbability>50</RelativeProbability>
+        </Item>
+        <Item>
+          <UnitAsset>141920</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Listen;DangerAvoiding;DummyTalk;DummyVanish</AllowedReactions>
+      <ClassFlags>InhabitsTier5Building;IsChild</ClassFlags>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

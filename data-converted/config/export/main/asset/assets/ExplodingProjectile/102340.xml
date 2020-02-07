@@ -1,0 +1,48 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>102340</GUID>
+      <Name>LargeMultiHowitzer</Name>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>1</ShotHeight>
+      <ShotAngle>15</ShotAngle>
+      <ProjectileSpeed>60</ProjectileSpeed>
+      <DamageType>Cannon</DamageType>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_howitzer_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>1</InnerDamageRadius>
+      <InnerDamage>300</InnerDamage>
+      <DebrisForceY>0</DebrisForceY>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>1</OuterDamageRadius>
+      <MinimumDamage>1800</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235846</Sound>
+          </Item>
+        </ProjectileImpact>
+        <ProjectileVolley>
+          <Item>
+            <Sound>235847</Sound>
+          </Item>
+        </ProjectileVolley>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident />
+  </Values>
+</Asset>

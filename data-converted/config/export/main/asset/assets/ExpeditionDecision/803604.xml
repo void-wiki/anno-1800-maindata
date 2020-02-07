@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803604</GUID>
+      <Name>Lianas 1.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistWithAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You have lost one of your bravest.&lt;/b&gt;The first cut is wild, and sends them into a second tumble: there are gasps from above as your soldier clutches desperately at foliage, but try as they might, they are unable to find anything to grip. The poor soldier pinwheels to the very bottom of the ravine.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32972</LineID>
+    </Text>
+  </Values>
+</Asset>

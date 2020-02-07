@@ -1,0 +1,50 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>192099</GUID>
+      <Name>Whitehead Torpedo MK III</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/military_items/icon_torpedo_rework.png</IconFilename>
+      <InfoDescription>15950</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <MouseEffect>140112</MouseEffect>
+      <Projectile>192101</Projectile>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>140</ActionDistance>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>1000</ActionDuration>
+      <ActionDescription>12829</ActionDescription>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>35000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Whitehead Torpedo MK III</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

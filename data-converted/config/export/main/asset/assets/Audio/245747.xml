@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245747</GUID>
+      <Name>Play_AI_DRYOLDNA_BASIC_YLS_00008_01OLDNA_33705</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3050</DurationMinimum>
+          <DurationMaximum>3050</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>3025</DurationMinimum>
+          <DurationMaximum>3025</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3212</DurationMinimum>
+          <DurationMaximum>3212</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2961</DurationMinimum>
+          <DurationMaximum>2961</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4115858736</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

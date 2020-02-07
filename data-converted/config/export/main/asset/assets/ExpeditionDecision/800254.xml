@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800254</GUID>
+      <Name>The Ghost Ship 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800255</Option>
+        </Item>
+        <Item>
+          <Option>800256</Option>
+        </Item>
+        <Item>
+          <Option>800257</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;After weeks of hot weather, supplies of drinking water have become dangerously low.&lt;/b&gt; It therefore seems a minor miracle when a fellow ship appears on the horizon, for surely they have water to share? But as it draws near, the crew is aghast, for there is no sign of life aboard. "It is a ghost ship, we must flee before it is too late!" they cry.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5530</LineID>
+    </Text>
+  </Values>
+</Asset>

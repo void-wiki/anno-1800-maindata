@@ -1,0 +1,106 @@
+<Asset>
+  <Template>TutorialQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>151302</GUID>
+      <Name>Diplomacy Button Silva</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_09.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <FailureMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </FailureMessage>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <LatencyTimer>5000</LatencyTimer>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <KeepCheckingPreconditionsWhenRunning>1</KeepCheckingPreconditionsWhenRunning>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionIsDiscovered</Template>
+                  <Values>
+                    <Condition />
+                    <ParticipantRelation>
+                      <TargetParticipant>Second_ai_09_Silva</TargetParticipant>
+                    </ParticipantRelation>
+                    <ConditionIsDiscovered />
+                    <ConditionPropsNegatable />
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Diplomacy Button</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26043</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>TutorialObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+              </ConditionQuestObjective>
+              <ConditionQuestTutorial>
+                <InteractionFlow>
+                  <Item>
+                    <TutorialInteraction>
+                      <Template>ConditionTutorialInteraction</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionTutorialInteraction>
+                          <HintType>UIElement</HintType>
+                          <HintAnchor>BottomLeft</HintAnchor>
+                          <HintText>14473</HintText>
+                          <TutorialUiCategory>SessionScene</TutorialUiCategory>
+                          <RefGuid>2</RefGuid>
+                        </ConditionTutorialInteraction>
+                      </Values>
+                    </TutorialInteraction>
+                  </Item>
+                </InteractionFlow>
+              </ConditionQuestTutorial>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority>
+      <BasePriority>50</BasePriority>
+    </QuestDynamicPriority>
+  </Values>
+</Asset>

@@ -1,0 +1,12 @@
+<Template>
+  <Name>FeedbackObject</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh />
+    <SoundEmitter />
+    <FeedbackController />
+  </Properties>
+</Template>

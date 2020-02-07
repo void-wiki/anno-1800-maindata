@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800981</GUID>
+      <Name>Baptism of Fire 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistWithAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Alas! Fire and brimstone!&lt;/b&gt; Some of the crew seem entranced by the glowing entrance. The temperatures are volcanic, but the diabolic procession of fanatics are numb to the pain. The others watch horrified, as fabric, skin and flesh renders before their eyes. It makes the long way round seem a miracle of mercy. </Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13150</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141740</GUID>
+      <Name>Diplomacy Pirates Resettled</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14347</Headline>
+      <Subline>14348</Subline>
+      <Image>142167</Image>
+      <Category>Diplomacy</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>500</StartValue>
+        <LossOnPublish>0</LossOnPublish>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>RiotChanceGlobal</ArticleEffect>
+      <EffectValue>25</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

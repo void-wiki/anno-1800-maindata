@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802134</GUID>
+      <Name>Lava Maze 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveVeryHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202365</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your hunters find no pattern in the animals' frenzy.&lt;/b&gt; The sailors run in a display of panic and poor judgment, mimicking the animals' despaired behavior. The crew still on the ship can only watch in horror as the island's greatest predator burns all preys, be they beast or human.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21758</LineID>
+    </Text>
+  </Values>
+</Asset>

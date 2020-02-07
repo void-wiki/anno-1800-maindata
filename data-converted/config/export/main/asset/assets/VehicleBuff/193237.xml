@@ -1,0 +1,29 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193237</GUID>
+      <Name>Kamikaze Buff B</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_suicide_bombs_3.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Kamikaze</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <UseProjectile>102628</UseProjectile>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800206</GUID>
+      <Name>The Inspector 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190348</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Rather excellent company",&lt;/b&gt; says the Inspector over a glass of port, "I've been dying for something to break the tedium of the sea." Surprising even his own soldiers, the Inspector demands a gift be brought over from the clipper to mark the occasion. Of course, when he finally leaves, the crew collapse about in relief.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5817</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>803823</GUID>
+      <Name>Botanical Expedition Average</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/expeditions/icon_expedition_botanical.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>114257</ExpeditionName>
+      <ExpeditionDescription>114256</ExpeditionDescription>
+      <ExpeditionRegion>SouthernSouthAmerica</ExpeditionRegion>
+      <ExpeditionDifficulty>Average</ExpeditionDifficulty>
+      <FillEventPool>800037</FillEventPool>
+      <FillThreats>1</FillThreats>
+      <WorldMapCardBG>501841</WorldMapCardBG>
+      <ExpeditionWorldMapAsset>data/graphics/ui/3d_objects/expedition_marker/expedition_marker_07.cfg</ExpeditionWorldMapAsset>
+      <Reward>114279</Reward>
+      <BackgroundVideo>data/dlc02/ui/video/dlc02_botanica_south_america.bk2</BackgroundVideo>
+      <BackgroundVideoSounds>
+        <Item>
+          <Event>224456</Event>
+        </Item>
+      </BackgroundVideoSounds>
+    </Expedition>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+    <WorldMapSound />
+  </Values>
+</Asset>

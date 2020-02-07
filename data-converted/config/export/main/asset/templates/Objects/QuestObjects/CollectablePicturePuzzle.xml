@@ -1,0 +1,26 @@
+<Template>
+  <Name>CollectablePicturePuzzle</Name>
+  <Properties>
+    <Standard />
+    <Collectable>
+      <DestroyOnCollect>1</DestroyOnCollect>
+      <CollectOnSelection>1</CollectOnSelection>
+    </Collectable>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <CommandQueue />
+    <Text />
+    <Infolayer />
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter />
+    <FeedbackController />
+    <Trailer />
+    <Blocking />
+  </Properties>
+</Template>

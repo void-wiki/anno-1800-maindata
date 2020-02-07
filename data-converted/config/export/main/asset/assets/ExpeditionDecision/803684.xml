@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803684</GUID>
+      <Name>In Dangerous territory 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803685</Option>
+        </Item>
+        <Item>
+          <Option>803689</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The rain of darts comes to an end,&lt;/b&gt; when your group quickly and cleverly diffuses, each finding their own space. Out of respect, perhaps, your ambushers decide to retreat, or do they believe the damage is already done? Those who were hit begin to wheeze heavily, collapsing to the floor, for &lt;b&gt;the darts are tipped with poison!&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32994</LineID>
+    </Text>
+  </Values>
+</Asset>

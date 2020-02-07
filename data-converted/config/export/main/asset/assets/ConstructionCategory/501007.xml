@@ -1,0 +1,47 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501007</GUID>
+      <Name>sa construction menu harbour 01 (tier)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_harbour_buildings.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>101339</Building>
+        </Item>
+        <Item>
+          <Building>101277</Building>
+        </Item>
+        <Item>
+          <Building>101278</Building>
+        </Item>
+        <Item>
+          <Building>101286</Building>
+        </Item>
+        <Item>
+          <Building>101573</Building>
+        </Item>
+        <Item>
+          <Building>101563</Building>
+        </Item>
+        <Item>
+          <Building>1010339</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19173</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Small Harbour</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27186</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

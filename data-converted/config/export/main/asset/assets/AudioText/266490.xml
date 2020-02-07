@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>One moment, her majesty has not arrived yet.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16487</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234436</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_26</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266490</GUID>
+      <Name>AT_3rdParty02_Credits_09</Name>
+    </Standard>
+  </Values>
+</Asset>

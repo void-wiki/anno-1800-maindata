@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I don't know if the Queen knows what a burden power over life and death becomes.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12377</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230166</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261048</GUID>
+      <Name>AT_3rdParty08_IdleMessageGossip_Queen</Name>
+    </Standard>
+  </Values>
+</Asset>

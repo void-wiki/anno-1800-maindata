@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802106</GUID>
+      <Name>Sea Still 1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190423</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text> &lt;b&gt;A surge of belief animates the stranded sailors.&lt;/b&gt; "You are saved!" cries your lookout, "your penance is over!" Under the encouragement of your lieutenants the other crew grab the rope, and with the desperate strength of hope, they cross the distance to reach your ship. Your crew's good will has shone through, the grateful survivors join your expedition without a second thought.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21491</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193152</GUID>
+      <Name>Culture - Tourism Souvenir - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190528</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190481</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190487</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190534</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

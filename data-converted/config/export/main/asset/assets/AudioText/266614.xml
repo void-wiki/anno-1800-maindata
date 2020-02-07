@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Don’t grovel for your Uncle. He has no power over you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17340</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232708</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266614</GUID>
+      <Name>advisor_02_Ch1Ph2_Additional_09</Name>
+    </Standard>
+  </Values>
+</Asset>

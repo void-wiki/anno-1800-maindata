@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803964</GUID>
+      <Name>Polar Bear 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <InsertEvent>804151</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sharp-eared watchman keeps vigil.&lt;/b&gt; In the small dark of Arctic summer, he catches the scratch of a bear's unretractable claws on ice. It is trying to approach discretely but the watchman is ready. At the sound of his gun the rest wake with a jolt, only to find a big dead bear at his feet. &lt;b&gt;They celebrate their trophy, and are soon back en route to Ivujivik.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35245</LineID>
+    </Text>
+  </Values>
+</Asset>

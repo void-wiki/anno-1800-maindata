@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>22464</GUID>
+      <Name>PopulationGraph_02_Infotip</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([RefGuid]) Text] / [EconomyStatistic PopulationStatistic Happiness([RefGuid])] Happiness</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36068</LineID>
+    </Text>
+  </Values>
+</Asset>

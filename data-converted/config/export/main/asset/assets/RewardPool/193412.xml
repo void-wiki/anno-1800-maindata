@@ -1,0 +1,34 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193412</GUID>
+      <Name>Rescue Mission Reward Pool Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192972</ItemLink>
+          <ItemGroup>1161849649</ItemGroup>
+        </Item>
+        <Item>
+          <ItemLink>192952</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192957</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>190430</ItemLink>
+          <MinAmount>30</MinAmount>
+          <MaxAmount>40</MaxAmount>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>12797</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

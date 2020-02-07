@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800337</GUID>
+      <Name>The Minefield 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800338</Option>
+        </Item>
+        <Item>
+          <Option>800340</Option>
+        </Item>
+        <Item>
+          <Option>800352</Option>
+        </Item>
+        <Item>
+          <Option>800357</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;At the cry of "mines!", all rush to the prow.&lt;/b&gt; Sure enough, several of the conical terrors bob seductively below. "Who knows how many of these infernal machines have passed us by, or yet await us. A false move, and this sea shall be a lake of fire! What the devil do we do?"   </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5823</LineID>
+    </Text>
+  </Values>
+</Asset>

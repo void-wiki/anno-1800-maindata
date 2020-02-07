@@ -1,0 +1,45 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>101814</GUID>
+      <Name>underwater_corals</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_05.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_06.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_07.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_08.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_09.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/underwater/underwater_10.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

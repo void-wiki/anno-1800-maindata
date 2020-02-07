@@ -1,0 +1,23 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>501502</GUID>
+      <Name>Farmfields Missing</Name>
+      <ID>InfolayerFarmfieldsMissing</ID>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/building_productivity_extrem_low.cfg</Config>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Missing [AssetData([Selection Picked ModuleOwner DefaultModuleGUID]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27162</LineID>
+    </Text>
+  </Values>
+</Asset>

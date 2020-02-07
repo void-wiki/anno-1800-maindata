@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700074</GUID>
+      <Name>Fleet_MovePool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268712</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268713</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268714</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268715</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268716</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

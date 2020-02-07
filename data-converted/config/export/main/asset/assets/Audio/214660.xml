@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>214660</GUID>
+      <Name>wwe_sfx_bld_inc_burn_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <ActivationRangeOffset>0</ActivationRangeOffset>
+      <MaxAttenuation>50</MaxAttenuation>
+      <StopEvent>214661</StopEvent>
+      <SoundEventType>MiddleBuildingSound</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2401490564</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

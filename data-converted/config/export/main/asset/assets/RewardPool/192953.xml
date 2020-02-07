@@ -1,0 +1,45 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192953</GUID>
+      <Name>Machines - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192679</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192684</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192689</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192694</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192700</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192705</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192710</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192715</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192720</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192725</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

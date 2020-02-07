@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193462</GUID>
+      <Name>Maps - Zoological Maps - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>113194</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>113195</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>113196</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115480</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

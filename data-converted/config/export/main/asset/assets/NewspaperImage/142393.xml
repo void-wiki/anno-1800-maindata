@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>142393</GUID>
+      <Name>CampaignSEPicture_CourtOfJustice</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/the_royal_court_of_justice.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/the_royal_court_of_justice.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/the_royal_court_of_justice.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets16/newspaper/special_edition/the_royal_court_of_justice.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

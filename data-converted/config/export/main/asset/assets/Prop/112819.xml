@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>112819</GUID>
+      <Name>Tree Fir Snow 04</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/props/terrain_props/vegetation/trees/tree_fir_snow_04.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop>
+      <HerdBlocking>PassableWhenSparse</HerdBlocking>
+      <VegetationType>Tree</VegetationType>
+    </Prop>
+  </Values>
+</Asset>

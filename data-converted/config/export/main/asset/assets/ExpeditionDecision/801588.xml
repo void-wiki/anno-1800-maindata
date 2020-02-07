@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801588</GUID>
+      <Name>Sunken Depths 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801589</Option>
+        </Item>
+        <Item>
+          <Option>801590</Option>
+        </Item>
+        <Item>
+          <Option>801591</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Unusual debris float among the waves.&lt;/b&gt; Mold-ridden planks of wood, strings of cloth, fragments of broken plaster, all tinted by the gray shade of time. Filled with childish excitation, the crew discusses the possibility of going underwater to uncover the debris' origin.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16119</LineID>
+    </Text>
+  </Values>
+</Asset>

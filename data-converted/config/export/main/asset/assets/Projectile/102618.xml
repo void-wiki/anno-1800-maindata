@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Projectile</Template>
+  <Values>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>30</ShotAngle>
+      <ProjectileSpeed>22.5</ProjectileSpeed>
+      <DamageType>Torpedo</DamageType>
+    </Projectile>
+    <Standard>
+      <GUID>102618</GUID>
+      <Name>Large_Multi_Shot_Ridiculous</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_torpedo_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text />
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235846</Sound>
+          </Item>
+        </ProjectileImpact>
+        <ProjectileVolley>
+          <Item>
+            <Sound>235847</Sound>
+          </Item>
+        </ProjectileVolley>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <ProjectileIncident />
+  </Values>
+</Asset>

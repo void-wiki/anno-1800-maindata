@@ -1,0 +1,28 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193334</GUID>
+      <Name>Mercier Uncommon Machines</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193277</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193282</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193287</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192704</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

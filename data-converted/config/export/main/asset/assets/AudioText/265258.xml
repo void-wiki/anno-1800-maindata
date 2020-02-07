@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fast forward activated.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15848</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233925</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265258</GUID>
+      <Name>AT_Narrator_GameSpeed_Confirmation_Fast</Name>
+    </Standard>
+  </Values>
+</Asset>

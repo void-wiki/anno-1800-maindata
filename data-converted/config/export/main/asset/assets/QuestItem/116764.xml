@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>116764</GUID>
+      <Name>QI Arno group</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_explorers.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Arno's Research Group</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35447</LineID>
+    </Text>
+    <Item>
+      <Flotsam>116765</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802104</GUID>
+      <Name>Sea Still 1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190423</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The breeches buoy guarantees a safe rescue.&lt;/b&gt; The crew transform a lifebuoy into a harness, attached to runners which allow it to zip between the two ships once the harpoon rope is drawn taut. The stranded sailors take turns to enjoy this rather daring form of escape. Having been lifted from the doldrums, they are keen to assist however they may for the remainder of the expedition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21488</LineID>
+    </Text>
+  </Values>
+</Asset>

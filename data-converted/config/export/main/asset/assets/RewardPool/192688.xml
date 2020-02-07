@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192688</GUID>
+      <Name>Machines - European Fertility - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190915</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190919</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190922</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190925</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190928</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

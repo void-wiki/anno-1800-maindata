@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This is it! Ditchwater. End of the world. I hope you like it quiet.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4215</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233100</AudioAsset>
+      <Mood>Positve</Mood>
+      <DialogSequence>10</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>253936</GUID>
+      <Name>AT_captain_movie03_12</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,35 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700057</GUID>
+      <Name>AP - TQ Storage and Market and Pub</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010372</Asset>
+        </Item>
+        <Item>
+          <Asset>1010371</Asset>
+        </Item>
+        <Item>
+          <Asset>100516</Asset>
+        </Item>
+        <Item>
+          <Asset>100517</Asset>
+        </Item>
+        <Item>
+          <Asset>1010358</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>TQ Storage and Market</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The land of many rivers shall see me again, when all is forgiven.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12973</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229503</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261120</GUID>
+      <Name>AT_advisor_02_IdleMessageSelf1</Name>
+    </Standard>
+  </Values>
+</Asset>

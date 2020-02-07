@@ -1,0 +1,27 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>100712</GUID>
+      <Name>CQO_Prisoner_Item</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/icon_craftsman_common.png</IconFilename>
+      <InfoDescription>10451</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Prisoner Workforce</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25864</LineID>
+    </Text>
+    <Item>
+      <Flotsam>100554</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

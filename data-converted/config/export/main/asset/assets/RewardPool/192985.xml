@@ -1,0 +1,50 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192985</GUID>
+      <Name>Pirate Hunt Reward Subpool - Legendary</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_war.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192661</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>192702</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192707</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192712</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192717</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192722</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192727</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193457</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193462</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193467</ItemLink>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>12799</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

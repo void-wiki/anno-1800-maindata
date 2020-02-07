@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>500954</GUID>
+      <Name>moderate construction menu harbour03 (tier)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_harbour_buildings.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>101642</Building>
+        </Item>
+        <Item>
+          <Building>1010521</Building>
+        </Item>
+        <Item>
+          <Building>1010524</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19173</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Large Harbour</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14925</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

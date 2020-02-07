@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802696</GUID>
+      <Name>The Runaway 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192075</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You have a new recruit!&lt;/b&gt; "You are welcome to him!" says the more senior of the two officials brightly, "we had no idea he was so important to you." His colleague glances at him nervously, before wrinkling up a fake smile of his own. It is obvious they only discontinue their pursuit because your vessel is far more powerful than theirs. With your ship free to continue, the former fugitive raises a glass, "thank you all" he says, "here's to a triumphant expedition, and beyond!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21632</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700067</GUID>
+      <Name>AP - TQ Military Defenses</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010522</Asset>
+        </Item>
+        <Item>
+          <Asset>1010523</Asset>
+        </Item>
+        <Item>
+          <Asset>1010524</Asset>
+        </Item>
+        <Item>
+          <Asset>101563</Asset>
+        </Item>
+        <Item>
+          <Asset>101570</Asset>
+        </Item>
+        <Item>
+          <Asset>101571</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>AP - TQ Military Defenses</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

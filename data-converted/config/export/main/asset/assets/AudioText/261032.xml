@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Her Majesty asks of me, is that I keep the peace.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12330</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229808</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261032</GUID>
+      <Name>AT_3rdParty07_IdleMessageGossip_Queen</Name>
+    </Standard>
+  </Values>
+</Asset>

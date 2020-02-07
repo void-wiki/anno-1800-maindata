@@ -1,0 +1,28 @@
+<Asset>
+  <Template>IslandSettledNewsTracker</Template>
+  <Values>
+    <Standard>
+      <GUID>140951</GUID>
+      <Name>IslandSettledNewsTracker</Name>
+    </Standard>
+    <NewsTrackerBase>
+      <NewsTrackerType>IslandSettledNewsTracker</NewsTrackerType>
+      <NewsTrackerScope>Global</NewsTrackerScope>
+    </NewsTrackerBase>
+    <IslandSettledNewsTracker>
+      <RegionSettledArticles>
+        <Moderate>
+          <Article>140952</Article>
+        </Moderate>
+        <Colony01>
+          <Article>140953</Article>
+        </Colony01>
+        <Arctic>
+          <Article>142660</Article>
+        </Arctic>
+      </RegionSettledArticles>
+      <NewIslandSettledPlayerArticle>140361</NewIslandSettledPlayerArticle>
+      <NewIslandSettledOthersArticle>141866</NewIslandSettledOthersArticle>
+    </IslandSettledNewsTracker>
+  </Values>
+</Asset>

@@ -1,0 +1,95 @@
+<Asset>
+  <BaseAssetGUID>101331</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>1010561</GUID>
+      <Name>heavy_colony01_01 (Oil Heavy Industry)</Name>
+      <ID>OilRefinerySouth</ID>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking>
+      <HidePropsRadius>9</HidePropsRadius>
+      <DeletePropsRadius>3</DeletePropsRadius>
+    </Blocking>
+    <Cost />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FarmBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/buildings/production/heavy_colony01_01/heavy_colony01_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <ParticipantMessageArcheType>SA_Resident_tier02_atWork</ParticipantMessageArcheType>
+    </Selection>
+    <Text>
+      <LineID>5312</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>200674</Sound>
+        </Item>
+      </ActiveSounds>
+      <BuildingRepaired>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FarmBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </BuildingRepaired>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <Factory7 />
+    <FactoryBase />
+    <LogisticNode />
+    <ModuleOwner>
+      <ConstructionOptions>
+        <Item>
+          <ModuleGUID>100524</ModuleGUID>
+        </Item>
+      </ConstructionOptions>
+    </ModuleOwner>
+    <AmbientMoodProvider />
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010017</Product>
+          <Amount>250</Amount>
+          <InactiveAmount>125</InactiveAmount>
+        </Item>
+        <Item>
+          <Product>1010367</Product>
+          <Amount>75</Amount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable />
+    <IncidentInfectable />
+    <Pausable />
+    <Culture />
+    <QuestObject />
+  </Values>
+</Asset>

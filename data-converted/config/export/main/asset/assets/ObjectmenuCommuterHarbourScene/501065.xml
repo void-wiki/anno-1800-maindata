@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ObjectmenuCommuterHarbourScene</Template>
+  <Values>
+    <Standard>
+      <GUID>501065</GUID>
+      <Name>ObjectmenuCommuterHarbourScene</Name>
+      <ID>ObjectmenuCommuterHarbourScene</ID>
+    </Standard>
+    <ObjectmenuHeader>
+      <HeaderText>13460</HeaderText>
+    </ObjectmenuHeader>
+    <ObjectmenuCommuterHarbourScene>
+      <OverallBarInfotip>501066</OverallBarInfotip>
+      <IslandEntryInfotip>501067</IslandEntryInfotip>
+      <UpdateInterval>1000</UpdateInterval>
+      <CaptainParticipantID>Captain</CaptainParticipantID>
+      <WorkforceToRegion>
+        <Moderate>
+          <WorkforceList>
+            <Item>
+              <Workforce>1010052</Workforce>
+            </Item>
+            <Item>
+              <Workforce>1010115</Workforce>
+            </Item>
+            <Item>
+              <Workforce>1010116</Workforce>
+            </Item>
+            <Item>
+              <Workforce>1010117</Workforce>
+            </Item>
+          </WorkforceList>
+        </Moderate>
+      </WorkforceToRegion>
+    </ObjectmenuCommuterHarbourScene>
+  </Values>
+</Asset>

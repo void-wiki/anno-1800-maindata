@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A war with you is a surefire investment. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1674</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211684</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250402</GUID>
+      <Name>AT_ai07_NpcDeclaresWarOnPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803366</GUID>
+      <Name>The Great Sickness 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803368</Option>
+        </Item>
+        <Item>
+          <Option>803372</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Such a well-prepared vaccination programme will cost...&lt;/b&gt; Your expert doctor adapts an effective preparation in the circumstances, using up a fair quantity of the ship's medical supplies in the process. One of the officers wonders if you shouldn't receive something back for all this charity...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31555</LineID>
+    </Text>
+  </Values>
+</Asset>

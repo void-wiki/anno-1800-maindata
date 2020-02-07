@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802084</GUID>
+      <Name>Cut or Lift 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802085</Option>
+        </Item>
+        <Item>
+          <Option>802086</Option>
+        </Item>
+        <Item>
+          <Option>802087</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Sailor under the mast!&lt;/b&gt; Weeks of harsh weather have taken their toll on the ship and the violent gusts of wind of this morning have toppled the mizzenmast. For a moment the ropes tying it to the other masts hold it in place, but there is only so much weight they can take: they break with a snap, letting the mizzenmast plummet on the deck. A sailor now wails, his leg caught under a pole twice his size.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21683</LineID>
+    </Text>
+  </Values>
+</Asset>

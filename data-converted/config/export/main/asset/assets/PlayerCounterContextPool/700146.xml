@@ -1,0 +1,47 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700146</GUID>
+      <Name>AP - All Zoo modules water</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010479</Asset>
+        </Item>
+        <Item>
+          <Asset>100815</Asset>
+        </Item>
+        <Item>
+          <Asset>101989</Asset>
+        </Item>
+        <Item>
+          <Asset>101991</Asset>
+        </Item>
+        <Item>
+          <Asset>101992</Asset>
+        </Item>
+        <Item>
+          <Asset>102015</Asset>
+        </Item>
+        <Item>
+          <Asset>112477</Asset>
+        </Item>
+        <Item>
+          <Asset>113763</Asset>
+        </Item>
+        <Item>
+          <Asset>113764</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Asset Pool All Zoo Modules</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

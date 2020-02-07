@@ -1,0 +1,20 @@
+<Asset>
+  <Template>RFX</Template>
+  <Values>
+    <Standard>
+      <GUID>240010</GUID>
+      <Name>RFX_bld_production_heavy_typeCluster_rfx_03</Name>
+    </Standard>
+    <RFX>
+      <RFXRadius>11</RFXRadius>
+      <HeightConfig>
+        <ClampToTerrain>1</ClampToTerrain>
+        <ClampToWater>1</ClampToWater>
+        <HeightOffsetMax>10</HeightOffsetMax>
+      </HeightConfig>
+      <TriggerRateMin>5000</TriggerRateMin>
+      <TriggerRateMax>25000</TriggerRateMax>
+      <TriggerEvent>214831</TriggerEvent>
+    </RFX>
+  </Values>
+</Asset>

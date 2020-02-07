@@ -1,0 +1,38 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190423</GUID>
+      <Name>Rescue Mission Reward Pool Specialists</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192971</ItemLink>
+          <ItemGroup>1161849649</ItemGroup>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192972</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192973</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192974</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192975</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>12797</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

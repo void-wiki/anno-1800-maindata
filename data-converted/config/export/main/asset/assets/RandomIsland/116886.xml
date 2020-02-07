@@ -1,0 +1,18 @@
+<Asset>
+  <Template>RandomIsland</Template>
+  <Values>
+    <Standard>
+      <GUID>116886</GUID>
+      <Name>colony03_a01_02_multiplayer</Name>
+    </Standard>
+    <RandomIsland>
+      <FilePath>data/dlc03/sessions/islands/pool/colony03_a01_02_mp/colony03_a01_02_mp.a7m</FilePath>
+      <IslandRegion>Arctic</IslandRegion>
+      <IslandDifficulty>Normal;Hard</IslandDifficulty>
+      <IslandType>Starter</IslandType>
+      <AvoidIslandMoving>1</AvoidIslandMoving>
+      <AllowedGameType>SandboxMultilayer</AllowedGameType>
+      <AllowedIslandTemplateLabel>arctic_player_start_island</AllowedIslandTemplateLabel>
+    </RandomIsland>
+  </Values>
+</Asset>

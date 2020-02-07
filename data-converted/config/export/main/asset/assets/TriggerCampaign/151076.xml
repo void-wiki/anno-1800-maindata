@@ -1,0 +1,36 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151076</GUID>
+      <Name>CQ101_CleanTheIsland_SuccesReRegister</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>LeaveUIState</ConditionEvent>
+            <ContextData>CampaignNewspaper</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>151077</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>140723</GUID>
+      <Name>CampaignSEPicture_ShipyardBuilt</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/campaign_photo_questshipyard_fallback.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/campaign_photo_questshipyard_fallback.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/campaign_photo_questshipyard_fallback.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets16/newspaper/special_edition/campaign_photo_questshipyard_fallback.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

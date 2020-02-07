@@ -1,0 +1,41 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192086</GUID>
+      <Name>Basic Cannon Upgrade</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_weapons.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Basic Cannon Upgrade</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27092</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <TradePrice>15000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <FluffText>15938</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <BaseDamageUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,75 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400073</GUID>
+      <Name>Action_Achievement_Charter Company</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Trade</AchievementCategory>
+      <AchievementTitle>15358</AchievementTitle>
+      <AchievementDescription>15359</AchievementDescription>
+      <AchievementUPlayID>83</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationHappinessByLevel</PlayerCounter>
+            <Context>15000004</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>100509</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionTradeRouteCount</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionTradeRouteCount>
+                      <TradeRouteCount>1</TradeRouteCount>
+                    </ConditionTradeRouteCount>
+                    <ConditionPropsNegatable>
+                      <NegateCondition>1</NegateCondition>
+                    </ConditionPropsNegatable>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>12</UplayActionID>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

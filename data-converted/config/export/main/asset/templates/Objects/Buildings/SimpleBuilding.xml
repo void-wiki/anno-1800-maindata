@@ -1,0 +1,27 @@
+<Template>
+  <Name>SimpleBuilding</Name>
+  <Properties>
+    <Standard />
+    <Building>
+      <BuildingType>Factory</BuildingType>
+    </Building>
+    <Blocking />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Production</GUIType>
+    </Selection>
+    <Text />
+    <Constructable>
+      <DestructionCategory>Production</DestructionCategory>
+    </Constructable>
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <Attackable />
+    <QuestObject />
+  </Properties>
+</Template>

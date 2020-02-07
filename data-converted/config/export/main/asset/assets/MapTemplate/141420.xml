@@ -1,0 +1,26 @@
+<Asset>
+  <Template>MapTemplate</Template>
+  <Values>
+    <Standard>
+      <GUID>141420</GUID>
+      <Name>SouthAmerica 01 (campaign)</Name>
+    </Standard>
+    <MapTemplate>
+      <IslandSize>Small;Medium;Large</IslandSize>
+      <TemplateFilename>data/sessions/maps/campaign/colony01/campaign_chapter03_colony01/campaign_chapter03_colony01.a7t</TemplateFilename>
+      <TemplateSize>Large</TemplateSize>
+      <Campaign>1</Campaign>
+      <FixedPreplacedParticipants>
+        <Item>
+          <ParticipantID>Third_party_05_Sarmento</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Third_party_05b_Sarmento_Prosperity_Campaign</ParticipantID>
+        </Item>
+      </FixedPreplacedParticipants>
+      <IsUsedByMapGenerator>1</IsUsedByMapGenerator>
+      <TemplateRegion>Colony01</TemplateRegion>
+      <AddDecorationIslands>0</AddDecorationIslands>
+    </MapTemplate>
+  </Values>
+</Asset>

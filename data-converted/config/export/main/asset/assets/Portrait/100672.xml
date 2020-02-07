@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>77</PortraitName>
+      <PortraitColor>-6930021</PortraitColor>
+    </Portrait>
+    <Standard>
+      <GUID>100672</GUID>
+      <Name>3rd_party_06 (Old Nate)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_06_new.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/portraits/narrative/3rd_party_06/3rd_party_06.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

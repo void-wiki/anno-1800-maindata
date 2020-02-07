@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We shall, dear sibling, for now. I have acquired a small island with the last of my funds, and passage for all still loyal to father. Together we shall clear his name or die trying.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4102</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233477</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>8</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>253928</GUID>
+      <Name>AT_Advisor01_Movie03_05</Name>
+    </Standard>
+  </Values>
+</Asset>

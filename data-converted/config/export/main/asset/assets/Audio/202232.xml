@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>202232</GUID>
+      <Name>wwe_sfx_bld_food_03_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>235715</StopEvent>
+      <SoundEventType>SmallBuildingSound</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2431129977</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

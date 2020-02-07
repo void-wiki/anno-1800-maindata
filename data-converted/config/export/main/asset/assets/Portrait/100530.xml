@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/bente.portraitcamleft</CamFile>
+        </Left>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/bente.portraitcamleft</CamFile>
+        </VideoLeft>
+        <CreateGame>
+          <CamFile>data/config/portraitcam/creategamebente.portraitcam</CamFile>
+        </CreateGame>
+        <ActiveTrade>
+          <CamFile>data/config/portraitcam/activetrade_default.portraitcam</CamFile>
+        </ActiveTrade>
+      </PortraitCameraAmbientConfig>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>100530</GUID>
+      <Name>ai_01 (Bente Jorgensen)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_01.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/ai_01/ai_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

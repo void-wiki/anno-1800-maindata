@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802020</GUID>
+      <Name>Tavern Troubles</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tavern Troubles</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21723</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800032</EventThreat>
+      <StartDecision>802021</StartDecision>
+      <EventMusicChoice>226699</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/melee_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

@@ -1,0 +1,170 @@
+<Template>
+  <Name>MainQuest</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <SuccessMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </SuccessMessage>
+      <EscortShipSelectedMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </EscortShipSelectedMessage>
+      <ReminderMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </ReminderMessage>
+      <ResolveConfirmationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </ResolveConfirmationMessage>
+      <InvitationSmugglerQuestMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </InvitationSmugglerQuestMessage>
+      <SmugglerQuestTradingStationReached>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </SmugglerQuestTradingStationReached>
+      <StartInvitationGiveItemMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </StartInvitationGiveItemMessage>
+      <StartFollowShipMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationGroup>PlayerClick</NotificationGroup>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </StartFollowShipMessage>
+      <QuestGiver>7</QuestGiver>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <NeededProgressLevel>EarlyGame;EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <QuestTrackerVisibility>Global</QuestTrackerVisibility>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_smugglewithoutscanners_delivery_pickup.png</QuestBookBackground>
+      <QuestGiverIdleMessageMinPause>30000</QuestGiverIdleMessageMinPause>
+      <QuestGiverIdleMessageMaxPause>40000</QuestGiverIdleMessageMaxPause>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>150038</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionPlayerCounter>
+                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestMain>
+      <CampaignProgress>1</CampaignProgress>
+    </QuestMain>
+  </Properties>
+</Template>

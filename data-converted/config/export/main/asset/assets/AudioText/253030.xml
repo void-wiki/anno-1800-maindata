@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My father is Emperor. A life of privilege, tinged with sadness and regret.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11765</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231435</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253030</GUID>
+      <Name>AT_ai02_IdleMessageSelf1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You give me no comfort at present.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11007</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223070</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260089</GUID>
+      <Name>AT_advisor01_NegFeedbackToPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

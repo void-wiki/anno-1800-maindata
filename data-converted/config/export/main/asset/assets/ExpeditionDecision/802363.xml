@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802363</GUID>
+      <Name>The Mayan Map 1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192041</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You strike gold!&lt;/b&gt; Metaphorically, at least. "The fourth rain god, yes!" your anthropologist reads from the glyphs, and scampers off yelling, "corresponds with our North!" When the archaeologist wades back through the small lagoon, they have a big smile on their face. It is a hoard of greater archaeological value than any of the materials from which it is composed! This may not be the city of El Doodah, but it is quite remarkable enough!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20983</LineID>
+    </Text>
+  </Values>
+</Asset>

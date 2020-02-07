@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801074</GUID>
+      <Name>The Arid Basin 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801082</Option>
+        </Item>
+        <Item>
+          <Option>801083</Option>
+        </Item>
+        <Item>
+          <Option>801084</Option>
+        </Item>
+        <Item>
+          <Option>801085</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's water, if you can get to it.&lt;/b&gt; Hippos are gathered all along the bank. This is their territory. If you don't refill here, there's no guarantee you'll find water further on. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16091</LineID>
+    </Text>
+  </Values>
+</Asset>

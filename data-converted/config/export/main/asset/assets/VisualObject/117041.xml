@@ -1,0 +1,38 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>117041</GUID>
+      <Name>cloth_cargo</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/cloth_cargo_group_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/cloth_cargo_group_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/cloth_cargo_group_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/cloth_cargo_group_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/cloth_cargo_group_05.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/cloth_cargo_single_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/cloth_cargo_single_02.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

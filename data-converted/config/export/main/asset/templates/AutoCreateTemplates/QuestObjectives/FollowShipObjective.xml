@@ -1,0 +1,30 @@
+<Template>
+  <Name>FollowShipObjective</Name>
+  <Properties>
+    <ConditionQuestObjective>
+      <QuestTrackerIcon>data/ui/2kimages/main/icons/icon_warning.png</QuestTrackerIcon>
+    </ConditionQuestObjective>
+    <ConditionQuestFollowShip>
+      <StartRangeObjectiveText>11976</StartRangeObjectiveText>
+      <RangeWarningText>12106</RangeWarningText>
+      <StartRange>25</StartRange>
+      <TargetShip>
+        <Template>ConditionObjectSpawnedObject</Template>
+        <Values>
+          <ConditionObjectSpawnedObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>501543</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </TargetShip>
+      <MinRange>20</MinRange>
+      <MaxRange>50</MaxRange>
+      <MinRangeEffectPositive>500886</MinRangeEffectPositive>
+      <MinRangeEffectNegative>500888</MinRangeEffectNegative>
+      <MaxRangeEffectPositive>500886</MaxRangeEffectPositive>
+      <MaxRangeEffectNegative>500888</MaxRangeEffectNegative>
+      <RangeWarningTime>30000</RangeWarningTime>
+    </ConditionQuestFollowShip>
+  </Properties>
+</Template>

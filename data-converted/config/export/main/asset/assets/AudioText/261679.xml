@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The lot of yer, back to your cells!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12508</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230565</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261679</GUID>
+      <Name>AT_MurmurMale5_Prison</Name>
+    </Standard>
+  </Values>
+</Asset>

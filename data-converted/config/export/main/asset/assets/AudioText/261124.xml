@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The music here is fine, but it lacks the colour of a raga.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12977</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229507</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261124</GUID>
+      <Name>AT_advisor_02_IdleMessageSelf5</Name>
+    </Standard>
+  </Values>
+</Asset>

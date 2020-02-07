@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802101</GUID>
+      <Name>Sea Still 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802108</Option>
+        </Item>
+        <Item>
+          <Option>802109</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Panicked sailors toss themselves into the algae,&lt;/b&gt; as your stray harpoon crashes wildly through the lower deck, and seawater rushes in through the breach. She is going down! "We brought them to this, we have a responsibility to do something!" yells one of your officers.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21493</LineID>
+    </Text>
+  </Values>
+</Asset>

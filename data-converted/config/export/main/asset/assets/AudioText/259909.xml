@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Yer a canny herring!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11550</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222746</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>259909</GUID>
+      <Name>AT_captain_PosiFeedbackToPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

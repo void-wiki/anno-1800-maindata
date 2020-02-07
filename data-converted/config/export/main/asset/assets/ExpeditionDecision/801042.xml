@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801042</GUID>
+      <Name>Dockyard Dupe 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You rumble the schemers!&lt;/b&gt; The crew set aside superstition, and paint your ship with a different name. The most cut-throat of your sailors pose as wealthy officers, cabin curtains for sashes, so as to appear perfect victims. Taken in by it all, the innkeeper and his dockside associates are caught in the act. You make sure to relieve them of far more than they stole.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13121</LineID>
+    </Text>
+  </Values>
+</Asset>

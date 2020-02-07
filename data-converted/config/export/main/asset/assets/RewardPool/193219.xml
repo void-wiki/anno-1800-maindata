@@ -1,0 +1,56 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193219</GUID>
+      <Name>Bente Goods Drop Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010210</ItemLink>
+          <MinAmount>15</MinAmount>
+          <MaxAmount>40</MaxAmount>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010196</ItemLink>
+          <MinAmount>15</MinAmount>
+          <MaxAmount>40</MaxAmount>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010199</ItemLink>
+          <MinAmount>10</MinAmount>
+          <MaxAmount>20</MaxAmount>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010213</ItemLink>
+          <MinAmount>10</MinAmount>
+          <MaxAmount>20</MaxAmount>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>120041</ItemLink>
+          <MinAmount>10</MinAmount>
+          <MaxAmount>20</MaxAmount>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010258</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>10</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>120033</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>10</MaxAmount>
+        </Item>
+      </ItemsPool>
+      <GenerateUniqueRewards>0</GenerateUniqueRewards>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

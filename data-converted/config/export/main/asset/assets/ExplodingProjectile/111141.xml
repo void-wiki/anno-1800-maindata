@@ -1,0 +1,69 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>111141</GUID>
+      <Name>IgniteProjectile_FakeInfo</Name>
+      <InfoDescription>22098</InfoDescription>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>1</ShotHeight>
+      <ProjectileSpeed>15</ProjectileSpeed>
+      <Effectivities>
+        <Item>
+          <GUID>1010343</GUID>
+          <Factor>2</Factor>
+        </Item>
+        <Item>
+          <GUID>1010344</GUID>
+          <Factor>2</Factor>
+        </Item>
+        <Item>
+          <GUID>1010345</GUID>
+          <Factor>2</Factor>
+        </Item>
+        <Item>
+          <GUID>1010346</GUID>
+          <Factor>2</Factor>
+        </Item>
+        <Item>
+          <GUID>1010347</GUID>
+          <Factor>2</Factor>
+        </Item>
+      </Effectivities>
+      <TargetWhiteList>Neutral</TargetWhiteList>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_firebomb.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>1</InnerDamageRadius>
+      <InnerDamage>800</InnerDamage>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>8</OuterDamageRadius>
+      <MinimumDamage>200</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item />
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item />
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident>
+      <CausedIncident>Fire</CausedIncident>
+      <CausedIncidentBuff>192004</CausedIncidentBuff>
+      <CausedIncidentDuration>90000</CausedIncidentDuration>
+    </ProjectileIncident>
+  </Values>
+</Asset>

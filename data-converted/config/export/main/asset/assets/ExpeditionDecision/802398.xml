@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802398</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802399</Option>
+        </Item>
+        <Item>
+          <Option>802400</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An old man claims to know the location of a great treasure.&lt;/b&gt; You have stopped over at a sandswept port. A gaggle of officers is enjoying sweet cardamom-infused coffee in the morning sun, when one of the other patrons approaches. He is old and blind, his clothes dirty. "I have need of adventurers like yourselves, for the treasure of the pirate Hassan Ben Sahid is here! It is just waiting to be found!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20853</LineID>
+    </Text>
+  </Values>
+</Asset>

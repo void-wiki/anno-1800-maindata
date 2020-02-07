@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802484</GUID>
+      <Name>The Storm 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Waiting would have been a better option.&lt;/b&gt; If the force of training helped your crew while reefing the sails, it doesn't reveal how to navigate the furious tempest. Sailing with nothing but the jib sails and spanker is a feat no one on your ship is capable of. The vessel is tossed about helplessly until the storm decides to calm down.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21768</LineID>
+    </Text>
+  </Values>
+</Asset>

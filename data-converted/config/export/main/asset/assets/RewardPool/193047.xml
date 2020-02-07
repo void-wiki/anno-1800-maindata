@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193047</GUID>
+      <Name>Machines - Torture Machines - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190831</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190851</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190854</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190857</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190909</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

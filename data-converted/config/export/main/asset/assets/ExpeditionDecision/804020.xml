@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804020</GUID>
+      <Name>Narrow channels 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804021</Option>
+        </Item>
+        <Item>
+          <Option>804026</Option>
+        </Item>
+        <Item>
+          <Option>804027</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The compass readings are confusing.&lt;/b&gt; After several wrong turns the crew realise magnetic north is not where they, or anyone else imagined. Your ship finds itself alongside the run-off of a sizeable glacier, which it being spring, is melting. There are cracks, then there is an almighty rumble as &lt;b&gt;the entire wall of ice threatens to separate and topple into the water!&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35287</LineID>
+    </Text>
+  </Values>
+</Asset>

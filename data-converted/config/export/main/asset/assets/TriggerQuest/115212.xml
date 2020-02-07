@@ -1,0 +1,88 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>115212</GUID>
+      <Name>Trigger Outro Movie</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>MovieFinished</ConditionEvent>
+            <ContextAsset>115215</ContextAsset>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>116744</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>5000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionForceNewspaper</Template>
+                            <Values>
+                              <Action />
+                              <ActionForceNewspaper>
+                                <Articles>
+                                  <Item>
+                                    <Article>114201</Article>
+                                  </Item>
+                                </Articles>
+                                <OpenNewspaperUI>1</OpenNewspaperUI>
+                                <OpenNewspaperType>SpecialEdition</OpenNewspaperType>
+                                <PamsyWelcomeRequiredAsset>117564</PamsyWelcomeRequiredAsset>
+                              </ActionForceNewspaper>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>114177</Quest>
+                <WinQuest>1</WinQuest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+    </TriggerSetup>
+  </Values>
+</Asset>

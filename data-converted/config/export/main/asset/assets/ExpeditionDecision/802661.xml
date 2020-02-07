@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802661</GUID>
+      <Name>Blood Oil Tears and Sweat 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802662</Option>
+        </Item>
+        <Item>
+          <Option>802664</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sea anchor sinks as soon as it touches the water.&lt;/b&gt; The sailors tack together extra sails to try and assemble a sea anchor, but the ballooning cloths snap as soon as they're thrown into the waves. As the ship is pushed towards the shore the backwash gets more and more ample, until a rogue wave of ludicrous proportions rises above the sea. Your merchant passengers beg your crew to save them!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21869</LineID>
+    </Text>
+  </Values>
+</Asset>

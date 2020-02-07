@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802417</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's a bit of a wrestling match.&lt;/b&gt; "How do you like that eh, sirrah!" blares your punchiest officer, emerging from the fight the victor, his adversary left gasping and bloody-nosed on the marble floor. "What do you think you are doing!" rages the proprietor of these fabulously frescoed baths, "this is a place of peace you have defiled!" So much for relaxing shore leave...</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20870</LineID>
+    </Text>
+  </Values>
+</Asset>

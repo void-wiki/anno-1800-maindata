@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802177</GUID>
+      <Name>Selfless Deeds 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They do not buy your bluff.&lt;/b&gt; Holding your crew at gunpoint, the bandits casually wait for the reinforcements to show up. They don't. To teach your crew a lesson, the kidnappers grab one of the kids onboard and cut his tongue before throwing it into your raft: a lesson for liars. Your sailors withdraw to the village, convinced they made things worse.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21032</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,58 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>111199</GUID>
+      <Name>DM01 - The Better Anarchist</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DM</AchievementCategory>
+      <AchievementTitle>111810</AchievementTitle>
+      <AchievementDescription>111815</AchievementDescription>
+      <AchievementUPlayID>92</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>ParticipantDefeated</PlayerCounter>
+            <Context>220</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <Context>111261</Context>
+                      <ComparisonOp>AtMost</ComparisonOp>
+                      <CounterValueType>Max</CounterValueType>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>506</UplayActionID>
+      <BadgeID>1006</BadgeID>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

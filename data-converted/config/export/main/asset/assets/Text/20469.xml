@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20469</GUID>
+      <Name>AdditionalOutput(FestivalBuff3)</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_options.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Occasionally produces extra [ItemAssetData([AreaManager AreaFestival BuffGuids AT(3) Text]) AdditionalOutputProductsFormatted()].</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28980</LineID>
+    </Text>
+  </Values>
+</Asset>

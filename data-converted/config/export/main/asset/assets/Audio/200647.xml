@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200647</GUID>
+      <Name>wwe_sfx_bld_coastal_03_lp_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>20</MaxAttenuation>
+      <StopEvent>200648</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1338429710</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

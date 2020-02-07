@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800679</GUID>
+      <Name>The Seven-Year Itch 1.2.2.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The matter is craftily "put-to-bed".&lt;/b&gt; Despite the time-consuming upheaval, the crew are surprised to have their cabins so well refurbished. "They're too soft on us," says a jolly cove inspecting the new bunks, "but my britches haven't itched all day."</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5761</LineID>
+    </Text>
+  </Values>
+</Asset>

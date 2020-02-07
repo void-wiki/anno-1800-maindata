@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Of course there is! I told you, we’re late!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16781</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232935</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_02</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266415</GUID>
+      <Name>AT_ai01_Credits01</Name>
+    </Standard>
+  </Values>
+</Asset>

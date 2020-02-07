@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Throw your bomb if you have the mettle, throw!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30495</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204380</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109850</GUID>
+      <Name>AT_ai10_NpcRebuffsPlayerThreat1</Name>
+    </Standard>
+  </Values>
+</Asset>

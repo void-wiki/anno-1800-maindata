@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dry hay'll only stoke the blaze!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8782</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221033</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257250</GUID>
+      <Name>AT_res_tier01_ProductionFire1</Name>
+    </Standard>
+  </Values>
+</Asset>

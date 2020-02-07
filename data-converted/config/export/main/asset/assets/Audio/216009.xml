@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>216009</GUID>
+      <Name>wwe_sfx_veh_battle_cruiser_lp_play</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>12</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>70</MaxAttenuation>
+      <StopEvent>216010</StopEvent>
+      <SoundEventType>LargeFeedbackSound</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>239293</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>476642161</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

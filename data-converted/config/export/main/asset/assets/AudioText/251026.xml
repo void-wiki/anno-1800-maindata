@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Oh no, how unspeakably awful!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2723</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211228</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251026</GUID>
+      <Name>AT_ai07_GenNegFeedback1</Name>
+    </Standard>
+  </Values>
+</Asset>

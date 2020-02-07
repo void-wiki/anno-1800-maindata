@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802316</GUID>
+      <Name>Release the Kraken 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A powerful spurt of propulsion!&lt;/b&gt; The unnatural power of your steam ship eclipses the jetting shadow from the far, far depths. The ship's horn sounds a farewell salute to the creature, who those present swear is equipped with two clocktower eyes within which ink-black pupils swim delirious. For now it seems, its wait for a suitable mate must go on.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20947</LineID>
+    </Text>
+  </Values>
+</Asset>

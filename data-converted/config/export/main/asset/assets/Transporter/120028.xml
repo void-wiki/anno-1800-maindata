@@ -1,0 +1,17 @@
+<Asset>
+  <Template>Transporter</Template>
+  <Values>
+    <Standard>
+      <GUID>120028</GUID>
+      <Name>ElectricFactoryTransporter</Name>
+    </Standard>
+    <Transporter7>
+      <ProcessingTimes>
+        <LoadingTime>2</LoadingTime>
+        <UnloadingTime>2</UnloadingTime>
+      </ProcessingTimes>
+      <TransporterSpeed>1.4</TransporterSpeed>
+      <FeedbackType>ElectricFactoryTransporter</FeedbackType>
+    </Transporter7>
+  </Values>
+</Asset>

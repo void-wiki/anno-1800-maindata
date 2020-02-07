@@ -1,0 +1,16 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>2001534</GUID>
+      <Name>Imperial Harbor</Name>
+      <IconFilename>data/ui/2kimages/main/assets/icon_minimap_kontor.png</IconFilename>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>Yellow</Color>
+      <Tooltip>2733</Tooltip>
+      <Filter>Kontor</Filter>
+      <UsePlayerColor>1</UsePlayerColor>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

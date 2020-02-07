@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800262</GUID>
+      <Name>The Ghost Ship 1.2.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Have the doctor investigate what happened</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5536</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Medicine</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800264</Decision>
+          <Threshold>RewardFewThreshold</Threshold>
+          <ThresholdValue>90</ThresholdValue>
+        </Item>
+        <Item>
+          <Decision>800265</Decision>
+          <Threshold>LossFewThreshold</Threshold>
+          <ThresholdValue>60</ThresholdValue>
+        </Item>
+        <Item>
+          <Decision>800266</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

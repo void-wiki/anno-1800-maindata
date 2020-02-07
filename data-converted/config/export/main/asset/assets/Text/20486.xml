@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20486</GUID>
+      <Name>InputBenefitMoney(FestivalBuff1)</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_cash.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Income from [AssetData([ItemAssetData([AreaManager AreaFestival BuffGuids AT(1) Text]) InputBenefitModifierProduct(index)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29051</LineID>
+    </Text>
+  </Values>
+</Asset>

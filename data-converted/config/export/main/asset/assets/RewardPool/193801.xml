@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193801</GUID>
+      <Name>Inventions - Arctic Inventions - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>116158</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116159</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116160</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116176</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116177</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116178</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116179</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116180</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,37 @@
+<Template>
+  <Name>Expedition</Name>
+  <Properties>
+    <Standard />
+    <Expedition>
+      <MinPauseBetweenEvents>450000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>600000</MaxPauseBetweenEvents>
+      <MoraleAmounts>
+        <AddHigh>15</AddHigh>
+        <AddMedium>10</AddMedium>
+        <AddFew>5</AddFew>
+        <RemoveFew>-10</RemoveFew>
+        <RemoveMedium>-20</RemoveMedium>
+        <RemoveHigh>-30</RemoveHigh>
+        <RemoveVeryHigh>-40</RemoveVeryHigh>
+        <RemoveContinue>-10</RemoveContinue>
+      </MoraleAmounts>
+      <OptionThresholds>
+        <LossHighThreshold>20</LossHighThreshold>
+        <LossMediumThreshold>30</LossMediumThreshold>
+        <LossFewThreshold>40</LossFewThreshold>
+        <NeutralThreshold>60</NeutralThreshold>
+        <RewardFewThreshold>70</RewardFewThreshold>
+        <RewardMediumThreshold>80</RewardMediumThreshold>
+        <RewardHighThreshold>90</RewardHighThreshold>
+      </OptionThresholds>
+      <ContinueVideo>data/ui/video/expedition/generic_a.bk2</ContinueVideo>
+      <ContinueVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </ContinueVideoSounds>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Properties>
+</Template>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>141079</GUID>
+      <Name>CityBuildingScoreBase</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingDistance</Template>
+            <Values>
+              <RatingDistance>
+                <ZeroFrom>200</ZeroFrom>
+              </RatingDistance>
+            </Values>
+          </Rating>
+          <RelativeWeight>5</RelativeWeight>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingFragmentation</Template>
+            <Values>
+              <RatingFragmentation />
+            </Values>
+          </Rating>
+          <RelativeWeight>30</RelativeWeight>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

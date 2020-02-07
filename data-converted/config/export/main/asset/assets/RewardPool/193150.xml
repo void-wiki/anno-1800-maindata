@@ -1,0 +1,55 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193150</GUID>
+      <Name>Archetype (Investor) Resident Quest Productivity Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192677</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192678</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192679</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192680</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192681</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192682</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192683</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192684</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192685</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192686</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

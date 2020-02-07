@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192711</GUID>
+      <Name>Machines - Repair Tools - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192153</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191881</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191885</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

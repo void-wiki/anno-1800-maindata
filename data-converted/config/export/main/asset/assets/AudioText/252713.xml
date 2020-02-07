@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>La Fortune's days of piracy are numbered, La Corona will make sure of that!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12878</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231508</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252713</GUID>
+      <Name>AT_ai09_IdleMessageGossip_Fortune</Name>
+    </Standard>
+  </Values>
+</Asset>

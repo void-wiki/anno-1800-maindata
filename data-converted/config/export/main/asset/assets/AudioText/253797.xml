@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A bold new expedition, Admiral!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4178</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>214228</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253797</GUID>
+      <Name>AT_captain_NewExpeditionAvailable1</Name>
+    </Standard>
+  </Values>
+</Asset>

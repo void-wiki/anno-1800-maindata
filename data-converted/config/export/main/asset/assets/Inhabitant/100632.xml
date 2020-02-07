@@ -1,0 +1,54 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>100632</GUID>
+      <Name>marching_band</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_drummer.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_drummer_blue.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_drummer_red.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_pennantist.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_pennantist_blue.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_pennantist_red.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_trombonist.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_trombonist_blue.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_trombonist_red.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_tubanist.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_tubanist_blue.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/marching_band/marching_band_tubanist_red.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

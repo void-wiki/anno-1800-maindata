@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Nothing worse than those bohemians. An artisan has not even the most basic concept of money.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4732</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215552</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254391</GUID>
+      <Name>AT_res_tier05_IdleMessageGossip_Artisan</Name>
+    </Standard>
+  </Values>
+</Asset>

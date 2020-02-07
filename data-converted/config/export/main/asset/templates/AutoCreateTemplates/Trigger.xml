@@ -1,0 +1,19 @@
+<Template>
+  <Name>Trigger</Name>
+  <Properties>
+    <Standard />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+      <UsedBySecondParties>1</UsedBySecondParties>
+    </TriggerSetup>
+  </Properties>
+</Template>

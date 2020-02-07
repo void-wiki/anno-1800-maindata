@@ -1,0 +1,34 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>150724</GUID>
+      <Name>QP Prolog SouthAmerica</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>1580782833</QuestGroup>
+        </Item>
+      </Groups>
+      <QuestLimit>5</QuestLimit>
+      <PoolCooldown>0</PoolCooldown>
+      <SessionDependencies>
+        <Item>
+          <SessionOrRegion>180014</SessionOrRegion>
+        </Item>
+      </SessionDependencies>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

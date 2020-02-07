@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191069</GUID>
+      <Name>condor</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_vulture_ver2.png</IconFilename>
+      <InfoDescription>13691</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Condor</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26442</LineID>
+    </Text>
+    <Item>
+      <Rarity>Uncommon</Rarity>
+      <ItemSet>191114</ItemSet>
+      <TradePrice>28700</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101985</ChangeModule>
+      <ForcedFeedbackVariation>1000150</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>20</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203323</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>-10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthAmerica;SouthAmerica;SouthernSouthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>14126</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

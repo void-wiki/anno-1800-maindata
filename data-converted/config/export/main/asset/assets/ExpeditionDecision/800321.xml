@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800321</GUID>
+      <Name>Opera House in the Jungle 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800323</Option>
+        </Item>
+        <Item>
+          <Option>800324</Option>
+        </Item>
+      </Options>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There simply aren't enough materials&lt;/b&gt; to conduct such an elaborate enterprise. The crew think with a few extra bits and bobs, dragging the ship up the hill might be possible. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3794</LineID>
+    </Text>
+  </Values>
+</Asset>

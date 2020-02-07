@@ -1,0 +1,57 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>115169</GUID>
+      <Name>Trigger Quest Otzi Man</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionShipsInRange</Template>
+        <Values>
+          <Condition />
+          <ConditionShipsInRange>
+            <Range>20</Range>
+            <TargetObject_sir>115164</TargetObject_sir>
+          </ConditionShipsInRange>
+          <SessionFilter>
+            <AllowProcessingSession>0</AllowProcessingSession>
+            <Sessions>
+              <Item>
+                <Session>180045</Session>
+              </Item>
+            </Sessions>
+          </SessionFilter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectGUID>115164</ObjectGUID>
+                <ObjectSession>180045</ObjectSession>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>115166</Quest>
+                <QuestSession>180045</QuestSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

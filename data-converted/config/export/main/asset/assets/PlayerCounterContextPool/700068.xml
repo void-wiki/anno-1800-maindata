@@ -1,0 +1,41 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700068</GUID>
+      <Name>AP - TQ Population Levels</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>15000000</Asset>
+        </Item>
+        <Item>
+          <Asset>15000001</Asset>
+        </Item>
+        <Item>
+          <Asset>15000002</Asset>
+        </Item>
+        <Item>
+          <Asset>15000003</Asset>
+        </Item>
+        <Item>
+          <Asset>15000004</Asset>
+        </Item>
+        <Item>
+          <Asset>15000005</Asset>
+        </Item>
+        <Item>
+          <Asset>15000006</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>AP - TQ Military Defenses</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

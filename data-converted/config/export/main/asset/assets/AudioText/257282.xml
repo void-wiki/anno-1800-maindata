@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Peddlers say there's nowhere to take it!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8797</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221003</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257282</GUID>
+      <Name>AT_res_tier01_ProductionMissingWarehouse1</Name>
+    </Standard>
+  </Values>
+</Asset>

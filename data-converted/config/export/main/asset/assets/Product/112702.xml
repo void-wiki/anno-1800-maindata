@@ -1,0 +1,38 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>112702</GUID>
+      <Name>oil lamps</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_oil_lamps.png</IconFilename>
+      <InfoDescription>117256</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Oil Lamps</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35143</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>840</BasePrice>
+      <CivLevel>1</CivLevel>
+      <AssociatedRegion>Arctic</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

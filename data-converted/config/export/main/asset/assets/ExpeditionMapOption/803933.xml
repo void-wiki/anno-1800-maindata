@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803933</GUID>
+      <Name>Lancaster Detroit Go South</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_compass_south.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Go South</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34378</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803934</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>750</OptionPosX>
+      <OptionPosY>-116</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path02.png</PathSegment>
+      <PathPosX>735</PathPosX>
+      <PathPosY>-344</PathPosY>
+      <PathAlpha>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path02_alpha.png</PathAlpha>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

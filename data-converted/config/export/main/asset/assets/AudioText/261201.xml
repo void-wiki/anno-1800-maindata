@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Please aid me as you promised, and dispel this nightmare!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12474</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231410</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261201</GUID>
+      <Name>AT_ai02_NpcInvokesProtection2</Name>
+    </Standard>
+  </Values>
+</Asset>

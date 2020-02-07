@@ -1,0 +1,41 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190459</GUID>
+      <Name>kingfisher</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_smallbirds.png</IconFilename>
+      <InfoDescription>10463</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Kingfisher</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14985</LineID>
+    </Text>
+    <Item>
+      <Rarity>Rare</Rarity>
+      <TradePrice>78000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>102559</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemRegions>NorthAmerica;SouthAmerica;SouthernSouthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>10463</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

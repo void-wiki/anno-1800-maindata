@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802154</GUID>
+      <Name>Selfless Deeds 1.2.1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Sailors and kids create a breathtaking chaos.&lt;/b&gt; The crew shoots and skewers while the children kick and bite their former oppressors, calling others to do the same. A deluge of shrieking kids and young adults emerges from the barn and attacks the guards, thrilled by your crew's display of strength. The band of unlikely fighters seize the bandits' steamboat, help themselves to their supplies, and triumphantly returns to the coast.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21008</LineID>
+    </Text>
+  </Values>
+</Asset>

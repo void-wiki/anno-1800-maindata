@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>17980</GUID>
+      <Name>Player left chat</Name>
+      <ID>PlayerLeftChat</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Online PlayerName([NotificationContext Value(Peer) Int])] left the chat.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>24785</LineID>
+    </Text>
+  </Values>
+</Asset>

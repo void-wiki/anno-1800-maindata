@@ -1,0 +1,45 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>153201</GUID>
+      <Name>No Lives left for the cat StartTrigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEnableQuest</Template>
+            <Values>
+              <Action />
+              <ActionEnableQuest>
+                <QuestGUID>152973</QuestGUID>
+              </ActionEnableQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEnableQuest</Template>
+            <Values>
+              <Action />
+              <ActionEnableQuest>
+                <QuestGUID>152974</QuestGUID>
+              </ActionEnableQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

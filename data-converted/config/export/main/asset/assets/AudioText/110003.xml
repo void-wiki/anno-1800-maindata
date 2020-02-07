@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Those meaningless deaths are your work.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30633</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204104</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>110003</GUID>
+      <Name>AT_ai10_NpcSinksPlayerShip2</Name>
+    </Standard>
+  </Values>
+</Asset>

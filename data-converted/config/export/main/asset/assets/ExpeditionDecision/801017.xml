@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801017</GUID>
+      <Name>Mysterious Artefacts 1.2.2.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sun is solemn that morning.&lt;/b&gt; The bodies of the dead guards are borne to the hold for burial, but not here, upon this cursed rock. Who killed them none know but the sinister effigies. The expedition fumbles on.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13184</LineID>
+    </Text>
+  </Values>
+</Asset>

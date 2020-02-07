@@ -1,0 +1,14 @@
+<Asset>
+  <Template>EconomyStatisticFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>142742</GUID>
+      <Name>EconomyStatisticBalancing</Name>
+      <ID>EconomyStatisticBalancing</ID>
+    </Standard>
+    <EconomyStatisticFeature>
+      <HistoryInterval>600000</HistoryInterval>
+      <HistoryLength>7200000</HistoryLength>
+    </EconomyStatisticFeature>
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800126</GUID>
+      <Name>Temple of the Monkey God 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800127</Option>
+        </Item>
+        <Item>
+          <Option>800128</Option>
+        </Item>
+        <Item>
+          <Option>800140</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226554</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The first mate cannot make himself understood&lt;/b&gt;, despite employing the most outlandish gestures. The constant waving of the hands and legs unsettles the local people and there is suddenly an air of tension.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5631</LineID>
+    </Text>
+  </Values>
+</Asset>

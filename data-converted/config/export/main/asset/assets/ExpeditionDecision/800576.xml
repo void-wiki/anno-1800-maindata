@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800576</GUID>
+      <Name>Lost in the Desert 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800577</Option>
+        </Item>
+        <Item>
+          <Option>800578</Option>
+        </Item>
+        <Item>
+          <Option>800579</Option>
+        </Item>
+        <Item>
+          <Option>800580</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The map of these endless dunes is a swindle.&lt;/b&gt; The first officer turns to berate the guide from whom they were purchased, but the fellow is already gone, as if the sands had swallowed him up. A solitary well offers a slight dribble of consolation, but your men must otherwise come to terms with being rather lost.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5852</LineID>
+    </Text>
+  </Values>
+</Asset>

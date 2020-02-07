@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245688</GUID>
+      <Name>Play_AI_TECHN_34E5V_AELAY_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1970</DurationMinimum>
+          <DurationMaximum>2835</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2085</DurationMinimum>
+          <DurationMaximum>2704</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1227</DurationMinimum>
+          <DurationMaximum>2003</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1552</DurationMinimum>
+          <DurationMaximum>2419</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2890664825</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

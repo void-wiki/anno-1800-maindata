@@ -1,0 +1,59 @@
+<Asset>
+  <Template>Slot</Template>
+  <Values>
+    <Standard>
+      <GUID>116037</GUID>
+      <Name>random slot mining arctic</Name>
+      <IconFilename>data/level_editor/random_slots_icons/random_slot_mining.png</IconFilename>
+    </Standard>
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+      <DeletePropsRadius>0</DeletePropsRadius>
+      <RemovePropsRadius>1</RemovePropsRadius>
+    </Blocking>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/mining_01/mining_01_middle.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/mining_01/mining_01_left.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/mining_01/mining_01_right.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Mesh />
+    <Slot>
+      <SlotType>Random</SlotType>
+      <AutoChangeVariation>1</AutoChangeVariation>
+      <SlotCategoryName>0</SlotCategoryName>
+      <WorkAreaPathSnapDummy>mining_ground</WorkAreaPathSnapDummy>
+    </Slot>
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>slot mining</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <RandomMapObject>
+      <Randomizable>1</Randomizable>
+      <Replacements>
+        <Item>
+          <NewAsset>116038</NewAsset>
+        </Item>
+      </Replacements>
+    </RandomMapObject>
+    <Building>
+      <AssociatedRegions>Arctic</AssociatedRegions>
+    </Building>
+    <SoundEmitter />
+    <Infolayer />
+    <QuestObject />
+  </Values>
+</Asset>

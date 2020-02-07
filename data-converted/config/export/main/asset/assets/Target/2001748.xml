@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>ITEM</ActionID>
+      <Matches>
+        <TargetMatch1>
+          <Flags>CheckProperty;NotSelf;Damaged;NotActionBlocked</Flags>
+          <Property>Walking</Property>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Damaged</Flags>
+        </DisableMatch1>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer</Flags>
+        </SelectionMatch1>
+      </Matches>
+      <MouseCursorTarget>2001867</MouseCursorTarget>
+      <MouseCursorDisable>2001207</MouseCursorDisable>
+      <MouseCursorMode>2001867</MouseCursorMode>
+    </Target>
+    <Standard>
+      <GUID>2001748</GUID>
+      <Name>Special Action Repair</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

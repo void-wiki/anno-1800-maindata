@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800597</GUID>
+      <Name>Lost in the Desert 1.2.4.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A pretty price for divine mercy.&lt;/b&gt; The Y-shaped stick leads all on a meandering path. One insists on stopping to dig, and is left behind. It is a wasted, and fatal effort. After two days of hardship, the rest stumble over a crest to discover the wide blue sea, their mocking ship upon it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15385</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800978</GUID>
+      <Name>Baptism of Fire 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The scientist banishes all illusions.&lt;/b&gt; "This fire that you perceive around the gate, is simply the agglomeration of azure glow-worms." Laughter becomes delight, as the party take the pulsing creatures in hand. Indeed, they are of great help navigating the dark tunnel to the far side of the ridge, saving you days of trekking.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13147</LineID>
+    </Text>
+  </Values>
+</Asset>

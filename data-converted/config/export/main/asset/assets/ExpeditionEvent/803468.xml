@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803468</GUID>
+      <Name>The Mascarade</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Masquerade at Monégasque</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32638</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthernEurope</EventRegion>
+      <EventThreat>800029</EventThreat>
+      <StartDecision>803469</StartDecision>
+      <EventMusicChoice>226698</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/success_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

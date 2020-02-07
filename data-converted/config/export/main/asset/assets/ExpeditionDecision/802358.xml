@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802358</GUID>
+      <Name>The Mayan Map 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802359</Option>
+        </Item>
+        <Item>
+          <Option>802378</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Looks like you're on your own.&lt;/b&gt; The guide scoffs at your valuation of his services, "Everyone from here to Porto Tristeza will hear what a greedy bunch of conquistador pigs you are!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>13</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20979</LineID>
+    </Text>
+  </Values>
+</Asset>

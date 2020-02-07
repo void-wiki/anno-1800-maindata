@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239954</GUID>
+      <Name>wwe_voc_mur_farmer_unhappy</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMaximum>16420</DurationMaximum>
+        </English>
+        <German>
+          <DurationMaximum>16712</DurationMaximum>
+        </German>
+        <French>
+          <DurationMaximum>16459</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMaximum>16229</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3866792002</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

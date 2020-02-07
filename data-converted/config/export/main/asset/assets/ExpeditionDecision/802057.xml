@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802057</GUID>
+      <Name>The Mutiny 1.1.3.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor agrees to be an accomplice,&lt;/b&gt; and his complicity proves vital. Dispensing with his moral objections, your medic produces a poison that causes rapid respiratory failure. A man known to be loyal to the captain secretly administers it, and within a few days the chief firebrand of the mutineers is dead. "Cancer of the lung," says the doctor, "most probably caused by stress." No-one suspects a thing, but the officers must keep a terrible secret.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21583</LineID>
+    </Text>
+  </Values>
+</Asset>

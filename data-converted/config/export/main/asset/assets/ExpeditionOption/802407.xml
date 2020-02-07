@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>802407</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.1.1.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Read it spiritually, go to the cemetery</Text>
+          <Status>Exported</Status>
+          <ExportCount>9</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20858</LineID>
+    </Text>
+    <ExpeditionOption>
+      <OptionAttribute>Faith</OptionAttribute>
+      <FollowupDecisions>
+        <Item>
+          <Decision>802409</Decision>
+          <Threshold>RewardHighThreshold</Threshold>
+        </Item>
+        <Item>
+          <Decision>802410</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

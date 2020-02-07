@@ -1,0 +1,38 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190872</GUID>
+      <Name>All animals farms</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Animal Farms</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15255</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010263</GUID>
+        </Item>
+        <Item>
+          <GUID>1010267</GUID>
+        </Item>
+        <Item>
+          <GUID>1010269</GUID>
+        </Item>
+        <Item>
+          <GUID>101269</GUID>
+        </Item>
+        <Item>
+          <GUID>101272</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

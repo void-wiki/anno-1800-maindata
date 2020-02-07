@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801064</GUID>
+      <Name>The Arid Basin 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801065</Option>
+        </Item>
+        <Item>
+          <Option>801066</Option>
+        </Item>
+        <Item>
+          <Option>801067</Option>
+        </Item>
+        <Item>
+          <Option>801068</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Water has dribbled almost to nothing during an inland survey&lt;/b&gt;, en route to the rendezvous. But hope springs eternal! A muddy river strikes through the arid basin. The crew are delirious when they realise it is not completely dried-up. Do you stop for water, or press on?  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16077</LineID>
+    </Text>
+  </Values>
+</Asset>

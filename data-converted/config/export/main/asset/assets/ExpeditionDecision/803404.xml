@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803404</GUID>
+      <Name>Isla de los Muertos 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The smoke and soot force your party to retreat!&lt;/b&gt; While the refueled lamps now remain lit, an excess of kerosene in the mixture produces dirty clouds that fill the lungs and sting the eyes. All further investigation of the skull's interior comes to an abrupt halt over fears the smoke may have done the expedition's health some permanent damage. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31831</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,50 @@
+<Asset>
+  <Template>Projectile</Template>
+  <Values>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>0</ShotAngle>
+      <ProjectileSpeed>22.5</ProjectileSpeed>
+      <StatusEffects>
+        <Item>
+          <StatusEffect>110957</StatusEffect>
+          <StatusDuration>10000</StatusDuration>
+        </Item>
+      </StatusEffects>
+      <DamageType>Cannon</DamageType>
+    </Projectile>
+    <Standard>
+      <GUID>110961</GUID>
+      <Name>Anarchy_RiotSpread</Name>
+      <InfoDescription>110959</InfoDescription>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/particles/decals/bird_scat/birdscat.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text />
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>235859</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235858</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <ProjectileIncident>
+      <CausedIncident>Fire</CausedIncident>
+      <CausedIncidentBuff>192004</CausedIncidentBuff>
+    </ProjectileIncident>
+  </Values>
+</Asset>

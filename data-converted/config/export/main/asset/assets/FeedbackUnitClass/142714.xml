@@ -1,0 +1,17 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142714</GUID>
+      <Name>LanternResident</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142712</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Greet;Talk;DangerAvoiding</AllowedReactions>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

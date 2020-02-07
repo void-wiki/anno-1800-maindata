@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You sunk my battleship!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12817</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229923</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>262077</GUID>
+      <Name>AT_MurmurFemale4_War_Declared</Name>
+    </Standard>
+  </Values>
+</Asset>

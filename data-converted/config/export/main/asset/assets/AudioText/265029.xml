@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If you pick me, you may have my boat! It's my poor aunt's legacy. Her second husband was a decent sailor.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15595</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232167</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265029</GUID>
+      <Name>editor_WorkerRiot_01</Name>
+    </Standard>
+  </Values>
+</Asset>

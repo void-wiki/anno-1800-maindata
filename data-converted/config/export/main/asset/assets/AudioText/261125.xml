@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I vowed to defend you, it requires no explanation.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12978</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229508</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261125</GUID>
+      <Name>AT_advisor_02_IdleMessageSelf6</Name>
+    </Standard>
+  </Values>
+</Asset>

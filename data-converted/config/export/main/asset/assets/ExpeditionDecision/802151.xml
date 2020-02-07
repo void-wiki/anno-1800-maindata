@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802151</GUID>
+      <Name>Selfless Deeds 1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802157</Option>
+        </Item>
+        <Item>
+          <Option>802158</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailors are unfit for a swift assault.&lt;/b&gt; Their choreographed clumsiness and dissonant roars drive the opponents back not because of their strength but because of the unconventional display. After an instant of bafflement, the kidnappers shout for others to join them and the whole gang soon surrounds your crew. They part to let their leader, a beast of a man, face the puny intruders.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21012</LineID>
+    </Text>
+  </Values>
+</Asset>

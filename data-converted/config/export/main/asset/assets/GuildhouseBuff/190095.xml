@@ -1,0 +1,35 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>190095</GUID>
+      <Name>item action fertility hops</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_hops.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010264</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Handful of Hops Seeds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26355</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <AddedFertility>1010572</AddedFertility>
+    </FactoryUpgrade>
+    <BuildingUpgrade />
+    <Buff />
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

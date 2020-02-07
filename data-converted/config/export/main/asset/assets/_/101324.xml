@@ -1,0 +1,137 @@
+<Asset>
+  <BaseAssetGUID>100516</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101324</GUID>
+      <Name>logistic_colony01_02 (Warehouse II)</Name>
+    </Standard>
+    <Text>
+      <LineID>11035</LineID>
+    </Text>
+    <Blocking />
+    <Building>
+      <PickingAsset>101323</PickingAsset>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Cost />
+    <Selection />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/buildings/public/logistics_colony01_02/logistic_colony01_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter />
+    <Locked />
+    <Infolayer />
+    <FeedbackController />
+    <Warehouse />
+    <LogisticNode />
+    <UpgradeList />
+    <AmbientMoodProvider />
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>15</Amount>
+          <InactiveAmount>25</InactiveAmount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <StorageBase />
+    <Attackable />
+    <Upgradable>
+      <NextGUID>0</NextGUID>
+      <UpgradeCost>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>4</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>4</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>5</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>5</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </UpgradeCost>
+    </Upgradable>
+    <Pausable />
+  </Values>
+</Asset>

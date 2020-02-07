@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Never told your friend of Goode and Sons? There is much to be said, but not now. Dear father’s funeral begins.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4100</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233475</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>253926</GUID>
+      <Name>AT_Advisor01_Movie03_02</Name>
+    </Standard>
+  </Values>
+</Asset>

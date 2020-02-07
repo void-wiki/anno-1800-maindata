@@ -1,0 +1,56 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268845</GUID>
+      <Name>Pool_ai01_UsedPropaganda</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>256693</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256694</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256702</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256703</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256704</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251026</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251095</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251758</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251759</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251760</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251762</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

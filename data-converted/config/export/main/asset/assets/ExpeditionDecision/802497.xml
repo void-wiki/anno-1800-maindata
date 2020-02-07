@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802497</GUID>
+      <Name>The Storm 1.1.2.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The thunderstorm hits your ship with full force.&lt;/b&gt; Call it divine punition or pure coincidence, but the tempest gathers around the vessel and hell begins. Lightning strikes the masts and tears through the sails, igniting brief fires that are immediately doused by the hail. The deck is water, the ship is a wave - and it crashes against the sea, again and again. When at least sunrays bless the sailboat, its shape is torn and mangled.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21780</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192966</GUID>
+      <Name>Culture - Artifacts - Common</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192783</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192788</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192793</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193431</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193794</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

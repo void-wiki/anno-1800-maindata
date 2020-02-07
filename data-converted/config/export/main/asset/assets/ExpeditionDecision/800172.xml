@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800172</GUID>
+      <Name>The Inspector 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800173</Option>
+        </Item>
+        <Item>
+          <Option>800174</Option>
+        </Item>
+        <Item>
+          <Option>800175</Option>
+        </Item>
+        <Item>
+          <Option>800195</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text> &lt;b&gt;"I do hope you've nothing to hide?"&lt;/b&gt; smirks the Royal Inspector, as his soldiers help him aboard from the row boat. Sailors twitch. Your ship is certain to contravene her majesty's law, since it has encroached into demilitarised waters.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5785</LineID>
+    </Text>
+  </Values>
+</Asset>

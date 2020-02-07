@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Don't trouble yourself with such lowly enemies.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17517</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233701</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265938</GUID>
+      <Name>AT_enemy02_DeclareWarOnHarlow</Name>
+    </Standard>
+  </Values>
+</Asset>

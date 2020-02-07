@@ -1,0 +1,37 @@
+<Asset>
+  <Template>MonumentEventReward</Template>
+  <Values>
+    <Standard>
+      <GUID>17043</GUID>
+      <Name>5 Chemical Research</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_5.png</IconFilename>
+      <InfoDescription>17825</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Chemical Research</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27209</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191275</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>191262</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>191276</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+  </Values>
+</Asset>

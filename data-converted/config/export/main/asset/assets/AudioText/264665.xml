@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are meddling in witchcraft. </Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13433</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231208</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264665</GUID>
+      <Name>AT_Inuit_NegativeFeedbackToPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

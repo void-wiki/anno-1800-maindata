@@ -1,0 +1,47 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501494</GUID>
+      <Name>moderate park decorations (category)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_1x1_13.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>103118</Building>
+        </Item>
+        <Item>
+          <Building>102104</Building>
+        </Item>
+        <Item>
+          <Building>102481</Building>
+        </Item>
+        <Item>
+          <Building>102108</Building>
+        </Item>
+        <Item>
+          <Building>102109</Building>
+        </Item>
+        <Item>
+          <Building>102111</Building>
+        </Item>
+        <Item>
+          <Building>102892</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Park Decorations</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27177</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

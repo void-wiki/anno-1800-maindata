@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802091</GUID>
+      <Name>Cut or Lift 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The man is freed.&lt;/b&gt; Using one of the partners broken by the mast, the crew fits the sturdy pieces of timber between the deck and the fallen mast, adding plank after plank in the opening and gradually raising the mast with ropes and pulleys tied to the mainmast. They manage to lift the mast long enough to free the sailor, and the doctor immediately tends to his crushed leg.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21690</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,50 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269021</GUID>
+      <Name>Pool_ai02_WorkingConditionsHigh</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268030</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252997</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252998</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252999</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253000</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253001</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253150</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253151</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253152</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

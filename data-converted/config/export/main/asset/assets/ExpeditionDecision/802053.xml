@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802053</GUID>
+      <Name>The Mutiny 1.1.3.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistPreferAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your representative is utterly tactless.&lt;/b&gt; It is late, he has had too much gin, and he barges into the sailor's quarters barking insults and commands. The crew toss aside their paperbacks and swing down from their hammocks, laying into him with their fists. Perhaps they don't mean to kill him, but they do. To settle the matter, the Captain agrees to keep their crime a secret, so long as there's no more talk of mutiny.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21597</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,63 @@
+<Asset>
+  <Template>DivingBellObject</Template>
+  <Values>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/effects/sunken_treasures_diving_spot_01.cfg</Filename>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>DivingBellObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>113709</GUID>
+      <Name>QO Diving Bell Flotsam Old Nate escort</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_worldmap_3d.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Flotsam</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32506</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <DivingBellObject>
+      <TreasureType>QuestTreasure</TreasureType>
+    </DivingBellObject>
+    <FeedbackController />
+  </Values>
+</Asset>

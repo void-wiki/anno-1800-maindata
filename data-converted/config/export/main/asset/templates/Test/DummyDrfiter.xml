@@ -1,0 +1,19 @@
+<Template>
+  <Name>DummyDrfiter</Name>
+  <Properties>
+    <Standard />
+    <Object />
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection>
+      <Selectable>0</Selectable>
+    </Selection>
+    <Walking>
+      <LeaningDamping>0.3</LeaningDamping>
+    </Walking>
+    <Drifting />
+    <Text />
+    <SoundEmitter />
+  </Properties>
+</Template>

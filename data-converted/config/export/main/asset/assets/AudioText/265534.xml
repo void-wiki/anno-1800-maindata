@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You shame yourself at the house of my friend.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16827</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234285</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265534</GUID>
+      <Name>AT_ai02_MafiaDetected_NPCsFriend2</Name>
+    </Standard>
+  </Values>
+</Asset>

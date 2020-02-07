@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803310</GUID>
+      <Name>Good Whale Hunting 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Hard to avoid what you cannot see.&lt;/b&gt; The whales are everywhere: on the sides, in front, in the back, under the ship. The captain strains against the limits of his skill but cannot avoid the impacts coming from below, and part of the cargo is sent flying before the ship can escape.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26329</LineID>
+    </Text>
+  </Values>
+</Asset>

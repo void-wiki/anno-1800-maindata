@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wonderful! Bathe yourself in anger!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3169</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211035</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252025</GUID>
+      <Name>AT_ai08_NpcYieldsToPlayerThreat3</Name>
+    </Standard>
+  </Values>
+</Asset>

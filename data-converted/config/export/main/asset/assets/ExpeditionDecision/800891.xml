@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800891</GUID>
+      <Name>Parasitic Infestation 1.2.2.1.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The tincture is poison! Having seen their first shipmate choke on his dose, the rest decide they'd rather live with a six-foot tapeworm in their bellies.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13206</LineID>
+    </Text>
+  </Values>
+</Asset>

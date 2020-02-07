@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193465</GUID>
+      <Name>Maps - Machines Maps - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>113197</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>113198</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>113199</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115481</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802257</GUID>
+      <Name>The Deeper You Go 1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190547</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ancient wall cannot resist your crew's pressure.&lt;/b&gt; They grunt in unison and breathe in rhythm with their effort. One, two. The wall stops in its tracks. One. It shivers. Two. The wall crumbles, revealing a large opening under its railings: the crew finds the body of a less lucky adventurer, one hand clawing at the threshold of a gaping exit, the other gripping an oversized diamond.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21083</LineID>
+    </Text>
+  </Values>
+</Asset>

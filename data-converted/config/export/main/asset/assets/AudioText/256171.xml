@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You drive even a patient mind to despair.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7431</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217907</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256171</GUID>
+      <Name>AT_ai02_NpcDeclinesPlayerProposalTooOften2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801071</GUID>
+      <Name>The Arid Basin 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801077</Option>
+        </Item>
+        <Item>
+          <Option>801078</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202341</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/disease_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The water still has a mighty pong&lt;/b&gt;, despite all solids having been separated out by the rudimentary device. Several feel terribly ill after drinking. A treatment can be improvised, or the survey can try to hold out until the rendezvous.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16082</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501787</GUID>
+      <Name>IncidentOngoingFireConsumedBuilding</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501364</IconAsset>
+            <NotificationSideTitle>22267</NotificationSideTitle>
+            <FilterType>Incidents</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>22267</NotificationText>
+            <NotificationAudioAsset>239733</NotificationAudioAsset>
+            <NotificationPriority>300</NotificationPriority>
+            <NotificationGroup>IncidentFire</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265191</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804039</GUID>
+      <Name>East coast - Add event</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>803999</InsertEvent>
+      <MapPath>
+        <ShowMap>1</ShowMap>
+        <ProgressReview>117453</ProgressReview>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The ship is now headed for the East coast of Labrador Island. The crew hope to find Sir John and his men soon, and they pray no more obstacles will come their way.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34897</LineID>
+    </Text>
+  </Values>
+</Asset>

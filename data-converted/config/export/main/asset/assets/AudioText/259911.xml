@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The crew come 'round to you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11552</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222748</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>259911</GUID>
+      <Name>AT_captain_PosiFeedbackToPlayer3</Name>
+    </Standard>
+  </Values>
+</Asset>

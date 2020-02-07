@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>22642</GUID>
+      <Name>Institution Illness Probability Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetForValue(500361, [Selection Object IncidentResolver InfectionChanceIllness]) Text]</Text>
+          <Status>Edit</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

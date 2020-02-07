@@ -1,0 +1,50 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190076</GUID>
+      <Name>active fertility sugar cane short</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cane_sugar_1.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Handful of Sugar Cane Seeds</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27030</LineID>
+    </Text>
+    <Item>
+      <IsDestroyedOnUnequip>1</IsDestroyedOnUnequip>
+      <HasAction>1</HasAction>
+      <ItemSet>193399</ItemSet>
+      <TradePrice>100</TradePrice>
+      <TradePriceOnlineCurrency>1</TradePriceOnlineCurrency>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect />
+    <ItemAction>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>180000</ActionDuration>
+      <ActiveBuff>190096</ActiveBuff>
+      <ActionDescription>2362</ActionDescription>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy</ItemDifficulties>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <HeaterUpgrade />
+  </Values>
+</Asset>

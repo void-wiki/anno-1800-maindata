@@ -1,0 +1,39 @@
+<Template>
+  <Name>HarborBuilding</Name>
+  <Properties>
+    <Standard />
+    <Building>
+      <TerrainType>Water</TerrainType>
+    </Building>
+    <Blocking />
+    <Mesh />
+    <Object />
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Text />
+    <Cost />
+    <Attackable>
+      <SelfHealPerHealTick>300</SelfHealPerHealTick>
+      <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+      <RuinSmokeParticles>
+        <Item>
+          <SmokeParticleFilePath>data/graphics/effects/military/explosions/damage_smoke_01.cfg</SmokeParticleFilePath>
+        </Item>
+      </RuinSmokeParticles>
+      <RuinSmokeParticlesMin>1</RuinSmokeParticlesMin>
+      <RuinSmokeParticlesMax>3</RuinSmokeParticlesMax>
+      <RuinSmokeParticleRectBorderPercent>0.2</RuinSmokeParticleRectBorderPercent>
+      <ExplosionEffects>
+        <Item />
+      </ExplosionEffects>
+    </Attackable>
+    <Infolayer />
+    <Maintenance>
+      <IncomeCategory>HarbourBuildings</IncomeCategory>
+    </Maintenance>
+    <Locked />
+  </Properties>
+</Template>

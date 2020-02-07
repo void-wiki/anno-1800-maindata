@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803918</GUID>
+      <Name>Blizzard 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>804147</InsertEvent>
+      <Conclusion>114638</Conclusion>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_blizzard.png</Sketch>
+        <SketchPosX>1196</SketchPosX>
+        <SketchPosY>210</SketchPosY>
+        <SketchSizeX>121</SketchSizeX>
+        <SketchSizeY>98</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Their defence of the ship is a little half-hearted.&lt;/b&gt; Initially the men show willing, but the blizzard quickly wears them down, and they retreat inside claiming that their work is done. After the worst of it has passed, the officers survey the ship. Beneath a poorly affixed and feeble tarpaulin, the engine is found flooded with slush that must now be cleared. &lt;b&gt;One has to wonder if they are cut out for these kinds of challenges.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34883</LineID>
+    </Text>
+  </Values>
+</Asset>

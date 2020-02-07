@@ -1,0 +1,26 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>2002401</GUID>
+      <Name>PriceDownTextPool</Name>
+    </Standard>
+    <TextPool>
+      <TextGroups>
+        <Item>
+          <Group>-1934372531</Group>
+        </Item>
+      </TextGroups>
+    </TextPool>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool />
+  </Values>
+</Asset>

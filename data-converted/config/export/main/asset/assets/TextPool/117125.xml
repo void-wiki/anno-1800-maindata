@@ -1,0 +1,44 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117125</GUID>
+      <Name>Pool_Explorer_Comfortable</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>115657</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115658</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115660</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115661</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115662</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115664</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115667</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

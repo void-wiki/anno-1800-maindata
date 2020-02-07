@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801008</GUID>
+      <Name>Mysterious Artefacts 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801011</Option>
+        </Item>
+        <Item>
+          <Option>801012</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;No one has anything to offer but the priest.&lt;/b&gt; It is his belief that some unholy chapter has opened. The next morning, more of the eerie things have appeared. "Cleanse the idols in holy fire!" he shrieks. "Nonsense," says a soldier. "Set guards within, and we shall have this rat."   </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13175</LineID>
+    </Text>
+  </Values>
+</Asset>

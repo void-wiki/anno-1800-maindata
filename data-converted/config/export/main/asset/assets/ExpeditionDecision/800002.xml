@@ -1,0 +1,15 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800002</GUID>
+      <Name>ContinueExpedition</Name>
+      <ID>ContinueExpeditionDecision</ID>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveContinue</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text />
+  </Values>
+</Asset>

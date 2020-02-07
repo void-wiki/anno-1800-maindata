@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803977</GUID>
+      <Name>Inuit settlement 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803978</Option>
+        </Item>
+        <Item>
+          <Option>803981</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path07.png</PathSegment>
+        <PathPosX>430</PathPosX>
+        <PathPosY>239</PathPosY>
+        <ProgressReview>117459</ProgressReview>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_inuitsettlement.png</Sketch>
+        <SketchPosX>1348</SketchPosX>
+        <SketchPosY>700</SketchPosY>
+        <SketchSizeX>208</SketchSizeX>
+        <SketchSizeY>148</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ivujivik is a semi-permanent settlement. &lt;b&gt;The Inuit appear worried, but nevertheless offer your men every hospitality,&lt;/b&gt; inviting them into a large iglu where they are served a hearty Suaasat— a meat stew— under the silent gaze of what feels like the whole village. A girl, Tapeesa, is able to translate, and the others warm up when the hear the story of your journey over the ice flats. Soon the subject turns to Sir John's lost expedition. &lt;b&gt;Tapeesa shows you items&lt;/b&gt; that look like they belonged to Sir John's expedition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35258</LineID>
+    </Text>
+  </Values>
+</Asset>

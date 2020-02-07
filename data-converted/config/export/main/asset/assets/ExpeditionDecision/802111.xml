@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802111</GUID>
+      <Name>Sea Still 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The rescue is a tragedy.&lt;/b&gt; Your men paddle like puppies in the densely-packed sargassum— it's hard to understand quite how sailors could be so lacking in practice. Gasping, they reach desperately towards the castaways they should be rescuing, as if for support. The undertow of the sinking ship pulls them under. This was all your fault.</Text>
+          <Status>Exported</Status>
+          <ExportCount>9</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21496</LineID>
+    </Text>
+  </Values>
+</Asset>

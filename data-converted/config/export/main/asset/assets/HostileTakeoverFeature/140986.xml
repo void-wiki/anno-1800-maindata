@@ -1,0 +1,36 @@
+<Asset>
+  <Template>HostileTakeoverFeature</Template>
+  <Values>
+    <HostileTakeoverFeature>
+      <IslandSizeFactor>2</IslandSizeFactor>
+      <IslandSlotFactor>5000</IslandSlotFactor>
+      <IslandFertilityFactor>7500</IslandFertilityFactor>
+      <IslandTaxFactor>10</IslandTaxFactor>
+      <IslandBuildingsFactor>1</IslandBuildingsFactor>
+      <BuyShareCoolDown>600000</BuyShareCoolDown>
+      <QueenSellShareDiscount>0.5</QueenSellShareDiscount>
+      <QueenBuyShareDiscount>0.6</QueenBuyShareDiscount>
+      <HostileTakeoverLimit>1</HostileTakeoverLimit>
+      <HostileTakeoverChanceFactor>1</HostileTakeoverChanceFactor>
+      <TakeoverMoneyCostFactor>1.5</TakeoverMoneyCostFactor>
+      <ShareIncomeTaxFactor>0.3</ShareIncomeTaxFactor>
+      <OtherPlayerBuysShareFromYou>500545</OtherPlayerBuysShareFromYou>
+      <OtherPlayerBuysShareFromOtherPlayer>500546</OtherPlayerBuysShareFromOtherPlayer>
+      <PlayerBuysShareFromOtherPlayer>500547</PlayerBuysShareFromOtherPlayer>
+      <OtherPlayerCanStartHostileTakeoverOnYourIsland>500553</OtherPlayerCanStartHostileTakeoverOnYourIsland>
+      <OtherPlayerCanStartHostileTakeoverOnOtherIsland>500554</OtherPlayerCanStartHostileTakeoverOnOtherIsland>
+      <PlayerCanStartHostileTakeoverOnOtherIsland>500555</PlayerCanStartHostileTakeoverOnOtherIsland>
+      <OtherPlayerTakeoverIslandFromYou>500556</OtherPlayerTakeoverIslandFromYou>
+      <OtherPlayerTakeoverIslandFromOtherPlayer>500557</OtherPlayerTakeoverIslandFromOtherPlayer>
+      <PlayerTakeoverIslandFromOtherPlayer>500558</PlayerTakeoverIslandFromOtherPlayer>
+      <OtherPlayerSellShare>500560</OtherPlayerSellShare>
+      <PlayerSellShare>500561</PlayerSellShare>
+      <IslandSellBasePrice>-3124</IslandSellBasePrice>
+    </HostileTakeoverFeature>
+    <Standard>
+      <GUID>140986</GUID>
+      <Name>HostileTakeoverBalancing</Name>
+      <ID>HostileTakeoverFeature</ID>
+    </Standard>
+  </Values>
+</Asset>

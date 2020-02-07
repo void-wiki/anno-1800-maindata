@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>ITEM</ActionID>
+      <PositionCheck>Always</PositionCheck>
+      <Matches>
+        <TargetMatch1>
+          <Flags>Never</Flags>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Never</Flags>
+        </DisableMatch1>
+      </Matches>
+      <MouseCursorMode>2001299</MouseCursorMode>
+      <MouseCursorPosition>2001297</MouseCursorPosition>
+    </Target>
+    <Standard>
+      <GUID>2001744</GUID>
+      <Name>Special Action</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800605</GUID>
+      <Name>A Grizzly Encounter</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A Grizzly Encounter</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5692</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>800606</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/wildlife_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

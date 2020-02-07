@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Perhaps think again on the situation? </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1177</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212195</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250505</GUID>
+      <Name>AT_3rdParty02_NegFeedbackToPlyr3</Name>
+    </Standard>
+  </Values>
+</Asset>

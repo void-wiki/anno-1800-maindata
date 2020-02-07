@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20068</GUID>
+      <Name>Smuggler_Pickup with object</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pick up at [AssetData([Conditions QuestCondition Context]) Text]: &lt;br/&gt;[AssetData([Conditions QuestMainObjectiveCondition CurrentDeliveryObject([Conditions QuestCondition ConditionKey])]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29831</LineID>
+    </Text>
+  </Values>
+</Asset>

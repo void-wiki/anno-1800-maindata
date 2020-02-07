@@ -1,0 +1,38 @@
+<Asset>
+  <Template>QuestObjectFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>117482</GUID>
+      <Name>Inuit_Explore_Medicine_Quest 27_Shrine</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_inukshuk.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>Default</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <GUIType>Specialist</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/ancient_altar/ancient_altar.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Elder's Refuge</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36229</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+    <SoundEmitter />
+  </Values>
+</Asset>

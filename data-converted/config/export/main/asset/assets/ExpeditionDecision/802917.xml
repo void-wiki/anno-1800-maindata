@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802917</GUID>
+      <Name>The Frozen Chasm 1.1.1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Help at last.&lt;/b&gt; Your scouts navigate the night-filled glacier with care, marking their route with etchings in the ice. They bring back sailors and an actual pulley, which help rescuing the wounded without any more harm. The injured men are in a poor state and will probably suffer from this trial in the long term, but for now they simply savour their survival.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22114</LineID>
+    </Text>
+  </Values>
+</Asset>

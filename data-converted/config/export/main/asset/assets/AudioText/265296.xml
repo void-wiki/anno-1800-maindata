@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You gained an influence bonus.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15885</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233987</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265296</GUID>
+      <Name>AT_Narrator_Influence_Information_SpecializationGained</Name>
+    </Standard>
+  </Values>
+</Asset>

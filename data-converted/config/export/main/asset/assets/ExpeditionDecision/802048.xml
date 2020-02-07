@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802048</GUID>
+      <Name>The Mutiny 1.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802049</Option>
+        </Item>
+        <Item>
+          <Option>802050</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Their leader insists you meet on his turf.&lt;/b&gt; "The officers join us among our squalid bunks, or there'll be no meeting," he says with more than a hint of threat.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21578</LineID>
+    </Text>
+  </Values>
+</Asset>

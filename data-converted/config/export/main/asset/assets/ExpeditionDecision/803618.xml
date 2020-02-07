@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803618</GUID>
+      <Name>Giant Hogweed 1.2.2.1.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;This time, the doctor takes the symptoms seriously.&lt;/b&gt; "It looks like a chemical irritation. I wonder..." The doctor rummages through the nearby flora and in time he finds it: a tall stem crowned by an umbrella of small white flowers. "A giant hogweed! Of course, its sap causes phototoxicity." Fortunately, the treatment is simple: a cold bath and a long break in the shade. Once they're clean, the doctor heals and bandages the lesions. But it comes many hours too late — his negligence will leave leathery red scars on the wretched few.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33232</LineID>
+    </Text>
+  </Values>
+</Asset>

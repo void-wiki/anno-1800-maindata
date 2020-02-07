@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112811</GUID>
+      <Name>goblin shark</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_goblinshark.png</IconFilename>
+      <InfoDescription>112830</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Goblin Shark</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32291</LineID>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <ItemSet>193401</ItemSet>
+      <TradePrice>214000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>113763</ChangeModule>
+      <ForcedFeedbackVariation>113776</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>112830</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The wayward jabs of your sabre are foiled by your lack of poise.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1754</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211843</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250523</GUID>
+      <Name>AT_ai07_PlyrFailsToInsultNpc4</Name>
+    </Standard>
+  </Values>
+</Asset>

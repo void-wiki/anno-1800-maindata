@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>247099</GUID>
+      <Name>wwe_sfx_veh_clipperp_lp_play</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>40</MaxAttenuation>
+      <StopEvent>247098</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1024706998</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

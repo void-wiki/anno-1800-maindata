@@ -1,0 +1,58 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190805</GUID>
+      <Name>Protectionism Defender Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010196</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>30</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010205</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010218</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010207</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010202</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010221</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>25</Weight>
+        </Item>
+        <Item>
+          <ItemLink>1010223</ItemLink>
+          <MinAmount>5</MinAmount>
+          <MaxAmount>5</MaxAmount>
+          <Weight>15</Weight>
+        </Item>
+      </ItemsPool>
+      <GenerateUniqueRewards>0</GenerateUniqueRewards>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

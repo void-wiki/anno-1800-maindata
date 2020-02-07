@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What do you do here at the family crypt, Edvard? Do you vaunt your betrayal?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17145</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233469</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>1</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267030</GUID>
+      <Name>AT_Advisor01_movie09_01</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,51 @@
+<Asset>
+  <Template>Collectable</Template>
+  <Values>
+    <Collectable />
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/particles/special/fireworks/guild_house_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>110497</GUID>
+      <Name>Fireworks effect</Name>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Walking>
+      <PathPlannerLayer>Air</PathPlannerLayer>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Flotsam</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+  </Values>
+</Asset>

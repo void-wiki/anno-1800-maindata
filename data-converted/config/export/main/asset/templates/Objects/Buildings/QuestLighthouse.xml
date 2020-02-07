@@ -1,0 +1,29 @@
+<Template>
+  <Name>QuestLighthouse</Name>
+  <Properties>
+    <Standard />
+    <Building>
+      <TerrainType>Water</TerrainType>
+    </Building>
+    <Blocking />
+    <Mesh />
+    <Object />
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection>
+      <GUIType>Generic</GUIType>
+      <ParticipantMessageTrigger>NoQuestAvailable</ParticipantMessageTrigger>
+    </Selection>
+    <Text />
+    <Cost />
+    <Infolayer />
+    <Maintenance>
+      <IncomeCategory>HarbourBuildings</IncomeCategory>
+    </Maintenance>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <QuestObject />
+    <SoundEmitter />
+  </Properties>
+</Template>

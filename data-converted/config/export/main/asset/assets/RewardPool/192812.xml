@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192812</GUID>
+      <Name>Characters - Beryl - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192204</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192205</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192206</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192207</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

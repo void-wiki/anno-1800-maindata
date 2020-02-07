@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802245</GUID>
+      <Name>The Deeper You Go 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802246</Option>
+        </Item>
+        <Item>
+          <Option>802248</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The challenge demands more coordination than the crew has.&lt;/b&gt; Surprised by the brushing elbow of a comrade, a sailor squeals in terror and jumps back, triggering trap after trap of flying arrows, flaming oils, poison sprays. Once the most sensational traps have simmered down, the roof collapses and seals the exit. Sand slowly starts to fall from the walls.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21073</LineID>
+    </Text>
+  </Values>
+</Asset>

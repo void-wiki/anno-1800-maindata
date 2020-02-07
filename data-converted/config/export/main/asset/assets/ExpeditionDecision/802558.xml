@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802558</GUID>
+      <Name>Apostasy 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The Iliad's wisdom seeps into your sailors' souls.&lt;/b&gt;&lt;br/&gt;"Come then, let us give each other glorious presents, so that any of the Achaians or Trojans may say of us: 'These two fought each other in heart-consuming hate, then joined with each other in close friendship.'"&lt;br/&gt;Hector's speech reminds your sailors of the things they do have in common, rather than those they don't. Having heard the Captain quote it the previous evening, the crew awake with open hearts and minds. And what's more, the sun is shining again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21560</LineID>
+    </Text>
+  </Values>
+</Asset>

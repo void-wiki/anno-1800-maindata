@@ -1,0 +1,51 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191082</GUID>
+      <Name>ivory gull</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_ivory_ygull.png</IconFilename>
+      <InfoDescription>117467</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ivory Gull</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26459</LineID>
+    </Text>
+    <Item>
+      <Rarity>Uncommon</Rarity>
+      <TradePrice>20700</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>1010477</ChangeModule>
+      <ForcedFeedbackVariation>101774</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>20</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203404</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>Arctic;NorthernEurope;NorthernNorthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>12878</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionThreat</Template>
+  <Values>
+    <Standard>
+      <GUID>800033</GUID>
+      <Name>Navigation</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_navigation_tint.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Navigation</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15229</LineID>
+    </Text>
+    <ExpeditionThreat>
+      <Attributes>Navigation</Attributes>
+      <ThreatDescriptions>
+        <Item>
+          <Description>2543</Description>
+        </Item>
+      </ThreatDescriptions>
+      <Hint>12703</Hint>
+    </ExpeditionThreat>
+  </Values>
+</Asset>

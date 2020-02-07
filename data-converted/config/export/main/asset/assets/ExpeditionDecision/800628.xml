@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800628</GUID>
+      <Name>A Grizzly Encounter 1.2.2.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Bears are awfully good at climbing trees&lt;/b&gt;, and as on this occasion, it is not uncommon to see them strike their adversaries from the branches. Its hapless victim plunges from the canopy and lands like a sack of red berries on rocks below. Others injure themselves as the men drop from the trees in a desperate escape.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5711</LineID>
+    </Text>
+  </Values>
+</Asset>

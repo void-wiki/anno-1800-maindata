@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>201234</GUID>
+      <Name>wwe_sfx_env_spot_cloth_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>35601</DurationMinimum>
+          <DurationMaximum>110601</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>35601</DurationMinimum>
+          <DurationMaximum>110601</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>35601</DurationMinimum>
+          <DurationMaximum>110601</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>35601</DurationMinimum>
+          <DurationMaximum>110601</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>728130487</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

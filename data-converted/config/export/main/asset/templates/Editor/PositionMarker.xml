@@ -1,0 +1,22 @@
+<Template>
+  <Name>PositionMarker</Name>
+  <Properties>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Standard />
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/placeholder.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <PositionMarker>
+      <ZoomIDFixedCam>-1</ZoomIDFixedCam>
+    </PositionMarker>
+    <Text />
+  </Properties>
+</Template>

@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Then Edvard struck back! He imprisoned all who were close to your father, including my beloved Thomas.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17654</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234203</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>2</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267148</GUID>
+      <Name>AT_TheodoraTicker_movie12_02</Name>
+    </Standard>
+  </Values>
+</Asset>

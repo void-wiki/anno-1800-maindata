@@ -1,0 +1,41 @@
+<Asset>
+  <Template>Flock</Template>
+  <Values>
+    <Flock>
+      <Speed>0.09</Speed>
+      <HardBoundingBoxConstraint>1</HardBoundingBoxConstraint>
+      <Underwater>1</Underwater>
+      <AutoSpawnAtCoasts>1</AutoSpawnAtCoasts>
+      <IsCatchableFish>1</IsCatchableFish>
+    </Flock>
+    <Standard>
+      <GUID>1003272</GUID>
+      <Name>FishFlock Small</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fish.png</IconFilename>
+      <ID>Herd_Water_6</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_fish01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/fish/fish.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>4</UnitCountMin>
+      <UnitCountMax>12</UnitCountMax>
+      <AutoSpawn_RelativeProbability>50</AutoSpawn_RelativeProbability>
+    </AnimalBase>
+  </Values>
+</Asset>

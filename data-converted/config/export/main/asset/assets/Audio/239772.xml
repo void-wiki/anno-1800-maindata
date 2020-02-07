@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239772</GUID>
+      <Name>wwe_voc_mur_factories</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMaximum>15186</DurationMaximum>
+        </English>
+        <German>
+          <DurationMaximum>14048</DurationMaximum>
+        </German>
+        <French>
+          <DurationMaximum>15298</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMaximum>14860</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3205345979</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

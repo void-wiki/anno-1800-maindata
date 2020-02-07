@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800984</GUID>
+      <Name>Baptism of Fire 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor forms a decent hypothesis&lt;/b&gt;, and the crew are convinced. "Even from afar, I can see the bones are in poor condition, not burned, but malnourished." Anxious not to end the same way, the crew take a gamble, and are astonished to discover that leaping through the gate does them no harm. They follow the tunnel to the other side of the ridge. "I wonder if it was those frogs we licked..." the doctor mumbles.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13153</LineID>
+    </Text>
+  </Values>
+</Asset>

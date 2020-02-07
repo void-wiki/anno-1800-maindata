@@ -1,0 +1,50 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>102487</GUID>
+      <Name>CQI Dynamite for Fishing</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_dynamite.png</IconFilename>
+      <ID>DynamiteForFishing</ID>
+      <InfoDescription>19181</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <MouseEffectPath>data/graphics/campaign/effects/decals/dynamite_target_decal_01.cfg</MouseEffectPath>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>101204</Projectile>
+      <BarrageCount>1</BarrageCount>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001744</ActionTarget>
+      <ActionDistance>10</ActionDistance>
+      <ActionCooldown>2000</ActionCooldown>
+      <ActionDescription>19180</ActionDescription>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>5000</TradePrice>
+      <Flotsam>101223</Flotsam>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stick of dynamite</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27816</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

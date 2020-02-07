@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802392</GUID>
+      <Name>The Devil Calls 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202359</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/stranger_things_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The devil noise drowns out the priest's prayer.&lt;/b&gt; As he anoints each sailor hastily with holy water, a voice identical to his screeches "Get away devil!", and raucous laughter erupts from the forest all around. Men and women run for dear life, only for the jungle to swallow them up. The ship feels very empty on the onward journey. "Led to the underworld," the Captain prods the disgraced priest in the chest, "by the agents of Lucifer!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20846</LineID>
+    </Text>
+  </Values>
+</Asset>

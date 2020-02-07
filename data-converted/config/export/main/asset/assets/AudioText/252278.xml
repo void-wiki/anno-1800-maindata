@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It's important to be true to oneself.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4004</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236260</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252278</GUID>
+      <Name>AT_Reporter_PublishWOPropaganda3</Name>
+    </Standard>
+  </Values>
+</Asset>

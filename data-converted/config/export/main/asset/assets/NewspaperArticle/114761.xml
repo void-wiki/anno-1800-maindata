@@ -1,0 +1,31 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>114761</GUID>
+      <Name>Storyline_BuildBotanicalGarden</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>114032</Headline>
+      <Subline>114033</Subline>
+      <Image>142709</Image>
+      <Category>Progress</Category>
+      <NewsPriority>
+        <StartValue>391</StartValue>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>8</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

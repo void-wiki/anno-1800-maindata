@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>For some reason my advisors won't allow it!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2810</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211414</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251359</GUID>
+      <Name>AT_ai01_NpcDeclinesPlayerProposal4</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800341</GUID>
+      <Name>The Minefield 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"We are masters of the sea!"&lt;/b&gt; sing the triumphant crew, as the ship weaves easily beyond the last line of mines. "Even Odysseus, when faced with Scylla and Charybdis, lost men. We have lost none of our company, and our bonds only strengthen!" Soon, a special bottle is being uncorked, and toasts raised to the continued success of the expedition!   </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5827</LineID>
+    </Text>
+  </Values>
+</Asset>

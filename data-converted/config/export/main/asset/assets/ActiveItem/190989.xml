@@ -1,0 +1,43 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190989</GUID>
+      <Name>GoTeam</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_zebra.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Go Team!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27025</LineID>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>BUFF_OTHER</ItemAction>
+      <ActionTarget>2001744</ActionTarget>
+      <ActionScope>TargetRadius</ActionScope>
+      <ActionDistance>15</ActionDistance>
+      <RadiusBuffTargets>Ally;Self</RadiusBuffTargets>
+      <ActionCooldown>30000</ActionCooldown>
+      <ActionDuration>30000</ActionDuration>
+      <ActiveBuff>6000002</ActiveBuff>
+    </ItemAction>
+    <ExpeditionAttribute />
+    <SpecialAction>
+      <MouseEffect>500992</MouseEffect>
+      <ActionRadius>8</ActionRadius>
+    </SpecialAction>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

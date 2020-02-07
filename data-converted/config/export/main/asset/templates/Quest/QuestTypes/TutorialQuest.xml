@@ -1,0 +1,51 @@
+<Template>
+  <Name>TutorialQuest</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <QuestGiver>7</QuestGiver>
+      <MaxAbortCount>1</MaxAbortCount>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <QuestCategory>TutorialQuest</QuestCategory>
+      <IsAbortable>1</IsAbortable>
+      <NeededProgressLevel>EarlyGame;EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <LatencyTimer>60000</LatencyTimer>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_construction_sustain.png</QuestBookBackground>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardAssets />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionPlayerCounter>
+                <CounterAmount>1</CounterAmount>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority />
+  </Properties>
+</Template>

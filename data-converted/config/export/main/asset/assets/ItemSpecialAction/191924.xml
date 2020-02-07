@@ -1,0 +1,62 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191924</GUID>
+      <Name>Huge Alcohol Crate</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_alcohol_bag_3.png</IconFilename>
+      <InfoDescription>19551</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <ItemAction>HEAL_INCIDENT</ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <ActionIncidentType>Riot</ActionIncidentType>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>7200000</ActionDuration>
+      <ActiveBuff>191936</ActiveBuff>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <Item>
+      <Allocation>TownHall</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>14000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Huge Alcohol Crate</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26841</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>2</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>2</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19551</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

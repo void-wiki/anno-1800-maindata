@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803405</GUID>
+      <Name>Isla de los Muertos 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803406</Option>
+        </Item>
+        <Item>
+          <Option>803409</Option>
+        </Item>
+        <Item>
+          <Option>803415</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The expedition party seem all the more doubtful.&lt;/b&gt;"Children's stories? Is that the best we've got? And besides, it is precisely this sort of unchecked curiosity that brought the heroes of those stories so much trouble!" </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31832</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,39 @@
+<Asset>
+  <Template>VisualBuilding_NoLogic</Template>
+  <Values>
+    <Standard>
+      <GUID>113903</GUID>
+      <Name>Continental Island Fortress</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_gate_01.png</IconFilename>
+    </Standard>
+    <Building>
+      <BuildingType>Other</BuildingType>
+    </Building>
+    <Blocking />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/buildings/3rd_party/continental_fortress/continental_fortress.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <DefaultParticipant>Third_party_01_Queen</DefaultParticipant>
+    </Object>
+    <Mesh>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>King's Bluff</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32583</LineID>
+    </Text>
+    <SoundEmitter />
+    <FeedbackController />
+  </Values>
+</Asset>

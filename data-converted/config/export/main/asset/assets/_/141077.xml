@@ -1,0 +1,86 @@
+<Asset>
+  <BaseAssetGUID>141076</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>141077</GUID>
+      <Name>BlockCityPublicScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PlacementScore</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PlacementScore</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Rating>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <RatingBlockRegularity />
+            </Values>
+          </Rating>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingProvidePublicCoverage</Template>
+            <Values>
+              <RatingProvidePublicCoverage />
+            </Values>
+          </Rating>
+          <RelativeWeight>5</RelativeWeight>
+          <DiscardThresholdScore>0</DiscardThresholdScore>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingPublicOverlap</Template>
+            <Values>
+              <RatingPublicOverlap />
+            </Values>
+          </Rating>
+          <RelativeWeight>10</RelativeWeight>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingCityBlockOverride</Template>
+            <Values>
+              <RatingCityBlockOverride />
+            </Values>
+          </Rating>
+          <RelativeWeight>20</RelativeWeight>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PlacementScore</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Rating>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <RatingNeighborTiles />
+            </Values>
+          </Rating>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

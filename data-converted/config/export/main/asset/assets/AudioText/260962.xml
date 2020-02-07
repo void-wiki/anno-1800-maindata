@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I modernised the trade fleet the moment I took control.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11955</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229792</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>260962</GUID>
+      <Name>AT_enemy_01_PlayerSelectsNpcShip1</Name>
+    </Standard>
+  </Values>
+</Asset>

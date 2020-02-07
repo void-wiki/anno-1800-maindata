@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801822</GUID>
+      <Name>GOS 3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801823</Option>
+        </Item>
+        <Item>
+          <Option>801825</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190547</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your infiltrator has the place to themself.&lt;/b&gt; The study is small and spartan, an occasional home for some absent overseer perhaps. As such you would think the most likely place for important documents, but &lt;b&gt;of that contract there is no sign!&lt;/b&gt; Riffling through the drawers however, does produce &lt;b&gt;a perfect diamond&lt;/b&gt;, gleaming dully. May as well pocket it, before moving on.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21248</LineID>
+    </Text>
+  </Values>
+</Asset>

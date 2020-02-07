@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203947</GUID>
+      <Name>wwe_sfx_3rd_party_crane_pulley_down</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4649</DurationMinimum>
+          <DurationMaximum>10695</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4649</DurationMinimum>
+          <DurationMaximum>10695</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4649</DurationMinimum>
+          <DurationMaximum>10695</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>4649</DurationMinimum>
+          <DurationMaximum>10695</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>15</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1926272824</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

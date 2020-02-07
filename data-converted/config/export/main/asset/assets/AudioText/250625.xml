@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You wild beast!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1837</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211498</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250625</GUID>
+      <Name>AT_ai07_PlayerAttacksNpc1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Have pity, I cannot sleep!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4540</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215032</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254200</GUID>
+      <Name>AT_res_tier03_NegFeedbackToPlyr1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This atmosphere is corrosive.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7979</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217468</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255804</GUID>
+      <Name>AT_res_tier04_ResidenceUnhappy4</Name>
+    </Standard>
+  </Values>
+</Asset>

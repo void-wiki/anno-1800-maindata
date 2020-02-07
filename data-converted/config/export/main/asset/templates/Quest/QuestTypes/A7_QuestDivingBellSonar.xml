@@ -1,0 +1,97 @@
+<Template>
+  <Name>A7_QuestDivingBellSonar</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <NotificationTextFemale>112968</NotificationTextFemale>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>112969</NotificationText>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>39</QuestGiver>
+      <QuestCategory>SunkenTreasureQuest</QuestCategory>
+      <NeededProgressLevel>EarlyGame;EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <QuestTrackerVisibility>Global</QuestTrackerVisibility>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_questbook_sunken_treasures.png</QuestBookBackground>
+      <QuestHints>
+        <Item>
+          <Text>113890</Text>
+        </Item>
+        <Item>
+          <Text>113892</Text>
+        </Item>
+        <Item>
+          <Text>113369</Text>
+        </Item>
+      </QuestHints>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardAssets />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>DivingBellObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <ObjectiveSignsAndFeedback>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ConditionObjectiveSignsAndFeedback>
+                      <Infolayer>0</Infolayer>
+                      <MinimapToken>0</MinimapToken>
+                      <ShowMinimapToken>0</ShowMinimapToken>
+                    </ConditionObjectiveSignsAndFeedback>
+                  </Values>
+                </ObjectiveSignsAndFeedback>
+              </ConditionQuestObjective>
+              <ConditionQuestDivingBell>
+                <TreasureItem>112946</TreasureItem>
+                <SpawnedTreasureGround>112527</SpawnedTreasureGround>
+              </ConditionQuestDivingBell>
+              <SpawnArea>
+                <SpawnContext>Area</SpawnContext>
+                <SpawnAreaType>Water_01</SpawnAreaType>
+                <SpreadObjects>1</SpreadObjects>
+                <DistanceToContext>1</DistanceToContext>
+                <MinObjectDistance>5</MinObjectDistance>
+                <MaxObjectDistance>10</MaxObjectDistance>
+              </SpawnArea>
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectAnywhere</Template>
+                  <Values>
+                    <ConditionObjectAnywhere />
+                  </Values>
+                </ExecutionPlace>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+  </Properties>
+</Template>

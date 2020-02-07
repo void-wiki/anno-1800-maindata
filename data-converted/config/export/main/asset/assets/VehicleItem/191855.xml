@@ -1,0 +1,56 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191855</GUID>
+      <Name>Armstrong Gun</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_cannon_4.png</IconFilename>
+      <InfoDescription>19706</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Strongarm's Disappearing Gun</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26797</LineID>
+    </Text>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ExclusiveGroup>Canons</ExclusiveGroup>
+      <TradePrice>658000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>50</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19706</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <BaseDamageUpgrade>
+        <Value>35</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <AccuracyUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </AccuracyUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

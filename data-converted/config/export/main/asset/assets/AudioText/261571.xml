@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Have you heard? We're at war.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12305</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230439</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261571</GUID>
+      <Name>AT_MurmurMale1_War_Declared</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802586</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew is held responsible for the deserters' actions.&lt;/b&gt; Instead of probing around to get an idea of the runaways' reputation, your diplomat immediately asks about the thieves. The men are well-known in the worst way and the locals are shocked to hear your crew hosted them, regardless of the theft - the sailors are forced to leave when surrounded by stern-looking gunslingers. The track ends here. More than money, your sailors have lost morale.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21662</LineID>
+    </Text>
+  </Values>
+</Asset>

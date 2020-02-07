@@ -1,0 +1,35 @@
+<Template>
+  <Name>DestroyObjective</Name>
+  <Properties>
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12756</TextCombinedContextValue>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500335</Infolayer>
+            <MinimapToken>2001947</MinimapToken>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <ConditionQuestDestroy>
+      <MoveAngleMin_cqd>45</MoveAngleMin_cqd>
+      <MoveAngleMax_cqd>90</MoveAngleMax_cqd>
+      <ObjectsBehaviour>Patrol</ObjectsBehaviour>
+    </ConditionQuestDestroy>
+    <SpawnArea />
+    <ConditionPropsSessionSettings />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ExecutionPlace>
+      <ExecutionPlaceText>14033</ExecutionPlaceText>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

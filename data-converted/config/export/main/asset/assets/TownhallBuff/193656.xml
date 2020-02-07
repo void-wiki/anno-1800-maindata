@@ -1,0 +1,40 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193656</GUID>
+      <Name>marshes</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_lilies.png</IconFilename>
+      <InfoDescription>22333</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Marsh Garden</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33503</LineID>
+    </Text>
+    <BuildingUpgrade />
+    <Buff />
+    <PopulationUpgrade />
+    <ResidenceUpgrade>
+      <AdditionalHappiness>2</AdditionalHappiness>
+    </ResidenceUpgrade>
+    <IncidentInfectableUpgrade>
+      <IncidentIllnessIncreaseUpgrade>
+        <Value>-5</Value>
+      </IncidentIllnessIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <CultureUpgrade />
+  </Values>
+</Asset>

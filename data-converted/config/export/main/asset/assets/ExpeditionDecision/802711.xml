@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802711</GUID>
+      <Name>Bottles Found in the Sea 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802712</Option>
+        </Item>
+        <Item>
+          <Option>802713</Option>
+        </Item>
+        <Item>
+          <Option>802714</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Castaways request your help, but where could they be?&lt;/b&gt; Shark-baiting is a common distraction for your sailors. Their latest catch provided much more entertainment than expected: in its belly was a bottle and in the bottle were three sheets of paper, each a copy of the same message in different languages. Piecing together the documents to make up for their weathered content, the crew can make out a call for help and a latitude, but nothing more.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21693</LineID>
+    </Text>
+  </Values>
+</Asset>

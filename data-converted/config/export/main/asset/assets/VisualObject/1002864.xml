@@ -1,0 +1,23 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>1002864</GUID>
+      <Name>Meteor</Name>
+      <ID>Meteor</ID>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/shield_bubble/meteor.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

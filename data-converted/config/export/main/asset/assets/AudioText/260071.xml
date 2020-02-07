@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A sword hangs above us.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11626</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222695</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260071</GUID>
+      <Name>AT_captain_ContScreen_LowMorale3</Name>
+    </Standard>
+  </Values>
+</Asset>

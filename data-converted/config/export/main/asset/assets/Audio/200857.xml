@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200857</GUID>
+      <Name>wwe_sfx_bld_service_07_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>200858</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>892310552</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

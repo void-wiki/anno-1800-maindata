@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206394</GUID>
+      <Name>wwe_sfx_projectile_movement_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>12</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>15</MaxAttenuation>
+      <StopEvent>215877</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>215875</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2238230577</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

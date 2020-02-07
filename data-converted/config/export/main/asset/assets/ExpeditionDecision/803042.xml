@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803042</GUID>
+      <Name>Fortress Break 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803031</Option>
+        </Item>
+        <Item>
+          <Option>803032</Option>
+        </Item>
+        <Item>
+          <Option>803033</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Unfair imprisonment!&lt;/b&gt; While enjoying some well-deserved shore leave, a local militia seizes a dozen members of your expedition without explanation. They are taken to a fortress hollowed from the sandstone cliffs that dominate the harbour. The charges against your crew prove spurious to say the least, and when a hefty sum is demanded in exchange for their release, the militia's intentions become all too plain.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22093</LineID>
+    </Text>
+  </Values>
+</Asset>

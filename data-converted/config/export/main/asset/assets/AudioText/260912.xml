@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The ship it was their coffin, and their grave it was the sea</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11670</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229559</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260912</GUID>
+      <Name>AT_3rdParty03_PlayerSelectsNpcShip3</Name>
+    </Standard>
+  </Values>
+</Asset>

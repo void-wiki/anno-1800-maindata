@@ -1,0 +1,62 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117093</GUID>
+      <Name>Pool_LadyJane_IdleSelf</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>116489</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116491</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116472</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116473</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116476</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116477</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116478</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116479</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116480</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116481</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116482</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116483</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116486</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

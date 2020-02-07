@@ -1,0 +1,16 @@
+<Template>
+  <Name>VisualQuestObject</Name>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <QuestObject />
+    <FeedbackController />
+    <SoundEmitter />
+    <Walking />
+    <Infolayer />
+    <Text />
+  </Properties>
+</Template>

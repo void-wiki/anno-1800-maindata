@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You seem a loose cannon.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11563</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222731</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>259922</GUID>
+      <Name>AT_captain_NegFeedbackTo Player4</Name>
+    </Standard>
+  </Values>
+</Asset>

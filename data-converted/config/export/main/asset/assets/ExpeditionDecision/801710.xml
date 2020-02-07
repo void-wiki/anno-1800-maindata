@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801710</GUID>
+      <Name>The Chasing 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <InsertEvent>801714</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You are made to wait in line.&lt;/b&gt; Your diplomats may have done well to remember this local crest as one loyal to the crown, but you are not the only envoys present. Daiquiris, bananas and soft furnishings are small compensation for the time lost. Despite these formalities, the prefect transpires to be loyal. He intimates that Montoya is the only nearby place he has knowledge of, that the Pyrphorians have their claws into. You cross fingers, and head there.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21140</LineID>
+    </Text>
+  </Values>
+</Asset>

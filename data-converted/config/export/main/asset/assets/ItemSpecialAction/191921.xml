@@ -1,0 +1,58 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191921</GUID>
+      <Name>Heat Activated CTC Grenade</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_extinguisher_grenade_3.png</IconFilename>
+      <InfoDescription>19547</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>6000018</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <ItemAction>HEAL_INCIDENT</ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <ActionIncidentType>Fire</ActionIncidentType>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>7200000</ActionDuration>
+      <ActiveBuff>191930</ActiveBuff>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <Item>
+      <Allocation>GuildHouse</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>36400</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Heat Activated CTC Grenade</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26839</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>6</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19547</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

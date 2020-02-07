@@ -1,0 +1,15 @@
+<Asset>
+  <Template>AudioSpots</Template>
+  <Values>
+    <Standard>
+      <GUID>102895</GUID>
+      <Name>murmur_3rd_party_blake</Name>
+    </Standard>
+    <Mesh />
+    <SoundEmitter />
+    <Object />
+    <AmbientMoodProvider>
+      <Murmur>ThirdPartyBlake</Murmur>
+    </AmbientMoodProvider>
+  </Values>
+</Asset>

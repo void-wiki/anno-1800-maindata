@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802320</GUID>
+      <Name>Teeth of the Mountain</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Teeth of the Mountain</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20950</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>802321</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/temperate_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

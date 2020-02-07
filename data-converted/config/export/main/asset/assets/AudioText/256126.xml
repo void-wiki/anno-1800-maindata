@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You found one ship, but others are on the move.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12261</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230126</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256126</GUID>
+      <Name>AT_3rd_party_04_PlyrSelectsNpcShipAtWar1</Name>
+    </Standard>
+  </Values>
+</Asset>

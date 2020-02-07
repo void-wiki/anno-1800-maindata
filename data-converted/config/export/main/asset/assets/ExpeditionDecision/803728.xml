@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803728</GUID>
+      <Name>Atoll 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804081</Option>
+        </Item>
+        <Item>
+          <Option>803729</Option>
+        </Item>
+        <Item>
+          <Option>803731</Option>
+        </Item>
+        <Item>
+          <Option>803739</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your ship is pinned on the razor-sharp coral&lt;/b&gt; that fringes an underwater volcano. Since she has rolled on her side, freeing your ship will need surgical precision to prevent gallons of water flooding in. If you do not wish to &lt;b&gt;send a team of divers to cut the ship free,&lt;/b&gt; you may instead be able to &lt;b&gt;make or use something clever&lt;/b&gt; to break free. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33481</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21428</GUID>
+      <Name>TreatyReaction Make Peace Like - m</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Participants ParticipantName([NotificationContext Value(SpeakingParticipant) Int])] likes your peace with [Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29168</LineID>
+    </Text>
+  </Values>
+</Asset>

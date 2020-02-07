@@ -1,0 +1,41 @@
+<Template>
+  <Name>NotificationConfiguration</Name>
+  <Properties>
+    <Standard />
+    <NotificationConfiguration>
+      <NotificationTypeArray>
+        <Character>
+          <PostAudioTime>2000</PostAudioTime>
+          <Delay>1000</Delay>
+          <MinDisplayTime>5000</MinDisplayTime>
+          <AdditionalInteractionTime>30000</AdditionalInteractionTime>
+          <DisplayTimeout>5000</DisplayTimeout>
+        </Character>
+        <Main>
+          <Delay>1000</Delay>
+          <MinDisplayTime>5000</MinDisplayTime>
+          <AdditionalInteractionTime>30000</AdditionalInteractionTime>
+          <DisplayTimeout>60000</DisplayTimeout>
+        </Main>
+        <Side>
+          <Delay>1000</Delay>
+          <MinDisplayTime>5000</MinDisplayTime>
+          <AdditionalInteractionTime>30000</AdditionalInteractionTime>
+          <DisplayTimeout>30000</DisplayTimeout>
+        </Side>
+        <OnScreenText>
+          <Delay>1000</Delay>
+          <MinDisplayTime>5000</MinDisplayTime>
+          <AdditionalInteractionTime>30000</AdditionalInteractionTime>
+          <DisplayTimeout>30000</DisplayTimeout>
+        </OnScreenText>
+        <Campaign>
+          <Delay>1000</Delay>
+          <MinDisplayTime>5000</MinDisplayTime>
+          <AdditionalInteractionTime>30000</AdditionalInteractionTime>
+          <DisplayTimeout>30000</DisplayTimeout>
+        </Campaign>
+      </NotificationTypeArray>
+    </NotificationConfiguration>
+  </Properties>
+</Template>

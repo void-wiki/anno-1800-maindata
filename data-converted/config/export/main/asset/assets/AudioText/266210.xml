@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There was a chance while yer father still lived, no use dragging it out now he's gone…</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17611</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233081</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266210</GUID>
+      <Name>CC01_ExcavationAndDemolitionExpert_01</Name>
+    </Standard>
+  </Values>
+</Asset>

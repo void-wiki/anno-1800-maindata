@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mr Malching sent me a forward proposal. I myself then forwarded it to the fireplace.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11737</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229633</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260839</GUID>
+      <Name>AT_ai01_IdleMessageGossip_Malching</Name>
+    </Standard>
+  </Values>
+</Asset>

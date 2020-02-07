@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A dentist has to use his drill.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30508</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204283</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109863</GUID>
+      <Name>AT_ai10_NpcDeclaresWarOnPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

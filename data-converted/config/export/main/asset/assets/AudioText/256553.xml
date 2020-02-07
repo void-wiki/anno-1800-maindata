@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your crime is decadence.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8618</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221077</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256553</GUID>
+      <Name>AT_ai04_CivLevelPlayerHigherThanNPC1</Name>
+    </Standard>
+  </Values>
+</Asset>

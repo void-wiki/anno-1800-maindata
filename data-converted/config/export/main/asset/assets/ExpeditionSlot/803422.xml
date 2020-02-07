@@ -1,0 +1,20 @@
+<Asset>
+  <Template>ExpeditionSlot</Template>
+  <Values>
+    <ExpeditionSlot>
+      <SlotRegion>Arctic</SlotRegion>
+      <SpecialExpeditionsSlot>
+        <Item>
+          <Expedition>804040</Expedition>
+        </Item>
+        <Item>
+          <Expedition>804041</Expedition>
+        </Item>
+      </SpecialExpeditionsSlot>
+    </ExpeditionSlot>
+    <Standard>
+      <GUID>803422</GUID>
+      <Name>Polar Unlock</Name>
+    </Standard>
+  </Values>
+</Asset>

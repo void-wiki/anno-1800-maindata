@@ -1,0 +1,37 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142638</GUID>
+      <Name>SA Uniformed</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/icon_hunter_rare.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142631</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142632</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142633</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142634</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142635</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142636</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142637</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Listen;Greet;Talk;Protest;Cheer;MobJoining;DangerAvoiding;DummyTalk;DummyTrade;DummyVanish;DummyLayDown;DummyFish;DummyPray;DummyCelebrate;DummyReact;DummySit</AllowedReactions>
+      <ClassFlags>InhabitsTier1Building;InhabitsTier2Building;InhabitsTier3Building;InhabitsTier4Building;InhabitsTier5Building;JoinsNightCrowd</ClassFlags>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

@@ -1,0 +1,22 @@
+<Template>
+  <Name>ShipSpecialist</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>Ship</Allocation>
+      <ItemType>Specialist</ItemType>
+      <Flotsam>100554</Flotsam>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade />
+    <ExpeditionAttribute />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <TradeShipUpgrade />
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Properties>
+</Template>

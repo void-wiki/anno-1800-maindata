@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We pirates may not rule the waves, but we make them bloody choppy.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11672</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229560</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260913</GUID>
+      <Name>AT_3rdParty03_PlayerSelectsNpcShip4</Name>
+    </Standard>
+  </Values>
+</Asset>

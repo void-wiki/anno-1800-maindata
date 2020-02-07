@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>116753</GUID>
+      <Name>Incident_EndArcticFire</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>116755</IconAsset>
+            <FilterType>Incidents</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>116759</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationGroup>IncidentFire</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265180</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

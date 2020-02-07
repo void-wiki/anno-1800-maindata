@@ -1,0 +1,18 @@
+<Asset>
+  <Template>PositionMarker</Template>
+  <Values>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Standard>
+      <GUID>116771</GUID>
+      <Name>IntoTheUnknown_SnowDunes_PositionMarker</Name>
+    </Standard>
+    <Object>
+      <Type>GameObject</Type>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <PositionMarker />
+    <Text />
+  </Values>
+</Asset>

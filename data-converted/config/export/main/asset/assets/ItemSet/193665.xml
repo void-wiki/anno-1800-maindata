@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>193665</GUID>
+      <Name>andes</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_frailejones.png</IconFilename>
+      <InfoDescription>22340</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <RegionSetBuff>
+        <Moderate>
+          <SetBuff>193767</SetBuff>
+        </Moderate>
+        <Colony01>
+          <SetBuff>193664</SetBuff>
+        </Colony01>
+      </RegionSetBuff>
+      <BuffScope>Area</BuffScope>
+      <DLCMoodImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_card_botanica.png</DLCMoodImage>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>ANDEAN</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33521</LineID>
+    </Text>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

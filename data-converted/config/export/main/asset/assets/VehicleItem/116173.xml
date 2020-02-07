@@ -1,0 +1,76 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>116173</GUID>
+      <Name>Kink Spring Powered Motor</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_fjordbuster.png</IconFilename>
+      <InfoDescription>116205</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fjordbuster Mk. VI Propulsion Array</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35976</LineID>
+    </Text>
+    <Item>
+      <Allocation>AirShip</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>178600</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+      <IgnoreWeightFactorUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IgnoreWeightFactorUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>116205</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>115980</Product>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Product>1010219</Product>
+          <Amount>15</Amount>
+        </Item>
+        <Item>
+          <Product>1010255</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010200</Product>
+          <Amount>10</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

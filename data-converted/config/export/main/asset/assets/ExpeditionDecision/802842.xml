@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802842</GUID>
+      <Name>Taken In Broken Out 1.2.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802832</Option>
+        </Item>
+        <Item>
+          <Option>802833</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A failed attempt.&lt;/b&gt; The sailors lack the habits required to load the canons under the cover of the night. Misguided movements and poor knowledge of the armament makes the canons overflow with powder. When they are fired, the weapons explode and take their gunner with them, offering a loud indication of the escapees' position. The crew is seized and sent back to their cell. At dawn, the judges sentence half the crew to a month of forced labour.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22038</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12757</GUID>
+      <Name>EscortContext_Combined</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Escort to [AssetData([Conditions QuestCondition EscortTarget]) Text]: &lt;br/&gt;[Conditions QuestCondition CurrentSurvivors]/[Conditions QuestCondition Survivors] [Conditions QuestCondition Context]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11674</LineID>
+    </Text>
+  </Values>
+</Asset>

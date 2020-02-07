@@ -1,0 +1,40 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>212</GUID>
+      <Name>advisor_01 (Hannah Goode Black Dress)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_12.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hannah Goode</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23558</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/campaign_portrait_12.png</ProfilePicture>
+      <Portrait>102480</Portrait>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>4087</InfoCornerDescription>
+      <ParticipantID>Advisor_01_Hannah_BlackDress</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestStarterObject>101237</QuestStarterObject>
+      <DefaultColor>Color4</DefaultColor>
+      <CreateModeMeta>AutoCreate_OnlyCampaign</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Advisor_01_Hannah_BlackDress</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>139</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

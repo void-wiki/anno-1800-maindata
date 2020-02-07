@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Careful you don't end up on my island.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10055</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222877</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>259773</GUID>
+      <Name>AT_3rd_party_07_Negative Feedback to Player2</Name>
+    </Standard>
+  </Values>
+</Asset>

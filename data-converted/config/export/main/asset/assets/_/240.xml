@@ -1,0 +1,53 @@
+<Asset>
+  <BaseAssetGUID>45</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>240</GUID>
+      <Name>Third_party_02b (Archibald Blake - Attacks Pirate)</Name>
+      <ID />
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <Profile>
+      <ParticipantID>Third_party_02b_Blake_AttacksPirate</ParticipantID>
+      <IsChildProfile>1</IsChildProfile>
+      <IsChildOf>Third_party_02_Blake</IsChildOf>
+      <CreateIfParentIsCreated>1</CreateIfParentIsCreated>
+    </Profile>
+    <Diplomacy>
+      <InitialRelation>
+        <Exceptions>
+          <Item>
+            <Participant>Third_party_03_Pirate_Harlow</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+        </Exceptions>
+      </InitialRelation>
+      <IsDiscoveredOnStart>1</IsDiscoveredOnStart>
+    </Diplomacy>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <FlagshipReplacementOffered>
+          <Reactions />
+        </FlagshipReplacementOffered>
+      </MessageTriggers>
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Third_party_02b_Blake_AttacksPirate</DefaultParticipant>
+    </Object>
+    <Trader>
+      <ProvidesShipReplacements>None</ProvidesShipReplacements>
+    </Trader>
+    <ThirdParty />
+    <ParticipantMessageObject>
+      <ParticipantMessages>0</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

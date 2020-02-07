@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Is that your diagnosis doctor? Are you going to give me my medicine now?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3318</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211123</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252137</GUID>
+      <Name>AT_ai08_PlyrFailsToInsultNpc3</Name>
+    </Standard>
+  </Values>
+</Asset>

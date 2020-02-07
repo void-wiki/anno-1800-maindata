@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192766</GUID>
+      <Name>Specialists - Ship Architecture - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190766</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191450</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192449</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

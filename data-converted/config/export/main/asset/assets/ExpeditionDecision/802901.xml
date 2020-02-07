@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802901</GUID>
+      <Name>The Frozen Chasm 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802902</Option>
+        </Item>
+        <Item>
+          <Option>802903</Option>
+        </Item>
+        <Item>
+          <Option>802904</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crevasse swallowed your sailors.&lt;/b&gt; Attempting the crossing of the mountain pass was a risk, and your crew now pays the price for their desire to test the odds. The rocky path turned to frozen snow, then to the still body of a glacier, its ominous presence plaguing the air with the smell of winter. Night swelled faster than anticipated and it didn't take long for the less cautious explorers to discover the frailty of ice mantles.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22104</LineID>
+    </Text>
+  </Values>
+</Asset>

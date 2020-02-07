@@ -1,0 +1,74 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151762</GUID>
+      <Name>CQ420_FirstWave_IsabelDialog_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionObjHPCheck</Template>
+        <Values>
+          <Condition />
+          <ConditionObjHPCheck>
+            <HPTargetGUID>101978</HPTargetGUID>
+            <HPTargetOwner>Campaign_character_02_pyrophorian_red</HPTargetOwner>
+            <HPPercentage>0.99</HPPercentage>
+            <HPComparison>LessThan</HPComparison>
+          </ConditionObjHPCheck>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>29</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>16106</NotificationText>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267755</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>75</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>16376</NotificationText>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>259890</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

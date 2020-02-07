@@ -1,0 +1,63 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>112649</GUID>
+      <Name>Intermediate Arctic 2.1</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>112643</Context>
+            <CounterAmount>100</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>112687</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112684</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112678</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112724</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>116285</Asset>
+                  </Item>
+                </UnlockAssets>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>112719</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>116034</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>117267</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

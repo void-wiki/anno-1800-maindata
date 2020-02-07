@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait />
+    <Standard>
+      <GUID>101138</GUID>
+      <Name>campaign_character_01_demolition_expert</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_01.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/campaign_portrait_01/campaign_portrait_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+    </Locked>
+  </Values>
+</Asset>

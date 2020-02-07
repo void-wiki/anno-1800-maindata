@@ -1,0 +1,17 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>500433</GUID>
+      <Name>Sailing Ships</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_routemap_ship.png</IconFilename>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>Yellow</Color>
+      <Tooltip>2736</Tooltip>
+      <Filter>Ships</Filter>
+      <UsePlayerColor>1</UsePlayerColor>
+      <Outline>data/ui/2kimages/main/icons/icon_routemap_ship_outline.png</Outline>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

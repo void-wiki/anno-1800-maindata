@@ -1,0 +1,37 @@
+<Template>
+  <Name>Collectable</Name>
+  <Properties>
+    <Collectable>
+      <DragDistanceFromCollector>3</DragDistanceFromCollector>
+      <DragDistanceFromCollectable>2</DragDistanceFromCollectable>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnWater</MeshPlacement>
+    </Mesh>
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Standard />
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Walking>
+      <CargoThreshold>0</CargoThreshold>
+    </Walking>
+    <Text />
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter />
+    <QuestObject />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <ItemContainer>
+      <UnlimitedSlotCount>1</UnlimitedSlotCount>
+      <SlotCount>1</SlotCount>
+      <UnlimitedStack>1</UnlimitedStack>
+      <CanStoreProducts>1</CanStoreProducts>
+    </ItemContainer>
+    <Lifetime />
+  </Properties>
+</Template>

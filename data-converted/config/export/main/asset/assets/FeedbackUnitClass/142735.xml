@@ -1,0 +1,17 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142735</GUID>
+      <Name>Nightwatch</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142717</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Greet;DangerAvoiding</AllowedReactions>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

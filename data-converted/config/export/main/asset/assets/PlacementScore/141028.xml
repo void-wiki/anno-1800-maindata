@@ -1,0 +1,44 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>141028</GUID>
+      <Name>HarborOfficeScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingHarborConnected</Template>
+            <Values>
+              <RatingHarborConnected />
+            </Values>
+          </Rating>
+          <RelativeWeight>0</RelativeWeight>
+          <DiscardThresholdScore>0.5</DiscardThresholdScore>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingHarborOffice</Template>
+            <Values>
+              <RatingHarborOffice />
+            </Values>
+          </Rating>
+          <RelativeWeight>0.5</RelativeWeight>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingSubRect</Template>
+            <Values>
+              <RatingSubRect>
+                <SubRect>This</SubRect>
+                <PlacementScore>141025</PlacementScore>
+              </RatingSubRect>
+            </Values>
+          </Rating>
+          <RelativeWeight>0.5</RelativeWeight>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

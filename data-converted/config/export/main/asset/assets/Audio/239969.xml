@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239969</GUID>
+      <Name>wwe_voc_mur_museum_lowAttractiveness</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2133</DurationMinimum>
+          <DurationMaximum>21032</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1827</DurationMinimum>
+          <DurationMaximum>20251</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2225</DurationMinimum>
+          <DurationMaximum>20482</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1895</DurationMinimum>
+          <DurationMaximum>20462</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2715347258</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

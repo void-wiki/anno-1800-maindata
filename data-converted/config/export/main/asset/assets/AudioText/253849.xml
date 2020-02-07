@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Please, light our way!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4190</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>214226</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253849</GUID>
+      <Name>AT_captain_GenericEventCallToAction2</Name>
+    </Standard>
+  </Values>
+</Asset>

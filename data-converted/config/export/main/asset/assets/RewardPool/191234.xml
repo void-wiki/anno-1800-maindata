@@ -1,0 +1,42 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191234</GUID>
+      <Name>Colony Fertilities</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190931</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190934</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190937</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190940</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190943</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190946</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190949</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191897</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191900</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

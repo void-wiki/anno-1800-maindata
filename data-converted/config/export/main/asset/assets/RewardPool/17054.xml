@@ -1,0 +1,35 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>17054</GUID>
+      <Name>AllMediumProductsPool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>17033</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>17034</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>17032</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>17049</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

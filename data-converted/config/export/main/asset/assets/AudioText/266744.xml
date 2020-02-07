@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We are very sorry to hear your situation, still I must insist our father's...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17132</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233483</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>9</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266744</GUID>
+      <Name>AT_Advisor01_movie05_03</Name>
+    </Standard>
+  </Values>
+</Asset>

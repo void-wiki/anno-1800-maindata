@@ -1,0 +1,53 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117201</GUID>
+      <Name>Pool_Technician_LowProductivity</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>115762</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115763</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115766</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115767</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115768</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115774</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115775</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115776</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115777</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115778</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

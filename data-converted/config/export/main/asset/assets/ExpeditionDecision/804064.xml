@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804064</GUID>
+      <Name>Narrow channels 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804065</Option>
+        </Item>
+        <Item>
+          <Option>804066</Option>
+        </Item>
+        <Item>
+          <Option>804071</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>With the magnetic pole being so close, the navigation instruments are not reliable anymore. The captain can only rely on his sense of orientation to pick the channels which should lead to the open sea. Unfortunately the one he picked just hugs high instable glacier with no open sea in sight. Suddenly rumble, at starboard the glacier just under which the crew is about the pass by starts to collapse.&lt;/br&gt;&lt;/br&gt;Crew action cause the glacier?</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

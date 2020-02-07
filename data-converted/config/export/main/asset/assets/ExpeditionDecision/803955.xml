@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803955</GUID>
+      <Name>Trading Post 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803956</Option>
+        </Item>
+        <Item>
+          <Option>803957</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_tradingpost.png</Sketch>
+        <SketchPosX>1689</SketchPosX>
+        <SketchPosY>724</SketchPosY>
+        <SketchSizeX>228</SketchSizeX>
+        <SketchSizeY>222</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Something to go on at least.&lt;/b&gt; Whoever the fur traders were they left in a rush. Papers and maps are strewn about, some trodden and sodden into mush, a precious few dry and intact. Dockets are found relating to consignments received from a nearby Inuit settlement named Ivujivik, which happens also to be marked on a fragment of map. "The Inuit are sure to have noticed anyone passing through," says the Captain, "we should visit them."</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35237</LineID>
+    </Text>
+  </Values>
+</Asset>

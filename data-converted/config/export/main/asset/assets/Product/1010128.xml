@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010128</GUID>
+      <Name>moderate workforce 5</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resource_industrialists.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Investor Workforce</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5324</LineID>
+    </Text>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <Product>
+      <StorageLevel>Area</StorageLevel>
+      <DeltaOnly>1</DeltaOnly>
+      <IsWorkforce>1</IsWorkforce>
+    </Product>
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

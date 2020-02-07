@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We are wronged, all of us. The Empire shall feel the wrath of scimitar, spear and cutlass!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12213</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229567</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261003</GUID>
+      <Name>AT_3rd_party_03_IdleMessageSelf3</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It's a cairn o'rocks stacked by human hand! We have stumbled upon Sir John Faithful's last encampment!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13281</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229751</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264584</GUID>
+      <Name>AT_captain_OnlineEvent_Success1</Name>
+    </Standard>
+  </Values>
+</Asset>

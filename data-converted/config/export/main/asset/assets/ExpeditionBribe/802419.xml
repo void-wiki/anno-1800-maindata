@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>802419</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.2.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>They watch as your embarassed crew empty their pockets</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29591</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>17140</TraderName>
+      <FollowupSuccessOption>802420</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802421</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>5000</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

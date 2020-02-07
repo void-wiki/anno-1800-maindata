@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801602</GUID>
+      <Name>Sunken Depths 1.2.1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Lady Luck does not smile for the faithless.&lt;/b&gt; As the bell descends into the dark, so does the pressure rise and press against the makeshift protection. The sailors pull the signal rope in a panic, but despite their fervent prayers, they are not pulled up in time. All that the crew manages to retrieve from the sea are the broken bell and its broken contents.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16128</LineID>
+    </Text>
+  </Values>
+</Asset>

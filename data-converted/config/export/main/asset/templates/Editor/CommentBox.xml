@@ -1,0 +1,19 @@
+<Template>
+  <Name>CommentBox</Name>
+  <Properties>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Standard />
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/commentbox.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <CommentBox />
+  </Properties>
+</Template>

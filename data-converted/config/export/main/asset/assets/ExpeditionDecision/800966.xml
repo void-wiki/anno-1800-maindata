@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800966</GUID>
+      <Name>The Icy Blizzard 1.3.3.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;All are saved, at a cost.&lt;/b&gt; Putting the ropes together is quite a task with frozen fingers. That the party are able to cling to the rope as they descend is a small miracle. Nevertheless, frostbite will do lasting damage to their digits.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16070</LineID>
+    </Text>
+  </Values>
+</Asset>

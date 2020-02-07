@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>13071</GUID>
+      <Name>NPC Reputation Autocorrect Increase Jorgensen</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your relationship with [AssetData([NotificationContext CharacterGUID]) Text] has improved over time.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>24445</LineID>
+    </Text>
+  </Values>
+</Asset>

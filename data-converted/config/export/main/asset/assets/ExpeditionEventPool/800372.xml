@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionEventPool</Template>
+  <Values>
+    <Standard>
+      <GUID>800372</GUID>
+      <Name>Hunting Events</Name>
+    </Standard>
+    <ExpeditionEventPool>
+      <EventPool>
+        <Item>
+          <EventOrEventPool>800279</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>800605</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802299</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802320</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802351</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802567</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>803681</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>803725</EventOrEventPool>
+        </Item>
+      </EventPool>
+    </ExpeditionEventPool>
+  </Values>
+</Asset>

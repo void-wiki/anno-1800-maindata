@@ -1,0 +1,34 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>804094</GUID>
+      <Name>Map Event A 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>go north</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>804096</Decision>
+        </Item>
+        <Item>
+          <Decision>804100</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>750</OptionPosX>
+      <OptionPosY>200</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path01.png</PathSegment>
+      <PathPosX>750</PathPosX>
+      <PathPosY>200</PathPosY>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

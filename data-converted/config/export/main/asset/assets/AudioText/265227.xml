@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A competitor's island withstood an attack.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15801</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233904</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265227</GUID>
+      <Name>AT_Narrator_Military_Information_IslandWarEndedDefensWonOtherParticipants</Name>
+    </Standard>
+  </Values>
+</Asset>

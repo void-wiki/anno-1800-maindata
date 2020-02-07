@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803081</GUID>
+      <Name>Ghosts in the Ice 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The unknown illness might attack your crew.&lt;/b&gt; Your doctor cannot pierce the mystery of the strangers' ailment: their ghost-like bodies fascinate as much as they terrify. Too scared to properly inspect their cadaverous skin, he hurriedly affirms that any sort of prolonged contact with them would put your own sailors in danger. Your ship whisks your crew away from the imaginary threat, leaving the strangers to die.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23451</LineID>
+    </Text>
+  </Values>
+</Asset>

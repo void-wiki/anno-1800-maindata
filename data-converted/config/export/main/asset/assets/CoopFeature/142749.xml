@@ -1,0 +1,20 @@
+<Asset>
+  <Template>CoopFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>142749</GUID>
+      <Name>CoopFeature</Name>
+      <ID>CoopFeature</ID>
+    </Standard>
+    <CoopFeature>
+      <MinimapPingDuration>3000</MinimapPingDuration>
+      <LocalPingMarkerAsset>116012</LocalPingMarkerAsset>
+      <PingMarkerAsset>115994</PingMarkerAsset>
+      <PingMarkerLifetime>15000</PingMarkerLifetime>
+      <PingMarkerInfolayerOffset>2.5</PingMarkerInfolayerOffset>
+      <PingMarkerGroundOffset>2.5</PingMarkerGroundOffset>
+      <CoopMarker2DSound>233840</CoopMarker2DSound>
+      <LocalCoopMarker3DSound>233841</LocalCoopMarker3DSound>
+    </CoopFeature>
+  </Values>
+</Asset>

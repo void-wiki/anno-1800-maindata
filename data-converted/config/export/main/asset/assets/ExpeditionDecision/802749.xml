@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802749</GUID>
+      <Name>Jolly Roger 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802751</Option>
+        </Item>
+        <Item>
+          <Option>802752</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You swivel on a sixpence, ready to blow them away!&lt;/b&gt; Quickly setting sails to curb momentum your ship turns in the shallowest possible arc for a vessel this size, a manoeuvre only a tactician well-accustomed to risk would attempt. Meanwhile, some of the crew have improvised grenades should you want to use them...</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21504</LineID>
+    </Text>
+  </Values>
+</Asset>

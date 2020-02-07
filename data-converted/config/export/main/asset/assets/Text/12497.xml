@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12497</GUID>
+      <Name>NPC Needs Help in Alliance - m</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>As an ally of [AssetData([NotificationContext CharacterGUID]) Text], you are now at war with his enemy [Participants ParticipantName([NotificationContext Value(WarParty) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10838</LineID>
+    </Text>
+  </Values>
+</Asset>

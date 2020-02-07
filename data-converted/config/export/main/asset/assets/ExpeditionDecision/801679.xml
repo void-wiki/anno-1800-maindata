@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801679</GUID>
+      <Name>The Chasing 1.1.1.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <InsertEvent>801714</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The Pyrphorian ship is agile.&lt;/b&gt; "Never seen an enemy move like that," explains one of your cannoneers, as if to avoid some weeping confession of his inexperience. Sensing they may be a match after all, the Pyrphorians use what firepower they have, giving your ship a fair lick of flame. The ensuing panic gives them time to slip away. You will no doubt pick up their trail again in the port of Montoya, but the fire has caused damage that must be repaired first.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21109</LineID>
+    </Text>
+  </Values>
+</Asset>

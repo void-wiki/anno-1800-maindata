@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If I can't spin this, nobody can.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4016</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236198</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253627</GUID>
+      <Name>AT_Reporter_GenericNegativeFeedback1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100831</GUID>
+      <Name>cloth_bundle</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/cloth_bundle_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/cloth_bundle_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/storage/cloth_bundle_03.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

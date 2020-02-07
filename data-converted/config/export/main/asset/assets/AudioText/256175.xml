@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>That's it, I know when I'm being made a fool of!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7468</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217986</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256175</GUID>
+      <Name>AT_ai03_NpcDeclinesPlayerProposalTooOften2</Name>
+    </Standard>
+  </Values>
+</Asset>

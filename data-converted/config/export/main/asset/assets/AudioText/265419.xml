@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A fertility is no longer available on one of your islands.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16005</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234113</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265419</GUID>
+      <Name>AT_Narrator_Items_Information_ItemFertiltyEnded</Name>
+    </Standard>
+  </Values>
+</Asset>

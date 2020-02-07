@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It can only increase readership!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4009</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236228</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253606</GUID>
+      <Name>AT_Reporter_GenericPositiveFeedback2</Name>
+    </Standard>
+  </Values>
+</Asset>

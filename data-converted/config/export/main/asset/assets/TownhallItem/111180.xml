@@ -1,0 +1,130 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>111180</GUID>
+      <Name>Pierre-Joseph Proudhon - The Anarchy Theorician</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_proud.png</IconFilename>
+      <ID>ITEM_DM_7</ID>
+      <InfoDescription>111186</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pietro Jonah Proud, The Philosopher of the Public Good</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31339</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>865240</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190041</GUID>
+        </Item>
+      </EffectTargets>
+      <BuildingDecoration>142628</BuildingDecoration>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <ResidentsUpgrade>
+        <Value>10</Value>
+        <Percental>1</Percental>
+      </ResidentsUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>120020</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010213</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010206</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010353</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>120030</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010208</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>120016</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010225</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010258</Product>
+          <AdditionalSupply>1</AdditionalSupply>
+          <AdditionalMoney>1</AdditionalMoney>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>60</Amount>
+        </Item>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <NeedProvideNeedUpgrade>
+        <Item>
+          <ProvidedNeed>1010356</ProvidedNeed>
+          <SubstituteNeed>1010354</SubstituteNeed>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010355</ProvidedNeed>
+          <SubstituteNeed>1010354</SubstituteNeed>
+        </Item>
+      </NeedProvideNeedUpgrade>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

@@ -1,0 +1,47 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700017</GUID>
+      <Name>AP - TuQ Pop LVL3 Goods</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010213</Asset>
+        </Item>
+        <Item>
+          <Asset>1010206</Asset>
+        </Item>
+        <Item>
+          <Asset>1010214</Asset>
+        </Item>
+        <Item>
+          <Asset>1010215</Asset>
+        </Item>
+        <Item>
+          <Asset>1010217</Asset>
+        </Item>
+        <Item>
+          <Asset>1010246</Asset>
+        </Item>
+        <Item>
+          <Asset>1010257</Asset>
+        </Item>
+        <Item>
+          <Asset>1010258</Asset>
+        </Item>
+        <Item>
+          <Asset>1010245</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pop LVL3 Consumable Goods</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

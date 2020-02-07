@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>So with a heavy heart, I have ordered the Arctic council fleet to return southwards to our winter haven. But do not lose hope! We will gather ourselves and return next year.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17662</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234210</AudioAsset>
+      <Mood>Negative</Mood>
+      <DialogSequence>2</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267222</GUID>
+      <Name>AT_ArticCouncilman_EventMovie02_02</Name>
+    </Standard>
+  </Values>
+</Asset>

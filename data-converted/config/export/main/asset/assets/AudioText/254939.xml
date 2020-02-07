@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are a stone, in the rough.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6282</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216390</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254939</GUID>
+      <Name>AT_ai06_NPCReputationAutocorrectIncrease1</Name>
+    </Standard>
+  </Values>
+</Asset>

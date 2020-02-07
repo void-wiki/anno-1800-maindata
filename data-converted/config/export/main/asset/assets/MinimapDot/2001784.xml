@@ -1,0 +1,16 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>2001784</GUID>
+      <Name>PlayerFlagship</Name>
+      <IconFilename>data/ui/2kimages/main/assets/icon_minimap_ships.png</IconFilename>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>Yellow</Color>
+      <Tooltip>2736</Tooltip>
+      <Filter>Ships</Filter>
+      <UsePlayerColor>1</UsePlayerColor>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

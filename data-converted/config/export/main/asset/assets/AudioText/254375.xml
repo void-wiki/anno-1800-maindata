@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Boots too big for you?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4716</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215558</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254375</GUID>
+      <Name>AT_res_tier05_NegFeedbackToPlyr5</Name>
+    </Standard>
+  </Values>
+</Asset>

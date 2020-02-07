@@ -1,0 +1,36 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140696</GUID>
+      <Name>PubSupplyVeryBad</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14942</Headline>
+      <Subline>14943</Subline>
+      <Image>142059</Image>
+      <Category>Satisfaction</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <RecoveryByInterval>50</RecoveryByInterval>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <ArticleEffect>NeedConsumption</ArticleEffect>
+      <EffectValue>10</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

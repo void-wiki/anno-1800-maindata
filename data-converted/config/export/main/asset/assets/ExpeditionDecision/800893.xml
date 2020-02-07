@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800893</GUID>
+      <Name>Parasitic Infestation 1.2.2.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800898</Option>
+        </Item>
+        <Item>
+          <Option>800900</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <Conclusion>800893</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Perfect preparation for amputation!&lt;/b&gt; At least that's what your crazed doctor would have you believe. Once her macabre experiment is concluded there is surely only one course of action for the afflicted...the crew are aghast.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13208</LineID>
+    </Text>
+  </Values>
+</Asset>

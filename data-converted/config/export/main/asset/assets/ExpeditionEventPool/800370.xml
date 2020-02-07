@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionEventPool</Template>
+  <Values>
+    <Standard>
+      <GUID>800370</GUID>
+      <Name>Faith Events</Name>
+    </Standard>
+    <ExpeditionEventPool>
+      <EventPool>
+        <Item>
+          <EventOrEventPool>800277</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>800537</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>800972</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802269</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802381</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802397</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802426</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802546</EventOrEventPool>
+        </Item>
+      </EventPool>
+    </ExpeditionEventPool>
+  </Values>
+</Asset>

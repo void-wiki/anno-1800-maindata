@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>ITEM</ActionID>
+      <PositionCheck>Water</PositionCheck>
+      <Matches>
+        <TargetMatch1>
+          <Flags>OrNextMatch;IsCoastalBuilding</Flags>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Never</Flags>
+        </DisableMatch1>
+        <TargetMatch2>
+          <Flags>OwnedByPirate</Flags>
+        </TargetMatch2>
+      </Matches>
+      <MouseCursorTarget>2001297</MouseCursorTarget>
+      <MouseCursorMode>2001299</MouseCursorMode>
+      <MouseCursorPosition>2001297</MouseCursorPosition>
+    </Target>
+    <Standard>
+      <GUID>2001747</GUID>
+      <Name>Military Items Water</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

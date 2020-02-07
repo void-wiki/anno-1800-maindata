@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802770</GUID>
+      <Name>Jolly Roger 1.1.2.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192079</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew go beserk for the fight.&lt;/b&gt; Most of the ramshackle pirate crew fall in the first bloodthirsty charge, while your raiders suffer only one or two casualties. While the pirates bleed out, your men deprive them of any ill-gotten plunder they have. Then you scupper the barque, and watch as it disappears, black flags and all, to meet Davy Jones.</Text>
+          <Status>Exported</Status>
+          <ExportCount>8</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21523</LineID>
+    </Text>
+  </Values>
+</Asset>

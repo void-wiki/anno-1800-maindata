@@ -1,0 +1,28 @@
+<Template>
+  <Name>Profile_3rdParty_NoTrader_NoInteraction</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Profile>
+      <HostileTakeoverEnabled>0</HostileTakeoverEnabled>
+      <AttackableThroughPirateFlagItem>0</AttackableThroughPirateFlagItem>
+    </Profile>
+    <Object>
+      <AddToObjectGroups>0</AddToObjectGroups>
+      <AddToEditorObjectGrid>0</AddToEditorObjectGrid>
+      <PlacableInEditor>0</PlacableInEditor>
+      <SelectableInEditor>0</SelectableInEditor>
+    </Object>
+    <Diplomacy>
+      <InitialRelation>
+        <DefaultTreatiesUndiscovered>Peace</DefaultTreatiesUndiscovered>
+      </InitialRelation>
+    </Diplomacy>
+    <ParticipantMessages />
+    <ParticipantMessageObject />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <Scope>Account</Scope>
+    </Locked>
+  </Properties>
+</Template>

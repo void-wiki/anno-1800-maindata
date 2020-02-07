@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802723</GUID>
+      <Name>Bottles Found in the Sea 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The look-out draws a blank.&lt;/b&gt; Scanning the islands from afar is a difficult exercise, made even harder by the lack of experience. The crew soon realizes that it will never find anyone from such a distance. Reluctant to risk the ship's integrity over the mere possibility of the castaways' existence, your sailors choose to leave and forget.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21701</LineID>
+    </Text>
+  </Values>
+</Asset>

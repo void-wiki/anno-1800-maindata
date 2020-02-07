@@ -1,0 +1,108 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>111169</GUID>
+      <Name>Edward Bernays - Father of Consumerism Propaganda </Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_111.png</IconFilename>
+      <ID>ITEM_DM_8</ID>
+      <InfoDescription>111174</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Eduardo Bernal, the Father of Public Relations</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31333</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>844600</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190041</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010216</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>3</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010214</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>3</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010257</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>3</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010245</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>3</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010246</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>3</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010250</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>3</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010248</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>3</AdditionalMoney>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentRiotIncreaseUpgrade>
+        <Value>-10</Value>
+      </IncidentRiotIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

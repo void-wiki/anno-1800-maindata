@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800621</GUID>
+      <Name>A Grizzly Encounter 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800623</Option>
+        </Item>
+        <Item>
+          <Option>800624</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Stupidly the crew decide to run, and reach a dead-end.&lt;/b&gt; The bear pursues at a leisurely speed, yet with no less menace, and the crew are forced to seek refuge in a cave, or else try climbing the trees.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5705</LineID>
+    </Text>
+  </Values>
+</Asset>

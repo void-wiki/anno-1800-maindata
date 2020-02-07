@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800954</GUID>
+      <Name>The Icy Blizzard 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You knew deep down not all would make it.&lt;/b&gt; "They're all returned but the injured fellow," comes the news. "There was no saving him, the way he was. Ice stripped the meat from his bones like a chef's mandorre."</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16056</LineID>
+    </Text>
+  </Values>
+</Asset>

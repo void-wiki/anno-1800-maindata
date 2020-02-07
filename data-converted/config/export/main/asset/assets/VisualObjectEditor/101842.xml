@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>101842</GUID>
+      <Name>Explosion Crater</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/decals/damage_decals/crater_01_terrain.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/effects/decals/damage_decals/crater_02_terrain.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

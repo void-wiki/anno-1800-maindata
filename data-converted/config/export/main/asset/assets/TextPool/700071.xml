@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700071</GUID>
+      <Name>Gunboat_MovePool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268226</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268227</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268228</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268229</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268230</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

@@ -1,0 +1,45 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193355</GUID>
+      <Name>Second_ai_11 (Hugo Mercier) Common Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_1.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193266</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193271</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193261</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193311</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193316</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193276</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193281</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193286</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193291</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193296</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

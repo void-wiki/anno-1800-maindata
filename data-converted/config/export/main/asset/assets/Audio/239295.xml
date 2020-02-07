@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239295</GUID>
+      <Name>wwe_sfx_veh_monitor_ship_lp_play_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>70</MaxAttenuation>
+      <StopEvent>239296</StopEvent>
+      <SoundEventType>LargeFeedbackSound</SoundEventType>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3123275922</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

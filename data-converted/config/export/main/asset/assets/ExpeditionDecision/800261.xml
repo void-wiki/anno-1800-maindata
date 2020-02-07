@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800261</GUID>
+      <Name>The Ghost Ship 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew are so faithless,&lt;/b&gt; that every creaking plank aboard the ghostly ship raises a whimper. So when a banshee howl erupts from below deck, every sailor runs for their life. One poor soul trips in a coil of rigging and cracks their head upon an iron capstan. The death exposes all the more the crew's foolishness.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5542</LineID>
+    </Text>
+  </Values>
+</Asset>

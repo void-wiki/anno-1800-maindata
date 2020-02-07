@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801722</GUID>
+      <Name>The Investigation 1.1.2.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801719</Option>
+        </Item>
+        <Item>
+          <Option>801720</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"No!" he says&lt;/b&gt;, unwilling to risk his life for such scant reward. He glances around, sweeping back his long dark hair. It seems increasingly unlikely he will co-operate.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21149</LineID>
+    </Text>
+  </Values>
+</Asset>

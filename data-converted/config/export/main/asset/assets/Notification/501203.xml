@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501203</GUID>
+      <Name>TradeRouteMinorIssue</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501363</IconAsset>
+            <FilterType>TradeRouteWarning</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>15167</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

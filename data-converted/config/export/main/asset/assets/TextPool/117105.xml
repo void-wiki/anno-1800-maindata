@@ -1,0 +1,56 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117105</GUID>
+      <Name>Pool_Explorer_IdleSelf</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>115564</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115566</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115567</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115574</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115575</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115576</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115577</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115578</AudioText>
+        </Item>
+        <Item>
+          <AudioText>116539</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115573</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115571</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

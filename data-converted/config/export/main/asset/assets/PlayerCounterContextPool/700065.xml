@@ -1,0 +1,44 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700065</GUID>
+      <Name>AP - TQ All Ships</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>100437</Asset>
+        </Item>
+        <Item>
+          <Asset>100438</Asset>
+        </Item>
+        <Item>
+          <Asset>100439</Asset>
+        </Item>
+        <Item>
+          <Asset>100440</Asset>
+        </Item>
+        <Item>
+          <Asset>100441</Asset>
+        </Item>
+        <Item>
+          <Asset>100442</Asset>
+        </Item>
+        <Item>
+          <Asset>100443</Asset>
+        </Item>
+        <Item>
+          <Asset>1010062</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>AP - TQ All Ships</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

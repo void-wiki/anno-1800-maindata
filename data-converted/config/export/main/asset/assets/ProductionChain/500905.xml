@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>500905</GUID>
+      <Name>colony01 fried bananas chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fried_bananas.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>101264</Building>
+      <Tier1>
+        <Item>
+          <Building>101262</Building>
+        </Item>
+        <Item>
+          <Building>101263</Building>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fried Plantain</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21462</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192759</GUID>
+      <Name>Specialists - Trading - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190665</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191617</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191618</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

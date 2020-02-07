@@ -1,0 +1,45 @@
+<Asset>
+  <Template>DivingBellObject</Template>
+  <Values>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object />
+    <Standard>
+      <GUID>113385</GUID>
+      <Name>QO Diving Bell Flotsam Selectable03 StoryQuest</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_diving_helmet.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Battle Site C</Text>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <DivingBellObject>
+      <TreasureType>QuestTreasure</TreasureType>
+      <TreasureVisibility>Always</TreasureVisibility>
+    </DivingBellObject>
+    <FeedbackController />
+  </Values>
+</Asset>

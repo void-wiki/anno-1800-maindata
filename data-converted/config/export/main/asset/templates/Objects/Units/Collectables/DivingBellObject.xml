@@ -1,0 +1,47 @@
+<Template>
+  <Name>DivingBellObject</Name>
+  <Properties>
+    <Mesh>
+      <MeshPlacement>OnWater</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+      <ConstructionEffectDuration>0</ConstructionEffectDuration>
+      <DeconstructionEffectDuration>0</DeconstructionEffectDuration>
+      <MoveEffectDuration>0</MoveEffectDuration>
+      <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/effects/sunken_treasures_diving_spot_03.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Standard />
+    <Selection>
+      <GUIType>Generic</GUIType>
+      <Selectable>0</Selectable>
+    </Selection>
+    <Text />
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter />
+    <QuestObject />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <ItemContainer>
+      <UnlimitedSlotCount>1</UnlimitedSlotCount>
+      <SlotCount>1</SlotCount>
+      <UnlimitedStack>1</UnlimitedStack>
+      <CanStoreProducts>1</CanStoreProducts>
+      <SpawnsFlotsam>0</SpawnsFlotsam>
+    </ItemContainer>
+    <DivingBellObject>
+      <TreasureDetectionRange>50</TreasureDetectionRange>
+    </DivingBellObject>
+    <FeedbackController>
+      <UseMeshRenderFlags>1</UseMeshRenderFlags>
+    </FeedbackController>
+  </Properties>
+</Template>

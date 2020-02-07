@@ -1,0 +1,51 @@
+<Asset>
+  <BaseAssetGUID>1010275</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101283</GUID>
+      <Name>agriculture_colony01_11_field (Alpaca Pasture)</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_colony01_11/agriculture_colony01_11_field_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_colony01_11/agriculture_colony01_11_field_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_colony01_11/agriculture_colony01_11_field_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_colony01_11/agriculture_colony01_11_field_04.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_colony01_11/agriculture_colony01_11_field_05.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Alpaca Pasture</Text>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8496</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <BuildingModule />
+    <AmbientMoodProvider />
+  </Values>
+</Asset>

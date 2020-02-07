@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192869</GUID>
+      <Name>Kahina Uncommon Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192668</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192663</ItemLink>
+          <Weight>9</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

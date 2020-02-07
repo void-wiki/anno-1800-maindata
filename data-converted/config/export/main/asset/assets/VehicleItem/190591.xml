@@ -1,0 +1,35 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190591</GUID>
+      <Name>ShipMaintainanceItem</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_repair_crane_2d.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ship Mechanic</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Rarity>Epic</Rarity>
+      <TradePrice>1000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <MaintainanceUpgrade>
+        <Value>-100</Value>
+        <Percental>1</Percental>
+      </MaintainanceUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

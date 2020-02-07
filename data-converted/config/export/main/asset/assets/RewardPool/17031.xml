@@ -1,0 +1,23 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>17031</GUID>
+      <Name>Ordinary Alcohol</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_products/monument_ordinary_alcohol.png</IconFilename>
+      <InfoDescription>19632</InfoDescription>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010214</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>1010216</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

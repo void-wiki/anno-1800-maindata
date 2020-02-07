@@ -1,0 +1,34 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>141031</GUID>
+      <Name>CultureCompoundScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingCompactness</Template>
+            <Values>
+              <RatingCompactness />
+            </Values>
+          </Rating>
+          <RelativeWeight>0.5</RelativeWeight>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingSubRect</Template>
+            <Values>
+              <RatingSubRect>
+                <SubRect>CompoundMain</SubRect>
+                <PlacementScore>141023</PlacementScore>
+              </RatingSubRect>
+            </Values>
+          </Rating>
+          <RelativeWeight>0.5</RelativeWeight>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

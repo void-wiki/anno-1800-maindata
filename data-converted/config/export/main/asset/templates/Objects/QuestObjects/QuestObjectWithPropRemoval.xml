@@ -1,0 +1,23 @@
+<Template>
+  <Name>QuestObjectWithPropRemoval</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <MeshPlacement>OnWater</MeshPlacement>
+    </Mesh>
+    <Selection />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Text />
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+    <SoundEmitter />
+    <Blocking>
+      <DeletePropsRadius>0</DeletePropsRadius>
+      <RemovePropsRadius>1</RemovePropsRadius>
+    </Blocking>
+  </Properties>
+</Template>

@@ -1,0 +1,60 @@
+<Asset>
+  <BaseAssetGUID>102428</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101400</GUID>
+      <Name>CQO_Pyro_CommandoShip (Samuel's murderer)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_pyrophorian_ship.png</IconFilename>
+      <InfoDescription>1083</InfoDescription>
+    </Standard>
+    <Object>
+      <DefaultParticipant>Campaign_character_02_pyrophorian_red</DefaultParticipant>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LineID>20124</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+    </CommandQueue>
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>500</MaximumHitPoints>
+      <AccuracyWidth>2</AccuracyWidth>
+    </Attackable>
+    <Attacker>
+      <BaseDamage>40</BaseDamage>
+    </Attacker>
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance>
+      <Maintenance>0</Maintenance>
+    </ShipMaintenance>
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

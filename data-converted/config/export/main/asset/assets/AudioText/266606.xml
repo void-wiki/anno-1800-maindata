@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Though the burden is lifted, Edvard will keep you headlocked for life if you allow him to.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17332</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232700</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266606</GUID>
+      <Name>advisor_02_Ch1Ph2_Additional_01</Name>
+    </Standard>
+  </Values>
+</Asset>

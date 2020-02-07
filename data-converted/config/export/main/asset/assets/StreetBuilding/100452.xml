@@ -1,0 +1,66 @@
+<Asset>
+  <Template>StreetBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>100452</GUID>
+      <Name>Harbour Poller</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_quay.png</IconFilename>
+      <ID>HarbourBlocker</ID>
+      <InfoDescription>12752</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Quay</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7006</LineID>
+    </Text>
+    <Blocking />
+    <Building>
+      <BuildingCategoryName>11150</BuildingCategoryName>
+    </Building>
+    <Cost />
+    <Object>
+      <Type>NotSerialized</Type>
+    </Object>
+    <Constructable>
+      <ConstructionMode>Street</ConstructionMode>
+    </Constructable>
+    <Mesh />
+    <Locked />
+    <Street>
+      <CfgFileName>data/graphics/buildings/special/harbor_system/harbor_system_08/harbor_system_08_atlas.cfg</CfgFileName>
+      <InternalID>13</InternalID>
+      <DecalMapping>data/config/street/simpledecal.txt.bin</DecalMapping>
+      <DecalVariation>data/config/street/poller_var.txt</DecalVariation>
+      <StyleRows>1</StyleRows>
+      <StyleCols>3</StyleCols>
+      <OverbuildRule>Visual</OverbuildRule>
+      <IsLogicRoad>0</IsLogicRoad>
+      <IsGroundDecal>1</IsGroundDecal>
+      <IsPlazza>1</IsPlazza>
+      <IsDeletable>0</IsDeletable>
+      <HasFeedbackPathPlanningPenalty>0</HasFeedbackPathPlanningPenalty>
+    </Street>
+    <SoundEmitter>
+      <ConstructionSounds>
+        <BuildSuccessful>
+          <Item>
+            <Sound>215916</Sound>
+          </Item>
+        </BuildSuccessful>
+      </ConstructionSounds>
+      <ConstructionStreetSounds>
+        <BuildAddWaypoint>
+          <Item>
+            <Sound>215918</Sound>
+          </Item>
+        </BuildAddWaypoint>
+      </ConstructionStreetSounds>
+    </SoundEmitter>
+    <QuestObject />
+  </Values>
+</Asset>

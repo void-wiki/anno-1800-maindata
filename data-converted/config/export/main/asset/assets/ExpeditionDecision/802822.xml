@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802822</GUID>
+      <Name>Taken In Broken Out 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802812</Option>
+        </Item>
+        <Item>
+          <Option>802813</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They are caught!&lt;/b&gt; Your sailors' lack of discretion is awkward and it is only a matter of minutes before a patrol spots them. Without any prepared disguise or lie, they are instantly arrested and, worse, the bodies of the poisoned guards are found on the way back to their cell. The next morning, they are judged not for their meager trespassing, but for actual murder.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22023</LineID>
+    </Text>
+  </Values>
+</Asset>

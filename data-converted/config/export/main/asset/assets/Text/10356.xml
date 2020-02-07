@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>10356</GUID>
+      <Name>ST NPC Takeover Island From Plyr - f</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] takes over your island [NotificationContext Value(Area) Area CityName] and is now in control.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6909</LineID>
+    </Text>
+  </Values>
+</Asset>

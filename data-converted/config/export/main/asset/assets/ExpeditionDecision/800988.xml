@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800988</GUID>
+      <Name>Baptism of Fire 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They make it.&lt;/b&gt; Rolled-up like carpets they skip over the strange and fiery threshold. As they wend their way through the passage to the other side of the ridge, their worst complaint is the overwhelmingly sweet pong of sweat that is sure to follow them for the rest of the journey. Still, all remain curious as to what that gate really was.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13157</LineID>
+    </Text>
+  </Values>
+</Asset>

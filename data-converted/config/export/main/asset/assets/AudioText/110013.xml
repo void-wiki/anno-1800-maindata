@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The many headed hydra is decapitated again! This land is claimed for the free! </Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30644</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204068</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>110013</GUID>
+      <Name>AT_ai10_NpcConquersPlayerHarbour2</Name>
+    </Standard>
+  </Values>
+</Asset>

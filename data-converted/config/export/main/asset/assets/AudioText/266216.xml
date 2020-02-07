@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The foul scent of a killer. We cannot let him escape.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17360</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232618</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266216</GUID>
+      <Name>advisor02_SamuelsMurderer_01</Name>
+    </Standard>
+  </Values>
+</Asset>

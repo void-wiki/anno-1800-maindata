@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802771</GUID>
+      <Name>Jolly Roger 1.1.2.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew don't seem too keen.&lt;/b&gt; Perhaps they know they have no chance hand-to-hand with seasoned pirates. As the two ships adjoin, it is the pirates who make the charge. Almost immediately, a pirate swings an axe an lops off a head. Horrified, your steersman hurriedly spins your ship away, with fighters on both sides falling into the resulting gap. Your depleted crew flees at full speed. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21524</LineID>
+    </Text>
+  </Values>
+</Asset>

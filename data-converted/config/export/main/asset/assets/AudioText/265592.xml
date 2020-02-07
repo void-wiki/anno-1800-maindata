@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You humiliate yourself publicly!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17001</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233153</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265592</GUID>
+      <Name>AT_ai07_NegativeInteraction_NPCsFriend1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802224</GUID>
+      <Name>The Amazons 1.3.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;This pleases them,&lt;/b&gt; since of all things they are most fond of a good fight. Your men are honourable and choose to fight hand-to-hand. It is a noble and even contest, punctuated by the metallic rasp of sword and spear, ending in stalemate. There have been injuries on both sides, and the two sides part with greater respect for their foes. Still, those injuries will need looking after...</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20929</LineID>
+    </Text>
+  </Values>
+</Asset>

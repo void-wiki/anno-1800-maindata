@@ -1,0 +1,143 @@
+<Asset>
+  <BaseAssetGUID>100517</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>112658</GUID>
+      <Name>logistic_arctic_03 (Warehouse III)</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35096</LineID>
+    </Text>
+    <Blocking />
+    <Building>
+      <PickingAsset>112656</PickingAsset>
+      <AssociatedRegions>Arctic</AssociatedRegions>
+    </Building>
+    <Cost>
+      <Costs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>4</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>4</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>0</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>5</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>5</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Costs>
+    </Cost>
+    <Selection />
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Warehouse</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/dlc03/graphics/buildings/public/logistic_colony03_03/logistic_colony03_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>242777</Sound>
+        </Item>
+      </ActiveSounds>
+      <IncidentSounds>
+        <ExplosionOneShots>
+          <Item>
+            <Sound>203849</Sound>
+          </Item>
+        </ExplosionOneShots>
+      </IncidentSounds>
+    </SoundEmitter>
+    <Locked />
+    <Infolayer />
+    <FeedbackController />
+    <Warehouse />
+    <LogisticNode />
+    <UpgradeList />
+    <AmbientMoodProvider>
+      <Murmur>Warehouse</Murmur>
+    </AmbientMoodProvider>
+    <Maintenance />
+    <StorageBase />
+    <Attackable />
+    <Upgradable />
+    <Pausable />
+  </Values>
+</Asset>

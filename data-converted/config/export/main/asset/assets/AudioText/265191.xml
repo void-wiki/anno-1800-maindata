@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The fire is out of control!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15781</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234115</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265191</GUID>
+      <Name>AT_Narrator_Incidents_Warning_EscalatedFire</Name>
+    </Standard>
+  </Values>
+</Asset>

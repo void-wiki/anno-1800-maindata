@@ -1,0 +1,40 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>17055</GUID>
+      <Name>AllBigProductsPool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>17035</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>17036</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>17050</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>17039</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>17038</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>50</MaxAmount>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

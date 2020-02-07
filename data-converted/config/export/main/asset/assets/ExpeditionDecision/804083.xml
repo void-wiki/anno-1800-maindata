@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804083</GUID>
+      <Name>The Coral Island 1. Alternative</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803539</Option>
+        </Item>
+        <Item>
+          <Option>803541</Option>
+        </Item>
+        <Item>
+          <Option>803581</Option>
+        </Item>
+        <Item>
+          <Option>803596</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The accident with the coral reef as left the expedition shipwrecked on an atoll.&lt;/b&gt; For a time your crew feel like children again— dancing along the sand and bathing in the sun, as they await a verdict on the damaged hull. When it comes, the news is not good— extensive repair is needed, and with supplies so short, there is considerable disagreement. Why &lt;b&gt;concentrate on repairs&lt;/b&gt;, given how long that may take, when &lt;b&gt;scouting for food and water.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33499</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Poor Anne Harlow. It does distress me to see how her star has fallen.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11747</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229642</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260848</GUID>
+      <Name>AT_ai01_IdleMessageGossip_Harlow</Name>
+    </Standard>
+  </Values>
+</Asset>

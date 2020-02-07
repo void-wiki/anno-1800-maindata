@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your exhibition is closing!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15944</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234065</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265358</GUID>
+      <Name>AT_Narrator_Monument_Information_MonumentEventEnded/Rewards</Name>
+    </Standard>
+  </Values>
+</Asset>

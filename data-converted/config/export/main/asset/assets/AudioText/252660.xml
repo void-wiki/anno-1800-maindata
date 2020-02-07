@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You can be proud, soldier. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10859</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223575</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252660</GUID>
+      <Name>AT_ai09_PosiFeedbackToPlayer4</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204001</GUID>
+      <Name>Play_AI_DRYNEWD2_BASIC_0NC_00001_01NEWD2_30773</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>3601</DurationMinimum>
+          <DurationMaximum>3601</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>2499</DurationMinimum>
+          <DurationMaximum>2499</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>3441</DurationMinimum>
+          <DurationMaximum>3441</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2789</DurationMinimum>
+          <DurationMaximum>2789</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1709959700</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

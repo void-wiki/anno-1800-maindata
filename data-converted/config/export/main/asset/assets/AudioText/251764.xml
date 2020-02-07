@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>War? But...I feel suddenly horribly dizzy!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2877</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211184</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251764</GUID>
+      <Name>AT_ai01_PlayerDeclaresWarOnNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

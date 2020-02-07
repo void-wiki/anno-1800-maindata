@@ -1,0 +1,37 @@
+<Asset>
+  <Template>QuestObjectFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>117264</GUID>
+      <Name>Inuit_Explore_Shrine_Quest_24_Shrine</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_inukshuk.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>Default</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/ancient_altar/ancient_altar.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mountain Shrine</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+    <SoundEmitter />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The locusts, whenever they speak of you, sound sad.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7709</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217040</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255386</GUID>
+      <Name>AT_ai08_NPCReputationAutocorrectDecrease5</Name>
+    </Standard>
+  </Values>
+</Asset>

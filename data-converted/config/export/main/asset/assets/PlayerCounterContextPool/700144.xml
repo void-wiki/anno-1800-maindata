@@ -1,0 +1,32 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700144</GUID>
+      <Name>AP - All Productions</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>700140</Asset>
+        </Item>
+        <Item>
+          <Asset>700141</Asset>
+        </Item>
+        <Item>
+          <Asset>700142</Asset>
+        </Item>
+        <Item>
+          <Asset>700143</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Asset Pool All Productions</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

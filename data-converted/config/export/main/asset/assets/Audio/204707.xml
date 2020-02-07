@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204707</GUID>
+      <Name>Play_AI_ARTIS_ISJLE_ZP2LF_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2358</DurationMinimum>
+          <DurationMaximum>4332</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>1922</DurationMinimum>
+          <DurationMaximum>3905</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>2370</DurationMinimum>
+          <DurationMaximum>3970</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2052</DurationMinimum>
+          <DurationMaximum>4154</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1041338090</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You can’t play with us! / You are player blue, / But no-one really gets to know you</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16805</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232959</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_75</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266439</GUID>
+      <Name>AT_ai01_Credits25</Name>
+    </Standard>
+  </Values>
+</Asset>

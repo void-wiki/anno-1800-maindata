@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204773</GUID>
+      <Name>Play_AI_ARTUR_OD3_HHT_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4108</DurationMinimum>
+          <DurationMaximum>6286</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>4906</DurationMinimum>
+          <DurationMaximum>6174</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>4192</DurationMinimum>
+          <DurationMaximum>7019</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4611</DurationMinimum>
+          <DurationMaximum>5781</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>9500538</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

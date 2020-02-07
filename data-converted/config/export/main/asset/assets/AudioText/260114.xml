@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Are you responsible for this predicament?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11448</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223630</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260114</GUID>
+      <Name>AT_visitor_NegFeedbackTo Player1</Name>
+    </Standard>
+  </Values>
+</Asset>

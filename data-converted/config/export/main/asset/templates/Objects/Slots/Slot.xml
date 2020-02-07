@@ -1,0 +1,55 @@
+<Template>
+  <Name>Slot</Name>
+  <Properties>
+    <Standard>
+      <InfoDescription>11880</InfoDescription>
+    </Standard>
+    <Blocking />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh />
+    <Slot />
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Text />
+    <MinimapToken />
+    <RandomMapObject />
+    <Building>
+      <BuildingCategoryName>12718</BuildingCategoryName>
+      <Destructable>0</Destructable>
+    </Building>
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+      </DestroySounds>
+      <ConstructionSounds>
+        <BuildFailed>
+          <Item>
+            <Sound>9818387</Sound>
+          </Item>
+        </BuildFailed>
+        <BuildMoveStart>
+          <Item>
+            <Sound>9818755</Sound>
+          </Item>
+        </BuildMoveStart>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>203995</Sound>
+          </Item>
+        </BuildMoveSuccess>
+        <BuildMoveEnd>
+          <Item>
+            <Sound>200141</Sound>
+          </Item>
+        </BuildMoveEnd>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <Infolayer />
+    <QuestObject />
+  </Properties>
+</Template>

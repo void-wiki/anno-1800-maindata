@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This situation is scaring all our patrons away!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17839</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236379</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>268075</GUID>
+      <Name>AT_res_tier05_Incident_General02</Name>
+    </Standard>
+  </Values>
+</Asset>

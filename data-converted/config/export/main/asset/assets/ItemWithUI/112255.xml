@@ -1,0 +1,49 @@
+<Asset>
+  <Template>ItemWithUI</Template>
+  <Values>
+    <Standard>
+      <GUID>112255</GUID>
+      <Name>QI Richardson account</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_richardsons_log.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Richardson's Log</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32388</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103060</Flotsam>
+    </Item>
+    <ItemWithUI>
+      <ItemActions>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionTriggerTextPopup</Template>
+                  <Values>
+                    <ActionTriggerTextPopup>
+                      <PopupText>112546</PopupText>
+                      <TextPopupLayout>RichardsonLog</TextPopupLayout>
+                    </ActionTriggerTextPopup>
+                    <Action />
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </ItemActions>
+    </ItemWithUI>
+    <Locked />
+    <ItemAction />
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

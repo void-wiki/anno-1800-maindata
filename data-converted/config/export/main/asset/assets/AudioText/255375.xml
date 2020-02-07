@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are not the chosen one.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7705</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217036</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255375</GUID>
+      <Name>AT_ai08_NPCReputationAutocorrectDecrease1</Name>
+    </Standard>
+  </Values>
+</Asset>

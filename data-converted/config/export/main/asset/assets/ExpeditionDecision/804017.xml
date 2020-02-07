@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804017</GUID>
+      <Name>Narrow channels 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804018</Option>
+        </Item>
+        <Item>
+          <Option>804030</Option>
+        </Item>
+        <Item>
+          <Option>804033</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <MapLabel>804150</MapLabel>
+        <LabelPosX>35</LabelPosX>
+        <LabelPosY>40</LabelPosY>
+        <ProgressReview>117454</ProgressReview>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The west coast of Labrador Island is snaggled up with monstrous horns of ice. &lt;b&gt;Navigation is going to be tricky.&lt;/b&gt; Will the narrows lead back once more to open water, or will your ship end up stuck? You can &lt;b&gt;navigate carefully&lt;/b&gt;, &lt;b&gt;get a better view&lt;/b&gt; of the channels from a nearby rock, or &lt;b&gt;send scouts ahead in rowboats&lt;/b&gt; to see.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35283</LineID>
+    </Text>
+  </Values>
+</Asset>

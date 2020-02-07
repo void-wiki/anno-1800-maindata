@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>802227</GUID>
+      <Name>Test Expedition - The Deeper You Go</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_navigation.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>3597</ExpeditionDescription>
+      <ExpeditionRegion>NorthernEurope</ExpeditionRegion>
+      <EventList>
+        <Item>
+          <EventOrEventPool>802228</EventOrEventPool>
+        </Item>
+      </EventList>
+      <FillThreats>1</FillThreats>
+      <MinPauseBetweenEvents>30000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>30000</MaxPauseBetweenEvents>
+      <BackgroundVideo>data/ui/video/expedition/temperate_a.bk2</BackgroundVideo>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

@@ -1,0 +1,47 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>101955</GUID>
+      <Name>Big_Bertha_Shell</Name>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>1</ShotHeight>
+      <ShotAngle>30</ShotAngle>
+      <ProjectileSpeed>60</ProjectileSpeed>
+      <DamageType>BigBertha</DamageType>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_cannon_area_very_large_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>1</InnerDamageRadius>
+      <InnerDamage>850</InnerDamage>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>8</OuterDamageRadius>
+      <MinimumDamage>1</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>235845</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235844</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You just saved my next excursion!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2770</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211264</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251130</GUID>
+      <Name>AT_ai01_TradeConfirmation1</Name>
+    </Standard>
+  </Values>
+</Asset>

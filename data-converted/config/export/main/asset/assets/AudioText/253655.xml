@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I cannot thank you enough for saving our publishing house! Quite the windfall after being cut loose from our angered— I mean elderly, stakeholders.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4040</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236222</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253655</GUID>
+      <Name>AT_Reporter_IdleMessageSelf2</Name>
+    </Standard>
+  </Values>
+</Asset>

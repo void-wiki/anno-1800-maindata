@@ -1,0 +1,15 @@
+<Asset>
+  <Template>AudioSpots</Template>
+  <Values>
+    <Standard>
+      <GUID>102900</GUID>
+      <Name>murmur_3rd_party_pirate_jean</Name>
+    </Standard>
+    <Mesh />
+    <SoundEmitter />
+    <Object />
+    <AmbientMoodProvider>
+      <Murmur>ThirdPartyPirateJean</Murmur>
+    </AmbientMoodProvider>
+  </Values>
+</Asset>

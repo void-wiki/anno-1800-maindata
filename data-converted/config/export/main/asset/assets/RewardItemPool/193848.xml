@@ -1,0 +1,34 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193848</GUID>
+      <Name>Inuit Rare Cultural</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193791</ItemLink>
+          <Weight>6</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193796</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>115475</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115478</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115481</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114637</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>243894</GUID>
+      <Name>wwe_sfx_bld_guild_house_arctic_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>243896</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2727813660</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191172</GUID>
+      <Name>Mosaics E</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190519</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190506</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190518</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190513</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190500</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190512</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

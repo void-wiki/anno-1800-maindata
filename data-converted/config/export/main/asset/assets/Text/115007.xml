@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>115007</GUID>
+      <Name>Heating HeaterNotWorking NotificationText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A heater in [NotificationContext Value(Area) Area CityName] is out of [NotificationContext Value(Object) Object Factory Inputs AT(0) Product Text] and isn't working anymore.</Text>
+          <Status>GameWriting</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35002</LineID>
+    </Text>
+  </Values>
+</Asset>

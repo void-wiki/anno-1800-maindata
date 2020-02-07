@@ -1,0 +1,58 @@
+<Asset>
+  <BaseAssetGUID>100439</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101982</GUID>
+      <Name>CQO_Isabel_01Flagship</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Isabel Sarmento's Flagship</Text>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18074</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+    </CommandQueue>
+    <Drifting>
+      <Length>7</Length>
+      <Width>2</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>7000</MaximumHitPoints>
+      <SelfHealPausedTimeIfAttacked>0</SelfHealPausedTimeIfAttacked>
+    </Attackable>
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

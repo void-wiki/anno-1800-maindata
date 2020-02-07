@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803894</GUID>
+      <Name>Lancaster Detroit - Beechey Island or Trading Post</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>An Arctic Welcome In Tchilling Sound</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34375</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800032</EventThreat>
+      <StartDecision>803931</StartDecision>
+      <EventMusicChoice>226701</EventMusicChoice>
+      <EventVideo>data/dlc03/ui/video/dlc03_snow_storm_polar.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

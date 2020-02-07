@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Destroy them!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7892</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217737</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255890</GUID>
+      <Name>AT_enemy_02_NpcAttacksPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

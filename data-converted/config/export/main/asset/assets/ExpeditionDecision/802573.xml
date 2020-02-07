@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802573</GUID>
+      <Name>A Fistful of Doubloons 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802601</Option>
+        </Item>
+        <Item>
+          <Option>802602</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;No tracks are found.&lt;/b&gt; The bustling harbour and the late evening insist on hiding the thieves' tracks. Your sailors are not skilled enough to pick up the faint trail inside the town itself, but they might have better luck around its outskirts.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21674</LineID>
+    </Text>
+  </Values>
+</Asset>

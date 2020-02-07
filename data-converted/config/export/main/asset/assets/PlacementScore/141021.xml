@@ -1,0 +1,41 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>141021</GUID>
+      <Name>GuildhouseScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingProvideBoosterCoverage</Template>
+            <Values>
+              <RatingProvideBoosterCoverage />
+            </Values>
+          </Rating>
+          <RelativeWeight>0.5</RelativeWeight>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingNeighborTiles</Template>
+            <Values>
+              <RatingNeighborTiles>
+                <NeighborCategories>
+                  <Streets>
+                    <Score>0.8</Score>
+                  </Streets>
+                  <Buildings>
+                    <Score>1</Score>
+                  </Buildings>
+                </NeighborCategories>
+                <RequiredNeighborCategories>Streets</RequiredNeighborCategories>
+              </RatingNeighborTiles>
+            </Values>
+          </Rating>
+          <RelativeWeight>0.5</RelativeWeight>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

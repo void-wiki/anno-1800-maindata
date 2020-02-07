@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Help, I have declared war on your ally! Sorry to put you on the spot... </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3004</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229626</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252079</GUID>
+      <Name>AT_ai01_NpcInvokesAllianceDecision1</Name>
+    </Standard>
+  </Values>
+</Asset>

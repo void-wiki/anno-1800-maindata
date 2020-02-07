@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802443</GUID>
+      <Name>Wood Keeper 1.1.1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192046</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>120041</Reward>
+          <Amount>5</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men are soon enjoying every hospitality.&lt;/b&gt; You are following the trail when your sharp-eyed scout remarks "The villagers return from the mountain, they are armed with nothing but palm leaves". You await them in the open, making sure to keep any weapons out of sight. The locals are surprised and afraid to have visitors, but as this is an auspicious day, they invite you to a hearty feast. The chief enjoys the company of your knowledgeable woodsmen greatly, and insists you take an amulet and bananas as a parting gift.</Text>
+          <Status>Exported</Status>
+          <ExportCount>16</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20886</LineID>
+    </Text>
+  </Values>
+</Asset>

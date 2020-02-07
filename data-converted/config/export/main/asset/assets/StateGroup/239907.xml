@@ -1,0 +1,29 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>239907</GUID>
+      <Name>st_aui_game_speed</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>429095583</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>239903</Choice>
+        </Item>
+        <Item>
+          <Choice>239904</Choice>
+        </Item>
+        <Item>
+          <Choice>239905</Choice>
+        </Item>
+        <Item>
+          <Choice>239906</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802831</GUID>
+      <Name>Taken In Broken Out 1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802832</Option>
+        </Item>
+        <Item>
+          <Option>802833</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Ridiculously visible.&lt;/b&gt; Your sailors tiptoe past the guarding frigate, their shadows stretching across the whole deck, their stressed whispers ringing through the night. As a testimony to their poor hunting skill, it takes a barrel in their cheeks for them to realize they have been spotted. The next morning, the judges' verdict takes into account the escape attempt and condemn half of your crew to a month of forced labour.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22029</LineID>
+    </Text>
+  </Values>
+</Asset>

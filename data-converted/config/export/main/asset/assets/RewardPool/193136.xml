@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193136</GUID>
+      <Name>Edicts - Cultural Edicts - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191696</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191702</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191705</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191708</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191812</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

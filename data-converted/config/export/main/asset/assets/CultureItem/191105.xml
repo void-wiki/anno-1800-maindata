@@ -1,0 +1,44 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191105</GUID>
+      <Name>giant deer</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_giant_deer.png</IconFilename>
+      <InfoDescription>13728</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Giant Deer</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26484</LineID>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <ItemSet>191116</ItemSet>
+      <TradePrice>689000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100813</ChangeModule>
+      <ForcedFeedbackVariation>101780</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203400</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>25</BaseMorale>
+      <ItemRegions>NorthernEurope;NorthAmerica;NorthernNorthAmerica</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

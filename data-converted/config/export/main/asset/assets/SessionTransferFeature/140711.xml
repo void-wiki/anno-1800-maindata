@@ -1,0 +1,17 @@
+<Asset>
+  <Template>SessionTransferFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>140711</GUID>
+      <Name>SessionTransferBalancing</Name>
+      <ID>SessionTransferBalancing</ID>
+    </Standard>
+    <SessionTransferFeature>
+      <DefaultTransferTime>30000</DefaultTransferTime>
+      <AverageShipSpeed>6</AverageShipSpeed>
+      <ShipEnteredSessionNotification>501306</ShipEnteredSessionNotification>
+      <PirateAvoidanceRange>500</PirateAvoidanceRange>
+      <MaxLeaveSessionDistance>150</MaxLeaveSessionDistance>
+    </SessionTransferFeature>
+  </Values>
+</Asset>

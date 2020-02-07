@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501400</GUID>
+      <Name>NewCityState_Village_Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>16981</Title>
+            <NotificationMainIconAsset>1010315</NotificationMainIconAsset>
+            <Icon01>1010294</Icon01>
+            <Icon02>1010267</Icon02>
+            <BackgroundAnimation>data\ui\video\ui_alpha\main_banner\mainbanner_city_luxuryneed_a.bk2</BackgroundAnimation>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>16983</NotificationText>
+            <NotificationAudioAsset>201837</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

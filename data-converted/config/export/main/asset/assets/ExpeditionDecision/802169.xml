@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802169</GUID>
+      <Name>Selfless Deeds 1.2.1.2.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The naked men overpower your fighters.&lt;/b&gt; The element of surprise does not compensate the lacking strength of the crew, and they are easily repelled by the bathing bandits. Instead of killing them, the kidnappers order the sailors to strip and send them back as is, rescuers unable to retrieve the children and humiliated in the process.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21025</LineID>
+    </Text>
+  </Values>
+</Asset>

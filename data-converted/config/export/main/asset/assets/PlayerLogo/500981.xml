@@ -1,0 +1,17 @@
+<Asset>
+  <Template>PlayerLogo</Template>
+  <Values>
+    <Standard>
+      <GUID>500981</GUID>
+      <Name>PlayerLogo24</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_24.png</IconFilename>
+    </Standard>
+    <PlayerLogo>
+      <DefaultLogo>data/ui/2kimages/main/profiles/playerlogos/large/player_logo_24.png</DefaultLogo>
+      <MiniLogo>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_24.png</MiniLogo>
+    </PlayerLogo>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

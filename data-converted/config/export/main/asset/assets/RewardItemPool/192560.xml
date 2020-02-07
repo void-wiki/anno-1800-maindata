@@ -1,0 +1,39 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192560</GUID>
+      <Name>Third_party_05 (Isabel Sarmento) Forced Voluntary Reward</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_jewelry.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190961</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192555</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192556</ItemLink>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192557</ItemLink>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192558</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192559</ItemLink>
+          <Weight>5</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

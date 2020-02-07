@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802078</GUID>
+      <Name>The Mutiny 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The budding mutiny is crushed.&lt;/b&gt; The first lieutenant and two loyalists are all it takes to seize the ringleaders and present him before the Captain for  judgement. The man is condemned to a marooning on the next island they encounter. The swift arrest and punishment impresses the sailors and renews their respect for their superiors.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21606</LineID>
+    </Text>
+  </Values>
+</Asset>

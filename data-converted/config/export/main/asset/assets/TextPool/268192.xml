@@ -1,0 +1,39 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268192</GUID>
+      <Name>Pool_3rd_party04_NPCAcceptsNonAggressionPact</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>256406</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256407</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256408</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258007</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258010</AudioText>
+        </Item>
+        <Item />
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

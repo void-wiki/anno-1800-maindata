@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Gather your things Edvard. For your trial.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17137</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233484</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>1</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266922</GUID>
+      <Name>AT_Advisor01_movie07_01</Name>
+    </Standard>
+  </Values>
+</Asset>

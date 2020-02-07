@@ -1,0 +1,24 @@
+<Template>
+  <Name>CultureItem</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>Zoo</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <ItemType>Animal</ItemType>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <HideBuff>1</HideBuff>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+      <FluffText>118008</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <Unpackable>1</Unpackable>
+    </Locked>
+  </Properties>
+</Template>

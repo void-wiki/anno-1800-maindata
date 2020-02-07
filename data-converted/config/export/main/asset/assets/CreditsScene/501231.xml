@@ -1,0 +1,22 @@
+<Asset>
+  <Template>CreditsScene</Template>
+  <Values>
+    <CreditsScene>
+      <CreditsUrl>data/config/gui/credits_eu.html</CreditsUrl>
+      <ScrollPixelPerSecond>30</ScrollPixelPerSecond>
+      <TextBoxWidth>650</TextBoxWidth>
+      <CreditVideo>
+        <German>
+          <CreditVideoPath>data/ui/video/credits_ger.bk2</CreditVideoPath>
+        </German>
+      </CreditVideo>
+      <DefaultCreditVideoPath>data/ui/video/credits_eng.bk2</DefaultCreditVideoPath>
+      <CreditsUrlAs>data/config/gui/credits_as.html</CreditsUrlAs>
+    </CreditsScene>
+    <Standard>
+      <GUID>501231</GUID>
+      <Name>CreditsScene</Name>
+      <ID>CreditsScene</ID>
+    </Standard>
+  </Values>
+</Asset>

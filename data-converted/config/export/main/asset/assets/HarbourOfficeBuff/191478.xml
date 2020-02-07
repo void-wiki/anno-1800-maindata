@@ -1,0 +1,41 @@
+<Asset>
+  <Template>HarbourOfficeBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191478</GUID>
+      <Name>Loudspeaker_Active</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/military_items/icon_loudspeaker.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191443</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Burning</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <FactoryUpgrade />
+    <BuildingUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>-20</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <AttackSpeedUpgrade>25</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <VisitorHarborUpgrade />
+    <VisitorUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <KontorUpgrade />
+    <AttackableUpgrade />
+    <PierUpgrade />
+    <CultureUpgrade />
+  </Values>
+</Asset>

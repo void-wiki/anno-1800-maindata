@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We have sighted vessels stranded in the channels. They too will be lost without help.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13469</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231270</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>264785</GUID>
+      <Name>AT_Inuit_Phase2_BailingCouncil_Starter</Name>
+    </Standard>
+  </Values>
+</Asset>

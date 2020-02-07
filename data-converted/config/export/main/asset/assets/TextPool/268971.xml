@@ -1,0 +1,49 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268971</GUID>
+      <Name>Pool_ai06_InsultSucceed</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>252498</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252500</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252312</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252315</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252316</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252317</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252318</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>514028001</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245620</GUID>
+      <Name>Play_AI_LADY2_OJDBF_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>6640</DurationMinimum>
+          <DurationMaximum>8441</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>6030</DurationMinimum>
+          <DurationMaximum>10093</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>7339</DurationMinimum>
+          <DurationMaximum>8348</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>7021</DurationMinimum>
+          <DurationMaximum>8577</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1347271850</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

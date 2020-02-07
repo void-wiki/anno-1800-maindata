@@ -1,0 +1,75 @@
+<Asset>
+  <Template>ChannelTarget</Template>
+  <Values>
+    <Standard>
+      <GUID>101114</GUID>
+      <Name>QO Dynamite Fishing - Fish</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_fish.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/fish/fish_swarm.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fishground</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <Infolayer />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <ChannelTarget>
+      <SpawnInfo>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Action />
+          <ActionSpawnObjects>
+            <SpawnGUID>101119</SpawnGUID>
+            <Amount>3</Amount>
+            <Highlight>1</Highlight>
+            <RandomRotation>1</RandomRotation>
+            <Owner>Neutral</Owner>
+          </ActionSpawnObjects>
+          <SpawnArea>
+            <SpawnContext>Object</SpawnContext>
+            <MinObjectDistance>1</MinObjectDistance>
+            <MaxObjectDistance>2</MaxObjectDistance>
+          </SpawnArea>
+          <SessionFilter />
+        </Values>
+      </SpawnInfo>
+      <CargoAsset>190580</CargoAsset>
+      <SpawnSignsAndFeedback>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500482</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </SpawnSignsAndFeedback>
+    </ChannelTarget>
+    <QuestObject />
+    <FeedbackController />
+  </Values>
+</Asset>

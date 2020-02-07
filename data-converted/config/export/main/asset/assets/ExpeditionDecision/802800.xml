@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802800</GUID>
+      <Name>Taken In Broken Out 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802801</Option>
+        </Item>
+        <Item>
+          <Option>802802</Option>
+        </Item>
+        <Item>
+          <Option>802803</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Behind bars!&lt;/b&gt; The prolonged stay of your ship in this harbour is not a willed one. Obscure laws were breached and your whole crew was arrested under the pretence that borders, whose nature remains unknown, were not respected. Heavily armed foreigners lead your crew through the sinuous roads of their city and into the local jail, and after passing by a row of freshly hanged criminals, the sailors are locked up. Only two guards keep watch, their heads bobbing with fatigue. Are they underestimating your crew?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22013</LineID>
+    </Text>
+  </Values>
+</Asset>

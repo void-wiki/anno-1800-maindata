@@ -1,0 +1,37 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190138</GUID>
+      <Name>ship speed</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_shipsymbol.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>one time equip Sails</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>SailShip</Allocation>
+      <IsDestroyedOnUnequip>1</IsDestroyedOnUnequip>
+      <Rarity>Epic</Rarity>
+      <TradePrice>1000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

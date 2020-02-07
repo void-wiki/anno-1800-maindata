@@ -1,0 +1,53 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190842</GUID>
+      <Name>All Ironworks and Foundry</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Ironworks and Foundries</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15252</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010296</GUID>
+        </Item>
+        <Item>
+          <GUID>1010297</GUID>
+        </Item>
+        <Item>
+          <GUID>1010298</GUID>
+        </Item>
+        <Item>
+          <GUID>1010299</GUID>
+        </Item>
+        <Item>
+          <GUID>1010301</GUID>
+        </Item>
+        <Item>
+          <GUID>1010302</GUID>
+        </Item>
+        <Item>
+          <GUID>1010282</GUID>
+        </Item>
+        <Item>
+          <GUID>1010303</GUID>
+        </Item>
+        <Item>
+          <GUID>101331</GUID>
+        </Item>
+        <Item>
+          <GUID>1010561</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

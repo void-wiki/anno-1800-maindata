@@ -1,0 +1,38 @@
+<Asset>
+  <Template>FishShoal</Template>
+  <Values>
+    <Standard>
+      <GUID>1001789</GUID>
+      <Name>FishShoal BlueWhale</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rich_sea.png</IconFilename>
+      <ID>Herd_Water_0</ID>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_bluewhale.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <FishShoal>
+      <ShoalRadius>5</ShoalRadius>
+      <MinVelocity>0.5</MinVelocity>
+      <MaxVelocity>0.7</MaxVelocity>
+      <WaterLayer>DeepWater</WaterLayer>
+    </FishShoal>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/whale_blue/whale_blue.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_AmbientZones>North;South</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMax>5</UnitCountMax>
+      <AutoSpawn_RelativeProbability>60</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>202314</Animal_AudioLoop>
+    </AnimalBase>
+    <SoundEmitter />
+  </Values>
+</Asset>

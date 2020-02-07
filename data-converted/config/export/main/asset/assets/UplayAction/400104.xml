@@ -1,0 +1,37 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400104</GUID>
+      <Name>Action_Achievement_Leviathan</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Construction</AchievementCategory>
+      <AchievementTitle>21502</AchievementTitle>
+      <AchievementDescription>21503</AchievementDescription>
+      <AchievementUPlayID>86</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>ObjectBuilt</ConditionEvent>
+            <ContextAsset>400105</ContextAsset>
+            <ContextAssetInfolayer>0</ContextAssetInfolayer>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>505</UplayActionID>
+      <BadgeID>1005</BadgeID>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

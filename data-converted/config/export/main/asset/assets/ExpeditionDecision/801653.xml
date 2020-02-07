@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801653</GUID>
+      <Name>Scylla and Charybdis 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A frontal crash is avoided, but it is a crash nonetheless.&lt;/b&gt; The whole ship protests against the unnatural movement, its rudder straining against the current and its hull complaining loudly against the maneuver until the impact silences it. The repairs are much lighter than they could have been.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17982</LineID>
+    </Text>
+  </Values>
+</Asset>

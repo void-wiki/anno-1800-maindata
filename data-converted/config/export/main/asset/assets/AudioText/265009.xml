@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Repay me now, or sell up!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15562</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232186</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265009</GUID>
+      <Name>enemy_01_RepayYourDebt_03</Name>
+    </Standard>
+  </Values>
+</Asset>

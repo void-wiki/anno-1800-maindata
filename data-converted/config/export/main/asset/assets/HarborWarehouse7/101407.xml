@@ -1,0 +1,106 @@
+<Asset>
+  <Template>HarborWarehouse7</Template>
+  <Values>
+    <Standard>
+      <GUID>101407</GUID>
+      <Name>CQO_SA_Harbour</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Packet Steamer Office</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21460</LineID>
+    </Text>
+    <Blocking />
+    <Building>
+      <BuildingCategoryName>19158</BuildingCategoryName>
+    </Building>
+    <Cost />
+    <Selection>
+      <OnSelection>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionNotification</Template>
+                  <Values>
+                    <Action />
+                    <ActionNotification>
+                      <Notification>
+                        <Template>CharacterNotification</Template>
+                        <Values>
+                          <CharacterNotification>
+                            <Profile>181</Profile>
+                          </CharacterNotification>
+                          <BaseNotification>
+                            <NotificationText>12686</NotificationText>
+                          </BaseNotification>
+                          <NotificationSubtitle>
+                            <Subtitle>268727</Subtitle>
+                          </NotificationSubtitle>
+                        </Values>
+                      </Notification>
+                    </ActionNotification>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnSelection>
+      <InteractionDistance>10</InteractionDistance>
+      <Colors>
+        <SelectionColorType>PropertySelectionColor</SelectionColorType>
+        <SelectionColor>-337045</SelectionColor>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/magistrate_shack/magistrate_shack.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <SoundEmitter />
+    <Locked />
+    <Infolayer>
+      <DefaultInfoLayer>500482</DefaultInfoLayer>
+    </Infolayer>
+    <FeedbackController />
+    <Warehouse />
+    <LogisticNode />
+    <DistributionCenter />
+    <MinimapToken />
+    <AmbientMoodProvider />
+    <LoadingPier>
+      <NumOfPiers>1</NumOfPiers>
+      <LoadingSpeed>1</LoadingSpeed>
+    </LoadingPier>
+    <StorageBase />
+    <Attackable />
+    <Upgradable />
+    <Maintenance />
+    <Pausable />
+    <Distribution />
+    <UpgradeList />
+    <Culture />
+    <QuestObject />
+    <Attacker>
+      <AttackRange>0</AttackRange>
+      <Turrets />
+    </Attacker>
+    <CommandQueue />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>141468</GUID>
+      <Name>ExpeditionUnlock</Name>
+      <ID>ExpeditionUnlock</ID>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <AutoSelfUnlock>0</AutoSelfUnlock>
+    </TriggerSetup>
+  </Values>
+</Asset>

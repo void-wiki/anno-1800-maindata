@@ -1,0 +1,38 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700066</GUID>
+      <Name>AP - TQ All Electricity Needing factories</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010301</Asset>
+        </Item>
+        <Item>
+          <Asset>1010302</Asset>
+        </Item>
+        <Item>
+          <Asset>1010303</Asset>
+        </Item>
+        <Item>
+          <Asset>1010323</Asset>
+        </Item>
+        <Item>
+          <Asset>1010324</Asset>
+        </Item>
+        <Item>
+          <Asset>1010326</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>AP - TQ All Electricity Needing Factories</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

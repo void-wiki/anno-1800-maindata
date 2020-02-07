@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800901</GUID>
+      <Name>Parasitic Infestation 1.2.2.1.2.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;As good as could be expected.&lt;/b&gt; Out with parasites, in with polished peg legs and helpful hook-hands. The crew look not nearly as enthusiastic as you might think however.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13213</LineID>
+    </Text>
+  </Values>
+</Asset>

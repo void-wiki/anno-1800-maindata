@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>140724</GUID>
+      <Name>BrightFuture</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/campaign/camp_article_medium_05.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/campaign/camp_article_medium_05.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/campaign/camp_article_big_05.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets/newspaper_article_bg/campaign/camp_article_big_05.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802630</GUID>
+      <Name>The Mountain Maw 1.1.2.1.2.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802633</Option>
+        </Item>
+        <Item>
+          <Option>802634</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202366</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_polar_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your hunters fall prey to the mountain.&lt;/b&gt; Animals' tracks sprinkle the fresh snow, but their owners are invisible, hidden in holes and burrows. The hunters are unused to such terrain. As they progress through the forest, discussing where snares could be the most efficient, the frozen ground suddenly breaks under them and a handful of sailors dives into a deep fault.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21839</LineID>
+    </Text>
+  </Values>
+</Asset>

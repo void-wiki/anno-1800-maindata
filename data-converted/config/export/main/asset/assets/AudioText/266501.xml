@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I think the sun is burned-out.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16498</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234447</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_70</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266501</GUID>
+      <Name>AT_3rdParty02_Credits_20</Name>
+    </Standard>
+  </Values>
+</Asset>

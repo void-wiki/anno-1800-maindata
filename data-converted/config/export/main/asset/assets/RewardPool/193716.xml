@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193716</GUID>
+      <Name>Culture - Nice Shaped Plants - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>114665</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114668</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114385</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111110</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,41 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269047</GUID>
+      <Name>Pool_ai02_BigBotanicalGarden</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268027</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253143</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253079</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252977</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252981</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252947</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

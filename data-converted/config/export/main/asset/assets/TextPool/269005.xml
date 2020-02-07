@@ -1,0 +1,44 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269005</GUID>
+      <Name>Pool_resident_tier2_QuestAnarchistOffered</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>260429</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260430</AudioText>
+        </Item>
+        <Item>
+          <AudioText>260435</AudioText>
+        </Item>
+        <Item>
+          <AudioText>257306</AudioText>
+        </Item>
+        <Item>
+          <AudioText>257307</AudioText>
+        </Item>
+        <Item>
+          <AudioText>255768</AudioText>
+        </Item>
+        <Item>
+          <AudioText>255767</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

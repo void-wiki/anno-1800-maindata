@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802181</GUID>
+      <Name>Selfless Deeds 1.2.2.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802183</Option>
+        </Item>
+        <Item>
+          <Option>802184</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A pricey but worthy trade.&lt;/b&gt; Trying to hide their distaste for treating children like goods, your sailors bring the kids onboard. They are in a state of shock but look physically sound.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21035</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>SessionConfig</Template>
+  <Values>
+    <Standard>
+      <GUID>180006</GUID>
+      <Name>TransitionConfig</Name>
+      <ID>TransitionConfig</ID>
+    </Standard>
+    <TransitionConfig>
+      <Session>
+        <Duration>1</Duration>
+        <BlurCurve>2</BlurCurve>
+        <MaxBlur>2</MaxBlur>
+        <TargetHeight>500</TargetHeight>
+        <FadeCurve>3</FadeCurve>
+        <Color>-14984594</Color>
+      </Session>
+      <WorldMap>
+        <Duration>1</Duration>
+        <BlurCurve>5</BlurCurve>
+        <MaxBlur>2</MaxBlur>
+        <TargetHeight>6</TargetHeight>
+        <FadeCurve>3</FadeCurve>
+        <Color>-14984594</Color>
+      </WorldMap>
+      <FadeTransitionDuration>0.6</FadeTransitionDuration>
+      <DefaultFadeColor>-15329770</DefaultFadeColor>
+    </TransitionConfig>
+  </Values>
+</Asset>

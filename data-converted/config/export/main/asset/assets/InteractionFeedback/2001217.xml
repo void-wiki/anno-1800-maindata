@@ -1,0 +1,27 @@
+<Asset>
+  <Template>InteractionFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>2001217</GUID>
+      <Name>InteractionFeedbackRepair</Name>
+      <ID>InteractionFeedbackRepair</ID>
+    </Standard>
+    <InteractionFeedback>
+      <InteractionCursor>2001868</InteractionCursor>
+      <InteractionEffect>1000219</InteractionEffect>
+      <InteractionTime>3000</InteractionTime>
+      <InteractionInfolayer>2001837</InteractionInfolayer>
+      <InteractionTargetInfolayer>25000199</InteractionTargetInfolayer>
+    </InteractionFeedback>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Repairing</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14151</LineID>
+    </Text>
+  </Values>
+</Asset>

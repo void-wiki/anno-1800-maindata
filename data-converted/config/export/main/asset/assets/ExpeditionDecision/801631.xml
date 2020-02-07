@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801631</GUID>
+      <Name>Wall of Ice 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men live for such challenges,&lt;/b&gt; and scarcely need telling what to do. Leaping down from the boat, they get behind her, knotting guy ropes as fast as they can. All the while the berg rumbles suggestively, but it is your quick-thinking crew who prevail. Once clear of the ice field, the crew will be able to treat their wounds.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17965</LineID>
+    </Text>
+  </Values>
+</Asset>

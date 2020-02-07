@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sadly your Uncle has indeed alerted me to some floating liabilities. I fear you have no choice but to settle them, if I am to grant you your crown shipping licence.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16469</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234421</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>8</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266725</GUID>
+      <Name>AT_3rdParty02_movie03_04</Name>
+    </Standard>
+  </Values>
+</Asset>

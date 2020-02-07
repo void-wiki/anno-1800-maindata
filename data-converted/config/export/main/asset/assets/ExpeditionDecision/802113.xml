@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802113</GUID>
+      <Name>Sea Still 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Don't leave! We've been here for ten years!"&lt;/b&gt; Reads the message in semaphore. There is so little wind here, it takes an eternity to pass the stranded boat by. A drift of shame. Your crew, yellow-bellied as this sea of sargassum, will need a lot to lift them out of the doldrums.</Text>
+          <Status>Exported</Status>
+          <ExportCount>9</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21500</LineID>
+    </Text>
+  </Values>
+</Asset>

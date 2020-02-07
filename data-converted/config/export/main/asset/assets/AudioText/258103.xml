@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I decide when my vigil ends.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9580</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220376</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258103</GUID>
+      <Name>AT_Advisor02_WelcomeToPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

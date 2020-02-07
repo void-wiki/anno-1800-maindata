@@ -1,0 +1,29 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>205110</GUID>
+      <Name>st_daytime_period</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>220323992</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>205106</Choice>
+        </Item>
+        <Item>
+          <Choice>205107</Choice>
+        </Item>
+        <Item>
+          <Choice>205108</Choice>
+        </Item>
+        <Item>
+          <Choice>205109</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

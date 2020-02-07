@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Our balloon has a leak!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33652</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245297</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116547</GUID>
+      <Name>AT_DLC03_Airship_ShipDamaged_02</Name>
+    </Standard>
+  </Values>
+</Asset>

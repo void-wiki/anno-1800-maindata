@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802778</GUID>
+      <Name>Jolly Roger 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802780</Option>
+        </Item>
+        <Item>
+          <Option>802781</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men are resolute following the speech.&lt;/b&gt; Your acting lieutenant points his sabre to the sky, defying the heavens themselves. "If I, born with gas light, heated water, a silver spoon in mouth..." with each fresh admission a cheer goes up, "If I, can enjoy chopping through these mangy pirates, then you lot will bloody well be in heaven!" There is a raucous cheer as the men prepare for orders. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21534</LineID>
+    </Text>
+  </Values>
+</Asset>

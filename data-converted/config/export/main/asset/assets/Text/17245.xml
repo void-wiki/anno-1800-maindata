@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>17245</GUID>
+      <Name>Notification TradePlayerInititator</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You have a trade agreement with [Participants ParticipantName([NotificationContext Value(TargetParticipant) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22596</LineID>
+    </Text>
+  </Values>
+</Asset>

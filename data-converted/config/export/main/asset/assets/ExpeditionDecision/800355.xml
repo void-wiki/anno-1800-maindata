@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800355</GUID>
+      <Name>The Minefield 1.3.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The documents in the ship archives at first seem exact.&lt;/b&gt; A map is discovered showing the mine positions. It is only once a course has been plotted, and your ship is sailing at speed on its supposedly safe track, that a magnificent bang has the whole crew scrambling. The speed seemed to soften the mine's devastation, but there is still a nasty hole in the hull. A second glance at the map shows it is rather out-of-date. The reckless blunder has cost no lives, but the significant task of repair greatly wearies the crew.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5838</LineID>
+    </Text>
+  </Values>
+</Asset>

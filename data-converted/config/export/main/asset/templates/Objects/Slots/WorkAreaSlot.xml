@@ -1,0 +1,21 @@
+<Template>
+  <Name>WorkAreaSlot</Name>
+  <Properties>
+    <Standard />
+    <Object />
+    <Mesh />
+    <Slot />
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Text />
+    <MinimapToken />
+    <RandomMapObject />
+    <Building>
+      <Destructable>0</Destructable>
+    </Building>
+    <BezierPath>
+      <StartPositionDummyName>bezierpathstart</StartPositionDummyName>
+    </BezierPath>
+  </Properties>
+</Template>

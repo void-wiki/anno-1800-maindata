@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>802082</GUID>
+      <Name>Test Expedition - Cut or Lift</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_diseases.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>3597</ExpeditionDescription>
+      <ExpeditionRegion>SouthAmerica</ExpeditionRegion>
+      <EventList>
+        <Item>
+          <EventOrEventPool>802083</EventOrEventPool>
+        </Item>
+      </EventList>
+      <FillThreats>1</FillThreats>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

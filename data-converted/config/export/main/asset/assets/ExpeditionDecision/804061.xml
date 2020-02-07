@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804061</GUID>
+      <Name>Narrow channels 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804061</Option>
+        </Item>
+        <Item>
+          <Option>804074</Option>
+        </Item>
+        <Item>
+          <Option>804077</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The sea on the West coast of Labrador island is covered in ice. There is almost no space for navigation through really narrow channels and the water movements have pushed glaciers several meters up. The channels might really lead to open water again or end up getting the ship stuck in the ice. The captain is unsure what would be the best course to take.</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

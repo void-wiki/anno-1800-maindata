@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Old Nate oftentimes looks to have just come down to breakfast.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3955</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212039</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>253732</GUID>
+      <Name>AT_ParticipantDiscovered_OldNate</Name>
+    </Standard>
+  </Values>
+</Asset>

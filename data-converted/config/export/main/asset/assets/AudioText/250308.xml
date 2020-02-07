@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Beryl O'Mara clings to society like a leech. Her chief of police should arrest her where she stands.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1602</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211596</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250308</GUID>
+      <Name>AT_ai07_IdleMessageGossip_OMara</Name>
+    </Standard>
+  </Values>
+</Asset>

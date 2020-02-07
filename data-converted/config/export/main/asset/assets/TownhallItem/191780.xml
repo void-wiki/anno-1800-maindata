@@ -1,0 +1,72 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191780</GUID>
+      <Name>Small Reduction of Alcohol Taxes</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_comon.png</IconFilename>
+      <InfoDescription>19481</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Decreased Alcohol Tax Bylaws</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26980</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <ExclusiveGroup>AlcoholTaxesAct</ExclusiveGroup>
+      <TradePrice>20500</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010214</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>-1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010216</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>-1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>120016</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>-1</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010257</Product>
+          <AdditionalHappiness>2</AdditionalHappiness>
+          <AdditionalMoney>-1</AdditionalMoney>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

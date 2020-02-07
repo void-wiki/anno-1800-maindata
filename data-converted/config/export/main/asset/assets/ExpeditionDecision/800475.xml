@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800475</GUID>
+      <Name>Love Island 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190434</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The king is delighted to see his children wed.&lt;/b&gt; Delicate understanding of local custom and a smattering of their language allow a message of true love to be conveyed. The king evidently thinks his children in good hands. Feasting, and to the amusement of all, terrible dancing, follows. For his departing children, it shall be the longest, most fascinating honeymoon. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5595</LineID>
+    </Text>
+  </Values>
+</Asset>

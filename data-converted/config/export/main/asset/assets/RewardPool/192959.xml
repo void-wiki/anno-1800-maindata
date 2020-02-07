@@ -1,0 +1,45 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192959</GUID>
+      <Name>Consumables - Epic</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192630</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192635</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192640</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192645</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192650</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192655</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192660</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192665</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192670</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192675</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

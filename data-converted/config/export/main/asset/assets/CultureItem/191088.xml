@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191088</GUID>
+      <Name>tiger</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_tiger.png</IconFilename>
+      <InfoDescription>13711</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tiger</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26465</LineID>
+    </Text>
+    <Item>
+      <Rarity>Rare</Rarity>
+      <ItemSet>191120</ItemSet>
+      <TradePrice>93800</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101810</ChangeModule>
+      <ForcedFeedbackVariation>1000184</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>30</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203418</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>SouthernEurope</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>12884</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

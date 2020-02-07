@@ -1,0 +1,28 @@
+<Asset>
+  <Template>TestData_Simple</Template>
+  <Values>
+    <Standard>
+      <GUID>1000007</GUID>
+      <Name>SequenceAsset</Name>
+      <ID>SequenceAsset</ID>
+    </Standard>
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>test_data/graphics/placeholder/placeholder.cfg</Filename>
+        </Item>
+      </Variations>
+      <AddToObjectGroups>0</AddToObjectGroups>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+      <SetCompanyLogo>1</SetCompanyLogo>
+    </Mesh>
+    <DynamicVariation>
+      <DynamicVariationType>SequenceAsset</DynamicVariationType>
+    </DynamicVariation>
+    <SoundEmitter />
+    <FeedbackController />
+  </Values>
+</Asset>

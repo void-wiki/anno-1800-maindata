@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191167</GUID>
+      <Name>Possessions U</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190527</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190530</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190553</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

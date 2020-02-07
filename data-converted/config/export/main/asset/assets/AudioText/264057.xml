@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My straw hat caught fire!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13675</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231055</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264057</GUID>
+      <Name>AT_res_tier06_IncidentFire3</Name>
+    </Standard>
+  </Values>
+</Asset>

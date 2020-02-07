@@ -1,0 +1,53 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191147</GUID>
+      <Name>prehistorical</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_museum_neanderthaler.png</IconFilename>
+      <InfoDescription>15768</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190779</GUID>
+        </Item>
+        <Item>
+          <GUID>190865</GUID>
+        </Item>
+        <Item>
+          <GUID>190872</GUID>
+        </Item>
+        <Item>
+          <GUID>1010558</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Origin of Mankind Exhibition</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21929</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>5</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <BuildingUpgrade>
+      <WorkforceAmountUpgrade>
+        <Value>-5</Value>
+        <Percental>1</Percental>
+      </WorkforceAmountUpgrade>
+    </BuildingUpgrade>
+    <Buff />
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800476</GUID>
+      <Name>Love Island 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800478</Option>
+        </Item>
+        <Item>
+          <Option>800479</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226682</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Something is lost in translation.&lt;/b&gt; Yet the king smiles benignly, as if your crew still have a chance to prove themselves. "He suggests a great hunt," says your diplomat, "or else we may await arcane judgment." His eyes flick to a copper oracle on a dais.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5596</LineID>
+    </Text>
+  </Values>
+</Asset>

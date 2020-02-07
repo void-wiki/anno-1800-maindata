@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802920</GUID>
+      <Name>The Frozen Chasm 1.1.1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The rescue team finds their comrades famished and wasted.&lt;/b&gt; Your hunters couldn't find sufficient game in the avaricious mountain, and the diet of molten ice aggravated the wounded's condition past what they could humanely endure. The sailors stagger back to the ship, leaving two dead behind.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22118</LineID>
+    </Text>
+  </Values>
+</Asset>

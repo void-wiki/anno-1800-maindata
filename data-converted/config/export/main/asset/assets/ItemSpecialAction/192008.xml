@@ -1,0 +1,56 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>192008</GUID>
+      <Name>Grand Exporter Trading Tax Bill</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_tax_bill_2.png</IconFilename>
+      <InfoDescription>19591</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect />
+    <ItemAction>
+      <ItemAction>NOACTION</ItemAction>
+      <ActionScope>Self</ActionScope>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>9000000</ActionDuration>
+      <ActiveBuff>192010</ActiveBuff>
+      <ActionDescription>22097</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <ExclusiveGroup>TradingTaxBill</ExclusiveGroup>
+      <TradePrice>10000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Grand Trading Charter</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26870</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19591</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <CraftableItem />
+  </Values>
+</Asset>

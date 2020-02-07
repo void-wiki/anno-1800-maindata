@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ObjectmenuKontor</Template>
+  <Values>
+    <Standard>
+      <GUID>25000231</GUID>
+      <Name>ObjectmenuKontorScene</Name>
+      <ID>ObjectmenuKontorScene</ID>
+    </Standard>
+    <ObjectmenuKontorScene>
+      <Regions>
+        <Colony01>
+          <ProductFilter>502029</ProductFilter>
+        </Colony01>
+        <Arctic>
+          <ProductFilter>502030</ProductFilter>
+        </Arctic>
+      </Regions>
+      <CartSlotInfotip>501206</CartSlotInfotip>
+      <CargoSlotBuffer>200</CargoSlotBuffer>
+      <CargoSlotCreationSteps>50</CargoSlotCreationSteps>
+    </ObjectmenuKontorScene>
+  </Values>
+</Asset>

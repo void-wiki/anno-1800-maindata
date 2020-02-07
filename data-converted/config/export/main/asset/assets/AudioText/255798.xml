@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I can't work if I'm sick!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7971</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>218005</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255798</GUID>
+      <Name>AT_res_tier02_IncidentIllness2</Name>
+    </Standard>
+  </Values>
+</Asset>

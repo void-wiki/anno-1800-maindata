@@ -1,0 +1,36 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>153142</GUID>
+      <Name>CQ252_TakeRevenge_MoveTrigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionMoveObject</Template>
+            <Values>
+              <Action />
+              <ObjectFilter>
+                <ObjectGUID>101400</ObjectGUID>
+              </ObjectFilter>
+              <ObjectTargetFilter>
+                <TargetLabel>CQO252_TakeRevenge_MovePoint</TargetLabel>
+              </ObjectTargetFilter>
+              <ActionMoveObject />
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

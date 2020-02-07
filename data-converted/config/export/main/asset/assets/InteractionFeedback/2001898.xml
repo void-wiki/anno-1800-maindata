@@ -1,0 +1,25 @@
+<Asset>
+  <Template>InteractionFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>2001898</GUID>
+      <Name>DragObjectDetachedFeedback</Name>
+    </Standard>
+    <InteractionFeedback>
+      <InteractionCursor>2001879</InteractionCursor>
+      <InteractionEffect>1000219</InteractionEffect>
+      <InteractionTime>3000</InteractionTime>
+      <InteractionInfolayer>2001837</InteractionInfolayer>
+    </InteractionFeedback>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Detaching object</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4270</LineID>
+    </Text>
+  </Values>
+</Asset>

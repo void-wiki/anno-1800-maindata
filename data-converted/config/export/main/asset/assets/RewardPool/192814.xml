@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192814</GUID>
+      <Name>Characters - Artur - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192213</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192214</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192215</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192216</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

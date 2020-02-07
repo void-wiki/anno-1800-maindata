@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your standing suffers an about-face.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7744</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217971</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255357</GUID>
+      <Name>AT_ai09_NPCReputationAutocorrectDecrease8</Name>
+    </Standard>
+  </Values>
+</Asset>

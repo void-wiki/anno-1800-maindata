@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802241</GUID>
+      <Name>The Deeper You Go 1.1.1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailors manage to flee.&lt;/b&gt; Too occupied by the convulsing mass of the fallen officer, the reptiles do not notice the furtive crew as it tip toes past them and escapes through the first tunnel available. The explorers emerge outside of the temple, stunned by their survival.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21068</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,34 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>190110</GUID>
+      <Name>RealExistingSocialism</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness_house_big.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190041</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Real Existing Socialism</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <BuildingUpgrade />
+    <Buff />
+    <PopulationUpgrade>
+      <ResidentsUpgrade>
+        <Value>10</Value>
+      </ResidentsUpgrade>
+    </PopulationUpgrade>
+    <ResidenceUpgrade />
+    <IncidentInfectableUpgrade />
+    <CultureUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700013</GUID>
+      <Name>AP - TuQ Missing Rail Connection</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010371</Asset>
+        </Item>
+        <Item>
+          <Asset>100516</Asset>
+        </Item>
+        <Item>
+          <Asset>100517</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>TuQ "First Settlement" - Buildings</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

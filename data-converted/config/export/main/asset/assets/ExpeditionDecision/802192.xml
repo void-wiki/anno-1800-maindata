@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802192</GUID>
+      <Name>Selfless Deeds 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802140</Option>
+        </Item>
+        <Item>
+          <Option>802201</Option>
+        </Item>
+        <Item>
+          <Option>802143</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Poor use of your firepower.&lt;/b&gt; The sailors handling the cannons and the weapons themselves are equally important: not as well-oiled as the machinery, the crew fails to adjust the quantity of powder used, firing the artillery to its maximum range without any kind of aiming. They might as well have lit signal fires. The bandits' boat makes a brutal turn and retreats in the bayou at full speed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21052</LineID>
+    </Text>
+  </Values>
+</Asset>

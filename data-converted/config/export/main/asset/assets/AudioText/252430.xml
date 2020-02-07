@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'm running low on sarcophaguys!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9416</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220558</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252430</GUID>
+      <Name>AT_ai06_NpcDeclaresWarOnPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

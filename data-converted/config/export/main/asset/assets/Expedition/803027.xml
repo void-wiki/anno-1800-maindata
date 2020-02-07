@@ -1,0 +1,57 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>803027</GUID>
+      <Name>Campaign Finding Isabel</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/expeditions/icon_expedition_generic_01.png</IconFilename>
+      <ID>DiscoverColonyCampaignExpedition</ID>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11634</ExpeditionName>
+      <ExpeditionDescription>12919</ExpeditionDescription>
+      <ExpeditionRegion>SouthAmerica</ExpeditionRegion>
+      <IsMandatory>1</IsMandatory>
+      <EventList>
+        <Item>
+          <EventOrEventPool>802852</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>802944</EventOrEventPool>
+        </Item>
+      </EventList>
+      <Threats>
+        <Item>
+          <Threat>800033</Threat>
+        </Item>
+        <Item>
+          <Threat>800004</Threat>
+        </Item>
+        <Item>
+          <Threat>800030</Threat>
+        </Item>
+      </Threats>
+      <FillThreats>1</FillThreats>
+      <MinPauseBetweenEvents>300000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>300000</MaxPauseBetweenEvents>
+      <MoraleAmounts>
+        <AddHigh>15</AddHigh>
+        <AddMedium>10</AddMedium>
+        <AddFew>5</AddFew>
+        <RemoveFew>-5</RemoveFew>
+        <RemoveMedium>-10</RemoveMedium>
+        <RemoveHigh>-15</RemoveHigh>
+        <RemoveVeryHigh>-100</RemoveVeryHigh>
+        <RemoveContinue>-10</RemoveContinue>
+      </MoraleAmounts>
+      <ExpeditionTargetSession>180025</ExpeditionTargetSession>
+      <WorldMapCardBG>500876</WorldMapCardBG>
+      <ExpeditionWorldMapAsset>data/graphics/ui/3d_objects/expedition_marker/expedition_marker_02.cfg</ExpeditionWorldMapAsset>
+      <Reward>801585</Reward>
+      <LastEventNeedsContinue>0</LastEventNeedsContinue>
+      <BackgroundVideo>data/ui/video/expedition/campaign_01_a.bk2</BackgroundVideo>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192908</GUID>
+      <Name>Eli Epic Specialists</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192974</ItemLink>
+          <Weight>12</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193304</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

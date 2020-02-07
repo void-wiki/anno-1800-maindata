@@ -1,0 +1,71 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>111127</GUID>
+      <Name>Arsonist</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_anarchist_401.png</IconFilename>
+      <InfoDescription>111156</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Arsonist</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31324</LineID>
+    </Text>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <ExclusiveGroup>AutoAttackProjectile</ExclusiveGroup>
+      <TradePrice>33400</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <AttackRangeUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </AttackRangeUpgrade>
+      <BaseDamageUpgrade>
+        <Value>-35</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <UseProjectile>111134</UseProjectile>
+      <LineOfSightRangeUpgrade>
+        <Value>-45</Value>
+        <Percental>1</Percental>
+      </LineOfSightRangeUpgrade>
+      <AttackSpeedUpgrade>100</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <TradeShipUpgrade />
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

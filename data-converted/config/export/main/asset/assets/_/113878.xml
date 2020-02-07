@@ -1,0 +1,74 @@
+<Asset>
+  <BaseAssetGUID>100440</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>113878</GUID>
+      <Name>Queen_01Flagship Sunken Treasure Multiplayer</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/vehicle/queen_ship/queen_ship.cfg</Filename>
+        </Item>
+      </Variations>
+      <DefaultParticipant>Third_party_01_Queen</DefaultParticipant>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>HMS Victory Lap</Text>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32910</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+    </CommandQueue>
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>7000</MaximumHitPoints>
+      <SelfHealPausedTimeIfAttacked>0</SelfHealPausedTimeIfAttacked>
+    </Attackable>
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+        <Fire>
+          <Infectable>0</Infectable>
+        </Fire>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

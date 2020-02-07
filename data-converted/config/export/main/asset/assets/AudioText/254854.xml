@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I don't like to let people in.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6150</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216576</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254854</GUID>
+      <Name>AT_ai04_NPCReputationAutocorrectDecrease7</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>La Corona may be our enemy, not the Queen, but to trust empire for us is impossible.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12282</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230106</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261066</GUID>
+      <Name>AT_3rdParty05_IdleMessageGossip_Queen</Name>
+    </Standard>
+  </Values>
+</Asset>

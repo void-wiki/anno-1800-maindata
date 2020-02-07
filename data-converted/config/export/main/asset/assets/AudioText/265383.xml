@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A trade agreement between competitors has ended.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15975</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234088</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265383</GUID>
+      <Name>AT_Narrator_Diplomacy_Information_DiplomacyTradeAgreementOtherParticipantCancelled</Name>
+    </Standard>
+  </Values>
+</Asset>

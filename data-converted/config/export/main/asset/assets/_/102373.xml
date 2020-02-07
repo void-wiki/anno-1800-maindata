@@ -1,0 +1,57 @@
+<Asset>
+  <BaseAssetGUID>100443</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>102373</GUID>
+      <Name>QO Monitor (Military) Escort</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking>
+      <ForwardSpeed>3.3</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LineID>21430</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>3500</MaximumHitPoints>
+    </Attackable>
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

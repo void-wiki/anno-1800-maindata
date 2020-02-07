@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802304</GUID>
+      <Name>Release the Kraken 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The hulking cephalopod is no match for the torpedo!&lt;/b&gt; The self-propelled projectile requires no special effort to dispatch, and yet its underwater prowess is indisputible. It crashes into the kraken with a wallop that sends a profusion of octo-bits frothing to the surface. The crew are delighted to discover the flesh is cooked yet not at all rubbery.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20936</LineID>
+    </Text>
+  </Values>
+</Asset>

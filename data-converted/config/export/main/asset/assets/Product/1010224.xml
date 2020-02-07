@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010224</GUID>
+      <Name>steam motors</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_steam_machine.png</IconFilename>
+      <InfoDescription>11762</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Steam Motors</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5365</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11703</ProductCategory>
+      <BasePrice>8785</BasePrice>
+      <CivLevel>4</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <FluffText>12850</FluffText>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

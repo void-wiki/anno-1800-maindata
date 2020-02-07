@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I hope I didn't hear that correctly about my friend.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16885</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233299</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265556</GUID>
+      <Name>AT_ai04_NegativeInteraction_NPCsFriend1</Name>
+    </Standard>
+  </Values>
+</Asset>

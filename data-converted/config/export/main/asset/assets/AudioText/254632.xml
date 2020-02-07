@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are ready to secure a foothold in the north! Find the last— most recent— encampment of my dear John's expedition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8058</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230204</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254632</GUID>
+      <Name>AT_LadyFaithful_Phase1_ExpeditionEvent_StarterAudio</Name>
+    </Standard>
+  </Values>
+</Asset>

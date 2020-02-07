@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The fire left ruins behind.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15782</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234116</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265192</GUID>
+      <Name>AT_Narrator_Incidents_Warning_EndDestructionFire</Name>
+    </Standard>
+  </Values>
+</Asset>

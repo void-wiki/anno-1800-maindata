@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245602</GUID>
+      <Name>Play_AI_EXPLO_IFV_J10ST_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1377</DurationMinimum>
+          <DurationMaximum>1600</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1135</DurationMinimum>
+          <DurationMaximum>2239</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1222</DurationMinimum>
+          <DurationMaximum>1439</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1354</DurationMinimum>
+          <DurationMaximum>1570</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2722817551</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

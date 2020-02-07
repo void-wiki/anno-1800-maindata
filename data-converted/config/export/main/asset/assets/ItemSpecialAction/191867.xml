@@ -1,0 +1,61 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191867</GUID>
+      <Name>Abus Gun</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_howitzer_1.png</IconFilename>
+      <InfoDescription>19710</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <UseEffectAsset>1</UseEffectAsset>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>102338</Projectile>
+      <BarrageCount>1</BarrageCount>
+      <ActionRadius>1</ActionRadius>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>80</ActionDistance>
+      <ActionCooldown>30000</ActionCooldown>
+      <ActionDuration>2000</ActionDuration>
+      <ActiveBuff>193241</ActiveBuff>
+      <ActionDescription>20071</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>76500</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Abus Gun</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26801</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>30</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19710</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <CraftableItem />
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>117081</GUID>
+      <Name>LostCargo_PickupObjective</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pick up the lost cargo: [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34977</LineID>
+    </Text>
+  </Values>
+</Asset>

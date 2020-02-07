@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>So you build ships like your father? Well, the Queen is in the direst need of ships.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16397</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234360</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266199</GUID>
+      <Name>3rdParty02_BuildRoyalNavy_01</Name>
+    </Standard>
+  </Values>
+</Asset>

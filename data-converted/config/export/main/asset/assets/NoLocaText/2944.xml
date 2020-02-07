@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NoLocaText</Template>
+  <Values>
+    <Standard>
+      <GUID>2944</GUID>
+      <Name>DestroyValue</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Conditions QuestCondition CurrentAmount] / [Conditions QuestCondition Amount]</Text>
+          <Status>Localization</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

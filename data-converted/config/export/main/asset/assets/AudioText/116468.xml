@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>John? My John? </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33746</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245126</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Positve</Mood>
+      <DialogSequence>3.4</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>116468</GUID>
+      <Name>AT_DLC03_LadyFaithful_ArcticMovie03_01</Name>
+    </Standard>
+  </Values>
+</Asset>

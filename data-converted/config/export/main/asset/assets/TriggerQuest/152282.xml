@@ -1,0 +1,40 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>152282</GUID>
+      <Name>Resettle Quest - ShipInRange Trigger - Anne Harlow</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionShipsInRange</Template>
+        <Values>
+          <Condition />
+          <ConditionShipsInRange>
+            <Range>35</Range>
+            <TargetObject_sir>100681</TargetObject_sir>
+            <CheckSpecificTargetOwner>1</CheckSpecificTargetOwner>
+            <TargetOwnerParticipant>Third_party_03_Pirate_Harlow</TargetOwnerParticipant>
+            <CheckSpecificShipOwner>1</CheckSpecificShipOwner>
+            <ShipOwnerParticipant>General_Enemy</ShipOwnerParticipant>
+          </ConditionShipsInRange>
+          <SessionFilter />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>152280</Quest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

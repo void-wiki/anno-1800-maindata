@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803572</GUID>
+      <Name>The Coral Island 1.2.3.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803573</Option>
+        </Item>
+        <Item>
+          <Option>803577</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Sadly, the absence of belief comes through in those words.&lt;/b&gt; No-one seems to think repairing the ship on the remaining rations is possible. "We're all going to die here!" they say, "unless someone stronger takes charge!" You'd better offer a more democratic process, or else keep them fed, or there's going to be trouble.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33046</LineID>
+    </Text>
+  </Values>
+</Asset>

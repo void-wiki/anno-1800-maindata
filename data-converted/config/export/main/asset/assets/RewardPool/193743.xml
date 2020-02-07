@@ -1,0 +1,36 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193743</GUID>
+      <Name>Wild Grass C/U</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>114539</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114661</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114542</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111112</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114657</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114670</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111116</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

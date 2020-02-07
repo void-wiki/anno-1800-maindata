@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>17234</GUID>
+      <Name>Notification AllianceOtherParticipant</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])] and [Participants ParticipantName([NotificationContext Value(TargetParticipant) Int])] have agreed an alliance.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22592</LineID>
+    </Text>
+  </Values>
+</Asset>

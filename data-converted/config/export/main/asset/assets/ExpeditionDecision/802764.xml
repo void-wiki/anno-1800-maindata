@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802764</GUID>
+      <Name>Jolly Roger 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802766</Option>
+        </Item>
+        <Item>
+          <Option>802767</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You make the best of a poor position.&lt;/b&gt; At the last moment your maverick navigators cut inside the approaching pirates, who had been hoping to board you. Your crew have the breathing space now to act!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21518</LineID>
+    </Text>
+  </Values>
+</Asset>

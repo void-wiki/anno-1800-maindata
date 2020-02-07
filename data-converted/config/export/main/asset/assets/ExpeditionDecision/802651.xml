@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802651</GUID>
+      <Name>Blood Oil Tears and Sweat 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802652</Option>
+        </Item>
+        <Item>
+          <Option>802653</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A loss of time.&lt;/b&gt;Pressed by the emergency of the situation and unable to get their thoughts in order, your lieutenants cannot properly convince the merchants. As they begin to lose their nerve, the ship swerves and slams into the shore. Whistling winds invade the perforated hull and water seeps in their wake.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21857</LineID>
+    </Text>
+  </Values>
+</Asset>

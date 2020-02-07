@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>500168</GUID>
+      <Name>Working Conditions Productivity Description Mapping</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-0.5</ValidFrom>
+          <Asset>2648</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-0.3333333</ValidFrom>
+          <Asset>2647</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-0.1666666</ValidFrom>
+          <Asset>2652</Asset>
+        </Item>
+        <Item>
+          <Asset>2646</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.005</ValidFrom>
+          <Asset>2651</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.1666667</ValidFrom>
+          <Asset>2645</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.333333</ValidFrom>
+          <Asset>2644</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

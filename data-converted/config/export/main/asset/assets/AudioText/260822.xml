@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Electricity is essential!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11329</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222900</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260822</GUID>
+      <Name>AT_res_tier04_ProductionHasNoElectricity1</Name>
+    </Standard>
+  </Values>
+</Asset>

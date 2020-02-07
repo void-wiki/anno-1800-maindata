@@ -1,0 +1,38 @@
+<Asset>
+  <Template>FishShoal</Template>
+  <Values>
+    <Standard>
+      <GUID>1003231</GUID>
+      <Name>FishShoal SpermWhale</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rich_sea.png</IconFilename>
+      <ID>Herd_Water_3</ID>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_spermwhale.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <FishShoal>
+      <ShoalRadius>5</ShoalRadius>
+      <MinVelocity>0.5</MinVelocity>
+      <MaxVelocity>0.7</MaxVelocity>
+      <WaterLayer>DeepWater</WaterLayer>
+      <AttackableByFishes>1</AttackableByFishes>
+    </FishShoal>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/spermwhale/spearmwhale.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Colony01</AutoSpawn_Regions>
+      <UnitCountMax>5</UnitCountMax>
+      <AutoSpawn_RelativeProbability>60</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>202314</Animal_AudioLoop>
+    </AnimalBase>
+    <SoundEmitter />
+  </Values>
+</Asset>

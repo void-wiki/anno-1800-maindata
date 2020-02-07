@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>142392</GUID>
+      <Name>CampaignSEPicture_ProsperityGivenToPlayer</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/properity_given_to_goode_siblings.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/properity_given_to_goode_siblings.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets16/newspaper/special_edition/properity_given_to_goode_siblings.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets16/newspaper/special_edition/properity_given_to_goode_siblings.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

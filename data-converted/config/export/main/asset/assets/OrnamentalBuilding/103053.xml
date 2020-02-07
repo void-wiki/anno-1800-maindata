@@ -1,0 +1,91 @@
+<Asset>
+  <Template>OrnamentalBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>103053</GUID>
+      <Name>ai_3x3_hedged_statue</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Gazebo Plaza</Text>
+          <Status>GameWriting</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+    </Blocking>
+    <Building>
+      <BuildingCategoryName>11149</BuildingCategoryName>
+      <BuildModeRandomRotation>90</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+    </Building>
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>500</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Selection>
+      <Selectable>0</Selectable>
+      <Colors>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/ornamental/park_props_system/park_props_system_3x3/park_props_system_3x3_05.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>OrnamentalBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </DestroySounds>
+    </SoundEmitter>
+    <Locked />
+    <FeedbackController />
+    <Ornament>
+      <OrnamentUnit>9</OrnamentUnit>
+      <OrnamentDescritpion>17726</OrnamentDescritpion>
+    </Ornament>
+    <AmbientMoodProvider />
+    <Pausable />
+    <Infolayer />
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stay attuned. This is the perfect time for our enemy to recover.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17403</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232691</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267556</GUID>
+      <Name>advisor02_Ch4Ph1_Additional_12</Name>
+    </Standard>
+  </Values>
+</Asset>

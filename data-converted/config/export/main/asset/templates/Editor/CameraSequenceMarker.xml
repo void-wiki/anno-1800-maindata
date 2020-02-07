@@ -1,0 +1,16 @@
+<Template>
+  <Name>CameraSequenceMarker</Name>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/constraint_dummy.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+  </Properties>
+</Template>

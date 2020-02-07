@@ -1,0 +1,46 @@
+<Asset>
+  <Template>UplayProductPromotion</Template>
+  <Values>
+    <Standard>
+      <GUID>410031</GUID>
+      <Name>DLC Promo - 03 - The Passage</Name>
+    </Standard>
+    <UplayProductPromotion>
+      <DLCName>112194</DLCName>
+      <DLCType>22153</DLCType>
+      <MoodImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_promo_main_nwpassage.png</MoodImage>
+      <DLCCardImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_card_nwpassage.png</DLCCardImage>
+      <DLCCardImageExtra>data/ui/2kimages/main/assets16/dlc/bgr_dlc_card_nwpassage_owned_dis.png</DLCCardImageExtra>
+      <DLCSelectionDescription>23122</DLCSelectionDescription>
+      <DLCSelectionImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_promo_main_nwpassage.png</DLCSelectionImage>
+      <DetailedDescription>116835</DetailedDescription>
+      <DLCIcon>data/ui/2kimages/main/3dicons/icon_dlc_passage_128.png</DLCIcon>
+      <DLCCardFluffText>116835</DLCCardFluffText>
+      <ContentHints>
+        <Item>
+          <ContentIcon>data/ui/2kimages/main/icons/icon_map.png</ContentIcon>
+          <ContentHeadline>113830</ContentHeadline>
+          <ContentSubline>116836</ContentSubline>
+        </Item>
+        <Item>
+          <ContentIcon>data/ui/2kimages/main/icons/icon_questmain.png</ContentIcon>
+          <ContentHeadline>113942</ContentHeadline>
+          <ContentSubline>116837</ContentSubline>
+        </Item>
+        <Item>
+          <ContentIcon>data/ui/2kimages/main/icons/icon_airship_hangar2d.png</ContentIcon>
+          <ContentHeadline>116840</ContentHeadline>
+          <ContentSubline>116839</ContentSubline>
+        </Item>
+        <Item>
+          <ContentIcon>data/ui/2kimages/main/icons/icon_electric_works_2d.png</ContentIcon>
+          <ContentHeadline>117548</ContentHeadline>
+          <ContentSubline>116838</ContentSubline>
+        </Item>
+      </ContentHints>
+      <IsReleased>1</IsReleased>
+      <ProductAsset>410042</ProductAsset>
+      <UplayShopProductID>14195</UplayShopProductID>
+    </UplayProductPromotion>
+  </Values>
+</Asset>

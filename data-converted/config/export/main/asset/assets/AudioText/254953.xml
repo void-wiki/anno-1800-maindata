@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hard to fit you into my vision.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6296</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216388</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254953</GUID>
+      <Name>AT_ai06_NPCReputationAutocorrectDecrease7</Name>
+    </Standard>
+  </Values>
+</Asset>

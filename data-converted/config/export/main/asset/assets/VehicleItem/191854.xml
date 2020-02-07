@@ -1,0 +1,56 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191854</GUID>
+      <Name>Paixhans Gun</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_cannon_2.png</IconFilename>
+      <InfoDescription>19705</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hans Gun</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26796</LineID>
+    </Text>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ExclusiveGroup>Canons</ExclusiveGroup>
+      <TradePrice>243000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>40</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>19705</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <BaseDamageUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <AccuracyUpgrade>
+        <Value>35</Value>
+        <Percental>1</Percental>
+      </AccuracyUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

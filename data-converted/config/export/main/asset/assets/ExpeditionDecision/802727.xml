@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802727</GUID>
+      <Name>Bottles Found in the Sea 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190423</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Relentless faith guides the most deserving.&lt;/b&gt; In the spilled gut of the shark, your navigators see the shapes of islands, your doctors see the patterns of life forms, your boatswain sees the promise of rewards. Driven by an inner force beyond simple greed, the crew sails past coral reefs and insidious currents and finds the island on which the castaways had been waiting for rescue. Their relief is glorious and their captain promises to serve your crew!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21704</LineID>
+    </Text>
+  </Values>
+</Asset>

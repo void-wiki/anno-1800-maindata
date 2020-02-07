@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Be not afeard of splinters!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8041</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217371</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255727</GUID>
+      <Name>AT_captain_EventCallToAction_Crafting3</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,42 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191443</GUID>
+      <Name>all military buildings</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Defense Turrets</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21935</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010522</GUID>
+        </Item>
+        <Item>
+          <GUID>1010523</GUID>
+        </Item>
+        <Item>
+          <GUID>1010524</GUID>
+        </Item>
+        <Item>
+          <GUID>101563</GUID>
+        </Item>
+        <Item>
+          <GUID>101570</GUID>
+        </Item>
+        <Item>
+          <GUID>101571</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

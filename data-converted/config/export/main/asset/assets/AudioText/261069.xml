@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Madame Kahina is the best. Quick, clean, and never draws attention. How does she do it?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12288</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230109</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261069</GUID>
+      <Name>AT_3rdParty05_IdleMessageGossip_Kahina</Name>
+    </Standard>
+  </Values>
+</Asset>

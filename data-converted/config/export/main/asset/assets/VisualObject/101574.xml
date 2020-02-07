@@ -1,0 +1,46 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101574</GUID>
+      <Name>ship_static</Name>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/small_feedback_ship_02/small_feedback_ship_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/small_feedback_ship_01/small_feedback_ship_01_a.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/small_feedback_ship_01/small_feedback_ship_01_b.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/small_feedback_ship_01/small_feedback_ship_01_c.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/small_feedback_ship_01/small_feedback_ship_01_d.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/courier_ship/courier_ship.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/tourism_ship_02/tourism_ship_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/fishing_boat/fishing_boat.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/workforce_ship/workforce_ship_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

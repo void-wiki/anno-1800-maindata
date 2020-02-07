@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800533</GUID>
+      <Name>The Singular Case of the Midshipman 1.2.1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800526</Option>
+        </Item>
+        <Item>
+          <Option>800528</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;These are not god-fearing sailors,&lt;/b&gt; and hear the priest's weak plea for the killer to come forward with impassive expressions. Perhaps there is a different approach.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5903</LineID>
+    </Text>
+  </Values>
+</Asset>

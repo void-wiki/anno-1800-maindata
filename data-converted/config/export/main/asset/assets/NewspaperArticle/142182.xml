@@ -1,0 +1,31 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>142182</GUID>
+      <Name>PlayerLevelReached</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>16554</Headline>
+      <Subline>16555</Subline>
+      <Image>142214</Image>
+      <Category>Progress</Category>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

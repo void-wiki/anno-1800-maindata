@@ -1,0 +1,72 @@
+<Asset>
+  <Template>Profile_3rdParty_NoTrader_NoProperty3rdParty</Template>
+  <Values>
+    <Standard>
+      <GUID>175</GUID>
+      <Name>campaign_character03_pyrophorian_silver</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_pyrophorianleader.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pyrphorian Admiral</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25926</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/campaign_portrait_pyrophorianleader.png</ProfilePicture>
+      <Portrait>101301</Portrait>
+      <CompanyIcon>501262</CompanyIcon>
+      <ProfileType>ThirdParty</ProfileType>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <ParticipantID>Campaign_character_03_pyrophorian_silver</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestStarterObject>101249</QuestStarterObject>
+      <DefaultColor>Color9</DefaultColor>
+      <CreateModeMeta>AutoCreate_OnlyCampaign</CreateModeMeta>
+      <CreateModeSession>AutoCreate_OnlyCampaign</CreateModeSession>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers />
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Campaign_character_03_pyrophorian_silver</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>154</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Diplomacy>
+      <InitialRelation>
+        <Exceptions>
+          <Item>
+            <Treaties>War</Treaties>
+          </Item>
+          <Item>
+            <Participant>Third_enemy_01_Grant</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+        </Exceptions>
+        <DefaultTreatiesUndiscovered>War</DefaultTreatiesUndiscovered>
+      </InitialRelation>
+      <IsDiscoveredOnStart>1</IsDiscoveredOnStart>
+      <DiscoverAnyoneOnInit>1</DiscoverAnyoneOnInit>
+    </Diplomacy>
+    <MilitaryAI>
+      <StrengthLevels>
+        <Levels>
+          <Equal>
+            <Flee>0</Flee>
+          </Equal>
+        </Levels>
+      </StrengthLevels>
+      <SquadLogic>
+        <FleeStrengthRatio>0</FleeStrengthRatio>
+      </SquadLogic>
+    </MilitaryAI>
+    <Locked />
+  </Values>
+</Asset>

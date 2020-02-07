@@ -1,0 +1,26 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>141488</GUID>
+      <Name>BuildmodeUnlock</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness_castle_big.png</IconFilename>
+      <ID>FeatureBuildmode</ID>
+    </Standard>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <AutoSelfUnlock>0</AutoSelfUnlock>
+    </TriggerSetup>
+  </Values>
+</Asset>

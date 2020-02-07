@@ -1,0 +1,26 @@
+<Template>
+  <Name>SmugglerObjective</Name>
+  <Properties>
+    <ConditionQuestSmuggler>
+      <EnforceStationOrder>1</EnforceStationOrder>
+      <ShipInRangeForActivationText>15268</ShipInRangeForActivationText>
+      <TextTradingStation_NoItem>15538</TextTradingStation_NoItem>
+      <TextTradingStation>12759</TextTradingStation>
+    </ConditionQuestSmuggler>
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>15638</TextCombinedContextValue>
+    </ConditionQuestObjective>
+    <ConditionPropsSessionSettings />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ExecutionPlace>
+      <ExecutionPlaceText>12754</ExecutionPlaceText>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

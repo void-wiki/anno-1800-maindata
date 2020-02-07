@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>223619</GUID>
+      <Name>Play_AI_DRYVISIT_BASIC_0NC_00004_01VISIT_11443</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2120</DurationMinimum>
+          <DurationMaximum>2120</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1824</DurationMinimum>
+          <DurationMaximum>1824</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2384</DurationMinimum>
+          <DurationMaximum>2384</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1905</DurationMinimum>
+          <DurationMaximum>1905</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3560353010</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Life doesn't seem so wretched now. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10503</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223011</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253305</GUID>
+      <Name>AT_ai04_GenPositiveFeedback4</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You're trying to pull the wool over me ears!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2447</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212762</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251467</GUID>
+      <Name>AT_ai03_NpcDeclinesPlayerProposal5</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I cannot say. The spirits become restless when strangers enter their realm. If we stay too long, they will never let us leave.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17647</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234221</AudioAsset>
+      <DialogSequence>4</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267240</GUID>
+      <Name>AT_Inuit_EventMovie03_02</Name>
+    </Standard>
+  </Values>
+</Asset>

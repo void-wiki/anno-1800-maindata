@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Looks like I've trampled over you on my way to the top of the pile. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1854</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211495</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250642</GUID>
+      <Name>AT_ai07_NpcDefeatsPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

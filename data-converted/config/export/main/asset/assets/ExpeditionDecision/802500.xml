@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802500</GUID>
+      <Name>The Storm 1.1.2.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Too slow.&lt;/b&gt; The crew's skills are limited to classic sailing, perhaps to sailing in a bit of bad weather, but not to storms of this magnitude. Not to a ship with half its sails reefed and the other half flailing in the gale. Ignoring the urgency of the freed sails, the sailors try to maneuver the ship and manage to present its full flank to the waves. The tempest gladly takes the offering. It hurls the ship into its midst, tears both sails and men from it, and spews the remains in calmer seas.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21784</LineID>
+    </Text>
+  </Values>
+</Asset>

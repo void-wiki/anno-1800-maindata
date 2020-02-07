@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The weaponry they ask for presents a problem. I'm not even sure we have an iron lode, do we? </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17169</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233351</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266202</GUID>
+      <Name>advisor01_ExcavationAndDemolitionExpert_01</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You ran out of money!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15881</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233886</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265291</GUID>
+      <Name>AT_Narrator_Balance_Warning_EmptyCreditStock</Name>
+    </Standard>
+  </Values>
+</Asset>

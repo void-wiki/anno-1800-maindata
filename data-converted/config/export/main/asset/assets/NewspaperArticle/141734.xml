@@ -1,0 +1,34 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141734</GUID>
+      <Name>Diplomacy Alliance Other Participant</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14328</Headline>
+      <Subline>14329</Subline>
+      <Image>142167</Image>
+      <Category>Diplomacy</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <LossOnPublish>0</LossOnPublish>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

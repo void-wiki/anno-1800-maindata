@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802542</GUID>
+      <Name>The Storm 1.4.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Reckless!&lt;/b&gt; Attempting to face the tempest without the ship's main power source is folly, and the crew cannot handle the safety sails as well as they imagined. They try to face the waves to break their momentum, but the ship's mishandling lets it drift and offers its flanks to the tempest. When the sun pierces the clouds, it reveals a spectacle of lacerated sails, flooded supplies, and disgruntled sailors.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21822</LineID>
+    </Text>
+  </Values>
+</Asset>

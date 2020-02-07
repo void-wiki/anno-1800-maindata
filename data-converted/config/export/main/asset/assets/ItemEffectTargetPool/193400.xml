@@ -1,0 +1,42 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193400</GUID>
+      <Name>all harbour production</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Coastal Production Buildings</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32451</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010278</GUID>
+        </Item>
+        <Item>
+          <GUID>1010310</GUID>
+        </Item>
+        <Item>
+          <GUID>1010560</GUID>
+        </Item>
+        <Item>
+          <GUID>1010339</GUID>
+        </Item>
+        <Item>
+          <GUID>101262</GUID>
+        </Item>
+        <Item>
+          <GUID>101303</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

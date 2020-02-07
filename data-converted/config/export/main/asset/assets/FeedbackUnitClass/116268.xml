@@ -1,0 +1,20 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>116268</GUID>
+      <Name>Arctic Prey Bears</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>Prey</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>116267</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+      <ClassFlags>IsAnimal</ClassFlags>
+      <UseSpecialPathPlannerLayer>1</UseSpecialPathPlannerLayer>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

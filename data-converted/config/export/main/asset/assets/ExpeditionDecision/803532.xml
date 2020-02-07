@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803532</GUID>
+      <Name>The Flowers eaters 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Nightmares reveal truths.&lt;/b&gt; The paranoia of their hallucinations centres on each other— a history of indiscipline and bad blood, grudges never properly settled. The drug has liberated those who feel they have been wronged. At daybreak, one of your expedition lies drowned in the river. Officially, the influence of the sinister blue flower will likely be blamed, but others are already telling a different story.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33157</LineID>
+    </Text>
+  </Values>
+</Asset>

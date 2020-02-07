@@ -1,0 +1,178 @@
+<Asset>
+  <Template>DivingBellShip</Template>
+  <Values>
+    <Standard>
+      <GUID>112084</GUID>
+      <Name>Diving Vessel</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ships/icon_ship_diving_vessel.png</IconFilename>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/vehicle/diving_vessel/diving_vessel.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <MultiSelectable>1</MultiSelectable>
+    </Selection>
+    <Walking>
+      <ReservationLength>9</ReservationLength>
+      <ReservationWidth>5</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <TurnAroundRadius>6</TurnAroundRadius>
+      <Acceleration>1.5</Acceleration>
+      <Deceleration>2</Deceleration>
+      <TurnRadius>6</TurnRadius>
+      <TurnSpeed>60</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <TurnMovement>0</TurnMovement>
+      <LeaningMaxAngle>-10</LeaningMaxAngle>
+      <ForwardSpeed>6</ForwardSpeed>
+      <WindMinSlowdownFactor>1</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+      <CargoFullFactor>0.8</CargoFullFactor>
+      <DamageFullFactor>0.5</DamageFullFactor>
+      <MinSlowdownFactor>0.5</MinSlowdownFactor>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Salvager</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32194</LineID>
+    </Text>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+      <ShipUniqueType>DivingBellShip</ShipUniqueType>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>4000</MaximumHitPoints>
+      <AlertRange>150</AlertRange>
+      <AccuracyWidth>3</AccuracyWidth>
+      <SelfHealPerHealTick>1</SelfHealPerHealTick>
+      <SelfHealPausedTimeIfAttacked>60000</SelfHealPausedTimeIfAttacked>
+    </Attackable>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+      <StrategicMapAsset>501018</StrategicMapAsset>
+    </MinimapToken>
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>201829</Sound>
+        </Item>
+      </DestroySounds>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>201830</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <SocketCount>3</SocketCount>
+      <SocketAllocation>Ship;SteamShip;Tradeship;DivingVessel</SocketAllocation>
+      <SlotCount>6</SlotCount>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>40</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010210</Ingredient>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010221</Ingredient>
+          <Amount>25</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+    <Craftable>
+      <CraftingTime>150000</CraftingTime>
+    </Craftable>
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkTradeShip</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkSteamShip</Attribute>
+          <Amount>1</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+    <ShipMaintenance>
+      <Maintenance>0</Maintenance>
+    </ShipMaintenance>
+    <Sellable>
+      <CanBeSoldToTrader>0</CanBeSoldToTrader>
+    </Sellable>
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks>
+      <BarkMapping>
+        <Selection>
+          <AudioPool>700147</AudioPool>
+        </Selection>
+        <MoveCommand>
+          <AudioPool>700095</AudioPool>
+        </MoveCommand>
+        <EscortCommand>
+          <AudioPool>700127</AudioPool>
+        </EscortCommand>
+        <PatrolCommand>
+          <AudioPool>700126</AudioPool>
+        </PatrolCommand>
+        <SelectionDamaged>
+          <AudioPool>700125</AudioPool>
+        </SelectionDamaged>
+      </BarkMapping>
+    </SoundEmitterCommandBarks>
+    <DivingBell>
+      <MaxPickupDistance>8</MaxPickupDistance>
+    </DivingBell>
+    <ItemReplacer>
+      <ItemReplacementPools>193854</ItemReplacementPools>
+    </ItemReplacer>
+  </Values>
+</Asset>

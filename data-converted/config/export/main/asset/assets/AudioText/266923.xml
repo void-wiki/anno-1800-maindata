@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>No!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17138</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233485</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>8</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266923</GUID>
+      <Name>AT_Advisor01_movie07_02</Name>
+    </Standard>
+  </Values>
+</Asset>

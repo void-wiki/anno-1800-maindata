@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Plebs are not at liberty to joust!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1840</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211501</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250628</GUID>
+      <Name>AT_ai07_PlayerAttacksNpc4</Name>
+    </Standard>
+  </Values>
+</Asset>

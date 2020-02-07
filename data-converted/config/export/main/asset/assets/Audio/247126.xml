@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>247126</GUID>
+      <Name>wwe_sfx_bld_xmas_market_tag</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterCount>3</ClusterCount>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>247127</StopEvent>
+      <SoundEventType>SmallHerd</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>247122</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>788372751</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

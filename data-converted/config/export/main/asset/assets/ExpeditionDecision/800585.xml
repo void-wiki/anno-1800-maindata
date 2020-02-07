@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800585</GUID>
+      <Name>Lost in the Desert 1.2.4</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800591</Option>
+        </Item>
+        <Item>
+          <Option>800592</Option>
+        </Item>
+        <Item>
+          <Option>800593</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The stars utterly perplex your party.&lt;/b&gt; With romantic notions dashed, the crew look around for some landmark, but instead find a featureless wasteland. They are desperately lost. Water, food and hope are in increasingly short supply. But even in a desert, there must be a way...</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5864</LineID>
+    </Text>
+  </Values>
+</Asset>

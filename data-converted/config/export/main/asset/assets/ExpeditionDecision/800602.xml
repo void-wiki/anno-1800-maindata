@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800602</GUID>
+      <Name>Lost in the Desert 1.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You are extremely lucky to survive.&lt;/b&gt; The crew whinge and whine the whole way about scattergun strategy. After a day without shade, a fight even breaks out. But sticking to the fixed heading eventually leads, not before time, back to some kind of reality.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5877</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,41 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>117496</GUID>
+      <Name>General Workers Quest</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_units/general_workers_quest/worker_muscular_m_05.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_units/general_workers_quest/worker_muscular_m_06.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_units/general_workers_quest/worker_muscular_m_07.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_units/general_workers_quest/worker_normal_m_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_units/general_workers_quest/worker_normal_m_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_units/general_workers_quest/worker_normal_m_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_units/general_workers_quest/worker_normal_m_04.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction>
+      <UnitNightBehavior>AlwaysShow</UnitNightBehavior>
+    </DayNightReaction>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A ship was destroyed!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15810</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233890</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265213</GUID>
+      <Name>AT_Narrator_Military_Warning_ShipLost</Name>
+    </Standard>
+  </Values>
+</Asset>

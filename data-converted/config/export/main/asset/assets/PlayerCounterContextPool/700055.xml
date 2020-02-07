@@ -1,0 +1,41 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700055</GUID>
+      <Name>AP - TQ Residences All</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010343</Asset>
+        </Item>
+        <Item>
+          <Asset>1010344</Asset>
+        </Item>
+        <Item>
+          <Asset>1010345</Asset>
+        </Item>
+        <Item>
+          <Asset>1010346</Asset>
+        </Item>
+        <Item>
+          <Asset>1010347</Asset>
+        </Item>
+        <Item>
+          <Asset>101254</Asset>
+        </Item>
+        <Item>
+          <Asset>101255</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>TQ Residences ALL</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

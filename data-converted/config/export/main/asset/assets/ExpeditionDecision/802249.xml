@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802249</GUID>
+      <Name>The Deeper You Go 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The patterns of the mechanism do not escape your hunters' probing.&lt;/b&gt; Upon close and cool-headed inspection, one the sand-spewing hourglass engravings appears to be protruding from the wall. The sailors smash the button, forcing the wall to open and reveal an exit. They immediately run away from the sand and the temple itself.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21075</LineID>
+    </Text>
+  </Values>
+</Asset>

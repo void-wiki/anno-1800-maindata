@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192627</GUID>
+      <Name>Consumables - Incidents Fighting - Common</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191907</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191913</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191919</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

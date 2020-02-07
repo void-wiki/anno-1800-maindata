@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800163</GUID>
+      <Name>Calico's Rogues Snare a Merchant Ship 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>1010249</Reward>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Reward>190495</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"I knew this would come in handy someday,"&lt;/b&gt; the old cove mutters, as he unravels the flag of Calico Roberts. "They wouldn't dare tear their master's cloth!" As your ship steers into view with the new flag, the pirates do nothing. They fully believe you serve the same master! Your guns fire and surrender is quick. The merchants are grateful and offer considerable compensation!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5518</LineID>
+    </Text>
+  </Values>
+</Asset>

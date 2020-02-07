@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803901</GUID>
+      <Name>Blizzard 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <InsertEvent>804147</InsertEvent>
+      <Conclusion>114638</Conclusion>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_blizzard.png</Sketch>
+        <SketchPosX>1196</SketchPosX>
+        <SketchPosY>210</SketchPosY>
+        <SketchSizeX>121</SketchSizeX>
+        <SketchSizeY>98</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men cannot keep their footing&lt;/b&gt; for the ice on deck, and the hard rocking of the ship gives them further excuse to lower their swords. They can only watch as, under the pull of the sails, the mainmast cracks open like grissini, the upper section cartwheeling out to sea, a tangle of rigging behind it. The crew are all accounted-for, but&lt;b&gt; the damage to the ship&lt;/b&gt; is probably irreparable. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34870</LineID>
+    </Text>
+  </Values>
+</Asset>

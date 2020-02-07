@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Battlecruiser Ready!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19704</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238093</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268423</GUID>
+      <Name>AT_MurmurMale4_Battlecruiser_SelectShip01</Name>
+    </Standard>
+  </Values>
+</Asset>

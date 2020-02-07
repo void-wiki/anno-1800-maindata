@@ -1,0 +1,49 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>111143</GUID>
+      <Name>HowitzerProjectile_FakeInfo</Name>
+      <InfoDescription>22104</InfoDescription>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>1</ShotHeight>
+      <ShotAngle>15</ShotAngle>
+      <ProjectileSpeed>50</ProjectileSpeed>
+      <DamageType>Cannon</DamageType>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_howitzer_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>1</InnerDamageRadius>
+      <InnerDamage>250</InnerDamage>
+      <DebrisForceY>0</DebrisForceY>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>1</OuterDamageRadius>
+      <MinimumDamage>1300</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>235853</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235852</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident />
+  </Values>
+</Asset>

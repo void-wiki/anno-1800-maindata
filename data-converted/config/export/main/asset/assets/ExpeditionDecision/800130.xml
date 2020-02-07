@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800130</GUID>
+      <Name>Temple of the Monkey God 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226555</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The men seem slightly uneasy.&lt;/b&gt; Still they charge, and the locals do disperse, clearing the way to the waterfall. But long after the water is refilled, and the ship has sailed, the crew have nightmares in which vengeful monkeys bedevil them for defiling their sacred temple.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5633</LineID>
+    </Text>
+  </Values>
+</Asset>

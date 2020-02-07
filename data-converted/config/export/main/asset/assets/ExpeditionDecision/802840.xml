@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802840</GUID>
+      <Name>Taken In Broken Out 1.2.1.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew refuses to comply.&lt;/b&gt; The insistence of your first mate cannot convince the sailors of sacrificing themselves for the good of the crew, and the heated debate that follows is cut short by the judges. If your crew cannot decide who to send into forced labour, all of them will go! Forced to submit, the crew invests its strength into one month of meaningless tasks and incessant bickering among themselves.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22035</LineID>
+    </Text>
+  </Values>
+</Asset>

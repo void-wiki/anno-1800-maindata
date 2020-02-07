@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204769</GUID>
+      <Name>Play_AI_ARTUR_LVH4Z_JCQRT_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3068</DurationMinimum>
+          <DurationMaximum>5300</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>2854</DurationMinimum>
+          <DurationMaximum>5332</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>3125</DurationMinimum>
+          <DurationMaximum>6741</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3087</DurationMinimum>
+          <DurationMaximum>4959</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>70061834</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

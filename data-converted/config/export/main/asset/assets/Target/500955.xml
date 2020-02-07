@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>ITEM</ActionID>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer;NotSelf;Guardable</Flags>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>CheckProperty;NotSelf;NotActionBlocked</Flags>
+          <Property>Draggable</Property>
+        </TargetMatch1>
+      </Matches>
+      <MouseCursorTarget>2001298</MouseCursorTarget>
+      <MouseCursorDisable>2001207</MouseCursorDisable>
+      <MouseCursorMode>2001038</MouseCursorMode>
+    </Target>
+    <Standard>
+      <GUID>500955</GUID>
+      <Name>ExternalBuffAllies</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

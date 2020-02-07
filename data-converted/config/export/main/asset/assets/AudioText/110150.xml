@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Say a few words to the people while you're here. Tell them what a lie the government is.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30390</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204239</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>110150</GUID>
+      <Name>AT_ai10_WelcomeToPlayer8</Name>
+    </Standard>
+  </Values>
+</Asset>

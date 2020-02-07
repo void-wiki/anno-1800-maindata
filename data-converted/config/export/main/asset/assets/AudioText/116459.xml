@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What does it take for a captain to abandon his ship? To cross the ice by foot?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33737</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245140</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>116459</GUID>
+      <Name>AT_DLC03_LadyFaithful_ArcticQ106_01</Name>
+    </Standard>
+  </Values>
+</Asset>

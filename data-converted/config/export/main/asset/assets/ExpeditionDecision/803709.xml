@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803709</GUID>
+      <Name>In Dangerous territory 1.3.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The people of the forest will do all they can to protect it.&lt;/b&gt; As your expedition flees, the poison darts that have stuck in their backs begin to take effect. There is nothing to do but leave the unlucky ones contorting in agony.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33010</LineID>
+    </Text>
+  </Values>
+</Asset>

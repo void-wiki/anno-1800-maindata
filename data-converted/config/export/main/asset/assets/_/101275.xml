@@ -1,0 +1,41 @@
+<Asset>
+  <BaseAssetGUID>1010463</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101275</GUID>
+      <Name>institution_colony01_02 (Fire Department)</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/public/institution_colony01_02/institution_colony01_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LineID>8501</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <IncidentResolver />
+    <Maintenance />
+    <Attackable />
+    <Pausable />
+    <IncidentInfluencer />
+    <DelayedConstruction />
+    <AmbientMoodProvider />
+    <Culture />
+    <QuestObject />
+  </Values>
+</Asset>

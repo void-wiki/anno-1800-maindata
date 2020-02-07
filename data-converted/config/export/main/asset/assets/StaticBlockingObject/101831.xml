@@ -1,0 +1,25 @@
+<Asset>
+  <Template>StaticBlockingObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101831</GUID>
+      <Name>CampaignBuildWaterBlocker</Name>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/placeholder/cube_16x16_waterblocker.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Blocking>
+      <HidePropsRadius>-16</HidePropsRadius>
+      <DeletePropsRadius>-16</DeletePropsRadius>
+    </Blocking>
+  </Values>
+</Asset>

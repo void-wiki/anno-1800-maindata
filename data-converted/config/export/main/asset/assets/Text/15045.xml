@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15045</GUID>
+      <Name>CQ400_Confrontation_ObjectiveText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deliver:&lt;br/&gt;[AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text] from your Trading Post to Edvard</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18370</LineID>
+    </Text>
+  </Values>
+</Asset>

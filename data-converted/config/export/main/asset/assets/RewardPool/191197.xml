@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>191197</GUID>
+      <Name>Possessions R</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190536</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190539</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190541</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190282</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115472</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

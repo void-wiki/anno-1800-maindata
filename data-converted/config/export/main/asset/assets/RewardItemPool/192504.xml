@@ -1,0 +1,29 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192504</GUID>
+      <Name>2nd_party_06 (Artur Gasparov) Common Reward Pool</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/monument_event_rewards/icon_reward_1.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193095</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193125</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193706</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193697</ItemLink>
+          <Weight>11</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

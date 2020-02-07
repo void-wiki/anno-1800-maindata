@@ -1,0 +1,23 @@
+<Asset>
+  <Template>IncidentResolverUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>100580</GUID>
+      <Name>Resolver Unit Fire Special</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_fire_brigade_2d.png</IconFilename>
+    </Standard>
+    <IncidentResolverUnit>
+      <FeedbackUnitClass>140718</FeedbackUnitClass>
+    </IncidentResolverUnit>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Volunteer Fire Brigade</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14847</LineID>
+    </Text>
+  </Values>
+</Asset>

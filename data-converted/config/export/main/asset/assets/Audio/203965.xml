@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203965</GUID>
+      <Name>wwe_sfx_env_spot_metal_creak_big_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>15</MaxAttenuation>
+      <StopEvent>203966</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2191178980</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,51 @@
+<Asset>
+  <Template>FestivalBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>142449</GUID>
+      <Name>BeerFestivalProductionBuff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_beer_2.png</IconFilename>
+      <InfoDescription>20111</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Beer Festival</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28706</LineID>
+    </Text>
+    <PopulationUpgrade />
+    <ResidenceUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>192566</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Buff />
+    <CultureUpgrade />
+    <KontorUpgrade />
+    <AttackableUpgrade />
+    <AttackerUpgrade />
+    <BuildingUpgrade>
+      <WorkforceAmountUpgrade>
+        <Value>-25</Value>
+        <Percental>1</Percental>
+      </WorkforceAmountUpgrade>
+    </BuildingUpgrade>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <VisitorHarborUpgrade />
+    <VisitorUpgrade />
+  </Values>
+</Asset>

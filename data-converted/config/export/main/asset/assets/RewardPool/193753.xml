@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193753</GUID>
+      <Name>Lotus E</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>111106</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112611</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111108</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111109</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

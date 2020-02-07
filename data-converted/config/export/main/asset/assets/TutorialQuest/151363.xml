@@ -1,0 +1,161 @@
+<Asset>
+  <Template>TutorialQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>151363</GUID>
+      <Name>TQ_NoFarmFieldsSheep</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_general_module_01.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationText>14840</NotificationText>
+              <NotificationPriority>500</NotificationPriority>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>268105</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </StarterMessage>
+      <AbortedAutomaticallyMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </AbortedAutomaticallyMessage>
+      <StoryText>14841</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <LatencyTimer>15000</LatencyTimer>
+      <KeepCheckingPreconditionsWhenRunning>1</KeepCheckingPreconditionsWhenRunning>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionActiveSession</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionActiveSession>
+                      <ActiveSession>180039</ActiveSession>
+                      <SessionBlacklist>1</SessionBlacklist>
+                    </ConditionActiveSession>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>StreetConnection</PlayerCounter>
+                      <Context>1010267</Context>
+                      <CounterAmount>1</CounterAmount>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionModuleCount</Template>
+                  <Values>
+                    <Condition />
+                    <ObjectFilter>
+                      <ObjectGUID>1010267</ObjectGUID>
+                    </ObjectFilter>
+                    <ConditionModuleCount>
+                      <ModuleComparison>LessThan</ModuleComparison>
+                      <ModulePercentage>0.1</ModulePercentage>
+                    </ConditionModuleCount>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pens and Barnyards</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22070</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>ModuleBuildingEfficiencyObjective</Template>
+            <Values>
+              <ConditionQuestModuleBuildingEfficiency>
+                <ModuleBuildingAsset>1010267</ModuleBuildingAsset>
+                <Efficiency>0.5</Efficiency>
+              </ConditionQuestModuleBuildingEfficiency>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                <TextCombinedContextValue>14842</TextCombinedContextValue>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionPropsNegatable />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>FakeQuestObjective</Template>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionQuestFakeObjective>
+                <QuestTrackerEntries>
+                  <Item>
+                    <CombinedText>14842</CombinedText>
+                    <QuestTrackerIcon>data/ui/2kimages/main/3dicons/icon_wool.png</QuestTrackerIcon>
+                  </Item>
+                </QuestTrackerEntries>
+              </ConditionQuestFakeObjective>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>MutuallyExclusive</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional />
+    <QuestDynamicPriority />
+  </Values>
+</Asset>

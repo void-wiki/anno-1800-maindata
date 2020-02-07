@@ -1,0 +1,34 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400090</GUID>
+      <Name>Action_Achievement_On a Knife Edge</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Exploration</AchievementCategory>
+      <AchievementTitle>15574</AchievementTitle>
+      <AchievementDescription>15575</AchievementDescription>
+      <AchievementUPlayID>41</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionExpeditionFinished</Template>
+        <Values>
+          <Condition />
+          <ConditionExpeditionFinished>
+            <Morale>15</Morale>
+            <MoraleComparisonOperator>LessThan</MoraleComparisonOperator>
+          </ConditionExpeditionFinished>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>108</UplayActionID>
+      <UplayXP>250</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

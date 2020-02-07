@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>269019</GUID>
+      <Name>Pool_enemy02_WorkingConditionsLow</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258407</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258409</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258412</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258420</AudioText>
+        </Item>
+        <Item>
+          <AudioText>265626</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

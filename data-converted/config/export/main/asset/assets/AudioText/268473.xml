@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Enemy sighted!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19754</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238153</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268473</GUID>
+      <Name>AT_MurmurMale5_Flagship_ShipAttack03</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>202315</GUID>
+      <Name>wwc_sfx_anm_herds_whale_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>12</MaxAttenuation>
+      <StopEvent>202318</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3134089318</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

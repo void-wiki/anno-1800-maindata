@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>202274</GUID>
+      <Name>wwe_sfx_bld_mining_cart_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>70</MaxAttenuation>
+      <StopEvent>202275</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3067948010</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

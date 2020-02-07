@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151820</GUID>
+      <Name>CQ162_PeoplesFood_MoveObject_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionMoveObject</Template>
+            <Values>
+              <Action />
+              <ObjectFilter>
+                <ObjectGUID>102238</ObjectGUID>
+                <CheckParticipantID>1</CheckParticipantID>
+                <ObjectParticipantID>Third_enemy_01_Grant</ObjectParticipantID>
+              </ObjectFilter>
+              <ObjectTargetFilter>
+                <TargetLabel>player_kontor</TargetLabel>
+              </ObjectTargetFilter>
+              <ActionMoveObject />
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192815</GUID>
+      <Name>Characters - Qing - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192217</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192219</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192220</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192221</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

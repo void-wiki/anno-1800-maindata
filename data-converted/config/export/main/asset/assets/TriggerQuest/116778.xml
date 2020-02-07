@@ -1,0 +1,77 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>116778</GUID>
+      <Name>Trigger SeeIcebreakers</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Active</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>114159</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>94</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>116788</NotificationText>
+                      <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+                      <RestrictedToSessionOrRegions>
+                        <Item>
+                          <SessionOrRegion>180045</SessionOrRegion>
+                        </Item>
+                      </RestrictedToSessionOrRegions>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>116461</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionShipsInRange</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionShipsInRange>
+                      <Range>50</Range>
+                      <TargetObject_sir>100998</TargetObject_sir>
+                      <CheckSpecificShipOwner>1</CheckSpecificShipOwner>
+                    </ConditionShipsInRange>
+                    <SessionFilter />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

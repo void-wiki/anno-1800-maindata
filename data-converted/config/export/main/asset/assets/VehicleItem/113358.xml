@@ -1,0 +1,75 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>113358</GUID>
+      <Name>Wyville Thomson, the chief scientist in marine zoology</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_archaeologist_801.png</IconFilename>
+      <InfoDescription>113304</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Orvette Charles, Of The Royal Society of Oceanographers.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32419</LineID>
+    </Text>
+    <Item>
+      <Allocation>DivingVessel</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>950000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Hunting</Attribute>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>113304</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <Locked>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade>
+      <RarityWeightUpgrade>
+        <Rare>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Rare>
+        <Epic>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Epic>
+        <Legendary>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Legendary>
+      </RarityWeightUpgrade>
+      <AllocationWeightUpgrade>
+        <Zoo>
+          <AdditionalWeight>30</AdditionalWeight>
+        </Zoo>
+      </AllocationWeightUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

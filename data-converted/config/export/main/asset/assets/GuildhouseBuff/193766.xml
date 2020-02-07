@@ -1,0 +1,46 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193766</GUID>
+      <Name>subalpine flora eu</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_rocky_mountain_fir.png</IconFilename>
+      <InfoDescription>22339</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010558</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Subalpine Garden</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33512</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+      <AddedFertility>1010581</AddedFertility>
+    </FactoryUpgrade>
+    <BuildingUpgrade />
+    <Buff>
+      <PossibleFluffTexts>
+        <Item>
+          <FluffText>22408</FluffText>
+        </Item>
+      </PossibleFluffTexts>
+    </Buff>
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

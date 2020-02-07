@@ -1,0 +1,22 @@
+<Template>
+  <Name>QuestObject</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <MeshPlacement>OnWater</MeshPlacement>
+    </Mesh>
+    <Selection />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Text />
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <Collectable />
+    <FeedbackController>
+      <UseMeshRenderFlags>1</UseMeshRenderFlags>
+    </FeedbackController>
+  </Properties>
+</Template>

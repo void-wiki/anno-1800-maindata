@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We auditioned this Wibblesock for Her Majesty's fifteenth birthday, sadly the rabbit didn't survive the hat.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1226</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212183</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>250614</GUID>
+      <Name>AT_3rdParty02_IdleMessageGossip_Wibblesock</Name>
+    </Standard>
+  </Values>
+</Asset>

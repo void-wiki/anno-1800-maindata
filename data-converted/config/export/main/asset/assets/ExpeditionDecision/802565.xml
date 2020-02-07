@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802565</GUID>
+      <Name>Apostasy 1.8.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The diplomat makes things worse.&lt;/b&gt;&lt;br/&gt;"When it is a question of money, everyone is of the same religion!"&lt;br/&gt;A line of argument both insulting, and untrue, since the clergymen aboard only stand to receive a small church stipend for their efforts. "Faithless lot! We do not do this for greed as you so plainly do!" Needless to say, the tensions that a few careful words might so easily have relieved, now threaten to sabotage your expedition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21572</LineID>
+    </Text>
+  </Values>
+</Asset>

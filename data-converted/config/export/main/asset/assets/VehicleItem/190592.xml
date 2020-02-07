@@ -1,0 +1,35 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190592</GUID>
+      <Name>ShipAccuracyItem</Name>
+      <IconFilename>data/ui/2kimages/main/icons/ship_info/icon_accuracy.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Spyglass</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>1000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute />
+    <AttackerUpgrade>
+      <AccuracyUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </AccuracyUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

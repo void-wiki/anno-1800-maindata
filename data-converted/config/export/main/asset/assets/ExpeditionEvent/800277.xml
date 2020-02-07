@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800277</GUID>
+      <Name>The Ghost Ship</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Ghost Ship</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5529</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800028</EventThreat>
+      <StartDecision>800254</StartDecision>
+      <EventMusicChoice>226703</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/stranger_things_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202359</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

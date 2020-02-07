@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Her Majesty's finest!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1195</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212189</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250546</GUID>
+      <Name>AT_3rdParty02_PlayerSelectsNpcShip1</Name>
+    </Standard>
+  </Values>
+</Asset>

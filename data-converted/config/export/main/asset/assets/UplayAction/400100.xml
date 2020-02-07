@@ -1,0 +1,32 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400100</GUID>
+      <Name>Action_Achievement_Thank you Mr Scrooge</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>ThirdParty</AchievementCategory>
+      <AchievementTitle>15593</AchievementTitle>
+      <AchievementDescription>15594</AchievementDescription>
+      <AchievementUPlayID>78</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Common</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>115</UplayActionID>
+      <UplayXP>250</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

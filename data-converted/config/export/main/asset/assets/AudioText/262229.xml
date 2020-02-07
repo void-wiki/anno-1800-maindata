@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Are you ready to follow the ship?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13241</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229514</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>262229</GUID>
+      <Name>AT_Advisor02_StartFollowShip1</Name>
+    </Standard>
+  </Values>
+</Asset>

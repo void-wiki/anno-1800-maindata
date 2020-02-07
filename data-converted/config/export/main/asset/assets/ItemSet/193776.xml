@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>193776</GUID>
+      <Name>frozen</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_museum_mammoth.png</IconFilename>
+      <InfoDescription>22679</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <SetBuff>193777</SetBuff>
+      <BuffScope>Area</BuffScope>
+      <DLCMoodImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_card_nwpassage.png</DLCMoodImage>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>ICEBOUND</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36155</LineID>
+    </Text>
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

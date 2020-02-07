@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803396</GUID>
+      <Name>Isla de los Muertos 1.1.1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190476</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The mighty lid topples off revealing a sensational treasure!&lt;/b&gt; Your party have shown remarkable strength, and now delight in having cheated the wretched pirate Barragán and his followers in death— "no rest for the wicked!" the captain chuckles, though the adage may just as well apply to his own crew. "Gather what ye may and let us leave this foetid boneyard behind."</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31823</LineID>
+    </Text>
+  </Values>
+</Asset>

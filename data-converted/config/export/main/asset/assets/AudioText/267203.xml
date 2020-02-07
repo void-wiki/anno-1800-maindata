@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Are you decent and courageous enough to join this sole woman's cause? Worry not! Your combined efforts will be generously recompensed!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17554</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233673</AudioAsset>
+      <Mood>Positve</Mood>
+      <DialogSequence>4</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267203</GUID>
+      <Name>AT_LadyFaithful_EventMovie01_04</Name>
+    </Standard>
+  </Values>
+</Asset>

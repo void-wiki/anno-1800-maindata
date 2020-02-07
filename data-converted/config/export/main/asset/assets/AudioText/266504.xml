@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Oh horror! Oh pain! / Who came up with this drunken idea!?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16501</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234450</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_83</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266504</GUID>
+      <Name>AT_3rdParty02_Credits_23</Name>
+    </Standard>
+  </Values>
+</Asset>

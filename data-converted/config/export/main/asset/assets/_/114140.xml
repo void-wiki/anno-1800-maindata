@@ -1,0 +1,86 @@
+<Asset>
+  <BaseAssetGUID>100441</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>114140</GUID>
+      <Name>Arctic Clipper (Trade) with Starting Materials</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35475</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting />
+    <Collector />
+    <Attackable />
+    <MinimapToken />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>238315</Sound>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>TradeShip</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </DestroySounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <InitSlotItems>
+        <Item>
+          <Item>1010196</Item>
+          <StackSize>50</StackSize>
+        </Item>
+        <Item>
+          <Item>1010218</Item>
+          <StackSize>50</StackSize>
+        </Item>
+        <Item>
+          <Item>1010226</Item>
+          <StackSize>50</StackSize>
+        </Item>
+      </InitSlotItems>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

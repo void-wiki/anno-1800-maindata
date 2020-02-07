@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268726</GUID>
+      <Name>Pool_advisor_02_LighthouseClickPrologue</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>266389</AudioText>
+        </Item>
+        <Item>
+          <AudioText>266390</AudioText>
+        </Item>
+        <Item>
+          <AudioText>266392</AudioText>
+        </Item>
+        <Item>
+          <AudioText>266401</AudioText>
+        </Item>
+        <Item>
+          <AudioText>266402</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

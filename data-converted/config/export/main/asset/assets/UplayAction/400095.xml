@@ -1,0 +1,61 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400095</GUID>
+      <Name>Action_Achievement_What's That Smell</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Military</AchievementCategory>
+      <AchievementTitle>15585</AchievementTitle>
+      <AchievementDescription>15586</AchievementDescription>
+      <AchievementUPlayID>63</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionBurningObject</Template>
+        <Values>
+          <Condition />
+          <ConditionBurningObject>
+            <BurningObjects>
+              <Item>
+                <BurningObjectGUID>101121</BurningObjectGUID>
+              </Item>
+              <Item>
+                <BurningObjectGUID>100437</BurningObjectGUID>
+              </Item>
+              <Item>
+                <BurningObjectGUID>100438</BurningObjectGUID>
+              </Item>
+              <Item>
+                <BurningObjectGUID>100439</BurningObjectGUID>
+              </Item>
+              <Item>
+                <BurningObjectGUID>100440</BurningObjectGUID>
+              </Item>
+              <Item>
+                <BurningObjectGUID>100441</BurningObjectGUID>
+              </Item>
+              <Item>
+                <BurningObjectGUID>101373</BurningObjectGUID>
+              </Item>
+              <Item>
+                <BurningObjectGUID>100591</BurningObjectGUID>
+              </Item>
+              <Item>
+                <BurningObjectGUID>101960</BurningObjectGUID>
+              </Item>
+            </BurningObjects>
+          </ConditionBurningObject>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>112</UplayActionID>
+      <UplayXP>100</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

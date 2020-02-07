@@ -1,0 +1,36 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140699</GUID>
+      <Name>SoapSupplyVeryBad</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>3350</Headline>
+      <Subline>3351</Subline>
+      <Image>142105</Image>
+      <Category>Satisfaction</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <RecoveryByInterval>50</RecoveryByInterval>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <ArticleEffect>NeedConsumption</ArticleEffect>
+      <EffectValue>10</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

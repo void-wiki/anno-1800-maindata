@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501204</GUID>
+      <Name>TradeRouteError</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501363</IconAsset>
+            <FilterType>TradeRouteError</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>15169</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

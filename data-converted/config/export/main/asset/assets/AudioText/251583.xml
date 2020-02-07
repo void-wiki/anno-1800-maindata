@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You're brave coming to me, but go on then…</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2535</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212515</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251583</GUID>
+      <Name>AT_ai03_NpcAcceptsAlliance2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802047</GUID>
+      <Name>The Mutiny 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The threat of mutiny is gone, for now.&lt;/b&gt; The negotiations begin well, but ultimately remain unresolved, with the first mate too stubborn to make compromises for his inferiors, and the mutineers seemingly unable to see the bigger picture. After a long and tiresome debate, the mutineers agree to disagree, and grudgingly begin taking orders again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21577</LineID>
+    </Text>
+  </Values>
+</Asset>

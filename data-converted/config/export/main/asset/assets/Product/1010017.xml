@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010017</GUID>
+      <Name>Money</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resource_money_4.png</IconFilename>
+      <ID>ProductMoney</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Coins</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14965</LineID>
+    </Text>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <Product>
+      <CanBeNegative>1</CanBeNegative>
+    </Product>
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

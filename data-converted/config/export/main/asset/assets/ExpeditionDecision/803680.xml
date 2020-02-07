@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803680</GUID>
+      <Name>Devil snare 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803657</Option>
+        </Item>
+        <Item>
+          <Option>803678</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your representatives don't approach it in the right way,&lt;/b&gt; "We heard screaming, and demand to know the cause!" These people see no reason why they should have to explain themselves to you, and produce a document with a royal seal granting immunity from such unwanted attention. &lt;b&gt;Your leadership feel embarassed and  undermined.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34372</LineID>
+    </Text>
+  </Values>
+</Asset>

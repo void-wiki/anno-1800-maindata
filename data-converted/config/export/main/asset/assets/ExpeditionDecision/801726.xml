@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801726</GUID>
+      <Name>The Investigation 1.1.2.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801728</Option>
+        </Item>
+        <Item>
+          <Option>801731</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;He sighs deeply and rolls his eyes.&lt;/b&gt; "If you can't convince me, good luck convincing them to stop what they have begun," he says, gesturing at a decrepit-looking warehouse at the end of the quay. Then he disappears without so much as a farewell. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21155</LineID>
+    </Text>
+  </Values>
+</Asset>

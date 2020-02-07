@@ -1,0 +1,36 @@
+<Asset>
+  <Template>SessionModerate</Template>
+  <Values>
+    <Standard>
+      <GUID>180014</GUID>
+      <Name>Campaign Prologue Test</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness.png</IconFilename>
+      <ID>SessionPrologue</ID>
+    </Standard>
+    <Session>
+      <Region>5000001</Region>
+      <MapTemplate>141381</MapTemplate>
+      <CameraLoopSequence1>11</CameraLoopSequence1>
+      <CameraLoopSequence2>10</CameraLoopSequence2>
+      <AllowAdvancedCameraSettings>1</AllowAdvancedCameraSettings>
+      <SpawnStartShipAndKontor>0</SpawnStartShipAndKontor>
+      <ShipTransferEnabled>0</ShipTransferEnabled>
+      <WorldMapCardBackground>500876</WorldMapCardBackground>
+      <WorldMapAsset>data/graphics/ui/3d_objects/world_map/clickable_expedition_02.cfg</WorldMapAsset>
+    </Session>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tropical Paradise</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30277</LineID>
+    </Text>
+    <Locked />
+    <WorldMapSound>
+      <UIClickEvent>9818389</UIClickEvent>
+    </WorldMapSound>
+  </Values>
+</Asset>

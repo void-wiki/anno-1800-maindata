@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204746</GUID>
+      <Name>Play_AI_ARTUR_DAC_NPA_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2494</DurationMinimum>
+          <DurationMaximum>3345</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>2628</DurationMinimum>
+          <DurationMaximum>3087</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>2507</DurationMinimum>
+          <DurationMaximum>3237</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2590</DurationMinimum>
+          <DurationMaximum>3524</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>192236305</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

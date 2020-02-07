@@ -1,0 +1,87 @@
+<Asset>
+  <BaseAssetGUID>100440</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>102427</GUID>
+      <Name>Royal Liner - For Sale</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ships/icon_royal_liner.png</IconFilename>
+      <InfoDescription>22027</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>WarShip</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/campaign/vehicle/queen_ship/queen_ship.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Royal Ship-of-the-line</Text>
+        </English>
+      </LocaText>
+      <LineID>21909</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting />
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>5000</MaximumHitPoints>
+    </Attackable>
+    <Attacker>
+      <BaseDamage>650</BaseDamage>
+    </Attacker>
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable>
+      <Baseprice>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>WarShip</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>100000</Amount>
+        </Item>
+      </Baseprice>
+    </Sellable>
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

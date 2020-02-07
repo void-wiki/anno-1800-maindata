@@ -1,0 +1,74 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>193396</GUID>
+      <Name>TestSonar</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_wifi.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Test Sonar</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>DivingVessel</Allocation>
+      <Rarity>Epic</Rarity>
+      <HasAction>1</HasAction>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>SONARPING</ItemAction>
+      <ActionCooldown>10000</ActionCooldown>
+      <ActionDuration>4249000</ActionDuration>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <ExpeditionAttribute />
+    <SpecialAction>
+      <Delay>5000</Delay>
+      <SonarDetector>
+        <Item>
+          <Range>10000</Range>
+          <MaxDetectedUnits>100</MaxDetectedUnits>
+          <InnerRange>30</InnerRange>
+          <ScanColor>-3388161</ScanColor>
+          <LineDist>5</LineDist>
+          <LineStrength>2</LineStrength>
+          <DetectionEffect>data/dlc01/graphics/effects/particles/sonar_radar/sonar_wave_01.cfg</DetectionEffect>
+          <InnerDetectionEffect>data/dlc01/graphics/effects/particles/sonar_radar/diving_spot_detected_01.cfg</InnerDetectionEffect>
+          <DetectionRangeEffects>
+            <Item>
+              <DetectionEffectFile>data/dlc01/graphics/effects/particles/sonar_radar/sonar_wave_01_small.cfg</DetectionEffectFile>
+              <MaxRange>50</MaxRange>
+            </Item>
+            <Item>
+              <DetectionEffectFile>data/dlc01/graphics/effects/particles/sonar_radar/sonar_wave_02_medium.cfg</DetectionEffectFile>
+              <MaxRange>75</MaxRange>
+            </Item>
+            <Item>
+              <DetectionEffectFile>data/dlc01/graphics/effects/particles/sonar_radar/sonar_wave_01.cfg</DetectionEffectFile>
+              <MaxRange>100</MaxRange>
+            </Item>
+          </DetectionRangeEffects>
+        </Item>
+        <Item>
+          <Target>QuestTreasure</Target>
+          <Range>250</Range>
+          <MaxDetectedUnits>3</MaxDetectedUnits>
+          <InnerRange>20</InnerRange>
+          <ScanColor>-2548708</ScanColor>
+          <LineDist>1.2</LineDist>
+          <LineStrength>0.4</LineStrength>
+          <DetectionEffect>data/dlc01/graphics/effects/particles/sonar_radar/sonar_wave_01.cfg</DetectionEffect>
+          <InnerDetectionEffect>data/dlc01/graphics/effects/particles/sonar_radar/mine_detected_01.cfg</InnerDetectionEffect>
+        </Item>
+      </SonarDetector>
+      <SonarRepeat>7000</SonarRepeat>
+      <SonarEffect>data/dlc01/graphics/effects/particles/sonar_radar/diving_spot_detected_01.cfg</SonarEffect>
+    </SpecialAction>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

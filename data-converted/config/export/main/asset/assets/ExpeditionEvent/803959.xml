@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803959</GUID>
+      <Name>Cracking Ice </Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Over The Ice To Huddlesome Bay</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34386</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>803934</StartDecision>
+      <EventVideo>data/ui/video/expedition/polar_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>243592</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

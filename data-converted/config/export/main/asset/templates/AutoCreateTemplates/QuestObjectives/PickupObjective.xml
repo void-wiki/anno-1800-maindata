@@ -1,0 +1,35 @@
+<Template>
+  <Name>PickupObjective</Name>
+  <Properties>
+    <ConditionQuestPickup />
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12731</TextCombinedContextValue>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500334</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <SpawnArea>
+      <MinObjectDistance>5</MinObjectDistance>
+      <MaxObjectDistance>10</MaxObjectDistance>
+      <DistanceToBorder>Mid</DistanceToBorder>
+      <DistanceToIsland>Mid</DistanceToIsland>
+    </SpawnArea>
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ExecutionPlace>
+      <ExecutionPlaceText>14033</ExecutionPlaceText>
+    </ConditionPropsExecutionPlaceSettings>
+    <ConditionPropsSessionSettings />
+  </Properties>
+</Template>

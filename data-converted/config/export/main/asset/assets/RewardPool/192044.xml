@@ -1,0 +1,25 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192044</GUID>
+      <Name>The Devil Calls Reward Pool (Parrots)</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190007</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191092</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191103</ItemLink>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

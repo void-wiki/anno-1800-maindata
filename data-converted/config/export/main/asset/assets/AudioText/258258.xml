@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My regulars report good things!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10590</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222621</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258258</GUID>
+      <Name>AT_ai05_GenPositiveFeedback4</Name>
+    </Standard>
+  </Values>
+</Asset>

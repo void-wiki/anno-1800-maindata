@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Archie Blake is a sniveller. He somehow cosied up to the Queen, and has remained an obsequious parasite ever since.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1611</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211605</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250317</GUID>
+      <Name>AT_ai07_IdleMessageGossip_Blake</Name>
+    </Standard>
+  </Values>
+</Asset>

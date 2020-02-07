@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>But of course!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1203</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212201</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250557</GUID>
+      <Name>AT_3rdParty02_GenericConfirmation2</Name>
+    </Standard>
+  </Values>
+</Asset>

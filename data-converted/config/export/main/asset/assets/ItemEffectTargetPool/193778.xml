@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193778</GUID>
+      <Name>all drinks production</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Drinks Production Buildings</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36152</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010292</GUID>
+        </Item>
+        <Item>
+          <GUID>1010294</GUID>
+        </Item>
+        <Item>
+          <GUID>100659</GUID>
+        </Item>
+        <Item>
+          <GUID>1010340</GUID>
+        </Item>
+        <Item>
+          <GUID>101252</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

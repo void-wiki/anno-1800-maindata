@@ -1,0 +1,29 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700009</GUID>
+      <Name>AP - All Production Module Buildings</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010263</Asset>
+        </Item>
+        <Item>
+          <Asset>1010269</Asset>
+        </Item>
+        <Item>
+          <Asset>1010267</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Production Module Buildings</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

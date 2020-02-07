@@ -1,0 +1,17 @@
+<Template>
+  <Name>ExpeditionObjective</Name>
+  <Properties>
+    <ConditionQuestExpedition />
+    <ConditionQuestObjective>
+      <TextCombinedContextValue>12762</TextCombinedContextValue>
+    </ConditionQuestObjective>
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </ExecutionPlace>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

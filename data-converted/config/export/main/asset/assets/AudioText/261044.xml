@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sarmento is a myth, or we'd have had her in for interrogation long ago.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12346</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229816</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261044</GUID>
+      <Name>AT_3rdParty07_IdleMessageGossip_Sarmento</Name>
+    </Standard>
+  </Values>
+</Asset>

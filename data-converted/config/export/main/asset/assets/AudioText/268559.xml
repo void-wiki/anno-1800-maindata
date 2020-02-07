@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Schooner reporting!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19806</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>237777</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268559</GUID>
+      <Name>AT_MurmurFemale1_Schooner_SelectShip01</Name>
+    </Standard>
+  </Values>
+</Asset>

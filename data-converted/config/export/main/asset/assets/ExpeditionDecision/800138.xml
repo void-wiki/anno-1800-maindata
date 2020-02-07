@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800138</GUID>
+      <Name>Temple of the Monkey God 1.2.2.2.1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226559</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Water goes without saying,&lt;/b&gt; seems to be the message from the enterprising devotees, who aren't offended the crew won't participate, but seem now to want to resume their ritual. The crew return to the ship, leaving the unanswered mysteries of the Temple of the Monkey God behind them.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5642</LineID>
+    </Text>
+  </Values>
+</Asset>

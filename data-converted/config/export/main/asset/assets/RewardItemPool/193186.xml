@@ -1,0 +1,23 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193186</GUID>
+      <Name>LaFortune Common Machines</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192703</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192708</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192713</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

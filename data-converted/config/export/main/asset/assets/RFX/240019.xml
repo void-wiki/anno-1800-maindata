@@ -1,0 +1,17 @@
+<Asset>
+  <Template>RFX</Template>
+  <Values>
+    <Standard>
+      <GUID>240019</GUID>
+      <Name>RFX_bld_production_processing_typeCluster_rfx_02</Name>
+    </Standard>
+    <RFX>
+      <RFXRadius>12</RFXRadius>
+      <HeightConfig>
+        <HeightOffsetMax>10</HeightOffsetMax>
+      </HeightConfig>
+      <TriggerRateMin>5000</TriggerRateMin>
+      <TriggerEvent>216882</TriggerEvent>
+    </RFX>
+  </Values>
+</Asset>

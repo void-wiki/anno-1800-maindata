@@ -1,0 +1,38 @@
+<Asset>
+  <Template>HarbourOfficeBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191514</GUID>
+      <Name>BlockShares</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_wifi.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190797</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stock exchange strike</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <FactoryUpgrade />
+    <BuildingUpgrade />
+    <Buff />
+    <AttackerUpgrade />
+    <VisitorHarborUpgrade />
+    <VisitorUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <KontorUpgrade>
+      <BlockHostileTakeover>1</BlockHostileTakeover>
+      <BlockBuyShare>1</BlockBuyShare>
+    </KontorUpgrade>
+    <AttackableUpgrade />
+    <PierUpgrade />
+    <CultureUpgrade />
+  </Values>
+</Asset>

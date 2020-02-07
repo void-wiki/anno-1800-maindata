@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I can't believe you left me to look ater shop.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17379</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232719</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267206</GUID>
+      <Name>advisor02_Ch3Ph1_Additional_01</Name>
+    </Standard>
+  </Values>
+</Asset>

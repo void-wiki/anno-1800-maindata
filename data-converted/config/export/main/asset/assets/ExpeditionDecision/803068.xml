@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803068</GUID>
+      <Name>Fear of the Light 1.1.2.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;No proof, no trust.&lt;/b&gt; Your sailors are not good hounds, especially under pressure, and they find no proof pointing to the nature of the dead man's illness. Suspicion rises as the doctor orders the immediate burial at sea of the cadaver. Long after the cloth-wrapped body was thrown into the sea, the cadaver of the dead man is found hidden in the hull. There is little doubt as to who was thrown overboard in its place.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26317</LineID>
+    </Text>
+  </Values>
+</Asset>

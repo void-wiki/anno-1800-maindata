@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Looks like death claimed the wrong brother.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4116</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222388</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>5</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>253932</GUID>
+      <Name>AT_Advisor02_Movie03_07</Name>
+    </Standard>
+  </Values>
+</Asset>

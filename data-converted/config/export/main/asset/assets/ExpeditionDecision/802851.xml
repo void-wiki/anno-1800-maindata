@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802851</GUID>
+      <Name>Taken In Broken Out 1.3.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your diplomat is beyond awkward.&lt;/b&gt; At the trial, she interrupts the judges to insist on meaningless details and points out not your crew's innocence, but the reasons why their guilt is, to quote her, not that bad. Her lack of professionalism and conviction is irritating and the judges interrupt the hearing with a hasty judgement just to stop her. Your crew is coerced into one full month of forced labour, a disproportionate and disheartening sentence.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22043</LineID>
+    </Text>
+  </Values>
+</Asset>

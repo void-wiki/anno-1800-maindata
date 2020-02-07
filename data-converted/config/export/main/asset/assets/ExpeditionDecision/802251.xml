@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802251</GUID>
+      <Name>The Deeper You Go 1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The old wall caves in effortlessly.&lt;/b&gt; Following the sand-pouring cracks, the explorers identify the wall from which most grains seem to be coming. They stave it in, causing a dusty outpour which fills their lungs then clears to reveal sunlight. They hasten through the self-made exit and end up on the beach where they had left the ship.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21078</LineID>
+    </Text>
+  </Values>
+</Asset>

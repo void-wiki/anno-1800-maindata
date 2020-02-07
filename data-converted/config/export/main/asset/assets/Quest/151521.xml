@@ -1,0 +1,185 @@
+<Asset>
+  <Template>Quest</Template>
+  <Values>
+    <Standard>
+      <GUID>151521</GUID>
+      <Name>RQ_Engineers_AnimalKingdom</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationText>21469</NotificationText>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>268147</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>88</QuestGiver>
+      <StoryText>16283</StoryText>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <QuestActivation>ManualActivation</QuestActivation>
+      <IsAbortable>1</IsAbortable>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_rqengineer.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <QuestHints>
+        <Item>
+          <Text>17872</Text>
+        </Item>
+      </QuestHints>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>15664</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102011</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>88</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionMutualAreaInSubconditions</Template>
+        <Values>
+          <Condition />
+          <ConditionMutualAreaInSubconditions />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Animal Kingdom</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28933</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190984</Reward>
+          <Amount>1</Amount>
+          <SentToQuestArea>1</SentToQuestArea>
+          <IsDisguised>1</IsDisguised>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>PicturePuzzleObjective</Template>
+            <Values>
+              <ConditionQuestPicturePuzzle>
+                <PicturePuzzleObjects>
+                  <Item>
+                    <Object>102022</Object>
+                    <Amount>3</Amount>
+                    <AdditionalAmount>5</AdditionalAmount>
+                    <Context>
+                      <SpawnArea>
+                        <Template>QuestSpawnArea</Template>
+                        <Values>
+                          <SpawnArea>
+                            <SpawnContext>Object</SpawnContext>
+                            <MatcherGUID>151507</MatcherGUID>
+                            <LimitToQuestArea>1</LimitToQuestArea>
+                            <DistanceToContext>5</DistanceToContext>
+                          </SpawnArea>
+                        </Values>
+                      </SpawnArea>
+                      <Behaviour>Mob</Behaviour>
+                      <MobTargetUnitCount>0</MobTargetUnitCount>
+                      <MobForceSpawnUnitCount>0</MobForceSpawnUnitCount>
+                    </Context>
+                  </Item>
+                </PicturePuzzleObjects>
+              </ConditionQuestPicturePuzzle>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>13058</TextCombinedContextValue>
+                <ObjectiveSuccessMessage>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <CharacterNotification />
+                    <BaseNotification>
+                      <NotificationTextGroup>1438555594</NotificationTextGroup>
+                    </BaseNotification>
+                    <NotificationSubtitle />
+                  </Values>
+                </ObjectiveSuccessMessage>
+              </ConditionQuestObjective>
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102011</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>Area</SpawnContext>
+                        <MatcherGUID>151507</MatcherGUID>
+                        <LimitToQuestArea>1</LimitToQuestArea>
+                        <DistanceToContext>2</DistanceToContext>
+                        <DistanceToBorder>Near</DistanceToBorder>
+                        <DistanceToIsland>Far</DistanceToIsland>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective>
+            <ObjectiveSignsAndFeedback>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>501006</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </ObjectiveSignsAndFeedback>
+          </ConditionQuestObjective>
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Just when the people want an enemy, you destroy one of their heroes.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30650</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204093</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>110019</GUID>
+      <Name>AT_ai10_NpcDefeatsNpcFriend2</Name>
+    </Standard>
+  </Values>
+</Asset>

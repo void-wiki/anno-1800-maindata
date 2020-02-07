@@ -1,0 +1,65 @@
+<Asset>
+  <Template>FeedbackVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>101743</GUID>
+      <Name>Workforce Ship</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/workforce_ship/workforce_ship_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <ReservationLength>16</ReservationLength>
+      <ReservationWidth>6</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <TurnAroundRadius>5</TurnAroundRadius>
+      <Acceleration>1</Acceleration>
+      <Deceleration>1</Deceleration>
+      <TurnSpeed>30</TurnSpeed>
+      <TurnMovement>50</TurnMovement>
+      <LeaningMaxAngle>10</LeaningMaxAngle>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cruiser</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>9818383</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>6</Length>
+      <Width>1.75</Width>
+      <FactorRotation>0.8</FactorRotation>
+    </Drifting>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+    </MinimapToken>
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController>
+      <DefaultFeedbackSequence>Work</DefaultFeedbackSequence>
+    </FeedbackController>
+  </Values>
+</Asset>

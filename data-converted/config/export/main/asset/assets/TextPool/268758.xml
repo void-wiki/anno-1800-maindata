@@ -1,0 +1,64 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268758</GUID>
+      <Name>Pool_enemy02_IdleMessageActiveTrade</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258385</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258386</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258388</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258389</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258390</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258392</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258394</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258395</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258397</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256286</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256289</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>751189787</Group>
+        </Item>
+        <Item>
+          <Group>444107637</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

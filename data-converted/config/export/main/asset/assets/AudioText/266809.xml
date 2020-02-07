@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I read in the papers you build ships like your father. His actions have likely led to war, so it would be strangely fitting if you were to supply the Queen's fleet.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16400</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234363</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>266809</GUID>
+      <Name>3rd_party_02_Ch2Ph1_Additional_01</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>214813</GUID>
+      <Name>wwe_sfx_bld_heavy_typeCluster_tag</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>10</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <ActivationRangeOffset>20</ActivationRangeOffset>
+      <MaxAttenuation>40</MaxAttenuation>
+      <StopEvent>214814</StopEvent>
+      <SoundEventType>CL_rfx_mid</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>214811</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1705424917</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

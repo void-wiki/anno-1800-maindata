@@ -1,0 +1,23 @@
+<Asset>
+  <Template>NewspaperImage</Template>
+  <Values>
+    <Standard>
+      <GUID>140343</GUID>
+      <Name>VillageTrain</Name>
+    </Standard>
+    <NewspaperImage>
+      <Size>
+        <Small>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_small_09.png</Image>
+        </Small>
+        <Medium>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_medium_09.png</Image>
+        </Medium>
+        <Big>
+          <Image>data/ui/2kimages/main/assets/newspaper_article_bg/article_big_09.png</Image>
+        </Big>
+      </Size>
+      <SideNotificationImage>data/ui/2kimages/main/assets/newspaper_article_bg/article_big_09.png</SideNotificationImage>
+    </NewspaperImage>
+  </Values>
+</Asset>

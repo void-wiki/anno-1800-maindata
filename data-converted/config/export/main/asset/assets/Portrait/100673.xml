@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>78</PortraitName>
+      <PortraitColor>-4619696</PortraitColor>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>100673</GUID>
+      <Name>3rd_party_08 (Madame Kahina)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_08.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/3rd_party_08/3rd_party_08.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

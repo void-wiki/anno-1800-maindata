@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Where’s the ambulance?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17050</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233142</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_71</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266464</GUID>
+      <Name>AT_ai07_Credits20</Name>
+    </Standard>
+  </Values>
+</Asset>

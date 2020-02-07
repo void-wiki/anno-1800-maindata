@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Don't spend it all at once!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10639</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222645</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258361</GUID>
+      <Name>AT_ai05_NpcGivesGift3</Name>
+    </Standard>
+  </Values>
+</Asset>

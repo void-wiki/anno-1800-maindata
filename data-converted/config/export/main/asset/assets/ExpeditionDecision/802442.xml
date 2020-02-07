@@ -1,0 +1,34 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802442</GUID>
+      <Name>Wood Keeper 1.1.1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192046</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>120041</Reward>
+          <Amount>5</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men are soon enjoying every hospitality.&lt;/b&gt; "It is a three-pointed zemi," the anthropologist says excitedly. "The inhabitants of this village have departed to the mountain yonder, to thank the spirit for a plentiful harvest." Your men put away their weapons, and sit cross-legged by the stone awaiting their return. The locals are surprised and afraid to have foreign visitors, but sensing only good intentions, invite you to their hearty feast. The chief enjoys your company greatly, and insists you take an amulet and bananas as a parting gift.</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20884</LineID>
+    </Text>
+  </Values>
+</Asset>

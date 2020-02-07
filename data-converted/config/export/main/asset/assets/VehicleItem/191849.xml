@@ -1,0 +1,65 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191849</GUID>
+      <Name>Steel Plating</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_hull_2.png</IconFilename>
+      <InfoDescription>19699</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fine Steel Hull</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26791</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>87500</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>-5</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19699</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade>
+        <Value>30</Value>
+        <Percental>1</Percental>
+      </MaxHitpointsUpgrade>
+      <DamageReceiveFactor>
+        <Cannon>
+          <Factor>0.85</Factor>
+        </Cannon>
+        <BigBertha>
+          <Factor>0.85</Factor>
+        </BigBertha>
+      </DamageReceiveFactor>
+    </AttackableUpgrade>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

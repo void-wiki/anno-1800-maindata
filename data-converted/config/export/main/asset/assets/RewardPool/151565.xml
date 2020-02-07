@@ -1,0 +1,63 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>151565</GUID>
+      <Name>Worker Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>151060</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>20</MaxAmount>
+          <Weight>40</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>902574339</ItemGroup>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>665112377</ItemGroup>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>-1632971188</ItemGroup>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>-1318204664</ItemGroup>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>966086193</ItemGroup>
+        </Item>
+        <Item>
+          <ItemGroup>-1762805458</ItemGroup>
+          <Weight>15</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>533571381</ItemGroup>
+          <Weight>10</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>477522415</ItemGroup>
+          <Weight>5</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>-1816807651</ItemGroup>
+          <Weight>2</Weight>
+        </Item>
+        <Item>
+          <ItemGroup>2104348631</ItemGroup>
+        </Item>
+        <Item>
+          <ItemGroup>-2081309419</ItemGroup>
+          <Weight>5</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

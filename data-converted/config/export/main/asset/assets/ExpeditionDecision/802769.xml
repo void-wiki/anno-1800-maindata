@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802769</GUID>
+      <Name>Jolly Roger 1.1.2.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is a damaging encounter.&lt;/b&gt; The rotted exterior of the pirate vessel invites cannonfire, but their movements are too clever, never exposing their flanks to a broadside. Keen to corner them, your officers overcommit, and in doing so, leave themselves open to a devastating barrage. The pirates take the chance to flee, which is fortunate, because your ship is almost dead-in-the-water.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21521</LineID>
+    </Text>
+  </Values>
+</Asset>

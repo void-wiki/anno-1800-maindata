@@ -1,0 +1,35 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191947</GUID>
+      <Name>ExplosiveShells lvl1</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_explosive_shells_1.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Melinite Shells</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26403</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <DamageFactor>
+        <SailShip>
+          <Factor>1.5</Factor>
+        </SailShip>
+      </DamageFactor>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

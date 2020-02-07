@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>No, drag me through the mud. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11366</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236214</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260326</GUID>
+      <Name>AT_Reporter_NegativeFeedbackToPlayer4</Name>
+    </Standard>
+  </Values>
+</Asset>

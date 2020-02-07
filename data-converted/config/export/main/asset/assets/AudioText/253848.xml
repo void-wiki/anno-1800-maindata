@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We need you, Admiral.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4189</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>214225</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253848</GUID>
+      <Name>AT_captain_GenericEventCallToAction1</Name>
+    </Standard>
+  </Values>
+</Asset>

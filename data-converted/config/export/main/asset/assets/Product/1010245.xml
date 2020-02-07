@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010245</GUID>
+      <Name>high-wheeler</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_high_wheeler.png</IconFilename>
+      <InfoDescription>11779</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Penny Farthings</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3752</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11705</ProductCategory>
+      <BasePrice>873</BasePrice>
+      <CivLevel>4</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

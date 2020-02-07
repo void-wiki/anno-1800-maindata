@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Disrespectful chatter abounds about your father, and how he died.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17327</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232647</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266530</GUID>
+      <Name>advisor_02_Ch1Ph1_Additional_07</Name>
+    </Standard>
+  </Values>
+</Asset>

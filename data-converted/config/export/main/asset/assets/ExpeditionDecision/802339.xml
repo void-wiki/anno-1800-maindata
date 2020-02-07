@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802339</GUID>
+      <Name>Teeth of the Mountain 1.1.1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your diplomat fails to control her nerves.&lt;/b&gt; She breaks down whimpering, and one of your manly men muscles in front of her. "Now listen here!" he bellows, "get back you fiends! Get back or I'll cut you down!" But pale and uncomprehending, still they come. Your brute wavers, looks as if he has seen a ghost. He turns and runs down the mountain with the others. It will be a hard road on from here.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20967</LineID>
+    </Text>
+  </Values>
+</Asset>

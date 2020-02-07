@@ -1,0 +1,67 @@
+<Asset>
+  <Template>CampaignQuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>116942</GUID>
+      <Name>ArcticQ102_Ruins02</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_abandoned_camp.png</IconFilename>
+      <InfoDescription>117735</InfoDescription>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>Default</MeshPlacement>
+      <InitialVisibility>0</InitialVisibility>
+    </Mesh>
+    <Selection>
+      <GUIType>Generic</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_buildings/abandoned_expedition_camp/abandoned_expedition_camp_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Abandoned Storage Facilities</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35118</LineID>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer>
+      <DefaultInfoLayer>500482</DefaultInfoLayer>
+    </Infolayer>
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>245766</Sound>
+        </Item>
+      </ActiveSounds>
+      <DestroySounds>
+        <Item>
+          <Sound>9818756</Sound>
+        </Item>
+      </DestroySounds>
+    </SoundEmitter>
+    <CampaignBehaviour />
+    <Attackable>
+      <SelfHealPerHealTick>0</SelfHealPerHealTick>
+    </Attackable>
+    <Blocking>
+      <RemoveGrass>0</RemoveGrass>
+    </Blocking>
+    <FeedbackController />
+    <Culture>
+      <CultureType>Ruins</CultureType>
+    </Culture>
+    <Building>
+      <BuildingCategoryName>116953</BuildingCategoryName>
+      <Destructable>0</Destructable>
+    </Building>
+  </Values>
+</Asset>

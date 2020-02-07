@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>112701</GUID>
+      <Name>sleeping bags</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_sleeping_bags.png</IconFilename>
+      <InfoDescription>117255</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sleeping Bags</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35144</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>475</BasePrice>
+      <CivLevel>1</CivLevel>
+      <AssociatedRegion>Arctic</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

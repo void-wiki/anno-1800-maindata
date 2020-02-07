@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193428</GUID>
+      <Name>Culture - Sunken Animals - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>112813</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112815</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112816</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112817</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>113905</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>113907</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

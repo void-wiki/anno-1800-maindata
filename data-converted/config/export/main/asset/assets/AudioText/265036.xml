@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We’d rather die than stay. Our flags still wave for Samuel, let Edvard oppress us no more! </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15574</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>239635</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265036</GUID>
+      <Name>resident_tier2_WorkerRiot_01</Name>
+    </Standard>
+  </Values>
+</Asset>

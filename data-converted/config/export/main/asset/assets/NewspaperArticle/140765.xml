@@ -1,0 +1,34 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140765</GUID>
+      <Name>Illness Chance High</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>3733</Headline>
+      <Subline>3734</Subline>
+      <Image>142127</Image>
+      <Category>Special</Category>
+      <NewsPriority>
+        <StartValue>105</StartValue>
+        <LossOnPublish>300</LossOnPublish>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>-5</EffectValue>
+      <Rating>Bad</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

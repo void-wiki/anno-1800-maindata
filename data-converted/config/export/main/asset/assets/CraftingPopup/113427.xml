@@ -1,0 +1,25 @@
+<Asset>
+  <Template>CraftingPopup</Template>
+  <Values>
+    <Standard>
+      <GUID>113427</GUID>
+      <Name>CraftingPopupScene</Name>
+      <ID>CraftingPopupScene</ID>
+    </Standard>
+    <CraftingPopup>
+      <CraftingIcon>501762</CraftingIcon>
+      <MissingResourcesText>113425</MissingResourcesText>
+      <CraftableText>113426</CraftableText>
+      <EmptyCraftingIcon>501665</EmptyCraftingIcon>
+      <SelectedItemInfotip>25000084</SelectedItemInfotip>
+      <ItemFilterPerRegion>
+        <Moderate>
+          <CraftingItemFilter>113879</CraftingItemFilter>
+        </Moderate>
+        <Arctic>
+          <CraftingItemFilter>116632</CraftingItemFilter>
+        </Arctic>
+      </ItemFilterPerRegion>
+    </CraftingPopup>
+  </Values>
+</Asset>

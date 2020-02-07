@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Draw yer pistols!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8038</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217368</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255725</GUID>
+      <Name>AT_captain_EventCallToAction_Melee3</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803500</GUID>
+      <Name>The Mascarade 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803482</Option>
+        </Item>
+        <Item>
+          <Option>803485</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The costumier turns up her lips in disgust.&lt;/b&gt; It seems you can't afford to pay the going rate for a last-minute costume, so &lt;b&gt;you'll have to meet the casino dress code in some other way.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32645</LineID>
+    </Text>
+  </Values>
+</Asset>

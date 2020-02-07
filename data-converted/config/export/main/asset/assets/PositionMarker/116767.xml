@@ -1,0 +1,39 @@
+<Asset>
+  <Template>PositionMarker</Template>
+  <Values>
+    <Mesh />
+    <Standard>
+      <GUID>116767</GUID>
+      <Name>ArcticRQExplorer_Exploration_NorthPoleStartingPoint_PositionMarker</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_mercier_flag.png</IconFilename>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>PositionMarker</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/dlc03/graphics/props/flags/flagpole_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <PositionMarker />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Expedition Starting Point</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36245</LineID>
+    </Text>
+  </Values>
+</Asset>

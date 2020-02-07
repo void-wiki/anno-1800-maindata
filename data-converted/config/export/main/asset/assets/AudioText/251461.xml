@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You won't get a better deal than that!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2441</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212743</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251461</GUID>
+      <Name>AT_ai03_NpcAcceptsPlayerProposal4</Name>
+    </Standard>
+  </Values>
+</Asset>

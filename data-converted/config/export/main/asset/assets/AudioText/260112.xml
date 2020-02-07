@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You are a monstrous host.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11446</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223628</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260112</GUID>
+      <Name>AT_visitor_NegFeedbackTo Player1</Name>
+    </Standard>
+  </Values>
+</Asset>

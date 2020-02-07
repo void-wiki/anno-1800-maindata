@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192899</GUID>
+      <Name>Harlow Legendary Specialists</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192757</ItemLink>
+          <Weight>7</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192767</ItemLink>
+          <Weight>3</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193094</ItemLink>
+          <Weight>13</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193477</ItemLink>
+          <Weight>2</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>About time your reign of terror came to an end.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9352</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221053</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253435</GUID>
+      <Name>AT_ai04_NpcDeclaresWarOnPlayer2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>116112</GUID>
+      <Name>Arctic Illness - Healing</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/dlc03/graphics/ui/3d_infolayer_icons/3d_info_arctic_flu_healing.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Rangers visiting</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35196</LineID>
+    </Text>
+  </Values>
+</Asset>

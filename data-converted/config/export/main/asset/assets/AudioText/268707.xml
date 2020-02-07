@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fleet assembled!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19931</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>237948</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268707</GUID>
+      <Name>AT_MurmurFemale7_Fleet_SelectShip02</Name>
+    </Standard>
+  </Values>
+</Asset>

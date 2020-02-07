@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>And your guilt shall long outlive you, uncle. Look what you've done to our family.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17147</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233471</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>15</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267032</GUID>
+      <Name>AT_Advisor01_movie09_03</Name>
+    </Standard>
+  </Values>
+</Asset>

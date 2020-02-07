@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My complex plans to conquer my ally, gone to waste!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17115</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234461</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252910</GUID>
+      <Name>AT_ai09_NpcDefeatsNpcFriend2</Name>
+    </Standard>
+  </Values>
+</Asset>

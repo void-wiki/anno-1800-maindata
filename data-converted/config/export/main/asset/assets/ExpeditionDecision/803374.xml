@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803374</GUID>
+      <Name>The Great Sickness 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803375</Option>
+        </Item>
+        <Item>
+          <Option>803378</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor falls sick.&lt;/b&gt; You can only assume the attempted vaccine has failed the locals also, because two weeks into the onward journey, its creator is in the grip of smallpox. Once the disease sets in there is no cure, unless you choose to trust the poor doctor's survival to God.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31563</LineID>
+    </Text>
+  </Values>
+</Asset>

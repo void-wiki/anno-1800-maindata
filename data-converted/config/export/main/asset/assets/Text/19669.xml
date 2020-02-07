@@ -1,0 +1,16 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>19669</GUID>
+      <Name>Playername</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Online PlayerName([NotificationContext Value(Peer) Int])]</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

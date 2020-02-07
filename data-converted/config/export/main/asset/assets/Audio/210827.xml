@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>210827</GUID>
+      <Name>Play_AI_DRYALONS_0HO_URI_00003_01ALONS_3387</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2048</DurationMinimum>
+          <DurationMaximum>2048</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2925</DurationMinimum>
+          <DurationMaximum>2925</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2039</DurationMinimum>
+          <DurationMaximum>2039</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2328</DurationMinimum>
+          <DurationMaximum>2328</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3501800407</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

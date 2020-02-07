@@ -1,0 +1,41 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>111488</GUID>
+      <Name>Pool_resident_tier2_DeserterSuccess</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>257314</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268057</AudioText>
+        </Item>
+        <Item>
+          <AudioText>257297</AudioText>
+        </Item>
+        <Item>
+          <AudioText>257299</AudioText>
+        </Item>
+        <Item>
+          <AudioText>257301</AudioText>
+        </Item>
+        <Item>
+          <AudioText>257348</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

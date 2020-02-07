@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802037</GUID>
+      <Name>Tavern Troubles 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew is humiliated.&lt;/b&gt; They empty their purses trying to pay for the excessive demands of the thugs. Ale. Stew. Liquors. Meats. When sunrise pushes the hoodlums to leave the tavern, the sailors are stuck with cooking, dishwashing and dust-wiping until the bartender considers their debt paid.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21739</LineID>
+    </Text>
+  </Values>
+</Asset>

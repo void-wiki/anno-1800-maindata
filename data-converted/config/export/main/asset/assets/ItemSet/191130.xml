@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>191130</GUID>
+      <Name>roman</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_coin_common.png</IconFilename>
+      <InfoDescription>15360</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <SetBuff>191148</SetBuff>
+      <BuffScope>Area</BuffScope>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>EMPIRE OF THE EAGLE</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21961</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

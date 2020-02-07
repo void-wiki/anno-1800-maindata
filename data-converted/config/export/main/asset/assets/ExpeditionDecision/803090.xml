@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803090</GUID>
+      <Name>Ghosts in the Ice 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803097</Option>
+        </Item>
+        <Item>
+          <Option>803098</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The hunters can't find enough food.&lt;/b&gt; Your sailors manage to track, find and trap seals but the bounty is not enough to feed a whole crew of ailing men. It might be enough for them to hold out until the arrival of a rescue mission - if there were less of them, or if they followed a strict rationing discipline.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23443</LineID>
+    </Text>
+  </Values>
+</Asset>

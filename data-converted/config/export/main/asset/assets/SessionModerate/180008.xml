@@ -1,0 +1,37 @@
+<Asset>
+  <Template>SessionModerate</Template>
+  <Values>
+    <Standard>
+      <GUID>180008</GUID>
+      <Name>Gamescom_Moderate01</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness.png</IconFilename>
+    </Standard>
+    <Session>
+      <MapTemplate>141388</MapTemplate>
+      <CameraLoopSequence1>11</CameraLoopSequence1>
+      <CameraLoopSequence2>10</CameraLoopSequence2>
+      <AllowAdvancedCameraSettings>1</AllowAdvancedCameraSettings>
+      <TransferData>
+        <Item>
+          <Session>180025</Session>
+          <Duration>60000</Duration>
+        </Item>
+      </TransferData>
+      <SpawnStartShipAndKontor>0</SpawnStartShipAndKontor>
+      <WorldMapCardBackground>500875</WorldMapCardBackground>
+      <WorldMapAsset>data/graphics/ui/3d_objects/world_map/clickable_moderate_01.cfg</WorldMapAsset>
+      <RouteSessionAsset>180023</RouteSessionAsset>
+    </Session>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Gamescom</Text>
+          <Status>Edit</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501329</GUID>
+      <Name>MonumentConstructionStopped</Name>
+      <ID>NotificationMonumentConstructionStopped</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501377</IconAsset>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>16849</NotificationText>
+            <NotificationBlockingTime>300000</NotificationBlockingTime>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265270</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

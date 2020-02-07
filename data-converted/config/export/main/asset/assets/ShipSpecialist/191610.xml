@@ -1,0 +1,78 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191610</GUID>
+      <Name>James Lawrence</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_admiral_701.png</IconFilename>
+      <InfoDescription>19975</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Admiral Haynes, Beholder of Far Horizons.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26765</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>910000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>55</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19975</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <AttackRangeUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </AttackRangeUpgrade>
+      <LineOfSightRangeUpgrade>
+        <Value>15</Value>
+        <Percental>1</Percental>
+      </LineOfSightRangeUpgrade>
+      <DamageFactor>
+        <Building>
+          <Factor>1.5</Factor>
+        </Building>
+      </DamageFactor>
+    </AttackerUpgrade>
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade>
+        <Value>1000</Value>
+      </MaxHitpointsUpgrade>
+    </AttackableUpgrade>
+    <TradeShipUpgrade />
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>LandAnimal</Template>
+  <Values>
+    <Standard>
+      <GUID>1000042</GUID>
+      <Name>chicken</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/chicken/chicken.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/rooster/rooster.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/rooster/rooster_black.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/rooster/rooster_orange.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/rooster/rooster_white.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <SpecialMovementType />
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

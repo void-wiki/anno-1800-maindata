@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If I could break one of Beryl's urchins, we'd have her head in the gibbet.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12334</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229810</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261038</GUID>
+      <Name>AT_3rdParty07_IdleMessageGossip_OMara</Name>
+    </Standard>
+  </Values>
+</Asset>

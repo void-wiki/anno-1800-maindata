@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There's no deep abyss holds intrigues as eldritch as this.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17550</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233099</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267970</GUID>
+      <Name>Captain_Ch3Ph2_Additional_01</Name>
+    </Standard>
+  </Values>
+</Asset>

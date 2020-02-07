@@ -1,0 +1,74 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>113881</GUID>
+      <Name>SunkenTreasures Scrap Unlock</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionIsDLCActive</Template>
+        <Values>
+          <Condition />
+          <ConditionIsDLCActive>
+            <DLCAssetList>
+              <Item>
+                <DLCAsset>410040</DLCAsset>
+              </Item>
+            </DLCAssetList>
+          </ConditionIsDLCActive>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>112518</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112520</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>112523</Asset>
+                  </Item>
+                </UnlockAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsDiscovered</Template>
+                  <Values>
+                    <Condition />
+                    <ParticipantRelation>
+                      <SourceIsOwner>1</SourceIsOwner>
+                      <TargetParticipant>Third_party_06_Nate</TargetParticipant>
+                    </ParticipantRelation>
+                    <ConditionIsDiscovered />
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

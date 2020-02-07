@@ -1,0 +1,59 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191868</GUID>
+      <Name>Napoleon 12-Pounder</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_howitzer_2.png</IconFilename>
+      <InfoDescription>19711</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <UseEffectAsset>1</UseEffectAsset>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>102339</Projectile>
+      <BarrageCount>1</BarrageCount>
+      <ActionRadius>1</ActionRadius>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>90</ActionDistance>
+      <ActionCooldown>30000</ActionCooldown>
+      <ActionDuration>2000</ActionDuration>
+      <ActiveBuff>193241</ActiveBuff>
+      <ActionDescription>20071</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>234800</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>"Blown-Apart" 12-Pounder</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26802</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>40</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>19711</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

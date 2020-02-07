@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801764</GUID>
+      <Name>The Infiltration 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801863</Option>
+        </Item>
+        <Item>
+          <Option>801869</Option>
+        </Item>
+        <Item>
+          <Option>801875</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Marathon battle style. It works, the guards are defeated. A few sailors are injured but now the road to the house is open.&lt;br/&gt;Inside the house, which room to look for?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21191</LineID>
+    </Text>
+  </Values>
+</Asset>

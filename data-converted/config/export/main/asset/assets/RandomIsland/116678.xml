@@ -1,0 +1,17 @@
+<Asset>
+  <Template>RandomIsland</Template>
+  <Values>
+    <Standard>
+      <GUID>116678</GUID>
+      <Name>colony03_a01_04</Name>
+    </Standard>
+    <RandomIsland>
+      <FilePath>data/dlc03/sessions/islands/pool/colony03_a01_04/colony03_a01_04.a7m</FilePath>
+      <IslandRegion>Arctic</IslandRegion>
+      <IslandDifficulty>Normal;Hard</IslandDifficulty>
+      <IslandType>Starter</IslandType>
+      <AvoidIslandMoving>1</AvoidIslandMoving>
+      <AllowedIslandTemplateLabel>starter_island</AllowedIslandTemplateLabel>
+    </RandomIsland>
+  </Values>
+</Asset>

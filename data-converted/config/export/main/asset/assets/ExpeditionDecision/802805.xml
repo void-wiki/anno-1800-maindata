@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802805</GUID>
+      <Name>Taken In Broken Out 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802812</Option>
+        </Item>
+        <Item>
+          <Option>802813</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor showcases his ignorance.&lt;/b&gt; He produces a pouch of arsenic before calling the guards. When the jailers are close enough, the doctor is ready to blow the powder in their face - however, his lack of knowledge of the poison's properties backfires: the soft inhalation of the doctor is enough to bring the highly volatile poison to his lips, and he leaps back, coughing and wheezing. The guards immediately understand this was attempted murder.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22024</LineID>
+    </Text>
+  </Values>
+</Asset>

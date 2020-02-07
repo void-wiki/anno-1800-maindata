@@ -1,0 +1,31 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192999</GUID>
+      <Name>Archetype (Farmer) Resident Quest Reward Pool Seagull</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190006</ItemLink>
+          <Weight>35</Weight>
+        </Item>
+        <Item>
+          <ItemLink>191071</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>191070</ItemLink>
+          <Weight>20</Weight>
+        </Item>
+        <Item>
+          <ItemLink>191082</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

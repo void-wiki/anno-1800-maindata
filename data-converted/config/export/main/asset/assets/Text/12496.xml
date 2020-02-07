@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12496</GUID>
+      <Name>NPC Needs Decision in Protection - f</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetData([NotificationContext CharacterGUID]) Text] reminds you of your protection, urging you to attack your other protectee [Participants ParticipantName([NotificationContext Value(WarParty) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10777</LineID>
+    </Text>
+  </Values>
+</Asset>

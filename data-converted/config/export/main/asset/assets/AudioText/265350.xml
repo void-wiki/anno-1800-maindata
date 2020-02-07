@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There's a problem with one of your routes.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15937</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234071</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265350</GUID>
+      <Name>AT_Narrator_Routes_Warning_RouteDisfunctionalWarning</Name>
+    </Standard>
+  </Values>
+</Asset>

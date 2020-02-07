@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Queen may have snatched every last bit of land and sea, but I have the skies to meself.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12308</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231307</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261097</GUID>
+      <Name>AT_3rdParty06_IdleMessageGossip_Queen</Name>
+    </Standard>
+  </Values>
+</Asset>

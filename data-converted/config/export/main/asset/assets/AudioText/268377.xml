@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Frigate commencing escort.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19662</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238032</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268377</GUID>
+      <Name>AT_MurmurMale2_Frigate_ShipEscort01</Name>
+    </Standard>
+  </Values>
+</Asset>

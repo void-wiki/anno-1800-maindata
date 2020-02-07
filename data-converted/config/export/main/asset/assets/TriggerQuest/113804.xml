@@ -1,0 +1,101 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>113804</GUID>
+      <Name>ST_Multiplayer_GiveDivingBellShip Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionIsDiscovered</Template>
+        <Values>
+          <Condition />
+          <ParticipantRelation>
+            <SourceIsOwner>1</SourceIsOwner>
+            <TargetParticipant>Third_party_06_Nate</TargetParticipant>
+          </ParticipantRelation>
+          <ConditionIsDiscovered />
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>10000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionSpawnObjects</Template>
+                            <Values>
+                              <Action />
+                              <ActionSpawnObjects>
+                                <SpawnGUID>112084</SpawnGUID>
+                                <Amount>1</Amount>
+                                <OwnerIsProcessingParticipant>1</OwnerIsProcessingParticipant>
+                              </ActionSpawnObjects>
+                              <SpawnArea>
+                                <SpawnContext>Object</SpawnContext>
+                                <ContextGUID>100710</ContextGUID>
+                                <DistanceToContext>30</DistanceToContext>
+                              </SpawnArea>
+                              <SessionFilter>
+                                <Sessions>
+                                  <Item>
+                                    <Session>110934</Session>
+                                  </Item>
+                                </Sessions>
+                              </SessionFilter>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionNotification</Template>
+                            <Values>
+                              <Action />
+                              <ActionNotification>
+                                <Notification>
+                                  <Template>CharacterNotification</Template>
+                                  <Values>
+                                    <CharacterNotification>
+                                      <Profile>77</Profile>
+                                    </CharacterNotification>
+                                    <BaseNotification>
+                                      <NotificationText>113805</NotificationText>
+                                      <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+                                      <RestrictedToSessionOrRegions>
+                                        <Item>
+                                          <SessionOrRegion>110934</SessionOrRegion>
+                                        </Item>
+                                      </RestrictedToSessionOrRegions>
+                                    </BaseNotification>
+                                    <NotificationSubtitle>
+                                      <Subtitle>111741</Subtitle>
+                                    </NotificationSubtitle>
+                                  </Values>
+                                </Notification>
+                              </ActionNotification>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

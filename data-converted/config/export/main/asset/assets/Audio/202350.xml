@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>202350</GUID>
+      <Name>wwe_sfx_bld_factory_02_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <ActivationRangeOffset>50</ActivationRangeOffset>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>202352</StopEvent>
+      <SoundEventType>SmallBuildingSound</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>202351</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1336284600</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

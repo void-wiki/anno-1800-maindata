@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>116760</GUID>
+      <Name>ArcticFire End Buildings Abandoned NotificationText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fire in [NotificationContext Value(Area) Area CityName] extinguished, but has caused damage.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35013</LineID>
+    </Text>
+  </Values>
+</Asset>

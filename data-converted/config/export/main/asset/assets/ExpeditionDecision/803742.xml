@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803742</GUID>
+      <Name>Atoll 1.3.3.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <InsertEvent>803537</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There is a lot of head-scratching below deck,&lt;/b&gt; as your confused carpenters try to fight the flood. They have neither tools nor creativity to do much more than smash the coral that has ripped through the ship. When the ship judders free, it has almost no buoyancy, and the crew count themselves lucky that it is swept ashore on the tide. &lt;b&gt;It seems you have shipwrecked on a coral atoll&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33496</LineID>
+    </Text>
+  </Values>
+</Asset>

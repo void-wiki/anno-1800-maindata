@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My husband and the others were deported to Wormways Prison and I've heard nothing from him ever since. If you do find him unharmed, prithee tell him his wife yearns for his return.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17655</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234204</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267149</GUID>
+      <Name>AT_TheodoraTicker_movie12_03</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>PopulationGroup7</Template>
+  <Values>
+    <Standard>
+      <GUID>15000082</GUID>
+      <Name>Moderate Population</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Population: Old World</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25911</LineID>
+    </Text>
+    <PopulationGroup7>
+      <PopulationLevels>
+        <Item>
+          <Level>15000000</Level>
+        </Item>
+        <Item>
+          <Level>15000001</Level>
+        </Item>
+        <Item>
+          <Level>15000002</Level>
+        </Item>
+        <Item>
+          <Level>15000003</Level>
+        </Item>
+        <Item>
+          <Level>15000004</Level>
+        </Item>
+      </PopulationLevels>
+    </PopulationGroup7>
+  </Values>
+</Asset>

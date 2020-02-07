@@ -1,0 +1,21 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>800005</GUID>
+      <Name>Polar Event</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Polar Event</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic</EventRegion>
+      <EventRarity>3</EventRarity>
+      <StartDecision>800035</StartDecision>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

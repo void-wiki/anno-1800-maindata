@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191509</GUID>
+      <Name>Kamikaze</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_wifi.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Kamikaze</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>KAMIKAZE</ItemAction>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>5000</ActionDuration>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <ExpeditionAttribute />
+    <SpecialAction>
+      <Delay>5000</Delay>
+      <Projectile>102080</Projectile>
+    </SpecialAction>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

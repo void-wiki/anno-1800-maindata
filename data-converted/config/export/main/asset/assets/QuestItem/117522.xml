@@ -1,0 +1,26 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>117522</GUID>
+      <Name>Inuit_Explore_Medicine_Quest_27_Item_EmptyBottles</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_alcohol_bag_1.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Empty Bottles</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35918</LineID>
+    </Text>
+    <Item>
+      <Flotsam>117592</Flotsam>
+    </Item>
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

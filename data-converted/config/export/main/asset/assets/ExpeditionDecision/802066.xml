@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802066</GUID>
+      <Name>The Mutiny 1.1.3.1.2.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's a bloody end, but your officers can fight.&lt;/b&gt; Their academy training stands them in good stead as the dissident rabble charges. The sailors, equipped with hooks, nailboards and anything else they can find, are no match for your sabre-slashing redcoats. Although the mutiny is over, and its leader, too ill to fight, is safely in the brig, it's unlikely all those radical ideas have simply died with those who had held them.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21590</LineID>
+    </Text>
+  </Values>
+</Asset>

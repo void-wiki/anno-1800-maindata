@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You can't polish a—everyone.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6291</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216383</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254948</GUID>
+      <Name>AT_ai06_NPCReputationAutocorrectDecrease2</Name>
+    </Standard>
+  </Values>
+</Asset>

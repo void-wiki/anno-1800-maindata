@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268724</GUID>
+      <Name>Pool_advisor_02_DynamiteHit</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>266387</AudioText>
+        </Item>
+        <Item>
+          <AudioText>266388</AudioText>
+        </Item>
+        <Item>
+          <AudioText>266396</AudioText>
+        </Item>
+        <Item>
+          <AudioText>266397</AudioText>
+        </Item>
+        <Item>
+          <AudioText>266398</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

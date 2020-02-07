@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You don't plan on coming for me, or…?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16842</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234524</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265542</GUID>
+      <Name>AT_ai03_PositiveInteraction_NPCsFoe2</Name>
+    </Standard>
+  </Values>
+</Asset>

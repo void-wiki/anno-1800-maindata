@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I augur good things for you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7700</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217047</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255378</GUID>
+      <Name>AT_ai08_NPCReputationAutocorrectIncrease4</Name>
+    </Standard>
+  </Values>
+</Asset>

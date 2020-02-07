@@ -1,0 +1,41 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>112103</GUID>
+      <Name>DLC01 - Achievement05</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/achievement/icon_achievement_sunken_treasure_gold.png</IconFilename>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DLC01</AchievementCategory>
+      <AchievementTitle>112052</AchievementTitle>
+      <AchievementDescription>112068</AchievementDescription>
+      <AchievementUPlayID>104</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000004</Context>
+            <CounterAmount>50000</CounterAmount>
+            <CounterScope>Area</CounterScope>
+            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+            <CounterScopeContext>112140</CounterScopeContext>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>22</UplayActionID>
+      <UplayXP>500</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

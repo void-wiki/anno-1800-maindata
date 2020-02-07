@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>220</PortraitName>
+    </Portrait>
+    <Standard>
+      <GUID>110670</GUID>
+      <Name>ai_11 (Hugo Mercier)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_11.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dm/graphics/portraits/narrative/anarchist/anarchist.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <DLCDependency>4100010</DLCDependency>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802483</GUID>
+      <Name>The Storm 1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The vessel emerges from the storm, unscathed.&lt;/b&gt; The barren masts of your ship part the tempest as the crew maneuver its jib sails and the spanker, ridiculously small pieces of cloth in the face of the storm's fury. Still, the maneuver magnifies the importance of these sails and masterfully skirts the storm, leaving the curtain of rain just as lightning begins to strike. Entranced, the crew contemplates how they managed to defy such a grand power.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21767</LineID>
+    </Text>
+  </Values>
+</Asset>

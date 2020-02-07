@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800269</GUID>
+      <Name>The Ghost Ship 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800270</Option>
+        </Item>
+        <Item>
+          <Option>800271</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Terrifyingly, the ship takes after yours in pursuit.&lt;/b&gt; Who knows what dread hands operate its multifarious controls!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5545</LineID>
+    </Text>
+  </Values>
+</Asset>

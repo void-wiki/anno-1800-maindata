@@ -1,0 +1,36 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>150902</GUID>
+      <Name>QP Tutorial Elements ALL</Name>
+    </Standard>
+    <QuestPool>
+      <SubPools>
+        <Item>
+          <Pool>151339</Pool>
+        </Item>
+        <Item>
+          <Pool>151353</Pool>
+        </Item>
+      </SubPools>
+      <IsTopLevel>1</IsTopLevel>
+      <QuestLimit>2</QuestLimit>
+      <PoolCooldown>0</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>0</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionIsTutorial</Template>
+        <Values>
+          <Condition />
+          <ConditionIsTutorial />
+          <ConditionPropsNegatable />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

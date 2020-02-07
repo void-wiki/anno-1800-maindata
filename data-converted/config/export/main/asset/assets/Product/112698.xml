@@ -1,0 +1,42 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>112698</GUID>
+      <Name>husky</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_husky.png</IconFilename>
+      <InfoDescription>117257</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Huskies</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35139</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>750</BasePrice>
+      <CivLevel>2</CivLevel>
+      <AssociatedRegion>Arctic</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Hunting</Attribute>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

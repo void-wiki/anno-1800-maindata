@@ -1,0 +1,23 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193163</GUID>
+      <Name>Blake Epic Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192650</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192655</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192670</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

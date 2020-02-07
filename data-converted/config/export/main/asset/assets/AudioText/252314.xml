@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You lack the gift. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10715</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222521</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252314</GUID>
+      <Name>AT_ai06_NegFeedbackToPlyr3</Name>
+    </Standard>
+  </Values>
+</Asset>

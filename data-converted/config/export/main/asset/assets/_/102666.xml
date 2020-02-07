@@ -1,0 +1,37 @@
+<Asset>
+  <BaseAssetGUID>102449</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>102666</GUID>
+      <Name>harbor_05 (Cannon Tower) - Navy</Name>
+    </Standard>
+    <Building />
+    <Blocking />
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/special/harbor_05/harbor_05_nodecal_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection />
+    <Text>
+      <LineID>7019</LineID>
+    </Text>
+    <Cost />
+    <Attackable />
+    <Attacker />
+    <Maintenance />
+    <Locked />
+    <DelayedConstruction />
+    <Pausable />
+    <Infolayer />
+    <SoundEmitter />
+    <CommandQueue />
+    <Culture />
+    <UpgradeList />
+  </Values>
+</Asset>

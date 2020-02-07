@@ -1,0 +1,41 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192981</GUID>
+      <Name>Pirate Hunt Reward Subpool - Common</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_war.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192637</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>192662</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>192672</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>193453</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193458</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193463</ItemLink>
+        </Item>
+      </ItemsPool>
+      <RewardDescription>12799</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

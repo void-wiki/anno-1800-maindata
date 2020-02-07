@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193000</GUID>
+      <Name>Archetype (Artisan) Resident Quest Book Worm Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190520</ItemLink>
+          <Weight>35</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190478</ItemLink>
+          <Weight>40</Weight>
+        </Item>
+        <Item>
+          <ItemLink>190540</ItemLink>
+          <Weight>25</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

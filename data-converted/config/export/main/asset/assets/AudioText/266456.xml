@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Nothing personal chum, but you look unspeakable.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17042</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233134</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_47</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266456</GUID>
+      <Name>AT_ai07_Credits12</Name>
+    </Standard>
+  </Values>
+</Asset>

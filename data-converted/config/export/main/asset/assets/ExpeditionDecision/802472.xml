@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802472</GUID>
+      <Name>The Storm 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802474</Option>
+        </Item>
+        <Item>
+          <Option>802475</Option>
+        </Item>
+        <Item>
+          <Option>802476</Option>
+        </Item>
+        <Item>
+          <Option>802477</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;This tempest is beyond anything you have ever faced.&lt;/b&gt; The smell of salt is everywhere. The freezing water pierces everyone. The winds and waves hit your ship with impossible violence, making the vessel groan and tremble with each new strike, the air so full of sea-spray one could drown in it. Is there anything mere humans could do in the face of such godlike wrath?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21763</LineID>
+    </Text>
+  </Values>
+</Asset>

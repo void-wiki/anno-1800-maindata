@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>193662</GUID>
+      <Name>subalpine flora</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/icon_rocky_mountain_fir.png</IconFilename>
+      <InfoDescription>22338</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <RegionSetBuff>
+        <Moderate>
+          <SetBuff>193766</SetBuff>
+        </Moderate>
+        <Colony01>
+          <SetBuff>193663</SetBuff>
+        </Colony01>
+      </RegionSetBuff>
+      <BuffScope>Area</BuffScope>
+      <DLCMoodImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_card_botanica.png</DLCMoodImage>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>SUBALPINE</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33520</LineID>
+    </Text>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

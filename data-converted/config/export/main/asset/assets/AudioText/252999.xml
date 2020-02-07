@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Are you a preacher of falsehoods? </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10348</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223433</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252999</GUID>
+      <Name>AT_ai02_NegFeedbackToPlyr3</Name>
+    </Standard>
+  </Values>
+</Asset>

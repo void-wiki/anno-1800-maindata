@@ -1,0 +1,35 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200911</GUID>
+      <Name>wwe_sfx_footsteps_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+      <ID>SoundFootstep</ID>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>424</DurationMinimum>
+          <DurationMaximum>858</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>424</DurationMinimum>
+          <DurationMaximum>858</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>424</DurationMinimum>
+          <DurationMaximum>858</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>424</DurationMinimum>
+          <DurationMaximum>858</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>25</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>673824081</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

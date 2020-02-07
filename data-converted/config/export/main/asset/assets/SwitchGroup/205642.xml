@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>205642</GUID>
+      <Name>MS2_env_mountain_top</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>244736</Choice>
+        </Item>
+        <Item>
+          <Choice>244737</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>3013224221</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

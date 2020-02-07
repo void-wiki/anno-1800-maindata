@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802673</GUID>
+      <Name>The Runaway 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802675</Option>
+        </Item>
+        <Item>
+          <Option>802676</Option>
+        </Item>
+        <Item>
+          <Option>802677</Option>
+        </Item>
+        <Item>
+          <Option>802678</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Local authorities come aboard looking for the fugitive you've taken in.&lt;/b&gt; A man in rags offered you his services at port, saying he'd do any odd job for food and the chance to join your crew. The Captain agreed to take him on. He soon grew on your sailors, working hard and filling in wherever needed. But above all he has proved a man of principle, a champion of the vulnerable, and as such, the crew have learned to respect his silence on the matter of his past.</Text>
+          <Status>Exported</Status>
+          <ExportCount>8</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21612</LineID>
+    </Text>
+  </Values>
+</Asset>

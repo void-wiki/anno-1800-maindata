@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802679</GUID>
+      <Name>The Runaway 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192075</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew stick stoically to the same story.&lt;/b&gt; "This man?" the officials say, holding up a picture of their new friend, "have you seen him?" "Oh no, no," your sailors reply. Still, the officials conduct a cursory search, but the man of many talents has no difficulty hiding from them. When they have gone, there is a hearty cheer. "Glad to have you with us!" bellows the Captain. You have a new recruit!</Text>
+          <Status>Exported</Status>
+          <ExportCount>11</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21614</LineID>
+    </Text>
+  </Values>
+</Asset>

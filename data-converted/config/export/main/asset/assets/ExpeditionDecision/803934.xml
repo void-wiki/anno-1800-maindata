@@ -1,0 +1,41 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803934</GUID>
+      <Name>Cracking Ice 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803935</Option>
+        </Item>
+        <Item>
+          <Option>803944</Option>
+        </Item>
+        <Item>
+          <Option>803947</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <ProgressReview>117456</ProgressReview>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_tradingpost.png</Sketch>
+        <SketchPosX>1689</SketchPosX>
+        <SketchPosY>724</SketchPosY>
+        <SketchSizeX>228</SketchSizeX>
+        <SketchSizeY>222</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>As you near the coast, a large human construction delineates itself, &lt;b&gt;"Most probably an abandoned trading post of the Huddlesome Bay company."&lt;/b&gt; It leans hard into the wind, its once-red boards scoured pale. If Sir John and his crew came this way, they would likely have stopped here. "What of getting there, sir?" says the ship's boy. He has noticed that &lt;b&gt;an ice sheet lies between your ship and the trading post.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34898</LineID>
+    </Text>
+  </Values>
+</Asset>

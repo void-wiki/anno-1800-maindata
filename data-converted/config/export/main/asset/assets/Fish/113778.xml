@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Fish</Template>
+  <Values>
+    <Standard>
+      <GUID>113778</GUID>
+      <Name>giant_orange_jellyfish</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/units/wildlife/giant_orange_jellyfish/giant_orange_jellyfish.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Walking>
+      <SpecialMovementType />
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <Mesh />
+    <DayNightReaction />
+  </Values>
+</Asset>

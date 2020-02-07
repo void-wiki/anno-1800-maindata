@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803547</GUID>
+      <Name>The Coral Island 1.2.1.2.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191089</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Great quantities of exotic paw-paws, and something else with paws!&lt;/b&gt; "It was alone and frightened, so we decided to adopt it!" says the chubby bespectacled sailor. The crew rejoice to have a new friend aboard, and as if inspired by the little pup rolling around, finish the repairs in double time. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33021</LineID>
+    </Text>
+  </Values>
+</Asset>

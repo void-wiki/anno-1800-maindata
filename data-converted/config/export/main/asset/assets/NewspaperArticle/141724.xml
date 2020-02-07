@@ -1,0 +1,34 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141724</GUID>
+      <Name>Diplomacy Alliance Player Cancelled</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14307</Headline>
+      <Subline>14308</Subline>
+      <Image>142167</Image>
+      <Category>Diplomacy</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>530</StartValue>
+        <LossOnPublish>0</LossOnPublish>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

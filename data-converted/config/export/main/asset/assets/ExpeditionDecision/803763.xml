@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803763</GUID>
+      <Name>Permit A38 1.1.2.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803764</Option>
+        </Item>
+        <Item>
+          <Option>803771</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Climb all the floors, look everywhere. "These stairs are pretty steep!" complains a sailor. Unfortunately no map is on sight. The sailors are very tired and a bit discouraged.</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

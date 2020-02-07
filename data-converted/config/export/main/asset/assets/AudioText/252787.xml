@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cease-fire at once! </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10923</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223579</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252787</GUID>
+      <Name>AT_ai09_NpcOffersCeasefire1</Name>
+    </Standard>
+  </Values>
+</Asset>

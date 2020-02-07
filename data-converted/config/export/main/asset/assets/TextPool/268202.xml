@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268202</GUID>
+      <Name>Pool_ai03_SmugglerQuestTradingStationReached</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>251273</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251276</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251280</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251281</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251286</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

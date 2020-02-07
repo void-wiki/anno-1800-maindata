@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>10819</GUID>
+      <Name>PassiveTradeNotificationText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Participants ParticipantName([NotificationContext Value(Trader) Object Owner])] fullfilled a trade in [NotificationContext Value(Area) Area CityName]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11996</LineID>
+    </Text>
+  </Values>
+</Asset>

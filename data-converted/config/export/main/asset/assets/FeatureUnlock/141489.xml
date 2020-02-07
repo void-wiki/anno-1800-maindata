@@ -1,0 +1,27 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>141489</GUID>
+      <Name>ConstructionAI</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resource_worker_2.png</IconFilename>
+      <ID>ConstructionAIUnlock</ID>
+    </Standard>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <Scope>MetaGame</Scope>
+    </Locked>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

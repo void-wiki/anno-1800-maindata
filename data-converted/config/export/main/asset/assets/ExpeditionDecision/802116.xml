@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802116</GUID>
+      <Name>Lava Maze 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802117</Option>
+        </Item>
+        <Item>
+          <Option>802118</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Tremors, ash rain, light during night: it's an eruption!&lt;/b&gt; The island was too lush and bountiful to be harmless. The lava responsible for the fertile ground creeps from the mouth of the waking volcano and towards the jungle where a party of your men had erected camp for the night.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21743</LineID>
+    </Text>
+  </Values>
+</Asset>

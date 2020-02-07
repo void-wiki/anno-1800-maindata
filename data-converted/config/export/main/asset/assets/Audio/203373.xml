@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203373</GUID>
+      <Name>wwc_sfx_anm_zoo_old_white_tiger</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>203379</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4051802644</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Zeppelins'll take off, you'll see. Soon they'll all want a piece of my lady blimp.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12296</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231322</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261092</GUID>
+      <Name>AT_3rdParty06_IdleMessageSelf3</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The farms have produced so much, I can afford to give some away.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30527</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204302</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109882</GUID>
+      <Name>AT_ai10_NpcGivesGift3</Name>
+    </Standard>
+  </Values>
+</Asset>

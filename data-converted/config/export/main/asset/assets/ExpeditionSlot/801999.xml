@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionSlot</Template>
+  <Values>
+    <ExpeditionSlot>
+      <SlotRegion>SouthAmerica</SlotRegion>
+      <SpecialExpeditionsSlot>
+        <Item>
+          <Expedition>801900</Expedition>
+        </Item>
+        <Item>
+          <Expedition>801901</Expedition>
+        </Item>
+        <Item>
+          <Expedition>801902</Expedition>
+        </Item>
+      </SpecialExpeditionsSlot>
+    </ExpeditionSlot>
+    <Standard>
+      <GUID>801999</GUID>
+      <Name>Campaign Chapter 3</Name>
+    </Standard>
+  </Values>
+</Asset>

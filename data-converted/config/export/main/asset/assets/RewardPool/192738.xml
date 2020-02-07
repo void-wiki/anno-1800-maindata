@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192738</GUID>
+      <Name>Specialists - Public Buildings EU - Common</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190669</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190675</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190726</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191564</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191569</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191575</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

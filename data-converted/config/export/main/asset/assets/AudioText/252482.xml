@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My suppliers are always letting me down! </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10750</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222500</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252482</GUID>
+      <Name>AT_ai06_PlyrCancelsTradeRights1</Name>
+    </Standard>
+  </Values>
+</Asset>

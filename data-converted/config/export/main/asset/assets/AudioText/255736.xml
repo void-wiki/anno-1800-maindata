@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We await yer order!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8020</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217378</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255736</GUID>
+      <Name>AT_captain_GenericEventCallToAction4</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802906</GUID>
+      <Name>The Frozen Chasm 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The snow anchor fails your sailors terribly.&lt;/b&gt; For most of your crew, a snow anchor is but a vague concept. The rescuers bind themselves to a frail heap of packed snow and descend into the crevasse one by one. One, two, three men slide along the walls of ice, their weight pulling on the cracking anchor. When the fourth jumps into the rift, the anchor falls with him and with them the very edge of the ice - burying the crevasse and sealing it forever.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22119</LineID>
+    </Text>
+  </Values>
+</Asset>

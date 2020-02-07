@@ -1,0 +1,53 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268852</GUID>
+      <Name>Pool_enemy02_UsedPropaganda</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258407</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258408</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258409</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258410</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258411</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258412</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258420</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268049</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256259</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256276</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193758</GUID>
+      <Name>Unique Plants E/L</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>111106</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112611</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111108</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112728</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>112730</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

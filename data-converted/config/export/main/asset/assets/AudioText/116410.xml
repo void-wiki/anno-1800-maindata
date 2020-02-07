@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The expedition must have been really stubborn to venture up there.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34258</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245096</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>2.3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>116410</GUID>
+      <Name>AT_DLC03_res1_Movie2_3</Name>
+    </Standard>
+  </Values>
+</Asset>

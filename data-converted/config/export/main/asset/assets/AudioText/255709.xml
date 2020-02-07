@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There be monsters abroad!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8030</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217375</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255709</GUID>
+      <Name>AT_captain_EventCallToAction_Wildlife1</Name>
+    </Standard>
+  </Values>
+</Asset>

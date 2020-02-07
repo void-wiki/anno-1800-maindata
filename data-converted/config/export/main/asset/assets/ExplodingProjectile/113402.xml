@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>113402</GUID>
+      <Name>RadarProjectile_A</Name>
+      <InfoDescription>113404</InfoDescription>
+    </Standard>
+    <Projectile />
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/effects/particles/sonar_radar/diving_spot_detected_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamage>0</InnerDamage>
+      <KamikazeRadiusDecal>501554</KamikazeRadiusDecal>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>238322</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>238321</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident />
+  </Values>
+</Asset>

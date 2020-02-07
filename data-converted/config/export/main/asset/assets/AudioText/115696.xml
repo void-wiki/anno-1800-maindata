@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The oil! Don't let it reach the oil!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34190</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>244896</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>115696</GUID>
+      <Name>AT_DLC03_res1_ProductionFire1</Name>
+    </Standard>
+  </Values>
+</Asset>

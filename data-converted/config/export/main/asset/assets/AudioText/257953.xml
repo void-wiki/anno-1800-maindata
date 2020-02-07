@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A good servant to the Empire? What a quaint observation. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9634</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221373</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257953</GUID>
+      <Name>AT_enemy_02_PlyrFailsToFlatterNpc1</Name>
+    </Standard>
+  </Values>
+</Asset>

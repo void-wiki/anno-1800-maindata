@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800274</GUID>
+      <Name>The Ghost Ship 1.3.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Pirates! But trickery cannot match the power of a modern seaship!&lt;/b&gt; Summarily demolished, a few of them are left clinging to wreckage. They beg to join your cause - unpaid. Such are the dwindling prospects of piracy in this day! The crew will jibe at them, but secretly all must be elated to have acquired such sea-wisdom for free.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5550</LineID>
+    </Text>
+  </Values>
+</Asset>

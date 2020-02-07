@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>178</PortraitName>
+      <PortraitCameraAmbientConfig>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/campaigncousin.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>101307</GUID>
+      <Name>campaign_character_09_cousin_male</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_09.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/campaign_portrait_09/campaign_portrait_09.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

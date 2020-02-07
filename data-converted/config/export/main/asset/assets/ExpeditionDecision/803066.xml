@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803066</GUID>
+      <Name>Fear of the Light 1.1.2.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew has had enough of the doctor's incapability.&lt;/b&gt; The man of science probes the body, tearing its clothes to reveal bruised skin and vulnerable flesh - a sight which convinces the sailors that they have seen the boundaries of his skill. The doctor is seized and roped alongside the cadaver he was desecrating, and left to ponder over his calling in the depths of the hull. At the next harbour, your crew realises that the doctor's wrinkled mass will never do harm nor good again.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26314</LineID>
+    </Text>
+  </Values>
+</Asset>

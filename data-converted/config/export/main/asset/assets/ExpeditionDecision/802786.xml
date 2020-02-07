@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802786</GUID>
+      <Name>Jolly Roger 1.2.1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You only take a few losses&lt;/b&gt; between reloads, when wild pirates set upon the soldiery with cutlasses and handaxes. Suddenly there is a cry from the pirate ship. The pirate captain is hit! Clutching her chest she is borne away below deck on the shoulders of her shipmates. The pirates immediately withdraw so they may attend to their queen.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21539</LineID>
+    </Text>
+  </Values>
+</Asset>

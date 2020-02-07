@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Are you sure you want to part of my mob? </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10660</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222658</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260203</GUID>
+      <Name>AT_ai05_PlyrBuysSharesFromNpc1</Name>
+    </Standard>
+  </Values>
+</Asset>

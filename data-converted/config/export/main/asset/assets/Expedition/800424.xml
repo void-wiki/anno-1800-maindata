@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>800424</GUID>
+      <Name>Zoological Expedition Hard</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/expeditions/icon_expedition_wildlife.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11630</ExpeditionName>
+      <ExpeditionDescription>3600</ExpeditionDescription>
+      <ExpeditionRegion>Arctic</ExpeditionRegion>
+      <ExpeditionDifficulty>Hard</ExpeditionDifficulty>
+      <FillEventPool>800037</FillEventPool>
+      <Threats>
+        <Item>
+          <Threat>800030</Threat>
+        </Item>
+      </Threats>
+      <FillThreats>1</FillThreats>
+      <WorldMapCardBG>501384</WorldMapCardBG>
+      <ExpeditionWorldMapAsset>data/graphics/ui/3d_objects/expedition_marker/expedition_marker_04.cfg</ExpeditionWorldMapAsset>
+      <Reward>803429</Reward>
+      <BackgroundVideo>data/ui/video/expedition/wildlife_polar_a.bk2</BackgroundVideo>
+      <BackgroundVideoSounds>
+        <Item>
+          <Event>202366</Event>
+        </Item>
+      </BackgroundVideoSounds>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

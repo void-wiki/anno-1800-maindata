@@ -1,0 +1,29 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700062</GUID>
+      <Name>AP - TQ European Animal Farms</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010267</Asset>
+        </Item>
+        <Item>
+          <Asset>1010269</Asset>
+        </Item>
+        <Item>
+          <Asset>1010263</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>AP - TQ European Animal Farms</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

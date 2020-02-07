@@ -1,0 +1,51 @@
+<Asset>
+  <Template>CollectableOnTerrain</Template>
+  <Values>
+    <Collectable>
+      <DestroyOnCollect>1</DestroyOnCollect>
+      <OnScreenTextAsDivingBellReward>1</OnScreenTextAsDivingBellReward>
+    </Collectable>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/box_stack_large/large_wooden_boxes_04.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>117397</GUID>
+      <Name>COLLECTABLE Fancy Crate OnTerrain (Quest)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_crates.png</IconFilename>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Crate</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <QuestObject>
+      <BlockSpawnPosition>1</BlockSpawnPosition>
+    </QuestObject>
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+    <FeedbackController />
+  </Values>
+</Asset>

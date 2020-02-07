@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803730</GUID>
+      <Name>Atoll 1.1.1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>114992</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The bell rings true.&lt;/b&gt; Despite plonking into the water at an angle to which it is unaccustomed— the ship being at a slant —the diving bell descends easily to the scene of your troubles. Through the little glass window, a forest of living pastel appears, of which some of the more beautiful examples are embedded in the hull. Once your divers have detached the lifelinks constraining your vessel, your crew are free to resume what is becoming a fascinating journey. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33483</LineID>
+    </Text>
+  </Values>
+</Asset>

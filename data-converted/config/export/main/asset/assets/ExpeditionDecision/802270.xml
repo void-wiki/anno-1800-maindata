@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802270</GUID>
+      <Name>Songs Under the Sea 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802272</Option>
+        </Item>
+        <Item>
+          <Option>802275</Option>
+        </Item>
+        <Item>
+          <Option>802289</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The lookout is sure of himself: he has sighted a mermaid.&lt;/b&gt; In the hot noon sun, sailors suspend their duties and rush to inspect the mirror waters for a sign of the creature. Lo! There is something—  a glimmer of silver tail, and a sweet yet melancholy melody that follows behind it. Surely it is mermaid song!</Text>
+          <Status>Exported</Status>
+          <ExportCount>8</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20812</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802600</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The raft can't even float.&lt;/b&gt; Your sailors bind logs and dead branches together, binding them with sturdy knots but little knowledge of how to actually assemble the ropes. The raft's apparent stability tricks the builders into climbing onto it, and the raft swirls over the river, wobbling under the weight of sailors and the pressure of the current, before breaking and diving straight into the icy water. Few sailors can be rescued from the wreckage.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21673</LineID>
+    </Text>
+  </Values>
+</Asset>

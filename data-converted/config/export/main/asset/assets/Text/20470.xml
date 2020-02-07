@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20470</GUID>
+      <Name>ReplaceInputs(FestivalBuff0)</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_trade.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Instead of [ItemAssetData([AreaManager AreaFestival BuffGuids AT(0) Text]) ReplaceInputOldInputsFormatted], the building uses [ItemAssetData([AreaManager AreaFestival BuffGuids AT(0) Text]) ReplaceInputNewInputsFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29041</LineID>
+    </Text>
+  </Values>
+</Asset>

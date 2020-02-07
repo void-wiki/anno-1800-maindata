@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The causeway remains at high tide, though it cannot be seen. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6054</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216672</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254816</GUID>
+      <Name>AT_ai02_NPCReputationAutocorrectIncrease8</Name>
+    </Standard>
+  </Values>
+</Asset>

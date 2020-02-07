@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ResolveActionCost</Template>
+  <Values>
+    <Standard>
+      <GUID>140734</GUID>
+      <Name>IllnessResolveActionCost</Name>
+    </Standard>
+    <Cost>
+      <Costs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>ResolveActionCost</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>10000</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+    <IncidentResolverUpkeep />
+  </Values>
+</Asset>

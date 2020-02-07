@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803900</GUID>
+      <Name>Blizzard 1.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>804147</InsertEvent>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_blizzard.png</Sketch>
+        <SketchPosX>1196</SketchPosX>
+        <SketchPosY>210</SketchPosY>
+        <SketchSizeX>121</SketchSizeX>
+        <SketchSizeY>98</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Twang! The sails flap away into dark drifts of snow.&lt;/b&gt; Your able-footed sailor reaching every rope without slip, and the snowflakes crowding his eyes unable to prevent the skillful execution of his art. Next day the Arctic sky is still once more. &lt;b&gt;"The mast is intact, and we've spare rope and sail," says the carpenter, "we'll be all right."&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34869</LineID>
+    </Text>
+  </Values>
+</Asset>

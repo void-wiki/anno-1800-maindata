@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>1000235</GUID>
+      <Name>m m drunk celebrate</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/celebrate/m_m_drunk_celebrate.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/special/celebrate/m_m_drunk_celebrate_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

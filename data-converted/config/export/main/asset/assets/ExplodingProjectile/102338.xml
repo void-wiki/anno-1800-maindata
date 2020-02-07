@@ -1,0 +1,48 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>102338</GUID>
+      <Name>SmallSingleHowitzer</Name>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>1</ShotHeight>
+      <ShotAngle>15</ShotAngle>
+      <ProjectileSpeed>40</ProjectileSpeed>
+      <DamageType>Cannon</DamageType>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_howitzer_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>1</InnerDamageRadius>
+      <InnerDamage>100</InnerDamage>
+      <DebrisForceY>0</DebrisForceY>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>1</OuterDamageRadius>
+      <MinimumDamage>900</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>235859</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235858</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident />
+  </Values>
+</Asset>

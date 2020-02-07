@@ -1,0 +1,77 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191608</GUID>
+      <Name>Horatio Nelson</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_captain_102.png</IconFilename>
+      <InfoDescription>19973</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Lord High Admiral Nadasky, The Astute.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26763</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>930000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>55</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19973</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade>
+      <AddStatusEffects>
+        <Item>
+          <StatusEffect>191305</StatusEffect>
+          <StatusDuration>5000</StatusDuration>
+        </Item>
+      </AddStatusEffects>
+      <DamageFactor>
+        <SailShip>
+          <Factor>1.5</Factor>
+        </SailShip>
+      </DamageFactor>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <TradeShipUpgrade />
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

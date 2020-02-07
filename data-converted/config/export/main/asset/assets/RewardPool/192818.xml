@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192818</GUID>
+      <Name>Characters - George - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192230</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192231</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192232</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192233</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

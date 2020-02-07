@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This grim monotony is worse than life.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11000</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223057</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260082</GUID>
+      <Name>AT_advisor01_GenNegFeedback1</Name>
+    </Standard>
+  </Values>
+</Asset>

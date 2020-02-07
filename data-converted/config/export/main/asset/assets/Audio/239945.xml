@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239945</GUID>
+      <Name>wwe_voc_mur_artisan_unhappy</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1975</DurationMinimum>
+          <DurationMaximum>21382</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1754</DurationMinimum>
+          <DurationMaximum>20529</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1727</DurationMinimum>
+          <DurationMaximum>21653</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1604</DurationMinimum>
+          <DurationMaximum>21185</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3388477351</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

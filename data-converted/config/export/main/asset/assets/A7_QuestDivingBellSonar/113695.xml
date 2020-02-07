@@ -1,0 +1,88 @@
+<Asset>
+  <Template>A7_QuestDivingBellSonar</Template>
+  <Values>
+    <Standard>
+      <GUID>113695</GUID>
+      <Name>Hidden Diving Old World Scrap 1</Name>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <FailureMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </FailureMessage>
+      <InvitationMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </InvitationMessage>
+      <ReminderMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </ReminderMessage>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180023</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <Context>112084</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hidden Sonar Quest</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestDivingBellSonar</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ConditionQuestObjective>
+                <JumpToVisibility>Hide</JumpToVisibility>
+              </ConditionQuestObjective>
+              <ConditionQuestDivingBell>
+                <TreasureItem>112857</TreasureItem>
+                <AdditionalScrapItem>112857</AdditionalScrapItem>
+                <SpawnedTreasureGround>113692</SpawnedTreasureGround>
+              </ConditionQuestDivingBell>
+              <SpawnArea />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+  </Values>
+</Asset>

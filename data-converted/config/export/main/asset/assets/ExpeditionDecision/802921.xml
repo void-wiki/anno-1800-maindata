@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802921</GUID>
+      <Name>The Frozen Chasm 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802907</Option>
+        </Item>
+        <Item>
+          <Option>802926</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A way in!&lt;/b&gt; Following the glacier and identifying its contours by the bumps and gaps of its snow cape, your sailors find a spot of crunchy and brittle ice which covers the entrance of a steep slope leading into the crevasse. The wounded men lie at its end, doing their best to muffle their whimpers of pain.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22121</LineID>
+    </Text>
+  </Values>
+</Asset>

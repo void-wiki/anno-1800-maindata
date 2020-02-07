@@ -1,0 +1,37 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400064</GUID>
+      <Name>Action_Achievement_Uncover the Truth</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Campaign</AchievementCategory>
+      <AchievementTitle>15330</AchievementTitle>
+      <AchievementDescription>15331</AchievementDescription>
+      <AchievementUPlayID>8</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Common</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>QuestSolved</PlayerCounter>
+            <Context>150914</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>5</UplayActionID>
+      <UplayActionPoints>20</UplayActionPoints>
+      <UplayXP>250</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

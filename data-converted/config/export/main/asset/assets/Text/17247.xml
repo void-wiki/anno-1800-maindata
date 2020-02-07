@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>17247</GUID>
+      <Name>Notification TradePlayerCancelled</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You cancelled the trade agreement with [Participants ParticipantName([NotificationContext Value(TargetParticipant) Int])].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22598</LineID>
+    </Text>
+  </Values>
+</Asset>

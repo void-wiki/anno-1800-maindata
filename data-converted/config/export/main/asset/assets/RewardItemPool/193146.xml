@@ -1,0 +1,26 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193146</GUID>
+      <Name>Archetype (Worker) Rare Reward Pool Oliver</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191971</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191766</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191706</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190483</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

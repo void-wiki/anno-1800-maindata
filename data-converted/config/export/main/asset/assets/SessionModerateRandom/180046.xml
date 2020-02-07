@@ -1,0 +1,34 @@
+<Asset>
+  <Template>SessionModerateRandom</Template>
+  <Values>
+    <Standard>
+      <GUID>180046</GUID>
+      <Name>BenchmarkSession</Name>
+      <ID>BenchmarkSession</ID>
+    </Standard>
+    <Session>
+      <MapTemplate>141402</MapTemplate>
+      <CameraLoopSequence1>11</CameraLoopSequence1>
+      <CameraLoopSequence2>10</CameraLoopSequence2>
+      <AllowAdvancedCameraSettings>1</AllowAdvancedCameraSettings>
+    </Session>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Benchmark</Text>
+          <Status>Edit</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+    </Text>
+    <MapGeneratorInput>
+      <SessionSize>Large</SessionSize>
+      <SetIslandSizes>Large</SetIslandSizes>
+      <SetResourceAmount>High</SetResourceAmount>
+      <SetFertilityAmount>High</SetFertilityAmount>
+      <SetRegion>Moderate</SetRegion>
+    </MapGeneratorInput>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

@@ -1,0 +1,11 @@
+<Template>
+  <Name>StaticBlockingObject</Name>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object />
+    <Blocking>
+      <BlockWater>1</BlockWater>
+    </Blocking>
+  </Properties>
+</Template>

@@ -1,0 +1,37 @@
+<Asset>
+  <Template>SessionTradeRouteOverviewScene</Template>
+  <Values>
+    <Standard>
+      <GUID>500710</GUID>
+      <Name>SessionTradeRouteOverviewScene</Name>
+      <ID>SessionTradeRouteOverviewScene</ID>
+    </Standard>
+    <SessionTradeRouteOverviewScene>
+      <MaxGoodsPreview>6</MaxGoodsPreview>
+      <RouteCreateButtons>
+        <Normal>
+          <Icon>500746</Icon>
+          <Headline>11715</Headline>
+          <InfoTip>500749</InfoTip>
+          <BackgroundImage>500801</BackgroundImage>
+        </Normal>
+        <Charter>
+          <Icon>500466</Icon>
+          <Headline>11714</Headline>
+          <InfoTip>500750</InfoTip>
+          <BackgroundImage>500802</BackgroundImage>
+        </Charter>
+        <Oil>
+          <Icon>500748</Icon>
+          <Headline>11717</Headline>
+          <InfoTip>500752</InfoTip>
+          <BackgroundImage>500804</BackgroundImage>
+        </Oil>
+      </RouteCreateButtons>
+      <NoGoodsInfoTip>501199</NoGoodsInfoTip>
+      <NoShipsInfoTip>501200</NoShipsInfoTip>
+      <AllShipsPausedInfoTip>501201</AllShipsPausedInfoTip>
+      <GeneralWarningInfoTip>501205</GeneralWarningInfoTip>
+    </SessionTradeRouteOverviewScene>
+  </Values>
+</Asset>

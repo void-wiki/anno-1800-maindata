@@ -1,0 +1,41 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>150032</GUID>
+      <Name>QP MainQuest</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <SubPools>
+        <Item>
+          <Pool>150724</Pool>
+        </Item>
+        <Item>
+          <Pool>150725</Pool>
+        </Item>
+        <Item>
+          <Pool>150801</Pool>
+        </Item>
+        <Item>
+          <Pool>150829</Pool>
+        </Item>
+      </SubPools>
+      <IsTopLevel>1</IsTopLevel>
+      <QuestLimit>10</QuestLimit>
+      <PoolCooldown>0</PoolCooldown>
+    </QuestPool>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+    </Locked>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

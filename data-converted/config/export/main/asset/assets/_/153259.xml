@@ -1,0 +1,89 @@
+<Asset>
+  <BaseAssetGUID>152589</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>153259</GUID>
+      <Name>Back to work - Malching</Name>
+    </Standard>
+    <Quest>
+      <IsEnabled>1</IsEnabled>
+    </Quest>
+    <PreConditionList />
+    <Text />
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>A7_QuestPickupObject</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Objective>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ConditionQuestSmuggler>
+                <SmugglerStations>
+                  <Item>
+                    <VectorElement>
+                      <InheritedIndex>0</InheritedIndex>
+                      <InheritanceMapV2>
+                        <Entry>
+                          <TemplateName>SmugglerObjective</TemplateName>
+                          <Index>0</Index>
+                        </Entry>
+                      </InheritanceMapV2>
+                    </VectorElement>
+                    <Station>
+                      <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                      <Values>
+                        <TradingStation>
+                          <TradingStationRetrieveItem>193668</TradingStationRetrieveItem>
+                        </TradingStation>
+                      </Values>
+                    </Station>
+                  </Item>
+                  <Item>
+                    <VectorElement>
+                      <InheritedIndex>1</InheritedIndex>
+                      <InheritanceMapV2>
+                        <Entry>
+                          <TemplateName>SmugglerObjective</TemplateName>
+                          <Index>1</Index>
+                        </Entry>
+                      </InheritanceMapV2>
+                    </VectorElement>
+                    <Station>
+                      <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                      <Values>
+                        <TradingStation>
+                          <TradingStationBringItem>193668</TradingStationBringItem>
+                        </TradingStation>
+                      </Values>
+                    </Station>
+                  </Item>
+                </SmugglerStations>
+              </ConditionQuestSmuggler>
+              <ConditionQuestObjective />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectAnywhere</Template>
+                  <Values>
+                    <ConditionObjectAnywhere />
+                  </Values>
+                </ExecutionPlace>
+                <ExecutionPlaceConfirmOnReached>1</ExecutionPlaceConfirmOnReached>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+  </Values>
+</Asset>

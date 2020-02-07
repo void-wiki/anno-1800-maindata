@@ -1,0 +1,16 @@
+<Asset>
+  <BaseAssetGUID>2001174</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>141999</GUID>
+      <Name>Test Train</Name>
+    </Standard>
+    <TrafficFeedbackUnit>
+      <SpeedSource>TakeFromAsset</SpeedSource>
+      <OverwriteSpeed>0.8</OverwriteSpeed>
+    </TrafficFeedbackUnit>
+    <Trailer>
+      <TrailerType>TrainStatic</TrailerType>
+    </Trailer>
+  </Values>
+</Asset>

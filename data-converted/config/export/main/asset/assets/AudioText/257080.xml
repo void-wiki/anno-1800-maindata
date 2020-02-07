@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Poison flowers drop poison seeds.  </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17765</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>236392</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257080</GUID>
+      <Name>AT_enemy_02_ExpansionPlayerHigherThanNPC2</Name>
+    </Standard>
+  </Values>
+</Asset>

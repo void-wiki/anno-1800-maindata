@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I am about to hurt your friend. Wanna join in?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12821</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229516</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261322</GUID>
+      <Name>AT_ai08_NpcInvokesAllianceDecision</Name>
+    </Standard>
+  </Values>
+</Asset>

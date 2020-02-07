@@ -1,0 +1,45 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>112921</GUID>
+      <Name>Big Oil Extractor Buff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_oil_extractor_1.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>101331</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Extra Virgin Oily Sucker</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32362</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <AdditionalOutput>
+        <Item>
+          <Product>1010566</Product>
+          <AdditionalOutputCycle>1</AdditionalOutputCycle>
+          <Amount>4</Amount>
+        </Item>
+      </AdditionalOutput>
+    </FactoryUpgrade>
+    <BuildingUpgrade />
+    <Buff />
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentFireIncreaseUpgrade>
+        <Value>15</Value>
+      </IncidentFireIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+  </Values>
+</Asset>

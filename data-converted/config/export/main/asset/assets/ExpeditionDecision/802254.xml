@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802254</GUID>
+      <Name>The Deeper You Go 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802230</Option>
+        </Item>
+        <Item>
+          <Option>802231</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The boulder doesn't move.&lt;/b&gt; Your explorers push and nudge and thrust but the exit stays sealed. They have no choice but to obey the maze's invitation.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21096</LineID>
+    </Text>
+  </Values>
+</Asset>

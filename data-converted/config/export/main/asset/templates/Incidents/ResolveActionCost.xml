@@ -1,0 +1,18 @@
+<Template>
+  <Name>ResolveActionCost</Name>
+  <Properties>
+    <Standard />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>1000</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+    <IncidentResolverUpkeep>
+      <WorkforceUpkeepAmount>0</WorkforceUpkeepAmount>
+      <WorkforceDeltaPriority>0</WorkforceDeltaPriority>
+    </IncidentResolverUpkeep>
+  </Properties>
+</Template>

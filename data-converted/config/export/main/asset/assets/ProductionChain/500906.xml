@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>500906</GUID>
+      <Name>colony01 rum chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rum_barrel.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>1010340</Building>
+      <Tier1>
+        <Item>
+          <Building>101260</Building>
+        </Item>
+        <Item>
+          <Building>1010329</Building>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Rum</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21463</LineID>
+    </Text>
+  </Values>
+</Asset>

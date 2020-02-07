@@ -1,0 +1,43 @@
+<Asset>
+  <Template>Profile_3rdParty_NoTrader_NoProperty3rdParty</Template>
+  <Values>
+    <Standard>
+      <GUID>241</GUID>
+      <Name>Third_party_12 (Sir John)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/missing_captain.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sir John Faithful</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35157</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/missing_captain.png</ProfilePicture>
+      <Portrait>116746</Portrait>
+      <CompanyIcon>114206</CompanyIcon>
+      <ProfileType>ThirdParty</ProfileType>
+      <ParticipantID>Arctic_SirJohn</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <DefaultColor>Color11</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers />
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Arctic_SirJohn</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject />
+    <Interaction />
+    <Diplomacy />
+    <MilitaryAI />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

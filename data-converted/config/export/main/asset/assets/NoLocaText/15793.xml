@@ -1,0 +1,19 @@
+<Asset>
+  <Template>NoLocaText</Template>
+  <Values>
+    <Standard>
+      <GUID>15793</GUID>
+      <Name>Bring To Object Objective Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sail to [AssetData([Conditions QuestCondition ExecutionObject]) Text] and receive the gift</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22172</LineID>
+    </Text>
+  </Values>
+</Asset>

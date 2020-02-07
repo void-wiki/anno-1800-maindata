@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What does it take for a captain to abandon his ship? To go on by foot?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8079</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230290</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254655</GUID>
+      <Name>AT_LadyFaithful_Phase3_FindtheShips_SuccessAudio</Name>
+    </Standard>
+  </Values>
+</Asset>

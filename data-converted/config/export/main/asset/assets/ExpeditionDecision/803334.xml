@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803334</GUID>
+      <Name>Good Whale Hunting 1.6.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Neither ship nor whale tries to avoid impact.&lt;/b&gt; Used to being a predatorless presence, the whale shoves aside the obstacle in its way and the ship is sent rocking. The creatures go on in indifference, reminding the crew of their meagerness.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26352</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,46 @@
+<Asset>
+  <Template>MainQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>150530</GUID>
+      <Name>Chapter100_Intro</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_questmain.png</IconFilename>
+    </Standard>
+    <Quest>
+      <QuestGiver>212</QuestGiver>
+      <IsEnabled>0</IsEnabled>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionActiveSession</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveSession>
+            <ActiveSession>180023</ActiveSession>
+          </ConditionActiveSession>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardAssets />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>ConditionAlwaysTrue</Template>
+            <Values>
+              <Condition />
+              <ConditionAlwaysTrue />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestMain>
+      <CampaignProgress>0</CampaignProgress>
+    </QuestMain>
+  </Values>
+</Asset>

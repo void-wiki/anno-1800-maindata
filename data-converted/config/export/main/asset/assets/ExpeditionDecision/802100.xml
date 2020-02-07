@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802100</GUID>
+      <Name>Sea Still 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802102</Option>
+        </Item>
+        <Item>
+          <Option>802103</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A good shot, but there is too little wind to tug them clear.&lt;/b&gt; Having signalled your intention, the gunner sends the harpoon crunching into the other ship's hull. A fine shot considering it was at the limit of the harpoon's range. The calm prohibits pulling them out of the brown mass of algae, so the crew consider their next steps. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21486</LineID>
+    </Text>
+  </Values>
+</Asset>

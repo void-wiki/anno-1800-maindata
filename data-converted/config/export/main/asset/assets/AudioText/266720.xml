@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Don’t worry, that old tyrant can’t hold us back anymore!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17692</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>239643</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>10</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266720</GUID>
+      <Name>AT_RiotCousin_movie03_01</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200531</GUID>
+      <Name>wwe_sfx_bld_culture_02_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>200532</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1221201804</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

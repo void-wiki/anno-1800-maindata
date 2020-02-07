@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Why do they celebrate that fop Gasparov at the club? All he does is blither about buttresses!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1603</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211597</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250309</GUID>
+      <Name>AT_ai07_IdleMessageGossip_Gasparov</Name>
+    </Standard>
+  </Values>
+</Asset>

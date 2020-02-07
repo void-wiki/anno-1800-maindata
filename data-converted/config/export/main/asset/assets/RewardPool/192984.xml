@@ -1,0 +1,50 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192984</GUID>
+      <Name>Pirate Hunt Reward Subpool - Epic</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_war.png</IconFilename>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192660</ItemLink>
+          <MinAmount>2</MinAmount>
+          <MaxAmount>3</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>192701</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192706</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192711</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192716</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192721</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192726</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193456</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193461</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193466</ItemLink>
+        </Item>
+      </ItemsPool>
+      <IgnoreUnlocks>1</IgnoreUnlocks>
+      <RewardDescription>12799</RewardDescription>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

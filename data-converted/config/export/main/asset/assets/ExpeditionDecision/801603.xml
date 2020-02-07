@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801603</GUID>
+      <Name>Sunken Depths 1.2.1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190489</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The pearl is made of pure jade!&lt;/b&gt; The crew marvels at it and all want to touch it, feel it, smell it. The pearl spreads a nostalgic fragrance of salt water, fresh moss and damp stones, and the sailors agree this might be the very smell of adventure.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16130</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802895</GUID>
+      <Name>The Hutner and the Prey 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802859</Option>
+        </Item>
+        <Item>
+          <Option>802862</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your navigator struggles to fill the sails.&lt;/b&gt; The iron dragon's mouth yawns wide above your little boat, and from it the first plume of fire melts the men at the taffrail. The two hulls are close enough for boarding, but there are just too many of the rogues. Your only options are to cause confusion by throwing some of your stink-pot grenados, or to target the flaming cannon itself.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23687</LineID>
+    </Text>
+  </Values>
+</Asset>

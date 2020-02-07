@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800564</GUID>
+      <Name>The Visitation 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800566</Option>
+        </Item>
+        <Item>
+          <Option>800567</Option>
+        </Item>
+        <Item>
+          <Option>800568</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Hunters find tracks, but can't say what made them.&lt;/b&gt; The marks are indeed strange - disturbing almost. Claw marks that go deep in the decking, as if the unspeakable thing that made them was in some frenzy.    </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5578</LineID>
+    </Text>
+  </Values>
+</Asset>

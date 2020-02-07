@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>S'cold enough to freeze the balls off a brass monkey, gorr, get the coal fires burning posthaste.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33683</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245317</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>116502</GUID>
+      <Name>AT_DLC03_OldNate_ArcticQ201_01</Name>
+    </Standard>
+  </Values>
+</Asset>

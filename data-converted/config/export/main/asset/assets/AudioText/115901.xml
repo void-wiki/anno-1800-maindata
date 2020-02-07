@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Somebody's house is burning!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33930</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245522</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>115901</GUID>
+      <Name>AT_DLC03_res2_Fire4</Name>
+    </Standard>
+  </Values>
+</Asset>

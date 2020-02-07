@@ -1,0 +1,37 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191019</GUID>
+      <Name>FireDebuff</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_incident_fire.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Burning</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>-25</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+    </VehicleUpgrade>
+    <Buff />
+    <AttackerUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <AttackSpeedUpgrade>-20</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

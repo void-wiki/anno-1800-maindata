@@ -1,0 +1,46 @@
+<Asset>
+  <Template>ItemWithUI</Template>
+  <Values>
+    <Standard>
+      <GUID>190577</GUID>
+      <Name>Letter</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_settlement_rights_1.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>ANNO Daily News</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>27020</LineID>
+    </Text>
+    <Item />
+    <ItemWithUI>
+      <ItemActions>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionTriggerTextPopup</Template>
+                  <Values>
+                    <ActionTriggerTextPopup>
+                      <PopupText>10521</PopupText>
+                    </ActionTriggerTextPopup>
+                    <Action />
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </ItemActions>
+    </ItemWithUI>
+    <Locked />
+    <ItemAction />
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

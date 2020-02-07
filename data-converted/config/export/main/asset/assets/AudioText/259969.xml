@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Time to rummage in the old sea chest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11571</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222745</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>259969</GUID>
+      <Name>AT_captain_WelcomeToPlayer10</Name>
+    </Standard>
+  </Values>
+</Asset>

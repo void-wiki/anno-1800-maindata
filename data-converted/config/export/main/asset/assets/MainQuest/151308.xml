@@ -1,0 +1,65 @@
+<Asset>
+  <Template>MainQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>151308</GUID>
+      <Name>CQ_FireTests</Name>
+    </Standard>
+    <Quest>
+      <StoryText>10084</StoryText>
+      <IsEnabled>0</IsEnabled>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>TownFoundationIntro02</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A Spark Rekindled</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17956</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>12714</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <PlayerCounter>InfectedObjects</PlayerCounter>
+                <Context>2001025</Context>
+                <ComparisonOp>Equals</ComparisonOp>
+                <CounterScope>Area</CounterScope>
+                <CounterScopeContext>160002</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestMain>
+      <CampaignProgress>0</CampaignProgress>
+    </QuestMain>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'm ready to sign up for the navy!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12957</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230005</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>262212</GUID>
+      <Name>AT_MurmurFemale7_War_Declared</Name>
+    </Standard>
+  </Values>
+</Asset>

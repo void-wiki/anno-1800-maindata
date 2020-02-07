@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802625</GUID>
+      <Name>The Mountain Maw 1.1.2.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors manage to follow the stream to the mountain's feet.&lt;/b&gt; The stream flows in and out of the frozen ground, playing hide and seek with the desperate crew. They are not the only ones using the trickle as a guide: just before reaching the plains below the mountain, they meet with the missing sailors as they quell their burning thirst in the meagre snow stream. It's unclear which of the two teams is the most pitiful, but all are alive.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21832</LineID>
+    </Text>
+  </Values>
+</Asset>

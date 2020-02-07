@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Miss Jorgensen has a lot of friends you know.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16934</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232996</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265808</GUID>
+      <Name>AT_ai05_DeclareWarOnJorgensen</Name>
+    </Standard>
+  </Values>
+</Asset>

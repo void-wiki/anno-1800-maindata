@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Our bond runs two ways, does it not?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9587</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220401</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258127</GUID>
+      <Name>AT_Advisor02_QuestOffered2</Name>
+    </Standard>
+  </Values>
+</Asset>

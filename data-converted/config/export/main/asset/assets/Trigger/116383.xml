@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>116383</GUID>
+      <Name>ThePassage Trigger OldNateDiscovery</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>DiscoveryEvent</ConditionEvent>
+            <ContextData>DiscoverMe_OldNateAirship</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDiscoverParticipant</Template>
+            <Values>
+              <Action />
+              <ActionDiscoverParticipant>
+                <UseProcessingSourceParticipant>1</UseProcessingSourceParticipant>
+                <DiscoverTargetParticipant>Third_party_06b_Nate_Arctic</DiscoverTargetParticipant>
+              </ActionDiscoverParticipant>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

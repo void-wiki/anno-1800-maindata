@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802787</GUID>
+      <Name>Jolly Roger 1.2.1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseGoodsWithAttribute</NegativeOutcomeLosses>
+      <NegativeOutcomeMin>20</NegativeOutcomeMin>
+      <NegativeOutcomeMax>50</NegativeOutcomeMax>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The first round of rifle fire misses,&lt;/b&gt; and there is no time for a second before the horde are on top of your crew, binding them and maiming those who resist. When the hurly-burly's done, the pirates prop your bound survivors against each other as they trawl the ship for goodies, before they wish you "fair winds", and depart, cackling with glee.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21540</LineID>
+    </Text>
+  </Values>
+</Asset>

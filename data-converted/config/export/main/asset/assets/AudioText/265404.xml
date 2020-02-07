@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There is a new event quest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15990</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234145</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265404</GUID>
+      <Name>AT_Narrator_OnlineEvents_Information_OnlineEventDailyQuestAvailable</Name>
+    </Standard>
+  </Values>
+</Asset>

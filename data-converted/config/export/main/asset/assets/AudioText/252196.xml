@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Look into my eyes. I want to see the light fade before I harvest your husk.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3397</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>210799</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252196</GUID>
+      <Name>AT_ai08_NpcDefeatsPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

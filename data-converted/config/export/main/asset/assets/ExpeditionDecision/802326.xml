@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802326</GUID>
+      <Name>Teeth of the Mountain 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802327</Option>
+        </Item>
+        <Item>
+          <Option>802331</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your envoy's approach is based upon an assumption.&lt;/b&gt; "Hello!" she exclaims suddenly, "what brings you to these godforsaken hills?" But the villagers cannot understand her. They begin to close in on her.</Text>
+          <Status>Exported</Status>
+          <ExportCount>9</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20956</LineID>
+    </Text>
+  </Values>
+</Asset>

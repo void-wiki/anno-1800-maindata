@@ -1,0 +1,41 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>150801</GUID>
+      <Name>QP New World</Name>
+      <IconFilename>data/ui/2kimages/main/assets/bg_om_info.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>257134406</QuestGroup>
+        </Item>
+        <Item>
+          <QuestGroup>-803542299</QuestGroup>
+        </Item>
+        <Item>
+          <QuestGroup>-1026455134</QuestGroup>
+        </Item>
+      </Groups>
+      <QuestLimit>10</QuestLimit>
+      <PoolCooldown>10000</PoolCooldown>
+      <QuestCooldown>10000</QuestCooldown>
+      <SessionDependencies>
+        <Item>
+          <SessionOrRegion>180025</SessionOrRegion>
+        </Item>
+      </SessionDependencies>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

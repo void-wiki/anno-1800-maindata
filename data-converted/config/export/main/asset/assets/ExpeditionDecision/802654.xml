@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802654</GUID>
+      <Name>Blood Oil Tears and Sweat 1.1.2.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew is used to repairs in poor conditions.&lt;/b&gt; Ignoring the swinging floor, the sailors focus on the hull, their legs deep into the pouring water. Drenched supplies float and sink around them as they plug the hole. The seal will not last long, but it should hold until the next harbour.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21859</LineID>
+    </Text>
+  </Values>
+</Asset>

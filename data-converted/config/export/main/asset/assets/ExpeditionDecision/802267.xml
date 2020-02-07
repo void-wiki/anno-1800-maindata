@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802267</GUID>
+      <Name>The Deeper You Go 1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190501</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The unfazed explorers rapidly find an exit.&lt;/b&gt; They notice how the floor's cobblestones move to let the advancing wall pass, and wait for the right moment to jump into the space between wall and floor. One by one they land into the room below, where a large opening to the outside lets morning light in and reveals a spectacle of spiderwebs surrounding a delicate piece of sculpted mahogany.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21094</LineID>
+    </Text>
+  </Values>
+</Asset>

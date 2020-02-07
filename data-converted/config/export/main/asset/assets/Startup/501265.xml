@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Startup</Template>
+  <Values>
+    <Standard>
+      <GUID>501265</GUID>
+      <Name>StartupConfig</Name>
+      <ID>StartupConfig</ID>
+    </Standard>
+    <Startup>
+      <MinEpilepsyWarningTime>5000</MinEpilepsyWarningTime>
+      <IntroVideos>
+        <Item>
+          <Video>300015</Video>
+        </Item>
+      </IntroVideos>
+    </Startup>
+  </Values>
+</Asset>

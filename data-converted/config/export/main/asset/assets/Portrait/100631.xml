@@ -1,0 +1,54 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>46</PortraitName>
+      <PortraitColor>-3652081</PortraitColor>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/eli_3rdparty.portraitcamleft</CamFile>
+        </Left>
+        <Right>
+          <CamFile>data/config/portraitcam/eli_3rdparty.portraitcamright</CamFile>
+        </Right>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <ProfileCreation>
+          <CamFile>data/config/portraitcam/creategamejailor.portraitcam</CamFile>
+        </ProfileCreation>
+        <CreateGame>
+          <CamFile>data/config/portraitcam/creategamejailor.portraitcam</CamFile>
+        </CreateGame>
+        <ProfileSelection>
+          <CamFile>data/config/portraitcam/creategamejailor.portraitcam</CamFile>
+        </ProfileSelection>
+        <ActiveTrade>
+          <CamFile>data/config/portraitcam/activetrade_default.portraitcam</CamFile>
+        </ActiveTrade>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/eli_3rdparty.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/eli_3rdparty.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>100631</GUID>
+      <Name>3rd_party_07 (Eli Bleakworth)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_07.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/3rd_party_07/3rd_party_07.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

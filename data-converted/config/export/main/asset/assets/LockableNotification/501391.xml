@@ -1,0 +1,33 @@
+<Asset>
+  <Template>LockableNotification</Template>
+  <Values>
+    <Standard>
+      <GUID>501391</GUID>
+      <Name>NewAge_Craftsmen_Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>21532</Title>
+            <NotificationMainIconAsset>15000002</NotificationMainIconAsset>
+            <Icon01>1010285</Icon01>
+            <Icon02>1010295</Icon02>
+            <Icon03>1010319</Icon03>
+            <Icon04>100415</Icon04>
+            <BackgroundAnimation>data\ui\video\ui_alpha\main_banner\mainbanner_artisans_a.bk2</BackgroundAnimation>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>16976</NotificationText>
+            <NotificationAudioAsset>201836</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+    <Locked />
+  </Values>
+</Asset>

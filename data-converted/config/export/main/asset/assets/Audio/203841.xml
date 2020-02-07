@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203841</GUID>
+      <Name>wwe_sfx_fbd_ani_ext_fire_lp_STOP</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3000</DurationMinimum>
+          <DurationMaximum>3000</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>7</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>45694763</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

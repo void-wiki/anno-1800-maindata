@@ -1,0 +1,109 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>116634</GUID>
+      <Name>ArcticQuests_Inuit_Pool</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/inuit_trader.png</IconFilename>
+    </Standard>
+    <QuestPool>
+      <Groups>
+        <Item>
+          <QuestGroup>-2091158093</QuestGroup>
+        </Item>
+      </Groups>
+      <PoolCooldown>1800000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>1380000</QuestCooldown>
+      <SessionDependencies>
+        <Item>
+          <SessionOrRegion>180045</SessionOrRegion>
+        </Item>
+      </SessionDependencies>
+      <QuestPoolActionCallbacks>
+        <OnQuestDiscarded>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <ActionList>
+              <Actions>
+                <Item>
+                  <Action>
+                    <Template>ActionDelayedActions</Template>
+                    <Values>
+                      <Action />
+                      <ActionDelayedActions>
+                        <ExecutionDelay>30000</ExecutionDelay>
+                        <DelayedActions>
+                          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                          <Values>
+                            <ActionList>
+                              <Actions>
+                                <Item>
+                                  <Action>
+                                    <Template>ActionDeleteObjects</Template>
+                                    <Values>
+                                      <Action />
+                                      <ActionDeleteObjects />
+                                      <ObjectFilter>
+                                        <ObjectGUID>114157</ObjectGUID>
+                                      </ObjectFilter>
+                                    </Values>
+                                  </Action>
+                                </Item>
+                              </Actions>
+                            </ActionList>
+                          </Values>
+                        </DelayedActions>
+                      </ActionDelayedActions>
+                    </Values>
+                  </Action>
+                </Item>
+              </Actions>
+            </ActionList>
+          </Values>
+        </OnQuestDiscarded>
+      </QuestPoolActionCallbacks>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionIsDLCActive</Template>
+        <Values>
+          <Condition />
+          <ConditionIsDLCActive>
+            <DLCAssetList>
+              <Item>
+                <DLCAsset>410042</DLCAsset>
+              </Item>
+            </DLCAssetList>
+          </ConditionIsDLCActive>
+          <ConditionPropsNegatable />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionIsDiscovered</Template>
+                  <Values>
+                    <Condition />
+                    <ParticipantRelation>
+                      <SourceIsOwner>1</SourceIsOwner>
+                      <TargetParticipant>Arctic_Inuit</TargetParticipant>
+                    </ParticipantRelation>
+                    <ConditionIsDiscovered />
+                    <ConditionPropsNegatable />
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+  </Values>
+</Asset>

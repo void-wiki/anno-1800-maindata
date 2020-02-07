@@ -1,0 +1,182 @@
+<Asset>
+  <Template>A7_QuestPhotography</Template>
+  <Values>
+    <Standard>
+      <GUID>152460</GUID>
+      <Name>Photo Display Of Power - Jean LaFortune - DISABLED - Not Written</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <SubtitleGroup>989157781</SubtitleGroup>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <OnQuestSucceeded>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions />
+          </ActionList>
+        </Values>
+      </OnQuestSucceeded>
+      <QuestGiver>76</QuestGiver>
+      <StoryText>17118</StoryText>
+      <IsEnabled>0</IsEnabled>
+      <PreActivationTimer>1800000</PreActivationTimer>
+      <QuestActivation>Never</QuestActivation>
+      <DelayTimer>90000</DelayTimer>
+      <ReputationQuestFail>
+        <ReputationFailList>
+          <Item>
+            <VectorElement>
+              <InheritanceMapV2>
+                <Entry>
+                  <TemplateName>Quest</TemplateName>
+                  <Index>0</Index>
+                </Entry>
+              </InheritanceMapV2>
+            </VectorElement>
+            <ReputationParticipant>Third_party_03_Pirate_Harlow</ReputationParticipant>
+          </Item>
+        </ReputationFailList>
+      </ReputationQuestFail>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>18328</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102590</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>76</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>(TBC - Quest not yet written)</Text>
+          <Status>GameWriting</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26207</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>150038</Reward>
+          <Amount>3</Amount>
+        </Item>
+      </RewardAssets>
+      <RewardReputation>
+        <Item>
+          <VectorElement>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>Quest</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <ReputationParticipant>Third_party_03_Pirate_Harlow</ReputationParticipant>
+        </Item>
+      </RewardReputation>
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>PhotographyObjective</Template>
+            <Values>
+              <ConditionQuestObjective />
+              <ConditionQuestPhotography>
+                <PhotographyObjectList>
+                  <Item>
+                    <Entry>
+                      <Template>ConditionObjectSpawnedObject</Template>
+                      <Values>
+                        <ConditionObjectSpawnedObject>
+                          <ExecutionObject>100565</ExecutionObject>
+                        </ConditionObjectSpawnedObject>
+                        <ConditionScanner />
+                        <ConditionObjectiveSignsAndFeedback />
+                      </Values>
+                    </Entry>
+                    <CircleAreaPercentage>1</CircleAreaPercentage>
+                    <ShowHintMarkerWhenOffscreen>1</ShowHintMarkerWhenOffscreen>
+                  </Item>
+                </PhotographyObjectList>
+              </ConditionQuestPhotography>
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102590</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>ClientObject</SpawnContext>
+                        <MatcherGUID>150874</MatcherGUID>
+                        <LimitToQuestArea>1</LimitToQuestArea>
+                        <DistanceToContext>20</DistanceToContext>
+                        <DistanceToBorder>Near</DistanceToBorder>
+                        <DistanceToIsland>Far</DistanceToIsland>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Third_party_04_Pirate_LaFortune</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>500173</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mr. Bleakworth may seem a blinkered horse, but is very well-suited to his task at the prison. So much so, I wonder if he takes his own conviction in the penal sense!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1222</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212179</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>250610</GUID>
+      <Name>AT_3rdParty02_IdleMessageGossip_Bleakworth</Name>
+    </Standard>
+  </Values>
+</Asset>

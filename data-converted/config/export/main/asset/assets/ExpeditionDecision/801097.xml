@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801097</GUID>
+      <Name>The Arid Basin 1.3.2.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801098</Option>
+        </Item>
+        <Item>
+          <Option>801099</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;What shot hits, barely passes through blubber.&lt;/b&gt; The whole bloat of hippos charge, leaving them an instant to make a decision.   </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16105</LineID>
+    </Text>
+  </Values>
+</Asset>

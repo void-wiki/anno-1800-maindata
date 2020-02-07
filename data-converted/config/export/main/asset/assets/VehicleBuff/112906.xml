@@ -1,0 +1,61 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>112906</GUID>
+      <Name>Shores Airlift Buff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_crane_01.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Coastal Dredge</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32333</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade>
+      <RarityWeightUpgrade>
+        <Rare>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Rare>
+      </RarityWeightUpgrade>
+      <AllocationWeightUpgrade>
+        <GuildHouse>
+          <AdditionalWeight>10</AdditionalWeight>
+        </GuildHouse>
+        <TownHall>
+          <AdditionalWeight>10</AdditionalWeight>
+        </TownHall>
+        <HarborOffice>
+          <AdditionalWeight>10</AdditionalWeight>
+        </HarborOffice>
+        <Ship>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Ship>
+        <SailShip>
+          <AdditionalWeight>10</AdditionalWeight>
+        </SailShip>
+        <SteamShip>
+          <AdditionalWeight>10</AdditionalWeight>
+        </SteamShip>
+        <Warship>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Warship>
+        <Tradeship>
+          <AdditionalWeight>10</AdditionalWeight>
+        </Tradeship>
+      </AllocationWeightUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

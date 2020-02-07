@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>19535</GUID>
+      <Name>InputBenefitHappinessActive</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_happy.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Happiness from [AssetData([ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) InputBenefitModifierProduct(index)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29030</LineID>
+    </Text>
+  </Values>
+</Asset>

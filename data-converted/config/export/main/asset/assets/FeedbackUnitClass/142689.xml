@@ -1,0 +1,21 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142689</GUID>
+      <Name>DrunkenCouples</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142685</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>142687</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Greet;DangerAvoiding</AllowedReactions>
+      <ClassFlags>JoinsNightCrowd</ClassFlags>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

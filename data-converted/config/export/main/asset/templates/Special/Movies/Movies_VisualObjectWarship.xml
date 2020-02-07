@@ -1,0 +1,21 @@
+<Template>
+  <Name>Movies_VisualObjectWarship</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <DefaultSequence>work01</DefaultSequence>
+    </Mesh>
+    <Object />
+    <Attacker>
+      <AccuracyByDistance>
+        <Item />
+        <Item>
+          <AccuracyByDistancePair>
+            <EnemyDistanceRelToAttackRange>100</EnemyDistanceRelToAttackRange>
+            <CorrespondingAccuracy>50</CorrespondingAccuracy>
+          </AccuracyByDistancePair>
+        </Item>
+      </AccuracyByDistance>
+    </Attacker>
+  </Properties>
+</Template>

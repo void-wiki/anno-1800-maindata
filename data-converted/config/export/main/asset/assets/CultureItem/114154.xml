@@ -1,0 +1,68 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>114154</GUID>
+      <Name>music partition anno 2205</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/music/icon_music_score_2205.png</IconFilename>
+      <InfoDescription>114580</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sheet Music "Anno 2205"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33242</LineID>
+    </Text>
+    <Item>
+      <Allocation>Pavilion</Allocation>
+      <Rarity>Epic</Rarity>
+      <TradePrice>203600</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+      <BroadcastMusicEvent>227629</BroadcastMusicEvent>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>114150</ChangeModule>
+      <AttractivenessUpgrade>
+        <Value>40</Value>
+      </AttractivenessUpgrade>
+      <HideBuff>0</HideBuff>
+      <AdditionalModuleSoundLoop>207557</AdditionalModuleSoundLoop>
+      <ItemSetUpgrade>
+        <Item>
+          <ItemSet>191115</ItemSet>
+          <AttractivenessUpgradePercent>30</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>193193</ItemSet>
+          <AttractivenessUpgradePercent>30</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>193403</ItemSet>
+          <AttractivenessUpgradePercent>30</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>191131</ItemSet>
+          <AttractivenessUpgradePercent>30</AttractivenessUpgradePercent>
+        </Item>
+        <Item>
+          <ItemSet>193662</ItemSet>
+          <AttractivenessUpgradePercent>30</AttractivenessUpgradePercent>
+        </Item>
+      </ItemSetUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ItemDifficulties>Easy;Average;Hard</ItemDifficulties>
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DLCDependency>410041</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

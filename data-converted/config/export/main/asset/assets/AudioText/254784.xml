@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You may climb mountains yet.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6047</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216665</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254784</GUID>
+      <Name>AT_ai02_NPCReputationAutocorrectIncrease1</Name>
+    </Standard>
+  </Values>
+</Asset>

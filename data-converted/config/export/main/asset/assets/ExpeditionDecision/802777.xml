@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802777</GUID>
+      <Name>Jolly Roger 1.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseGoods</NegativeOutcomeLosses>
+      <NegativeOutcomeMin>20</NegativeOutcomeMin>
+      <NegativeOutcomeMax>50</NegativeOutcomeMax>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202342</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/generic_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Take all you want, but please, don't hurt us,"&lt;/b&gt; your officer pleads. The pirate captain grins, revealing a jumbled set of shark teeth, and proceeds to strip the chap of his ear. "Sounds fair," he says, still smiling. Your ship is then relieved of its supplies without further violence, the pirates no doubt bound by some arcane code to honour your surrender. You wonder if your expedition can survive on what the little they leave behind.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21532</LineID>
+    </Text>
+  </Values>
+</Asset>

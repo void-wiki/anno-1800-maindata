@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The fire has been vanquished.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15770</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234127</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265180</GUID>
+      <Name>AT_Narrator_Incidents_Information_EndFire</Name>
+    </Standard>
+  </Values>
+</Asset>

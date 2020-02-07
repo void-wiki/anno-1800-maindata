@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The King is dead, long live the Queen!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1193</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212205</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>250543</GUID>
+      <Name>AT_3rdParty02_PlayerSelectsNpcBuilding3</Name>
+    </Standard>
+  </Values>
+</Asset>

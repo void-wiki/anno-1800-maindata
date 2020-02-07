@@ -1,0 +1,105 @@
+<Asset>
+  <Template>Monument</Template>
+  <Values>
+    <Standard>
+      <GUID>101953</GUID>
+      <Name>CourtOfJustice_01_02</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_court_of_justice.png</IconFilename>
+    </Standard>
+    <Building>
+      <BuildingCategoryName>100003</BuildingCategoryName>
+      <Destructable>0</Destructable>
+      <Movable>0</Movable>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs />
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/courthouse/courthouse_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <GUIType>Monument</GUIType>
+      <ParticipantMessageArcheType>Resident_tier02_atWork</ParticipantMessageArcheType>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Court of Justice: Steel Structure</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25856</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>239530</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <FactoryBase>
+      <FactoryInputs>
+        <Item>
+          <Product>1010218</Product>
+          <Amount>3</Amount>
+          <StorageAmount>30</StorageAmount>
+        </Item>
+        <Item>
+          <Product>1010205</Product>
+          <Amount>8</Amount>
+          <StorageAmount>80</StorageAmount>
+        </Item>
+      </FactoryInputs>
+      <CycleTime>60</CycleTime>
+    </FactoryBase>
+    <LogisticNode>
+      <TransporterCountMax>2</TransporterCountMax>
+    </LogisticNode>
+    <Monument>
+      <UpgradeTarget>102035</UpgradeTarget>
+      <UnfinishedIcon>500414</UnfinishedIcon>
+      <FinishedIcon>500418</FinishedIcon>
+      <ShutdownText>6783</ShutdownText>
+      <MonumentFluff>22131</MonumentFluff>
+      <MonumentHeadline>101952</MonumentHeadline>
+      <BackgroundImage>
+        <Blueprint>data/ui/2kimages/main/assets16/monument_construction/monument_courtofjustice_00.png</Blueprint>
+        <PhasePlanned>data/ui/2kimages/main/assets16/monument_construction/monument_courtofjustice_03.png</PhasePlanned>
+        <PhaseFinished>data/ui/2kimages/main/assets16/monument_construction/monument_courtofjustice_04.png</PhaseFinished>
+      </BackgroundImage>
+      <ProgressbarHeight>120</ProgressbarHeight>
+    </Monument>
+    <Culture />
+    <AmbientMoodProvider />
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010115</Product>
+          <Amount>700</Amount>
+          <ShutdownThreshold>0.4</ShutdownThreshold>
+        </Item>
+      </Maintenances>
+      <ConsumerPriorityAlarmed>2</ConsumerPriorityAlarmed>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>1000</MaximumHitPoints>
+    </Attackable>
+    <Pausable />
+    <IslandUnique />
+    <UpgradeList />
+    <Electric />
+    <QuestObject />
+  </Values>
+</Asset>

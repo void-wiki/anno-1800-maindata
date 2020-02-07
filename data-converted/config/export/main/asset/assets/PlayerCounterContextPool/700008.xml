@@ -1,0 +1,50 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700008</GUID>
+      <Name>AP - All Farms</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010262</Asset>
+        </Item>
+        <Item>
+          <Asset>1010264</Asset>
+        </Item>
+        <Item>
+          <Asset>1010265</Asset>
+        </Item>
+        <Item>
+          <Asset>1010266</Asset>
+        </Item>
+        <Item>
+          <Asset>1010558</Asset>
+        </Item>
+        <Item>
+          <Asset>1010329</Asset>
+        </Item>
+        <Item>
+          <Asset>1010330</Asset>
+        </Item>
+        <Item>
+          <Asset>1010331</Asset>
+        </Item>
+        <Item>
+          <Asset>1010332</Asset>
+        </Item>
+        <Item>
+          <Asset>1010333</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Farms</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

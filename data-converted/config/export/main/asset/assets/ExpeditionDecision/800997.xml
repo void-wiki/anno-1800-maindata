@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800997</GUID>
+      <Name>Baptism of Fire 1.4.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is a long trek&lt;/b&gt;, that could have been much longer but for sound map-reading and compass work. The vegetation is thick and stubborn. Your expedition hack their way through with irritation, marking yet another hiccup for the expedition log book.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13166</LineID>
+    </Text>
+  </Values>
+</Asset>

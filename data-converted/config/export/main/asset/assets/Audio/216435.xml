@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>216435</GUID>
+      <Name>Play_AI_DRYBERYL_DAC_NR4_00005_01BERYL_6193</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3000</DurationMinimum>
+          <DurationMaximum>3000</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>800</DurationMinimum>
+          <DurationMaximum>800</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3146</DurationMinimum>
+          <DurationMaximum>3146</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2838</DurationMinimum>
+          <DurationMaximum>2838</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2383133316</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

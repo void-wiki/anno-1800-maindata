@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204687</GUID>
+      <Name>Play_AI_ARTIS_BASIC_0NC_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2468</DurationMinimum>
+          <DurationMaximum>3923</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>1997</DurationMinimum>
+          <DurationMaximum>3522</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>1756</DurationMinimum>
+          <DurationMaximum>2960</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2157</DurationMinimum>
+          <DurationMaximum>3798</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2295874912</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

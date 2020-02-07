@@ -1,0 +1,74 @@
+<Asset>
+  <BaseAssetGUID>29</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>200</GUID>
+      <Name>Third_party_05c (Isabel Sarmento Attackable Campaign)</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17955</LineID>
+    </Text>
+    <Profile>
+      <ParticipantID>Third_party_05c_Sarmento_Attackable_Campaign</ParticipantID>
+      <CreateModeMeta>AutoCreate_OnlyCampaign</CreateModeMeta>
+      <CreateModeSession>AutoCreate_OnlyCampaign</CreateModeSession>
+      <IsChildProfile>1</IsChildProfile>
+      <IsChildOf>Third_party_05_Sarmento</IsChildOf>
+    </Profile>
+    <Diplomacy>
+      <InitialRelation>
+        <Exceptions>
+          <Item>
+            <Participant>Campaign_character_02_pyrophorian_red</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+          <Item>
+            <Participant>Campaign_character_02_pyrophorian_red_blinded</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+          <Item>
+            <Participant>Campaign_character_04_pyrophorian_gold</Participant>
+            <Treaties>War</Treaties>
+          </Item>
+          <Item>
+            <Treaties>Alliance</Treaties>
+          </Item>
+          <Item>
+            <VectorElement>
+              <InheritedIndex>1</InheritedIndex>
+              <InheritanceMapV2>
+                <Entry>
+                  <TemplateName>3rdParty</TemplateName>
+                  <Index>1</Index>
+                </Entry>
+                <Entry>
+                  <TemplateName>Profile_3rdParty</TemplateName>
+                  <Index>1</Index>
+                </Entry>
+              </InheritanceMapV2>
+            </VectorElement>
+          </Item>
+        </Exceptions>
+      </InitialRelation>
+      <IsDiscoveredOnStart>1</IsDiscoveredOnStart>
+    </Diplomacy>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Third_party_05c_Sarmento_Attackable_Campaign</DefaultParticipant>
+    </Object>
+    <Trader>
+      <ProvidesShipReplacements>None</ProvidesShipReplacements>
+    </Trader>
+    <ThirdParty />
+    <ParticipantMessageObject>
+      <ParticipantMessages>224</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <Locked />
+  </Values>
+</Asset>

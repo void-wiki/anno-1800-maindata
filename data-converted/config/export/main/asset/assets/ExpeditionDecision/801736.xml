@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801736</GUID>
+      <Name>The Investigation 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801737</Option>
+        </Item>
+        <Item>
+          <Option>801740</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It seems the Pyrphorians have split.&lt;/b&gt; One you trace as far as the church, the other to a house of ill-repute— alternate refuges of the typical criminal. In neither case are the Pyrphorians still in evidence - you will have to ask one of the respective proprietors.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21165</LineID>
+    </Text>
+  </Values>
+</Asset>

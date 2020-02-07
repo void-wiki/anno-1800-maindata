@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wrecked along with our cargo!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19850</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>237828</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268611</GUID>
+      <Name>AT_MurmurFemale2_Clipper_ShipSinking01</Name>
+    </Standard>
+  </Values>
+</Asset>

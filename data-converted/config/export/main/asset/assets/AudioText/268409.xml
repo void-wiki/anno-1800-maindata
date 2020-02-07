@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Clear of drydock, ready for loading.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19690</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238072</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268409</GUID>
+      <Name>AT_MurmurMale3_OilTanker_ShipBuilt01</Name>
+    </Standard>
+  </Values>
+</Asset>

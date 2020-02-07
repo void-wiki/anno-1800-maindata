@@ -1,0 +1,35 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700133</GUID>
+      <Name>AP - All Food Gift</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>1010200</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>30</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010213</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>30</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010217</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>30</MaxAmount>
+        </Item>
+        <Item>
+          <ItemLink>1010238</ItemLink>
+          <MinAmount>20</MinAmount>
+          <MaxAmount>30</MaxAmount>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

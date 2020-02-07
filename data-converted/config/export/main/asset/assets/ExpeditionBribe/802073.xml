@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>802073</GUID>
+      <Name>The Mutiny 1.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The ringleader looks on greedily</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21602</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>22622</TraderName>
+      <FollowupSuccessOption>802074</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802075</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>5000</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

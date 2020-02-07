@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Willie Wibblesock's great ability is to break even the most joyful silence.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3943</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212027</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>253721</GUID>
+      <Name>AT_ParticipantDiscovered_WillieWibblesock</Name>
+    </Standard>
+  </Values>
+</Asset>

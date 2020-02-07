@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15318</GUID>
+      <Name>CQ421_FinalBattle_ObjectiveText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Destroy:&lt;br/&gt;&lt;b&gt;[AssetData([Conditions QuestCondition Context]) Text]&lt;/b&gt; [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] at Bright Sands harbour</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18396</LineID>
+    </Text>
+  </Values>
+</Asset>

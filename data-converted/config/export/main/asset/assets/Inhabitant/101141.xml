@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>101141</GUID>
+      <Name>3rd_party07_Prisoner_Unit</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/portrait_icons_0014_resident_tier02.png</IconFilename>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/units/prisoner_m_01/prisoner_normal_m_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>Default</MeshPlacement>
+    </Mesh>
+    <Walking />
+    <DayNightReaction />
+  </Values>
+</Asset>

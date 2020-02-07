@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>800000</GUID>
+      <Name>Test Expedition</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rum_master.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>2985</ExpeditionDescription>
+      <ExpeditionRegion>SouthAmerica</ExpeditionRegion>
+      <EventList>
+        <Item>
+          <EventOrEventPool>804091</EventOrEventPool>
+        </Item>
+        <Item>
+          <EventOrEventPool>804110</EventOrEventPool>
+        </Item>
+      </EventList>
+      <Threats>
+        <Item>
+          <Threat>800030</Threat>
+        </Item>
+      </Threats>
+      <FillThreats>1</FillThreats>
+      <Reward>800392</Reward>
+      <LastEventNeedsContinue>0</LastEventNeedsContinue>
+      <ExpeditionMap>data/sessions/islands/pool/colony01/colony01_l_01/_gamedata/colony01_l_01_river_01/gamemapimage.png</ExpeditionMap>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

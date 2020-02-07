@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ProgressLevel</Template>
+  <Values>
+    <Standard>
+      <GUID>140506</GUID>
+      <Name>EndGame</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationTotal</PlayerCounter>
+            <CounterAmount>20000</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <ProgressLevel>
+      <Level>EndGame</Level>
+    </ProgressLevel>
+    <Locked />
+    <TriggerSetup />
+  </Values>
+</Asset>

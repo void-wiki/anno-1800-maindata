@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800614</GUID>
+      <Name>A Grizzly Encounter 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Call themselves hunters!&lt;/b&gt; The tracks thought to lead away from bear territory go instead to a clearing at its heart. The bears at first seem alarmed their picnic is disturbed, until they realise your crew are on the menu. The sound of crunching bone rings in the ears of the few that manage to flee.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5712</LineID>
+    </Text>
+  </Values>
+</Asset>

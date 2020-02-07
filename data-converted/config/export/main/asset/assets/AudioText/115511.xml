@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Look! Something damaged your boat! Maybe the wolf-whale Akhlut, come away!  </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34283</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245198</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>115511</GUID>
+      <Name>AT_Inuit_Quest_Seamonster_02</Name>
+    </Standard>
+  </Values>
+</Asset>

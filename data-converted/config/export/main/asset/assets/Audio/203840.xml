@@ -1,0 +1,35 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203840</GUID>
+      <Name>wwe_sfx_land_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+      <ID>SoundLand</ID>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>533</DurationMinimum>
+          <DurationMaximum>1143</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>533</DurationMinimum>
+          <DurationMaximum>1143</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>533</DurationMinimum>
+          <DurationMaximum>1143</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>533</DurationMinimum>
+          <DurationMaximum>1143</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>25</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2354009117</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

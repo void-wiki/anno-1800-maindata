@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802191</GUID>
+      <Name>Selfless Deeds 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802194</Option>
+        </Item>
+        <Item>
+          <Option>802196</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A masterful shot!&lt;/b&gt; Using one of your precious spiral-muzzled cannons, the crew fires a single shot which pierces straight through the steamboat's engines. The boat gradually stops puffing and drifts to your own ship, where sailors can pluck the bandits and three stolen children.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21046</LineID>
+    </Text>
+  </Values>
+</Asset>

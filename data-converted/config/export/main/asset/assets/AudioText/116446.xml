@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My name is Lady Jane Faithful, and it is my husband, Sir John, whose expedition is lost in the Arctic.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33724</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245134</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116446</GUID>
+      <Name>AT_DLC03_LadyFaithful_ArcticQ101_01</Name>
+    </Standard>
+  </Values>
+</Asset>

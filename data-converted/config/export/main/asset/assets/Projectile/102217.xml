@@ -1,0 +1,47 @@
+<Asset>
+  <Template>Projectile</Template>
+  <Values>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>2</ShotHeight>
+      <ShotAngle>0</ShotAngle>
+      <ProjectileSpeed>30</ProjectileSpeed>
+      <StatusEffects>
+        <Item>
+          <StatusEffect>191305</StatusEffect>
+          <StatusDuration>5000</StatusDuration>
+        </Item>
+      </StatusEffects>
+      <DamageType>Cannon</DamageType>
+    </Projectile>
+    <Standard>
+      <GUID>102217</GUID>
+      <Name>Puckle_Gun_Shot</Name>
+      <InfoDescription>21373</InfoDescription>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/puckle_gun_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text />
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235858</Sound>
+          </Item>
+        </ProjectileImpact>
+        <ProjectileVolley>
+          <Item>
+            <Sound>235857</Sound>
+          </Item>
+        </ProjectileVolley>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <ProjectileIncident />
+  </Values>
+</Asset>

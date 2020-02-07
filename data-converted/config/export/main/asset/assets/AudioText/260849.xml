@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Old Nate has a lovely time up in that balloon. Perhaps he could make one for me!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11749</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229643</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260849</GUID>
+      <Name>AT_ai01_IdleMessageGossip_OldNate</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,20 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>1003572</GUID>
+      <Name>placement effect moon</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/feedback/placement_effect_moon.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

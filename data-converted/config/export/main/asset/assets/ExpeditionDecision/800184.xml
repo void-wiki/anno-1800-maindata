@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800184</GUID>
+      <Name>The Inspector 1.2.6</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A disastrous melee ensues,&lt;/b&gt; in which the crew do not acquit themselves well. Some are skewered, the rest disarmed. The Inspector picks out the captive specialist. "Hang this traitor," he says, and promptly strings them from a beam until dead. Your ship, he decrees, must leave sovereign waters and take the long way round.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5815</LineID>
+    </Text>
+  </Values>
+</Asset>

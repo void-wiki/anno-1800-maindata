@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Artur's own reflection will swallow him up soon enough.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13001</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230375</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260993</GUID>
+      <Name>AT_enemy_02_IdleMessageGossip_Gasparov</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,46 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268788</GUID>
+      <Name>Pool_3rdParty03_NegDiplomacyWithFoe</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>256365</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256370</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256371</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256372</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256373</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>-2118066755</Group>
+        </Item>
+        <Item>
+          <Group>1121795369</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

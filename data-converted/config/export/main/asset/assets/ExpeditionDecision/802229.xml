@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802229</GUID>
+      <Name>The Deeper You Go 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802230</Option>
+        </Item>
+        <Item>
+          <Option>802231</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Boulder-blocked entrance and booby-trapped corridor: typical Mayan temple.&lt;/b&gt; After a fall down a slide and a crash into uncharted caves, your team of explorers jokes about the situation to forget its deathly aspect. They know what is said of Mayan mazes: the deeper you go, the shinier it gets.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21058</LineID>
+    </Text>
+  </Values>
+</Asset>

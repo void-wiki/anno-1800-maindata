@@ -1,0 +1,40 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191950</GUID>
+      <Name>CanisterShots lvl2</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_big_berta_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Double Canister Shot</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26406</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <BaseDamageUpgrade>
+        <Value>-60</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <ReloadTimeUpgrade>
+        <Value>-65</Value>
+        <Percental>1</Percental>
+      </ReloadTimeUpgrade>
+      <UseProjectile>102217</UseProjectile>
+      <AttackSpeedUpgrade>200</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

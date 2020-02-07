@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your city has grown uglier!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15959</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233979</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265371</GUID>
+      <Name>AT_Narrator_CityAttractiveness_Information_AttractivenessStatusReduced</Name>
+    </Standard>
+  </Values>
+</Asset>

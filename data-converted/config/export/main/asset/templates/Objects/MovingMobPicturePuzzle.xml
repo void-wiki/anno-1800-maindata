@@ -1,0 +1,21 @@
+<Template>
+  <Name>MovingMobPicturePuzzle</Name>
+  <Properties>
+    <Standard />
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/emptyDummy/empty_dummy_picturepuzzle.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Infolayer />
+    <Selection />
+    <Collectable />
+    <QuestObject />
+    <Text />
+    <SoundEmitter />
+  </Properties>
+</Template>

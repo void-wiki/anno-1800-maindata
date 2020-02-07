@@ -1,0 +1,24 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>113605</GUID>
+      <Name>QI Turbine - Scrap</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_turbine_3.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Early Steamship Turbine</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32395</LineID>
+    </Text>
+    <Item />
+    <Locked />
+    <ItemAction />
+    <CultureUpgrade />
+  </Values>
+</Asset>

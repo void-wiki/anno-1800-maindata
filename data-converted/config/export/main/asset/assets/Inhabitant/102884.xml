@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>102884</GUID>
+      <Name>residence_colony_01_tier_01_small_m_01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/inhabitants/residents/residence_colony_01_tier01_small_m_01/residence_colony_01_tier01_small_m_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction>
+      <UnitNightBehavior>OnlyShowAtDay</UnitNightBehavior>
+    </DayNightReaction>
+  </Values>
+</Asset>

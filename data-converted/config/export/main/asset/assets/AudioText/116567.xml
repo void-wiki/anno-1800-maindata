@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Flying to a new region.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33672</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245280</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116567</GUID>
+      <Name>AT_DLC03_Airship_ShipSessionTransfer_01</Name>
+    </Standard>
+  </Values>
+</Asset>

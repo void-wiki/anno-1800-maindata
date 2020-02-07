@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>202192</GUID>
+      <Name>wwe_bld_heavy_02_steam_hiss_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>7695</DurationMinimum>
+          <DurationMaximum>10364</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2878090720</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,167 @@
+<Asset>
+  <Template>QuestVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>101432</GUID>
+      <Name>CQO_FlagShip (Campaign - Initially Invisible)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+      <InfoDescription>11466</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/command_ship/command_ship.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+      <InitialVisibility>0</InitialVisibility>
+      <SetCompanyLogo>1</SetCompanyLogo>
+    </Mesh>
+    <Selection>
+      <MultiSelectable>1</MultiSelectable>
+      <Colors>
+        <SelectionColorType>ParticipantColor</SelectionColorType>
+        <SelectionColor>0</SelectionColor>
+        <SelectionBorderColor>2030043136</SelectionBorderColor>
+        <PickingColorType>ParticipantColor</PickingColorType>
+        <PickingColor>0</PickingColor>
+        <PickingBorderColor>503316480</PickingBorderColor>
+      </Colors>
+    </Selection>
+    <Walking>
+      <ReservationLength>9</ReservationLength>
+      <ReservationWidth>5</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <TurnAroundRadius>6</TurnAroundRadius>
+      <Acceleration>1.5</Acceleration>
+      <Deceleration>2</Deceleration>
+      <TurnRadius>6</TurnRadius>
+      <TurnSpeed>60</TurnSpeed>
+      <TurnSpeedInPlace>20</TurnSpeedInPlace>
+      <TurnDeceleration>0</TurnDeceleration>
+      <TurnMovement>0</TurnMovement>
+      <LeaningMaxAngle>27</LeaningMaxAngle>
+      <WindMaxSpeedupFactor>1.8</WindMaxSpeedupFactor>
+      <CurveSegmentDensity>High</CurveSegmentDensity>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Flagship</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20115</LineID>
+    </Text>
+    <CommandQueue>
+      <IsFlagship>1</IsFlagship>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>2000</MaximumHitPoints>
+      <HPBarOffset>7.5</HPBarOffset>
+      <AccuracyWidth>3</AccuracyWidth>
+      <SelfHealPerHealTick>5</SelfHealPerHealTick>
+      <SelfHealPausedTimeIfAttacked>60000</SelfHealPausedTimeIfAttacked>
+    </Attackable>
+    <Attacker>
+      <AttackRange>55</AttackRange>
+      <AttackRangeApproachPercentage>0.85</AttackRangeApproachPercentage>
+      <LineOfSightRange>100</LineOfSightRange>
+      <ReloadTime>40</ReloadTime>
+      <ProjectileAsset>101974</ProjectileAsset>
+      <ProjectileCount>6</ProjectileCount>
+      <BaseDamage>175</BaseDamage>
+      <AccuracyBase>2</AccuracyBase>
+      <AccuracyIncreaseOverDistance>60</AccuracyIncreaseOverDistance>
+      <AccuracySpeedDecay>20</AccuracySpeedDecay>
+      <TargetAngleVariation>50</TargetAngleVariation>
+      <FullVolleyTimeMin>0.2</FullVolleyTimeMin>
+      <TurretExplosionEffectAsset>101994</TurretExplosionEffectAsset>
+      <FullVolleyTimeMax>0.8</FullVolleyTimeMax>
+      <VolleyMaxPerBulletRandomOffset>0.2</VolleyMaxPerBulletRandomOffset>
+    </Attacker>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+      <StrategicMapAsset>500433</StrategicMapAsset>
+    </MinimapToken>
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer>
+      <SocketCount>2</SocketCount>
+      <SlotCount>3</SlotCount>
+    </ItemContainer>
+    <FeedbackController />
+    <Draggable />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>40</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010210</Ingredient>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010221</Ingredient>
+          <Amount>25</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+    <Craftable>
+      <CraftingTime>150000</CraftingTime>
+    </Craftable>
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>3</Amount>
+        </Item>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>2</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkSailingShip</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkSteamShip</Attribute>
+          <Amount>1</Amount>
+        </Item>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+    <ShipMaintenance>
+      <Maintenance>0</Maintenance>
+    </ShipMaintenance>
+    <Sellable />
+    <Stance />
+    <Rentable />
+  </Values>
+</Asset>

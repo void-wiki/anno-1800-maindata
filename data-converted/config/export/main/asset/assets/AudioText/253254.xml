@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your spirit of deception will be banished.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12466</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231403</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253254</GUID>
+      <Name>AT_ai02_PlyrSelectsNpcShipAtWar1</Name>
+    </Standard>
+  </Values>
+</Asset>

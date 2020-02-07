@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>11012</GUID>
+      <Name>AskForTaxes</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Her Majesty wants the following amount in taxes: [Queen ParticipantData Taxes CurrentTaxes] </Text>
+          <Status>ToBeDeleted</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12001</LineID>
+    </Text>
+  </Values>
+</Asset>

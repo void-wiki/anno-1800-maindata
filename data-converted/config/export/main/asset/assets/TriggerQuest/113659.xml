@@ -1,0 +1,39 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>113659</GUID>
+      <Name>SL114_ScanningTheSeas RangeTrigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionShipsInRange</Template>
+        <Values>
+          <Condition />
+          <ConditionShipsInRange>
+            <Range>40</Range>
+            <TargetObject_sir>111881</TargetObject_sir>
+            <CheckSpecificShipOwner>1</CheckSpecificShipOwner>
+            <UseProcessingParticipantAsShipOwner>1</UseProcessingParticipantAsShipOwner>
+          </ConditionShipsInRange>
+          <SessionFilter />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEndQuest</Template>
+            <Values>
+              <Action />
+              <ActionEndQuest>
+                <Quest>112251</Quest>
+                <WinQuest>1</WinQuest>
+              </ActionEndQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

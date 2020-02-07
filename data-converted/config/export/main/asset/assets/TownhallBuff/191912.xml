@@ -1,0 +1,84 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191912</GUID>
+      <Name>Medecine lvl3</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_medicine_3.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Rabies Vaccine</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26366</LineID>
+    </Text>
+    <BuildingUpgrade />
+    <Buff />
+    <PopulationUpgrade>
+      <ResidentsUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </ResidentsUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010200</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010213</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010217</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010353</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>120032</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010208</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>120016</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010225</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>1010258</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+        <Item>
+          <Product>120033</Product>
+          <AdditionalSupply>2</AdditionalSupply>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ResidenceUpgrade />
+    <IncidentInfectableUpgrade>
+      <IncidentIllnessIncreaseUpgrade>
+        <Value>-9</Value>
+      </IncidentIllnessIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <CultureUpgrade />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800367</GUID>
+      <Name>The Minefield 1.4.1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;None of it is of any use.&lt;/b&gt; Your godforsaken crew do not realise how the sinister cones move about over time. No matter how true the course, more than one mine shakes the ship's belly as it limps clear. Many lives are lost, and the damage to the ship is severe. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5850</LineID>
+    </Text>
+  </Values>
+</Asset>

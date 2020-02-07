@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Perhaps you can convince them; all I want is peace!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12406</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229629</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261142</GUID>
+      <Name>AT_ai01_NpcInvokesAlliance2</Name>
+    </Standard>
+  </Values>
+</Asset>

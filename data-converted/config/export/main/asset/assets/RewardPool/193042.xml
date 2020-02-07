@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193042</GUID>
+      <Name>Machines - Obrero Machines - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190844</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190884</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190892</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190895</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190912</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191013</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

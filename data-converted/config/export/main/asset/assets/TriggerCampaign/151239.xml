@@ -1,0 +1,76 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151239</GUID>
+      <Name>CQ323_EscortRequest_Dialog01_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionObjHPCheck</Template>
+        <Values>
+          <Condition />
+          <ConditionObjHPCheck>
+            <HPTargetGUID>101960</HPTargetGUID>
+            <HPTargetOwner>Third_party_05c_Sarmento_Attackable_Campaign</HPTargetOwner>
+            <HPPercentage>0.39</HPPercentage>
+            <HPComparison>LessThan</HPComparison>
+          </ConditionObjHPCheck>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>113</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>14283</NotificationText>
+                      <NotificationPriority>704</NotificationPriority>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267191</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>187</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>14284</NotificationText>
+                      <NotificationPriority>703</NotificationPriority>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>267969</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

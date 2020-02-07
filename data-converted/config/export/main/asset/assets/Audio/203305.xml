@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203305</GUID>
+      <Name>wwc_sfx_anm_zoo_chital</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>203306</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3265613090</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

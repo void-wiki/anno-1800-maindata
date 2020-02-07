@@ -1,0 +1,18 @@
+<Asset>
+  <Template>PlayerLogo</Template>
+  <Values>
+    <Standard>
+      <GUID>114205</GUID>
+      <Name>3rdPartyLogo_LadyFaithful</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_dlc_sunkentreasures_vasko.png</IconFilename>
+    </Standard>
+    <PlayerLogo>
+      <DefaultLogo>data/ui/2kimages/main/profiles/playerlogos/large/player_logo_dlc_passage_lady_jane.png</DefaultLogo>
+      <MiniLogo>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_dlc_passage_lady_jane.png</MiniLogo>
+    </PlayerLogo>
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

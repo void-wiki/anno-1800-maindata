@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Artur is rather a flamboyant peacock, perhaps we should leave him to strut. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3946</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212030</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>253724</GUID>
+      <Name>AT_ParticipantDiscovered_ArturGasparov</Name>
+    </Standard>
+  </Values>
+</Asset>

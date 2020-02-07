@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803914</GUID>
+      <Name>Blizzard 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803906</Option>
+        </Item>
+        <Item>
+          <Option>803909</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors will not wait for god.&lt;/b&gt; The storm shrieks its name, as sailors muttered frenzied supplications to the nameless. "To hell and damn you all, I want to die living," the others bellow at them, and so unchained, they rush out into the white. Harsh commands can be heard above, before those voices fall silent. Somehow the ship rides out the storm, but &lt;b&gt;the bodies of your saviours are never found.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34881</LineID>
+    </Text>
+  </Values>
+</Asset>

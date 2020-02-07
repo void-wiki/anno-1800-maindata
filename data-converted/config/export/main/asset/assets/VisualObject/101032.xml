@@ -1,0 +1,20 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>101032</GUID>
+      <Name>park_system_02</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_park_ornament_medium.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/ornamental/park_props_system/park_props_system_1x1/park_props_system_1x1_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

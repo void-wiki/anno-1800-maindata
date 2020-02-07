@@ -1,0 +1,73 @@
+<Template>
+  <Name>HarborBuildingAttacker</Name>
+  <Properties>
+    <Standard />
+    <Building>
+      <TerrainType>Water</TerrainType>
+    </Building>
+    <Blocking />
+    <Mesh />
+    <Object />
+    <AmbientMoodProvider />
+    <Constructable />
+    <Selection>
+      <GUIType>Military</GUIType>
+    </Selection>
+    <Text />
+    <Cost />
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+      <PausedTimeIfAttacked>0</PausedTimeIfAttacked>
+      <SelfHealPerHealTick>300</SelfHealPerHealTick>
+      <CanBeAttackedByPlayer>1</CanBeAttackedByPlayer>
+      <RuinSmokeParticles>
+        <Item>
+          <SmokeParticleFilePath>data/graphics/effects/military/explosions/damage_smoke_01.cfg</SmokeParticleFilePath>
+        </Item>
+      </RuinSmokeParticles>
+      <RuinSmokeParticlesMin>1</RuinSmokeParticlesMin>
+      <RuinSmokeParticlesMax>3</RuinSmokeParticlesMax>
+      <RuinSmokeParticleRectBorderPercent>0.2</RuinSmokeParticleRectBorderPercent>
+    </Attackable>
+    <Attacker>
+      <AttackRange>40</AttackRange>
+      <ProjectileAsset>100501</ProjectileAsset>
+      <ProjectileCount>10</ProjectileCount>
+      <BaseDamage>50</BaseDamage>
+      <TargetAngleVariation>360</TargetAngleVariation>
+      <ShootingTracking>TurretFixed</ShootingTracking>
+      <TurretExplosionEffectAsset>101994</TurretExplosionEffectAsset>
+      <AccuracyByDistance>
+        <Item />
+        <Item>
+          <AccuracyByDistancePair>
+            <EnemyDistanceRelToAttackRange>100</EnemyDistanceRelToAttackRange>
+            <CorrespondingAccuracy>50</CorrespondingAccuracy>
+          </AccuracyByDistancePair>
+        </Item>
+      </AccuracyByDistance>
+    </Attacker>
+    <Maintenance>
+      <IncomeCategory>HarbourBuildings</IncomeCategory>
+    </Maintenance>
+    <Locked />
+    <DelayedConstruction />
+    <Pausable />
+    <Infolayer />
+    <SoundEmitter>
+      <ConstructionSounds>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>203995</Sound>
+          </Item>
+        </BuildMoveSuccess>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <CommandQueue />
+    <Culture>
+      <Attractiveness>-5</Attractiveness>
+      <CultureType>Military</CultureType>
+    </Culture>
+    <UpgradeList />
+  </Properties>
+</Template>

@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803926</GUID>
+      <Name>Beechey Island 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803929</Option>
+        </Item>
+        <Item>
+          <Option>803930</Option>
+        </Item>
+      </Options>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_grave.png</Sketch>
+        <SketchPosX>909</SketchPosX>
+        <SketchPosY>150</SketchPosY>
+        <SketchSizeX>164</SketchSizeX>
+        <SketchSizeY>119</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew agree to draw lots.&lt;/b&gt; A scrawny man gets the shovel, and clears snow to reveal Braine's face, who might look asleep but for his skin of leather. In his pocket, a letter to his wife. &lt;i&gt;&lt;br/&gt;&lt;font  overrideTextColor="true" color='#695c4c'&gt;Dearest Elaine,&lt;br/&gt; I've few breaths left. I die never having found a Passage, but then no glory awaits any servant of Sir John. He was certain the ice would not thicken around us in Spring. Fate of expedition now rests on circumnavigation of Labrador Island by short, perilous west shore, or by long, open east channel— fear I know what Sir John will prefer. &lt;br/&gt;Farewell my Elaine.&lt;/font&gt;&lt;/i&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34891</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Enough, this is too trivial!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7643</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217244</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256189</GUID>
+      <Name>AT_ai06_NpcDeclinesPlayerProposalTooOften4</Name>
+    </Standard>
+  </Values>
+</Asset>

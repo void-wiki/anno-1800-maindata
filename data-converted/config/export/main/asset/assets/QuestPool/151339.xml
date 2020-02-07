@@ -1,0 +1,47 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>151339</GUID>
+      <Name>QP Tutorial Hints</Name>
+    </Standard>
+    <QuestPool>
+      <SubPools>
+        <Item>
+          <Pool>151382</Pool>
+          <Priority>1</Priority>
+        </Item>
+        <Item>
+          <Pool>151383</Pool>
+          <Priority>2</Priority>
+        </Item>
+        <Item>
+          <Pool>151384</Pool>
+          <Priority>3</Priority>
+        </Item>
+        <Item>
+          <Pool>151385</Pool>
+          <Priority>4</Priority>
+        </Item>
+        <Item>
+          <Pool>151386</Pool>
+          <Priority>5</Priority>
+        </Item>
+      </SubPools>
+      <PoolCooldown>5000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>0</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

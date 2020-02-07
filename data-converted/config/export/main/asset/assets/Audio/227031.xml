@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>227031</GUID>
+      <Name>GhostEasterEggCluster</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>20</MaxAttenuation>
+      <StopEvent>227032</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>669610423</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

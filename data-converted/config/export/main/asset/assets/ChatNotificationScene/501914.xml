@@ -1,0 +1,15 @@
+<Asset>
+  <Template>ChatNotificationScene</Template>
+  <Values>
+    <Standard>
+      <GUID>501914</GUID>
+      <Name>ChatNotificationScene</Name>
+      <ID>ChatNotificationScene</ID>
+    </Standard>
+    <ChatNotificationScene>
+      <ChatLineTimeout>15000</ChatLineTimeout>
+      <ChatLineFadeOutDuration>0.2</ChatLineFadeOutDuration>
+      <ChatLinesMax>2</ChatLinesMax>
+    </ChatNotificationScene>
+  </Values>
+</Asset>

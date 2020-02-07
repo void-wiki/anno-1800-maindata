@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You've been playing for eight hours now. You do know you can turn this off, don't you?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15737</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234163</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265147</GUID>
+      <Name>AT_Narrator_System_Warning_Playtime8hours</Name>
+    </Standard>
+  </Values>
+</Asset>

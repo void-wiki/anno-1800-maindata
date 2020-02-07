@@ -1,0 +1,36 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>FOLLOW</ActionID>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>AndNextMatch;OwnedByPlayer;CheckProperty</Flags>
+          <Property>Attacker</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>AndNextMatch;CheckProperty;NotSelfIgnoreMultiselection;Guardable</Flags>
+          <Property>Walking</Property>
+        </TargetMatch1>
+        <SelectionMatch2>
+          <Flags>CheckProperty</Flags>
+          <Property>Walking</Property>
+        </SelectionMatch2>
+        <TargetMatch2>
+          <Flags>CheckNotProperty</Flags>
+          <Property>Collectable</Property>
+        </TargetMatch2>
+      </Matches>
+      <MouseCursorTarget>501629</MouseCursorTarget>
+      <MouseCursorDisable>501628</MouseCursorDisable>
+      <MouseCursorMode>501629</MouseCursorMode>
+      <MouseCursorPosition>501628</MouseCursorPosition>
+      <MouseCursorPositionDisable>2001212</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>501735</GUID>
+      <Name>Guard</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800358</GUID>
+      <Name>The Minefield 1.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800359</Option>
+        </Item>
+        <Item>
+          <Option>800360</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A few saintly volunteers approach,&lt;/b&gt; offering to scout back the way you came and ease your escape. Asked if they aren't afraid of the cone-shaped mines, they reply "The lord will see us through."</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5841</LineID>
+    </Text>
+  </Values>
+</Asset>

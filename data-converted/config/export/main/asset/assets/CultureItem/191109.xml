@@ -1,0 +1,52 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191109</GUID>
+      <Name>vaquita</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_vaquita.png</IconFilename>
+      <InfoDescription>13732</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vaquita</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26488</LineID>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>655000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100815</ChangeModule>
+      <ForcedFeedbackVariation>101795</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Attribute>Faith</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthAmerica;SouthAmerica</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>12879</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

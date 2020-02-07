@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You think you've outmaneuvered me!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1797</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215213</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250580</GUID>
+      <Name>AT_ai07_PlyrBuyoutFromNpc1</Name>
+    </Standard>
+  </Values>
+</Asset>

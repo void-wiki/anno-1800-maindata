@@ -1,0 +1,21 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192909</GUID>
+      <Name>Eli Legendary Specialists</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192975</ItemLink>
+          <Weight>12</Weight>
+        </Item>
+        <Item>
+          <ItemLink>193305</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

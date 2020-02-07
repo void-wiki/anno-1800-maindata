@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Remember that party of explorers who set out for the North Pole? We've had no news from them in a while...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34246</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245112</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>116374</GUID>
+      <Name>AT_DLC03_res1_TrailQNorthPole2</Name>
+    </Standard>
+  </Values>
+</Asset>

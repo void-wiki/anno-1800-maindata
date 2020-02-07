@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A shame you can't appreciate the craft this requires. Never mind, the charges have been primed, the perimeter cleared, we are ready to detonate.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17643</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233095</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Positve</Mood>
+      <DialogSequence>2</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266731</GUID>
+      <Name>AT_ThomasTicker_movie04_01</Name>
+    </Standard>
+  </Values>
+</Asset>

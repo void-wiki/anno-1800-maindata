@@ -1,0 +1,43 @@
+<Asset>
+  <Template>TownhallBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>110992</GUID>
+      <Name>Anti Bourgeois Cocktail Buff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_cocktail_bomb.png</IconFilename>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010346</GUID>
+        </Item>
+        <Item>
+          <GUID>1010347</GUID>
+        </Item>
+      </EffectTargets>
+      <BuildingDecoration>142628</BuildingDecoration>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anti-Bourgeois Cocktail</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31346</LineID>
+    </Text>
+    <BuildingUpgrade />
+    <Buff />
+    <PopulationUpgrade />
+    <ResidenceUpgrade>
+      <TaxModifierInPercent>40</TaxModifierInPercent>
+    </ResidenceUpgrade>
+    <IncidentInfectableUpgrade>
+      <IncidentFireIncreaseUpgrade>
+        <Value>15</Value>
+      </IncidentFireIncreaseUpgrade>
+    </IncidentInfectableUpgrade>
+    <CultureUpgrade />
+  </Values>
+</Asset>

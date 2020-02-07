@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245626</GUID>
+      <Name>Play_AI_LADY2_W4P1I_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1685</DurationMinimum>
+          <DurationMaximum>6369</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2170</DurationMinimum>
+          <DurationMaximum>8421</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1458</DurationMinimum>
+          <DurationMaximum>5532</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1846</DurationMinimum>
+          <DurationMaximum>5153</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3543113186</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

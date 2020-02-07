@@ -1,0 +1,31 @@
+<Asset>
+  <Template>QuestItem</Template>
+  <Values>
+    <Standard>
+      <GUID>113618</GUID>
+      <Name>QI Dodgy Treasure Map - Trust Your Dealer</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_midnight_call_bomb_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dubious-looking Treasure Map</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32408</LineID>
+    </Text>
+    <Item>
+      <HasAction>1</HasAction>
+    </Item>
+    <Locked />
+    <ItemAction>
+      <ItemAction>KAMIKAZE</ItemAction>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <Charges>1</Charges>
+      <ActionDuration>10000</ActionDuration>
+    </ItemAction>
+    <CultureUpgrade />
+  </Values>
+</Asset>

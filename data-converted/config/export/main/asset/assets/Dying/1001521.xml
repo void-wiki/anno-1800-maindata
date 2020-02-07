@@ -1,0 +1,17 @@
+<Asset>
+  <Template>Dying</Template>
+  <Values>
+    <Standard>
+      <GUID>1001521</GUID>
+      <Name>Dying Object</Name>
+      <ID>DyingObject</ID>
+    </Standard>
+    <Mesh />
+    <Dying>
+      <DeathEffectDuration>20000</DeathEffectDuration>
+    </Dying>
+    <Object>
+      <Type>NotSerialized</Type>
+    </Object>
+  </Values>
+</Asset>

@@ -1,0 +1,43 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268980</GUID>
+      <Name>Pool_ai08_InsultFail</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>252092</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252872</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251924</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251925</AudioText>
+        </Item>
+        <Item>
+          <AudioText>251892</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>-675154233</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

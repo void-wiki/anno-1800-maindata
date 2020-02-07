@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15538</GUID>
+      <Name>SmugglerContext_Combined Bring Ship</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Slip past patrols to [AssetData([Conditions QuestCondition ExecutionObject]) Text] and pick up: &lt;br/&gt;[AssetData([Conditions QuestMainObjectiveCondition CurrentDeliveryObject([Conditions QuestCondition ConditionKey])]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22169</LineID>
+    </Text>
+  </Values>
+</Asset>

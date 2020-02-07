@@ -1,0 +1,54 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191140</GUID>
+      <Name>marine predators</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_swordfish.png</IconFilename>
+      <InfoDescription>15760</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190779</GUID>
+        </Item>
+        <Item>
+          <GUID>1010339</GUID>
+        </Item>
+        <Item>
+          <GUID>101262</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ocean Predators Park</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21920</LineID>
+    </Text>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>5</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+    </FactoryUpgrade>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-10</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+      <WorkforceAmountUpgrade>
+        <Value>-10</Value>
+        <Percental>1</Percental>
+      </WorkforceAmountUpgrade>
+    </BuildingUpgrade>
+    <Buff />
+    <CultureUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

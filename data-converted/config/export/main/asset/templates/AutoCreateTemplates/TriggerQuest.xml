@@ -1,0 +1,16 @@
+<Template>
+  <Name>TriggerQuest</Name>
+  <Properties>
+    <Standard />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Properties>
+</Template>

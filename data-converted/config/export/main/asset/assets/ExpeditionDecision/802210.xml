@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802210</GUID>
+      <Name>The Amazons 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802211</Option>
+        </Item>
+        <Item>
+          <Option>802212</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The behaviour of your diplomat is disgusting.&lt;/b&gt; Instead of trying to communicate your good intentions, the belching toad circles them, looking them up and down as if to appraise their value. When he places a greasy hand on one of the warriors cheeks, another of the women breaks from the pack and plants her lance in his thigh.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20917</LineID>
+    </Text>
+  </Values>
+</Asset>

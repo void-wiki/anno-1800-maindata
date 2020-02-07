@@ -1,0 +1,48 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>116024</GUID>
+      <Name>ThePassage AI Settle Unlock SP Human Condition</Name>
+    </Standard>
+    <Locked>
+      <Scope>MetaGame</Scope>
+    </Locked>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionIsMultiplayer</Template>
+        <Values>
+          <Condition />
+          <ConditionIsMultiplayer />
+          <ConditionPropsNegatable>
+            <NegateCondition>1</NegateCondition>
+          </ConditionPropsNegatable>
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>114181</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

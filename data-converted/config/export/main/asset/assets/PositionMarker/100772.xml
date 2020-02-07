@@ -1,0 +1,21 @@
+<Asset>
+  <Template>PositionMarker</Template>
+  <Values>
+    <Mesh />
+    <Standard>
+      <GUID>100772</GUID>
+      <Name>LoadingPierPositionMarker</Name>
+      <ID>LoadingPierPositionMarker</ID>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/placeholder2.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <PositionMarker />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,96 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>116182</GUID>
+      <Name>Fresh Drinks Distributor</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_craft_beer_takeaway.png</IconFilename>
+      <InfoDescription>116214</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Craft Beer To Takeaway</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35985</LineID>
+    </Text>
+    <Item>
+      <Allocation>TownHall</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>187100</TradePrice>
+    </Item>
+    <FactoryUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010344</GUID>
+        </Item>
+        <Item>
+          <GUID>1010345</GUID>
+        </Item>
+        <Item>
+          <GUID>101255</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>116214</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade>
+      <GoodConsumptionUpgrade>
+        <Item>
+          <ProvidedNeed>1010214</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+      </GoodConsumptionUpgrade>
+    </ResidenceUpgrade>
+    <PopulationUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010214</Product>
+          <AdditionalMoney>5</AdditionalMoney>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ElectricUpgrade />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+    <Buff />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>115980</Product>
+          <Amount>25</Amount>
+        </Item>
+        <Item>
+          <Product>1010214</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>112706</Product>
+          <Amount>5</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <HeaterUpgrade />
+  </Values>
+</Asset>

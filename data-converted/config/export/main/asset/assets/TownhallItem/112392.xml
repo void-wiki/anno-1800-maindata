@@ -1,0 +1,75 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112392</GUID>
+      <Name>IllumiNATE-Or</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_experimental_firework_machine_1.png</IconFilename>
+      <InfoDescription>112500</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Nate's Experimental Illuminations</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32375</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <TradePrice>62000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <AdditionalHappiness>5</AdditionalHappiness>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>1</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <Buff />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>112518</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010232</Product>
+          <Amount>5</Amount>
+        </Item>
+        <Item>
+          <Product>1010197</Product>
+          <Amount>10</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <VisualEffectWhenActive>
+      <EffectFile>data/graphics/effects/particles/special/fireworks/guild_house_01.cfg</EffectFile>
+    </VisualEffectWhenActive>
+  </Values>
+</Asset>

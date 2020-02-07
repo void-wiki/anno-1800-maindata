@@ -1,0 +1,49 @@
+<Asset>
+  <Template>FeedbackVehiclePatrol</Template>
+  <Values>
+    <Standard>
+      <GUID>1010066</GUID>
+      <Name>Small Feedback Ship 02</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/small_feedback_ship_02/small_feedback_ship_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <ReservationLength>5</ReservationLength>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <Acceleration>2</Acceleration>
+      <TurnSpeed>10</TurnSpeed>
+      <TurnMovement>50</TurnMovement>
+      <LeaningMaxAngle>27</LeaningMaxAngle>
+      <WindMinSlowdownFactor>0.7273</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1.3</WindMaxSpeedupFactor>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>small_feedback_ship01</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>0.7</Length>
+      <Width>0.5</Width>
+    </Drifting>
+    <SoundEmitter />
+  </Values>
+</Asset>

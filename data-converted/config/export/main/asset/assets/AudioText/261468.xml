@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I have blunted your dagger of espion. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12832</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229522</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261468</GUID>
+      <Name>AT_ai01_NPCUncoversPlyrsMafiaAction5</Name>
+    </Standard>
+  </Values>
+</Asset>

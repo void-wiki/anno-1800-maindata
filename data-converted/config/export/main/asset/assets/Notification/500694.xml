@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500694</GUID>
+      <Name>ShipUnderAttack_Owner</Name>
+      <ID>ShipUnderAttack_Owner</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501367</IconAsset>
+            <NotificationSideTitle>11621</NotificationSideTitle>
+            <FilterType>Military</FilterType>
+            <IsWarning>1</IsWarning>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>11621</NotificationText>
+            <NotificationBlockingTime>900000</NotificationBlockingTime>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>403</NotificationPriority>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265210</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

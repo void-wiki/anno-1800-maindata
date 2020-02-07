@@ -1,0 +1,84 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>112104</GUID>
+      <Name>DLC01 - Achievement06 - Import</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/achievement/icon_achievement_sunken_treasure_gold.png</IconFilename>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DLC01</AchievementCategory>
+      <AchievementTitle>112053</AchievementTitle>
+      <AchievementDescription>112069</AchievementDescription>
+      <AchievementUPlayID>105</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>Linear</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionPlayerCounter>
+            <Context>700144</Context>
+            <ComparisonOp>Equals</ComparisonOp>
+            <CounterScope>Area</CounterScope>
+            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+            <CounterScopeContext>112140</CounterScopeContext>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <PlayerCounter>PopulationByLevel</PlayerCounter>
+                      <Context>15000004</Context>
+                      <CounterAmount>1750</CounterAmount>
+                      <CounterScope>Area</CounterScope>
+                      <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                      <CounterScopeContext>112140</CounterScopeContext>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionTimer</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionTimer>
+                      <TimeLimit>300000</TimeLimit>
+                    </ConditionTimer>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>508</UplayActionID>
+      <BadgeID>1007</BadgeID>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

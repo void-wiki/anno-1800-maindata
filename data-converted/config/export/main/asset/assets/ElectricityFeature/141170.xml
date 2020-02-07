@@ -1,0 +1,22 @@
+<Asset>
+  <Template>ElectricityFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>141170</GUID>
+      <Name>ElectricityBalancing</Name>
+      <ID>ElectricityBalancing</ID>
+    </Standard>
+    <ElectricityFeature>
+      <ElectricWire1>101388</ElectricWire1>
+      <ElectricWire2>101389</ElectricWire2>
+      <ElectricWire3>101390</ElectricWire3>
+      <ElectricWire4>101391</ElectricWire4>
+      <ElectricWire5>101392</ElectricWire5>
+      <ElectricPoleStraight>101393</ElectricPoleStraight>
+      <ElectricPoleCrossing>101394</ElectricPoleCrossing>
+      <ElectricPoleCorner>101394</ElectricPoleCorner>
+      <ElectricPoleTCross>101396</ElectricPoleTCross>
+      <ElectricPoleRailway>101401</ElectricPoleRailway>
+    </ElectricityFeature>
+  </Values>
+</Asset>

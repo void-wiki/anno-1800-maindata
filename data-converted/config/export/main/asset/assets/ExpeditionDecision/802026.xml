@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802026</GUID>
+      <Name>Tavern Troubles 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew overestimated themselves.&lt;/b&gt; As he calls for the other sailors to help, the doctor gets his head smashed into the counter. His crewmates scream for revenge and look like toddlers agitating their little arms to try and hit the big bad guys. The thugs are not in the mood to play along, and one of them stabs a bawling sailor in the liver to make them shut up. They slowly die as the thugs depart, leaving the tavern in a stupor.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21727</LineID>
+    </Text>
+  </Values>
+</Asset>

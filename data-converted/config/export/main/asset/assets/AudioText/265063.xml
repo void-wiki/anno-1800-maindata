@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We are running low on timber, but there's plenty in the ruins. We should clear some to stock up.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15486</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232200</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265063</GUID>
+      <Name>advisor_01_CleanTheIsland_07</Name>
+    </Standard>
+  </Values>
+</Asset>

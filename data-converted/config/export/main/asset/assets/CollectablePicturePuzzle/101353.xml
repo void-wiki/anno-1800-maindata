@@ -1,0 +1,96 @@
+<Asset>
+  <Template>CollectablePicturePuzzle</Template>
+  <Values>
+    <Standard>
+      <GUID>101353</GUID>
+      <Name>CQO_WoodpileAa</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_gifts.png</IconFilename>
+    </Standard>
+    <Collectable>
+      <OnCollect>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionAddGoodsToItemContainer</Template>
+                  <Values>
+                    <Action />
+                    <ActionAddGoodsToItemContainer>
+                      <Goods>
+                        <Item>
+                          <Good>1010196</Good>
+                          <Amount>5</Amount>
+                        </Item>
+                      </Goods>
+                      <ItemContainerObjects>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                          <ObjectFilter>
+                            <ObjectGUID>130117</ObjectGUID>
+                            <CheckParticipantID>1</CheckParticipantID>
+                            <ObjectIslands>
+                              <Item>
+                                <Island>160002</Island>
+                              </Item>
+                            </ObjectIslands>
+                          </ObjectFilter>
+                        </Values>
+                      </ItemContainerObjects>
+                    </ActionAddGoodsToItemContainer>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnCollect>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <InitialVisibility>0</InitialVisibility>
+      <ConstructionEffectDuration>2000</ConstructionEffectDuration>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/storage/wooden_beams_staple_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <CommandQueue />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pile of Wood</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25887</LineID>
+    </Text>
+    <Infolayer>
+      <DefaultInfoLayer>500926</DefaultInfoLayer>
+    </Infolayer>
+    <MinimapToken />
+    <QuestObject />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Trailer />
+    <Blocking>
+      <RemoveGrass>0</RemoveGrass>
+    </Blocking>
+  </Values>
+</Asset>

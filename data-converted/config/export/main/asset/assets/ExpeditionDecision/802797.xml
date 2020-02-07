@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802797</GUID>
+      <Name>Jolly Roger 1.2.1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You're lucky they don't leave with your ship!&lt;/b&gt; Some of your sailors are equipped with old flintlocks, whose inaccuracy permit the enemy to appear at close quarters. The swordplay proceeds so terribly on your side, that a section of the pirates are able to reach the lower deck and pilfer all they find. Thus satisfied, their captain bays "fall back!" and the scourge are gone, leaving your crew to count the dead.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21549</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802567</GUID>
+      <Name>A Fistful of Doubloons</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A Fistful of Doubloons</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21645</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>802568</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

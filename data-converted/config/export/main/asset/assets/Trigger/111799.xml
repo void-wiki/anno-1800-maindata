@@ -1,0 +1,95 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>111799</GUID>
+      <Name>Trigger Propaganda Quest Start</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NewspaperMinIntervalEnded</ConditionEvent>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionExecuteActionByChance</Template>
+            <Values>
+              <Action />
+              <ActionExecuteActionByChance>
+                <ChanceValue>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <VariableValue>
+                      <UseVariable>1</UseVariable>
+                      <VariableUsed>Mercier_PropagandaQuestChance</VariableUsed>
+                    </VariableValue>
+                  </Values>
+                </ChanceValue>
+                <ActionListChanceSuccess>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionStartQuest</Template>
+                            <Values>
+                              <Action />
+                              <ActionStartQuest>
+                                <Quest>111800</Quest>
+                                <QuestSession>180023</QuestSession>
+                              </ActionStartQuest>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionForceNewspaper</Template>
+                            <Values>
+                              <Action />
+                              <ActionForceNewspaper>
+                                <ShowPamsyMessage>1</ShowPamsyMessage>
+                              </ActionForceNewspaper>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </ActionListChanceSuccess>
+                <ActionListChanceFailure>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionResetTrigger</Template>
+                            <Values>
+                              <Action />
+                              <ActionResetTrigger />
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </ActionListChanceFailure>
+              </ActionExecuteActionByChance>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You should know, I have misgivings about you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7737</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217964</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255350</GUID>
+      <Name>AT_ai09_NPCReputationAutocorrectDecrease1</Name>
+    </Standard>
+  </Values>
+</Asset>

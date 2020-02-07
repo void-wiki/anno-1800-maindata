@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801694</GUID>
+      <Name>The Chasing 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <EndExpedition>1</EndExpedition>
+      <ChangeMorale>RemoveContinue</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Needles and haystacks.&lt;/b&gt; You exhaust all feasible harbours. Not only is there no sign of your quarry, there is no method of knowing whether they have been and gone from a place, or if they were never there at all. The sea seems godless, wide and deep, and the crew long for it to swallow them up. Instead, however, they must return to Miss Hannah Goode, to explain their failure.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21124</LineID>
+    </Text>
+  </Values>
+</Asset>

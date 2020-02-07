@@ -1,0 +1,37 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140550</GUID>
+      <Name>City Attractiveness Best Island</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>3077</Headline>
+      <Subline>3078</Subline>
+      <Image>142093</Image>
+      <Category>CityAttractiveness</Category>
+      <RequiresTownContext>1</RequiresTownContext>
+      <NewsPriority>
+        <StartValue>350</StartValue>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+    </Locked>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+    </TriggerSetup>
+  </Values>
+</Asset>

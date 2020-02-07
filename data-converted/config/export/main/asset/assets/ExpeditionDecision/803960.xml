@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803960</GUID>
+      <Name>Go back and head west - Add event</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>803958</InsertEvent>
+      <MapPath>
+        <ShowMap>1</ShowMap>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The crew returns to the ship. Once at Tchilling Sound, they head west.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35239</LineID>
+    </Text>
+  </Values>
+</Asset>

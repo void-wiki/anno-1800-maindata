@@ -1,0 +1,17 @@
+<Asset>
+  <Template>MinimapDot</Template>
+  <Values>
+    <Standard>
+      <GUID>501779</GUID>
+      <Name>Mine</Name>
+      <IconFilename>data/ui/2kimages/main/assets/icon_minimap_mine_02.png</IconFilename>
+      <ID>MineToken</ID>
+    </Standard>
+    <MinimapTokenSettings>
+      <Color>Red</Color>
+      <Tooltip>2736</Tooltip>
+      <Filter>Mine</Filter>
+      <IgnoreGameObjectVisibility>1</IgnoreGameObjectVisibility>
+    </MinimapTokenSettings>
+  </Values>
+</Asset>

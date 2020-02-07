@@ -1,0 +1,47 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193407</GUID>
+      <Name>the empire</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_nadaskys_sword.png</IconFilename>
+      <InfoDescription>22243</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Battle of Trelawney Exhibition</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32634</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade>
+      <HitpointDamage>
+        <Item>
+          <MinDamageFactor>1.5</MinDamageFactor>
+        </Item>
+      </HitpointDamage>
+      <DamageFactor>
+        <SailShip>
+          <Factor>1.2</Factor>
+        </SailShip>
+      </DamageFactor>
+    </AttackerUpgrade>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191458</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

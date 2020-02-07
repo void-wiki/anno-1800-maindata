@@ -1,0 +1,37 @@
+<Asset>
+  <Template>Herd</Template>
+  <Values>
+    <Standard>
+      <GUID>1000072</GUID>
+      <Name>Herd Flamingo</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cattle.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_flamingo.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <Herd>
+      <StandTogetherRadius>0.8</StandTogetherRadius>
+    </Herd>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/flamingo/flamingo.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_AmbientZones>North;South</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Colony01</AutoSpawn_Regions>
+      <UnitCountMin>1</UnitCountMin>
+      <AutoSpawn_RelativeProbability>20</AutoSpawn_RelativeProbability>
+      <ScaleFactor>0.5</ScaleFactor>
+    </AnimalBase>
+  </Values>
+</Asset>

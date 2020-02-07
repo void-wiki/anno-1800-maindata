@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200821</GUID>
+      <Name>wwe_sfx_bld_factory_col01_05_rfx_03</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>641</DurationMinimum>
+          <DurationMaximum>1677</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>25</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3059839263</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

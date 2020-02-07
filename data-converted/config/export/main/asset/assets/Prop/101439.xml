@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101439</GUID>
+      <Name>simple_pot</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/decoration/simple_pot.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/decoration/flower_pot_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/decoration/flower_pot_03.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>804060</GUID>
+      <Name>Narrow channels </Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Narrow channels</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic;NorthernEurope;NorthAmerica;NorthernNorthAmerica</EventRegion>
+      <EventThreat>800033</EventThreat>
+      <StartDecision>804060</StartDecision>
+      <EventMusicChoice>226701</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/polar_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>202348</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

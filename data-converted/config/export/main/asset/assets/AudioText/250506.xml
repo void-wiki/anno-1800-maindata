@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I fear you've made things awkward…</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1178</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212196</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250506</GUID>
+      <Name>AT_3rdParty02_NegFeedbackToPlyr4</Name>
+    </Standard>
+  </Values>
+</Asset>

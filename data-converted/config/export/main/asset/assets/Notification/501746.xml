@@ -1,0 +1,29 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501746</GUID>
+      <Name>Session discovered Polar</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>12670</Title>
+            <NotificationMainIconAsset>180045</NotificationMainIconAsset>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>12671</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>500</NotificationPriority>
+            <NotificationMinDisplayTime>15000</NotificationMinDisplayTime>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265161</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

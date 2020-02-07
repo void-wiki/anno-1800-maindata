@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802695</GUID>
+      <Name>The Runaway 1.1.2.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's no time.&lt;/b&gt; Your men, still concerned with preparing for a sea battle, are thrown into disarray. "To deck men! To deck!" is the cry, and they dive for their guns and rush to deck, only to be cut down, one-by-one by the men in blue. "Fools!" smirks the official, as the fugitive is trussed in chains, "to think so many died for this worthless streak of spittle... Take him away!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21629</LineID>
+    </Text>
+  </Values>
+</Asset>

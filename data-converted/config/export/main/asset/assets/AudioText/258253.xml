@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If Beryl can help the ragamuffins in the street, she can help you too, now.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10585</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222606</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258253</GUID>
+      <Name>AT_ai05_ChooseNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

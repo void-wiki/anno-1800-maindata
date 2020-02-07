@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Transporter</Template>
+  <Values>
+    <Standard>
+      <GUID>120025</GUID>
+      <Name>TrainTransporter</Name>
+    </Standard>
+    <Transporter7>
+      <TransporterCapacity>200</TransporterCapacity>
+      <ProcessingTimes>
+        <LoadingTime>10</LoadingTime>
+        <UnloadingTime>10</UnloadingTime>
+      </ProcessingTimes>
+      <TransporterSpeed>2.5</TransporterSpeed>
+      <FeedbackType>TrainTransporter</FeedbackType>
+      <NewWagonThreshold>20</NewWagonThreshold>
+    </Transporter7>
+  </Values>
+</Asset>

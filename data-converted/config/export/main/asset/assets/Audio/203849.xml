@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203849</GUID>
+      <Name>wwe_sfx_aui_destroy_small</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4816</DurationMinimum>
+          <DurationMaximum>5173</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>70</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1910451933</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

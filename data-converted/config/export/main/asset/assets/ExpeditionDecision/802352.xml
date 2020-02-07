@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802352</GUID>
+      <Name>The Mayan Map 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802353</Option>
+        </Item>
+        <Item>
+          <Option>802359</Option>
+        </Item>
+        <Item>
+          <Option>802378</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The faded ink...gold leaf...could this map lead to El Doodah?&lt;/b&gt; It fluttered into the hands your sailors, who believe it the most bona fide clue in centuries as to the location of the city of gold. They are already imagining hulking neckchains of the stuff to match their earrings. Why even the captain has suggested hiring a guide! Yet the greedy have come this way before, and it never does seem to end well...</Text>
+          <Status>Exported</Status>
+          <ExportCount>10</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20976</LineID>
+    </Text>
+  </Values>
+</Asset>

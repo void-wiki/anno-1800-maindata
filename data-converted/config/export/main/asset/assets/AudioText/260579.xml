@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This city is an abomination!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11339</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223112</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260579</GUID>
+      <Name>AT_res_tier05_ResidenceAngry8</Name>
+    </Standard>
+  </Values>
+</Asset>

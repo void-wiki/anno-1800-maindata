@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803511</GUID>
+      <Name>Trelawney 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803512</Option>
+        </Item>
+        <Item>
+          <Option>803515</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your ship is indeed waiting in the marina.&lt;/b&gt; Quickly, you rouse the captain and his crew, and weigh anchor. Before long, twinkling Monégasque is behind you, and from the next bay, you spot an impressive ship in the distance. How was she able to leave port so fast? &lt;b&gt;You either can continue to chase Her Majesty, or send her a message of peace with your signal lamp.&lt;/b&gt; </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32681</LineID>
+    </Text>
+  </Values>
+</Asset>

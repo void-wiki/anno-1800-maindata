@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800598</GUID>
+      <Name>Lost in the Desert 1.2.4.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sun is unspeakably hot.&lt;/b&gt; As the bedraggled lumber back to civilisation, there are wiltings among them. It is too much for the others to turn their heads. Bodies slumping to ash and dust, lost to the waves of a powder sea.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5871</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,35 @@
+<Asset>
+  <Template>QuestPool</Template>
+  <Values>
+    <Standard>
+      <GUID>151383</GUID>
+      <Name>QP Tutorial 2 Forced Hints</Name>
+    </Standard>
+    <QuestPool>
+      <Quests>
+        <Item>
+          <Quest>153255</Quest>
+        </Item>
+      </Quests>
+      <Groups>
+        <Item>
+          <QuestGroup>-178903881</QuestGroup>
+        </Item>
+      </Groups>
+      <PoolCooldown>5000</PoolCooldown>
+      <CooldownOnQuestStart>1</CooldownOnQuestStart>
+      <CooldownOnQuestEnd>1</CooldownOnQuestEnd>
+      <QuestCooldown>0</QuestCooldown>
+    </QuestPool>
+    <Locked />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+  </Values>
+</Asset>

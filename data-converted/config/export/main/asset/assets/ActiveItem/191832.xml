@@ -1,0 +1,51 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191832</GUID>
+      <Name>Speed Turbine</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_generator_3.png</IconFilename>
+      <InfoDescription>19692</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ship Turbine</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26784</LineID>
+    </Text>
+    <Item>
+      <Allocation>SteamShip</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>25000</TradePrice>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ActionCooldown>45000</ActionCooldown>
+      <ActionDuration>30000</ActionDuration>
+      <ActiveBuff>191835</ActiveBuff>
+      <ActionDescription>20071</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Navigation</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19692</FluffText>
+    </ExpeditionAttribute>
+    <SpecialAction />
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

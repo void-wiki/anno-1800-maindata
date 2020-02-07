@@ -1,0 +1,19 @@
+<Template>
+  <Name>FluffItem</Name>
+  <Properties>
+    <Standard />
+    <Text />
+    <Item>
+      <Allocation>None</Allocation>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Narrative</Rarity>
+      <ItemType>None</ItemType>
+      <TradePrice>100</TradePrice>
+      <Flotsam>101560</Flotsam>
+    </Item>
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+    <Locked />
+  </Properties>
+</Template>

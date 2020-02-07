@@ -1,0 +1,32 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140964</GUID>
+      <Name>IncomeBalanceNegativePast</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11201</Headline>
+      <Subline>11202</Subline>
+      <Image>142228</Image>
+      <Category>Economy</Category>
+      <NewsPriority>
+        <StartValue>200</StartValue>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

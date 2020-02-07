@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803940</GUID>
+      <Name>Cracking Ice 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <InsertEvent>804148</InsertEvent>
+      <Conclusion>114641</Conclusion>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_tradingpost.png</Sketch>
+        <SketchPosX>1689</SketchPosX>
+        <SketchPosY>724</SketchPosY>
+        <SketchSizeX>228</SketchSizeX>
+        <SketchSizeY>222</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Forget strength, &lt;b&gt;what they needed was teamwork.&lt;/b&gt; The rope team disregard their own safety and pull as they would on dry land. The ice can't hold, and collapses beneath them. Some manage to crawl free of the water and save themselves but &lt;b&gt;others slip away&lt;/b&gt; to fertilise the ocean bed. The survivors trudge for the thin comforts of the disused trading post. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35225</LineID>
+    </Text>
+  </Values>
+</Asset>

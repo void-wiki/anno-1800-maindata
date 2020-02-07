@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fight the rising tide?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13245</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230414</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256269</GUID>
+      <Name>AT_enemy02_NpcMakesThreat2</Name>
+    </Standard>
+  </Values>
+</Asset>

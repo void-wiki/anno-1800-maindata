@@ -1,0 +1,27 @@
+<Asset>
+  <Template>UplayProduct</Template>
+  <Values>
+    <Standard>
+      <GUID>410021</GUID>
+      <Name>Anno 1800 - Season Pass Player Assets</Name>
+      <ID>SeasonPass</ID>
+    </Standard>
+    <Locked />
+    <UplayProduct>
+      <UplayProductID>14074</UplayProductID>
+      <UplayProductUnlocks>
+        <Item>
+          <UplayProductUnlock>101138</UplayProductUnlock>
+        </Item>
+        <Item>
+          <UplayProductUnlock>501733</UplayProductUnlock>
+        </Item>
+        <Item>
+          <UplayProductUnlock>501734</UplayProductUnlock>
+        </Item>
+      </UplayProductUnlocks>
+      <ProductType>SeasonPass</ProductType>
+    </UplayProduct>
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192769</GUID>
+      <Name>Culture - European Animals - Uncommon</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>191052</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191072</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190453</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190458</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190456</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

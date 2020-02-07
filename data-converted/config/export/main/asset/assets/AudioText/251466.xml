@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>That deal ain't within an 'alf mile o' fair.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2446</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212761</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251466</GUID>
+      <Name>AT_ai03_NpcDeclinesPlayerProposal4</Name>
+    </Standard>
+  </Values>
+</Asset>

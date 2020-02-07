@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803655</GUID>
+      <Name>Devil snare</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Devil's Trumpet</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34349</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>803656</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/dlc02/ui/video/dlc02_botanica_south_america.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

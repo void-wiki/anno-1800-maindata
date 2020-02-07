@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500685</GUID>
+      <Name>SellShipRequestNotification_IsabelSarmento</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <CharacterNotification>
+            <ThirdpartyNotificationButtons>
+              <Item>
+                <Icon>500109</Icon>
+                <Command>[NotificationContext Value(Ship) Object Sellable BuyNet([NotificationContext Value(TraderIndex) Int])]</Command>
+              </Item>
+              <Item>
+                <Icon>500108</Icon>
+                <Command>[NotificationContext Value(Trader) Object Trader ShipTradeFailed([NotificationContext Value(PlayerIndex) Int])]</Command>
+              </Item>
+            </ThirdpartyNotificationButtons>
+          </CharacterNotification>
+          <BaseNotification>
+            <NotificationText>10817</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>700</NotificationPriority>
+            <NotificationMinDisplayTime>30000</NotificationMinDisplayTime>
+            <NotificationGroup>PlayerClick</NotificationGroup>
+            <IsUnique>1</IsUnique>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <SubtitleGroup>91574379</SubtitleGroup>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

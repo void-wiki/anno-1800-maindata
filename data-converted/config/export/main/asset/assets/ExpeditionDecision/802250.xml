@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802250</GUID>
+      <Name>The Deeper You Go 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;If there is a mechanism, they do not find it.&lt;/b&gt; Sand keeps pouring into the room, ricocheting off the sailors, blinding them, forcing its way into their noses and mouth. The explorers utter muted screams. As the sand packs against the walls, one of them crumbles under the weight and lets the sailors spill outside of the temple: some alive, most dead.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21076</LineID>
+    </Text>
+  </Values>
+</Asset>

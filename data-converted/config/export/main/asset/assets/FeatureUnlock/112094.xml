@@ -1,0 +1,164 @@
+<Asset>
+  <Template>FeatureUnlock</Template>
+  <Values>
+    <Standard>
+      <GUID>112094</GUID>
+      <Name>MercierAliveUnlock</Name>
+    </Standard>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionIsParticipantInGame</Template>
+        <Values>
+          <Condition />
+          <ConditionIsParticipantInGame>
+            <InGameParticipant>Second_ai_11_Mercier</InGameParticipant>
+          </ConditionIsParticipantInGame>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>111241</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>111250</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>111251</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsDiscovered</Template>
+                  <Values>
+                    <Condition />
+                    <ParticipantRelation>
+                      <SourceIsOwner>1</SourceIsOwner>
+                      <TargetParticipant>Second_ai_11_Mercier</TargetParticipant>
+                    </ParticipantRelation>
+                    <ConditionIsDiscovered />
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+      <ResetTrigger>
+        <Template>AutoCreateTrigger</Template>
+        <Values>
+          <Trigger>
+            <TriggerCondition>
+              <Template>ConditionIsParticipantInGame</Template>
+              <Values>
+                <Condition />
+                <ConditionIsParticipantInGame>
+                  <InGameParticipant>Second_ai_11_Mercier</InGameParticipant>
+                </ConditionIsParticipantInGame>
+                <ConditionPropsNegatable>
+                  <NegateCondition>1</NegateCondition>
+                </ConditionPropsNegatable>
+              </Values>
+            </TriggerCondition>
+            <TriggerActions>
+              <Item>
+                <TriggerAction>
+                  <Template>ActionRegisterTrigger</Template>
+                  <Values>
+                    <Action />
+                    <ActionRegisterTrigger>
+                      <TriggerAsset>111241</TriggerAsset>
+                      <UnregisterTrigger>1</UnregisterTrigger>
+                    </ActionRegisterTrigger>
+                  </Values>
+                </TriggerAction>
+              </Item>
+              <Item>
+                <TriggerAction>
+                  <Template>ActionRegisterTrigger</Template>
+                  <Values>
+                    <Action />
+                    <ActionRegisterTrigger>
+                      <TriggerAsset>111250</TriggerAsset>
+                      <UnregisterTrigger>1</UnregisterTrigger>
+                    </ActionRegisterTrigger>
+                  </Values>
+                </TriggerAction>
+              </Item>
+              <Item>
+                <TriggerAction>
+                  <Template>ActionRegisterTrigger</Template>
+                  <Values>
+                    <Action />
+                    <ActionRegisterTrigger>
+                      <TriggerAsset>111251</TriggerAsset>
+                      <UnregisterTrigger>1</UnregisterTrigger>
+                    </ActionRegisterTrigger>
+                  </Values>
+                </TriggerAction>
+              </Item>
+              <Item>
+                <TriggerAction>
+                  <Template>ActionLockAsset</Template>
+                  <Values>
+                    <Action />
+                    <ActionLockAsset>
+                      <LockAssets>
+                        <Item>
+                          <Asset>112094</Asset>
+                        </Item>
+                        <Item>
+                          <Asset>111241</Asset>
+                        </Item>
+                        <Item>
+                          <Asset>111250</Asset>
+                        </Item>
+                        <Item>
+                          <Asset>111251</Asset>
+                        </Item>
+                      </LockAssets>
+                    </ActionLockAsset>
+                  </Values>
+                </TriggerAction>
+              </Item>
+            </TriggerActions>
+          </Trigger>
+        </Values>
+      </ResetTrigger>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

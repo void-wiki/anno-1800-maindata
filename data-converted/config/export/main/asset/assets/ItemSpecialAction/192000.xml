@@ -1,0 +1,58 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>192000</GUID>
+      <Name>TNT Bomb</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_suicide_bombs_3.png</IconFilename>
+      <InfoDescription>19585</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <MouseEffect>140112</MouseEffect>
+      <Delay>5000</Delay>
+      <Projectile>102628</Projectile>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ItemAction>KAMIKAZE</ItemAction>
+      <ActionScope>Self</ActionScope>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>10000</ActionDuration>
+      <ActionDescription>22097</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>30000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>TNT Bomb</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26864</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>19585</FluffText>
+    </ExpeditionAttribute>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <CraftableItem />
+  </Values>
+</Asset>

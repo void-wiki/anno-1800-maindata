@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801643</GUID>
+      <Name>Scylla and Charybdis 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801646</Option>
+        </Item>
+        <Item>
+          <Option>801647</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew attempts the crossing of a vicious strait.&lt;/b&gt; Like Odysseus along the coasts of Sicily, they see a subsidiary current running counter to the main flow, its strength so wild it brings fishes with deformed eyes and luminescent bellies to the surface. What creatures are not swallowed by this whirlpool end up impaled on the shore's nasty teeth.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17977</LineID>
+    </Text>
+  </Values>
+</Asset>

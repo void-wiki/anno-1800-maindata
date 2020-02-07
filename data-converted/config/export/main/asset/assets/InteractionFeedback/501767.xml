@@ -1,0 +1,26 @@
+<Asset>
+  <Template>InteractionFeedback</Template>
+  <Values>
+    <Standard>
+      <GUID>501767</GUID>
+      <Name>InteractionFeedbackPlaceMine</Name>
+      <ID>InteractionFeedbackPlaceMine</ID>
+    </Standard>
+    <InteractionFeedback>
+      <InteractionCursor>2001868</InteractionCursor>
+      <InteractionTime>3000</InteractionTime>
+      <InteractionInfolayer>501782</InteractionInfolayer>
+      <InteractionTargetInfolayer>501782</InteractionTargetInfolayer>
+    </InteractionFeedback>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deploying Mines</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32430</LineID>
+    </Text>
+  </Values>
+</Asset>

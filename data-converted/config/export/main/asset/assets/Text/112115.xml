@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>112115</GUID>
+      <Name>MissingWorkforceInPoolText</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There is a shortage of [AssetData([NotificationContext Value(Workforce) Int]) Text] across your islands!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31508</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,28 @@
+<Asset>
+  <Template>TrafficFeedbackUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>2001174</GUID>
+      <Name>Default Train</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_railway.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackUnit>
+      <UnitType>Train</UnitType>
+      <CfgPath>data/graphics/vehicle/railway_01/railway_01.cfg</CfgPath>
+      <SpeedSource>Managed</SpeedSource>
+    </TrafficFeedbackUnit>
+    <Trailer>
+      <TrailerType>TrainDynamic</TrailerType>
+      <TrailerCount>3</TrailerCount>
+      <TrailerEndPartCfgVariations>
+        <Item>
+          <CfgVariation>data/graphics/vehicle/railway_oil_01/railway_oil_01.cfg</CfgVariation>
+        </Item>
+        <Item>
+          <CfgVariation>data/graphics/vehicle/railway_oil_02/railway_oil_02.cfg</CfgVariation>
+          <RelativeProbability>5</RelativeProbability>
+        </Item>
+      </TrailerEndPartCfgVariations>
+    </Trailer>
+  </Values>
+</Asset>

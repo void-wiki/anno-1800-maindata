@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239975</GUID>
+      <Name>wwe_voc_mur_pirate_jean</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1831</DurationMinimum>
+          <DurationMaximum>21422</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1750</DurationMinimum>
+          <DurationMaximum>21368</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1570</DurationMinimum>
+          <DurationMaximum>21317</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1887</DurationMinimum>
+          <DurationMaximum>21245</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3725840797</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

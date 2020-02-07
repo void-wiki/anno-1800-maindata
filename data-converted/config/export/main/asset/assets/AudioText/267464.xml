@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I hear you ducked out of a war. Not for the first time, eh, old pal?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17386</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232674</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267464</GUID>
+      <Name>advisor02_Ch3Ph2_Additional_02</Name>
+    </Standard>
+  </Values>
+</Asset>

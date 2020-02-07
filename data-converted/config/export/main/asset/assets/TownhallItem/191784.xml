@@ -1,0 +1,73 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191784</GUID>
+      <Name>Medium Alcohol Taxes</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_uncommon.png</IconFilename>
+      <InfoDescription>19485</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Moderate Alcohol Tax</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26984</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Rare</Rarity>
+      <ExclusiveGroup>AlcoholTaxesAct</ExclusiveGroup>
+      <TradePrice>58800</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010214</Product>
+          <AdditionalHappiness>-2</AdditionalHappiness>
+          <AdditionalMoney>6</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010216</Product>
+          <AdditionalHappiness>-2</AdditionalHappiness>
+          <AdditionalMoney>6</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>120016</Product>
+          <AdditionalHappiness>-2</AdditionalHappiness>
+          <AdditionalMoney>6</AdditionalMoney>
+        </Item>
+        <Item>
+          <Product>1010257</Product>
+          <AdditionalHappiness>-2</AdditionalHappiness>
+          <AdditionalMoney>6</AdditionalMoney>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

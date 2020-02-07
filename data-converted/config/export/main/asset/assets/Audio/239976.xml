@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239976</GUID>
+      <Name>wwe_voc_mur_tourism_highAttractiveness</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2072</DurationMinimum>
+          <DurationMaximum>21944</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2107</DurationMinimum>
+          <DurationMaximum>21559</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1942</DurationMinimum>
+          <DurationMaximum>21292</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2086</DurationMinimum>
+          <DurationMaximum>21685</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3554536659</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

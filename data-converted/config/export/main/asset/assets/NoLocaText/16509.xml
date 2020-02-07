@@ -1,0 +1,17 @@
+<Asset>
+  <Template>NoLocaText</Template>
+  <Values>
+    <Standard>
+      <GUID>16509</GUID>
+      <Name>REPLACEPickupFromShip</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pick up the item at [AssetData([Conditions QuestCondition SpawnContext]) Text]</Text>
+          <Status>ToBeDeleted</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

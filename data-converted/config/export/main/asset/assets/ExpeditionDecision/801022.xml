@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801022</GUID>
+      <Name>Mysterious Artefacts 1.2.2.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Once your ship is underway she is free.&lt;/b&gt; Nevertheless your adversaries are excellent shots, and do damage to the sails and aft. The crew will have to make repairs in the days that follow.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13189</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Found an egg with a palace in it. Fixed the hinge and stuck it on the bow of my lady blimp.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12294</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231321</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261091</GUID>
+      <Name>AT_3rdParty06_IdleMessageSelf2</Name>
+    </Standard>
+  </Values>
+</Asset>

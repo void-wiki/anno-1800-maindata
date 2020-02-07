@@ -1,0 +1,92 @@
+<Asset>
+  <BaseAssetGUID>100438</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>116649</GUID>
+      <Name>Iceberg</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/campaign/icon_iceberg.png</IconFilename>
+      <InfoDescription>0</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>TradeShip</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/dlc03/graphics/props/terrain_props/vegetation/ice/ice_floes/ice_floes_large_02_bis.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <Selectable>0</Selectable>
+      <MultiSelectable>0</MultiSelectable>
+    </Selection>
+    <Walking>
+      <TurnAroundRadius>0</TurnAroundRadius>
+      <TurnRadius>0.0125</TurnRadius>
+      <ForwardSpeed>0.2</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Iceberg</Text>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35480</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+    </CommandQueue>
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable />
+    <MinimapToken>
+      <TokenAsset>0</TokenAsset>
+      <StrategicMapAsset>0</StrategicMapAsset>
+    </MinimapToken>
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance>
+      <DisableEscort>1</DisableEscort>
+    </ShipMaintenance>
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

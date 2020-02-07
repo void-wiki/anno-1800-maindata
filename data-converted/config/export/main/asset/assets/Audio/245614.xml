@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245614</GUID>
+      <Name>Play_AI_EXPLO_XNKFC_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1697</DurationMinimum>
+          <DurationMaximum>10867</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>1859</DurationMinimum>
+          <DurationMaximum>7778</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1868</DurationMinimum>
+          <DurationMaximum>10193</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>2048</DurationMinimum>
+          <DurationMaximum>9894</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3132527483</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

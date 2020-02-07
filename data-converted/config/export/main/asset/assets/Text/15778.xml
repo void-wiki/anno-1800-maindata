@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15778</GUID>
+      <Name>CQ326_HostageRescue_ObjectiveText02</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deliver &lt;b&gt;[AssetData([Conditions QuestCondition CurrentDeliveryObject]) Text]&lt;/b&gt; to &lt;b&gt;[AssetData([Conditions QuestCondition ExecutionObject]) Text]&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23198</LineID>
+    </Text>
+  </Values>
+</Asset>

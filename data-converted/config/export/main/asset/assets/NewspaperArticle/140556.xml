@@ -1,0 +1,34 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140556</GUID>
+      <Name>ShipSold</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>2675</Headline>
+      <Subline>2674</Subline>
+      <Image>142264</Image>
+      <Category>Economy</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <RequiresObjectContext>1</RequiresObjectContext>
+      <NewsPriority>
+        <StartValue>300</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <Rating>Neutral</Rating>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

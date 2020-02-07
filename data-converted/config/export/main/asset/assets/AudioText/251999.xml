@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Can't you see I'm smiling?!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3151</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211028</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251999</GUID>
+      <Name>AT_ai08_NpcAcceptsPlayerProposal1</Name>
+    </Standard>
+  </Values>
+</Asset>

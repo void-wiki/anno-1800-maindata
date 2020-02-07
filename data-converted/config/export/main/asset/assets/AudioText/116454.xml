@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>That's the hangar? How marvellous! Sir John will be the first to congratulate you when we find him.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33732</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245163</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>116454</GUID>
+      <Name>AT_DLC03_LadyFaithful_ArcticQ104_02</Name>
+    </Standard>
+  </Values>
+</Asset>

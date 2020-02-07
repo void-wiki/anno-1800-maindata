@@ -1,0 +1,178 @@
+<Asset>
+  <BaseAssetGUID>1010266</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101260</GUID>
+      <Name>agriculture_colony01_06 (Timber Yard)</Name>
+    </Standard>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FreeAreaBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Amount>500</Amount>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FreeAreaBuilding</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>2</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FreeAreaBuilding</TemplateName>
+                <Index>2</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>3</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FreeAreaBuilding</TemplateName>
+                <Index>3</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>4</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FreeAreaBuilding</TemplateName>
+                <Index>4</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>5</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FreeAreaBuilding</TemplateName>
+                <Index>5</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_colony01_06/agriculture_colony01_06.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <ParticipantMessageArcheType>SA_Resident_tier01_atWork</ParticipantMessageArcheType>
+    </Selection>
+    <Text>
+      <LineID>8483</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>200795</Sound>
+        </Item>
+        <Item>
+          <Sound>200555</Sound>
+        </Item>
+      </ActiveSounds>
+      <ConstructionSounds>
+        <BuildSuccessful>
+          <Item>
+            <VectorElement>
+              <InheritedIndex>0</InheritedIndex>
+              <InheritanceMapV2>
+                <Entry>
+                  <TemplateName>FreeAreaBuilding</TemplateName>
+                  <Index>0</Index>
+                </Entry>
+              </InheritanceMapV2>
+            </VectorElement>
+            <Sound>214783</Sound>
+          </Item>
+        </BuildSuccessful>
+      </ConstructionSounds>
+      <RFX>
+        <Item>
+          <RFX>240069</RFX>
+        </Item>
+        <Item>
+          <RFX>240070</RFX>
+        </Item>
+      </RFX>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <Factory7 />
+    <FactoryBase />
+    <LogisticNode />
+    <AmbientMoodProvider>
+      <AmbientMood>AgricultureBuildingsSouthAmerica</AmbientMood>
+    </AmbientMoodProvider>
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FreeAreaBuilding</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+        </Item>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>1</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>FreeAreaBuilding</TemplateName>
+                <Index>1</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Product>1010366</Product>
+          <Amount>10</Amount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable />
+    <FreeAreaProductivity>
+      <WorkerUnit>102434</WorkerUnit>
+    </FreeAreaProductivity>
+    <Pausable />
+    <IncidentInfectable />
+    <Culture />
+  </Values>
+</Asset>

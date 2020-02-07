@@ -1,0 +1,36 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>111080</GUID>
+      <Name>DM01 - Anarchy is dead</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DM</AchievementCategory>
+      <AchievementTitle>111809</AchievementTitle>
+      <AchievementDescription>111814</AchievementDescription>
+      <AchievementUPlayID>91</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>ParticipantDefeated</PlayerCounter>
+            <Context>220</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>17</UplayActionID>
+      <UplayXP>500</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

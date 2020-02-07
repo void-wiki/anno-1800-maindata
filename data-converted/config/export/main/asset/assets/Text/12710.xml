@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12710</GUID>
+      <Name>CQ002_Ticket2Ride_ObjectiveText_DeliverFish</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bring [Conditions QuestCondition Amount(ObjectiveIndex)] [AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text] to [AssetData([Conditions QuestCondition ExecutionObject]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9938</LineID>
+    </Text>
+  </Values>
+</Asset>

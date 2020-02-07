@@ -1,0 +1,106 @@
+<Asset>
+  <Template>A7_QuestDivingBellTreasureMap</Template>
+  <Values>
+    <Standard>
+      <GUID>113212</GUID>
+      <Name>Mythological Animal Hideout Map (Old World)</Name>
+    </Standard>
+    <Quest>
+      <StoryText>113243</StoryText>
+      <QuestTimeLimit>3600000</QuestTimeLimit>
+      <QuestCategory>RandomQuest</QuestCategory>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Jörmungandr's Lair</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32741</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>DivingBellObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>113270</TextCombinedContextValue>
+                <ObjectiveSignsAndFeedback>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ConditionObjectiveSignsAndFeedback>
+                      <Infolayer>0</Infolayer>
+                      <MinimapToken>0</MinimapToken>
+                      <ShowMinimapToken>0</ShowMinimapToken>
+                    </ConditionObjectiveSignsAndFeedback>
+                  </Values>
+                </ObjectiveSignsAndFeedback>
+              </ConditionQuestObjective>
+              <ConditionQuestDivingBell>
+                <TreasureItem>113103</TreasureItem>
+                <AddScrapToTreasure>1</AddScrapToTreasure>
+                <AdditionalScrapItem>112857</AdditionalScrapItem>
+                <ScrapDummyItem>112857</ScrapDummyItem>
+                <SpawnedTreasureGround>112527</SpawnedTreasureGround>
+                <AdditionalObjectData>
+                  <AdditionalObjectList>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <ConditionScanner>
+                        <ScannerPoolAdvanced>
+                          <Item>
+                            <Scanner>
+                              <Template>QuestObjectList</Template>
+                              <Values>
+                                <ObjectList>
+                                  <Object>102375</Object>
+                                  <MinAmount>2</MinAmount>
+                                  <MaxAmount>5</MaxAmount>
+                                  <DoSetOwner>1</DoSetOwner>
+                                  <Owner>General_Enemy</Owner>
+                                </ObjectList>
+                              </Values>
+                            </Scanner>
+                          </Item>
+                        </ScannerPoolAdvanced>
+                      </ConditionScanner>
+                    </Values>
+                  </AdditionalObjectList>
+                  <DistanceToTreasure>30</DistanceToTreasure>
+                </AdditionalObjectData>
+                <ShowTreasureMapButton>1</ShowTreasureMapButton>
+              </ConditionQuestDivingBell>
+              <SpawnArea>
+                <SpawnContext>Area</SpawnContext>
+                <SpawnAreaType>Underwater_01</SpawnAreaType>
+                <SpreadObjects>1</SpreadObjects>
+              </SpawnArea>
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectAnywhere</Template>
+                  <Values>
+                    <ConditionObjectAnywhere />
+                  </Values>
+                </ExecutionPlace>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+  </Values>
+</Asset>

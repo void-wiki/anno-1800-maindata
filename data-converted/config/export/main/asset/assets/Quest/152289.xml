@@ -1,0 +1,125 @@
+<Asset>
+  <Template>Quest</Template>
+  <Values>
+    <Standard>
+      <GUID>152289</GUID>
+      <Name>RQ_Worker_DrillGift</Name>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <FailureMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </FailureMessage>
+      <QuestGiver>30</QuestGiver>
+      <CountForQuestLimit>0</CountForQuestLimit>
+      <QuestCategory>TutorialQuest</QuestCategory>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <KeepCheckingPreconditionsWhenRunning>1</KeepCheckingPreconditionsWhenRunning>
+      <RespectRelatedQuestSession>1</RespectRelatedQuestSession>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysFalse</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysFalse />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionQuestState</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionQuestState>
+                      <ConditionQuestStateStates>Triggered</ConditionQuestStateStates>
+                      <ConditionQuestStateQuestGUID>152288</ConditionQuestStateQuestGUID>
+                    </ConditionQuestState>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionObjectSelected</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionObjectSelected />
+                    <ConditionPropsSessionSettings />
+                    <ObjectFilter>
+                      <ObjectGUID>102442</ObjectGUID>
+                    </ObjectFilter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Renovation Works</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26017</LineID>
+    </Text>
+    <Reward />
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>TutorialObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+              </ConditionQuestObjective>
+              <ConditionQuestTutorial>
+                <InteractionFlow>
+                  <Item>
+                    <TutorialInteraction>
+                      <Template>ConditionTutorialInteraction</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionTutorialInteraction>
+                          <HintType>Object</HintType>
+                          <TutorialConditionType>HintClosed</TutorialConditionType>
+                          <HintAnchor>BottomRight</HintAnchor>
+                          <HintText>17284</HintText>
+                          <TutorialUiCategory>SessionScene</TutorialUiCategory>
+                          <RefGuid>4</RefGuid>
+                          <ContextObject>102442</ContextObject>
+                        </ConditionTutorialInteraction>
+                      </Values>
+                    </TutorialInteraction>
+                  </Item>
+                </InteractionFlow>
+              </ConditionQuestTutorial>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional />
+  </Values>
+</Asset>

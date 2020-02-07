@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200078</GUID>
+      <Name>wwe_voc_mur_harbor</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMaximum>18534</DurationMaximum>
+        </English>
+        <German>
+          <DurationMaximum>18426</DurationMaximum>
+        </German>
+        <French>
+          <DurationMaximum>21655</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMaximum>21542</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>35</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3576787017</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,88 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>192441</GUID>
+      <Name>Dennis Brammen</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/influencer/icon_influencer_br4mm3n.png</IconFilename>
+      <InfoDescription>21344</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dennis Brammen the Food Critic </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29136</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <ItemType>Specialist</ItemType>
+      <TradePrice>314000</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>192445</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <InputBenefitModifier>
+        <Item>
+          <Product>1010349</Product>
+          <AdditionalHappiness>5</AdditionalHappiness>
+          <AdditionalMoney>5</AdditionalMoney>
+        </Item>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>30</Amount>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>21344</FluffText>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <NeedProvideNeedUpgrade>
+        <Item>
+          <ProvidedNeed>1010213</ProvidedNeed>
+          <SubstituteNeed>1010349</SubstituteNeed>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010238</ProvidedNeed>
+          <SubstituteNeed>1010349</SubstituteNeed>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010200</ProvidedNeed>
+          <SubstituteNeed>1010349</SubstituteNeed>
+        </Item>
+      </NeedProvideNeedUpgrade>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

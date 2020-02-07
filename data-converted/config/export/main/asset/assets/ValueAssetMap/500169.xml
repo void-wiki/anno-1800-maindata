@@ -1,0 +1,40 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>500169</GUID>
+      <Name>Working Conditions Satisfaction Header Mapping</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-0.3</ValidFrom>
+          <Asset>2643</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-0.2</ValidFrom>
+          <Asset>2642</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-0.1</ValidFrom>
+          <Asset>2650</Asset>
+        </Item>
+        <Item>
+          <Asset>2641</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.005</ValidFrom>
+          <Asset>2649</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.1</ValidFrom>
+          <Asset>2640</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.2</ValidFrom>
+          <Asset>2639</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

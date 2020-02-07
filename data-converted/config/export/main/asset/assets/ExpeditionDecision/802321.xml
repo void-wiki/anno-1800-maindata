@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802321</GUID>
+      <Name>Teeth of the Mountain 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802322</Option>
+        </Item>
+        <Item>
+          <Option>802344</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A track leading over these impenetrable mountains should be a blessing,&lt;/b&gt; yet your men are having doubts. Your guide for a start, absolutely refuses to go up that way. In fact, the idea scares him. At the base of the mountain, which juts ferrous and fibrous above the green like a chunk of braised meat, is a stone head carved in the rock. It grins awfully, and between its huge square teeth is what appears to be a severed arm.</Text>
+          <Status>Exported</Status>
+          <ExportCount>16</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20951</LineID>
+    </Text>
+  </Values>
+</Asset>

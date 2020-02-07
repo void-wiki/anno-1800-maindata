@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801041</GUID>
+      <Name>Dockyard Dupe 1.2.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The authorities stand with their own.&lt;/b&gt; Following a ceasefire, you put your case as best you can, but it's not enough. Furthermore, you must answer for the damage you've caused. Unfortunately, this will mean leaving some of your best sailors behind to help with repairs. </Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13120</LineID>
+    </Text>
+  </Values>
+</Asset>

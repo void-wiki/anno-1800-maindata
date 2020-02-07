@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ProductionChain</Template>
+  <Values>
+    <Standard>
+      <GUID>500914</GUID>
+      <Name>colony01 cigars chain</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cigars.png</IconFilename>
+    </Standard>
+    <ProductionChain>
+      <Building>1010342</Building>
+      <Tier1>
+        <Item>
+          <Building>1010330</Building>
+        </Item>
+        <Item>
+          <Building>101296</Building>
+          <Tier2>
+            <Item>
+              <Building>101260</Building>
+            </Item>
+          </Tier2>
+        </Item>
+      </Tier1>
+    </ProductionChain>
+    <Locked />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cigars</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21471</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,13 @@
+<Template>
+  <Name>QuestTradingStation</Name>
+  <Properties>
+    <TradingStation>
+      <TradingStationSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </TradingStationSignsAndFeedback>
+    </TradingStation>
+  </Properties>
+</Template>

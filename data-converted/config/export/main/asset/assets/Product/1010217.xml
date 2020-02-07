@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>1010217</GUID>
+      <Name>canned food</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_canned_goulash.png</IconFilename>
+      <InfoDescription>11753</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Canned Food</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5356</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11704</ProductCategory>
+      <BasePrice>563</BasePrice>
+      <CivLevel>3</CivLevel>
+      <AssociatedRegion>Moderate</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>40</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

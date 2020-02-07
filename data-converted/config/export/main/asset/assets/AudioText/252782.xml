@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You become an unacceptable nuisance. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9494</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221549</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252782</GUID>
+      <Name>AT_ai09_NpcDeclaresWarOnPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

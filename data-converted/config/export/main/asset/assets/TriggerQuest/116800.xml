@@ -1,0 +1,52 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>116800</GUID>
+      <Name>Trigger Notification Wrong site 2</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionObjectSelected</Template>
+        <Values>
+          <Condition />
+          <ConditionObjectSelected />
+          <ConditionPropsSessionSettings />
+          <ObjectFilter>
+            <ObjectGUID>116791</ObjectGUID>
+            <ObjectSession>180045</ObjectSession>
+          </ObjectFilter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>230</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>115133</NotificationText>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>115777</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+    </TriggerSetup>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803682</GUID>
+      <Name>In Dangerous territory 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803683</Option>
+        </Item>
+        <Item>
+          <Option>803694</Option>
+        </Item>
+        <Item>
+          <Option>803708</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An ambush of missiles!&lt;/b&gt; This unmapped region of the great forest is home to an indigenous people, whose policy is to pre-empt the hostility of trespassers into their territory. Suddenly a man grips his shoulder, where a feathered dart now hangs. It could have come from anywhere. Do you &lt;b&gt;hide&lt;/b&gt;, &lt;b&gt;fight&lt;/b&gt; or if all else fails, &lt;b&gt;flee?&lt;/b&gt;</Text>
+          <Status>GameWriting</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32992</LineID>
+    </Text>
+  </Values>
+</Asset>

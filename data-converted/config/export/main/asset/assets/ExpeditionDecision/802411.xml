@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802411</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190545</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The treasure of Hassan Ben Sahid!&lt;/b&gt; "The map smells sickly sweet with something," says one keen-nosed officer, "dates perhaps!" After hunting around the officers come across a lush grove of date palm. "For our thirst is quenched!" they cry, for there in its centre, is a working noria that might have been running for centuries. One of them is lowered down to the bottom of the well, where they find the most extraordinary golden hoard! You go to thank the old blind man, but he has vanished...</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20862</LineID>
+    </Text>
+  </Values>
+</Asset>

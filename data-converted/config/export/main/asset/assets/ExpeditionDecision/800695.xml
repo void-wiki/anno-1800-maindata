@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800695</GUID>
+      <Name>The Seven-Year Itch 1.3.2.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's a long time before the authorities deal with you,&lt;/b&gt; with beaurocracy seemingly a way of life here. When you finally have access to a medical professional, there is already a post-mortem to be conducted. It appears chemicals leeched into the water supply and caused the rashes and sickness. With the water changed, the others recover, but it cannot redeem the loss of a life.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5780</LineID>
+    </Text>
+  </Values>
+</Asset>

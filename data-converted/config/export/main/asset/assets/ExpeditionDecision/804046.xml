@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804046</GUID>
+      <Name>Cracking Ice 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804047</Option>
+        </Item>
+        <Item>
+          <Option>804050</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Knowledge is shaky.&lt;/b&gt; One of your groups avoids the gaping holes, but fails to notice darker patches of thin ice. Cracking can be heard, but none of the group dare move. They hit the water with a woosh as the brûlée snaps. It is freezing, and they are struggling to climb out alone. &lt;b&gt;If not rescued quickly they'll die of hypothermia.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>36135</LineID>
+    </Text>
+  </Values>
+</Asset>

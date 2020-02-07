@@ -1,0 +1,17 @@
+<Asset>
+  <Template>PlayerLogo</Template>
+  <Values>
+    <Standard>
+      <GUID>501724</GUID>
+      <Name>player_logo_se_03.png</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_se_03.png</IconFilename>
+    </Standard>
+    <PlayerLogo>
+      <DefaultLogo>data/ui/2kimages/main/profiles/playerlogos/large/player_logo_se_03.png</DefaultLogo>
+      <MiniLogo>data/ui/2kimages/main/profiles/playerlogos/small/player_logo_se_03.png</MiniLogo>
+    </PlayerLogo>
+    <Locked>
+      <DLCDependency>410003</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

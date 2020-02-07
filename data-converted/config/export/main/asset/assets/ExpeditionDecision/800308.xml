@@ -1,0 +1,42 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800308</GUID>
+      <Name>The Predator 1.4.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800281</Option>
+        </Item>
+        <Item>
+          <Option>800282</Option>
+        </Item>
+        <Item>
+          <Option>800283</Option>
+        </Item>
+        <Item>
+          <Option>800285</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The beast is too intelligent&lt;/b&gt; to fall for makeshift traps. It is clearly evading the pitfall prepared by those supposed to be the expedition's deftest craftsmen. "Little more we can do," they shrug.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5689</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,11 @@
+<Template>
+  <Name>ConditionMoveVehicle</Name>
+  <IsExpertTemplate>1</IsExpertTemplate>
+  <Properties>
+    <Condition />
+    <ConditionMoveVehicle>
+      <MoveVehicleTargetDistance>20</MoveVehicleTargetDistance>
+    </ConditionMoveVehicle>
+    <ConditionPropsSessionSettings />
+  </Properties>
+</Template>

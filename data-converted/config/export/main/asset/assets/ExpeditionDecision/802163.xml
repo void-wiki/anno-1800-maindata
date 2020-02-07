@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802163</GUID>
+      <Name>Selfless Deeds 1.2.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802170</Option>
+        </Item>
+        <Item>
+          <Option>802158</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailors are not attuned to the notion of stealth.&lt;/b&gt; They argue about the best place to hide and end up lining behind what could be the thinnest trees of the forest, their racket and bulging shapes attracting the undivided attention of the kidnapers. Their leader, more beast than man, advances to inspect the intruders and laughs at the puny men.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21026</LineID>
+    </Text>
+  </Values>
+</Asset>

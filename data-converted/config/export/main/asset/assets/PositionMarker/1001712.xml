@@ -1,0 +1,21 @@
+<Asset>
+  <Template>PositionMarker</Template>
+  <Values>
+    <Mesh />
+    <Standard>
+      <GUID>1001712</GUID>
+      <Name>Player Vehicle Startposition Marker</Name>
+      <ID>PlayerVehicleStartpositionMarker</ID>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/fleet_marker.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <PositionMarker />
+    <Text />
+  </Values>
+</Asset>

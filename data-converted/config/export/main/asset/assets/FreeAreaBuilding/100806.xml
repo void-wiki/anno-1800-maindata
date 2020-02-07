@@ -1,0 +1,126 @@
+<Asset>
+  <Template>FreeAreaBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>100806</GUID>
+      <Name>CQO_UnclesIsland_WoodFarm</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_wood_log.png</IconFilename>
+    </Standard>
+    <Building />
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+      <RemovePropsRadius>1</RemovePropsRadius>
+    </Blocking>
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>100</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/agriculture_05/agriculture_05.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Edvard's Timber Yard</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4074</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>206315</Sound>
+        </Item>
+      </ActiveSounds>
+      <ConstructionSounds>
+        <BuildSuccessful>
+          <Item>
+            <Sound>202404</Sound>
+          </Item>
+        </BuildSuccessful>
+        <BuildMoveSuccess>
+          <Item>
+            <Sound>202404</Sound>
+          </Item>
+        </BuildMoveSuccess>
+      </ConstructionSounds>
+      <RFX>
+        <Item />
+        <Item />
+      </RFX>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <Factory7 />
+    <FactoryBase>
+      <FactoryOutputs>
+        <Item>
+          <Product>120008</Product>
+          <Amount>1</Amount>
+          <StorageAmount>3</StorageAmount>
+        </Item>
+      </FactoryOutputs>
+    </FactoryBase>
+    <LogisticNode />
+    <AmbientMoodProvider>
+      <AmbientMood>AgricultureBuildingsEurope</AmbientMood>
+      <Murmur>Farm</Murmur>
+      <DynamicEnvironmentType>None</DynamicEnvironmentType>
+    </AmbientMoodProvider>
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010017</Product>
+          <Amount>15</Amount>
+          <InactiveAmount>12</InactiveAmount>
+        </Item>
+        <Item>
+          <Product>1010052</Product>
+          <Amount>10</Amount>
+          <ShutdownThreshold>0.2</ShutdownThreshold>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>500</MaximumHitPoints>
+    </Attackable>
+    <FreeAreaProductivity>
+      <WorkerUnit>1000127</WorkerUnit>
+      <MaxWorkerAmount>3</MaxWorkerAmount>
+      <WorkerPause>10000</WorkerPause>
+    </FreeAreaProductivity>
+    <Pausable />
+    <IncidentInfectable />
+    <Culture />
+  </Values>
+</Asset>

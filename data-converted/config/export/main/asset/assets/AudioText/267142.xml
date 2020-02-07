@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Liar! You are the picture of regret!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17317</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232727</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267142</GUID>
+      <Name>AT_Advisor02_movie09_01</Name>
+    </Standard>
+  </Values>
+</Asset>

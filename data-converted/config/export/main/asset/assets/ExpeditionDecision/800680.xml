@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800680</GUID>
+      <Name>The Seven-Year Itch 1.2.2.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>"&lt;b&gt;What dreary decor!"&lt;/b&gt; says the Lieutenant tartly. Matters deteriorate when some ill-fashioned bunks collapse. "I'd rather have the itching back," says an exhausted-looking sailor. Like others, he has to sleep out on the hard decking, until some competent craftsmen can come aboard.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5762</LineID>
+    </Text>
+  </Values>
+</Asset>

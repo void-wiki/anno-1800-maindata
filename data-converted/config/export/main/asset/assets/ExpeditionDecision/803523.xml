@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803523</GUID>
+      <Name>The Flowers eaters 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>111110</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The doctor chuckles.&lt;/b&gt; "Here," he says, dosing each stricken soul from his medicine bag, "that should ease things." Soon everyone is sound asleep, and they waken the following day feeling refreshed. Unaware you have cheated, the Flower-eaters are impressed! No-one normally handles their first encounter with the flower so well. &lt;b&gt;Taking it as a sign, they offer you something equally precious.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33147</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,41 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700081</GUID>
+      <Name>Battlecruiser_SelectPool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268423</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268424</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268425</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268426</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268427</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268428</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

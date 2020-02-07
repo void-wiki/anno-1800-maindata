@@ -1,0 +1,72 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>192449</GUID>
+      <Name>Lady Lu</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/influencer/icon_influencer_lady_lu.png</IconFilename>
+      <InfoDescription>21352</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Lady Lu the Redeemed Pirate</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29143</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <TradePrice>365700</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ActionDistance>15</ActionDistance>
+      <ActionIncidentType>Fire;Riot;Illness;Explosion</ActionIncidentType>
+    </ItemAction>
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkMale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>45</Amount>
+        </Item>
+        <Item>
+          <Attribute>PerkFormerPirate</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+      <FluffText>21352</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade>
+        <Value>800</Value>
+      </MaxHitpointsUpgrade>
+      <SelfHealUpgrade>
+        <Value>200</Value>
+        <Percental>1</Percental>
+      </SelfHealUpgrade>
+      <SelfHealPausedTimeIfAttackedUpgrade>
+        <Value>-100</Value>
+        <Percental>1</Percental>
+      </SelfHealPausedTimeIfAttackedUpgrade>
+    </AttackableUpgrade>
+    <TradeShipUpgrade />
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

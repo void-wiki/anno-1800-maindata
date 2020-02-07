@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Too slow! Galaxies have shifted!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30484</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204375</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109839</GUID>
+      <Name>AT_ai10_NpcDeclinesPlayerProposalTooOften1</Name>
+    </Standard>
+  </Values>
+</Asset>

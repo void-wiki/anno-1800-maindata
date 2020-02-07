@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I did not know the queen was part of this. I thought we cut that witch out?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17037</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233129</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_27</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266451</GUID>
+      <Name>AT_ai07_Credits07</Name>
+    </Standard>
+  </Values>
+</Asset>

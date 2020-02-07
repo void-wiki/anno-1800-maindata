@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>112338</GUID>
+      <Name>MQ_Village_Objective</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Reach City Status: &lt;b&gt;Village&lt;/b&gt;&lt;br/&gt;[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] [AssetData([Conditions QuestCondition Context]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32087</LineID>
+    </Text>
+  </Values>
+</Asset>

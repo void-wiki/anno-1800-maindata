@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>An event is underway at another player's monument.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15946</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234067</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265360</GUID>
+      <Name>AT_Narrator_Monument_Information_MonumentEventStartedOtherParticipant</Name>
+    </Standard>
+  </Values>
+</Asset>

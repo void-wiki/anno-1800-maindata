@@ -1,0 +1,47 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700003</GUID>
+      <Name>AP - All Buildings (NOT COMPLETE)</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010262</Asset>
+        </Item>
+        <Item>
+          <Asset>1010263</Asset>
+        </Item>
+        <Item>
+          <Asset>1010264</Asset>
+        </Item>
+        <Item>
+          <Asset>1010265</Asset>
+        </Item>
+        <Item>
+          <Asset>1010266</Asset>
+        </Item>
+        <Item>
+          <Asset>1010267</Asset>
+        </Item>
+        <Item>
+          <Asset>1010269</Asset>
+        </Item>
+        <Item>
+          <Asset>1010558</Asset>
+        </Item>
+        <Item>
+          <Asset>1010270</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Knietzschis Pool: All Buildings</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

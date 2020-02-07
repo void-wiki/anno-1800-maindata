@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Their fleet is formidable. I count many ships.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17312</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232736</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>16</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266948</GUID>
+      <Name>AT_Advisor02_Movie07_03</Name>
+    </Standard>
+  </Values>
+</Asset>

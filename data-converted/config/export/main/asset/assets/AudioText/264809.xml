@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The vessels you seek are near yet far. Best prepare for terror. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13493</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231249</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>264809</GUID>
+      <Name>AT_Inuit_Phase3_FindtheExpeditionShips_Starter</Name>
+    </Standard>
+  </Values>
+</Asset>

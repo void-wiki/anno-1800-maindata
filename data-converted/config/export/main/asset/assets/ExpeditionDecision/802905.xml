@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802905</GUID>
+      <Name>The Frozen Chasm 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802907</Option>
+        </Item>
+        <Item>
+          <Option>802908</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The snow anchor is a reliable solution.&lt;/b&gt; Your explorers rope themselves together, passing a safety line of sturdy hemp around their waists, through the mound of packed snow, and into the hands of selected athletes. They control the rope as the rescue team expertly climbs down. The fallen sailors are in poor condition, and the feeble light and jagged walls do not hint at an easy rescue.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22106</LineID>
+    </Text>
+  </Values>
+</Asset>

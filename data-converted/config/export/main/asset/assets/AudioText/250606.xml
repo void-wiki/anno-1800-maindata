@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anne Harlow's fall from grace was stormy and unpleasant, a bit like my bowels.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1218</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212175</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250606</GUID>
+      <Name>AT_3rdParty02_IdleMessageGossip_Harlow</Name>
+    </Standard>
+  </Values>
+</Asset>

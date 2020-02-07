@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802371</GUID>
+      <Name>The Mayan Map 1.2.1.2.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Few have any experience of caving.&lt;/b&gt; The route they take is clammy and claustrophobic, and seems to be leading nowhere, when there is a sudden and awful screeching of bats! A man loses his footing and falls through a gap— he has broken a leg. His rescue is especially tiresome. It takes several hours in the confined space, which he fills with his moans whenever anyone so much as touches the injured leg. &lt;b&gt;You are forced to abandon your search for El Doodah.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20991</LineID>
+    </Text>
+  </Values>
+</Asset>

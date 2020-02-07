@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>216015</GUID>
+      <Name>wwe_sfx_veh_liner_ship_lp_play</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>70</MaxAttenuation>
+      <StopEvent>216016</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>298636282</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

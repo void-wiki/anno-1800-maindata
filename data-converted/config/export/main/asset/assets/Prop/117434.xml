@@ -1,0 +1,39 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>117434</GUID>
+      <Name>christmas_decoration</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/christmas/christmas_decoration_01_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/christmas/christmas_decoration_01_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/christmas/christmas_decoration_02_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/christmas/christmas_decoration_fence_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/christmas/christmas_decoration_gifts_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/christmas/christmas_decoration_gifts_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/christmas/christmas_decoration_mcsign_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/christmas/christmas_decoration_snowman_02.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

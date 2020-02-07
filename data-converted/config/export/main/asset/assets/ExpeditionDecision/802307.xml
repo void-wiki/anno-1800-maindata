@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802307</GUID>
+      <Name>Release the Kraken 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802308</Option>
+        </Item>
+        <Item>
+          <Option>802311</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Sloppy shooting from your pod of suckers.&lt;/b&gt; The twisting aberration slinks and jets obliquely, its mantle engorged and thrumming with arcane energy. Its lip-like suckers pucker and latch to the hull, levering its beaked face up above the starboard rail in peek-a-boo. It is vast!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20939</LineID>
+    </Text>
+  </Values>
+</Asset>

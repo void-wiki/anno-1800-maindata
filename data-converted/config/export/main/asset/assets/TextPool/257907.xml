@@ -1,0 +1,47 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>257907</GUID>
+      <Name>Pool_ai05_WelcomeToPlayerWar</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258277</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258278</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258280</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258281</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258282</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254903</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254904</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254906</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

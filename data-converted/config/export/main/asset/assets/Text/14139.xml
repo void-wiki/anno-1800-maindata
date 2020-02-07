@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14139</GUID>
+      <Name>TQ_FirstSettlement_Objective01</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Build [AssetData([Conditions QuestCondition Context]) Text]  [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22332</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802923</GUID>
+      <Name>The Frozen Chasm 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802938</Option>
+        </Item>
+        <Item>
+          <Option>802939</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The glacier forbids your sailors from finding their way through it.&lt;/b&gt; The twisting paths of the frozen structure are too much for the crew, who already encountered trouble following the main marked glacier route. They are forced to abandon their quest and must go back to the broken mantle and its crevasse. The cold steadily bites and weakens them, and they soon take the same purple tint as the men they are trying to save.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22132</LineID>
+    </Text>
+  </Values>
+</Asset>

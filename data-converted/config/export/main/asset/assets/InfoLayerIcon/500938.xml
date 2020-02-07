@@ -1,0 +1,24 @@
+<Asset>
+  <Template>InfoLayerIcon</Template>
+  <Values>
+    <Standard>
+      <GUID>500938</GUID>
+      <Name>CQO_Brickpile</Name>
+    </Standard>
+    <InfoLayerIcon>
+      <Config>data/graphics/ui/infolayer3d/infolayer_a7_marker_quest_minor_01.cfg</Config>
+      <PopupDelay>0</PopupDelay>
+      <InfoLayerInfotip>501520</InfoLayerInfotip>
+    </InfoLayerIcon>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pickup Bricks</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19978</LineID>
+    </Text>
+  </Values>
+</Asset>

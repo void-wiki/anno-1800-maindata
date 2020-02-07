@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Time to teach yer a lesson.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7580</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217287</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255839</GUID>
+      <Name>AT_ai05_NpcAttacksPlayer1</Name>
+    </Standard>
+  </Values>
+</Asset>

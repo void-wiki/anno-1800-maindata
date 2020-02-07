@@ -1,0 +1,15 @@
+<Asset>
+  <Template>AudioSpots</Template>
+  <Values>
+    <Standard>
+      <GUID>102896</GUID>
+      <Name>murmur_3rd_party_edvard</Name>
+    </Standard>
+    <Mesh />
+    <SoundEmitter />
+    <Object />
+    <AmbientMoodProvider>
+      <Murmur>ThirdPartyEdvard</Murmur>
+    </AmbientMoodProvider>
+  </Values>
+</Asset>

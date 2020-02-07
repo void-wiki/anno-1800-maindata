@@ -1,0 +1,31 @@
+<Asset>
+  <BaseAssetGUID>1000178</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>101308</GUID>
+      <Name>earth_street_colony01</Name>
+      <ID>Colony01Street</ID>
+    </Standard>
+    <Cost />
+    <Street>
+      <InternalID>25</InternalID>
+    </Street>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+    </SoundEmitter>
+    <Text>
+      <LineID>11041</LineID>
+    </Text>
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+  </Values>
+</Asset>

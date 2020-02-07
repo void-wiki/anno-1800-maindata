@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802720</GUID>
+      <Name>Bottles Found in the Sea 1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190423</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your ship avoids the deadly reefs and finds the castaways!&lt;/b&gt; The vessel groans as it swims through the limpid waters, the deepest corals reflecting its shadow as it avoids them. It takes a short while to find the castaways, entrenched among the dunes of a secluded beach and sprouting from it with squeals of joy and disbelief. Their captain offers his unalienable loyalty and your crew gladly welcomes the newcomers.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21697</LineID>
+    </Text>
+  </Values>
+</Asset>

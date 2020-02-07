@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802095</GUID>
+      <Name>Sea Still 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802096</Option>
+        </Item>
+        <Item>
+          <Option>802097</Option>
+        </Item>
+        <Item>
+          <Option>802098</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A ship in need of rescue!&lt;/b&gt; The vast floating tapestries of algae in these windless waters have long been thought impassable. Just when you thought your own vessel had managed to avoid the yellow-orange plants, you see another ship stuck fast! They must also have seen you, because their alarm begins to sound. Having no proper rescue equipment your own ship risks becoming entangled. Should you try to help?</Text>
+          <Status>Exported</Status>
+          <ExportCount>8</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21482</LineID>
+    </Text>
+  </Values>
+</Asset>

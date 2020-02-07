@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20100</GUID>
+      <Name>Notification NonAggressionPactEndedOtherParticipant</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The non-aggression pact between [Participants ParticipantName([NotificationContext Value(InitiatorParticipant) Int])] and [Participants ParticipantName([NotificationContext Value(TargetParticipant) Int])] has ended.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>28028</LineID>
+    </Text>
+  </Values>
+</Asset>

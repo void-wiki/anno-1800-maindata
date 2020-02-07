@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800510</GUID>
+      <Name>The Singular Case of the Midshipman 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800512</Option>
+        </Item>
+        <Item>
+          <Option>800513</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Careful analysis of the scene&lt;/b&gt; reveals two leads. Some believe an autopsy would leave the facts of the case plain, while others reckon the little time available should be spent analysing any evidence at the scene that might establish whodunnit.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5884</LineID>
+    </Text>
+  </Values>
+</Asset>

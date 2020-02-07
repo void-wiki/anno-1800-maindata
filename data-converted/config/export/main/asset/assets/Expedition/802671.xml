@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>802671</GUID>
+      <Name>Test Expedition - The Runaway</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_threat_tribe.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11633</ExpeditionName>
+      <ExpeditionDescription>3597</ExpeditionDescription>
+      <ExpeditionRegion>NorthernNorthAmerica</ExpeditionRegion>
+      <EventList>
+        <Item>
+          <EventOrEventPool>802672</EventOrEventPool>
+        </Item>
+      </EventList>
+      <FillThreats>1</FillThreats>
+      <MinPauseBetweenEvents>30000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>30000</MaxPauseBetweenEvents>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

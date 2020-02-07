@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204731</GUID>
+      <Name>Play_AI_ARTUR_BASIC_CHOOS_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4127</DurationMinimum>
+          <DurationMaximum>7475</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>4005</DurationMinimum>
+          <DurationMaximum>7252</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>5419</DurationMinimum>
+          <DurationMaximum>12827</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4093</DurationMinimum>
+          <DurationMaximum>7804</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>171815042</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

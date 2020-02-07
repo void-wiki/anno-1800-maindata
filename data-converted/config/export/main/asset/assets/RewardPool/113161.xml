@@ -1,0 +1,50 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>113161</GUID>
+      <Name>AnimalsOldWorld_Rare_Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190466</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190453</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190458</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190449</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191087</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191099</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>191095</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>191096</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>112811</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+        <Item>
+          <ItemLink>113469</ItemLink>
+          <Weight>0</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

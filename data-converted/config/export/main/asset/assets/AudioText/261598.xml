@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>To arms you fools!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12341</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230468</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261598</GUID>
+      <Name>AT_MurmurMale2_War_Action1</Name>
+    </Standard>
+  </Values>
+</Asset>

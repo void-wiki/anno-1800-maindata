@@ -1,0 +1,23 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193648</GUID>
+      <Name>Old Nate Rare Maps</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193455</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193460</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193465</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

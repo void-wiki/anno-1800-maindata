@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802221</GUID>
+      <Name>The Amazons 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802222</Option>
+        </Item>
+        <Item>
+          <Option>802223</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Not all in your party show respect.&lt;/b&gt; Some are snickering about something, and the warrior women presume it concerns them. They spit at the men, who reach hot-bloodedly for their weapons.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20927</LineID>
+    </Text>
+  </Values>
+</Asset>

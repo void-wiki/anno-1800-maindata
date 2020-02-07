@@ -1,0 +1,93 @@
+<Asset>
+  <Template>GuildhouseItem</Template>
+  <Values>
+    <Standard>
+      <GUID>116190</GUID>
+      <Name>Electric Potato Harvester 2205</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_electric_potato_harvester.png</IconFilename>
+      <InfoDescription>116222</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Golden Potato Harvester From The Future</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35993</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>723400</TradePrice>
+    </Item>
+    <FactoryUpgrade>
+      <ProductivityUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </ProductivityUpgrade>
+      <AdditionalOutput>
+        <Item>
+          <Product>1010233</Product>
+          <AdditionalOutputCycle>25</AdditionalOutputCycle>
+          <Amount>1</Amount>
+        </Item>
+      </AdditionalOutput>
+    </FactoryUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190865</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Crafting</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>116222</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <ModuleOwnerUpgrade />
+    <IncidentInfluencerUpgrade />
+    <IncidentInfectableUpgrade />
+    <ResidenceUpgrade />
+    <PopulationUpgrade />
+    <ElectricUpgrade />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+    <Buff />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>115980</Product>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Product>1010249</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>112698</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>112703</Product>
+          <Amount>5</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <HeaterUpgrade />
+  </Values>
+</Asset>

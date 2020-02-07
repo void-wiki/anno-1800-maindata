@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Feel the soil between your fingers! The earth is a common treasury!</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30622</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204464</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109985</GUID>
+      <Name>AT_ai10_PlyrAcquiresislandFromNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

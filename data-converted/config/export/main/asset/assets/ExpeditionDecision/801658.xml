@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801658</GUID>
+      <Name>Scylla and Charybdis 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's only so many disasters faith can prevent.&lt;/b&gt; When they understand that the whirlpool is a monster none should face, sailors fall to their knees to pray and beg, abandoning what meaningless impact they could have had on the ship's trajectory. Like Circe prophesied to Odysseus, the currents attack the ship, the men, and a hero.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17990</LineID>
+    </Text>
+  </Values>
+</Asset>

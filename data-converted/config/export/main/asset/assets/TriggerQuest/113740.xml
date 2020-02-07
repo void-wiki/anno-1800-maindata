@@ -1,0 +1,104 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>113740</GUID>
+      <Name>After Cracking the Code Trigger Vasco Diversion Move</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>113418</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>8000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionMoveObject</Template>
+                            <Values>
+                              <Action />
+                              <ObjectFilter>
+                                <ObjectGUID>100438</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Third_party_09_Vasco_Silva</ObjectParticipantID>
+                              </ObjectFilter>
+                              <ObjectTargetFilter>
+                                <TargetLabel>SL111_CrackingTheCode_Marker1</TargetLabel>
+                                <TargetGUID>113716</TargetGUID>
+                              </ObjectTargetFilter>
+                              <ActionMoveObject>
+                                <IgnoreEveryDistractionDuringMove>1</IgnoreEveryDistractionDuringMove>
+                              </ActionMoveObject>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionMoveObject</Template>
+                            <Values>
+                              <Action />
+                              <ObjectFilter>
+                                <ObjectGUID>100439</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Third_party_09_Vasco_Silva</ObjectParticipantID>
+                              </ObjectFilter>
+                              <ObjectTargetFilter>
+                                <TargetLabel>SL111_CrackingTheCode_Marker2</TargetLabel>
+                                <TargetGUID>113719</TargetGUID>
+                              </ObjectTargetFilter>
+                              <ActionMoveObject>
+                                <IgnoreEveryDistractionDuringMove>1</IgnoreEveryDistractionDuringMove>
+                              </ActionMoveObject>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionMoveObject</Template>
+                            <Values>
+                              <Action />
+                              <ObjectFilter>
+                                <ObjectGUID>100437</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Third_party_09_Vasco_Silva</ObjectParticipantID>
+                              </ObjectFilter>
+                              <ObjectTargetFilter>
+                                <TargetLabel>SL111_CrackingTheCode_Marker3</TargetLabel>
+                                <TargetGUID>113720</TargetGUID>
+                              </ObjectTargetFilter>
+                              <ActionMoveObject>
+                                <IgnoreEveryDistractionDuringMove>1</IgnoreEveryDistractionDuringMove>
+                              </ActionMoveObject>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>George Smith's hard life, blah-blah-blah. Haven't I had to struggle!? A name in tatters, and yet now, across everybody's lips!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1605</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211599</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250311</GUID>
+      <Name>AT_ai07_IdleMessageGossip_Smith</Name>
+    </Standard>
+  </Values>
+</Asset>

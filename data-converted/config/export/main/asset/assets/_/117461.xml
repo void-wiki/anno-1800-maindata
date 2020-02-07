@@ -1,0 +1,91 @@
+<Asset>
+  <BaseAssetGUID>100438</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>117461</GUID>
+      <Name>Whales</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_sperm_whale.png</IconFilename>
+      <InfoDescription>0</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>TradeShip</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/dlc03/graphics/quest/quest_unit_groups/whale_blue_quest.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <Selectable>0</Selectable>
+      <MultiSelectable>0</MultiSelectable>
+    </Selection>
+    <Walking>
+      <TurnAroundRadius>0</TurnAroundRadius>
+      <TurnRadius>0.0125</TurnRadius>
+      <ForwardSpeed>0.7</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sperm Whale</Text>
+        </English>
+      </LocaText>
+      <LineID>35871</LineID>
+    </Text>
+    <CommandQueue>
+      <IsPlayerControllableVehicle>0</IsPlayerControllableVehicle>
+    </CommandQueue>
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable />
+    <MinimapToken>
+      <TokenAsset>0</TokenAsset>
+      <StrategicMapAsset>0</StrategicMapAsset>
+    </MinimapToken>
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance>
+      <DisableEscort>1</DisableEscort>
+    </ShipMaintenance>
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

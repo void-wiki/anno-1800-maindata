@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ItemSet</Template>
+  <Values>
+    <Standard>
+      <GUID>191117</GUID>
+      <Name>ocean</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_lionfish.png</IconFilename>
+      <InfoDescription>15369</InfoDescription>
+    </Standard>
+    <ItemSocketSet>
+      <SetBuff>191135</SetBuff>
+      <BuffScope>Area</BuffScope>
+    </ItemSocketSet>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>GREAT CORAL REEF</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21960</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

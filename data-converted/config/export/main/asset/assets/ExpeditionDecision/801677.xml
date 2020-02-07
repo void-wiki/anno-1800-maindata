@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801677</GUID>
+      <Name>The Chasing 1.1.1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <InsertEvent>801714</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;What a rabble!&lt;/b&gt; Like some arrhythmic jingle of bell-ringers, your thugs mistime their swings, falling to the channel between the two vessels. The Pyrphorians make their escape, but you know they are headed. If your crew manage to recover both themselves and their dignity, you will make a beeline for the port of Montoya.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21107</LineID>
+    </Text>
+  </Values>
+</Asset>

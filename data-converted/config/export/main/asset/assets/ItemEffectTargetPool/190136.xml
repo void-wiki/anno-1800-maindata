@@ -1,0 +1,48 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190136</GUID>
+      <Name>all public</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Public Buildings</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15234</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>1010372</GUID>
+        </Item>
+        <Item>
+          <GUID>1010358</GUID>
+        </Item>
+        <Item>
+          <GUID>1010359</GUID>
+        </Item>
+        <Item>
+          <GUID>1010360</GUID>
+        </Item>
+        <Item>
+          <GUID>1010361</GUID>
+        </Item>
+        <Item>
+          <GUID>1010362</GUID>
+        </Item>
+        <Item>
+          <GUID>1010364</GUID>
+        </Item>
+        <Item>
+          <GUID>1010365</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

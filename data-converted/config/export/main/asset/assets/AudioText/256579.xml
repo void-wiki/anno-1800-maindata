@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Hold yer horses, or you may find their heads in yer bed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8641</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220650</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256579</GUID>
+      <Name>AT_ai05_ExpansionPlayerHigherThanNPC1</Name>
+    </Standard>
+  </Values>
+</Asset>

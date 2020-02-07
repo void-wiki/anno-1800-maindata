@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803588</GUID>
+      <Name>The Coral Island 1.3.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803589</Option>
+        </Item>
+        <Item>
+          <Option>803592</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Since they have found precious little food here, the men start to fight&lt;/b&gt; over who needs it most. Tension is growing and they will be at each others' throats if nothing is done.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33062</LineID>
+    </Text>
+  </Values>
+</Asset>

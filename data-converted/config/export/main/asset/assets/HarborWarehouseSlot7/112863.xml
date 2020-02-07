@@ -1,0 +1,42 @@
+<Asset>
+  <Template>HarborWarehouseSlot7</Template>
+  <Values>
+    <Standard>
+      <GUID>112863</GUID>
+      <Name>Harbour Slot (Ghost) Arctic</Name>
+      <InfoDescription>163049</InfoDescription>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/buildings/special/kontor_colony03_01/kontor_colony03_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <DistributionCenterMarker />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Unpopulated Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35862</LineID>
+    </Text>
+    <QuestObject />
+    <MinimapToken>
+      <TokenAsset>0</TokenAsset>
+    </MinimapToken>
+    <Blocking />
+    <SoundEmitter />
+    <Constructable />
+    <Building>
+      <BuildingType>Warehouse</BuildingType>
+      <HasBorderRectOutline>0</HasBorderRectOutline>
+    </Building>
+  </Values>
+</Asset>

@@ -1,0 +1,42 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800454</GUID>
+      <Name>Reward Event Rescue Missions</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202362</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/success_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190423</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>190430</Reward>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Reward>192050</Reward>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You have earned a reward for your altruism! The crew toast a successful rescue, with all returning to the glad comforts of home.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5915</LineID>
+    </Text>
+  </Values>
+</Asset>

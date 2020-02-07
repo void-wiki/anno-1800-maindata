@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803804</GUID>
+      <Name>The snake bite 1.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803805</Option>
+        </Item>
+        <Item>
+          <Option>803793</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Considering the quickness of the death and the effects on the body, especially the stomach, ingested poison is a viable explanation but there is no certainty.</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

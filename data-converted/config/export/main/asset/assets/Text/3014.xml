@@ -1,0 +1,16 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>3014</GUID>
+      <Name>ArticleSatisfaction</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Newspaper FindArticle([RefGuid]) Satisfaction &gt;&gt; newspaperMood]</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>205541</GUID>
+      <Name>MS4_bld_residence_tier_3</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>244702</Choice>
+        </Item>
+        <Item>
+          <Choice>244703</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>3963190022</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

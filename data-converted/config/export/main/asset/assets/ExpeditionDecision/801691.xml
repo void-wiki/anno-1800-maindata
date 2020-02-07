@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801691</GUID>
+      <Name>The Chasing 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801692</Option>
+        </Item>
+        <Item>
+          <Option>801695</Option>
+        </Item>
+      </Options>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Hmmn..." your navigator mumbles awkwardly&lt;/b&gt;, realising he has proposed almost every one of the myriad small harbours in the region. Someone coughs. Perhaps all these officers have been summoned to the cabin merely to share in his humiliation? "We have lost them then..." a skeptic pipes up, addressing the elephant in the room. "So what now?! Search every harbour?! Solicit a friendly local power for help?!!"  </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21121</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>216755</GUID>
+      <Name>wwe_sfx_aui_hry_0_to_1_achievements</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3000</DurationMinimum>
+          <DurationMaximum>3000</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2091224982</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

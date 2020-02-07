@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20065</GUID>
+      <Name>Player left session</Name>
+      <ID>PlayerLeftSession</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Online PlayerName([Popup RefGUID])] has left the game.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29190</LineID>
+    </Text>
+  </Values>
+</Asset>

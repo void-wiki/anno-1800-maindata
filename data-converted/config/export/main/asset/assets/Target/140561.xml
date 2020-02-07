@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>START_PATROL</ActionID>
+      <PositionCheck>Always</PositionCheck>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer;CheckProperty</Flags>
+          <Property>Walking</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>Never</Flags>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Never</Flags>
+        </DisableMatch1>
+      </Matches>
+      <MouseCursorTarget>501851</MouseCursorTarget>
+      <MouseCursorDisable>501850</MouseCursorDisable>
+      <MouseCursorMode>501851</MouseCursorMode>
+      <MouseCursorPosition>501851</MouseCursorPosition>
+      <MouseCursorPositionDisable>501850</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>140561</GUID>
+      <Name>Start Patrol</Name>
+      <ID>StartPatrol</ID>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

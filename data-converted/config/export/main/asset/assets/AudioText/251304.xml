@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ingratitude, that’s your vice!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2339</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212580</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251304</GUID>
+      <Name>AT_ai03_NegFeedbackToPlyr4</Name>
+    </Standard>
+  </Values>
+</Asset>

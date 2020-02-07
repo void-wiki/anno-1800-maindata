@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I bring grave news from our ice pilots. The pack ice becomes too thick. We'd be risking our ships if we were to continue our rescue.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17661</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234209</AudioAsset>
+      <Mood>Negative</Mood>
+      <DialogSequence>1</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267221</GUID>
+      <Name>AT_ArticCouncilman_EventMovie02_01</Name>
+    </Standard>
+  </Values>
+</Asset>

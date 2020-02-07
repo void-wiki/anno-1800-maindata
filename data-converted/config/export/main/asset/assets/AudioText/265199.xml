@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>People lay down their tools.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15789</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234123</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265199</GUID>
+      <Name>AT_Narrator_Incidents_Warning_NewStrike</Name>
+    </Standard>
+  </Values>
+</Asset>

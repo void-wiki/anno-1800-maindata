@@ -1,0 +1,62 @@
+<Asset>
+  <Template>FeedbackVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>101660</GUID>
+      <Name>Fishing Boat</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/fishing_boat/fishing_boat.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <ReservationLength>16</ReservationLength>
+      <ReservationWidth>6</ReservationWidth>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <LeaningMaxAngle>10</LeaningMaxAngle>
+      <ForwardSpeed>8.4</ForwardSpeed>
+      <CreatePathPlannerUnit>0</CreatePathPlannerUnit>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tourism Ship</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>9818383</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>2.7</Length>
+      <Width>0.8</Width>
+      <FactorRotation>0.5</FactorRotation>
+      <UseSlowDownTactic>0</UseSlowDownTactic>
+    </Drifting>
+    <MinimapToken>
+      <TokenAsset>2001947</TokenAsset>
+    </MinimapToken>
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+  </Values>
+</Asset>

@@ -1,0 +1,53 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>117472</GUID>
+      <Name>Trigger Santa</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <Context>114166</Context>
+            <CounterAmount>1</CounterAmount>
+            <CounterScope>Session</CounterScope>
+            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+            <CounterScopeContext>180045</CounterScopeContext>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSpawnObjects</Template>
+            <Values>
+              <Action />
+              <ActionSpawnObjects>
+                <SpawnGUID>115152</SpawnGUID>
+                <Amount>1</Amount>
+              </ActionSpawnObjects>
+              <SpawnArea>
+                <SpawnContext>ForceContextPosition</SpawnContext>
+                <ContextGUID>116812</ContextGUID>
+                <DistanceToContext>2</DistanceToContext>
+              </SpawnArea>
+              <SessionFilter>
+                <Sessions>
+                  <Item>
+                    <Session>180045</Session>
+                  </Item>
+                </Sessions>
+              </SessionFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+    </TriggerSetup>
+  </Values>
+</Asset>

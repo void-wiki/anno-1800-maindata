@@ -1,0 +1,29 @@
+<Asset>
+  <Template>MapTemplate</Template>
+  <Values>
+    <Standard>
+      <GUID>112793</GUID>
+      <Name>MapTemplate Arctic</Name>
+    </Standard>
+    <MapTemplate>
+      <IslandSize>Large</IslandSize>
+      <TemplateFilename>data/dlc03/sessions/maps/colony_03_sp/colony_03_sp.a7t</TemplateFilename>
+      <TemplateSize>Large</TemplateSize>
+      <FixedPreplacedParticipants>
+        <Item>
+          <ParticipantID>Third_party_06b_Nate_Arctic</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Arctic_LadyFaithful</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Arctic_Inuit</ParticipantID>
+        </Item>
+        <Item>
+          <ParticipantID>Arctic_SirJohn</ParticipantID>
+        </Item>
+      </FixedPreplacedParticipants>
+      <TemplateRegion>Arctic</TemplateRegion>
+    </MapTemplate>
+  </Values>
+</Asset>

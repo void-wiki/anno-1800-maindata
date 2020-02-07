@@ -1,0 +1,55 @@
+<Asset>
+  <Template>Collectable</Template>
+  <Values>
+    <Collectable>
+      <DestroyOnCollect>1</DestroyOnCollect>
+    </Collectable>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/effects/sunken_treasures_diving_spot_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>112525</GUID>
+      <Name>QO Diving Spot</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_tentacle.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Walking>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Diving Spot</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32458</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+  </Values>
+</Asset>

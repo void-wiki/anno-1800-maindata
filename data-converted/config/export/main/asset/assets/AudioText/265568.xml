@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I don't like to see my friends hurt.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16917</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233010</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265568</GUID>
+      <Name>AT_ai05_NegativeInteraction_NPCsFriend1</Name>
+    </Standard>
+  </Values>
+</Asset>

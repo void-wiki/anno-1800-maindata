@@ -1,0 +1,46 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268981</GUID>
+      <Name>Pool_ai09_FlatterSucceed</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>252817</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252696</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252651</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252652</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252659</AudioText>
+        </Item>
+        <Item>
+          <AudioText>252662</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>1973566730</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

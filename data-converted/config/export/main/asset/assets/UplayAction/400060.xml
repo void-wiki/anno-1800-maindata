@@ -1,0 +1,38 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400060</GUID>
+      <Name>Action_Achievement_Nosey Parker</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Campaign</AchievementCategory>
+      <AchievementTitle>15320</AchievementTitle>
+      <AchievementDescription>15322</AchievementDescription>
+      <AchievementUPlayID>2</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionTextPopupPagesViewed</Template>
+        <Values>
+          <Condition />
+          <ConditionTextPopupPagesViewed>
+            <PagesViewed>
+              <Letter>
+                <ViewCount>1</ViewCount>
+              </Letter>
+            </PagesViewed>
+          </ConditionTextPopupPagesViewed>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>1</UplayActionID>
+      <UplayActionPoints>10</UplayActionPoints>
+      <UplayXP>50</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

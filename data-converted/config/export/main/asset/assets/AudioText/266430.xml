@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Who, or better, what are you?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16796</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232950</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_41</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266430</GUID>
+      <Name>AT_ai01_Credits16</Name>
+    </Standard>
+  </Values>
+</Asset>

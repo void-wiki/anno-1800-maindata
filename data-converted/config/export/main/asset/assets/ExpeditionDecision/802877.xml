@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802877</GUID>
+      <Name>The Hunter and the Prey 1.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802869</Option>
+        </Item>
+        <Item>
+          <Option>802872</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your navigator struggles desperately to fill the sails,but fails.&lt;/b&gt; The dragon unleashes a second arc of fire, and you lose another man and furthermore, the power of evasion. You'll have to send a team of saboteurs to destroy that cannon before it can be reloaded, or else even the odds and try to slow the great dragon.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23700</LineID>
+    </Text>
+  </Values>
+</Asset>

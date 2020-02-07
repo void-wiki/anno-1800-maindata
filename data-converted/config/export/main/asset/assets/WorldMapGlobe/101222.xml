@@ -1,0 +1,18 @@
+<Asset>
+  <Template>WorldMapGlobe</Template>
+  <Values>
+    <Standard>
+      <GUID>101222</GUID>
+      <Name>WorldMapCloudLayer</Name>
+    </Standard>
+    <Object>
+      <Type>NotSerialized</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/3d_objects/world_map/world_map_cloud.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+  </Values>
+</Asset>

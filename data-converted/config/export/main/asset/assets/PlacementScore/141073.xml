@@ -1,0 +1,42 @@
+<Asset>
+  <Template>PlacementScore</Template>
+  <Values>
+    <Standard>
+      <GUID>141073</GUID>
+      <Name>ProductionFreeAreaProductivityScore</Name>
+    </Standard>
+    <PlacementScore>
+      <SubScores>
+        <Item>
+          <Rating>
+            <Template>RatingProductionChainProximity</Template>
+            <Values>
+              <RatingProductionChainProximity />
+            </Values>
+          </Rating>
+          <RelativeWeight>0.5</RelativeWeight>
+          <DiscardThresholdScore>0.1</DiscardThresholdScore>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingDistance</Template>
+            <Values>
+              <RatingDistance>
+                <DistanceTo>Kontor</DistanceTo>
+                <ZeroFrom>300</ZeroFrom>
+              </RatingDistance>
+            </Values>
+          </Rating>
+        </Item>
+        <Item>
+          <Rating>
+            <Template>RatingStreetPointsToWarehouse</Template>
+            <Values>
+              <RatingStreetPointsToWarehouse />
+            </Values>
+          </Rating>
+        </Item>
+      </SubScores>
+    </PlacementScore>
+  </Values>
+</Asset>

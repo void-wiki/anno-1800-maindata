@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dug up in a nearby field methinks.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12628</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230655</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261896</GUID>
+      <Name>AT_MurmurMale9_Museum_LowAttractiveness</Name>
+    </Standard>
+  </Values>
+</Asset>

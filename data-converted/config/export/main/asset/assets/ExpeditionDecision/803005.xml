@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803005</GUID>
+      <Name>Interrogation 1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803006</Option>
+        </Item>
+        <Item>
+          <Option>803007</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Isabel's eyes flash with anger.&lt;/b&gt; "So! They call your father a traitor for selling it to us, the pesky rebels, and now you come here to do the right thing and take it back?! Your father should have thought of that before he sold it. A deal is a deal!" It is a confession that the deal has not, in any respect, been a good one. She picks up the barrel and pours wine over your head,  "maybe I'll take all my rage out on you!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23763</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,68 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>191624</GUID>
+      <Name>Kate Tyrell - The First Female Ship Merchant</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/specialists/systemic/icon_well_dressed_402.png</IconFilename>
+      <InfoDescription>20027</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ermenegilda Di Mercante, Purveyor of Tall Ships.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26776</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>933200</TradePrice>
+      <TradePriceOnlineCurrency>50</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <ItemAction />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade>
+        <Value>20</Value>
+        <Percental>1</Percental>
+      </ForwardSpeedUpgrade>
+      <IgnoreWeightFactorUpgrade>
+        <Value>100</Value>
+        <Percental>1</Percental>
+      </IgnoreWeightFactorUpgrade>
+    </VehicleUpgrade>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>PerkFemale</Attribute>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Attribute>Diplomacy</Attribute>
+          <Amount>25</Amount>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>20027</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <TradeShipUpgrade>
+      <LoadingSpeedUpgrade>
+        <Value>75</Value>
+        <Percental>1</Percental>
+      </LoadingSpeedUpgrade>
+    </TradeShipUpgrade>
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

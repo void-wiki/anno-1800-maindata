@@ -1,0 +1,67 @@
+<Asset>
+  <Template>ExplodingProjectile</Template>
+  <Values>
+    <Standard>
+      <GUID>100457</GUID>
+      <Name>BigMortarProjectile</Name>
+    </Standard>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>5</ShotHeight>
+      <ProjectileSpeed>4</ProjectileSpeed>
+      <Effectivities>
+        <Item>
+          <GUID>1010343</GUID>
+          <Factor>2</Factor>
+        </Item>
+        <Item>
+          <GUID>1010344</GUID>
+          <Factor>2</Factor>
+        </Item>
+        <Item>
+          <GUID>1010345</GUID>
+          <Factor>2</Factor>
+        </Item>
+        <Item>
+          <GUID>1010346</GUID>
+          <Factor>2</Factor>
+        </Item>
+        <Item>
+          <GUID>1010347</GUID>
+          <Factor>2</Factor>
+        </Item>
+      </Effectivities>
+    </Projectile>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/military/projectiles/projectile_mortar_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>3</InnerDamageRadius>
+      <DebrisForceY>0</DebrisForceY>
+      <DebrisCount>0</DebrisCount>
+      <OuterDamageRadius>5</OuterDamageRadius>
+      <MinimumDamage>1</MinimumDamage>
+    </Exploder>
+    <SoundEmitter>
+      <ProjectileSounds>
+        <ProjectileLaunch>
+          <Item>
+            <Sound>235855</Sound>
+          </Item>
+        </ProjectileLaunch>
+        <ProjectileImpact>
+          <Item>
+            <Sound>235854</Sound>
+          </Item>
+        </ProjectileImpact>
+      </ProjectileSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <ProjectileIncident />
+  </Values>
+</Asset>

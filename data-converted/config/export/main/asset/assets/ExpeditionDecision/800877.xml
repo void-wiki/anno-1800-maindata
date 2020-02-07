@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800877</GUID>
+      <Name>Parasitic Infestation 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800878</Option>
+        </Item>
+        <Item>
+          <Option>800879</Option>
+        </Item>
+        <Item>
+          <Option>800880</Option>
+        </Item>
+      </Options>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202341</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/disease_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;These parasites must have come from the marsh goo;&lt;/b&gt; all that waist-high wading. Now they nestle deep in your crew, who, at risk of harm from their own madcap cures, really need professional help!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13192</LineID>
+    </Text>
+  </Values>
+</Asset>

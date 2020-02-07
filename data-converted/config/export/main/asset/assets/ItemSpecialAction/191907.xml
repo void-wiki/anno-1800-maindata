@@ -1,0 +1,57 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>191907</GUID>
+      <Name>Antiseptics</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_medicine_1.png</IconFilename>
+      <InfoDescription>19539</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>192179</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <ItemAction>HEAL_INCIDENT</ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <ActionIncidentType>Illness</ActionIncidentType>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>3000000</ActionDuration>
+      <ActiveBuff>191910</ActiveBuff>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <Item>
+      <Allocation>TownHall</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <HasAction>1</HasAction>
+      <TradePrice>2400</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Antiseptics</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26831</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Medicine</Attribute>
+          <Amount>4</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+      <FluffText>19539</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

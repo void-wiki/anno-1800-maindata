@@ -1,0 +1,16 @@
+<Template>
+  <Name>ItemConstructionPlan</Name>
+  <Properties>
+    <ItemAction />
+    <Standard />
+    <Text />
+    <ItemConstructionPlan />
+    <Item />
+    <ExpeditionAttribute>
+      <BaseMorale>5</BaseMorale>
+    </ExpeditionAttribute>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+  </Properties>
+</Template>

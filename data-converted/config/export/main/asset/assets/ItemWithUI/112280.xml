@@ -1,0 +1,49 @@
+<Asset>
+  <Template>ItemWithUI</Template>
+  <Values>
+    <Standard>
+      <GUID>112280</GUID>
+      <Name>QI Vasco deal proposal</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/narative_item/icon_vascos_contract.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vasco's Honorable Agreement</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32390</LineID>
+    </Text>
+    <Item>
+      <Flotsam>103060</Flotsam>
+    </Item>
+    <ItemWithUI>
+      <ItemActions>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionTriggerTextPopup</Template>
+                  <Values>
+                    <ActionTriggerTextPopup>
+                      <PopupText>112547</PopupText>
+                      <TextPopupLayout>VascoContract</TextPopupLayout>
+                    </ActionTriggerTextPopup>
+                    <Action />
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </ItemActions>
+    </ItemWithUI>
+    <Locked />
+    <ItemAction />
+    <ExpeditionAttribute />
+  </Values>
+</Asset>

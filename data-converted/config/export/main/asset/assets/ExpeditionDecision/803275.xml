@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803275</GUID>
+      <Name>The Haunted Mansion 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803276</Option>
+        </Item>
+        <Item>
+          <Option>803283</Option>
+        </Item>
+        <Item>
+          <Option>803292</Option>
+        </Item>
+        <Item>
+          <Option>803298</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"A-Anyone home...?"&lt;/b&gt; Seeking refuge from a thunderstorm, your people dash for the tumbledown castle. Lightning exposes its stark towers, barred windows and the solemn stone gryphons either side of the gate. As the last of your party crosses the threshold, an iron portcullis drops and clangs shut behind them! Despite their best efforts, your men cannot seem to raise it. The castle and its courtyard appear empty, but there is a sense that someone —or something— has been expecting you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26270</LineID>
+    </Text>
+  </Values>
+</Asset>

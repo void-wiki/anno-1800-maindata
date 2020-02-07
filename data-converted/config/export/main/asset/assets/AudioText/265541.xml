@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>What plot are you hatching?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16841</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234523</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265541</GUID>
+      <Name>AT_ai03_PositiveInteraction_NPCsFoe1</Name>
+    </Standard>
+  </Values>
+</Asset>

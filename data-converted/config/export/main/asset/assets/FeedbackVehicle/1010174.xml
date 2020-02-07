@@ -1,0 +1,55 @@
+<Asset>
+  <Template>FeedbackVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>1010174</GUID>
+      <Name>Railway 01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/railway_01/railway_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <DefaultParticipant>Human0</DefaultParticipant>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnTerrainSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <PathPlannerLayer>Railway</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <LeaningMaxAngle>10</LeaningMaxAngle>
+      <ForwardSpeed>8.4</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tourism Ship</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter />
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>2.7</Length>
+      <Width>0.8</Width>
+      <AffectedByDriftingWhileIdle>0</AffectedByDriftingWhileIdle>
+      <AffectedByDriftingWhileMoving>0</AffectedByDriftingWhileMoving>
+      <CausesDrifting>0</CausesDrifting>
+      <UseSlowDownTactic>0</UseSlowDownTactic>
+    </Drifting>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+  </Values>
+</Asset>

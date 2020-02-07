@@ -1,0 +1,46 @@
+<Asset>
+  <Template>UplayProductPromotion</Template>
+  <Values>
+    <Standard>
+      <GUID>410029</GUID>
+      <Name>DLC Promo - 01 - Sunken Treasures</Name>
+    </Standard>
+    <UplayProductPromotion>
+      <DLCName>113823</DLCName>
+      <DLCType>22153</DLCType>
+      <MoodImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_promo_main_sunken_treasures.png</MoodImage>
+      <DLCCardImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_card_treasures.png</DLCCardImage>
+      <DLCCardImageExtra>data/ui/2kimages/main/assets16/dlc/bgr_dlc_card_treasures_owned_dis.png</DLCCardImageExtra>
+      <DLCSelectionDescription>23120</DLCSelectionDescription>
+      <DLCSelectionImage>data/ui/2kimages/main/assets16/dlc/bgr_dlc_promo_main_sunken_treasures.png</DLCSelectionImage>
+      <DetailedDescription>113821</DetailedDescription>
+      <DLCIcon>data/ui/2kimages/main/3dicons/icon_dlc_sunken_treasure.png</DLCIcon>
+      <DLCCardFluffText>113821</DLCCardFluffText>
+      <ContentHints>
+        <Item>
+          <ContentIcon>data/ui/2kimages/main/icons/icon_map.png</ContentIcon>
+          <ContentHeadline>113830</ContentHeadline>
+          <ContentSubline>113827</ContentSubline>
+        </Item>
+        <Item>
+          <ContentIcon>data/ui/2kimages/main/icons/icon_questmain.png</ContentIcon>
+          <ContentHeadline>113942</ContentHeadline>
+          <ContentSubline>113824</ContentSubline>
+        </Item>
+        <Item>
+          <ContentIcon>data/ui/2kimages/main/icons/icon_repair_crane_2d.png</ContentIcon>
+          <ContentHeadline>113832</ContentHeadline>
+          <ContentSubline>113828</ContentSubline>
+        </Item>
+        <Item>
+          <ContentIcon>data/ui/2kimages/main/icons/icon_diving_bell.png</ContentIcon>
+          <ContentHeadline>113831</ContentHeadline>
+          <ContentSubline>113826</ContentSubline>
+        </Item>
+      </ContentHints>
+      <IsReleased>1</IsReleased>
+      <ProductAsset>410040</ProductAsset>
+      <UplayShopProductID>14195</UplayShopProductID>
+    </UplayProductPromotion>
+  </Values>
+</Asset>

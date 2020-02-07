@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I knew conspiring against the Empire was a bad idea. Afterwards, when I refused to work with the Pyrphorians, they came to teach us a lesson.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16570</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233613</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>6</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266739</GUID>
+      <Name>AT_3rdParty05_movie05_04</Name>
+    </Standard>
+  </Values>
+</Asset>

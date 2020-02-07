@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203400</GUID>
+      <Name>wwc_sfx_anm_zoo_reindeer</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>203401</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4042080113</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>223552</GUID>
+      <Name>Play_AI_DRYVICEN_BASIC_CHOOS_00001_01VICEN_10842</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>5700</DurationMinimum>
+          <DurationMaximum>5700</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>6123</DurationMinimum>
+          <DurationMaximum>6123</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>5902</DurationMinimum>
+          <DurationMaximum>5902</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>5301</DurationMinimum>
+          <DurationMaximum>5301</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2900009874</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

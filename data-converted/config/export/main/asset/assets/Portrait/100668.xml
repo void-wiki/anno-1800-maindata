@@ -1,0 +1,43 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>75</PortraitName>
+      <PortraitColor>-1985501</PortraitColor>
+      <VideoPresentation>
+        <Left>
+          <CamFile>data/config/portraitcam/queen_3rdparty01.portraitcamleft</CamFile>
+        </Left>
+        <Right>
+          <CamFile>data/config/portraitcam/queen_3rdparty01.portraitcamright</CamFile>
+        </Right>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/queen_3rdparty01.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/queen_3rdparty01.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>100668</GUID>
+      <Name>3rd_party_01 (Queen)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/3rd_party_01.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/3rd_party_01/3rd_party_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

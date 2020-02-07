@@ -1,0 +1,51 @@
+<Asset>
+  <Template>ExpeditionTrade</Template>
+  <Values>
+    <Standard>
+      <GUID>800658</GUID>
+      <Name>Temple of the Monkey God 1.2.2.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The locals look expectant</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5636</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <AvailableGoods>
+        <Item>
+          <Product>1010195</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010252</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010256</Product>
+          <Amount>10</Amount>
+        </Item>
+      </AvailableGoods>
+      <AvailableItems>
+        <Item>
+          <Item>190045</Item>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Item>190052</Item>
+          <Amount>1</Amount>
+        </Item>
+      </AvailableItems>
+      <TraderName>11540</TraderName>
+      <FollowupSuccessOption>800659</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>800660</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>150</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

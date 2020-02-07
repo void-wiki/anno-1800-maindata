@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800258</GUID>
+      <Name>The Ghost Ship 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202346</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/naval_battle_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The diver does remarkably&lt;/b&gt; to spot the fiends furled in sails, or waiting under barrels to ambush, should your men have boarded. Your ship draws alongside the vessel as if to pass, but then unleashes enough cannon-fire to drown it. The crew are elated, believing they have done the oceans a great service.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5532</LineID>
+    </Text>
+  </Values>
+</Asset>

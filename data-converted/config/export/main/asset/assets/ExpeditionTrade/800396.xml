@@ -1,0 +1,53 @@
+<Asset>
+  <Template>ExpeditionTrade</Template>
+  <Values>
+    <Standard>
+      <GUID>800396</GUID>
+      <Name>Polar Event 1.1.3</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You found a tourist that offers to trade with you.</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionTrade>
+      <AvailableGoods>
+        <Item>
+          <Product>1010216</Product>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Product>1010213</Product>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Product>1010238</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010222</Product>
+          <Amount>5</Amount>
+        </Item>
+      </AvailableGoods>
+      <AvailableItems>
+        <Item>
+          <Item>190552</Item>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Item>112476</Item>
+          <Amount>1</Amount>
+        </Item>
+        <Item>
+          <Item>191596</Item>
+          <Amount>1</Amount>
+        </Item>
+      </AvailableItems>
+      <TraderName>90</TraderName>
+      <FollowupSuccessOption>800087</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>800087</FollowupFailOrCancelOption>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

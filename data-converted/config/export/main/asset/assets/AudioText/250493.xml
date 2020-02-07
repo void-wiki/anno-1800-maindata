@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I knew you'd come through!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1165</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212232</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250493</GUID>
+      <Name>AT_3rdParty02_PosiFeedbackToPlayer5</Name>
+    </Standard>
+  </Values>
+</Asset>

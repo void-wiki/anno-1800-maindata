@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800581</GUID>
+      <Name>Lost in the Desert 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A local rider comes to the rescue.&lt;/b&gt; He saunters over on his camel, and explains the well is part of a lost city, accessible over a small rise. The crew are enchanted by the grand quarry, swept over by the sands of time, observations of which shall no doubt bring them fame on their return. After proof of their remarkable discovery has been gathered, the rider is only too glad to lead the elated crew back to more familiar dunes.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5854</LineID>
+    </Text>
+  </Values>
+</Asset>

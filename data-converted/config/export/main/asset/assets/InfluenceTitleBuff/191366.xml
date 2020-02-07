@@ -1,0 +1,40 @@
+<Asset>
+  <Template>InfluenceTitleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191366</GUID>
+      <Name>OptimisationBuff3</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/influence/icon_buff_optimisation_gold.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Captain of Industry</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21896</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <CultureUpgrade />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190611</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-10</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+    </BuildingUpgrade>
+    <NewspaperUpgrade />
+    <Locked />
+    <DistributionUpgrade />
+  </Values>
+</Asset>

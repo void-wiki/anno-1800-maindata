@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800353</GUID>
+      <Name>The Minefield 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190016</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The search is a fruitful one.&lt;/b&gt; The well-organised diplomatic library includes a comprehensive folio of papers on nearby mine positions. This enables the navigators to chart a safe course through the waters. The very same paper remarks that the mines were moored during the war, in order to protect a now-disused outpost. You stop by the outpost and pick up anything that looks useful.    </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5836</LineID>
+    </Text>
+  </Values>
+</Asset>

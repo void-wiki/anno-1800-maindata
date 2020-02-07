@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Admiral Silva serves a different Empire, and is therefore not in my jurisdiction.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12348</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229817</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261045</GUID>
+      <Name>AT_3rdParty07_IdleMessageGossip_Silva</Name>
+    </Standard>
+  </Values>
+</Asset>

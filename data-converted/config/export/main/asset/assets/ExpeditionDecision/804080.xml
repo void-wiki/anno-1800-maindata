@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804080</GUID>
+      <Name>Atoll 1.2.3.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <InsertEvent>803537</InsertEvent>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's clumsy.&lt;/b&gt; Out of breath and struggling weakly against a strong current, your divers bludgeon blindly at the coral, sending clouds of particles up through the water. Little do they realise how fragile the hull has become. Then one misplaced blow and it implodes, the water gushing in. The crew must count themselves lucky that the tide proceeds to sweep the unhappy vessel to shore. &lt;b&gt;It seems you have shipwrecked on a coral atoll&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33492</LineID>
+    </Text>
+  </Values>
+</Asset>

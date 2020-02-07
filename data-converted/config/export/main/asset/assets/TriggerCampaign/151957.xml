@@ -1,0 +1,134 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151957</GUID>
+      <Name>CQ327_FriendInNeed_BanditShip_Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSpawnObjects</Template>
+            <Values>
+              <Action />
+              <ActionSpawnObjects>
+                <SpawnGUID>102325</SpawnGUID>
+                <Amount>1</Amount>
+                <Owner>Campaign_character_02_pyrophorian_red_blinded</Owner>
+              </ActionSpawnObjects>
+              <SpawnArea>
+                <SpawnContext>Object</SpawnContext>
+                <ContextLabel>CQO327_FriendInNeed_PyroBandit01SpawnPoint</ContextLabel>
+                <DistanceToContext>40</DistanceToContext>
+              </SpawnArea>
+              <SessionFilter>
+                <Sessions>
+                  <Item>
+                    <Session>180025</Session>
+                  </Item>
+                </Sessions>
+              </SessionFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionMoveObject</Template>
+            <Values>
+              <Action />
+              <ObjectFilter>
+                <ObjectGUID>102325</ObjectGUID>
+                <CheckParticipantID>1</CheckParticipantID>
+                <ObjectParticipantID>Campaign_character_02_pyrophorian_red_blinded</ObjectParticipantID>
+              </ObjectFilter>
+              <ObjectTargetFilter>
+                <TargetLabel>CQO327_FriendInNeed_PyroBandit01MovePoint</TargetLabel>
+              </ObjectTargetFilter>
+              <ActionMoveObject />
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>25000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionMoveObject</Template>
+                            <Values>
+                              <Action />
+                              <ObjectFilter>
+                                <ObjectGUID>102325</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Campaign_character_02_pyrophorian_red_blinded</ObjectParticipantID>
+                              </ObjectFilter>
+                              <ObjectTargetFilter>
+                                <TargetLabel>CQO327_FriendInNeed_PyroBandit01LeaveMapPoint</TargetLabel>
+                              </ObjectTargetFilter>
+                              <ActionMoveObject />
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>180000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionDeleteObjects</Template>
+                            <Values>
+                              <Action />
+                              <ActionDeleteObjects />
+                              <ObjectFilter>
+                                <ObjectGUID>102325</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Campaign_character_02_pyrophorian_red_blinded</ObjectParticipantID>
+                              </ObjectFilter>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

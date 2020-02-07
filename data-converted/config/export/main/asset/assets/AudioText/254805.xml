@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There is a noble heart in you somewhere.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5985</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216401</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254805</GUID>
+      <Name>AT_ai01_NPCReputationAutocorrectDecrease4</Name>
+    </Standard>
+  </Values>
+</Asset>

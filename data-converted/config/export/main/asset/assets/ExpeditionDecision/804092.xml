@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804092</GUID>
+      <Name>Map Event A 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804094</Option>
+        </Item>
+        <Item>
+          <Option>804103</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Choose direction to search</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

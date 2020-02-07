@@ -1,0 +1,63 @@
+<Asset>
+  <Template>Collectable</Template>
+  <Values>
+    <Collectable>
+      <DestroyOnCollect>1</DestroyOnCollect>
+    </Collectable>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/castaway_lifewest/castaway_lifewest.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/quest/objects/castaway_lifeboat/castaway_lifeboat_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>100554</GUID>
+      <Name>COLLECTABLE Castaway (Generic)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_rum_master.png</IconFilename>
+      <InfoDescription>1029</InfoDescription>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+      <InteractionDistance>1</InteractionDistance>
+      <InfoCorner>0</InfoCorner>
+    </Selection>
+    <Walking>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <TurnSpeedInPlace>90</TurnSpeedInPlace>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Castaway</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3742</LineID>
+    </Text>
+    <Infolayer>
+      <DefaultInfoLayer>500484</DefaultInfoLayer>
+    </Infolayer>
+    <MinimapToken />
+    <SoundEmitter>
+      <CollectedSounds>
+        <Item>
+          <Sound>214111</Sound>
+        </Item>
+      </CollectedSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime>
+      <Time>300000</Time>
+    </Lifetime>
+  </Values>
+</Asset>

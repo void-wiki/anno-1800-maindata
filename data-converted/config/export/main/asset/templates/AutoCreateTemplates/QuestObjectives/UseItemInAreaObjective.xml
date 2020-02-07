@@ -1,0 +1,38 @@
+<Template>
+  <Name>UseItemInAreaObjective</Name>
+  <Properties>
+    <ConditionQuestObjective>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback>
+            <Infolayer>500482</Infolayer>
+          </ConditionObjectiveSignsAndFeedback>
+        </Values>
+      </ObjectiveSignsAndFeedback>
+    </ConditionQuestObjective>
+    <ConditionPropsSessionSettings />
+    <ConditionQuestUseItemInArea>
+      <StartPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </StartPlace>
+    </ConditionQuestUseItemInArea>
+    <SpawnArea />
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ExecutionPlace>
+      <ExecutionPlaceText>12754</ExecutionPlaceText>
+    </ConditionPropsExecutionPlaceSettings>
+  </Properties>
+</Template>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803503</GUID>
+      <Name>Trelawney 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803504</Option>
+        </Item>
+        <Item>
+          <Option>803507</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You reach the next bay up from Monégasque,&lt;/b&gt; and hopping out of your carriage, see the Queen bustling along a jetty at which a great flagship dubbed "Lap of Victory" is moored. Obviously she has primed them for such an emergency, as they all seem ready to go. &lt;b&gt;You can try to call out to the Queen, or else borrow a vessel to continue your pursuit.&lt;/b&gt; </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32673</LineID>
+    </Text>
+  </Values>
+</Asset>

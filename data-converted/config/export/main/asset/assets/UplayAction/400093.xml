@@ -1,0 +1,57 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400093</GUID>
+      <Name>Action_Achievement_Annoholic</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>General</AchievementCategory>
+      <AchievementTitle>15581</AchievementTitle>
+      <AchievementDescription>15582</AchievementDescription>
+      <AchievementUPlayID>50</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionCorporationDifficulty</Template>
+        <Values>
+          <Condition />
+          <ConditionCorporationDifficulty>
+            <Difficulty>Hard</Difficulty>
+            <DifficultyConstructionCostRefund>PayCredits</DifficultyConstructionCostRefund>
+            <DifficultyOptionalQuestFrequency>Rare</DifficultyOptionalQuestFrequency>
+            <DifficultyRelocateBuildings>Off</DifficultyRelocateBuildings>
+            <DifficultyRevenue>Spare</DifficultyRevenue>
+            <DifficultyStartCredits>Spare</DifficultyStartCredits>
+          </ConditionCorporationDifficulty>
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionGameEnded</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionGameEnded />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>501</UplayActionID>
+      <BadgeID>1002</BadgeID>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

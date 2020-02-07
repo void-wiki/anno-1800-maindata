@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>116351</GUID>
+      <Name>AdditionalHeatInfo</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_heating_center_2d.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents gain bonus heat from [ItemAssetData([RefGuid]) InputBenefitAllAdditionalHeatFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34990</LineID>
+    </Text>
+  </Values>
+</Asset>

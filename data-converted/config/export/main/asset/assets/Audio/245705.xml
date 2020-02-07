@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245705</GUID>
+      <Name>Play_AI_TECHN_BASIC_BLSZW_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>551</DurationMinimum>
+          <DurationMaximum>3070</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>928</DurationMinimum>
+          <DurationMaximum>3355</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>821</DurationMinimum>
+          <DurationMaximum>2617</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>710</DurationMinimum>
+          <DurationMaximum>2604</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4130379344</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Isabel Sarmento? Never heard of her.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12989</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229789</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261109</GUID>
+      <Name>AT_enemy_01_IdleMessageGossip_Sarmento</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204565</GUID>
+      <Name>Play_AI_NEWD2_N1JFG_DIMIP_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>3654</DurationMinimum>
+          <DurationMaximum>16738</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>3853</DurationMinimum>
+          <DurationMaximum>17006</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4053</DurationMinimum>
+          <DurationMaximum>18433</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3224</DurationMinimum>
+          <DurationMaximum>15234</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2424150435</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

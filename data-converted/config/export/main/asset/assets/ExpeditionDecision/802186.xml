@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802186</GUID>
+      <Name>Selfless Deeds 1.2.2.2.1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your retribution is ruthless.&lt;/b&gt; The kidnappers are still counting the goods you bought the children with when the crew attacks, and its assault is brutal. The steamboat is set aflame and all bandits die by fire or bullet. The crew brings the kids back to the safety of their homes, but the children now see them as no different from their captors: beasts driven by violent instincts.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21037</LineID>
+    </Text>
+  </Values>
+</Asset>

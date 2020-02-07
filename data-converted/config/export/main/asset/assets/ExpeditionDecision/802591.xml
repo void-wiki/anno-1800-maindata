@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802591</GUID>
+      <Name>A Fistful of Doubloons 1.1.1.1.1.1.2.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Honour and wages are retrieved.&lt;/b&gt;When the gang slams the saloon's doors open, the place is devoid of its usual chirpy atmosphere. Moon rays disclose the presence of your crew, sat on every possible chair and table and stair step and already reaching for their guns. The fight is brief. Your sailors submerge the thieves and drag them outside, roped and gagged, and salute the sheriff before heading back to the ship with the satisfaction of a job well done.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21660</LineID>
+    </Text>
+  </Values>
+</Asset>

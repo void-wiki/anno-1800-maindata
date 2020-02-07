@@ -1,0 +1,168 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>152357</GUID>
+      <Name>CQ261_ProsperityBuildRails</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_01</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_02</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_03</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_04</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_05</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_06</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_07</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_08</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObjectGroup>rail_buildup_09</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObject>101384</BuildObject>
+                <BuildObjectGroup>rail_bridge_buildup_01</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObject>101384</BuildObject>
+                <BuildObjectGroup>rail_bridge_buildup_02</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionBuildObject</Template>
+            <Values>
+              <Action />
+              <ActionBuildObject>
+                <BuildInSession>180025</BuildInSession>
+                <BuildObject>101384</BuildObject>
+                <BuildObjectGroup>rail_bridge_buildup_03</BuildObjectGroup>
+              </ActionBuildObject>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

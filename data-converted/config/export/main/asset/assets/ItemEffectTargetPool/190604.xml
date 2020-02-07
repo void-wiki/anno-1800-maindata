@@ -1,0 +1,45 @@
+<Asset>
+  <Template>ItemEffectTargetPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190604</GUID>
+      <Name>all trade ships</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Trade Ships</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15235</LineID>
+    </Text>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <Item>
+          <GUID>100438</GUID>
+        </Item>
+        <Item>
+          <GUID>100441</GUID>
+        </Item>
+        <Item>
+          <GUID>1010062</GUID>
+        </Item>
+        <Item>
+          <GUID>101121</GUID>
+        </Item>
+        <Item>
+          <GUID>100853</GUID>
+        </Item>
+        <Item>
+          <GUID>102455</GUID>
+        </Item>
+        <Item>
+          <GUID>102437</GUID>
+        </Item>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+  </Values>
+</Asset>

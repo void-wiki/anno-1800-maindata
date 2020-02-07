@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803373</GUID>
+      <Name>The Great Sickness 1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190720</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;You recruit an aspiring doctor!&lt;/b&gt; With little debate, the locals agree to receive the vaccinations against smallpox, probably saving their lives in the process. It is perhaps a side-effect of the openness and apparent selflessness with which your own medics go about the task, that a local doctor is inspired to join your expedition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31562</LineID>
+    </Text>
+  </Values>
+</Asset>

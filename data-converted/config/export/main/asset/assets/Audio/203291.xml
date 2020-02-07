@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203291</GUID>
+      <Name>wwc_sfx_anm_zoo_blandford_fox</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>203292</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>721028533</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

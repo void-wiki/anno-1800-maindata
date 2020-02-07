@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If you do not fulfil our alliance, I fear it will be a humiliation.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12472</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231409</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261200</GUID>
+      <Name>AT_ai02_NpcInvokesProtection1</Name>
+    </Standard>
+  </Values>
+</Asset>

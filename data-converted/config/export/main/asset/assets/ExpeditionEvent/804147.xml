@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>804147</GUID>
+      <Name>Beechey island</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Baffling Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34887</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>Arctic</EventRegion>
+      <StartDecision>803924</StartDecision>
+      <EventVideo>data/ui/video/expedition/polar_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>243592</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

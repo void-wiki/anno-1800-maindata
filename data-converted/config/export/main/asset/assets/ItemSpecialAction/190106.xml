@@ -1,0 +1,50 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>190106</GUID>
+      <Name>Small Torpedo</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_bomb.png</IconFilename>
+    </Standard>
+    <SpecialAction>
+      <UseEffectAsset>1</UseEffectAsset>
+      <MouseEffect>140112</MouseEffect>
+      <Projectile>100445</Projectile>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>50</ActionDistance>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>1000</ActionDuration>
+      <ActionDescription>12829</ActionDescription>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>500</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Small Torpedo</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>15</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>15</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

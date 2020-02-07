@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802444</GUID>
+      <Name>Wood Keeper 1.1.1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>120041</Reward>
+          <Amount>5</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew find some bananas at least.&lt;/b&gt; You are following the trail when your scout says in agitation, "the villagers return from the mountain, they are carrying fearsome weapons". Heeding the scout's worries, the crew detour through a banana grove, where they stock up on the fruit and return to the ship. Later, upon hearing the scout's description of the weapons, some crew members begin to wonder they might not just have been the branches of a royal palm...</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20887</LineID>
+    </Text>
+  </Values>
+</Asset>

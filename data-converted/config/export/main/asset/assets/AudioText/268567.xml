@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Damage notwithstanding, admiral.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19814</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>237785</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268567</GUID>
+      <Name>AT_MurmurFemale1_Schooner_SelectShipDamaged03</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15008</GUID>
+      <Name>SL - Diplomacy Non Attack Other Participant - Neutral</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[Newspaper FindArticle([RefGuid]) Context ParticipantName] signs non aggression pact with another player.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29608</LineID>
+    </Text>
+  </Values>
+</Asset>

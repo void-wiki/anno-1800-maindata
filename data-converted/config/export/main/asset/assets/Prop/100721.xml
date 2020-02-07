@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>100721</GUID>
+      <Name>Lumberjack Trees Moderate</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/trees/moderate/tree_moderate_01_var0.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/trees/moderate/tree_moderate_01_var1.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/trees/moderate/tree_fir_02_var1.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/terrain_props/vegetation/trees/moderate/tree_moderate_04_var0.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop>
+      <HerdBlocking>PassableWhenSparse</HerdBlocking>
+      <VegetationType>Tree</VegetationType>
+    </Prop>
+  </Values>
+</Asset>

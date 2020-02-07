@@ -1,0 +1,73 @@
+<Asset>
+  <Template>MainQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>150746</GUID>
+      <Name>Chapter000_Intro</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_questmain.png</IconFilename>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </SuccessMessage>
+      <OnQuestStart>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <ActionList>
+            <Actions>
+              <Item>
+                <Action>
+                  <Template>ActionSetIslandName</Template>
+                  <Values>
+                    <Action />
+                    <ActionSetIslandName>
+                      <SessionIsland>180014</SessionIsland>
+                      <IslandAsset>160015</IslandAsset>
+                      <NewIslandName>17663</NewIslandName>
+                    </ActionSetIslandName>
+                  </Values>
+                </Action>
+              </Item>
+            </Actions>
+          </ActionList>
+        </Values>
+      </OnQuestStart>
+      <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+      <CampaignChapter>Chapter0</CampaignChapter>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionActiveSession</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveSession>
+            <ActiveSession>180014</ActiveSession>
+          </ConditionActiveSession>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardAssets />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>ConditionAlwaysTrue</Template>
+            <Values>
+              <Condition />
+              <ConditionAlwaysTrue />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestMain>
+      <CampaignProgress>0</CampaignProgress>
+    </QuestMain>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>PositionMarker</Template>
+  <Values>
+    <Mesh />
+    <Standard>
+      <GUID>1000124</GUID>
+      <Name>Camera Startposition Marker</Name>
+      <ID>StartPositionMarker</ID>
+    </Standard>
+    <Object>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <PositionMarker>
+      <ZoomIDFixedCam>2</ZoomIDFixedCam>
+      <ZoomIDFreeCam>9</ZoomIDFreeCam>
+    </PositionMarker>
+    <Text />
+  </Values>
+</Asset>

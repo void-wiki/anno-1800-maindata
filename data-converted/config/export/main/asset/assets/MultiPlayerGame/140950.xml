@@ -1,0 +1,125 @@
+<Asset>
+  <Template>MultiPlayerGame</Template>
+  <Values>
+    <GameSetup>
+      <Peers>
+        <Slot3>
+          <Peer>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <Available>
+                <Team>Team3</Team>
+                <CompanyColor>Color3</CompanyColor>
+              </Available>
+            </Values>
+          </Peer>
+        </Slot3>
+        <Slot4>
+          <Peer>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <Available>
+                <Team>Team4</Team>
+                <CompanyColor>Color4</CompanyColor>
+              </Available>
+            </Values>
+          </Peer>
+        </Slot4>
+        <Slot2>
+          <Peer>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <Available>
+                <Team>Team2</Team>
+                <CompanyColor>Color2</CompanyColor>
+              </Available>
+            </Values>
+          </Peer>
+        </Slot2>
+        <Slot5>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot5>
+        <Slot6>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot6>
+        <Slot16>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot16>
+        <Slot15>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot15>
+        <Slot14>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot14>
+        <Slot13>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot13>
+        <Slot12>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot12>
+        <Slot11>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot11>
+        <Slot10>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot10>
+        <Slot9>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot9>
+        <Slot8>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot8>
+        <Slot7>
+          <Peer>
+            <Template>Closed</Template>
+            <Values />
+          </Peer>
+        </Slot7>
+      </Peers>
+      <Maps>
+        <Item>
+          <Asset>180023</Asset>
+        </Item>
+      </Maps>
+      <GameSetupDifficulty>HardQuickMP</GameSetupDifficulty>
+    </GameSetup>
+    <Standard>
+      <GUID>140950</GUID>
+      <Name>MultiplayerQuickMatchLarge</Name>
+      <ID>MultiplayerQuickMatchLarge</ID>
+    </Standard>
+  </Values>
+</Asset>

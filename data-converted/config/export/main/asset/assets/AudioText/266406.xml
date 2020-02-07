@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Here are your tickets. Hurry, drifters! The boat is leaving soon. And nobody wants you to miss it.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17531</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233826</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266406</GUID>
+      <Name>Jornalero_Prologue_Additional_03</Name>
+    </Standard>
+  </Values>
+</Asset>

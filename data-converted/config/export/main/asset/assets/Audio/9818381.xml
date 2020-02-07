@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>9818381</GUID>
+      <Name>wwe_sfx_veh_economy_market_horse_carriage_01_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterCount>3</ClusterCount>
+      <MaxAttenuation>16</MaxAttenuation>
+      <StopEvent>214651</StopEvent>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>214802</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2737862150</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

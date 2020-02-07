@@ -1,0 +1,36 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193027</GUID>
+      <Name>Machines - Artisan Machines - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190825</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190892</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190895</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190899</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190906</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191013</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191889</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

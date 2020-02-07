@@ -1,0 +1,74 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700010</GUID>
+      <Name>AP - All Buildings that need a street connection</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010262</Asset>
+        </Item>
+        <Item>
+          <Asset>1010264</Asset>
+        </Item>
+        <Item>
+          <Asset>1010265</Asset>
+        </Item>
+        <Item>
+          <Asset>1010266</Asset>
+        </Item>
+        <Item>
+          <Asset>1010558</Asset>
+        </Item>
+        <Item>
+          <Asset>1010329</Asset>
+        </Item>
+        <Item>
+          <Asset>1010330</Asset>
+        </Item>
+        <Item>
+          <Asset>1010331</Asset>
+        </Item>
+        <Item>
+          <Asset>1010332</Asset>
+        </Item>
+        <Item>
+          <Asset>1010333</Asset>
+        </Item>
+        <Item>
+          <Asset>100654</Asset>
+        </Item>
+        <Item>
+          <Asset>100655</Asset>
+        </Item>
+        <Item>
+          <Asset>1010343</Asset>
+        </Item>
+        <Item>
+          <Asset>1010344</Asset>
+        </Item>
+        <Item>
+          <Asset>1010345</Asset>
+        </Item>
+        <Item>
+          <Asset>1010346</Asset>
+        </Item>
+        <Item>
+          <Asset>1010347</Asset>
+        </Item>
+        <Item />
+        <Item />
+        <Item />
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Farms</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

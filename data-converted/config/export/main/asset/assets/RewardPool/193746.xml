@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193746</GUID>
+      <Name>Fruit Trees C/U</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>114540</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>114541</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111115</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>111121</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I always knew you were a Philistine!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>9421</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220548</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252501</GUID>
+      <Name>AT_ai06_PlayerDeclaresWarOnNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,37 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801840</GUID>
+      <Name>GOG 3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801841</Option>
+        </Item>
+        <Item>
+          <Option>801843</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190549</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your brigade have the place to themselves. The study is small and spartan, an occasional home for some absent overseer perhaps. As such you would think the most likely place for important documents, but of that contract there is no sign! In the corner is the largest egg anyone has ever seen. It could be valuable, may as well have the men lift it before continuing your search.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23576</LineID>
+    </Text>
+  </Values>
+</Asset>

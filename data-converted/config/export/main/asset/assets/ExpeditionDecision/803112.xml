@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803112</GUID>
+      <Name>Ghosts in the Ice 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew leaves the stranded men to fend for themselves.&lt;/b&gt; There's no mistaking the leak for a negligible issue: if the skeletal state of the sailors is any indication, they will never have the strength to fix their ship. Allowing them to keep their pride might have been the granting of a last wish.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23460</LineID>
+    </Text>
+  </Values>
+</Asset>

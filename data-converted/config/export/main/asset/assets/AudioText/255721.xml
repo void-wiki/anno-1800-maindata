@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>It's beastly, Admiral!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8032</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217377</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255721</GUID>
+      <Name>AT_captain_EventCallToAction_Wildlife3</Name>
+    </Standard>
+  </Values>
+</Asset>

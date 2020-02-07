@@ -1,0 +1,44 @@
+<Asset>
+  <Template>GuildhouseBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>191141</GUID>
+      <Name>celts</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_museum_celts_stonehenge.png</IconFilename>
+      <InfoDescription>15774</InfoDescription>
+    </Standard>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190778</GUID>
+        </Item>
+        <Item>
+          <GUID>1010558</GUID>
+        </Item>
+        <Item>
+          <GUID>190886</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bronze Age Exhibition</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21934</LineID>
+    </Text>
+    <FactoryUpgrade />
+    <BuildingUpgrade />
+    <Buff />
+    <CultureUpgrade>
+      <AttractivenessUpgrade>
+        <Value>2</Value>
+      </AttractivenessUpgrade>
+    </CultureUpgrade>
+    <ModuleOwnerUpgrade />
+    <IncidentInfectableUpgrade />
+  </Values>
+</Asset>

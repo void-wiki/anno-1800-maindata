@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>This bloodshed is needless.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10537</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223022</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253439</GUID>
+      <Name>AT_ai04_NpcOffersCeasefire1</Name>
+    </Standard>
+  </Values>
+</Asset>

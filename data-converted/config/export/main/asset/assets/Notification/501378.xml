@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501378</GUID>
+      <Name>NewBuildingsUnlocked Notification</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_unlock.png</IconFilename>
+      <ID>NewBuildingUnlockedNotification</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501379</IconAsset>
+            <FilterType>System</FilterType>
+            <Infotip>0</Infotip>
+            <HasJumpLocation>0</HasJumpLocation>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>16991</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <IsUnique>1</IsUnique>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

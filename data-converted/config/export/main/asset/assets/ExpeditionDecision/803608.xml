@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803608</GUID>
+      <Name>Lianas 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistWithAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A deadly conundrum.&lt;/b&gt; The unfortunate victim tries pulling different strands until one has an effect. The tangle of vegetation falls away but for a loop around the neck, which, only closing after a few seconds of freefall, &lt;b&gt;results in instant death.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32976</LineID>
+    </Text>
+  </Values>
+</Asset>

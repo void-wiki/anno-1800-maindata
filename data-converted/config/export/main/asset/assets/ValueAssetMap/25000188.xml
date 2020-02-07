@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>25000188</GUID>
+      <Name>Satisfaction to Threshold Text Mapping</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <Asset>100347</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.3</ValidFrom>
+          <Asset>100346</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>0.7</ValidFrom>
+          <Asset>100345</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

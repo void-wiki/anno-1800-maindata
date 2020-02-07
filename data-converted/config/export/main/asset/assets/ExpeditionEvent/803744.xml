@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>803744</GUID>
+      <Name>Permit A38</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Permit A38</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthernEurope;NorthAmerica;SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;NorthernNorthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800029</EventThreat>
+      <StartDecision>803745</StartDecision>
+      <EventMusicChoice>226706</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/temperate_a.bk2</EventVideo>
+      <EventVideoSounds>
+        <Item>
+          <Event>226680</Event>
+        </Item>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

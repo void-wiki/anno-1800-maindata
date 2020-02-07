@@ -1,0 +1,23 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193164</GUID>
+      <Name>Blake Legendary Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192651</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192656</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192671</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

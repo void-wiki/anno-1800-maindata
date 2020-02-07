@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204666</GUID>
+      <Name>Play_AI_NEWDL_OD3_QBP_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>5170</DurationMinimum>
+          <DurationMaximum>5973</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>5571</DurationMinimum>
+          <DurationMaximum>6053</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>7160</DurationMinimum>
+          <DurationMaximum>9450</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4829</DurationMinimum>
+          <DurationMaximum>5096</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1926642477</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

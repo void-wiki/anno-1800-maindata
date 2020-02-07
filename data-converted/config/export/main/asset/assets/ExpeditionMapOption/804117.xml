@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>804117</GUID>
+      <Name>Map Event B 1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>river</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>804118</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>400</OptionPosX>
+      <OptionPosY>400</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path14.png</PathSegment>
+      <PathPosX>400</PathPosX>
+      <PathPosY>400</PathPosY>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

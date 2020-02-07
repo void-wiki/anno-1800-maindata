@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>115008</GUID>
+      <Name>Heating HeaterNotWorking Notification</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_heating_center.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>115005</IconAsset>
+            <FilterType>Heating</FilterType>
+            <IsWarning>1</IsWarning>
+            <Infotip>0</Infotip>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>115007</NotificationText>
+            <NotificationBlockingTime>900000</NotificationBlockingTime>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <IsUnique>1</IsUnique>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265311</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

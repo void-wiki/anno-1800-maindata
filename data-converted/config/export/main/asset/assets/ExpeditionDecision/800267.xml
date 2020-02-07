@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800267</GUID>
+      <Name>The Ghost Ship 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;No relief at escaping the grotesque mound of corpses,&lt;/b&gt; can compensate the terrible thirst of your crew. There are murmurings that no such expedition can succeed if "gift horses always be looked in the mouth."</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5541</LineID>
+    </Text>
+  </Values>
+</Asset>

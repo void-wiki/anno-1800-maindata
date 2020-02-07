@@ -1,0 +1,49 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117100</GUID>
+      <Name>Pool_Explorer_QuestAccepted</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>115522</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115524</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115525</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115526</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115527</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115528</AudioText>
+        </Item>
+        <Item>
+          <AudioText>115531</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>1048537171</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

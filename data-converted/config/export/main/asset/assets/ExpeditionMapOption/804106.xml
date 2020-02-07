@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>804106</GUID>
+      <Name>Map Event A 1.2.1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>go south 4</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>804121</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>600</OptionPosX>
+      <OptionPosY>600</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path08.png</PathSegment>
+      <PathPosX>600</PathPosX>
+      <PathPosY>600</PathPosY>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

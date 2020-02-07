@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801050</GUID>
+      <Name>Dockyard Dupe 1.3.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"Get out, before we scratch you out!"&lt;/b&gt; growls the innkeeper, his true colours plain. It seems every surly thug in the port is on his side. The expedition must take this loss of time and equipment on the chin. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13129</LineID>
+    </Text>
+  </Values>
+</Asset>

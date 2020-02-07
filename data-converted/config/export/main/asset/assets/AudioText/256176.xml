@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I led you to water, why wouldn't you drink?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7469</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217987</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256176</GUID>
+      <Name>AT_ai03_NpcDeclinesPlayerProposalTooOften3</Name>
+    </Standard>
+  </Values>
+</Asset>

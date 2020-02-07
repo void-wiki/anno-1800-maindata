@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your donation request has expired.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17652</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234192</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265440</GUID>
+      <Name>AT_Narrator_Donations_Warning_DonationPleaExpired</Name>
+    </Standard>
+  </Values>
+</Asset>

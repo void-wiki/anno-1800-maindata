@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804015</GUID>
+      <Name>East coast</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>804016</InsertEvent>
+      <MapPath>
+        <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path15.png</PathSegment>
+        <PathPosX>20</PathPosX>
+        <PathPosY>-36</PathPosY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Free of the Iceberg,&lt;/b&gt; the crew manages to circumvent Labrador Island via its easterly shore. However they have found no trace of the lost expedition. You'll have to try the west coast.&lt;br/&gt;Sir John must have taken the risky option.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35282</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You have science, but no spirit.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12629</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230080</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261414</GUID>
+      <Name>AT_ai01_PlyrScienceNegative2</Name>
+    </Standard>
+  </Values>
+</Asset>

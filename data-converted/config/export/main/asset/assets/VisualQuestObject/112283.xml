@@ -1,0 +1,43 @@
+<Asset>
+  <Template>VisualQuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>112283</GUID>
+      <Name>SL203 - Wreckage La Corona Flagship - Visual Quest Object Sunken Treasure Rear</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/buildings/3rd_party/3rd_party_06_shipwrecks/3rd_party_03_shipwreck_la_corona_flagship/3rd_party_03_shipwreck_la_corona_flagship_rear.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <FeedbackController />
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <Walking>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+    </Walking>
+    <Infolayer />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Santíssima Vitória</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32505</LineID>
+    </Text>
+  </Values>
+</Asset>

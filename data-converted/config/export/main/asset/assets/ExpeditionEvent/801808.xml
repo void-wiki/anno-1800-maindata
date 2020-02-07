@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>801808</GUID>
+      <Name>The Infiltration</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The House of Pyr</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21179</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <StartDecision>801753</StartDecision>
+      <EventVideo>data/ui/video/expedition/campaign_02_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

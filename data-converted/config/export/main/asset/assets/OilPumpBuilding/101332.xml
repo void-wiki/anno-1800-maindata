@@ -1,0 +1,78 @@
+<Asset>
+  <Template>OilPumpBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>101332</GUID>
+      <Name>heavy_10_field (Oil Pump)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_oil_rig.png</IconFilename>
+      <InfoDescription>12658</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildModeRandomRotation>90</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>4000</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>6</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+          <Amount>8</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/heavy_10/heavy_10_module_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Oil Well</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11032</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>245758</Sound>
+        </Item>
+      </ActiveSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <Slot />
+    <AmbientMoodProvider />
+    <Attackable>
+      <MaximumHitPoints>500</MaximumHitPoints>
+    </Attackable>
+    <BuildingModule />
+  </Values>
+</Asset>

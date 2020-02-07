@@ -1,0 +1,33 @@
+<Asset>
+  <Template>TrafficFeedbackUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>141899</GUID>
+      <Name>Default Parade</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/crown_attacker.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackUnit>
+      <UnitType>ParadeTrain</UnitType>
+      <CfgPath>data/graphics/effects/city_incidents/party/empty_front_waggon.cfg</CfgPath>
+      <SpeedSource>Managed</SpeedSource>
+    </TrafficFeedbackUnit>
+    <Trailer>
+      <TrailerType>TrainDynamic</TrailerType>
+      <TrailerCount>7</TrailerCount>
+      <TrailerEndPartCfgVariations>
+        <Item>
+          <CfgVariation>data/graphics/effects/city_incidents/party/marching_band_drummer_pair.cfg</CfgVariation>
+        </Item>
+        <Item>
+          <CfgVariation>data/graphics/effects/city_incidents/party/marching_band_tuba_pair.cfg</CfgVariation>
+        </Item>
+        <Item>
+          <CfgVariation>data/graphics/units/wildlife/gorilla/gorilla.cfg</CfgVariation>
+        </Item>
+        <Item>
+          <CfgVariation>data/graphics/units/wildlife/goat/goat_male.cfg</CfgVariation>
+        </Item>
+      </TrailerEndPartCfgVariations>
+    </Trailer>
+  </Values>
+</Asset>

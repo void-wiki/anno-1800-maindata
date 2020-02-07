@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You've wowed Wibbly, you 'ave.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2324</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212610</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251282</GUID>
+      <Name>AT_ai03_PosiFeedbackToPlayer3</Name>
+    </Standard>
+  </Values>
+</Asset>

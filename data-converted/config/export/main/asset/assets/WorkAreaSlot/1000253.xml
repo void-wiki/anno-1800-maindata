@@ -1,0 +1,43 @@
+<Asset>
+  <Template>WorkAreaSlot</Template>
+  <Values>
+    <Standard>
+      <GUID>1000253</GUID>
+      <Name>slot mining workarea mountain</Name>
+      <ID>Workarea</ID>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/mining_02_slot_01/mining_02_slot_01.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Mesh>
+      <InitialVisibility>0</InitialVisibility>
+    </Mesh>
+    <Slot>
+      <SlotType>WorkAreaMountain</SlotType>
+      <AutoChangeVariation>1</AutoChangeVariation>
+      <SlotCategoryName>0</SlotCategoryName>
+      <WorkAreaPathSnapDummy>mining_mountain</WorkAreaPathSnapDummy>
+    </Slot>
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>slot mining workarea</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <RandomMapObject />
+    <Building />
+    <BezierPath>
+      <CreatedInPathEditor>0</CreatedInPathEditor>
+      <TransformOnlyStartPoint>1</TransformOnlyStartPoint>
+      <StartPositionDummyName>mining_mountain</StartPositionDummyName>
+    </BezierPath>
+  </Values>
+</Asset>

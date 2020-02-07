@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I am a wolf, and you, a sheep come to dinner.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1640</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211773</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250368</GUID>
+      <Name>AT_ai07_NpcMakesThreat1</Name>
+    </Standard>
+  </Values>
+</Asset>

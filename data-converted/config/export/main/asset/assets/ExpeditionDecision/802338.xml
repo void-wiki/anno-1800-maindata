@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802338</GUID>
+      <Name>Teeth of the Mountain 1.1.1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202349</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/south_america_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your diplomat finds common ground,&lt;/b&gt; although not what you might expect. It just so happens that these people are about to tuck in to a feast of human remains. Your diplomat reassures the expedition, "it is their practice to eat their loved ones when they die. Rather beautiful when you think about it." Nevertheless, your crew are rather pleased not to have to partake, and continue on their way.</Text>
+          <Status>Exported</Status>
+          <ExportCount>13</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20966</LineID>
+    </Text>
+  </Values>
+</Asset>

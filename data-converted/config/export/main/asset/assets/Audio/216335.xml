@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>216335</GUID>
+      <Name>Play_AI_DRYARTUR_BASIC_YLS_00001_01ARTUR_6225</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1226</DurationMinimum>
+          <DurationMaximum>1226</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2304</DurationMinimum>
+          <DurationMaximum>2304</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1465</DurationMinimum>
+          <DurationMaximum>1465</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1246</DurationMinimum>
+          <DurationMaximum>1246</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1211396216</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

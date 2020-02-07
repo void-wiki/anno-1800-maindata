@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Better you undergo this procedure without anaesthetic.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30639</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204101</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>110009</GUID>
+      <Name>AT_ai10_NpcDestroysPlyrStructure2</Name>
+    </Standard>
+  </Values>
+</Asset>

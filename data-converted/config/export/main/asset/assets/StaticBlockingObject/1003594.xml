@@ -1,0 +1,26 @@
+<Asset>
+  <Template>StaticBlockingObject</Template>
+  <Values>
+    <Standard>
+      <GUID>1003594</GUID>
+      <Name>Disabled Water Blocker 10x10</Name>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/ice_blocker.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Blocking>
+      <HidePropsRadius>-20</HidePropsRadius>
+      <DeletePropsRadius>-20</DeletePropsRadius>
+      <DisableBlockingByDefault>1</DisableBlockingByDefault>
+    </Blocking>
+  </Values>
+</Asset>

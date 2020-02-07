@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802038</GUID>
+      <Name>Tavern Troubles 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your sailors apologize through gritted teeth.&lt;/b&gt; Pleased by their groveling, the thugs do not pester them anymore, yet the heavy stares of the other clients push your crew to leave the tavern. Next time, they will show them. Next time.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21741</LineID>
+    </Text>
+  </Values>
+</Asset>

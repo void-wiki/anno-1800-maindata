@@ -1,0 +1,65 @@
+<Asset>
+  <BaseAssetGUID>100439</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>103038</GUID>
+      <Name>QO Frigate (Military) - Alonso - Cupids Arrow 1</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking>
+      <Acceleration>0.125</Acceleration>
+      <TurnSpeed>0.01</TurnSpeed>
+      <ForwardSpeed>0.05</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Warlord Esau's Ship</Text>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31492</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable />
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable>
+      <CraftingTime>150000</CraftingTime>
+    </Craftable>
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

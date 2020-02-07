@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I am suddenly violent!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1836</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211531</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250624</GUID>
+      <Name>AT_ai07_NpcAttacksPlayer5</Name>
+    </Standard>
+  </Values>
+</Asset>

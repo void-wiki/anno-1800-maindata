@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Are you crazy? No! We see this through! And stop calling me Tanya, I’m Bente— stay in character!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16783</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232937</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_06</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266417</GUID>
+      <Name>AT_ai01_Credits03</Name>
+    </Standard>
+  </Values>
+</Asset>

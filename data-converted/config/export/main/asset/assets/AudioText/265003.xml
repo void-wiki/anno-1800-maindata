@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>However much we despise Uncle Edvard, it's criminal to go opening his private correspondence!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15510</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232218</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265003</GUID>
+      <Name>advisor_01_EdvardsPrisoners_03</Name>
+    </Standard>
+  </Values>
+</Asset>

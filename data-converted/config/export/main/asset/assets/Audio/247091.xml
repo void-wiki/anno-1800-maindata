@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>247091</GUID>
+      <Name>wwe_wwc_sfx_bld_inuit_husky</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2000</DurationMinimum>
+          <DurationMaximum>5267</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>30</MaxAttenuation>
+      <SoundEventType>SmallHerd</SoundEventType>
+      <OneShotCluster>1</OneShotCluster>
+      <OneShotClusterRange>5</OneShotClusterRange>
+      <OneShotClusterSuppressLength>240000</OneShotClusterSuppressLength>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1217844650</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

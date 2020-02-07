@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Old pal, you don't find it strange they keep the recipe for sausage so secret?! </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12974</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229504</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261121</GUID>
+      <Name>AT_advisor_02_IdleMessageSelf2</Name>
+    </Standard>
+  </Values>
+</Asset>

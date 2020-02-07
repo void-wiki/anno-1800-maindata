@@ -1,0 +1,17 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>142582</GUID>
+      <Name>UniversitySpecial</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>142581</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>Listen;Greet;Talk;Protest;Cheer;MobJoining;DangerAvoiding;DummyTalk;DummyTrade;DummyVanish;DummyLayDown;DummyPray;DummyCelebrate;DummyReact;DummySit</AllowedReactions>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

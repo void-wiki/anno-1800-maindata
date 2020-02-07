@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802370</GUID>
+      <Name>The Mayan Map 1.2.1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202347</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/navigation_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192041</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your cavers triumph!&lt;/b&gt; The clammy confinement of the place is hard to negotiate at first, but your crawlers never lose their sense of direction, pushing forward on their tummies until a fresh breeze tingles. "There! A city!" The cavern opens out to an extensive underground ruin, preserved by the clay. El Doodah or no, there are no doubt some remarkable finds to be made!     </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20990</LineID>
+    </Text>
+  </Values>
+</Asset>

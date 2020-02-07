@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802508</GUID>
+      <Name>The Storm 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A move too bold.&lt;/b&gt; Timing the anchor's release to the yawing of the ship takes more competence and composure than your crew has: the iron cross is dropped as the ship rolls to the opposite side of the anchor's hawsehole and, instead of driving the ship back to a steady position, the anchor grinds against the flank and tears planks and railings as it falls. The waves do the rest. When the storm finally recedes, the ship is adrift, its flank gutted.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21790</LineID>
+    </Text>
+  </Values>
+</Asset>

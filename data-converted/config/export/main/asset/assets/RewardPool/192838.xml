@@ -1,0 +1,33 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192838</GUID>
+      <Name>Specialists - Europe and SA Goods - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190648</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191429</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>191582</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190759</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190742</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190696</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

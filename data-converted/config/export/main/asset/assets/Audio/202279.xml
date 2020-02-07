@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>202279</GUID>
+      <Name>wwe_sfx_bld_harbor_03_crane_pulley_up</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4649</DurationMinimum>
+          <DurationMaximum>8695</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4649</DurationMinimum>
+          <DurationMaximum>8695</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4649</DurationMinimum>
+          <DurationMaximum>8695</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>4649</DurationMinimum>
+          <DurationMaximum>8695</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>15</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1749740338</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,21 @@
+<Template>
+  <Name>SimpleVehicle</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Selection>
+      <Selectable>0</Selectable>
+    </Selection>
+    <Walking>
+      <TurnSpeed>75</TurnSpeed>
+    </Walking>
+    <Text />
+    <SoundEmitter />
+    <MinimapToken />
+  </Properties>
+</Template>

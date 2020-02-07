@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>212626</GUID>
+      <Name>Play_AI_DRYWILLI_BASIC_YLS_00002_01WILLI_2400</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>763</DurationMinimum>
+          <DurationMaximum>763</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>950</DurationMinimum>
+          <DurationMaximum>950</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>723</DurationMinimum>
+          <DurationMaximum>723</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>558</DurationMinimum>
+          <DurationMaximum>558</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>15795748</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

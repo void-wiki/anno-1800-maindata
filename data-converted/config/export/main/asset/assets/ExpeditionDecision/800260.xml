@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800260</GUID>
+      <Name>The Ghost Ship 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800262</Option>
+        </Item>
+        <Item>
+          <Option>800263</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ship's hold contains an unholy mound&lt;/b&gt; of corpses. "God hath forsaken these men", says the doctor, "but how?"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5535</LineID>
+    </Text>
+  </Values>
+</Asset>

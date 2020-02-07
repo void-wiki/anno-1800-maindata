@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Rattle the cage! No-one can hear you. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8696</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>220424</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257370</GUID>
+      <Name>AT_ai08_NpcRebuffsPlayerThreat1</Name>
+    </Standard>
+  </Values>
+</Asset>

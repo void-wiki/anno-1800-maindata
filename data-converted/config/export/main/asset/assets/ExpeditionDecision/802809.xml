@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802809</GUID>
+      <Name>Taken In Broken Out 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802812</Option>
+        </Item>
+        <Item>
+          <Option>802813</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;An attempt way beyond their ability.&lt;/b&gt; Two sailors put on the guards' uniforms and lead the crew through the prison, until legitimate guards stop them and enquire about the strange cortege. The disguised men's fidgety attitude and suspiciously foreign accent is enough to convince the wardens to check their original cell: the bodies are found and with them comes the heavy charge of murder. The following day, the trial is held.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22017</LineID>
+    </Text>
+  </Values>
+</Asset>

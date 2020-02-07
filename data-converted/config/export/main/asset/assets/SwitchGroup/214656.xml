@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>214656</GUID>
+      <Name>SW_global_timer_rooster</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>214654</Choice>
+        </Item>
+        <Item>
+          <Choice>214655</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>723490704</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

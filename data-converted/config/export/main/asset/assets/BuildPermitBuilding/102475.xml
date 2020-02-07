@@ -1,0 +1,51 @@
+<Asset>
+  <Template>BuildPermitBuilding</Template>
+  <Values>
+    <Standard>
+      <GUID>102475</GUID>
+      <Name>culture_2x2_tower</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/monument_01_tower_01.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>World Fair Tower</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23402</LineID>
+    </Text>
+    <Blocking>
+      <HidePropsRadius>0</HidePropsRadius>
+      <DeletePropsRadius>0</DeletePropsRadius>
+    </Blocking>
+    <Building>
+      <BuildingCategoryName>22393</BuildingCategoryName>
+      <BuildModeRandomRotation>90</BuildModeRandomRotation>
+    </Building>
+    <Cost />
+    <Selection />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/ornamental/monument_01_system/monument_01_tower_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable>
+      <ConstructionMode>ConstructionItem</ConstructionMode>
+    </Constructable>
+    <Mesh />
+    <SoundEmitter />
+    <Locked />
+    <FeedbackController />
+    <Ornament>
+      <OrnamentUnit>4</OrnamentUnit>
+      <OrnamentDescritpion>17740</OrnamentDescritpion>
+    </Ornament>
+    <AmbientMoodProvider />
+    <Pausable />
+    <BuildPermit />
+  </Values>
+</Asset>

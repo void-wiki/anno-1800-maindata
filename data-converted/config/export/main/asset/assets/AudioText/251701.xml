@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Damsel in distress fear not, your hero approaches astride his steed! </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2651</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231548</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251701</GUID>
+      <Name>AT_ai03_PlayerInvokesAlliance1</Name>
+    </Standard>
+  </Values>
+</Asset>

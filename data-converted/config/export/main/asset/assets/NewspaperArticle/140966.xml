@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140966</GUID>
+      <Name>Expedition Started</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11269</Headline>
+      <Subline>11270</Subline>
+      <Image>142134</Image>
+      <Category>Expeditions</Category>
+      <NewsPriority>
+        <StartValue>300</StartValue>
+        <LossOnPublish>300</LossOnPublish>
+        <Maximum>400</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

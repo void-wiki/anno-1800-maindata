@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>6000033</GUID>
+      <Name>VehicleActionItem Tow</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tow Test Item</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <HasAction>1</HasAction>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>DRAG</ItemAction>
+      <ActionTarget>2001893</ActionTarget>
+      <ActionScope>Target</ActionScope>
+    </ItemAction>
+    <ExpeditionAttribute />
+    <SpecialAction />
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

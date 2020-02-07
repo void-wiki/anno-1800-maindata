@@ -1,0 +1,117 @@
+<Template>
+  <Name>A7_QuestDivingBellGeneric</Name>
+  <Properties>
+    <Standard />
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <NotificationTextFemale>112968</NotificationTextFemale>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>112969</NotificationText>
+              <IsUnique>1</IsUnique>
+            </BaseNotification>
+            <NotificationSubtitle />
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>39</QuestGiver>
+      <QuestCategory>SunkenTreasureQuest</QuestCategory>
+      <QuestActivation>ManualActivation</QuestActivation>
+      <IsAbortable>1</IsAbortable>
+      <NeededProgressLevel>EarlyGame;EarlyMidGame;MidGame;LateMidGame;LateGame;EndGame</NeededProgressLevel>
+      <QuestTrackerVisibility>Global</QuestTrackerVisibility>
+      <ConfirmOnReached>1</ConfirmOnReached>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_questbook_sunken_treasures.png</QuestBookBackground>
+      <QuestHints>
+        <Item>
+          <Text>113368</Text>
+        </Item>
+        <Item>
+          <Text>113369</Text>
+        </Item>
+      </QuestHints>
+      <HasStarterSpeechBubble>1</HasStarterSpeechBubble>
+      <StarterSpeechBubble>
+        <Template>ConditionTutorialInteraction</Template>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintType>Object</HintType>
+            <TutorialConditionType>Selected</TutorialConditionType>
+            <HintAnchor>BottomRight</HintAnchor>
+            <OnlyShowOnQuestObjects>1</OnlyShowOnQuestObjects>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+          </VectorElement>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>DivingBellObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>112526</TextCombinedContextValue>
+                <ObjectiveSignsAndFeedback>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ConditionObjectiveSignsAndFeedback>
+                      <Infolayer>112944</Infolayer>
+                    </ConditionObjectiveSignsAndFeedback>
+                  </Values>
+                </ObjectiveSignsAndFeedback>
+              </ConditionQuestObjective>
+              <ConditionQuestDivingBell>
+                <SpawnedTreasureGround>112527</SpawnedTreasureGround>
+              </ConditionQuestDivingBell>
+              <SpawnArea>
+                <SpawnContext>Area</SpawnContext>
+                <SpawnAreaType>Water_01</SpawnAreaType>
+                <SpreadObjects>1</SpreadObjects>
+                <DistanceToContext>1</DistanceToContext>
+                <MinObjectDistance>5</MinObjectDistance>
+                <MaxObjectDistance>10</MaxObjectDistance>
+              </SpawnArea>
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectStarterObject</Template>
+                  <Values>
+                    <ConditionScanner />
+                    <ConditionObjectStarterObject />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </ExecutionPlace>
+                <ExecutionPlaceText>12972</ExecutionPlaceText>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional />
+  </Properties>
+</Template>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You'll soon be back here before a firing squad!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1873</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211525</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250661</GUID>
+      <Name>AT_ai07_PlyrSelectsNpcBuildingAtWar2</Name>
+    </Standard>
+  </Values>
+</Asset>

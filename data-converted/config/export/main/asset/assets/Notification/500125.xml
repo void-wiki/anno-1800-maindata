@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500125</GUID>
+      <Name>FirstVisitorsArrivalNotification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501357</IconAsset>
+            <NotificationSideTitle>2442</NotificationSideTitle>
+            <FilterType>VisitorsAndCulture</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>2441</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationGroup>Visitors</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14620</GUID>
+      <Name>SL - Military Island War Defense Lost - Bad</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The enemy has captured [Newspaper FindArticle([RefGuid]) Context TownName], putting an end to our brave, but ultimately futile resistance. The local residents will have no choice but to swear allegaince with their new masters now.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18729</LineID>
+    </Text>
+  </Values>
+</Asset>

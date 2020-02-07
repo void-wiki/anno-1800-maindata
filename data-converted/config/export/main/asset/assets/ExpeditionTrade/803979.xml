@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionTrade</Template>
+  <Values>
+    <Standard>
+      <GUID>803979</GUID>
+      <Name>Inuit settlement 1.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>They were strange men. Who doesn't want to eat when they've been out in the cold...?</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35260</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <AvailableItems>
+        <Item>
+          <Item>114637</Item>
+          <Amount>1</Amount>
+        </Item>
+      </AvailableItems>
+      <TraderName>22351</TraderName>
+      <FollowupSuccessOption>803983</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>803984</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <TradeValues>
+          <Item>
+            <Item>114637</Item>
+            <TradeValue>500</TradeValue>
+          </Item>
+        </TradeValues>
+        <SuccessTradeValue>500</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

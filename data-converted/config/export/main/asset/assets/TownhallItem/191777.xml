@@ -1,0 +1,69 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191777</GUID>
+      <Name>Small Alcohol Restriction</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_book_comon.png</IconFilename>
+      <InfoDescription>19478</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Teetotalers Manifesto</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26977</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <ExclusiveGroup>AlcoholAct</ExclusiveGroup>
+      <TradePrice>18600</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <ResidenceUpgrade>
+      <AdditionalHappiness>-2</AdditionalHappiness>
+      <GoodConsumptionUpgrade>
+        <Item>
+          <ProvidedNeed>1010257</ProvidedNeed>
+          <AmountInPercent>-20</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010214</ProvidedNeed>
+          <AmountInPercent>-20</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010216</ProvidedNeed>
+          <AmountInPercent>-20</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>120016</ProvidedNeed>
+          <AmountInPercent>-20</AmountInPercent>
+        </Item>
+      </GoodConsumptionUpgrade>
+    </ResidenceUpgrade>
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

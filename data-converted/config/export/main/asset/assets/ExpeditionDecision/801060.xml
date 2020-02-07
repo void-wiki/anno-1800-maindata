@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801060</GUID>
+      <Name>Dockyard Dupe 1.4.2.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There's widespread frustration among the crew.&lt;/b&gt; "Those instruments were vital for my research!", "You let the beggars off scot free?!", "This expedition is an embarrassment!" Hard to argue with their assessment, and bad for morale.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13139</LineID>
+    </Text>
+  </Values>
+</Asset>

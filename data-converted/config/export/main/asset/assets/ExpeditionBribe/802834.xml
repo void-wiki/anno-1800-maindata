@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>802834</GUID>
+      <Name>Taken In Broken Out 1.2.1.1.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The judges give your captain a stern look.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29598</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>17274</TraderName>
+      <FollowupSuccessOption>802835</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802836</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>7500</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

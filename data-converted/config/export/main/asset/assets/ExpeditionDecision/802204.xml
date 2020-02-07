@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802204</GUID>
+      <Name>The Amazons 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802205</Option>
+        </Item>
+        <Item>
+          <Option>802206</Option>
+        </Item>
+        <Item>
+          <Option>802207</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The splendid warriors are all women.&lt;/b&gt; Exploring this deserted settlement, which appears to have been the scene of a revolt, seemed a good opportunity for some looting, but your crew aren't the only ones to have had the idea. As they pass the barricades of barrels, tables and chairs, they happen upon a group of warriors, not a man among them. Indeed, the long-trousered women assume a defensive formation so fluently, it's possible they are more than human.</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20912</LineID>
+    </Text>
+  </Values>
+</Asset>

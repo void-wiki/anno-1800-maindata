@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204678</GUID>
+      <Name>Play_AI_NEWDL_WIJ_F55DE_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>3013</DurationMinimum>
+          <DurationMaximum>6827</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>3088</DurationMinimum>
+          <DurationMaximum>6956</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2836</DurationMinimum>
+          <DurationMaximum>4946</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3355</DurationMinimum>
+          <DurationMaximum>5500</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3669725113</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

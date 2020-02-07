@@ -1,0 +1,55 @@
+<Asset>
+  <Template>Collectable</Template>
+  <Values>
+    <Collectable>
+      <PickupCursor>2001028</PickupCursor>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>Default</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/buildings/3rd_party/3rd_party_06_shipwrecks/3rd_party_03_shipwreck_la_corona/3rd_party_06_shipwreck_with_sails.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>113365</GUID>
+      <Name>SL202 - Wreckage Richardsons Ship</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_wreckage.png</IconFilename>
+    </Standard>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Walking>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Wreckage of the HMS Ajax</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32506</LineID>
+    </Text>
+    <Infolayer />
+    <MinimapToken />
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+  </Values>
+</Asset>

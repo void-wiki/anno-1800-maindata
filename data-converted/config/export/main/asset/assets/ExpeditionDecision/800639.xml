@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800639</GUID>
+      <Name>A Grizzly Encounter 1.4.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Even the most hardened sailors find the smell unbearable.&lt;/b&gt; Not to mention the indignity of covering oneself in bear excrement for longer than is perfectly necessary. Eventually though the bears depart, leaving the reeking crew free to have a much-needed wash. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5725</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803611</GUID>
+      <Name>Giant Hogweed 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803612</Option>
+        </Item>
+        <Item>
+          <Option>803614</Option>
+        </Item>
+        <Item>
+          <Option>803624</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Vampirical injuries!?&lt;/b&gt; The path through the forest was barely visible beneath the lush vegetation. It isn't until they emerge from the pleasant shade of the trees that sunlight falls upon the crew, swelling up the skin of a few crew members with red rashes and throbbing blisters. Surely there must be a scientific explanation to their sudden photophobia...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33225</LineID>
+    </Text>
+  </Values>
+</Asset>

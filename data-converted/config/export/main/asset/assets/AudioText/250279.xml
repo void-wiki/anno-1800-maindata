@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Good, then you know where the door is.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1577</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211637</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250279</GUID>
+      <Name>AT_ai07_WelcomeToPlayer7</Name>
+    </Standard>
+  </Values>
+</Asset>

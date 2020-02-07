@@ -1,0 +1,42 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>113810</GUID>
+      <Name>BuyShipRequestNotification_OldNate</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <CharacterNotification>
+            <ThirdpartyNotificationButtons>
+              <Item>
+                <Infotip>500658</Infotip>
+                <Icon>500109</Icon>
+                <Command>[NotificationContext Value(Ship) Object Sellable BuyNet([NotificationContext Value(PlayerIndex) Int])]</Command>
+                <ActiveCallback>[NotificationContext Value(Ship) Object Sellable AffordableByCurrentParticipant]</ActiveCallback>
+              </Item>
+              <Item>
+                <Infotip>500663</Infotip>
+                <Icon>500108</Icon>
+                <Command>[NotificationContext Value(Trader) Object Trader ShipTradeFailed([NotificationContext Value(PlayerIndex) Int])]</Command>
+              </Item>
+            </ThirdpartyNotificationButtons>
+          </CharacterNotification>
+          <BaseNotification>
+            <NotificationText>10816</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>700</NotificationPriority>
+            <NotificationMinDisplayTime>30000</NotificationMinDisplayTime>
+            <NotificationGroup>PlayerClick</NotificationGroup>
+            <IsUnique>1</IsUnique>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>269041</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

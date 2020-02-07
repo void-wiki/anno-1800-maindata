@@ -1,0 +1,36 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>101046</GUID>
+      <Name>Sunshades</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/props/decoration/sunshade_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/decoration/sunshade_02.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/decoration/sunshade_03.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/decoration/sunshade_04.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/decoration/sunshade_05.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/decoration/sunshade_06.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/props/decoration/sunshade_07.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop />
+  </Values>
+</Asset>

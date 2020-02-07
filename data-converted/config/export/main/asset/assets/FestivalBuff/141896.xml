@@ -1,0 +1,61 @@
+<Asset>
+  <Template>FestivalBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>141896</GUID>
+      <Name>BeerFestivalResidencesBuff</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_beer_2.png</IconFilename>
+      <InfoDescription>20111</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Beer Festival</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>25925</LineID>
+    </Text>
+    <PopulationUpgrade />
+    <ResidenceUpgrade>
+      <AdditionalHappiness>25</AdditionalHappiness>
+      <GoodConsumptionUpgrade>
+        <Item>
+          <ProvidedNeed>1010216</ProvidedNeed>
+          <AmountInPercent>-100</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010214</ProvidedNeed>
+          <AmountInPercent>-100</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010257</ProvidedNeed>
+          <AmountInPercent>-100</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>120016</ProvidedNeed>
+          <AmountInPercent>-100</AmountInPercent>
+        </Item>
+      </GoodConsumptionUpgrade>
+    </ResidenceUpgrade>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190762</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <Buff />
+    <CultureUpgrade />
+    <KontorUpgrade />
+    <AttackableUpgrade />
+    <AttackerUpgrade />
+    <BuildingUpgrade />
+    <FactoryUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <VisitorHarborUpgrade />
+    <VisitorUpgrade />
+  </Values>
+</Asset>

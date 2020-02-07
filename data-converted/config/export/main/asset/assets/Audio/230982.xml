@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>230982</GUID>
+      <Name>Play_AI_DRYNEWAR_IFV_EN3NJ_00001_01NEWAR_13585</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1002</DurationMinimum>
+          <DurationMaximum>1002</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>900</DurationMinimum>
+          <DurationMaximum>900</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>955</DurationMinimum>
+          <DurationMaximum>955</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>823</DurationMinimum>
+          <DurationMaximum>823</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>353930296</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

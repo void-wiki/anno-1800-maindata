@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>114284</GUID>
+      <Name>ArcticQ202 Fighting the Cold Objective01</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sustain [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]% of [AssetData([Conditions QuestCondition Context]) Text] supply for [Conditions QuestCondition TimeLimit &gt;&gt; time]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34415</LineID>
+    </Text>
+  </Values>
+</Asset>

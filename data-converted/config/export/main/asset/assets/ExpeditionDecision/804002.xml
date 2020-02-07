@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804002</GUID>
+      <Name>Wall of Ice 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804014</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Nothing in nature can prevail against human endeavour,&lt;/b&gt; it would seem. The crew watch with trepidation as the fuses burn down to the stick, before an ear-splitting series of detonations rings across the vastness, sundering the icy claws that had held your ship hostage. A small blizzard of debris blankets the deck, to the delight of all aboard, for they are free once more!</Text>
+          <Status>Exported</Status>
+          <ExportCount>9</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35269</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>20491</GUID>
+      <Name>InputBenefitHappiness(FestivalBuff3)</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_smiley.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Happiness by [AssetData([ItemAssetData([AreaManager AreaFestival BuffGuids AT(3) Text]) InputBenefitModifierProduct(index)]) Text]</Text>
+          <Status>ToBeDeleted</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29057</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800671</GUID>
+      <Name>The Seven-Year Itch 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800673</Option>
+        </Item>
+        <Item>
+          <Option>800674</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The red welts seem to perplex the doctor.&lt;/b&gt; "There is evidence of the parasitic," he splutters as he peers through his magnifying glass, "but then it could be nothing at all!"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5757</LineID>
+    </Text>
+  </Values>
+</Asset>

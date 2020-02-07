@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Ordinary weapons will not work on me.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7918</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217727</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255926</GUID>
+      <Name>AT_enemy_02_MilitaryPlayerNegative4</Name>
+    </Standard>
+  </Values>
+</Asset>

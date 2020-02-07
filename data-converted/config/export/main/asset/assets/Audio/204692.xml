@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204692</GUID>
+      <Name>Play_AI_ARTIS_IFV_JR4_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3342</DurationMinimum>
+          <DurationMaximum>4128</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>3379</DurationMinimum>
+          <DurationMaximum>3724</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>2453</DurationMinimum>
+          <DurationMaximum>3392</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3039</DurationMinimum>
+          <DurationMaximum>4203</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1231622482</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

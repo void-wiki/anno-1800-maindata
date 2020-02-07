@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>111256</GUID>
+      <Name>Tree Cypress Moderate 03</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc01/graphics/props/terrain_props/vegetation/trees/moderate/cypress_tree_03.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop>
+      <HerdBlocking>PassableWhenSparse</HerdBlocking>
+      <VegetationType>Tree</VegetationType>
+    </Prop>
+  </Values>
+</Asset>

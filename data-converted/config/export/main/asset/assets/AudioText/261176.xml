@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A terrible shame, what happened to your father, dear child.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13020</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230398</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261176</GUID>
+      <Name>AT_enemy02_WelcomeCampaign</Name>
+    </Standard>
+  </Values>
+</Asset>

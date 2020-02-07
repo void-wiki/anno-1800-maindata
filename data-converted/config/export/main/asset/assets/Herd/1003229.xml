@@ -1,0 +1,45 @@
+<Asset>
+  <Template>Herd</Template>
+  <Values>
+    <Standard>
+      <GUID>1003229</GUID>
+      <Name>Herd Wisent</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cattle.png</IconFilename>
+      <ID>Earth_Herd_Land_6</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_wisent.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <Herd>
+      <StandTogetherRadius>4</StandTogetherRadius>
+    </Herd>
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/wisent/wisent.cfg</AnimalCFG>
+          <RelativeProbability>60</RelativeProbability>
+        </Item>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/wisent/wisent_02.cfg</AnimalCFG>
+          <RelativeProbability>40</RelativeProbability>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_AmbientZones>North;South</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>5</UnitCountMin>
+      <UnitCountMax>8</UnitCountMax>
+      <AutoSpawn_RelativeProbability>20</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>235801</Animal_AudioLoop>
+      <ScaleFactor>0.8</ScaleFactor>
+    </AnimalBase>
+  </Values>
+</Asset>

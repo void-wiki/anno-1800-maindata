@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I know you. This isn't you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11048</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222357</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260155</GUID>
+      <Name>AT_advisor02_NegFeedbackToPlayer5</Name>
+    </Standard>
+  </Values>
+</Asset>

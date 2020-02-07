@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I don't know about you, but my father would never have betrayed his Queen!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17131</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233482</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>4</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266743</GUID>
+      <Name>AT_Advisor01_movie05_02</Name>
+    </Standard>
+  </Values>
+</Asset>

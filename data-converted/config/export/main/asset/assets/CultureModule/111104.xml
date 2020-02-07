@@ -1,0 +1,87 @@
+<Asset>
+  <Template>CultureModule</Template>
+  <Values>
+    <Standard>
+      <GUID>111104</GUID>
+      <Name>C03_M06_empty</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_botanic_garden_module.png</IconFilename>
+      <InfoDescription>111085</InfoDescription>
+    </Standard>
+    <Building>
+      <BuildingCategoryName>2499</BuildingCategoryName>
+      <PickingAsset>111104</PickingAsset>
+      <BuildModeRandomRotation>180</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>500</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+      <InfluenceCostType>BotanicModule</InfluenceCostType>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/public/cultural_02/cultural_02_module_06/cultural_02_module_06.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <Colors>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Empty Plot</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33181</LineID>
+    </Text>
+    <Constructable />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+    </Locked>
+    <SoundEmitter />
+    <FeedbackController />
+    <Infolayer />
+    <BuildingModule>
+      <PlazaSize>20</PlazaSize>
+      <ModuleMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_botanica.png</ModuleMoodImage>
+    </BuildingModule>
+    <ItemContainer>
+      <SocketAllocation>Culture;BotanicGarden</SocketAllocation>
+      <SocketSound>203866</SocketSound>
+      <UnsocketSound>9818755</UnsocketSound>
+    </ItemContainer>
+    <Attackable>
+      <HasRuinState>1</HasRuinState>
+      <SelfHealPerHealTick>4</SelfHealPerHealTick>
+    </Attackable>
+    <QuestObject />
+    <AmbientMoodProvider />
+  </Values>
+</Asset>

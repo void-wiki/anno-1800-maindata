@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Jorgensen Trustees are uneasy about the future of the island.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2957</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211457</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251846</GUID>
+      <Name>AT_ai01_PlyrBuyoutFromNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

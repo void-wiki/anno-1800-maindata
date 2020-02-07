@@ -1,0 +1,85 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>112388</GUID>
+      <Name>A NATE-omic Bomb</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/machine_items/icon_rotating_rifle_3.png</IconFilename>
+      <ID>ITEM_DLC1_18</ID>
+      <InfoDescription>112511</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Evil ExsanguiN8r</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32347</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>683500</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>191443</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>40</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>112511</FluffText>
+    </ExpeditionAttribute>
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade>
+      <BaseDamageUpgrade>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <AttackSpeedUpgrade>50</AttackSpeedUpgrade>
+    </AttackerUpgrade>
+    <VisitorHarborUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <DLCDependency>410040</DLCDependency>
+    </Locked>
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade />
+    <KontorUpgrade />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>112523</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010223</Product>
+          <Amount>10</Amount>
+        </Item>
+        <Item>
+          <Product>1010232</Product>
+          <Amount>10</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <PierUpgrade />
+  </Values>
+</Asset>

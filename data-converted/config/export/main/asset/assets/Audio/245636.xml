@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245636</GUID>
+      <Name>Play_AI_NEW3_EBBMI_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4732</DurationMinimum>
+          <DurationMaximum>6426</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4476</DurationMinimum>
+          <DurationMaximum>7297</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3509</DurationMinimum>
+          <DurationMaximum>5596</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>4586</DurationMinimum>
+          <DurationMaximum>6494</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3433494793</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

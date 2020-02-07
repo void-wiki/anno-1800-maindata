@@ -1,0 +1,50 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>192109</GUID>
+      <Name>Multishot-Mortar</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ship_military/icon_mortar.png</IconFilename>
+      <InfoDescription>15951</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>192097</Projectile>
+      <BarrageCount>7</BarrageCount>
+      <BarrageDuration>5000</BarrageDuration>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>80</ActionDistance>
+      <ActionCooldown>90000</ActionCooldown>
+      <ActionDescription>17343</ActionDescription>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <Rarity>Legendary</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>90000</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Multishot-Mortar</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>10</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>10</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

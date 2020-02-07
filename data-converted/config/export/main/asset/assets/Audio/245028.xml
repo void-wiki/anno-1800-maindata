@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245028</GUID>
+      <Name>Play_AI_DRYEXPLO_IFV_J10ST_00002_01EXPLO_34130</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1600</DurationMinimum>
+          <DurationMaximum>1600</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2239</DurationMinimum>
+          <DurationMaximum>2239</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1222</DurationMinimum>
+          <DurationMaximum>1222</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1570</DurationMinimum>
+          <DurationMaximum>1570</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4111118880</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

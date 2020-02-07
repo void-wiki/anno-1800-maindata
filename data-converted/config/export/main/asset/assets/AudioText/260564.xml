@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There's no electric!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11271</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223735</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260564</GUID>
+      <Name>AT_res_tier02_ProductionHasNoElectricity1</Name>
+    </Standard>
+  </Values>
+</Asset>

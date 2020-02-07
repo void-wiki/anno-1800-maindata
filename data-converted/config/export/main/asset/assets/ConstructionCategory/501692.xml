@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501692</GUID>
+      <Name>sa city statues (category)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/cultural_props_1x1_10.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>102848</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>City Statues</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32433</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

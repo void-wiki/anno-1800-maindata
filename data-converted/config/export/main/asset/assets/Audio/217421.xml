@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>217421</GUID>
+      <Name>Play_AI_DRYELIBL_BASIC_YLS_00004_01ELIBL_7366</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>2705</DurationMinimum>
+          <DurationMaximum>2705</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2045</DurationMinimum>
+          <DurationMaximum>2045</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2114</DurationMinimum>
+          <DurationMaximum>2114</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>1961</DurationMinimum>
+          <DurationMaximum>1961</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1043017390</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

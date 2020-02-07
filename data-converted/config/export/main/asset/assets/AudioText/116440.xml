@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There! Long dead, but moving still.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34327</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245216</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>3.2</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>116440</GUID>
+      <Name>AT_DLC03_Inuit_Movie_ArcticMovie03_01</Name>
+    </Standard>
+  </Values>
+</Asset>

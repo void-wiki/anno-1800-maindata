@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239294</GUID>
+      <Name>wwe_sfx_veh_battle_cruiser_lp_STOP_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>5333</DurationMinimum>
+          <DurationMaximum>5781</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>5333</DurationMinimum>
+          <DurationMaximum>5781</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>5333</DurationMinimum>
+          <DurationMaximum>5781</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>5333</DurationMinimum>
+          <DurationMaximum>5781</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>40</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1787016379</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803554</GUID>
+      <Name>The Coral Island 1.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803555</Option>
+        </Item>
+        <Item>
+          <Option>803557</Option>
+        </Item>
+        <Item>
+          <Option>803560</Option>
+        </Item>
+        <Item>
+          <Option>803563</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The reaction is lukewarm,&lt;/b&gt; and so is the effort: days pass and the work barely seems to move on. The remaining supplies are scarce. In the place they have been logging, one of the sailors finds some exotic mushrooms and brings them back to camp. Could this mysterious fungi be key to survival?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33028</LineID>
+    </Text>
+  </Values>
+</Asset>

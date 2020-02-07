@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12761</GUID>
+      <Name>SustainContext_Combined</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sustain across the region:&lt;br/&gt;[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]% of [AssetData([Conditions QuestCondition Context]) Text] supply for [Conditions QuestCondition TimeLimit &gt;&gt; time]</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11684</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802632</GUID>
+      <Name>The Mountain Maw 1.1.2.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802633</Option>
+        </Item>
+        <Item>
+          <Option>802634</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The fresh snow hides the dangers underneath.&lt;/b&gt; A powdery white covers everything in sight and the skies melt into the ground, hiding the horizon. The hunters advance on instinct, unable to look for hints of their previous passage. They find the missing sailors by encountering their fate: the frozen ground breaks under their weight. The thin crust of ice hid a fault! Three of the lost men are down there, and two hunters joined them.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21842</LineID>
+    </Text>
+  </Values>
+</Asset>

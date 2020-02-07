@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800201</GUID>
+      <Name>The Inspector 1.2.4.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"You will remain here until they are dismantled..."&lt;/b&gt; trills the Inspector, "...those perverse modifications to your sails contravening sovereign law of the sea." As the nit-picking Inspector leaves, it is clear an arduous refit is needed before your expedition will be allowed to continue.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5808</LineID>
+    </Text>
+  </Values>
+</Asset>

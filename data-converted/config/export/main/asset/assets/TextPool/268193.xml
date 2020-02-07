@@ -1,0 +1,46 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268193</GUID>
+      <Name>Pool_enemy02_NPCOffersNonAggressionPact</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>257944</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256286</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256287</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256288</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256289</AudioText>
+        </Item>
+        <Item>
+          <AudioText>256290</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>1496522129</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

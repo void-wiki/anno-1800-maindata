@@ -1,0 +1,38 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801638</GUID>
+      <Name>Wall of Ice 1.4.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801622</Option>
+        </Item>
+        <Item>
+          <Option>801623</Option>
+        </Item>
+        <Item>
+          <Option>801624</Option>
+        </Item>
+        <Item>
+          <Option>801625</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There is no-one out there.&lt;/b&gt; After a week perched atop the pink-white berg, supplies diminishing, the gnawing cold, the crew cannot bear to wait any longer. Any help will have to come from within.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17975</LineID>
+    </Text>
+  </Values>
+</Asset>

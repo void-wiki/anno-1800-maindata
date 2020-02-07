@@ -1,0 +1,50 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>193406</GUID>
+      <Name>atlantean</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/museum/icon_temple_of_posseidon.png</IconFilename>
+      <InfoDescription>22241</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Atlantean Exhibition</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32633</LineID>
+    </Text>
+    <VehicleUpgrade />
+    <Buff />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>112084</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <DivingBellUpgrade>
+      <RarityWeightUpgrade>
+        <Epic>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Epic>
+        <Legendary>
+          <AdditionalWeight>2</AdditionalWeight>
+        </Legendary>
+      </RarityWeightUpgrade>
+      <AllocationWeightUpgrade>
+        <Museum>
+          <AdditionalWeight>5</AdditionalWeight>
+        </Museum>
+      </AllocationWeightUpgrade>
+    </DivingBellUpgrade>
+  </Values>
+</Asset>

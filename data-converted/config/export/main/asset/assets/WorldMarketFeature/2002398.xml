@@ -1,0 +1,25 @@
+<Asset>
+  <Template>WorldMarketFeature</Template>
+  <Values>
+    <Standard>
+      <GUID>2002398</GUID>
+      <Name>WorldMarketFeature</Name>
+      <ID>WorldMarketFeature</ID>
+    </Standard>
+    <WorldMarketFeature>
+      <RouteDurationTime>7200000</RouteDurationTime>
+      <RouteExpirationWarningTime>900000</RouteExpirationWarningTime>
+      <RouteExpirationOfferTime>120000</RouteExpirationOfferTime>
+      <NewsTicker>
+        <PriceChangeText>119728</PriceChangeText>
+        <PriceChangeEventText>120944</PriceChangeEventText>
+        <TitleText>120799</TitleText>
+        <SeparatorText>119729</SeparatorText>
+        <EventDescriptionUpTextPool>2002397</EventDescriptionUpTextPool>
+        <EventDescriptionDownTextPool>2002435</EventDescriptionDownTextPool>
+        <EventPriceUpTextPool>2002400</EventPriceUpTextPool>
+        <EventPriceDownTextPool>2002401</EventPriceDownTextPool>
+      </NewsTicker>
+    </WorldMarketFeature>
+  </Values>
+</Asset>

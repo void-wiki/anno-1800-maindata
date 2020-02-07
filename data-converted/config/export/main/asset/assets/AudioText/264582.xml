@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Northwest passage is uncharted, Admiral. More than preparation, we need luck. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13269</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229731</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264582</GUID>
+      <Name>AT_captain_OnlineEvent_Preparation5</Name>
+    </Standard>
+  </Values>
+</Asset>

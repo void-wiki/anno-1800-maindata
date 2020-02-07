@@ -1,0 +1,70 @@
+<Asset>
+  <Template>TradeShip</Template>
+  <Values>
+    <Standard>
+      <GUID>102398</GUID>
+      <Name>Wreckage 03 - Trade Ship Behaviour</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_ship.png</IconFilename>
+      <InfoDescription>1082</InfoDescription>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/wreckage/wreckage_03.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnWaterSlope</MeshPlacement>
+    </Mesh>
+    <Selection />
+    <Walking>
+      <TurnSpeed>0.01</TurnSpeed>
+      <TurnSpeedInPlace>0.01</TurnSpeedInPlace>
+      <TurnDeceleration>0</TurnDeceleration>
+      <TurnMovement>0</TurnMovement>
+      <ForwardSpeed>0.05</ForwardSpeed>
+      <WindMinSlowdownFactor>0.01</WindMinSlowdownFactor>
+      <WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+      <CargoThreshold>0</CargoThreshold>
+    </Walking>
+    <Text />
+    <CommandQueue />
+    <Drifting />
+    <Collector />
+    <Attackable>
+      <MaximumHitPoints>10000</MaximumHitPoints>
+    </Attackable>
+    <MinimapToken />
+    <SoundEmitter>
+      <VehicleSounds>
+        <MovementStart>
+          <Item>
+            <Sound>9818371</Sound>
+          </Item>
+        </MovementStart>
+      </VehicleSounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

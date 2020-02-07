@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12464</GUID>
+      <Name>GoodsConsumption</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_options.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Consumption of [AssetData([ItemAssetData([RefGuid]) GoodConsumptionProvidedNeed(index)]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14065</LineID>
+    </Text>
+  </Values>
+</Asset>

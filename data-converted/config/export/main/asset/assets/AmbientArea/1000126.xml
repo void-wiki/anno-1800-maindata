@@ -1,0 +1,22 @@
+<Asset>
+  <Template>AmbientArea</Template>
+  <Values>
+    <Standard>
+      <GUID>1000126</GUID>
+      <Name>Ambient Area</Name>
+    </Standard>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/placeholder.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <AmbientArea />
+  </Values>
+</Asset>

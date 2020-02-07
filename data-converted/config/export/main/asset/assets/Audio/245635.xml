@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245635</GUID>
+      <Name>Play_AI_NEW3_CWCJZ_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3300</DurationMinimum>
+          <DurationMaximum>6140</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>2843</DurationMinimum>
+          <DurationMaximum>6947</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>2952</DurationMinimum>
+          <DurationMaximum>6298</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>3278</DurationMinimum>
+          <DurationMaximum>6295</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>260881351</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>CANNOT_COLLECT</ActionID>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer;CheckProperty</Flags>
+          <Property>Walking</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>AndNotNextMatch;CheckProperty;NotSelf</Flags>
+          <Property>Collectable</Property>
+        </TargetMatch1>
+        <TargetMatch2>
+          <Flags>AndNotNextMatch;CollectableOnSelection</Flags>
+        </TargetMatch2>
+        <TargetMatch3>
+          <Flags>IsCollectableBySelection;IsCollectable</Flags>
+        </TargetMatch3>
+      </Matches>
+      <MouseCursorTarget>2001207</MouseCursorTarget>
+    </Target>
+    <Standard>
+      <GUID>501679</GUID>
+      <Name>CannotCollect</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

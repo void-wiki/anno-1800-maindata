@@ -1,0 +1,47 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>111261</GUID>
+      <Name>Pool - All Public Luxury Buildings + Police</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010462</Asset>
+        </Item>
+        <Item>
+          <Asset>101274</Asset>
+        </Item>
+        <Item>
+          <Asset>1010358</Asset>
+        </Item>
+        <Item>
+          <Asset>1010365</Asset>
+        </Item>
+        <Item>
+          <Asset>1010359</Asset>
+        </Item>
+        <Item>
+          <Asset>1010361</Asset>
+        </Item>
+        <Item>
+          <Asset>1010364</Asset>
+        </Item>
+        <Item>
+          <Asset>101258</Asset>
+        </Item>
+        <Item>
+          <Asset>101259</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>All Luxury Need Public Services + Police Stations</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

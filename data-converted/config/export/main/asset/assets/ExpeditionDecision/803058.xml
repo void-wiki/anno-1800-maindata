@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803058</GUID>
+      <Name>Fear of the Light 1.1.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Isn't this judgement too hasty?&lt;/b&gt; The doctor is immediately accused of having murdered the sick sailor, but he isn't enough of a believer to confess before the cross. He is nevertheless hanged for his supposed crimes. Relief tints the mood of your crew, but many know the punishment was hasty and unjust.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26307</LineID>
+    </Text>
+  </Values>
+</Asset>

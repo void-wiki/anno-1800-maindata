@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21530</GUID>
+      <Name>AdditionalIncomeInfoActive</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_hospital_2d.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Residents provide bonus income from [ItemAssetData([ToolOneHelper ItemActiveBuff([RefGuid])]) InputBenefitAllAdditionalMoneyFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29234</LineID>
+    </Text>
+  </Values>
+</Asset>

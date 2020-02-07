@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802432</GUID>
+      <Name>Wood Keeper 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802452</Option>
+        </Item>
+        <Item>
+          <Option>802453</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;They should have had more faith in the old sailor.&lt;/b&gt; Taking his words with a pinch of salt, your men swarm the miraculous banquet, turning the food over in their hands, as if to divine if it is real or not. Before anyone can take a bite however, &lt;b&gt;the villagers reappear looking rather cheesed off.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20896</LineID>
+    </Text>
+  </Values>
+</Asset>

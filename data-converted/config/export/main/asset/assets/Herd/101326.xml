@@ -1,0 +1,37 @@
+<Asset>
+  <Template>Herd</Template>
+  <Values>
+    <Standard>
+      <GUID>101326</GUID>
+      <Name>Herd Fox</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_cattle.png</IconFilename>
+      <ID>Earth_Herd_Land_8</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_fox.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <Herd />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/fox_brown/fox_brown.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>1</UnitCountMin>
+      <UnitCountMax>3</UnitCountMax>
+      <AutoSpawn_RelativeProbability>35</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>236620</Animal_AudioLoop>
+      <ScaleFactor>0.6</ScaleFactor>
+    </AnimalBase>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802656</GUID>
+      <Name>Blood Oil Tears and Sweat 1.1.2.1.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The forced instability protects the ship.&lt;/b&gt; Your sailors huff and puff as they push the large sacks of basalt stones across the belly of the ship, progressively tipping the vessel's balance until its pierced flank leans away from the water. The ship is carefully led to the shore, where the crew can finally start repairs.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21862</LineID>
+    </Text>
+  </Values>
+</Asset>

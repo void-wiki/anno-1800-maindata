@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206542</GUID>
+      <Name>wwe_play_testevent_2d</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>258</DurationMinimum>
+          <DurationMaximum>258</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>258</DurationMinimum>
+          <DurationMaximum>258</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>258</DurationMinimum>
+          <DurationMaximum>258</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>258</DurationMinimum>
+          <DurationMaximum>258</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>486819457</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>How would you like it if I kept you waiting?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2300</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212713</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251414</GUID>
+      <Name>AT_ai03_QuestReminder1</Name>
+    </Standard>
+  </Values>
+</Asset>

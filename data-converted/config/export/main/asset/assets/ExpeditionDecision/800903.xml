@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800903</GUID>
+      <Name>Parasitic Infestation 1.2.2.1.2.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Nothing can save them.&lt;/b&gt; Though a mercy that they may choose their manner of death - unmolested by the ship's quack - it is death nonetheless. The parasite has sucked the life from your expedition. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13215</LineID>
+    </Text>
+  </Values>
+</Asset>

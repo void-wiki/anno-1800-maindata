@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You cannot appease me.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8468</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221360</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256259</GUID>
+      <Name>AT_enemy02_NpcDeclinesPlayerProposal1</Name>
+    </Standard>
+  </Values>
+</Asset>

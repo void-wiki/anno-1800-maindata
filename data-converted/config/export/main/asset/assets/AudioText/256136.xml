@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>To continue, is not in our mutual interest.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7430</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217906</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256136</GUID>
+      <Name>AT_ai02_NpcDeclinesPlayerProposalTooOften1</Name>
+    </Standard>
+  </Values>
+</Asset>

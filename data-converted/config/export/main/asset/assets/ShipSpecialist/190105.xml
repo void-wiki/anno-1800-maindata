@@ -1,0 +1,54 @@
+<Asset>
+  <Template>ShipSpecialist</Template>
+  <Values>
+    <Standard>
+      <GUID>190105</GUID>
+      <Name>Dr Snuggles</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_resource_worker_2.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Dr Snuggles</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <HasAction>1</HasAction>
+      <ExclusiveGroup>Specialist</ExclusiveGroup>
+      <TradePrice>5000</TradePrice>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>REPAIR</ItemAction>
+      <ActionTarget>2001748</ActionTarget>
+      <ActionScope>Target</ActionScope>
+      <RepairSpeed>1</RepairSpeed>
+    </ItemAction>
+    <VehicleUpgrade />
+    <ExpeditionAttribute />
+    <AttackerUpgrade />
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade>
+        <Value>200</Value>
+        <Percental>1</Percental>
+      </MaxHitpointsUpgrade>
+      <SelfHealUpgrade>
+        <Value>15</Value>
+      </SelfHealUpgrade>
+      <SelfHealPausedTimeIfAttackedUpgrade>
+        <Value>-100</Value>
+        <Percental>1</Percental>
+      </SelfHealPausedTimeIfAttackedUpgrade>
+    </AttackableUpgrade>
+    <TradeShipUpgrade>
+      <LoadingSpeedUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </LoadingSpeedUpgrade>
+    </TradeShipUpgrade>
+    <Locked />
+    <SpecialAction />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

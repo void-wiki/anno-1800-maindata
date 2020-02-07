@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Look at you worms tangling in the mud.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16999</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233159</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265589</GUID>
+      <Name>AT_ai07_PositiveInteraction_NPCsFoe1</Name>
+    </Standard>
+  </Values>
+</Asset>

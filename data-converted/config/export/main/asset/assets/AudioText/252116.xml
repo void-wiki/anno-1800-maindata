@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>To destroy me, you must destroy yourself. Can you do that?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3292</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>210837</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252116</GUID>
+      <Name>AT_ai08_PlayerDeclaresWarOnNpc2</Name>
+    </Standard>
+  </Values>
+</Asset>

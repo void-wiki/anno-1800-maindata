@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802312</GUID>
+      <Name>Release the Kraken 1.2.2.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Right in the mandibles!&lt;/b&gt; The kraken inhales the slew of heavy artillery and is propelled outwards and star-like, before plummeting to the depths with a good part of your ship still in its grip. Repairs will be needed! You cannot think why the creature was so offended by your presence, but at least it now has some memento of your meeting to clutch onto.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20944</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191410</GUID>
+      <Name>PuckleGunItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_advanced_weaponry.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Mounted Gun</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <ExclusiveGroup>AutoAttackProjectile</ExclusiveGroup>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ActionCooldown>30000</ActionCooldown>
+      <ActiveBuff>191411</ActiveBuff>
+    </ItemAction>
+    <ExpeditionAttribute />
+    <SpecialAction />
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

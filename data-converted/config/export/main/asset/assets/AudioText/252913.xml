@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your troops have fire in their bellies.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7772</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217923</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252913</GUID>
+      <Name>AT_ai09_MilitaryPlayerPositive1</Name>
+    </Standard>
+  </Values>
+</Asset>

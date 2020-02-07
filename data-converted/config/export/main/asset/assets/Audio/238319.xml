@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>238319</GUID>
+      <Name>wwe_sfx_veh_schooner_destroy_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>6000</DurationMinimum>
+          <DurationMaximum>8630</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>6000</DurationMinimum>
+          <DurationMaximum>8630</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>6000</DurationMinimum>
+          <DurationMaximum>8630</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>6000</DurationMinimum>
+          <DurationMaximum>8630</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+      <MaxAttenuation>55</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1764783424</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

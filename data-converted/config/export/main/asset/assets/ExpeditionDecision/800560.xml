@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800560</GUID>
+      <Name>The Visitation 1.2.3.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Sacrilege!&lt;/b&gt; A prohibited tome is consulted, the vile solicitations of its pages consuming the crew! Unspeakable acts are performed upon a man, so that the demon can be be assuaged. Yet still the menace remains, and worse, the crew's sacrificial victim bleeds out from his injuries.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5572</LineID>
+    </Text>
+  </Values>
+</Asset>

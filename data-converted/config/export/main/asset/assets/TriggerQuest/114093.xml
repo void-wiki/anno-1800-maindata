@@ -1,0 +1,122 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>114093</GUID>
+      <Name>Trigger Lose Continental Island</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <Context>700044</Context>
+            <ComparisonOp>Equals</ComparisonOp>
+            <CounterScope>Area</CounterScope>
+            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+            <CounterScopeContext>112140</CounterScopeContext>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetQuestPoolEnablement</Template>
+            <Values>
+              <Action />
+              <ActionSetQuestPoolEnablement>
+                <QuestPoolListToChange>
+                  <Item>
+                    <QuestPool>112116</QuestPool>
+                  </Item>
+                </QuestPoolListToChange>
+                <ChangeForProcessingParticipant>1</ChangeForProcessingParticipant>
+              </ActionSetQuestPoolEnablement>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>3000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionNotification</Template>
+                            <Values>
+                              <Action />
+                              <ActionNotification>
+                                <Notification>
+                                  <Template>CharacterNotification</Template>
+                                  <Values>
+                                    <CharacterNotification>
+                                      <Profile>75</Profile>
+                                    </CharacterNotification>
+                                    <BaseNotification>
+                                      <NotificationText>114092</NotificationText>
+                                      <NotificationPriority>250</NotificationPriority>
+                                      <NotificationMinDisplayTime>15000</NotificationMinDisplayTime>
+                                      <DisplayTimeout>120000</DisplayTimeout>
+                                    </BaseNotification>
+                                    <NotificationSubtitle>
+                                      <Subtitle>259894</Subtitle>
+                                    </NotificationSubtitle>
+                                  </Values>
+                                </Notification>
+                              </ActionNotification>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>60000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionDeleteObjects</Template>
+                            <Values>
+                              <Action />
+                              <ActionDeleteObjects />
+                              <ObjectFilter>
+                                <ObjectGUID>112084</ObjectGUID>
+                              </ObjectFilter>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>SwitchGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>205442</GUID>
+      <Name>MS4_env_moo_sea_close</Name>
+      <IconFilename>test_data/graphics/wwise_icons/switch_group.png</IconFilename>
+    </Standard>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Item>
+          <Choice>244756</Choice>
+        </Item>
+        <Item>
+          <Choice>244757</Choice>
+        </Item>
+      </SwitchChoices>
+    </SwitchGroup>
+    <WwiseStandard>
+      <WwiseID>710153868</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

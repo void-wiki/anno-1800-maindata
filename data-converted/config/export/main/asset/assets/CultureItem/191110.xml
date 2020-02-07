@@ -1,0 +1,49 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191110</GUID>
+      <Name>zanzibar leopard</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_zanzibar_leopard.png</IconFilename>
+      <InfoDescription>13733</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Coastal Leopard</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26489</LineID>
+    </Text>
+    <Item>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>732000</TradePrice>
+      <TradePriceOnlineCurrency>500</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>101810</ChangeModule>
+      <ForcedFeedbackVariation>101773</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>50</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203357</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>25</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>Africa;SouthernEurope</ItemRegions>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>12884</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

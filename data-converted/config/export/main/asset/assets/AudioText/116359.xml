@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You found a lucky spot. When we next move camp we will move there.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34280</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245188</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>116359</GUID>
+      <Name>AT_Inuit_Quest_TwinRocks_02</Name>
+    </Standard>
+  </Values>
+</Asset>

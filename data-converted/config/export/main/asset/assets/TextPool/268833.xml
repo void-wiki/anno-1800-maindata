@@ -1,0 +1,47 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268833</GUID>
+      <Name>Pool_3rd_party03_ResettlePlayerSuccess</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>258470</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258471</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258473</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258474</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258483</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258478</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258475</AudioText>
+        </Item>
+        <Item>
+          <AudioText>258476</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

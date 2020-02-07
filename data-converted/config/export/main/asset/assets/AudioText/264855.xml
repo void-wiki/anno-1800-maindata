@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Congratulations! You crossed seven seas for a wasteland! </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15403</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231332</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>264855</GUID>
+      <Name>AT_3rd_party_06_Phase1_ExpeditionEvent_Success</Name>
+    </Standard>
+  </Values>
+</Asset>

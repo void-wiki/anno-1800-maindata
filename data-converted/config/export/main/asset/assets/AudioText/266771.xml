@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If the royal fleet is to be at the cutting edge, we must start producing steel. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17180</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233341</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266771</GUID>
+      <Name>advisor01_Ch2Ph1_Additional_05</Name>
+    </Standard>
+  </Values>
+</Asset>

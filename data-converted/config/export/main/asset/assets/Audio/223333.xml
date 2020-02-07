@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>223333</GUID>
+      <Name>Play_AI_DRYLADYM_DAC_4CU_00001_01LADYM_11151</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3420</DurationMinimum>
+          <DurationMaximum>3420</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4437</DurationMinimum>
+          <DurationMaximum>4437</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3669</DurationMinimum>
+          <DurationMaximum>3669</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>3290</DurationMinimum>
+          <DurationMaximum>3290</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>1250120820</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

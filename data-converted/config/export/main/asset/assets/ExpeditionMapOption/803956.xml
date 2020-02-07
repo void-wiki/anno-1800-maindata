@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>803956</GUID>
+      <Name>Go back and head west - Beechey island</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_compass_northwest.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Go back and head west to Baffling Island</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35238</LineID>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>803960</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>606</OptionPosX>
+      <OptionPosY>-26</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path04.png</PathSegment>
+      <PathPosX>603</PathPosX>
+      <PathPosY>-26</PathPosY>
+      <PathAlpha>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path04_alpha.png</PathAlpha>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

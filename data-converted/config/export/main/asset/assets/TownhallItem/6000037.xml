@@ -1,0 +1,64 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>6000037</GUID>
+      <Name>MaintenanceItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_tools.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>State-directed Administration</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <ItemSet>190108</ItemSet>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190136</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </MaintenanceUpgrade>
+      <PublicServiceFullSatisfactionDistance>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </PublicServiceFullSatisfactionDistance>
+      <PublicServiceNoSatisfactionDistance>
+        <Value>25</Value>
+        <Percental>1</Percental>
+      </PublicServiceNoSatisfactionDistance>
+      <WorkforceAmountUpgrade>
+        <Value>-50</Value>
+        <Percental>1</Percental>
+      </WorkforceAmountUpgrade>
+    </BuildingUpgrade>
+    <PopulationUpgrade />
+    <ItemAction />
+    <ExpeditionAttribute />
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem>
+      <CraftingCosts>
+        <Item>
+          <Product>1010200</Product>
+          <Amount>10</Amount>
+        </Item>
+      </CraftingCosts>
+    </CraftableItem>
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

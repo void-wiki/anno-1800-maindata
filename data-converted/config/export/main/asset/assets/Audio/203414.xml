@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203414</GUID>
+      <Name>wwc_sfx_anm_zoo_stork</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>203415</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2297110860</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

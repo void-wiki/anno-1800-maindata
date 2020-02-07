@@ -1,0 +1,37 @@
+<Template>
+  <Name>DevTestTemplate2</Name>
+  <Properties>
+    <Standard />
+    <DevTestProp>
+      <SimpleStruct>
+        <ChoiceInStruct>Military</ChoiceInStruct>
+      </SimpleStruct>
+      <SimpleArray>
+        <Economy>
+          <IntInArray>33</IntInArray>
+        </Economy>
+        <Online>
+          <IntInArray>8</IntInArray>
+        </Online>
+        <Hidden>
+          <VectorInArray>
+            <Item>
+              <IntInVectorInArray>4</IntInVectorInArray>
+            </Item>
+            <Item>
+              <IntInVectorInArray>7</IntInVectorInArray>
+            </Item>
+          </VectorInArray>
+        </Hidden>
+      </SimpleArray>
+      <SimpleVector>
+        <Item>
+          <ChoiceInVector>Economy</ChoiceInVector>
+          <SubVector>
+            <Item />
+          </SubVector>
+        </Item>
+      </SimpleVector>
+    </DevTestProp>
+  </Properties>
+</Template>

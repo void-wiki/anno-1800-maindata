@@ -1,0 +1,60 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>110995</GUID>
+      <Name>Anti Bourgeois Midnight Call</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_midnight_call_bomb_2.png</IconFilename>
+      <InfoDescription>110991</InfoDescription>
+    </Standard>
+    <SpecialAction />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010346</GUID>
+        </Item>
+        <Item>
+          <GUID>1010347</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction>
+      <ItemAction>NOACTION</ItemAction>
+      <ActionScope>SelfRadius</ActionScope>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <ActionDuration>5400000</ActionDuration>
+      <ActiveBuff>110993</ActiveBuff>
+      <ActionDescription>20071</ActionDescription>
+      <CanEndItemAction>0</CanEndItemAction>
+    </ItemAction>
+    <Item>
+      <Allocation>TownHall</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Epic</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>36400</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anti-Bourgeois Midnight Infusion</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30901</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>40</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Average;Hard</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802409</GUID>
+      <Name>The Treasure of Hassan Ben Sahid 1.1.1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190545</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The treasure of Hassan Ben Sahid!&lt;/b&gt; The cemetery is modest, just unmarked funeral stones jutting up from the dust. Each is pointing in the same direction. "We need not disturb the dead," your officer says, pointing to a lush grove of date palm, "for our thirst is quenched!" There, in its centre, is a working noria that might have been running for centuries. "Lower me down," she says. At the bottom of the well is the most extraordinary golden hoard! You go to thank the old blind man, but he has vanished...</Text>
+          <Status>Exported</Status>
+          <ExportCount>8</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20859</LineID>
+    </Text>
+  </Values>
+</Asset>

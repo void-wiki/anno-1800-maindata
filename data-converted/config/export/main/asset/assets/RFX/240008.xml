@@ -1,0 +1,20 @@
+<Asset>
+  <Template>RFX</Template>
+  <Values>
+    <Standard>
+      <GUID>240008</GUID>
+      <Name>RFX_bld_prod_agriculture_05_tree_saw_os</Name>
+    </Standard>
+    <RFX>
+      <RFXRadius>10</RFXRadius>
+      <HeightConfig>
+        <ClampToTerrain>1</ClampToTerrain>
+        <ClampToWater>1</ClampToWater>
+        <HeightOffsetMax>10</HeightOffsetMax>
+      </HeightConfig>
+      <TriggerRateMin>20000</TriggerRateMin>
+      <TriggerRateMax>35000</TriggerRateMax>
+      <TriggerEvent>206520</TriggerEvent>
+    </RFX>
+  </Values>
+</Asset>

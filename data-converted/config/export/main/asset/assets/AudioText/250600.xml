@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>As Her Majesty's adjutant, I must be quietly attentive. The merest smile on her face is enough!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>1212</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212239</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>250600</GUID>
+      <Name>AT_3rdParty02_IdleMessageSelf5</Name>
+    </Standard>
+  </Values>
+</Asset>

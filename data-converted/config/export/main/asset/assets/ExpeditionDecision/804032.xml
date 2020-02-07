@@ -1,0 +1,32 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804032</GUID>
+      <Name>Narrow channels 1.2.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804018</Option>
+        </Item>
+        <Item>
+          <Option>804033</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>114642</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your men say the climb is too steep,&lt;/b&gt; or at least, no-one is daredevil enough to attempt it with the limited equipment they have. &lt;b&gt;Everyone is exasperated. You must find another solution.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35299</LineID>
+    </Text>
+  </Values>
+</Asset>

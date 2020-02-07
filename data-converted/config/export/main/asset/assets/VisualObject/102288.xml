@@ -1,0 +1,23 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102288</GUID>
+      <Name>CO_Funeral_Mausoleum_Father_Garden</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_church.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/graveyard/mausoleum_garden_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/campaign/buildings/graveyard/mausoleum_garden_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

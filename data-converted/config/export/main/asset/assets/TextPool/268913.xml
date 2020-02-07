@@ -1,0 +1,52 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>268913</GUID>
+      <Name>Pool_resident_tier1_Angry</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>254008</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254009</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254010</AudioText>
+        </Item>
+        <Item>
+          <AudioText>253963</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254011</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254012</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254013</AudioText>
+        </Item>
+        <Item>
+          <AudioText>254014</AudioText>
+        </Item>
+      </AudioTextList>
+      <AudioTextGroups>
+        <Item>
+          <Group>-976238365</Group>
+        </Item>
+      </AudioTextGroups>
+    </AudioTextPool>
+  </Values>
+</Asset>

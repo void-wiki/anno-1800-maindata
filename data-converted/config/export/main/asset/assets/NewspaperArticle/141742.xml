@@ -1,0 +1,35 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>141742</GUID>
+      <Name>Diplomacy Reputation Increased Significantly</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>14351</Headline>
+      <Subline>14352</Subline>
+      <Image>142167</Image>
+      <Category>Diplomacy</Category>
+      <RequiresParticipantContext>1</RequiresParticipantContext>
+      <NewsPriority>
+        <StartValue>400</StartValue>
+        <LossOnPublish>0</LossOnPublish>
+        <GainByNotPublished>0</GainByNotPublished>
+        <Maximum>700</Maximum>
+      </NewsPriority>
+      <ArticleEffect>RiotChanceGlobal</ArticleEffect>
+      <EffectValue>-25</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

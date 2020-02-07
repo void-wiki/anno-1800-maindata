@@ -1,0 +1,17 @@
+<Template>
+  <Name>Inhabitant</Name>
+  <Properties>
+    <Standard />
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Walking>
+      <ForcePrimitiveMovement>1</ForcePrimitiveMovement>
+      <CreatePathPlannerUnit>0</CreatePathPlannerUnit>
+    </Walking>
+    <DayNightReaction />
+  </Properties>
+</Template>

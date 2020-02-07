@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Another player is preparing an event at their monument.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15945</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234066</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265359</GUID>
+      <Name>AT_Narrator_Monument_Information_MonumentEventPreparationStartedOtherParticipant</Name>
+    </Standard>
+  </Values>
+</Asset>

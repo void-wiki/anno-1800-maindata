@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803714</GUID>
+      <Name>See you later 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803715</Option>
+        </Item>
+        <Item>
+          <Option>803718</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The creature's scales are bulletproof!&lt;/b&gt; Your hunters fail to find a weak spot and every shot seemingly ricochets against the monster's skin. The creature growls, but the hail of pellets fails to stop its swift jaws from clamping down your petrified navigator's arm.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33207</LineID>
+    </Text>
+  </Values>
+</Asset>

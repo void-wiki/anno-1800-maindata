@@ -1,0 +1,38 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitCameraAmbientConfig>
+        <ProfileCreation>
+          <CamFile>data/config/portraitcam/creategamehunt.portraitcam</CamFile>
+        </ProfileCreation>
+        <CreateGame>
+          <CamFile>data/config/portraitcam/creategamehunt.portraitcam</CamFile>
+        </CreateGame>
+        <ProfileSelection>
+          <CamFile>data/config/portraitcam/creategamehunt.portraitcam</CamFile>
+        </ProfileSelection>
+        <ActiveTrade>
+          <CamFile>data/config/portraitcam/activetrade_default.portraitcam</CamFile>
+        </ActiveTrade>
+      </PortraitCameraAmbientConfig>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>100587</GUID>
+      <Name>enemy_02 (Lady Margaret Hunt)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/enemy_02.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/enemy_02/enemy_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

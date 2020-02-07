@@ -1,0 +1,50 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>151428</GUID>
+      <Name>ChapterTheEnd_Banner</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>MovieFinished</ConditionEvent>
+            <ContextAsset>300008</ContextAsset>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CampaignNotification</Template>
+                  <Values>
+                    <BaseNotification>
+                      <NotificationLabel>Noti_TheEndBanner</NotificationLabel>
+                      <NotificationText>12256</NotificationText>
+                      <NotificationPriority>800</NotificationPriority>
+                      <NotificationMinDisplayTime>11000</NotificationMinDisplayTime>
+                      <DisplayTimeout>300000</DisplayTimeout>
+                    </BaseNotification>
+                    <CampaignNotification>
+                      <CampaignNotificationTitle>12257</CampaignNotificationTitle>
+                    </CampaignNotification>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204614</GUID>
+      <Name>Play_AI_NEWDL_CAMPA_JCQRT_CQVDQ_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>3721</DurationMinimum>
+          <DurationMaximum>8343</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>3831</DurationMinimum>
+          <DurationMaximum>8383</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>5352</DurationMinimum>
+          <DurationMaximum>9356</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>4221</DurationMinimum>
+          <DurationMaximum>7937</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2453164300</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

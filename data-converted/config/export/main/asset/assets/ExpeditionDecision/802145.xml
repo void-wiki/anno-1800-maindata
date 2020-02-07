@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802145</GUID>
+      <Name>Selfless Deeds 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802148</Option>
+        </Item>
+        <Item>
+          <Option>802149</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew navigates through the mangrove with aplomb.&lt;/b&gt; The unusual environment doesn't manage to stop their steady rowing, and the sailors soon reach an outpost marking the entrance of the bandits' camp. Sobbing children are taken out of the kidnappers' steamboat and dragged towards a distant barn. Half a dozen armed men guard the building.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21004</LineID>
+    </Text>
+  </Values>
+</Asset>

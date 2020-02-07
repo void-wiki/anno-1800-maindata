@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There, that must be the villain's ship!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17372</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232611</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266915</GUID>
+      <Name>advisor02_Ch2Ph2_Additional_03</Name>
+    </Standard>
+  </Values>
+</Asset>

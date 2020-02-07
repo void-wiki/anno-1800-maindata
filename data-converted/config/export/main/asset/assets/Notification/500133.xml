@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500133</GUID>
+      <Name>VisitorHarborMissingNotification</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_visitor_habour_2d.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501357</IconAsset>
+            <NotificationSideTitle>2449</NotificationSideTitle>
+            <FilterType>VisitorsAndCulture</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>2448</NotificationText>
+            <NotificationBlockingTime>7200000</NotificationBlockingTime>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>300</NotificationPriority>
+            <NotificationGroup>Visitors</NotificationGroup>
+            <DisplayTimeout>5000</DisplayTimeout>
+            <IsUnique>1</IsUnique>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

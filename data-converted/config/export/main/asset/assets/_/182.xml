@@ -1,0 +1,40 @@
+<Asset>
+  <BaseAssetGUID>152</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>182</GUID>
+      <Name>PaMSy_Narrative_Character_SA_ticketseller</Name>
+    </Standard>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <QuestResolveConfirmation>
+          <Reactions>
+            <Item>
+              <VectorElement>
+                <InheritedIndex>0</InheritedIndex>
+                <InheritanceMapV2>
+                  <Entry>
+                    <TemplateName>PaMSy_Base</TemplateName>
+                    <Index>0</Index>
+                  </Entry>
+                </InheritanceMapV2>
+              </VectorElement>
+              <Notification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationText>12684</NotificationText>
+                  </BaseNotification>
+                  <NotificationSubtitle>
+                    <Subtitle>266405</Subtitle>
+                  </NotificationSubtitle>
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestResolveConfirmation>
+      </MessageTriggers>
+    </ParticipantMessages>
+  </Values>
+</Asset>

@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>209102</GUID>
+      <Name>wwe_sfx_torch_light</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+      <ID>SoundTorchOn</ID>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>18</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3723448430</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

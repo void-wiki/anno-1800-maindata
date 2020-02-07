@@ -1,0 +1,17 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>14394</GUID>
+      <Name>TQ_101_Luxury_Objective02</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Luxury Watch: Reach [Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]% supply of [AssetData([Conditions QuestCondition Context]) Text]</Text>
+          <Status>ToBeDeleted</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

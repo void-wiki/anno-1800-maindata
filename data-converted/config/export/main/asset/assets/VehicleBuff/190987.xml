@@ -1,0 +1,28 @@
+<Asset>
+  <Template>VehicleBuff</Template>
+  <Values>
+    <Standard>
+      <GUID>190987</GUID>
+      <Name>PirateFlag</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_pirate_flag.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Pirate Flag</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <VehicleUpgrade>
+      <ActivatePirateFlag>1</ActivatePirateFlag>
+    </VehicleUpgrade>
+    <Buff />
+    <AttackerUpgrade />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <TradeShipUpgrade />
+    <UpgradeList />
+    <ItemEffect />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

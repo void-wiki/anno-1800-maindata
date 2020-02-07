@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>No coward man is Annie's match at sea.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>11669</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>229558</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>260911</GUID>
+      <Name>AT_3rdParty03_PlayerSelectsNpcShip2</Name>
+    </Standard>
+  </Values>
+</Asset>

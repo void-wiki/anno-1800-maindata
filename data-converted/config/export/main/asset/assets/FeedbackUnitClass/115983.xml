@@ -1,0 +1,34 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>115983</GUID>
+      <Name>Arctic Object Movers</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>HarborWorker</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>115437</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115438</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115439</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115440</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115441</UnitAsset>
+        </Item>
+        <Item>
+          <UnitAsset>115442</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions>DangerAvoiding</AllowedReactions>
+      <ClassFlags>InhabitsTier1Building;InhabitsTier2Building</ClassFlags>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

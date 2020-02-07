@@ -1,0 +1,35 @@
+<Asset>
+  <Template>LandAnimal</Template>
+  <Values>
+    <Standard>
+      <GUID>1000141</GUID>
+      <Name>horse</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/horse/horse_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/horse/horse_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/horse/horse_03.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/wildlife/horse/horse_04.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <SpecialMovementType />
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

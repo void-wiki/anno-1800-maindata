@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Protect your superiors on their voyage.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8711</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>221582</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>257189</GUID>
+      <Name>AT_ai09_EscortShipSelected2</Name>
+    </Standard>
+  </Values>
+</Asset>

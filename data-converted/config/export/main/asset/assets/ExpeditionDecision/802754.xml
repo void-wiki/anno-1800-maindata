@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802754</GUID>
+      <Name>Jolly Roger 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802755</Option>
+        </Item>
+        <Item>
+          <Option>802756</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's a disappointing salvo.&lt;/b&gt; Despite being in a strong position, your cannons are miscalibrated, and end up firing short. The pirates know they cannot win this with their outmoded gunnery, and between shots they draw close and latch onto your ship with their boarding hooks. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21507</LineID>
+    </Text>
+  </Values>
+</Asset>

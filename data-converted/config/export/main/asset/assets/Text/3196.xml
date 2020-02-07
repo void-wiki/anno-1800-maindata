@@ -1,0 +1,17 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>3196</GUID>
+      <Name>SL - Workers Unhappy - Bad</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>"Life's a bloomin' misery" say [Newspaper FindArticle([RefGuid]) Context TownName] workers, amid fears their extreme unhappiness will grind society to a halt. </Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

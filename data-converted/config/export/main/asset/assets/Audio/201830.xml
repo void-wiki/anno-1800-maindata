@@ -1,0 +1,18 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>201830</GUID>
+      <Name>wwe_sfx_veh_oil_tanker_lp_play</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <MaxAttenuation>70</MaxAttenuation>
+      <StopEvent>201831</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4248374465</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

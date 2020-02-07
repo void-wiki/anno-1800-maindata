@@ -1,0 +1,23 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>102668</GUID>
+      <Name>QO - Explosions - Alonso Main Arc</Name>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnWater</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+      <HeatEffect>1</HeatEffect>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/quest/objects/main_arc_alonso_castaways/explosions.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

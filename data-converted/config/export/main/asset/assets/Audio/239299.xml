@@ -1,0 +1,24 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239299</GUID>
+      <Name>wwe_sfx_fbd_ani_shovel_os</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>517</DurationMinimum>
+          <DurationMaximum>2530</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>7</MaxAttenuation>
+      <OneShotClusterRange>10</OneShotClusterRange>
+      <OneShotClusterSuppressLength>2000</OneShotClusterSuppressLength>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>833219829</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

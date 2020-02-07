@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800530</GUID>
+      <Name>The Singular Case of the Midshipman 1.2.1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The trial is a farce.&lt;/b&gt; Sailors bark questions from the sidelines which the suspects are quite within their rights to leave unanswered. But this obstinacy serves only to rile the shouting mob! They flood through the makeshift courtroom and carry the suspects kicking and screaming to deck, before tossing them over the side. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5900</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800482</GUID>
+      <Name>Love Island 1.2.2.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226685</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your naive hunters fail the test.&lt;/b&gt; Forest deer are everywhere, and hunting them hardly seems a challenge. Had your so-named "hunters" any respect for nature, they'd have realised the sacred deer were not what the king was after. Instead they gather them up greedily. The king makes it perfectly clear your expedition must move on. With heavy hearts, the sailors return to the ship.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5600</LineID>
+    </Text>
+  </Values>
+</Asset>

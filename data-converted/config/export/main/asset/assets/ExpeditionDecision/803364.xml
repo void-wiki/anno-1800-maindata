@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803364</GUID>
+      <Name>The Great Sickness 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803365</Option>
+        </Item>
+        <Item>
+          <Option>803380</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A local girl is dead, of smallpox;&lt;/b&gt; a disease your expedition has without doubt brought to these shores. As her mother weeps over her limp and hive-speckled body, it seems inevitable that the contagion will take more lives. "Perhaps we can vaccinate?" says the Captain, "at the very least we can recommend precautions to prevent the disease spreading."</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31553</LineID>
+    </Text>
+  </Values>
+</Asset>

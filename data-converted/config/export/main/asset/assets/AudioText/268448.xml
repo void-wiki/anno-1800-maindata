@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Readying cargo hold.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19729</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238118</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268448</GUID>
+      <Name>AT_MurmurMale4_Battlecruiser_ShipOnRoute03</Name>
+    </Standard>
+  </Values>
+</Asset>

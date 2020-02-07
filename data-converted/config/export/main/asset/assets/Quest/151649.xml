@@ -1,0 +1,269 @@
+<Asset>
+  <Template>Quest</Template>
+  <Values>
+    <Standard>
+      <GUID>151649</GUID>
+      <Name>RQ_Obreros_BookExhibition To be fixed</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification>
+              <NotificationText>21477</NotificationText>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>268144</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>187</QuestGiver>
+      <StoryText>16357</StoryText>
+      <IsEnabled>0</IsEnabled>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <QuestActivation>ManualActivation</QuestActivation>
+      <IsAbortable>1</IsAbortable>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_rqobrero.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <QuestHints>
+        <Item>
+          <Text>17900</Text>
+        </Item>
+        <Item>
+          <Text>17902</Text>
+        </Item>
+      </QuestHints>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintText>16094</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>102219</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>187</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionMutualAreaInSubconditions</Template>
+        <Values>
+          <Condition />
+          <ConditionMutualAreaInSubconditions />
+        </Values>
+      </Condition>
+      <SubConditions>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionUnlocked</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionUnlocked>
+                      <UnlockNeeded>1010471</UnlockNeeded>
+                    </ConditionUnlocked>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+        <Item>
+          <SubCondition>
+            <Template>PreConditionList</Template>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionPlayerCounter</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionPlayerCounter>
+                      <Context>1010471</Context>
+                      <CounterAmount>1</CounterAmount>
+                      <CounterScope>Area</CounterScope>
+                      <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                    </ConditionPlayerCounter>
+                  </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
+          </SubCondition>
+        </Item>
+      </SubConditions>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>High Literature</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20809</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192625</Reward>
+          <Amount>1</Amount>
+          <SentToQuestArea>1</SentToQuestArea>
+          <IsDisguised>1</IsDisguised>
+        </Item>
+      </RewardAssets>
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>UseItemInAreaObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>16105</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPropsSessionSettings />
+              <ConditionQuestUseItemInArea>
+                <ItemToUse>190540</ItemToUse>
+                <TargetAmount>1</TargetAmount>
+              </ConditionQuestUseItemInArea>
+              <SpawnArea>
+                <LimitToQuestArea>1</LimitToQuestArea>
+              </SpawnArea>
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectPrebuiltObject</Template>
+                  <Values>
+                    <ConditionObjectPrebuiltObject>
+                      <PrebuiltObject>1010471</PrebuiltObject>
+                    </ConditionObjectPrebuiltObject>
+                    <ConditionScanner />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </ExecutionPlace>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>UseItemInAreaObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>16105</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPropsSessionSettings />
+              <ConditionQuestUseItemInArea>
+                <ItemToUse>190484</ItemToUse>
+                <TargetAmount>1</TargetAmount>
+              </ConditionQuestUseItemInArea>
+              <SpawnArea />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectPrebuiltObject</Template>
+                  <Values>
+                    <ConditionObjectPrebuiltObject>
+                      <PrebuiltObject>1010471</PrebuiltObject>
+                    </ConditionObjectPrebuiltObject>
+                    <ConditionScanner />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </ExecutionPlace>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>UseItemInAreaObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>16105</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPropsSessionSettings />
+              <ConditionQuestUseItemInArea>
+                <ItemToUse>190485</ItemToUse>
+                <TargetAmount>1</TargetAmount>
+              </ConditionQuestUseItemInArea>
+              <SpawnArea />
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectPrebuiltObject</Template>
+                  <Values>
+                    <ConditionObjectPrebuiltObject>
+                      <PrebuiltObject>1010471</PrebuiltObject>
+                    </ConditionObjectPrebuiltObject>
+                    <ConditionScanner />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </ExecutionPlace>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+      <WinConditionCompletionOrder>MutuallyExclusive</WinConditionCompletionOrder>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>102219</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>Area</SpawnContext>
+                        <MatcherGUID>151638</MatcherGUID>
+                        <LimitToQuestArea>1</LimitToQuestArea>
+                        <DistanceToContext>5</DistanceToContext>
+                        <DistanceToBorder>Near</DistanceToBorder>
+                        <DistanceToIsland>Far</DistanceToIsland>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective>
+            <ObjectiveSignsAndFeedback>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ConditionObjectiveSignsAndFeedback>
+                  <Infolayer>501006</Infolayer>
+                </ConditionObjectiveSignsAndFeedback>
+              </Values>
+            </ObjectiveSignsAndFeedback>
+          </ConditionQuestObjective>
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

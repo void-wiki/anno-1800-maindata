@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800165</GUID>
+      <Name>Calico's Rogues Snare a Merchant Ship 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>1010249</Reward>
+          <Amount>20</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's a good fight in which the crew hold their nerve.&lt;/b&gt; At first range-finding proves difficult, alerting the pirates to ready their own guns. But after a few exchanges it is clear who is better-equipped, and the pirates raise the white flag. Although some of the men sustain injuries, the merchants are able to offer financial recompense.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5523</LineID>
+    </Text>
+  </Values>
+</Asset>

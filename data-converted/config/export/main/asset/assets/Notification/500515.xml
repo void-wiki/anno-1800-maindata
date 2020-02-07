@@ -1,0 +1,23 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>500515</GUID>
+      <Name>Campaign Chapter Introduction</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>CampaignNotification</Template>
+        <Values>
+          <BaseNotification>
+            <NotificationText>10193</NotificationText>
+            <NotificationAudioAsset>201239</NotificationAudioAsset>
+          </BaseNotification>
+          <CampaignNotification>
+            <CampaignNotificationTitle>10194</CampaignNotificationTitle>
+          </CampaignNotification>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

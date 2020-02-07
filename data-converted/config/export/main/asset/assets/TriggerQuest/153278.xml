@@ -1,0 +1,54 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>153278</GUID>
+      <Name>Resettle Quest - ShipInRange Trigger - Jean La Fortune 2</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionShipsInRange</Template>
+        <Values>
+          <Condition />
+          <ConditionShipsInRange>
+            <Range>35</Range>
+            <TargetObject_sir>100682</TargetObject_sir>
+            <CheckSpecificTargetOwner>1</CheckSpecificTargetOwner>
+            <TargetOwnerParticipant>Third_party_04_Pirate_LaFortune</TargetOwnerParticipant>
+            <CheckSpecificShipOwner>1</CheckSpecificShipOwner>
+            <ShipOwnerParticipant>General_Enemy</ShipOwnerParticipant>
+          </ConditionShipsInRange>
+          <SessionFilter />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>153273</Quest>
+                <InheritQuestArea>1</InheritQuestArea>
+                <InheritQuestSession>1</InheritQuestSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionStartQuest</Template>
+            <Values>
+              <Action />
+              <ActionStartQuest>
+                <Quest>153280</Quest>
+                <InheritQuestSession>1</InheritQuestSession>
+              </ActionStartQuest>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

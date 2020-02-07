@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803898</GUID>
+      <Name>Blizzard 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803899</Option>
+        </Item>
+        <Item>
+          <Option>803902</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Not easy handling sails at minus thirty,&lt;/b&gt; and while those brave enough to take on the ice storm are strong enough, their labour is clumsy. As the snowblasted sails are loosened, your men allow them to catch a crosswind and suddenly they are off! Flapping wildly against a creaking mainmast, &lt;b&gt;the sails are threatening to rip half the ship away.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34383</LineID>
+    </Text>
+  </Values>
+</Asset>

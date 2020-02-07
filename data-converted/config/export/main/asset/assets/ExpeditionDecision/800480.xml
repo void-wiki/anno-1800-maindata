@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800480</GUID>
+      <Name>Love Island 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226683</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The hunt goes quite well.&lt;/b&gt; Beautiful boars inhabit the woods, and though tricky to catch, are little trouble for your experts. Though the king will still not allow you to leave with his children, the feast of boar brings everyone together in the moment. The lovers understand this moment is all they have, and the next morning there is an acceptance that it is time to part ways. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5598</LineID>
+    </Text>
+  </Values>
+</Asset>

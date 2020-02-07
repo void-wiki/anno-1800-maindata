@@ -1,0 +1,172 @@
+<Asset>
+  <Template>A7_QuestDivingBellSonar</Template>
+  <Values>
+    <Standard>
+      <GUID>112978</GUID>
+      <Name>VQ Old Nate - Diving Bell Sonar - Hit and Sunk</Name>
+    </Standard>
+    <Quest>
+      <InvitationMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification />
+            <BaseNotification />
+            <NotificationSubtitle>
+              <SubtitleGroup>1818559632</SubtitleGroup>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </InvitationMessage>
+      <QuestGiver>77</QuestGiver>
+      <StoryText>113507</StoryText>
+      <PreActivationTimer>1800000</PreActivationTimer>
+      <QuestCategory>RandomQuest</QuestCategory>
+      <QuestActivation>ConfirmationDialog</QuestActivation>
+      <IsAbortable>1</IsAbortable>
+      <QuestTrackerVisibility>Session</QuestTrackerVisibility>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_questbook_sunken_treasures_02.png</QuestBookBackground>
+      <HasStarterSpeechBubble>1</HasStarterSpeechBubble>
+      <StarterSpeechBubble>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <HintType>Object</HintType>
+            <HintAnchor>BottomRight</HintAnchor>
+            <HintText>113565</HintText>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <ObjectFilter>
+                  <ObjectGUID>111877</ObjectGUID>
+                </ObjectFilter>
+              </Values>
+            </ObjectFilter>
+            <UseSpecificPortrait>1</UseSpecificPortrait>
+            <SpecificPortraitProfile>77</SpecificPortraitProfile>
+          </ConditionTutorialInteraction>
+        </Values>
+      </StarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <Context>112084</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Vulture Eye View</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32221</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>150038</Reward>
+          <Amount>3</Amount>
+        </Item>
+        <Item>
+          <Reward>192567</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>DivingBellObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>113657</TextCombinedContextValue>
+                <QuestTrackerIcon>data/ui/2kimages/main/icons/icon_wifi.png</QuestTrackerIcon>
+                <ObjectiveSignsAndFeedback>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ConditionObjectiveSignsAndFeedback>
+                      <Infolayer>0</Infolayer>
+                      <MinimapToken>0</MinimapToken>
+                      <ShowMinimapToken>0</ShowMinimapToken>
+                    </ConditionObjectiveSignsAndFeedback>
+                  </Values>
+                </ObjectiveSignsAndFeedback>
+              </ConditionQuestObjective>
+              <ConditionQuestDivingBell>
+                <TreasureItem>113621</TreasureItem>
+                <AmountScrapSpots>2</AmountScrapSpots>
+                <ScrapDummyItem>112857</ScrapDummyItem>
+                <SpawnedTreasureGround>114039</SpawnedTreasureGround>
+              </ConditionQuestDivingBell>
+              <SpawnArea>
+                <SpawnContext>Area</SpawnContext>
+                <SpawnAreaType>Water_01</SpawnAreaType>
+                <SpreadObjects>1</SpreadObjects>
+                <DistanceToContext>100</DistanceToContext>
+                <MinObjectDistance>5</MinObjectDistance>
+                <MaxObjectDistance>10</MaxObjectDistance>
+              </SpawnArea>
+              <ConditionPropsExecutionPlaceSettings>
+                <ExecutionPlace>
+                  <Template>ConditionObjectStarterObject</Template>
+                  <Values>
+                    <ConditionScanner />
+                    <ConditionObjectStarterObject />
+                    <ConditionObjectiveSignsAndFeedback />
+                  </Values>
+                </ExecutionPlace>
+                <ExecutionPlaceText>12972</ExecutionPlaceText>
+              </ConditionPropsExecutionPlaceSettings>
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>Specific</HasStarterObject>
+      <StarterObject>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionStarterObject>
+            <StarterObjectObject>
+              <Template>ConditionObjectSpawnedObject</Template>
+              <Values>
+                <ConditionObjectSpawnedObject>
+                  <ExecutionObject>111877</ExecutionObject>
+                  <ObjectSpawnArea>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                      <SpawnArea>
+                        <SpawnContext>Object</SpawnContext>
+                        <MatcherGUID>114038</MatcherGUID>
+                        <DistanceToContext>30</DistanceToContext>
+                      </SpawnArea>
+                    </Values>
+                  </ObjectSpawnArea>
+                  <DoSetVisualObjectOwner>1</DoSetVisualObjectOwner>
+                  <VisualObjectOwner>Third_party_06_Nate</VisualObjectOwner>
+                </ConditionObjectSpawnedObject>
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </StarterObjectObject>
+          </ConditionStarterObject>
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </StarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

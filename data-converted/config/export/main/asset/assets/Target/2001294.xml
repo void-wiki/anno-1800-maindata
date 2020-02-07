@@ -1,0 +1,28 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>COLLECT</ActionID>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer;CheckProperty</Flags>
+          <Property>Walking</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>AndNotNextMatch;NotSelf;IsCollectable;IsCollectableBySelection</Flags>
+        </TargetMatch1>
+        <TargetMatch2>
+          <Flags>CollectableOnSelection</Flags>
+        </TargetMatch2>
+      </Matches>
+      <MouseCursorTarget>2001385</MouseCursorTarget>
+      <MouseCursorDisable>2001207</MouseCursorDisable>
+      <MouseCursorMode>2001372</MouseCursorMode>
+    </Target>
+    <Standard>
+      <GUID>2001294</GUID>
+      <Name>Collect</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

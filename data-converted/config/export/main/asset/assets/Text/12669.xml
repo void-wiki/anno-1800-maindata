@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>12669</GUID>
+      <Name>ReplaceInputs</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_diplomacy_options_trade.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Instead of [ItemAssetData([RefGuid]) ReplaceInputOldInputsFormatted], the building processes [ItemAssetData([RefGuid]) ReplaceInputNewInputsFormatted].</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22646</LineID>
+    </Text>
+  </Values>
+</Asset>

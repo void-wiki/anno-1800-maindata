@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803013</GUID>
+      <Name>Blizzard 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Alas, your mast is not spared.&lt;/b&gt; Your sailors shoot at the ties of the fore sail but the task is too meticulous for them: they shoot at the ropes, the poles, the mast itself. The raging sail is swallowed by the storm while the foremast collapses and crushes the starboard. In a final irony, the storm soon calms down and lets your crew calculate how their lack of meddling would have caused less damage.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22147</LineID>
+    </Text>
+  </Values>
+</Asset>

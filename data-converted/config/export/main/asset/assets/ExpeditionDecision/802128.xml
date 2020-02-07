@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802128</GUID>
+      <Name>Lava Maze 1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202359</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/stranger_things_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Their faith is nothing but hypocrisy in need.&lt;/b&gt; The crew remembers old aves from their worshipping days, but the years have eroded both their memory and their beliefs. They can only watch as the lava packs against the chapel's stained glass and breaks through. The spray of molten stone and broken glass scars all of them but kills none: a bite to remind them of their lack of dedication.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21751</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802796</GUID>
+      <Name>Jolly Roger 1.2.1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Today is not the day you are vanquished by pirates.&lt;/b&gt; The rowdy band charge aboard only to find your resolute crew arranged in a classical shield wall, from which poke percussion cap pistols. Although your crew sustain fairly gruesome injuries from pirate axes, all but one survive. That young lad is given a funeral, unlike the poor dead pirates.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21548</LineID>
+    </Text>
+  </Values>
+</Asset>

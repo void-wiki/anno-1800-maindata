@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800240</GUID>
+      <Name>Of Unsound Mind 1.3.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailors are partially convinced&lt;/b&gt; there is a spiritual explanation for his deranged behavior, but insist on chaining him to his bed. "He must have done something terrible in the eyes of God," they say. Despite all hope for his fast recovery, he dies not two days later, his malady forever a mystery.   </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5738</LineID>
+    </Text>
+  </Values>
+</Asset>

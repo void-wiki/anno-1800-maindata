@@ -1,0 +1,26 @@
+<Asset>
+  <Template>NewsArticleList</Template>
+  <Values>
+    <Standard>
+      <GUID>140647</GUID>
+      <Name>NewsArticleList</Name>
+      <ID>NewsArticleList</ID>
+    </Standard>
+    <NewsArticleList>
+      <ShipBoughtArticle>140555</ShipBoughtArticle>
+      <ShipSoldArticle>140556</ShipSoldArticle>
+      <OwnsBestVisitorIsland>140550</OwnsBestVisitorIsland>
+      <FirstVisitor>140551</FirstVisitor>
+      <VisitorsSurgeIn>140552</VisitorsSurgeIn>
+      <VisitorsDeclineIn>140553</VisitorsDeclineIn>
+      <SpecialVisitor>140554</SpecialVisitor>
+      <ExpeditionStarted>140966</ExpeditionStarted>
+      <ExpeditionSuccess>140968</ExpeditionSuccess>
+      <ExpeditionFailure>140969</ExpeditionFailure>
+      <VictoryLoseBankruptcy>141869</VictoryLoseBankruptcy>
+      <VictoryLoseAnnihilation>141870</VictoryLoseAnnihilation>
+      <HostileTakeoverFinishedByPlayer>141795</HostileTakeoverFinishedByPlayer>
+      <HostileTakeoverFinishedByNpc>141796</HostileTakeoverFinishedByNpc>
+    </NewsArticleList>
+  </Values>
+</Asset>

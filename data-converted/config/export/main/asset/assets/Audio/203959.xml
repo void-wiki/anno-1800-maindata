@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>203959</GUID>
+      <Name>wwe_sfx_env_spot_fountain_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>2</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>15</MaxAttenuation>
+      <StopEvent>203960</StopEvent>
+      <SoundEventType>SmallFeedbackSound</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>203959</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2884088313</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

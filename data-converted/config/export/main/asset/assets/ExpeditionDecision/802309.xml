@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802309</GUID>
+      <Name>Release the Kraken 1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The monstrosity detaches violently!&lt;/b&gt; Your men hack fiercely and without relent at a key tentacle until it severs. The loopeyed beast blubbers a pained raspberry, coating the deck with plankton-infused clamminess, before tearing itself back into the sea, a large section of your ship in tow! Some repairs will be needed!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20941</LineID>
+    </Text>
+  </Values>
+</Asset>

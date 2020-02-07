@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You don’t recognise it? I jest not, this is how we looked in 1602.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16499</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234448</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_73</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266502</GUID>
+      <Name>AT_3rdParty02_Credits_21</Name>
+    </Standard>
+  </Values>
+</Asset>

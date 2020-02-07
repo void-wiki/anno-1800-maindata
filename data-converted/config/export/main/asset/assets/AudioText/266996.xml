@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>See! Her Majesty is paying her last respects, just as Archie promised!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17140</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233487</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Positve</Mood>
+      <DialogSequence>6</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266996</GUID>
+      <Name>AT_Advisor01_movie08_01</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800178</GUID>
+      <Name>The Inspector 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision />
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190348</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The Inspector's lip wobbles.&lt;/b&gt; "I beg you," he says, "I have a gift, if only you will spare us." Sure enough, the gift is brought aboard as promised. But it is only once the Inspector and his soldiers are gone, that it feels safe enough to inspect the new acquisition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5789</LineID>
+    </Text>
+  </Values>
+</Asset>

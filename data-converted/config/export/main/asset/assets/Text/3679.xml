@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>3679</GUID>
+      <Name>Institution Incident Probability Text</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>[AssetForValue(500361, [Selection Object IncidentResolver InfectionChance]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>14735</LineID>
+    </Text>
+  </Values>
+</Asset>

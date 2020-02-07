@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802077</GUID>
+      <Name>The Mutiny 1.2.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802049</Option>
+        </Item>
+        <Item>
+          <Option>802050</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;He refuses, insisting you negotiate on his turf.&lt;/b&gt; "Give us what we ask, or this mob'll turn, I guarantee it," he threatens.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21604</LineID>
+    </Text>
+  </Values>
+</Asset>

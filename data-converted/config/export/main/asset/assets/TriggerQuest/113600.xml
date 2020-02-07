@@ -1,0 +1,98 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>113600</GUID>
+      <Name>SL107_UnderTheSeas Trigger 2</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>queen_comments_vasco</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionPlayMovie</Template>
+            <Values>
+              <Action />
+              <ActionPlayMovie>
+                <Movie>113467</Movie>
+              </ActionPlayMovie>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>1000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionDeleteObjects</Template>
+                            <Values>
+                              <Action />
+                              <ActionDeleteObjects />
+                              <ObjectFilter>
+                                <ObjectGUID>100438</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Third_party_09_Vasco_Silva</ObjectParticipantID>
+                                <ObjectSession>110934</ObjectSession>
+                              </ObjectFilter>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionDeleteObjects</Template>
+                            <Values>
+                              <Action />
+                              <ActionDeleteObjects />
+                              <ObjectFilter>
+                                <ObjectGUID>100441</ObjectGUID>
+                                <CheckParticipantID>1</CheckParticipantID>
+                                <ObjectParticipantID>Third_party_09_Vasco_Silva</ObjectParticipantID>
+                                <ObjectSession>110934</ObjectSession>
+                              </ObjectFilter>
+                            </Values>
+                          </Action>
+                        </Item>
+                        <Item>
+                          <Action>
+                            <Template>ActionEndQuest</Template>
+                            <Values>
+                              <Action />
+                              <ActionEndQuest>
+                                <Quest>114168</Quest>
+                                <WinQuest>1</WinQuest>
+                              </ActionEndQuest>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

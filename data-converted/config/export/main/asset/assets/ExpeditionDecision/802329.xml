@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802329</GUID>
+      <Name>Teeth of the Mountain 1.1.1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The enemy take the high ground,&lt;/b&gt; guns and projectiles proving rather effective for them. They rush their hostage to the neck of the pass, to a large rocky outcrop. It is the perfect cover from which to assault your party, exposed as they are on the bald crest of a slope. Men are dying, it's hopeless to remain. Later, imagining the fate of the poor diplomat, the survivors cannot help but remember the stone head they saw, and the human limb in its jaws.</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20959</LineID>
+    </Text>
+  </Values>
+</Asset>

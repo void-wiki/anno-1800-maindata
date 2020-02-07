@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Inhabitant</Template>
+  <Values>
+    <Standard>
+      <GUID>101967</GUID>
+      <Name>3rd_party_pirates_04</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/3rd_party/3rd_party_04/3rd_party_04_pirate_f_normal_01/3rd_party_04_pirate_f_normal_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/3rd_party/3rd_party_04/3rd_party_04_pirate_m_muscular_01/3rd_party_04_pirate_m_muscular_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/units/3rd_party/3rd_party_04/3rd_party_04_pirate_m_normal_01/3rd_party_04_pirate_m_normal_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Walking>
+      <CurveSegmentDensity>Low</CurveSegmentDensity>
+    </Walking>
+    <DayNightReaction />
+  </Values>
+</Asset>

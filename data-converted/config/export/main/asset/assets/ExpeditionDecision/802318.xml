@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802318</GUID>
+      <Name>Release the Kraken 1.3.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802308</Option>
+        </Item>
+        <Item>
+          <Option>802311</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your crew cannot manage to disentangle themselves,&lt;/b&gt; for the creature is in search of a mate, and filled with frightful lust. Only once it has clambered up the side, and attached its hectocotylus to your ship, does it begin to have misgivings about the romantic potential of this union, and start thinking about dinner instead...</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20949</LineID>
+    </Text>
+  </Values>
+</Asset>

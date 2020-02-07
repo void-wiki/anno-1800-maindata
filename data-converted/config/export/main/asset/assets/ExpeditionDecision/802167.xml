@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802167</GUID>
+      <Name>Selfless Deeds 1.2.1.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The poorly-disguised intruders are identified and given chase.&lt;/b&gt; When asked by an actual bandit about their shift, one of your undercover sailors tries to answer: they fumble and bumble until the bandit grabs them and shouts for intruders. They make a run for it with the others, leaving both kidnappers and children behind.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21022</LineID>
+    </Text>
+  </Values>
+</Asset>

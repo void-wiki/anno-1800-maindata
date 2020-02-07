@@ -1,0 +1,55 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>116707</GUID>
+      <Name>Trigger Trail CloseNote2</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>LeaveUIState</ConditionEvent>
+            <ContextData>TextPopup</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>237</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>116685</NotificationText>
+                      <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+                      <RestrictedToSessionOrRegions>
+                        <Item>
+                          <SessionOrRegion>180045</SessionOrRegion>
+                        </Item>
+                      </RestrictedToSessionOrRegions>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>116426</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

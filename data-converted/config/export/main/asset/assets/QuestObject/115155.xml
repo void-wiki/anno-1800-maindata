@@ -1,0 +1,39 @@
+<Asset>
+  <Template>QuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>115155</GUID>
+      <Name>Broken Dog Sleges</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_sled_frame.png</IconFilename>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+      <DefaultSequence>default</DefaultSequence>
+    </Mesh>
+    <Selection>
+      <GUIType>Quest</GUIType>
+    </Selection>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_unit_groups/exploration_object_broken_sledges.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Broken Husky Sleds</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <SoundEmitter />
+    <Collectable>
+      <PickupCursor>2001028</PickupCursor>
+    </Collectable>
+    <FeedbackController />
+  </Values>
+</Asset>

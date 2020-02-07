@@ -1,0 +1,29 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>117051</GUID>
+      <Name>wooden_logs</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wood_log_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wood_log_pile_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wood_log_pile_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wood_log_pile_03.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

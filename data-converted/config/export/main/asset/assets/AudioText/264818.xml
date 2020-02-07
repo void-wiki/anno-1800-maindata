@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If you cannot save them, their souls will be trapped in the upper world to starve for eternity.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13502</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231258</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>264818</GUID>
+      <Name>AT_Inuit_Phase3_FindSurvivors_Failure</Name>
+    </Standard>
+  </Values>
+</Asset>

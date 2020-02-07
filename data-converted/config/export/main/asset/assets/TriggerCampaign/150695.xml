@@ -1,0 +1,190 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150695</GUID>
+      <Name>CQ261_SessionLoadCheck</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetIslandName</Template>
+            <Values>
+              <Action />
+              <ActionSetIslandName>
+                <SessionIsland>180025</SessionIsland>
+                <IslandAsset>160005</IslandAsset>
+                <NewIslandName>13665</NewIslandName>
+              </ActionSetIslandName>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetIslandName</Template>
+            <Values>
+              <Action />
+              <ActionSetIslandName>
+                <SessionIsland>180025</SessionIsland>
+                <IslandAsset>160006</IslandAsset>
+                <NewIslandName>12019</NewIslandName>
+              </ActionSetIslandName>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetIslandName</Template>
+            <Values>
+              <Action />
+              <ActionSetIslandName>
+                <SessionIsland>180025</SessionIsland>
+                <IslandAsset>160013</IslandAsset>
+                <NewIslandName>16140</NewIslandName>
+              </ActionSetIslandName>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetIslandName</Template>
+            <Values>
+              <Action />
+              <ActionSetIslandName>
+                <SessionIsland>180025</SessionIsland>
+                <IslandAsset>160007</IslandAsset>
+                <NewIslandName>16143</NewIslandName>
+              </ActionSetIslandName>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>152357</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>2000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionRegisterTrigger</Template>
+                            <Values>
+                              <Action />
+                              <ActionRegisterTrigger>
+                                <TriggerAsset>150696</TriggerAsset>
+                              </ActionRegisterTrigger>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>200</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionSetCamera</Template>
+                            <Values>
+                              <Action />
+                              <ActionSetCamera>
+                                <PositionMarker>102504</PositionMarker>
+                                <SessionGUID>180025</SessionGUID>
+                              </ActionSetCamera>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionEvent</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionEvent>
+                      <ConditionEvent>SessionLoaded</ConditionEvent>
+                      <ContextAsset>180025</ContextAsset>
+                      <ContextAssetInfolayer>0</ContextAssetInfolayer>
+                    </ConditionEvent>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionEvent</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionEvent>
+                      <ConditionEvent>MovieFinished</ConditionEvent>
+                      <ContextAsset>300002</ContextAsset>
+                    </ConditionEvent>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

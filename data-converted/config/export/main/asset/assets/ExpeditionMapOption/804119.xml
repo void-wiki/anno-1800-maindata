@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionMapOption</Template>
+  <Values>
+    <Standard>
+      <GUID>804119</GUID>
+      <Name>Map Event B 1.2.1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>forest</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>804122</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+    <ExpeditionMapOption>
+      <OptionPosX>500</OptionPosX>
+      <OptionPosY>500</OptionPosY>
+      <PathSegment>data/ui/2kimages/main/assets/expeditionmap_pathway/bg_expeditionmap_path15.png</PathSegment>
+      <PathPosX>500</PathPosX>
+      <PathPosY>500</PathPosY>
+    </ExpeditionMapOption>
+  </Values>
+</Asset>

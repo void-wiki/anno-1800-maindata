@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803088</GUID>
+      <Name>Ghosts in the Ice 1.1.1.1.1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;There are not enough supplies for both your crew and theirs.&lt;/b&gt; Your sailors stop rummaging through their cargo and must deny the stranded men their hope of renewed supplies. The poor souls are too weak to vent their anger, but their empty looks and cursing whispers follow your crew long after the ghost ship has been swallowed by the horizon.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23435</LineID>
+    </Text>
+  </Values>
+</Asset>

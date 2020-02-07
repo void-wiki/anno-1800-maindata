@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>But the game is jolly boring. Half the time I’m asleep before anyone discovers my island!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16493</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234442</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>credits_55</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266496</GUID>
+      <Name>AT_3rdParty02_Credits_15</Name>
+    </Standard>
+  </Values>
+</Asset>

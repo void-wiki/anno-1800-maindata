@@ -1,0 +1,44 @@
+<Template>
+  <Name>Portrait</Name>
+  <Properties>
+    <Portrait>
+      <AmbientName>Portrait Light </AmbientName>
+      <CamFile>data/config/portraitcam/default.portraitcam</CamFile>
+      <PortraitColor>-3923679</PortraitColor>
+      <VideoPresentation>
+        <Left>
+          <AmbientName>Portrait Light </AmbientName>
+          <CamFile>data/config/portraitcam/default.portraitcamleft</CamFile>
+        </Left>
+        <Right>
+          <AmbientName>Portrait Light </AmbientName>
+          <CamFile>data/config/portraitcam/default.portraitcamright</CamFile>
+        </Right>
+      </VideoPresentation>
+      <PortraitCameraAmbientConfig>
+        <VideoLeft>
+          <CamFile>data/config/portraitcam/default.portraitcamleft</CamFile>
+        </VideoLeft>
+        <VideoRight>
+          <CamFile>data/config/portraitcam/default.portraitcamright</CamFile>
+        </VideoRight>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard />
+    <Mesh>
+      <ObjectPosition>Unmanaged</ObjectPosition>
+      <DefaultSequence>portrait_neutral_idle</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/meta/advisor_global_union_meta/advisor_global_union_meta.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>0</DefaultLockedState>
+      <Scope>Account</Scope>
+    </Locked>
+  </Properties>
+</Template>

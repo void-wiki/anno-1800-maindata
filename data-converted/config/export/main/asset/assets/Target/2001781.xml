@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>INTERACT</ActionID>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>AndNextMatch;OwnedByPlayer;CheckProperty</Flags>
+          <Property>CommandQueue</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>NotSelf;IsInteractable</Flags>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>Never</Flags>
+        </DisableMatch1>
+        <SelectionMatch2>
+          <Flags>CheckProperty</Flags>
+          <Property>Walking</Property>
+        </SelectionMatch2>
+      </Matches>
+      <MouseCursorTarget>2001385</MouseCursorTarget>
+    </Target>
+    <Standard>
+      <GUID>2001781</GUID>
+      <Name>Interact</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>9899006</GUID>
+      <Name>Attractiveness level reached</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_company_level.png</IconFilename>
+      <ID>NotificationCityLevelIncreased</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501355</IconAsset>
+            <NotificationSideTitle>10681</NotificationSideTitle>
+            <FilterType>VisitorsAndCulture</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>10682</NotificationText>
+            <NotificationBlockingTime>3600000</NotificationBlockingTime>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationGroup>Visitors</NotificationGroup>
+            <DisplayTimeout>6000</DisplayTimeout>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265370</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

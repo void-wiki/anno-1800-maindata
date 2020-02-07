@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802455</GUID>
+      <Name>Wood Keeper 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>120041</Reward>
+          <Amount>5</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Too awful to be true.&lt;/b&gt; As the villagers rush, your men fire wildly, before realising they are both unarmed and intent only on recovering their food. One of them is hit— a woman. There is nothing your medics can do for her. The sense of shame is only compounded on return to the ship, when a group of your men are found to have stolen supplies belonging to the villagers, in spite of everything. Your expedition can barely look one another in the eye. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20899</LineID>
+    </Text>
+  </Values>
+</Asset>

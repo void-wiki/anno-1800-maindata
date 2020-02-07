@@ -1,0 +1,38 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800584</GUID>
+      <Name>Lost in the Desert 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800577</Option>
+        </Item>
+        <Item>
+          <Option>800578</Option>
+        </Item>
+        <Item>
+          <Option>800579</Option>
+        </Item>
+        <Item>
+          <Option>800580</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <Conclusion>22694</Conclusion>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The "stars are fickle", say your officers by way of excuse.&lt;/b&gt; After traveling for a while, the familiar shape of the well appears in the darkness. Your men have been walking in a circle.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5863</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Template>
+  <Name>ExplodingProjectile</Name>
+  <Properties>
+    <Standard />
+    <Projectile>
+      <ProjectileSpeed>2</ProjectileSpeed>
+    </Projectile>
+    <Mesh>
+      <ObjectPosition>Dynamic</ObjectPosition>
+    </Mesh>
+    <Object>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Exploder>
+      <InnerDamageRadius>10</InnerDamageRadius>
+      <InnerDamage>50</InnerDamage>
+      <DebrisForceY>10</DebrisForceY>
+      <DebrisCount>10</DebrisCount>
+    </Exploder>
+    <SoundEmitter />
+    <UpgradeList />
+    <ProjectileIncident />
+  </Properties>
+</Template>

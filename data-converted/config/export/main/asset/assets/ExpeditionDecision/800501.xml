@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800501</GUID>
+      <Name>Love Island 1.4.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226693</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is a significant blow.&lt;/b&gt; Any happiness the crew might feel at their comrades finding love is consumed by feelings of resentment. How could they have been so selfish? The expedition goes on, but those who are still a part must take on twice as much work.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5621</LineID>
+    </Text>
+  </Values>
+</Asset>

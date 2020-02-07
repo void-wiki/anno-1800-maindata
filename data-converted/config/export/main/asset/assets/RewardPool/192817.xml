@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192817</GUID>
+      <Name>Characters - Vicente - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192226</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192227</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192228</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192229</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

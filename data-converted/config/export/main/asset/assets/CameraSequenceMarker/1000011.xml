@@ -1,0 +1,21 @@
+<Asset>
+  <Template>CameraSequenceMarker</Template>
+  <Values>
+    <Standard>
+      <GUID>1000011</GUID>
+      <Name>Camera Sequence Marker</Name>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/placeholder.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+      <AddToObjectGroups>0</AddToObjectGroups>
+    </Object>
+  </Values>
+</Asset>

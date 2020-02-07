@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>804005</GUID>
+      <Name>Wall of Ice 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>804006</Option>
+        </Item>
+        <Item>
+          <Option>804009</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The iceberg fights back.&lt;/b&gt; Though the way is almost clear, the relentless cannonfire seems to have woken the ogre below, and to the horror of the crew the vast berg rolls slightly to one side. Great shards of ice detach and bounce over the deck, injuring your men. &lt;b&gt;Quick action is needed.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>7</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35272</LineID>
+    </Text>
+  </Values>
+</Asset>

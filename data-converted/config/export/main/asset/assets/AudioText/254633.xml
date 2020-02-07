@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We have to head north before the Arctic winter takes grip!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8059</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>230205</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>254633</GUID>
+      <Name>AT_LadyFaithful_Phase1_ExpeditionEvent_ReminderAudio</Name>
+    </Standard>
+  </Values>
+</Asset>

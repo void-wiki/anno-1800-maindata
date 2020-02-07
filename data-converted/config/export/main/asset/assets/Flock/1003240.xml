@@ -1,0 +1,41 @@
+<Asset>
+  <Template>Flock</Template>
+  <Values>
+    <Flock>
+      <Speed>0.07</Speed>
+      <AutoSpawnOverIsland>0</AutoSpawnOverIsland>
+      <MinHeight>5</MinHeight>
+      <MaxHeight>12</MaxHeight>
+    </Flock>
+    <Standard>
+      <GUID>1003240</GUID>
+      <Name>BirdFlock Vulture</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_parrot.png</IconFilename>
+      <ID>Herd_Air_5</ID>
+    </Standard>
+    <Mesh>
+      <OnlyVisibleInEditor>1</OnlyVisibleInEditor>
+    </Mesh>
+    <Object>
+      <Type>EditorObject</Type>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/ui/placeholder/herd_vulture.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <SoundEmitter />
+    <AnimalBase>
+      <AnimalCFGs>
+        <Item>
+          <AnimalCFG>data/graphics/units/wildlife/vulture/vulture.cfg</AnimalCFG>
+        </Item>
+      </AnimalCFGs>
+      <AutoSpawnDuringMapLoad>0</AutoSpawnDuringMapLoad>
+      <AutoSpawn_AmbientZones>North</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Moderate</AutoSpawn_Regions>
+      <UnitCountMin>3</UnitCountMin>
+      <Animal_AudioLoop>235634</Animal_AudioLoop>
+    </AnimalBase>
+  </Values>
+</Asset>

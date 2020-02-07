@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>How dare you...</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17148</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233463</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>6</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267158</GUID>
+      <Name>AT_Advisor01_movie12_01</Name>
+    </Standard>
+  </Values>
+</Asset>

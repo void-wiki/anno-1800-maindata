@@ -1,0 +1,15 @@
+<Template>
+  <Name>SettlementRightsFeature</Name>
+  <Properties>
+    <Standard />
+    <SettlementRights />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>30000</Amount>
+        </Item>
+      </Costs>
+    </Cost>
+  </Properties>
+</Template>

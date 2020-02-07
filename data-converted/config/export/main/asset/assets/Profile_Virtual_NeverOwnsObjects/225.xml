@@ -1,0 +1,42 @@
+<Asset>
+  <Template>Profile_Virtual_NeverOwnsObjects</Template>
+  <Values>
+    <Standard>
+      <GUID>225</GUID>
+      <Name>Mercier_DeserterWorker</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_09.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anarchy Defector</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31504</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/campaign_portrait_09.png</ProfilePicture>
+      <Portrait>101307</Portrait>
+      <CompanyIcon>111838</CompanyIcon>
+      <ParticipantID>Mercier_DeserterWorker</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <QuestPoolList>
+        <Item>
+          <QuestPool>110932</QuestPool>
+        </Item>
+      </QuestPoolList>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Mercier_DeserterWorker</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject />
+    <Interaction />
+    <Locked>
+      <DLCDependency>4100010</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

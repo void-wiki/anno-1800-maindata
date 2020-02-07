@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803913</GUID>
+      <Name>Blizzard 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <InsertEvent>804147</InsertEvent>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_blizzard.png</Sketch>
+        <SketchPosX>1196</SketchPosX>
+        <SketchPosY>210</SketchPosY>
+        <SketchSizeX>121</SketchSizeX>
+        <SketchSizeY>98</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Faith and prudence.&lt;/b&gt; Your sailors huddle below, rocked hard, but out of harm's way. They resist the temptation to attend the creaking ship and its rudder and trust their course to the divine. Soon the grog is flowing, sailors play at cribbage, and all forget where they be. "Hold! I hear no storm," a sailor says suddenly. The hatch is opened to reveal stillness and stars, and &lt;b&gt;a harlequin snake of an aurora, smiling down benevolent.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34880</LineID>
+    </Text>
+  </Values>
+</Asset>

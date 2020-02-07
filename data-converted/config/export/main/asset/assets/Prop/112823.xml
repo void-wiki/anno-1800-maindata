@@ -1,0 +1,27 @@
+<Asset>
+  <Template>Prop</Template>
+  <Values>
+    <Standard>
+      <GUID>112823</GUID>
+      <Name>Tree Dead Ground Snow 01</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/props/terrain_props/vegetation/trees/tree_dead_snow_ground_01.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/props/terrain_props/vegetation/trees/tree_dead_snow_ground_03.prp</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/props/terrain_props/vegetation/trees/tree_dead_snow_stump_01.prp</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Prop>
+      <HerdBlocking>PassableWhenSparse</HerdBlocking>
+      <VegetationType>Tree</VegetationType>
+    </Prop>
+  </Values>
+</Asset>

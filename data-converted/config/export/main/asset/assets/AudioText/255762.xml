@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>To the floor! There's too much smoke.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>8011</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217444</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>255762</GUID>
+      <Name>AT_res_tier04_IncidentFire1</Name>
+    </Standard>
+  </Values>
+</Asset>

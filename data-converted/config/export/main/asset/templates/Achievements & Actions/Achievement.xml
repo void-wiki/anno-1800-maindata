@@ -1,0 +1,23 @@
+<Template>
+  <Name>Achievement</Name>
+  <Properties>
+    <Standard />
+    <Achievement />
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionAlwaysTrue</Template>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked>
+      <Scope>Account</Scope>
+    </Locked>
+    <TriggerSetup>
+      <AutoRegisterTrigger>1</AutoRegisterTrigger>
+      <AutoSelfUnlock>1</AutoSelfUnlock>
+    </TriggerSetup>
+  </Properties>
+</Template>

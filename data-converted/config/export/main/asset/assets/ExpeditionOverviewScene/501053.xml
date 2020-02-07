@@ -1,0 +1,21 @@
+<Asset>
+  <Template>ExpeditionOverviewScene</Template>
+  <Values>
+    <Standard>
+      <GUID>501053</GUID>
+      <Name>ExpeditionOverviewScene</Name>
+      <ID>ExpeditionOverviewScene</ID>
+    </Standard>
+    <ExpeditionOverviewScene>
+      <ExpeditionShowEventButtonText>2986</ExpeditionShowEventButtonText>
+      <ExpeditionShowEventButtonSound>226720</ExpeditionShowEventButtonSound>
+      <StartExpeditionWithTradeButtonText>12641</StartExpeditionWithTradeButtonText>
+      <StartExpeditionWithTradeButtonSound>214791</StartExpeditionWithTradeButtonSound>
+      <StartExpeditionButtonText>2637</StartExpeditionButtonText>
+      <StartExpeditionButtonSound>214791</StartExpeditionButtonSound>
+      <AssignShipToExpeditionButtonText>2635</AssignShipToExpeditionButtonText>
+      <AssignShipToExpeditionButtonSound>226720</AssignShipToExpeditionButtonSound>
+      <PreparationVideo>data/ui/video/expedition/expedition_overview_a.bk2</PreparationVideo>
+    </ExpeditionOverviewScene>
+  </Values>
+</Asset>

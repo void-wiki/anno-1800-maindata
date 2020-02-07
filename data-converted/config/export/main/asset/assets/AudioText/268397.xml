@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>We have taken damage.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19682</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238064</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268397</GUID>
+      <Name>AT_MurmurMale3_OilTanker_SelectShipDamaged03</Name>
+    </Standard>
+  </Values>
+</Asset>

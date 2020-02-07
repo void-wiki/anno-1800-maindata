@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801002</GUID>
+      <Name>Mysterious Artefacts 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>801003</Option>
+        </Item>
+        <Item>
+          <Option>801004</Option>
+        </Item>
+        <Item>
+          <Option>801005</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The discovery of several strange artifacts aboard spooks the crew.&lt;/b&gt; Tied to the rigging, bunks, boards, and even atop the captain's desk. A warning, a threat? And who put them there? Since the nearby island is uninhabited, it is sensible only to think the perpetrator must be aboard. The crew must know or have seen something last night! </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13169</LineID>
+    </Text>
+  </Values>
+</Asset>

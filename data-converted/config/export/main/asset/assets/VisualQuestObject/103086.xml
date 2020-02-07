@@ -1,0 +1,32 @@
+<Asset>
+  <Template>VisualQuestObject</Template>
+  <Values>
+    <Standard>
+      <GUID>103086</GUID>
+      <Name>dolphin - Alonsos Damn Dolphins</Name>
+    </Standard>
+    <Mesh>
+      <MeshPlacement>OnWater</MeshPlacement>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/units/wildlife/dolphin/dolphin.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <QuestObject />
+    <FeedbackController />
+    <SoundEmitter />
+    <Walking>
+      <SpecialMovementType />
+      <PathPlannerLayer>Animal</PathPlannerLayer>
+      <Acceleration>1</Acceleration>
+      <TurnRadius>0.15</TurnRadius>
+      <TurnSpeed>130</TurnSpeed>
+      <TurnDeceleration>0</TurnDeceleration>
+    </Walking>
+    <Infolayer />
+    <Text />
+  </Values>
+</Asset>

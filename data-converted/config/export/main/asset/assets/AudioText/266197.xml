@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A commission for the Royal fleet! And in such quantity! A rare honour indeed!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17167</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233333</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266197</GUID>
+      <Name>advisor01_BuildRoyalNavy_01</Name>
+    </Standard>
+  </Values>
+</Asset>

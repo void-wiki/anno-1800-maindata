@@ -1,0 +1,67 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>111797</GUID>
+      <Name>Trigger Propaganda Quests Increase Chance</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionUnlocked</Template>
+        <Values>
+          <Condition />
+          <ConditionUnlocked>
+            <UnlockNeeded>112094</UnlockNeeded>
+          </ConditionUnlocked>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionModifyVariable</Template>
+            <Values>
+              <Action />
+              <ActionModifyVariable>
+                <Variable>Mercier_PropagandaQuestChance</Variable>
+                <Modifier>Add</Modifier>
+                <ModificationValue>10</ModificationValue>
+                <ClampVariableValue>1</ClampVariableValue>
+                <ClampValueMax>100</ClampValueMax>
+              </ActionModifyVariable>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionResetTrigger</Template>
+            <Values>
+              <Action />
+              <ActionResetTrigger />
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionNewspaperPublished</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionNewspaperPublished />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup>
+      <UsedBySecondParties>0</UsedBySecondParties>
+    </TriggerSetup>
+  </Values>
+</Asset>

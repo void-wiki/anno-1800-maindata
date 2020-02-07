@@ -1,0 +1,21 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>239709</GUID>
+      <Name>wwe_sfx_bld_factory_11_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>37</MaxAttenuation>
+      <StopEvent>239711</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3868812584</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800477</GUID>
+      <Name>Love Island 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226688</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The awkward gestures and diagrams in the sand&lt;/b&gt; prove highly offensive to the king and his people. Sensing outrage, the crew back away towards the ship. The angry locals fire arrows at their former amours. Fittingly, one is struck in the heart, and bleeds out into the brine. The rest return lovelorn, to their dreary maps and compasses.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5604</LineID>
+    </Text>
+  </Values>
+</Asset>

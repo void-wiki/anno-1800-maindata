@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>If you weed out a single Pyrphorian you are to bring them to me first for questioning! Is that understood?</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16692</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233241</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>261194</GUID>
+      <Name>AT_3rdParty07_WelcomeCampaign</Name>
+    </Standard>
+  </Values>
+</Asset>

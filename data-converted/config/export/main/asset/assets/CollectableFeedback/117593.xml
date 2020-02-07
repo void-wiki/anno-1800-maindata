@@ -1,0 +1,48 @@
+<Asset>
+  <Template>CollectableFeedback</Template>
+  <Values>
+    <Collectable>
+      <CollectOnSelection>0</CollectOnSelection>
+      <CollectableType>LandCollectable</CollectableType>
+    </Collectable>
+    <Mesh>
+      <MeshPlacement>OnTerrain</MeshPlacement>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_unit_groups/exploration_dead_shaman.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Standard>
+      <GUID>117593</GUID>
+      <Name>Inuit_Explore_Medicine_Quest_27_Medicine</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/plants/item_blueberry.png</IconFilename>
+    </Standard>
+    <Selection>
+      <InteractionDistance>1</InteractionDistance>
+    </Selection>
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cranberries</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35881</LineID>
+    </Text>
+    <Infolayer>
+      <DefaultInfoLayer>500334</DefaultInfoLayer>
+    </Infolayer>
+    <MinimapToken />
+    <SoundEmitter />
+    <QuestObject />
+    <Locked />
+    <ItemContainer />
+    <Lifetime />
+    <FeedbackController />
+  </Values>
+</Asset>

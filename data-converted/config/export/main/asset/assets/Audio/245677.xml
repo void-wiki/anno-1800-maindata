@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>245677</GUID>
+      <Name>Play_AI_OLDNA_JP2QF_3NRJQ_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>4677</DurationMinimum>
+          <DurationMaximum>6730</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>5245</DurationMinimum>
+          <DurationMaximum>6832</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>5254</DurationMinimum>
+          <DurationMaximum>6267</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>4619</DurationMinimum>
+          <DurationMaximum>6166</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3201293001</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

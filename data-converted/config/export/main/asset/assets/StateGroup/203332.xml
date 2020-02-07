@@ -1,0 +1,29 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>203332</GUID>
+      <Name>st_mur_riot</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>2868148442</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>203779</Choice>
+        </Item>
+        <Item>
+          <Choice>203780</Choice>
+        </Item>
+        <Item>
+          <Choice>203781</Choice>
+        </Item>
+        <Item>
+          <Choice>203782</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501210</GUID>
+      <Name>FestivalEnded</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_kontor3.png</IconFilename>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification>
+            <IconAsset>501370</IconAsset>
+            <FilterType>VisitorsAndCulture</FilterType>
+          </SideNotification>
+          <BaseNotification>
+            <NotificationText>15220</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>352</NotificationPriority>
+            <NotificationGroup>Festival</NotificationGroup>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265205</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My sword is fashioned from Ukku steel, but to produce in these quantities!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17351</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232629</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266800</GUID>
+      <Name>advisor02_Ch2Ph1_Additional_07</Name>
+    </Standard>
+  </Values>
+</Asset>

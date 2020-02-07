@@ -1,0 +1,45 @@
+<Asset>
+  <Template>TownhallItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190040</GUID>
+      <Name>PopulationItem</Name>
+      <IconFilename>data/ui/2kimages/main/icons/icon_attractiveness_house_big.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>National Housing Market</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <ItemSet>190108</ItemSet>
+      <TradePrice>50000</TradePrice>
+    </Item>
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>190041</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <BuildingUpgrade />
+    <PopulationUpgrade>
+      <ResidentsUpgrade>
+        <Value>5</Value>
+      </ResidentsUpgrade>
+    </PopulationUpgrade>
+    <ItemAction />
+    <ExpeditionAttribute />
+    <ResidenceUpgrade />
+    <VisitorHarborUpgrade />
+    <CultureUpgrade />
+    <IncidentInfectableUpgrade />
+    <IncidentInfluencerUpgrade />
+    <Locked />
+    <Buff />
+    <CraftableItem />
+    <VisualEffectWhenActive />
+  </Values>
+</Asset>

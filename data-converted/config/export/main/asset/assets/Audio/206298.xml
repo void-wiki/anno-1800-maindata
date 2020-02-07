@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>206298</GUID>
+      <Name>wwe_sfx_bld_heavy_04_lp</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <ActivationRangeOffset>0</ActivationRangeOffset>
+      <MaxAttenuation>30</MaxAttenuation>
+      <StopEvent>206300</StopEvent>
+      <SoundEventType>MiddleBuildingSound</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>206299</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2018924109</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

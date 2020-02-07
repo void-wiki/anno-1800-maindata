@@ -1,0 +1,64 @@
+<Asset>
+  <Template>Slot</Template>
+  <Values>
+    <Standard>
+      <GUID>116038</GUID>
+      <Name>mining_arctic_02_slot (Gold Slot)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_gold_ore.png</IconFilename>
+    </Standard>
+    <Blocking />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/landscape/terrain/mining_blockers/mining_blocker_colony03_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Slot>
+      <SlotType>GoldOre</SlotType>
+      <AutoChangeVariation>1</AutoChangeVariation>
+      <WorkAreaPathSnapDummy>workareapath</WorkAreaPathSnapDummy>
+    </Slot>
+    <Selection />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Gold Deposit</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35088</LineID>
+    </Text>
+    <MinimapToken>
+      <TokenAsset>2002226</TokenAsset>
+    </MinimapToken>
+    <RandomMapObject />
+    <Building>
+      <AssociatedRegions>Arctic</AssociatedRegions>
+    </Building>
+    <SoundEmitter>
+      <ConstructionSounds>
+        <BuildSuccessful>
+          <Item>
+            <VectorElement>
+              <InheritedIndex>0</InheritedIndex>
+              <InheritanceMapV2>
+                <Entry>
+                  <TemplateName>Slot</TemplateName>
+                  <Index>0</Index>
+                </Entry>
+              </InheritanceMapV2>
+            </VectorElement>
+            <Sound>202368</Sound>
+          </Item>
+        </BuildSuccessful>
+      </ConstructionSounds>
+    </SoundEmitter>
+    <Infolayer>
+      <DefaultInfoLayer>500481</DefaultInfoLayer>
+    </Infolayer>
+    <QuestObject />
+  </Values>
+</Asset>

@@ -1,0 +1,38 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700048</GUID>
+      <Name>AP - All Kontors SA</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>101290</Asset>
+        </Item>
+        <Item>
+          <Asset>101291</Asset>
+        </Item>
+        <Item>
+          <Asset>101292</Asset>
+        </Item>
+        <Item>
+          <Asset>101293</Asset>
+        </Item>
+        <Item>
+          <Asset>101294</Asset>
+        </Item>
+        <Item>
+          <Asset>101295</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Asset Pool All Kontors</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,32 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>ATTACK</ActionID>
+      <Matches>
+        <SelectionMatch1>
+          <Flags>AndNextMatch;OwnedByPlayer;CheckProperty</Flags>
+          <Property>Attacker</Property>
+        </SelectionMatch1>
+        <TargetMatch1>
+          <Flags>CheckProperty;NotSelf;OwnedByEnemy;Attackable</Flags>
+          <Property>Attackable</Property>
+        </TargetMatch1>
+        <SelectionMatch2>
+          <Flags>CheckProperty</Flags>
+          <Property>CommandQueue</Property>
+        </SelectionMatch2>
+      </Matches>
+      <MouseCursorTarget>2001298</MouseCursorTarget>
+      <MouseCursorDisable>2001299</MouseCursorDisable>
+      <MouseCursorMode>2001297</MouseCursorMode>
+      <MouseCursorPosition>2001297</MouseCursorPosition>
+      <MouseCursorPositionDisable>2001299</MouseCursorPositionDisable>
+    </Target>
+    <Standard>
+      <GUID>2001296</GUID>
+      <Name>Attack</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

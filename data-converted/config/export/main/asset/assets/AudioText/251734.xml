@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sealed by magic, you won't get in, it's absolutely 'permeable'!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2656</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212484</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251734</GUID>
+      <Name>AT_ai03_PlyrSelectsNpcBuildingAtWar3</Name>
+    </Standard>
+  </Values>
+</Asset>

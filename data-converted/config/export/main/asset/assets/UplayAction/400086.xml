@@ -1,0 +1,44 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>400086</GUID>
+      <Name>Action_Achievement_Bookworm</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>Campaign</AchievementCategory>
+      <AchievementTitle>15550</AchievementTitle>
+      <AchievementDescription>15551</AchievementDescription>
+      <AchievementUPlayID>5</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionTextPopupPagesViewed</Template>
+        <Values>
+          <Condition />
+          <ConditionTextPopupPagesViewed>
+            <PagesViewed>
+              <DiaryPage1>
+                <ViewCount>1</ViewCount>
+              </DiaryPage1>
+              <DiaryPage2>
+                <ViewCount>1</ViewCount>
+              </DiaryPage2>
+              <DiaryPage3>
+                <ViewCount>1</ViewCount>
+              </DiaryPage3>
+            </PagesViewed>
+          </ConditionTextPopupPagesViewed>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>4</UplayActionID>
+      <UplayActionPoints>20</UplayActionPoints>
+      <UplayXP>100</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

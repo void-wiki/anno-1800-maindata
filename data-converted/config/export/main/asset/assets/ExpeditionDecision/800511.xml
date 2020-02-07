@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800511</GUID>
+      <Name>The Singular Case of the Midshipman 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;This lot aren't bloodhounds that's for sure,&lt;/b&gt; and turn up nothing even with a strong whiff of murder about it all. With the incompetent investigation ending conspicuously silent, the crew must last the remainder of the expedition in fear they are marked next on the list.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5907</LineID>
+    </Text>
+  </Values>
+</Asset>

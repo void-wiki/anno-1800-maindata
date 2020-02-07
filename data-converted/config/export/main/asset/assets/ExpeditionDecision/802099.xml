@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802099</GUID>
+      <Name>Sea Still 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190423</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your steamer glides effortlessly through.&lt;/b&gt; The crew lean from the rails to peer at the sargassum colony, which is thick with sealife such as crab and tropical fish. The algae parts easily before your ship. The absence of wind presents no difficulty as it would for a sailboat; and indeed the crew of the ship in distress explain as you tug them into open water, it was not the algae but the calm that had stalled them. They are delighted to have been discovered, and several of them offer to join your expedition.</Text>
+          <Status>Exported</Status>
+          <ExportCount>10</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21484</LineID>
+    </Text>
+  </Values>
+</Asset>

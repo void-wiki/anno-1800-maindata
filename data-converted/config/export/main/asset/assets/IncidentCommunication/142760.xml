@@ -1,0 +1,24 @@
+<Asset>
+  <Template>IncidentCommunication</Template>
+  <Values>
+    <Standard>
+      <GUID>142760</GUID>
+      <Name>ArcticIllnessDefaultCommunication</Name>
+    </Standard>
+    <IncidentCommunication>
+      <IncidentStartWithoutNearbyResolverNotification>116128</IncidentStartWithoutNearbyResolverNotification>
+      <IncidentLostFirstBuildingNotification>116134</IncidentLostFirstBuildingNotification>
+      <IncidentEscalatedNotification>116135</IncidentEscalatedNotification>
+      <IncidentEndNotification>116136</IncidentEndNotification>
+      <IncidentEndDestructionNotification>116137</IncidentEndDestructionNotification>
+      <IncidentPamsyTriggers>
+        <Item>
+          <InfectedAreaSize>27</InfectedAreaSize>
+          <PaMSyTrigger>IncidentStart</PaMSyTrigger>
+          <PaMSyContextAsset>142753</PaMSyContextAsset>
+        </Item>
+      </IncidentPamsyTriggers>
+      <IncidentMusicType>Illness</IncidentMusicType>
+    </IncidentCommunication>
+  </Values>
+</Asset>

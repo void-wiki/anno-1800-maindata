@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801594</GUID>
+      <Name>Sunken Depths 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The homemade diving bell falls apart.&lt;/b&gt; The engineers, specialized in complex ship machinery, have no idea on how to make such a simple device. Their machine departs with two men onboard, and they continue to dive while the bell itself stays afloat. When the divers emerge, the engineers take an earful and the crew is too disheartened to make a new attempt.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16134</LineID>
+    </Text>
+  </Values>
+</Asset>

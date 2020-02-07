@@ -1,0 +1,71 @@
+<Asset>
+  <Template>FeedbackVehicle</Template>
+  <Values>
+    <Standard>
+      <GUID>1010164</GUID>
+      <Name>Horse Drawn Carriage 01 (Rear)</Name>
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/vehicle/horse_drawn_carriage_01/horse_drawn_carriage_01_rear.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/horse_drawn_carriage_02/horse_drawn_carriage_02_rear.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/horse_drawn_carriage_03/horse_drawn_carriage_03_rear.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/horse_drawn_carriage_04/horse_drawn_carriage_04_rear.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/horse_drawn_carriage_05/horse_drawn_carriage_05_rear.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/vehicle/horse_drawn_carriage_06/horse_drawn_carriage_06_rear.cfg</Filename>
+        </Item>
+      </Variations>
+      <DefaultParticipant>Human0</DefaultParticipant>
+    </Object>
+    <Mesh>
+      <MeshPlacement>OnTerrainSlope</MeshPlacement>
+    </Mesh>
+    <Selection>
+      <Selectable>0</Selectable>
+      <DestructSelectable>0</DestructSelectable>
+    </Selection>
+    <Walking>
+      <PathPlannerLayer>Water</PathPlannerLayer>
+      <ExpensiveDirSmoothing>1</ExpensiveDirSmoothing>
+      <LeaningMaxAngle>10</LeaningMaxAngle>
+      <ForwardSpeed>8.4</ForwardSpeed>
+      <CreatePathPlannerUnit>0</CreatePathPlannerUnit>
+    </Walking>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Tourism Ship</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <SoundEmitter />
+    <CommandQueue>
+      <FollowRadius>4</FollowRadius>
+      <FormationPriority>1</FormationPriority>
+    </CommandQueue>
+    <Drifting>
+      <OverrideAssetWidthAndLength>0</OverrideAssetWidthAndLength>
+      <Length>2.7</Length>
+      <Width>0.8</Width>
+      <AffectedByDriftingWhileIdle>0</AffectedByDriftingWhileIdle>
+      <AffectedByDriftingWhileMoving>0</AffectedByDriftingWhileMoving>
+      <CausesDrifting>0</CausesDrifting>
+      <UseSlowDownTactic>0</UseSlowDownTactic>
+    </Drifting>
+    <MinimapToken />
+    <QuestObject />
+    <Infolayer />
+    <FeedbackController />
+  </Values>
+</Asset>

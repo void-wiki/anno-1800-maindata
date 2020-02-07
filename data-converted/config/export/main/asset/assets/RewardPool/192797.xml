@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192797</GUID>
+      <Name>Culture - Faraway Artifacts - Legendary</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>190502</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190504</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190505</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>190475</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

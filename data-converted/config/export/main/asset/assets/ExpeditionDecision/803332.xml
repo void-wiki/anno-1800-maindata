@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803332</GUID>
+      <Name>Good Whale Hunting 1.5.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803335</Option>
+        </Item>
+        <Item>
+          <Option>803338</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The diving bell's rope tightens, then floats back up.&lt;/b&gt; Both equipment and sailor are lost to the unfathomable depths and their gigantic inhabitants, and the crew ponders whether the accident was caused by chance or animal malevolence.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26345</LineID>
+    </Text>
+  </Values>
+</Asset>

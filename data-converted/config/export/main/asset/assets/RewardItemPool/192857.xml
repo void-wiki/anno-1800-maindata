@@ -1,0 +1,23 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192857</GUID>
+      <Name>Blake Uncommon Consumables</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192648</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192653</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192668</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

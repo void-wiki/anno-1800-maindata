@@ -1,0 +1,19 @@
+<Template>
+  <Name>MovingMobDummy</Name>
+  <Properties>
+    <Standard />
+    <Mesh>
+      <HeatEffect>1</HeatEffect>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/emptyDummy/emptydummy.cfg</Filename>
+        </Item>
+      </Variations>
+      <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+    </Object>
+    <Infolayer />
+    <SoundEmitter />
+  </Properties>
+</Template>

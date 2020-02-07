@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800945</GUID>
+      <Name>The Icy Blizzard 1.3.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800965</Option>
+        </Item>
+        <Item>
+          <Option>800964</Option>
+        </Item>
+      </Options>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A far more treacherous path&lt;/b&gt;, but your crew are committed now. A steep cliff ahead must be negotiated, and your ropes are too short.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16068</LineID>
+    </Text>
+  </Values>
+</Asset>

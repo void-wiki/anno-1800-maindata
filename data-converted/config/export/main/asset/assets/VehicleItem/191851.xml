@@ -1,0 +1,61 @@
+<Asset>
+  <Template>VehicleItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191851</GUID>
+      <Name>Steel Double-Hull</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_hull_4.png</IconFilename>
+      <InfoDescription>19701</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Singh's Steel Double-Hull</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26793</LineID>
+    </Text>
+    <Item>
+      <MaxStackSize>1</MaxStackSize>
+      <Rarity>Legendary</Rarity>
+      <TradePrice>700000</TradePrice>
+    </Item>
+    <Cost />
+    <VehicleUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Might</Attribute>
+          <Amount>50</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Hard</ItemDifficulties>
+      <FluffText>19701</FluffText>
+    </ExpeditionAttribute>
+    <AttackerUpgrade />
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade>
+        <Value>50</Value>
+        <Percental>1</Percental>
+      </MaxHitpointsUpgrade>
+      <DamageReceiveFactor>
+        <Torpedo>
+          <Factor>0.85</Factor>
+        </Torpedo>
+        <Cannon>
+          <Factor>0.75</Factor>
+        </Cannon>
+        <BigBertha>
+          <Factor>0.75</Factor>
+        </BigBertha>
+      </DamageReceiveFactor>
+    </AttackableUpgrade>
+    <Locked />
+    <TradeShipUpgrade />
+    <CraftableItem />
+    <DivingBellUpgrade />
+  </Values>
+</Asset>

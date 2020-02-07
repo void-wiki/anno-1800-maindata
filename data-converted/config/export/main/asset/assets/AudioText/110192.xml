@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The state wrongfully imprisoned your father. You should be angry. You should do something.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30726</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204264</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>110192</GUID>
+      <Name>AT_ai10_WelcomeCampaign04</Name>
+    </Standard>
+  </Values>
+</Asset>

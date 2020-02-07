@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800626</GUID>
+      <Name>A Grizzly Encounter 1.2.2.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Bears can see terribly well in the dark&lt;/b&gt;, and since your crew have stumbled into its house, where its vulnerable infants sleep, it is not very happy. The crew that do manage to break for daylight have clothes ragged and torn, and cannot speak, for it is clear they were the lucky ones.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5708</LineID>
+    </Text>
+  </Values>
+</Asset>

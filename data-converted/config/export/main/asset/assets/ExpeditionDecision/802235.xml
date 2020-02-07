@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802235</GUID>
+      <Name>The Deeper You Go 1.1.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Nothing rewards your sailors' recklessness.&lt;/b&gt; It is unclear whether the bridge is shaking because of its own frailty or because of your explorers' quivering legs. Soon the crew is on its knees, creeping across the moldy planks and begging for their mothers. They reach the other side without a scratch save for their wounded pride and find a tunnel which leads them outside after some more crawling.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21063</LineID>
+    </Text>
+  </Values>
+</Asset>

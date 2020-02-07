@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802463</GUID>
+      <Name>Wood Keeper 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The savage bandits find the expedition before it can find them.&lt;/b&gt; It seems the indigenous people who built these huts were dispossesed of them long ago, and that they now serve as a refuge for scoundrels. They whoop and holler from the trees and descend upon a few valiant defenders as the rest of the expedition turns and flee for the ship. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20908</LineID>
+    </Text>
+  </Values>
+</Asset>

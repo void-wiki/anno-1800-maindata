@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204792</GUID>
+      <Name>Play_AI_BERYL_0HO_5J5_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1497</DurationMinimum>
+          <DurationMaximum>3204</DurationMaximum>
+        </English>
+        <Russian>
+          <DurationMinimum>1010</DurationMinimum>
+          <DurationMaximum>3188</DurationMaximum>
+        </Russian>
+        <German>
+          <DurationMinimum>1914</DurationMinimum>
+          <DurationMaximum>4677</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1621</DurationMinimum>
+          <DurationMaximum>2749</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>834259249</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

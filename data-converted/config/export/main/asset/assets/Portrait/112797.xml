@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <PortraitName>230</PortraitName>
+      <PortraitColor>-8546627</PortraitColor>
+      <PortraitCameraAmbientConfig>
+        <Monument>
+          <CamFile>data/config/portraitcam/explorermonument.portraitcam</CamFile>
+        </Monument>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+    <Standard>
+      <GUID>112797</GUID>
+      <Name>arctic_resident_portrait02_atWork</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony03_tier02.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/portrait/resident_colony03_tier02/resident_colony03_tier02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

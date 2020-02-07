@@ -1,0 +1,21 @@
+<Asset>
+  <Template>VisualObjectEditor</Template>
+  <Values>
+    <Standard>
+      <GUID>101245</GUID>
+      <Name>soil_patches</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/sand/sand_decal_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/landscape/terrain/decals/sand/sand_decal_02.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+  </Values>
+</Asset>

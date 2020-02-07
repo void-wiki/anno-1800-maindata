@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Product</Template>
+  <Values>
+    <Standard>
+      <GUID>112518</GUID>
+      <Name>scrap I</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_junk_inferior.png</IconFilename>
+      <ID>Scrap1</ID>
+      <InfoDescription>112519</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Scrap</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>32501</LineID>
+    </Text>
+    <Locked />
+    <Product>
+      <StorageLevel>Building</StorageLevel>
+      <ProductCategory>11702</ProductCategory>
+      <BasePrice>12</BasePrice>
+      <CivLevel>1</CivLevel>
+      <AssociatedRegion>Moderate;Colony01;Arctic</AssociatedRegion>
+    </Product>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+    </ExpeditionAttribute>
+  </Values>
+</Asset>

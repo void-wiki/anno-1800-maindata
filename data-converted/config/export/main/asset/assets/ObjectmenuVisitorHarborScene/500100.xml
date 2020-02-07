@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ObjectmenuVisitorHarborScene</Template>
+  <Values>
+    <Standard>
+      <GUID>500100</GUID>
+      <Name>ObjectmenuVisitorHarborScene</Name>
+      <ID>ObjectmenuVisitorHarborScene</ID>
+    </Standard>
+    <ObjectmenuVisitorHarborScene>
+      <ShipTierIcons>
+        <Item>
+          <ShipIcon>500097</ShipIcon>
+          <ShipIconWithPerson>500112</ShipIconWithPerson>
+        </Item>
+        <Item>
+          <Tier>1</Tier>
+          <ShipIcon>500098</ShipIcon>
+          <ShipIconWithPerson>500113</ShipIconWithPerson>
+        </Item>
+        <Item>
+          <Tier>2</Tier>
+          <ShipIcon>500099</ShipIcon>
+          <ShipIconWithPerson>500114</ShipIconWithPerson>
+        </Item>
+      </ShipTierIcons>
+    </ObjectmenuVisitorHarborScene>
+  </Values>
+</Asset>

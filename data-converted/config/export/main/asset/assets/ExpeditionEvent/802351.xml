@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>802351</GUID>
+      <Name>The Mayan Map</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Cities of Gold</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20975</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>NorthAmerica;SouthAmerica;SouthernSouthAmerica</EventRegion>
+      <EventThreat>800030</EventThreat>
+      <StartDecision>802352</StartDecision>
+      <EventMusicChoice>226705</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/south_america_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

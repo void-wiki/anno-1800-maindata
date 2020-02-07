@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anything else? Then I'll send it out.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4007</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232176</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252281</GUID>
+      <Name>AT_Reporter_PublishWPropaganda3</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait>
+      <IsFemale>1</IsFemale>
+    </Portrait>
+    <Standard>
+      <GUID>101823</GUID>
+      <Name>Obrera_atWork</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier02_work.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/residents/resident_colony_tier02_work/resident_colony_tier02_work.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

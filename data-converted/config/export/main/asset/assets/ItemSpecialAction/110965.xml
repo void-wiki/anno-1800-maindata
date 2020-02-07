@@ -1,0 +1,61 @@
+<Asset>
+  <Template>ItemSpecialAction</Template>
+  <Values>
+    <Standard>
+      <GUID>110965</GUID>
+      <Name>Anarchist Bomb Pack</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/consumables/icon_anarchist_bomb_pack_1.png</IconFilename>
+      <ID>ITEM_DM_3</ID>
+      <InfoDescription>110970</InfoDescription>
+    </Standard>
+    <SpecialAction>
+      <UseEffectAsset>1</UseEffectAsset>
+      <MouseEffect>140088</MouseEffect>
+      <Projectile>110968</Projectile>
+    </SpecialAction>
+    <ItemEffect />
+    <ItemAction>
+      <ActionTarget>2001747</ActionTarget>
+      <ActionDistance>15</ActionDistance>
+      <IsDestroyedAfterCooldown>1</IsDestroyedAfterCooldown>
+      <Charges>3</Charges>
+      <ActionDuration>1000</ActionDuration>
+      <ActiveBuff>111140</ActiveBuff>
+      <ActionDescription>22097</ActionDescription>
+      <ActionCompletedEffect>
+        <EffectAsset>111151</EffectAsset>
+      </ActionCompletedEffect>
+      <CanEndItemAction>0</CanEndItemAction>
+      <StopMovementOnInteraction>0</StopMovementOnInteraction>
+    </ItemAction>
+    <Item>
+      <Allocation>Warship</Allocation>
+      <MaxStackSize>5</MaxStackSize>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+      <TradePrice>10750</TradePrice>
+    </Item>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Anarchist Bomb Pack</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30906</LineID>
+    </Text>
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+    </ExpeditionAttribute>
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

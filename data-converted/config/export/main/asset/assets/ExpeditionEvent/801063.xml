@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ExpeditionEvent</Template>
+  <Values>
+    <Standard>
+      <GUID>801063</GUID>
+      <Name>The Arid Basin</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The Arid Basin</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16076</LineID>
+    </Text>
+    <ExpeditionEvent>
+      <EventRegion>SouthAmerica;NorthAfrica;Africa;SouthernEurope;SouthernSouthAmerica;CentralEurope</EventRegion>
+      <EventThreat>800034</EventThreat>
+      <StartDecision>801064</StartDecision>
+      <EventMusicChoice>226704</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/crafting_a.bk2</EventVideo>
+    </ExpeditionEvent>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>15268</GUID>
+      <Name>Smuggler_ShipInRange</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Sail to [AssetData([Conditions QuestCondition Context]) Text]</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22168</LineID>
+    </Text>
+  </Values>
+</Asset>

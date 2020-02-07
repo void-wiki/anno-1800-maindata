@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501472</GUID>
+      <Name>Attractiveness_15</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>AttractivenessNotification</Template>
+        <Values>
+          <BaseNotification>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>600</NotificationPriority>
+          </BaseNotification>
+          <AttractivenessNotification>
+            <Value>5200</Value>
+          </AttractivenessNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

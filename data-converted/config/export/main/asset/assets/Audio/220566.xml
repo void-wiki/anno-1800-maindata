@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>220566</GUID>
+      <Name>Play_AI_DRYARTUR_IFV_MUPML_00001_01ARTUR_8654</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>3600</DurationMinimum>
+          <DurationMaximum>3600</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>4000</DurationMinimum>
+          <DurationMaximum>4000</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>3410</DurationMinimum>
+          <DurationMaximum>3410</DurationMaximum>
+        </French>
+        <Russian>
+          <DurationMinimum>3658</DurationMinimum>
+          <DurationMaximum>3658</DurationMaximum>
+        </Russian>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>3890963638</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

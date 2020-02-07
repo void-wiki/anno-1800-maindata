@@ -1,0 +1,102 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150930</GUID>
+      <Name>CQ103_EdvardsNewspaper_HannahsTextBefore</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>EdvardMocks_03</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>70000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionNotification</Template>
+                            <Values>
+                              <Action />
+                              <ActionNotification>
+                                <Notification>
+                                  <Template>CharacterNotification</Template>
+                                  <Values>
+                                    <CharacterNotification>
+                                      <Profile>212</Profile>
+                                    </CharacterNotification>
+                                    <BaseNotification>
+                                      <NotificationLabel>Hannah_IntroduceEdvardsNewspaper</NotificationLabel>
+                                      <NotificationText>11866</NotificationText>
+                                    </BaseNotification>
+                                    <NotificationSubtitle>
+                                      <Subtitle>265041</Subtitle>
+                                    </NotificationSubtitle>
+                                  </Values>
+                                </Notification>
+                              </ActionNotification>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDelayedActions</Template>
+            <Values>
+              <Action />
+              <ActionDelayedActions>
+                <ExecutionDelay>60000</ExecutionDelay>
+                <DelayedActions>
+                  <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                  <Values>
+                    <ActionList>
+                      <Actions>
+                        <Item>
+                          <Action>
+                            <Template>ActionRegisterTrigger</Template>
+                            <Values>
+                              <Action />
+                              <ActionRegisterTrigger>
+                                <TriggerAsset>151077</TriggerAsset>
+                                <UnregisterTrigger>1</UnregisterTrigger>
+                              </ActionRegisterTrigger>
+                            </Values>
+                          </Action>
+                        </Item>
+                      </Actions>
+                    </ActionList>
+                  </Values>
+                </DelayedActions>
+              </ActionDelayedActions>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

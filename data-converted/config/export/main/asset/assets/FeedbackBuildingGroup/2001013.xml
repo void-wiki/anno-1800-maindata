@@ -1,0 +1,23 @@
+<Asset>
+  <Template>FeedbackBuildingGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>2001013</GUID>
+      <Name>Residence1Buildings</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_bricks.png</IconFilename>
+    </Standard>
+    <FeedbackBuildingGroup>
+      <Buildings>
+        <Item>
+          <Building>1010343</Building>
+        </Item>
+        <Item>
+          <Building>101254</Building>
+        </Item>
+        <Item>
+          <Building>112091</Building>
+        </Item>
+      </Buildings>
+    </FeedbackBuildingGroup>
+  </Values>
+</Asset>

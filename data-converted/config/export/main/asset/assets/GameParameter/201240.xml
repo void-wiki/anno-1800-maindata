@@ -1,0 +1,16 @@
+<Asset>
+  <Template>GameParameter</Template>
+  <Values>
+    <Standard>
+      <GUID>201240</GUID>
+      <Name>gp_ui_notif_ani_volume</Name>
+      <IconFilename>test_data/graphics/wwise_icons/rtpc.png</IconFilename>
+    </Standard>
+    <GameParameter>
+      <GameParameterDefaultValue>-48</GameParameterDefaultValue>
+    </GameParameter>
+    <WwiseStandard>
+      <WwiseID>3231709762</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,34 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800137</GUID>
+      <Name>Temple of the Monkey God 1.2.2.2.1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>226558</Event>
+        </Item>
+      </DecisionVideoSounds>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>190282</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ritual unfolds into a jolly dance.&lt;/b&gt; With the shaking of rainsticks, and gentle swaying must come broad smiles, for this is how the temple's monkey god defeated the spirit of envy. A feast of grouse and soursop follows, and as a celebration of trade and friendship, a monkey-tooth amulet is given the men as a gift. Next morning, fresh water is collected from the waterfall and having waved goodbye, the happy crew set sail.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5640</LineID>
+    </Text>
+  </Values>
+</Asset>

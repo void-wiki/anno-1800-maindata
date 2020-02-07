@@ -1,0 +1,102 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150784</GUID>
+      <Name>CQ261_MovieManagement</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>150709</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionPlayMovie</Template>
+            <Values>
+              <Action />
+              <ActionPlayMovie>
+                <Movie>300002</Movie>
+              </ActionPlayMovie>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionLoadSession</Template>
+            <Values>
+              <Action />
+              <ActionLoadSession>
+                <LoadSession>180025</LoadSession>
+              </ActionLoadSession>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDiscoverIsland</Template>
+            <Values>
+              <Action />
+              <ActionDiscoverIsland>
+                <TargetIsland>160007</TargetIsland>
+              </ActionDiscoverIsland>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDiscoverIsland</Template>
+            <Values>
+              <Action />
+              <ActionDiscoverIsland>
+                <TargetIsland>160005</TargetIsland>
+              </ActionDiscoverIsland>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>153242</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionEnterSession</Template>
+            <Values>
+              <ActionEnterSession>
+                <TargetSession>180025</TargetSession>
+              </ActionEnterSession>
+              <Action />
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionHostileTakeover</Template>
+            <Values>
+              <Action />
+              <ActionHostileTakeover>
+                <IslandSession>180025</IslandSession>
+                <TakeoverIsland>160005</TakeoverIsland>
+              </ActionHostileTakeover>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

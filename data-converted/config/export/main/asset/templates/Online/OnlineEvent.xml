@@ -1,0 +1,19 @@
+<Template>
+  <Name>OnlineEvent</Name>
+  <Properties>
+    <Standard />
+    <OnlineEvent>
+      <PhaseList>
+        <Item>
+          <DailyQuestCap>3</DailyQuestCap>
+        </Item>
+        <Item>
+          <DailyQuestCap>3</DailyQuestCap>
+        </Item>
+        <Item>
+          <DailyQuestCap>3</DailyQuestCap>
+        </Item>
+      </PhaseList>
+    </OnlineEvent>
+  </Properties>
+</Template>

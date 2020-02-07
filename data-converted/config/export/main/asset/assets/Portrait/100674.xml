@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Portrait</Template>
+  <Values>
+    <Portrait />
+    <Standard>
+      <GUID>100674</GUID>
+      <Name>ai_09 (General Vicente Silva)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/ai_09.png</IconFilename>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/portraits/narrative/ai_09/ai_09.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Locked>
+      <VisibleWhenLocked>1</VisibleWhenLocked>
+    </Locked>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A frigate can take a few hits.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>19646</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>238016</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>268361</GUID>
+      <Name>AT_MurmurMale2_Frigate_SelectShipDamaged01</Name>
+    </Standard>
+  </Values>
+</Asset>

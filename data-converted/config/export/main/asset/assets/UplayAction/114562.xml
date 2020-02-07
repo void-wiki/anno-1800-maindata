@@ -1,0 +1,78 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>114562</GUID>
+      <Name>DLC02 - Achievement06</Name>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DLC02</AchievementCategory>
+      <AchievementTitle>114246</AchievementTitle>
+      <AchievementDescription>114252</AchievementDescription>
+      <AchievementUPlayID>115</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+      <AchievementDifficulty>Expert</AchievementDifficulty>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition>
+            <SubConditionCompletionOrder>MutuallyExclusive</SubConditionCompletionOrder>
+          </Condition>
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionAttractiveness</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionAttractiveness>
+                      <AttractivenessNeed>2500</AttractivenessNeed>
+                      <AttractivenessSessionOrRegion>5000000</AttractivenessSessionOrRegion>
+                      <AttractivenessCheckSpecificBuilding>1</AttractivenessCheckSpecificBuilding>
+                      <AttractivenessSpecificBuilding>110935</AttractivenessSpecificBuilding>
+                    </ConditionAttractiveness>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionAttractiveness</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionAttractiveness>
+                      <AttractivenessNeed>2500</AttractivenessNeed>
+                      <AttractivenessSessionOrRegion>5000001</AttractivenessSessionOrRegion>
+                      <AttractivenessCheckSpecificBuilding>1</AttractivenessCheckSpecificBuilding>
+                      <AttractivenessSpecificBuilding>114141</AttractivenessSpecificBuilding>
+                    </ConditionAttractiveness>
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>510</UplayActionID>
+      <BadgeID>1008</BadgeID>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

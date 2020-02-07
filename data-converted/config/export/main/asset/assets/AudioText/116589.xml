@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Did you hear a growl?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33632</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>245260</AudioAsset>
+      <SpeechAudioType>Murmur</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>116589</GUID>
+      <Name>AT_DLC03_Murmur_Glacier_Female_03</Name>
+    </Standard>
+  </Values>
+</Asset>

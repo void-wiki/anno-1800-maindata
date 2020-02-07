@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Our father is accused of high treason. Dare you to believe it? Arrested, stripped of his knighthood. We...I am terribly shaken, and the vultures are already circling.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17127</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233472</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>3</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266696</GUID>
+      <Name>AT_Advisor01_Movie02_02</Name>
+    </Standard>
+  </Values>
+</Asset>

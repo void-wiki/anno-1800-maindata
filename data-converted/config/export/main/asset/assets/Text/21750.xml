@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21750</GUID>
+      <Name>AllianceDecision_SideWithWarParty</Name>
+      <ID>AllianceProtectionSideB</ID>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Side with [Participants ParticipantName([Notifications Current Value(WarParty) Int])]</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29886</LineID>
+    </Text>
+  </Values>
+</Asset>

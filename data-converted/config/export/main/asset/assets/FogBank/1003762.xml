@@ -1,0 +1,15 @@
+<Asset>
+  <Template>FogBank</Template>
+  <Values>
+    <Mesh />
+    <Standard>
+      <GUID>1003762</GUID>
+      <Name>DynamicFogBank</Name>
+    </Standard>
+    <Object>
+      <Type>GameObject</Type>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <FogBank />
+  </Values>
+</Asset>

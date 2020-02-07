@@ -1,0 +1,38 @@
+<Asset>
+  <Template>ConstructionCategory</Template>
+  <Values>
+    <Standard>
+      <GUID>501583</GUID>
+      <Name>sa park fountains (category)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/ornaments/park_props_2x2_06.png</IconFilename>
+    </Standard>
+    <ConstructionCategory>
+      <BuildingList>
+        <Item>
+          <Building>103120</Building>
+        </Item>
+        <Item>
+          <Building>102840</Building>
+        </Item>
+        <Item>
+          <Building>102843</Building>
+        </Item>
+        <Item>
+          <Building>103047</Building>
+        </Item>
+      </BuildingList>
+      <CategoryDescription>19564</CategoryDescription>
+    </ConstructionCategory>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Park Fountains</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29586</LineID>
+    </Text>
+    <Locked />
+  </Values>
+</Asset>

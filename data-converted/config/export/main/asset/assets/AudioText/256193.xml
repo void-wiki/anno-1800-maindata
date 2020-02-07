@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Why transact with a pinchfist!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7680</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217403</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256193</GUID>
+      <Name>AT_ai07_NpcDeclinesPlayerProposalTooOften4</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800350</GUID>
+      <Name>The Minefield 1.2.3.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A nervous sailor rows towards the line of mines.&lt;/b&gt; The makeshift grappling hooks trailing behind his dinghy are intended to drag mines out of the path of the expedition ship. Unfortunately the sailor is a sacrificial goat. A grapple shatters the horns of a nearby mine, and the boat and its sailor explode in plume. Safe passage means nothing to those from whom a good friend was taken.   </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5832</LineID>
+    </Text>
+  </Values>
+</Asset>

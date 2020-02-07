@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801632</GUID>
+      <Name>Wall of Ice 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It's an uphill struggle.&lt;/b&gt; The pitching of the unstable berg does not help a jot, as the men tumble and slide to find grip. Such is the effort required to pull the ship successfully down from the iceberg into the sea, no-one notices one of the teams is missing. It appears they have fallen through a thin part of the ice to their deaths. </Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17966</LineID>
+    </Text>
+  </Values>
+</Asset>

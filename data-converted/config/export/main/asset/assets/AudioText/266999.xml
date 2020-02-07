@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Bright Sands is returned to us, father's name is cleared. So, that will be all, eldest. Will you and Aarhant be leaving?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17143</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233490</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Positve</Mood>
+      <DialogSequence>16</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>266999</GUID>
+      <Name>AT_Advisor01_movie08_04</Name>
+    </Standard>
+  </Values>
+</Asset>

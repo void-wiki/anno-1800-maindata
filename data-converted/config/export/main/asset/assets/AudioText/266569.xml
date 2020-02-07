@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>About time we saw some chaos!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17088</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232790</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>266569</GUID>
+      <Name>AT_ai08_WelcomeCampaignBattle</Name>
+    </Standard>
+  </Values>
+</Asset>

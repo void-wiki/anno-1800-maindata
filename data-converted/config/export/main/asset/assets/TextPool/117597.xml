@@ -1,0 +1,31 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>117597</GUID>
+      <Name>Pool_OldNateArctic_IdleInuit</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionIsDiscovered</Template>
+        <Values>
+          <Condition />
+          <ParticipantRelation>
+            <SourceIsOwner>1</SourceIsOwner>
+            <TargetParticipant>Arctic_Inuit</TargetParticipant>
+          </ParticipantRelation>
+          <ConditionIsDiscovered />
+          <ConditionPropsNegatable />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>116521</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>

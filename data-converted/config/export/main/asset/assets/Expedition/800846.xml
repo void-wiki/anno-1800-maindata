@@ -1,0 +1,37 @@
+<Asset>
+  <Template>Expedition</Template>
+  <Values>
+    <Standard>
+      <GUID>800846</GUID>
+      <Name>Pirate Hunt Average</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/expeditions/icon_pirate_hunt.png</IconFilename>
+    </Standard>
+    <Expedition>
+      <ExpeditionName>11632</ExpeditionName>
+      <ExpeditionDescription>9973</ExpeditionDescription>
+      <ExpeditionRegion>SouthernEurope</ExpeditionRegion>
+      <ExpeditionDifficulty>Average</ExpeditionDifficulty>
+      <FillEventPool>800037</FillEventPool>
+      <Threats>
+        <Item>
+          <Threat>800004</Threat>
+        </Item>
+        <Item>
+          <Threat>800032</Threat>
+        </Item>
+      </Threats>
+      <FillThreats>1</FillThreats>
+      <WorldMapCardBG>500896</WorldMapCardBG>
+      <ExpeditionWorldMapAsset>data/graphics/ui/3d_objects/expedition_marker/expedition_marker_05.cfg</ExpeditionWorldMapAsset>
+      <Reward>803434</Reward>
+      <BackgroundVideo>data/ui/video/expedition/temperate_a.bk2</BackgroundVideo>
+      <BackgroundVideoSounds>
+        <Item>
+          <Event>202364</Event>
+        </Item>
+      </BackgroundVideoSounds>
+    </Expedition>
+    <Locked />
+    <WorldMapSound />
+  </Values>
+</Asset>

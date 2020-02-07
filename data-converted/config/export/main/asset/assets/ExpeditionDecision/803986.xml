@@ -1,0 +1,28 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803986</GUID>
+      <Name>Polar Bear 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803987</Option>
+        </Item>
+        <Item>
+          <Option>803996</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Text for sandbox event.&lt;br /&gt;Crew marches. &lt;/br&gt;The march is tiresome but quickly it's not the efforts which preoccupy the crew. They have the strange feeling something is following them. Night falls.</Text>
+          <Status>GameWriting</Status>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,29 @@
+<Asset>
+  <Template>StateGroup</Template>
+  <Values>
+    <Standard>
+      <GUID>203530</GUID>
+      <Name>ST_mus_incident_type</Name>
+      <IconFilename>test_data/graphics/wwise_icons/state_group.png</IconFilename>
+    </Standard>
+    <WwiseStandard>
+      <WwiseID>1477502268</WwiseID>
+    </WwiseStandard>
+    <StateGroup>
+      <StateChoices>
+        <Item>
+          <Choice>203527</Choice>
+        </Item>
+        <Item>
+          <Choice>203528</Choice>
+        </Item>
+        <Item>
+          <Choice>203529</Choice>
+        </Item>
+        <Item>
+          <Choice>204852</Choice>
+        </Item>
+      </StateChoices>
+    </StateGroup>
+  </Values>
+</Asset>

@@ -1,0 +1,26 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>501118</GUID>
+      <Name>NeighbourhoodWatchGlobalIconMap</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/newspaper/icon_neighbour_watch_green.png</IconFilename>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-1000000</ValidFrom>
+          <Asset>501112</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-1</ValidFrom>
+          <Asset>501152</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1</ValidFrom>
+          <Asset>501140</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

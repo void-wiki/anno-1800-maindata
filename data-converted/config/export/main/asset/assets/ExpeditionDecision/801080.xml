@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801080</GUID>
+      <Name>The Arid Basin 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;No-one is ready for dysentery.&lt;/b&gt; The sick are empty and weak, no fluids to replenish all they have lost. With only vague measures in place to prevent the spread, savannah delirium reigns. The survey never reaches the rendezvous.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16085</LineID>
+    </Text>
+  </Values>
+</Asset>

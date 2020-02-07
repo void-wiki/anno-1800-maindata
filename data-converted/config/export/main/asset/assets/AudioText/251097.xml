@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Nice to meet you! I've just returned from my expedition. I'm Bente Jorgensen, chairlady of the Jorgensen Foundation.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2737</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>211226</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251097</GUID>
+      <Name>AT_ai01_FirstIntroduction1</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800618</GUID>
+      <Name>A Grizzly Encounter 1.2.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Adaptation is good when a fight isn't going well.&lt;/b&gt; The bear flinches but does not drop after the first round of gunfire. There is no time to reload, before it is upon them with its paws. Knocked down the men are smart enough to play dead. After an hour or so facing the floor, the bears lose interest and leave. The crew are able to lick their wounds, and move on.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5701</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>214659</GUID>
+      <Name>wwe_sfx_bld_inc_burn</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <IsLooping>1</IsLooping>
+      <Cluster>1</Cluster>
+      <ClusterRange>10</ClusterRange>
+      <ClusterCount>3</ClusterCount>
+      <ActivationRangeOffset>0</ActivationRangeOffset>
+      <MaxAttenuation>18</MaxAttenuation>
+      <StopEvent>214662</StopEvent>
+      <SoundEventType>MiddleBuildingSound</SoundEventType>
+      <ClusterEvent>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <AudioLink>
+            <AudioLink>214660</AudioLink>
+          </AudioLink>
+        </Values>
+      </ClusterEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4145413538</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,24 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192997</GUID>
+      <Name>Edicts - Good + Cultural - All</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192805</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192806</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192807</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

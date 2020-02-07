@@ -1,0 +1,43 @@
+<Asset>
+  <Template>Profile_3rdParty_NoDiplomacy_NoTrader</Template>
+  <Values>
+    <Standard>
+      <GUID>31</GUID>
+      <Name>advisor_02 (Aarhant)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/advisor_02.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Aarhant</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4278</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/advisor_02.png</ProfilePicture>
+      <Portrait>1000130</Portrait>
+      <CompanyIcon>500988</CompanyIcon>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>163061</InfoCornerDescription>
+      <ParticipantID>Advisor_02_Aahrant</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_01.png</NotificationBackground>
+      <QuestStarterObject>100677</QuestStarterObject>
+      <DefaultColor>Color4</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+      <CreateModeSession>AutoCreate_Always</CreateModeSession>
+    </Profile>
+    <ParticipantMessages />
+    <Object>
+      <DefaultParticipant>Advisor_02_Aahrant</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>140</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <ThirdParty />
+    <Locked />
+  </Values>
+</Asset>

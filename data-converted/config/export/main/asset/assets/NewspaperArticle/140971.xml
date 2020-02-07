@@ -1,0 +1,31 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140971</GUID>
+      <Name>Trading Ship Constructed</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>11195</Headline>
+      <Subline>11196</Subline>
+      <Image>142131</Image>
+      <NewsPriority>
+        <StartValue>150</StartValue>
+        <Maximum>300</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

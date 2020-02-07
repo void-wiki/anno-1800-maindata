@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Water can only weep when taken from its well.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6023</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216637</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>253094</GUID>
+      <Name>AT_ai02_NpcYieldsToPlayerThreat3</Name>
+    </Standard>
+  </Values>
+</Asset>

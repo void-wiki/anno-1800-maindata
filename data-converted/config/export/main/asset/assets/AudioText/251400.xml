@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>My talent is already rubbing off on you!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>2289</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>212726</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>251400</GUID>
+      <Name>AT_ai03_QuestSuccessful3</Name>
+    </Standard>
+  </Values>
+</Asset>

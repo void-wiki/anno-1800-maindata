@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>800196</GUID>
+      <Name>The Inspector 1.2.4.1.2</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"This is obviously a military vessel,"&lt;/b&gt; the Inspector says, "in sovereign sea subject to the amnesty." He toys with the gold button of his greatcoat. "There will be severe consequences, unless... I hope you don't intend to offer me a bribe?"</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5809</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>12120</TraderName>
+      <FollowupSuccessOption>800202</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>800203</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>7500</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800351</GUID>
+      <Name>The Minefield 1.2.3.1.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistPreferAttribute</NegativeOutcomeLosses>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>201834</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/crafting_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The idea is a terrible one from the start.&lt;/b&gt; The lengthy poles, comprised of other poles, are unwieldy and inaccurate, even in the hands of a several strong men. The crew's attempt to poke mines away when they draw near is suicide. Two booms come in succession, and a few feeble cheers at escape are drowned by the deafening wails. Few are left to bail water, when so many lie dead or injured.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5833</LineID>
+    </Text>
+  </Values>
+</Asset>

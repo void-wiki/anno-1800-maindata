@@ -1,0 +1,33 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800552</GUID>
+      <Name>The Visitation 1.2.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800554</Option>
+        </Item>
+        <Item>
+          <Option>800555</Option>
+        </Item>
+        <Item>
+          <Option>800556</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew don't have much belief,&lt;/b&gt; and the priest makes a hash of the exorcism. If anything, his fragmented delivery only agitates the creature. The next night, a sailor is adamant he has sighted something "irrefutably demonic."</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5566</LineID>
+    </Text>
+  </Values>
+</Asset>

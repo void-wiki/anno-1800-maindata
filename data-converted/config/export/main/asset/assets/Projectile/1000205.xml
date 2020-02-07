@@ -1,0 +1,31 @@
+<Asset>
+  <Template>Projectile</Template>
+  <Values>
+    <Projectile>
+      <ProjectileType>Arc</ProjectileType>
+      <ShotHeight>8</ShotHeight>
+      <ProjectileSpeed>0.3</ProjectileSpeed>
+    </Projectile>
+    <Standard>
+      <GUID>1000205</GUID>
+      <Name>harbor load goods</Name>
+    </Standard>
+    <Mesh>
+      <DefaultSequence>walk01</DefaultSequence>
+    </Mesh>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/effects/feedback/harbor_load_goods_feedback.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/graphics/effects/feedback/harbor_load_goods_02_feedback.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <Text />
+    <SoundEmitter />
+    <ProjectileIncident />
+  </Values>
+</Asset>

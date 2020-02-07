@@ -1,0 +1,32 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700051</GUID>
+      <Name>AP - All Trees</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>102086</Asset>
+        </Item>
+        <Item>
+          <Asset>102112</Asset>
+        </Item>
+        <Item>
+          <Asset>102113</Asset>
+        </Item>
+        <Item>
+          <Asset>102085</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Asset Pool All Trees</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

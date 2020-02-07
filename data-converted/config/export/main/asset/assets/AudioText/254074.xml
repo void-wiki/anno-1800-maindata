@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A bit thankless, farmin' ere. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>4430</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>215378</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254074</GUID>
+      <Name>AT_res_tier01_ResidenceUnhappy1</Name>
+    </Standard>
+  </Values>
+</Asset>

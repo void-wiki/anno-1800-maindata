@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Play the game, shall we?</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6159</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>216452</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>254857</GUID>
+      <Name>AT_ai05_NpcMakesProposal1</Name>
+    </Standard>
+  </Values>
+</Asset>

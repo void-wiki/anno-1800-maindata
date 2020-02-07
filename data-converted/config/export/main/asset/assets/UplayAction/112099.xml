@@ -1,0 +1,35 @@
+<Asset>
+  <Template>UplayAction</Template>
+  <Values>
+    <Standard>
+      <GUID>112099</GUID>
+      <Name>DLC01 - Achievement01</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/achievement/icon_achievement_sunken_treasure_bronce.png</IconFilename>
+    </Standard>
+    <Achievement>
+      <AchievementCategory>DLC01</AchievementCategory>
+      <AchievementTitle>112044</AchievementTitle>
+      <AchievementDescription>112064</AchievementDescription>
+      <AchievementUPlayID>100</AchievementUPlayID>
+      <AchievementPoints>0</AchievementPoints>
+    </Achievement>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>DivingBellUsed</PlayerCounter>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <Locked />
+    <UplayAction>
+      <UplayActionID>23</UplayActionID>
+      <UplayXP>100</UplayXP>
+    </UplayAction>
+    <TriggerSetup />
+  </Values>
+</Asset>

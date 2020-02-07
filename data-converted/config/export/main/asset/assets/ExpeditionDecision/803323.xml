@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803323</GUID>
+      <Name>Good Whale Hunting 1.4.3</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew ridicules itself.&lt;/b&gt; The underwater whales cannot hear the sounds squirming from the ship, and it's for the best. Dejected, their ears ringing, the sailors blame each other for the performance and the team's unity and pride are deeply dented. Getting squashed by a whale would have been a better option.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26342</LineID>
+    </Text>
+  </Values>
+</Asset>

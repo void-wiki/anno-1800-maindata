@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802993</GUID>
+      <Name>Blizzard 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The ship can safely withstand the blizzard.&lt;/b&gt; Several sailors of impressive builds climb your masts to unhook and detach the heavy sails, and despite the slippery wood and tightly frozen ropes, they manage to free the masts of the dangerous weight. The barren poles stand tall against the receding storm. Morning light soon pierces the clouds, a good omen to salute your crew's efforts and accompany their celebration.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22143</LineID>
+    </Text>
+  </Values>
+</Asset>

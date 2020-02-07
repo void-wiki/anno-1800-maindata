@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I understand we have visiting royalty in Princess Qing. She's a gentle soul.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>12201</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>231468</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>261084</GUID>
+      <Name>AT_3rdParty01_IdleMessageGossip_Qing</Name>
+    </Standard>
+  </Values>
+</Asset>

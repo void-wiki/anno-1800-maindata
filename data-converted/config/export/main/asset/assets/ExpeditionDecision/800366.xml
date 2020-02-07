@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800366</GUID>
+      <Name>The Minefield 1.4.1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Your faith does not go untried.&lt;/b&gt; The sinister cones have moved about over time, and no matter how truly the ship follows its original course, it is inevitable a mine will burst into the hull. Luckily when the blast comes, no man dies. Still, the burdensome schedule of repair disheartens the crew.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5849</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>There'll be no new deal today.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7579</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217327</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256186</GUID>
+      <Name>AT_ai05_NpcDeclinesPlayerProposalTooOften5</Name>
+    </Standard>
+  </Values>
+</Asset>

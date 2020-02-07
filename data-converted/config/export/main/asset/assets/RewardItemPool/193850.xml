@@ -1,0 +1,29 @@
+<Asset>
+  <Template>RewardItemPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193850</GUID>
+      <Name>Inuit Legendary Cultural</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>193793</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>193798</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115477</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115480</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>115483</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+  </Values>
+</Asset>

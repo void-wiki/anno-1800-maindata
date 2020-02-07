@@ -1,0 +1,20 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>21742</GUID>
+      <Name>ShipIllnessInformationText</Name>
+      <IconFilename>data/ui/2kimages/main/icons/ship_info/icon_damage.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The disease can infect nearby ships and harbours.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>29880</LineID>
+    </Text>
+  </Values>
+</Asset>

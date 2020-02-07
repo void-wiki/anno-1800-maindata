@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800606</GUID>
+      <Name>A Grizzly Encounter 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800607</Option>
+        </Item>
+        <Item>
+          <Option>800608</Option>
+        </Item>
+        <Item>
+          <Option>800609</Option>
+        </Item>
+        <Item>
+          <Option>800610</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Bear attack!&lt;/b&gt; The party ponder this very real possibility as threatening grunts stop them dead among the firs. Fifty yards ahead, a huge specimen lurches up on two legs like a totem, standing between them and escape. More grunting echoes nearby. The party stay silent, awaiting guidance.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5693</LineID>
+    </Text>
+  </Values>
+</Asset>

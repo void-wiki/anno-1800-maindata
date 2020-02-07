@@ -1,0 +1,32 @@
+<Asset>
+  <Template>PlayerCounterContextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700042</GUID>
+      <Name>QC241_Industrialization_ObjectivePool</Name>
+    </Standard>
+    <PlayerCounterContextPool>
+      <Contexts>
+        <Item>
+          <Asset>1010305</Asset>
+        </Item>
+        <Item>
+          <Asset>1010298</Asset>
+        </Item>
+        <Item>
+          <Asset>1010297</Asset>
+        </Item>
+        <Item>
+          <Asset>1010296</Asset>
+        </Item>
+      </Contexts>
+    </PlayerCounterContextPool>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>CQ_241_Industrialization_ObjectivePool</Text>
+        </English>
+      </LocaText>
+    </Text>
+  </Values>
+</Asset>

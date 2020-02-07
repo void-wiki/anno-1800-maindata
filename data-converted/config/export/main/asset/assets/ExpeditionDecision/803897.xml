@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803897</GUID>
+      <Name>Blizzard 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+      <InsertEvent>804147</InsertEvent>
+      <MapPath>
+        <Sketch>data/ui/2kimages/main/assets/expedition_sketch/expedition_sketches_blizzard.png</Sketch>
+        <SketchPosX>1196</SketchPosX>
+        <SketchPosY>210</SketchPosY>
+        <SketchSizeX>121</SketchSizeX>
+        <SketchSizeY>98</SketchSizeY>
+      </MapPath>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Worthy heroes step forward.&lt;/b&gt; "Whatever this ship and her crew needs," says the burliest, before striding out into the storm. Undeterred by the snow and buffeting of the wind, they put the sails 'in their gear'— loosing the sheetlines, and pulling the buntlines through, until the ship is running under jib alone. &lt;b&gt;The storm passes, and the crew feel invincible.&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>34382</LineID>
+    </Text>
+  </Values>
+</Asset>

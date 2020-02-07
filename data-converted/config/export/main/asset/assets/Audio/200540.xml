@@ -1,0 +1,25 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>200540</GUID>
+      <Name>wwe_sfx_bld_agriculture_col01_02_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>34097</DurationMinimum>
+          <DurationMaximum>100138</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <ClusterRange>8</ClusterRange>
+      <ClusterCount>2</ClusterCount>
+      <MaxAttenuation>25</MaxAttenuation>
+      <StopEvent>200542</StopEvent>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>4287190666</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

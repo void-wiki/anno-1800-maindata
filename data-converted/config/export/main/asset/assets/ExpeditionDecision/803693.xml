@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803693</GUID>
+      <Name>In Dangerous territory 1.1.2.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803685</Option>
+        </Item>
+        <Item>
+          <Option>803689</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Unfortunately, the darts continue to find their mark,&lt;/b&gt; for the hostile tribe know the forest too well. It is fortunate that your ambushers, perhaps seeing the sort of weapons you are carrying, decide to retreat. Do they believe the damage is already done? The many who were hit begin wheezing heavily, collapsing to the floor, for &lt;b&gt;the darts are tipped with poison!&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33003</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>ObjectmenuMilitary</Template>
+  <Values>
+    <Standard>
+      <GUID>501106</GUID>
+      <Name>ObjectmenuMilitaryScene</Name>
+      <ID>ObjectmenuMilitaryScene</ID>
+    </Standard>
+    <ObjectmenuHeader>
+      <BuffDisplayList>
+        <Item>
+          <Buffgroup>
+            <Item>
+              <DataSource>[Selection Object Repair NewspaperProductivityIncrease]</DataSource>
+              <MinThreshold>0.0001</MinThreshold>
+              <MaxThreshold>10000</MaxThreshold>
+            </Item>
+          </Buffgroup>
+          <Icon>190281</Icon>
+          <InfoTip>501107</InfoTip>
+        </Item>
+        <Item>
+          <Buffgroup>
+            <Item>
+              <DataSource>[Selection Object Attacker NewspaperFireRateIncrease]</DataSource>
+              <MinThreshold>0.0001</MinThreshold>
+              <MaxThreshold>10000</MaxThreshold>
+            </Item>
+          </Buffgroup>
+          <Icon>501110</Icon>
+          <InfoTip>501116</InfoTip>
+        </Item>
+      </BuffDisplayList>
+    </ObjectmenuHeader>
+  </Values>
+</Asset>

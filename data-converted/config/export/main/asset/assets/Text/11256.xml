@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>11256</GUID>
+      <Name>SL - Monument Construction Finished - Good</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>World's Fair opens in [Newspaper FindArticle([RefGuid]) Context TownName]. [Participants Current Profile CompanyName] is proud new owner of the venue, achieving a feat we would never have imagined as the beginning of this extraordinary century!</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>6822</LineID>
+    </Text>
+  </Values>
+</Asset>

@@ -1,0 +1,31 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801671</GUID>
+      <Name>The Chasing 1.1.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <InsertEvent>801714</InsertEvent>
+      <Conclusion>17408</Conclusion>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192430</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Crackerjack! The perfect shot.&lt;/b&gt; Though a slender target, the mast snaps through, burying its operators in debris, and leaving the boat dead in the water. With the freedom of their ship, your crew find an ingenious-looking machine, but no sign of the Prosperity contract. Nevertheless, you are certain it must therefore have changed hands in nearby Montoya, and make a beeline for the port.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21102</LineID>
+    </Text>
+  </Values>
+</Asset>

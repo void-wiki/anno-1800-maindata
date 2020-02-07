@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800114</GUID>
+      <Name>Temple of the Monkey God 1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>800115</Option>
+        </Item>
+        <Item>
+          <Option>800116</Option>
+        </Item>
+        <Item>
+          <Option>800117</Option>
+        </Item>
+        <Item>
+          <Option>800118</Option>
+        </Item>
+        <Item>
+          <Option>800119</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;With water supplies so low&lt;/b&gt;, the sight of an island waterfall elicits a mighty cheer from the crew. But up close, high temple walls adorned with monkeys shield access to the water, and the temple entrance is obstructed by a crowd of devotees, deep in ritual.</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5623</LineID>
+    </Text>
+  </Values>
+</Asset>

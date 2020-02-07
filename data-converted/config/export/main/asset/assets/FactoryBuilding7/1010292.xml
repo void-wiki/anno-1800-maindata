@@ -1,0 +1,163 @@
+<Asset>
+  <Template>FactoryBuilding7</Template>
+  <Values>
+    <Standard>
+      <GUID>1010292</GUID>
+      <Name>food_02 (Beer Maker)</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_beer.png</IconFilename>
+    </Standard>
+    <Building>
+      <BuildModeRandomRotation>180</BuildModeRandomRotation>
+      <AssociatedRegions>Moderate</AssociatedRegions>
+    </Building>
+    <Blocking />
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+          <Amount>1600</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+          <Amount>4</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+          <Amount>5</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+          <Amount>4</Amount>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+    </Cost>
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/production/food_02/food_02.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection>
+      <ParticipantMessageArcheType>Resident_tier02_atWork</ParticipantMessageArcheType>
+      <Colors>
+        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+      </Colors>
+    </Selection>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Brewery</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>3722</LineID>
+    </Text>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <ActiveSounds>
+        <Item>
+          <Sound>216877</Sound>
+        </Item>
+        <Item>
+          <Sound>203620</Sound>
+        </Item>
+      </ActiveSounds>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+    </SoundEmitter>
+    <FeedbackController />
+    <Infolayer />
+    <UpgradeList />
+    <Factory7 />
+    <FactoryBase>
+      <FactoryInputs>
+        <Item>
+          <Product>1010194</Product>
+          <Amount>1</Amount>
+          <StorageAmount>3</StorageAmount>
+        </Item>
+        <Item>
+          <Product>1010236</Product>
+          <Amount>1</Amount>
+          <StorageAmount>4</StorageAmount>
+        </Item>
+      </FactoryInputs>
+      <FactoryOutputs>
+        <Item>
+          <Product>1010214</Product>
+          <Amount>1</Amount>
+          <StorageAmount>2</StorageAmount>
+        </Item>
+      </FactoryOutputs>
+      <CycleTime>60</CycleTime>
+    </FactoryBase>
+    <LogisticNode />
+    <AmbientMoodProvider>
+      <Murmur>Factory</Murmur>
+      <DynamicEnvironmentType>None</DynamicEnvironmentType>
+    </AmbientMoodProvider>
+    <Maintenance>
+      <Maintenances>
+        <Item>
+          <Product>1010017</Product>
+          <Amount>200</Amount>
+          <InactiveAmount>100</InactiveAmount>
+        </Item>
+        <Item>
+          <Product>1010115</Product>
+          <Amount>75</Amount>
+        </Item>
+      </Maintenances>
+    </Maintenance>
+    <Attackable>
+      <MaximumHitPoints>2250</MaximumHitPoints>
+      <SelfHealPerHealTick>4</SelfHealPerHealTick>
+    </Attackable>
+    <Pausable />
+    <IncidentInfectable>
+      <Infectable>
+        <Explosion>
+          <Base>0</Base>
+          <Escalated>0</Escalated>
+        </Explosion>
+      </Infectable>
+      <Explosion>
+        <ExplosionCoreDamage>1000</ExplosionCoreDamage>
+        <DamageExplosionChance>0</DamageExplosionChance>
+      </Explosion>
+      <IncidentInfectionChanceFactors>
+        <Fire>
+          <DensityDistance>20</DensityDistance>
+          <FactoryProductivityFactor>0.1</FactoryProductivityFactor>
+          <FactoryUndertimeFactor>0.05</FactoryUndertimeFactor>
+        </Fire>
+        <Riot>
+          <FactoryOvertimeFactor>0.4</FactoryOvertimeFactor>
+          <FactoryUndertimeFactor>0.2</FactoryUndertimeFactor>
+          <FactoryHappinessFactor>0.2</FactoryHappinessFactor>
+          <HappinessThreshold>20</HappinessThreshold>
+        </Riot>
+      </IncidentInfectionChanceFactors>
+    </IncidentInfectable>
+    <Electric />
+    <Culture>
+      <CultureType>Culture</CultureType>
+    </Culture>
+    <QuestObject />
+  </Values>
+</Asset>

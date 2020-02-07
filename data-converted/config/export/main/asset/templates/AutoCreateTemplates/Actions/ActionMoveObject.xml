@@ -1,0 +1,11 @@
+<Template>
+  <Name>ActionMoveObject</Name>
+  <Properties>
+    <Action />
+    <ObjectFilter />
+    <ObjectTargetFilter>
+      <TargetCheckParticipantID>0</TargetCheckParticipantID>
+    </ObjectTargetFilter>
+    <ActionMoveObject />
+  </Properties>
+</Template>

@@ -1,0 +1,27 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>192809</GUID>
+      <Name>Characters - Bente - Narrative</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192190</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192193</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192194</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>192195</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

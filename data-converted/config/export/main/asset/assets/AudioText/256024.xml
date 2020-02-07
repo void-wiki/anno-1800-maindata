@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Looks like the party's started!</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>7713</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>217028</AudioAsset>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>256024</GUID>
+      <Name>AT_ai01_RiotStarts1</Name>
+    </Standard>
+  </Values>
+</Asset>

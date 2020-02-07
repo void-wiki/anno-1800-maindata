@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802379</GUID>
+      <Name>The Mayan Map 1.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Everyone is disappointed.&lt;/b&gt; Aside from those in it for the riches, many believe a gilt-edged opportunity to unearth important discoveries has been passed up. After all, that is the whole purpose of expeditions such as this, is it not?</Text>
+          <Status>Exported</Status>
+          <ExportCount>5</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20998</LineID>
+    </Text>
+  </Values>
+</Asset>

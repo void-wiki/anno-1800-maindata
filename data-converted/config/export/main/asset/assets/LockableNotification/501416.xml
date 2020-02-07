@@ -1,0 +1,31 @@
+<Asset>
+  <Template>LockableNotification</Template>
+  <Values>
+    <Standard>
+      <GUID>501416</GUID>
+      <Name>NewAge_Colony01_Notification</Name>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <Title>21535</Title>
+            <NotificationMainIconAsset>15000005</NotificationMainIconAsset>
+            <Icon01>101323</Icon01>
+            <Icon02>100451</Icon02>
+            <BackgroundAnimation>data\ui\video\ui_alpha\main_banner\mainbanner_jornalero_a.bk2</BackgroundAnimation>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>16979</NotificationText>
+            <NotificationAudioAsset>201843</NotificationAudioAsset>
+          </BaseNotification>
+          <NotificationSubtitle>
+            <Subtitle>265159</Subtitle>
+          </NotificationSubtitle>
+        </Values>
+      </NotificationType>
+    </Notification>
+    <Locked />
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801592</GUID>
+      <Name>Sunken Depths 1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>191150</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The diver plunges into the ocean with fish-like ease.&lt;/b&gt; He follows the trail of debris through the murky waters and almost smacks into a wall of indescribable height. Unsure whether the obstacle is natural or man-made, the diver wanders along its smooth facade until he finds an uncanny artifact and resurfaces with it. His account of the underwater mystery fascinates the crew.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16121</LineID>
+    </Text>
+  </Values>
+</Asset>

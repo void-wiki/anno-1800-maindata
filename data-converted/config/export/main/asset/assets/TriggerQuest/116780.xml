@@ -1,0 +1,77 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>116780</GUID>
+      <Name>Trigger EnterMaze</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionQuestState</Template>
+        <Values>
+          <Condition />
+          <ConditionQuestState>
+            <ConditionQuestStateStates>Active</ConditionQuestStateStates>
+            <ConditionQuestStateQuestGUID>114177</ConditionQuestStateQuestGUID>
+          </ConditionQuestState>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionNotification</Template>
+            <Values>
+              <Action />
+              <ActionNotification>
+                <Notification>
+                  <Template>CharacterNotification</Template>
+                  <Values>
+                    <CharacterNotification>
+                      <Profile>237</Profile>
+                    </CharacterNotification>
+                    <BaseNotification>
+                      <NotificationText>116685</NotificationText>
+                      <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+                      <RestrictedToSessionOrRegions>
+                        <Item>
+                          <SessionOrRegion>180045</SessionOrRegion>
+                        </Item>
+                      </RestrictedToSessionOrRegions>
+                    </BaseNotification>
+                    <NotificationSubtitle>
+                      <Subtitle>116436</Subtitle>
+                    </NotificationSubtitle>
+                  </Values>
+                </Notification>
+              </ActionNotification>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+      <SubTriggers>
+        <Item>
+          <SubTrigger>
+            <Template>AutoCreateTrigger</Template>
+            <Values>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionShipsInRange</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionShipsInRange>
+                      <Range>10</Range>
+                      <TargetObject_sir>116774</TargetObject_sir>
+                      <CheckSpecificShipOwner>1</CheckSpecificShipOwner>
+                    </ConditionShipsInRange>
+                    <SessionFilter />
+                  </Values>
+                </TriggerCondition>
+              </Trigger>
+            </Values>
+          </SubTrigger>
+        </Item>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

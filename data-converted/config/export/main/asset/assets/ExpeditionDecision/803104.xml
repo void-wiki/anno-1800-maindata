@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803104</GUID>
+      <Name>Ghosts in the Ice 1.2.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803105</Option>
+        </Item>
+        <Item>
+          <Option>803106</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Reckless failure.&lt;/b&gt; Your sailors have no notion of subtlety and even less understanding of their own firepower: the very first cannonball crashes into the ice and flies through the water and into the trapped hull below. Frozen foam explodes and stains the floe with streaks of grey which all point at the gaping hole in the wooden frame. The stranded crew trembles back and forth to secure the leak and refuses any more help.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>23454</LineID>
+    </Text>
+  </Values>
+</Asset>

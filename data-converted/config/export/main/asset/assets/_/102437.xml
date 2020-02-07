@@ -1,0 +1,72 @@
+<Asset>
+  <BaseAssetGUID>101121</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>102437</GUID>
+      <Name>PreorderFlagship</Name>
+      <ID />
+    </Standard>
+    <Object>
+      <Variations>
+        <Item>
+          <VectorElement>
+            <InheritedIndex>0</InheritedIndex>
+            <InheritanceMapV2>
+              <Entry>
+                <TemplateName>WarShip</TemplateName>
+                <Index>0</Index>
+              </Entry>
+            </InheritanceMapV2>
+          </VectorElement>
+          <Filename>data/graphics/vehicle/preorder_command_ship/preorder_command_ship.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Mesh />
+    <Selection />
+    <Walking />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Imperial Command Ship</Text>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>22054</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting />
+    <Collector />
+    <Attackable />
+    <Attacker />
+    <MinimapToken />
+    <SoundEmitter>
+      <DestroySounds>
+        <Item>
+          <Sound>238319</Sound>
+        </Item>
+      </DestroySounds>
+    </SoundEmitter>
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident />
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

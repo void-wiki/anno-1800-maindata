@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800595</GUID>
+      <Name>Lost in the Desert 1.2.4.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialist</NegativeOutcomeLosses>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202365</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/wildlife_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A wild goose chase to desolation.&lt;/b&gt; Though the ostrich your crew have found cannot fly, it lollops along at surprisingly high speed. They try in vain to follow, but the sun is twice its usual size, and the bird is gone. Hot sand melts soles, and feet begin to swell. The water is out. Those that make it must have some evolutionary adaptation, because for most the desert is to be their graveyard.</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>5867</LineID>
+    </Text>
+  </Values>
+</Asset>

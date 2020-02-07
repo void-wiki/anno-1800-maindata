@@ -1,0 +1,25 @@
+<Asset>
+  <Template>ValueAssetMap</Template>
+  <Values>
+    <Standard>
+      <GUID>500601</GUID>
+      <Name>RiotChancePopulationIconMap</Name>
+    </Standard>
+    <ValueAssetMap>
+      <ValueAssetMap>
+        <Item>
+          <ValidFrom>-1000000</ValidFrom>
+          <Asset>500641</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>-1</ValidFrom>
+          <Asset>500640</Asset>
+        </Item>
+        <Item>
+          <ValidFrom>1</ValidFrom>
+          <Asset>500639</Asset>
+        </Item>
+      </ValueAssetMap>
+    </ValueAssetMap>
+  </Values>
+</Asset>

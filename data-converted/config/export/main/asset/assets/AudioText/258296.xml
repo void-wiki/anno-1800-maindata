@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Stone the crows, no!</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10622</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>222603</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>258296</GUID>
+      <Name>AT_ai05_GenericRejection2</Name>
+    </Standard>
+  </Values>
+</Asset>

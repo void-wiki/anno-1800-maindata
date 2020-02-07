@@ -1,0 +1,64 @@
+<Asset>
+  <Template>Profile_3rdParty_NoDiplomacy_NoTrader</Template>
+  <Values>
+    <Standard>
+      <GUID>94</GUID>
+      <Name>Third_party_10 (Lady Jane)</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/lady_faithful.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Lady Faithful</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13091</LineID>
+    </Text>
+    <Profile>
+      <ProfilePicture>data/ui/2kimages/main/profiles/lady_faithful.png</ProfilePicture>
+      <Portrait>114213</Portrait>
+      <CompanyIcon>114205</CompanyIcon>
+      <InfoCornerInfoTip>25000162</InfoCornerInfoTip>
+      <InfoCornerDescription>11171</InfoCornerDescription>
+      <ParticipantID>Arctic_LadyFaithful</ParticipantID>
+      <NotificationBackground>data/ui/2kimages/main/assets/character_bg/bgr_character_02.png</NotificationBackground>
+      <DefaultColor>Color11</DefaultColor>
+      <CreateModeMeta>AutoCreate_Always</CreateModeMeta>
+      <CreateModeSession>AutoCreate_Always</CreateModeSession>
+    </Profile>
+    <ParticipantMessages>
+      <MessageTriggers>
+        <QuestResolveConfirmation>
+          <Reactions>
+            <Item>
+              <MyRole>Initiator</MyRole>
+              <Notification>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification>
+                    <NotificationText>10549</NotificationText>
+                  </BaseNotification>
+                  <NotificationSubtitle />
+                </Values>
+              </Notification>
+            </Item>
+          </Reactions>
+        </QuestResolveConfirmation>
+      </MessageTriggers>
+    </ParticipantMessages>
+    <Object>
+      <DefaultParticipant>Arctic_LadyFaithful</DefaultParticipant>
+    </Object>
+    <ParticipantMessageObject>
+      <ParticipantMessages>238</ParticipantMessages>
+    </ParticipantMessageObject>
+    <Interaction />
+    <ThirdParty />
+    <Locked>
+      <DLCDependency>410042</DLCDependency>
+    </Locked>
+  </Values>
+</Asset>

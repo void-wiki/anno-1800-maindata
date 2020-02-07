@@ -1,0 +1,24 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803377</GUID>
+      <Name>The Great Sickness 1.1.2.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <NegativeOutcomeLosses>LoseSpecialistPreferAttribute</NegativeOutcomeLosses>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;Smallpox spreads with a missionary zeal.&lt;/b&gt; Following the priest's foolish suggestion that the crew all visit the doctor to offer their prayers, it is hardly a surprise when a spate of new cases are reported. Three weeks after the doctor dies, others are just beginning to experience the first agonising symptoms. Had your crew heartlessly abandoned the doctor, it would surely have been the better option.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31566</LineID>
+    </Text>
+  </Values>
+</Asset>

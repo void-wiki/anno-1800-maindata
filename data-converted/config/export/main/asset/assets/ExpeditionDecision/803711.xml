@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>803711</GUID>
+      <Name>See you later 1.</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>803712</Option>
+        </Item>
+        <Item>
+          <Option>803721</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;"There's no other way, we must wade the swamp".&lt;/b&gt; It doesn't look too deep at first, but soon the party are up to their waist in muddy water and too far in to turn back. A sinister log, seemingly adrift, mutates into the jaws of a dragon. &lt;b&gt;"A gator!"&lt;/b&gt;</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>33204</LineID>
+    </Text>
+  </Values>
+</Asset>

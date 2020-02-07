@@ -1,0 +1,22 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>236617</GUID>
+      <Name>wwc_sfx_anm_herds_fish_CL</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <English>
+          <DurationMinimum>1800</DurationMinimum>
+          <DurationMaximum>4005</DurationMaximum>
+        </English>
+      </DurationLanguageArray>
+      <MaxAttenuation>12</MaxAttenuation>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2441716147</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

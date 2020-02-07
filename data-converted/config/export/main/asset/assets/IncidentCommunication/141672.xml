@@ -1,0 +1,34 @@
+<Asset>
+  <Template>IncidentCommunication</Template>
+  <Values>
+    <Standard>
+      <GUID>141672</GUID>
+      <Name>RiotIndustryCommunication</Name>
+    </Standard>
+    <IncidentCommunication>
+      <IncidentStartWithoutNearbyResolverNotification>501790</IncidentStartWithoutNearbyResolverNotification>
+      <IncidentLostFirstBuildingNotification>501791</IncidentLostFirstBuildingNotification>
+      <IncidentEscalatedNotification>500302</IncidentEscalatedNotification>
+      <IncidentEndNotification>501084</IncidentEndNotification>
+      <IncidentEndDestructionNotification>501085</IncidentEndDestructionNotification>
+      <IncidentPamsyTriggers>
+        <Item>
+          <InfectedAreaSize>27</InfectedAreaSize>
+          <PaMSyTrigger>IncidentStart</PaMSyTrigger>
+          <PaMSyContextAsset>2001040</PaMSyContextAsset>
+        </Item>
+      </IncidentPamsyTriggers>
+      <NewspaperArticleIncidentStart>140754</NewspaperArticleIncidentStart>
+      <NewspaperArticleIncidentSolved>140760</NewspaperArticleIncidentSolved>
+      <NewspaperArticleIncidentTimedOut>140759</NewspaperArticleIncidentTimedOut>
+      <NewspaperArticleIncidentSpecialAction>140828</NewspaperArticleIncidentSpecialAction>
+      <NewspaperArticleIncidentEndDestroyed>140978</NewspaperArticleIncidentEndDestroyed>
+      <NewspaperArticleIncidentEscalated>140755</NewspaperArticleIncidentEscalated>
+      <NewspaperArticleIncidentEscalatedSolved>140958</NewspaperArticleIncidentEscalatedSolved>
+      <NewspaperArticleIncidentEscalatedTimedOut>140959</NewspaperArticleIncidentEscalatedTimedOut>
+      <NewspaperArticleIncidentEscalatedSpecialAction>140957</NewspaperArticleIncidentEscalatedSpecialAction>
+      <NewspaperArticleIncidentEscalatedEndDestroyed>140979</NewspaperArticleIncidentEscalatedEndDestroyed>
+      <IncidentMusicType>Riot</IncidentMusicType>
+    </IncidentCommunication>
+  </Values>
+</Asset>

@@ -1,0 +1,19 @@
+<Asset>
+  <Template>Text</Template>
+  <Values>
+    <Standard>
+      <GUID>13163</GUID>
+      <Name>REPLACEDeliveryContent_Combined_PluralItems_bold_Item</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Deliver:&lt;br/&gt;&lt;b&gt;[Conditions QuestCondition Amount(ObjectiveIndex)] [AssetData([Conditions QuestCondition DeliveryObject(ObjectiveIndex)]) Text]&lt;/b&gt; to [AssetData([Conditions QuestCondition ExecutionObject]) Text]</Text>
+          <Status>ToBeDeleted</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>18285</LineID>
+    </Text>
+  </Values>
+</Asset>

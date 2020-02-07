@@ -1,0 +1,50 @@
+<Asset>
+  <Template>CultureItem</Template>
+  <Values>
+    <Standard>
+      <GUID>191072</GUID>
+      <Name>black bear</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/animals/icon_black_bear.png</IconFilename>
+      <InfoDescription>13695</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Black Bear</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>26446</LineID>
+    </Text>
+    <Item>
+      <Rarity>Uncommon</Rarity>
+      <ItemSet>191115</ItemSet>
+      <TradePrice>27500</TradePrice>
+      <TradePriceOnlineCurrency>10</TradePriceOnlineCurrency>
+    </Item>
+    <Cost />
+    <CultureUpgrade>
+      <ChangeModule>100814</ChangeModule>
+      <ForcedFeedbackVariation>101766</ForcedFeedbackVariation>
+      <AttractivenessUpgrade>
+        <Value>20</Value>
+      </AttractivenessUpgrade>
+      <AdditionalModuleSoundLoop>203287</AdditionalModuleSoundLoop>
+    </CultureUpgrade>
+    <BuildingUpgrade />
+    <ExpeditionAttribute>
+      <BaseMorale>0</BaseMorale>
+      <ExpeditionAttributes>
+        <Item>
+          <Attribute>Melee</Attribute>
+          <Amount>20</Amount>
+        </Item>
+      </ExpeditionAttributes>
+      <ItemRegions>NorthAmerica;SouthAmerica;NorthernNorthAmerica</ItemRegions>
+      <ItemDifficulties>Easy;Average</ItemDifficulties>
+      <FluffText>14087</FluffText>
+    </ExpeditionAttribute>
+    <Locked />
+  </Values>
+</Asset>

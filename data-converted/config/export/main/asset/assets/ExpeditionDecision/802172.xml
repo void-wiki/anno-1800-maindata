@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802172</GUID>
+      <Name>Selfless Deeds 1.2.1.2.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveHigh</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The crew is puny indeed, and it is butchered.&lt;/b&gt; The bandits' leader needs no help to fight your rescuers, who spend more time trying to avoid being hit than actually fighting back. They flee the camp, scatter into the woods, and are hunted down like game. The few sailors who make it back to the coast can't even determinate the location of the kidnappers' camp, making the deaths of their companions pointless.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21028</LineID>
+    </Text>
+  </Values>
+</Asset>

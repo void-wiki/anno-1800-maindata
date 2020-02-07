@@ -1,0 +1,59 @@
+<Asset>
+  <Template>HarborOfficeItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190590</GUID>
+      <Name>MilitaryEnhancerItem</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_potatoes.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Military Enhancer</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item />
+    <ItemEffect>
+      <EffectTargets>
+        <Item>
+          <GUID>1010522</GUID>
+        </Item>
+        <Item>
+          <GUID>1010523</GUID>
+        </Item>
+        <Item>
+          <GUID>1010524</GUID>
+        </Item>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemAction />
+    <ExpeditionAttribute />
+    <CultureUpgrade />
+    <BuildingUpgrade />
+    <AttackerUpgrade>
+      <AttackRangeUpgrade>
+        <Value>200</Value>
+      </AttackRangeUpgrade>
+      <BaseDamageUpgrade>
+        <Value>300</Value>
+        <Percental>1</Percental>
+      </BaseDamageUpgrade>
+      <LineOfSightRangeUpgrade>
+        <Value>200</Value>
+      </LineOfSightRangeUpgrade>
+    </AttackerUpgrade>
+    <VisitorHarborUpgrade />
+    <PassiveTradeGoodGenUpgrade />
+    <ShipyardUpgrade />
+    <Locked />
+    <AttackableUpgrade />
+    <ProjectileUpgrade />
+    <IncidentInfectableUpgrade />
+    <VehicleUpgrade />
+    <RepairCraneUpgrade />
+    <KontorUpgrade />
+    <CraftableItem />
+    <PierUpgrade />
+  </Values>
+</Asset>

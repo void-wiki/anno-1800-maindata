@@ -1,0 +1,31 @@
+<Asset>
+  <BaseAssetGUID>102892</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>103049</GUID>
+    </Standard>
+    <Text />
+    <Blocking />
+    <Building>
+      <AssociatedRegions>Colony01</AssociatedRegions>
+    </Building>
+    <Cost />
+    <Selection />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/graphics/buildings/ornamental/uplay_props/pillar_colony01_01.cfg</Filename>
+        </Item>
+      </Variations>
+    </Object>
+    <Constructable />
+    <Mesh />
+    <SoundEmitter />
+    <Locked />
+    <FeedbackController />
+    <Ornament />
+    <AmbientMoodProvider />
+    <Pausable />
+    <Infolayer />
+  </Values>
+</Asset>

@@ -1,0 +1,25 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Yes, just look at her. I bet she already forgot who we are.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17313</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232737</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <Mood>Negative</Mood>
+      <DialogSequence>7</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267006</GUID>
+      <Name>AT_Advisor02_Movie08_01</Name>
+    </Standard>
+  </Values>
+</Asset>

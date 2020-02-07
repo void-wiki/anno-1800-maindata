@@ -1,0 +1,122 @@
+<Asset>
+  <Template>A7_QuestStatusQuo</Template>
+  <Values>
+    <Standard>
+      <GUID>116826</GUID>
+      <Name>MPQ102B BuildTimber</Name>
+    </Standard>
+    <Quest>
+      <StarterMessage>
+        <SuppressMessage>1</SuppressMessage>
+      </StarterMessage>
+      <SuccessMessage>
+        <Notification>
+          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+          <Values>
+            <CharacterNotification>
+              <Profile>117422</Profile>
+            </CharacterNotification>
+            <BaseNotification>
+              <NotificationText>115196</NotificationText>
+              <RestrictToSessionOrRegion>1</RestrictToSessionOrRegion>
+              <RestrictedToSessionOrRegions>
+                <Item>
+                  <SessionOrRegion>180045</SessionOrRegion>
+                </Item>
+              </RestrictedToSessionOrRegions>
+            </BaseNotification>
+            <NotificationSubtitle>
+              <Subtitle>116503</Subtitle>
+            </NotificationSubtitle>
+          </Values>
+        </Notification>
+      </SuccessMessage>
+      <QuestGiver>117422</QuestGiver>
+      <StoryText>116880</StoryText>
+      <MaxCallOut>1</MaxCallOut>
+      <MaxSolveCount>1</MaxSolveCount>
+      <QuestTimeLimit>0</QuestTimeLimit>
+      <QuestActivation>QuestStart</QuestActivation>
+      <IsAbortable>0</IsAbortable>
+      <HasExclusiveQuestGiver>0</HasExclusiveQuestGiver>
+      <QuestSessionDependencies>
+        <Item>
+          <SessionOrRegion>180045</SessionOrRegion>
+        </Item>
+      </QuestSessionDependencies>
+      <QuestBookBackground>data/ui/2kimages/main/assets16/questbackground/bg_quest_passage.png</QuestBookBackground>
+      <ReputationQuestFail>
+        <ReputationFailList />
+      </ReputationQuestFail>
+      <HasStarterSpeechBubble>0</HasStarterSpeechBubble>
+    </Quest>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Fighting The Cold</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>35884</LineID>
+    </Text>
+    <Reward>
+      <RewardAssets />
+      <RewardReputation />
+    </Reward>
+    <Objectives>
+      <WinConditions>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>114235</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <Context>114703</Context>
+                <CounterAmount>1</CounterAmount>
+                <CounterScope>Session</CounterScope>
+                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                <CounterScopeContext>180045</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+        <Item>
+          <Objective>
+            <Template>StatusQuoObjective</Template>
+            <Values>
+              <ConditionQuestObjective>
+                <TextCombinedContextValue>114235</TextCombinedContextValue>
+              </ConditionQuestObjective>
+              <ConditionPlayerCounter>
+                <Context>114704</Context>
+                <CounterAmount>1</CounterAmount>
+                <CounterScope>Session</CounterScope>
+                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                <CounterScopeContext>180045</CounterScopeContext>
+              </ConditionPlayerCounter>
+              <ConditionQuestStatusQuo />
+              <ConditionPropsExecutionPlaceSettings />
+            </Values>
+          </Objective>
+        </Item>
+      </WinConditions>
+    </Objectives>
+    <QuestOptional>
+      <HasStarterObject>None</HasStarterObject>
+    </QuestOptional>
+  </Values>
+</Asset>

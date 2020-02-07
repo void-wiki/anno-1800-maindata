@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>After the picket protests, many fine men left Bright Sands to join you.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17653</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234202</AudioAsset>
+      <SpeechAudioType>Movie</SpeechAudioType>
+      <DialogSequence>1</DialogSequence>
+    </AudioText>
+    <Standard>
+      <GUID>267147</GUID>
+      <Name>AT_TheodoraTicker_movie12_01</Name>
+    </Standard>
+  </Values>
+</Asset>

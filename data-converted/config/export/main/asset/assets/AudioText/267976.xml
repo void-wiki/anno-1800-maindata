@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Any redeeming qualities can't be seen for the smog.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>16989</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232881</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>267976</GUID>
+      <Name>AT_ai06_HighPollution</Name>
+    </Standard>
+  </Values>
+</Asset>

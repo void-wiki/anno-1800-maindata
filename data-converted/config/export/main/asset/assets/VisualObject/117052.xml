@@ -1,0 +1,38 @@
+<Asset>
+  <Template>VisualObject</Template>
+  <Values>
+    <Standard>
+      <GUID>117052</GUID>
+      <Name>wooden_boxes</Name>
+    </Standard>
+    <Mesh />
+    <Object>
+      <Variations>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wooden_box.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wooden_box_empty_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wooden_box_fish.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wooden_box_fur_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wooden_box_iron_bar_01.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wooden_box_iron_bar_02.cfg</Filename>
+        </Item>
+        <Item>
+          <Filename>data/dlc03/graphics/quest/quest_props/storage/wooden_box_large_fish.cfg</Filename>
+        </Item>
+      </Variations>
+      <AssignDefaultParticipant>1</AssignDefaultParticipant>
+    </Object>
+    <QuestObject />
+    <SoundEmitter />
+  </Values>
+</Asset>

@@ -1,0 +1,37 @@
+<Asset>
+  <Template>TriggerCampaign</Template>
+  <Values>
+    <Standard>
+      <GUID>150931</GUID>
+      <Name>CQ103_EdvardsNewspaper</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionEvent</Template>
+        <Values>
+          <Condition />
+          <ConditionEvent>
+            <ConditionEvent>NotificationRemoved</ConditionEvent>
+            <ContextData>Hannah_IntroduceEdvardsNewspaper</ContextData>
+          </ConditionEvent>
+          <ConditionPropsNegatable />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionMenuVisibility</Template>
+            <Values>
+              <Action />
+              <ActionMenuVisibility>
+                <SetMenuVisible>1</SetMenuVisible>
+                <MenuType>CampaignNewspaper</MenuType>
+              </ActionMenuVisibility>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

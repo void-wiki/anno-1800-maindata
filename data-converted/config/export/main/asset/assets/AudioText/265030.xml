@@ -1,0 +1,24 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Everybody on board? Good! I shiver at the thought of staying here another second…</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15596</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232168</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+      <Mood>Positve</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>265030</GUID>
+      <Name>editor_WorkerRiot_02</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802027</GUID>
+      <Name>Tavern Troubles 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802029</Option>
+        </Item>
+        <Item>
+          <Option>802030</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The language of alcohol is universal.&lt;/b&gt; The thugs take you up on your offer and eye the sailors' purses as they pass the money around to pay for the beers. As the first round arrives, one of the hoodlums speaks up and announces that they will have a drinking contest with the crew. The idea is one-sided and weirdly different from their previous aggressive attitude.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21729</LineID>
+    </Text>
+  </Values>
+</Asset>

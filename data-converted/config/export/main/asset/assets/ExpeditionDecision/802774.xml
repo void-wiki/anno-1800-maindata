@@ -1,0 +1,29 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802774</GUID>
+      <Name>Jolly Roger 1.1.2.1.2.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+      <DecisionVideoSounds>
+        <Item>
+          <Event>202344</Event>
+        </Item>
+      </DecisionVideoSounds>
+      <DecisionVideo>data/ui/video/expedition/melee_a.bk2</DecisionVideo>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;It is a saddening scene.&lt;/b&gt; To see this many brave fighters put to the sword is regrettable. Fortunately the losses are largely on the other side, the pirates' antique weaponry ever more a disadvantage in the modern age. When the last scrawny dog is dead, you set their ship alight like a funeral barque. Your own sailors, still twitching from the skirmish, pour themselves long jars of rum, and remember the fallen. </Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21527</LineID>
+    </Text>
+  </Values>
+</Asset>

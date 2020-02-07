@@ -1,0 +1,19 @@
+<Asset>
+  <Template>FeedbackUnitClass</Template>
+  <Values>
+    <Standard>
+      <GUID>116105</GUID>
+      <Name>Arctic Bear Hunters</Name>
+    </Standard>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>Hunter</DefaultBehaviour>
+      <UnitAssets>
+        <Item>
+          <UnitAsset>116106</UnitAsset>
+        </Item>
+      </UnitAssets>
+      <AllowedReactions />
+      <UseSpecialPathPlannerLayer>1</UseSpecialPathPlannerLayer>
+    </TrafficFeedbackClass>
+  </Values>
+</Asset>

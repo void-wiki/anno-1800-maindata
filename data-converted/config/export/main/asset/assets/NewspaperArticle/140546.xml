@@ -1,0 +1,33 @@
+<Asset>
+  <Template>NewspaperArticle</Template>
+  <Values>
+    <Standard>
+      <GUID>140546</GUID>
+      <Name>IncomeBalancePositivePresent</Name>
+    </Standard>
+    <NewspaperArticle>
+      <Headline>2972</Headline>
+      <Subline>2973</Subline>
+      <Image>142235</Image>
+      <Category>Economy</Category>
+      <NewsPriority>
+        <StartValue>280</StartValue>
+        <LossOnPublish>200</LossOnPublish>
+        <Maximum>500</Maximum>
+      </NewsPriority>
+      <ArticleEffect>HappinessGlobal</ArticleEffect>
+      <EffectValue>5</EffectValue>
+    </NewspaperArticle>
+    <Locked />
+    <Trigger>
+      <TriggerCondition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </TriggerCondition>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,36 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>193781</GUID>
+      <Name>Machines - Arctic - Rare</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>116042</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116070</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116079</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116082</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116088</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116097</ItemLink>
+        </Item>
+        <Item>
+          <ItemLink>116100</ItemLink>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

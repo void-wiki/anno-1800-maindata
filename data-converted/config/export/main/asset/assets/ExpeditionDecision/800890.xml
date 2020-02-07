@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>800890</GUID>
+      <Name>Parasitic Infestation 1.2.2.1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The unpleasant medicine doesn't help.&lt;/b&gt; Constant trips to the privy are now the only release for your bug-ridden crew. The doctor admits to the failure of the tincture, but thankfully has something for diarrhea.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>13205</LineID>
+    </Text>
+  </Values>
+</Asset>

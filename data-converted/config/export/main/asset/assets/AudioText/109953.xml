@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>A fellow anarchist has exposed your underhanded imperialism!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>30606</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>204486</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>109953</GUID>
+      <Name>AT_ai10_MafiaDetected_NPCsFriend2</Name>
+    </Standard>
+  </Values>
+</Asset>

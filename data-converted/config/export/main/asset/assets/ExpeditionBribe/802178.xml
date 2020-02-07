@@ -1,0 +1,27 @@
+<Asset>
+  <Template>ExpeditionBribe</Template>
+  <Values>
+    <Standard>
+      <GUID>802178</GUID>
+      <Name>Selfless Deeds 1.2.2.2.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>The kidnappers smirk.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21034</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <TraderName>15949</TraderName>
+      <FollowupSuccessOption>802179</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>802180</FollowupFailOrCancelOption>
+      <SuccessChance>
+        <SuccessTradeValue>10000</SuccessTradeValue>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

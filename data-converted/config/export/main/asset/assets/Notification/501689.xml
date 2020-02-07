@@ -1,0 +1,26 @@
+<Asset>
+  <Template>Notification</Template>
+  <Values>
+    <Standard>
+      <GUID>501689</GUID>
+      <Name>NotificationInfluenceSpecializationGainedBanner</Name>
+      <ID>NotificationInfluenceSpecializationGainedBanner</ID>
+    </Standard>
+    <Notification>
+      <NotificationType>
+        <Template>MainNotification</Template>
+        <Values>
+          <MainNotification>
+            <IsBuffNotification>1</IsBuffNotification>
+          </MainNotification>
+          <BaseNotification>
+            <NotificationText>16790</NotificationText>
+            <NotificationAudioAsset>239732</NotificationAudioAsset>
+            <NotificationPriority>200</NotificationPriority>
+          </BaseNotification>
+          <NotificationSubtitle />
+        </Values>
+      </NotificationType>
+    </Notification>
+  </Values>
+</Asset>

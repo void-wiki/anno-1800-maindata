@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Maybe Edvard will try to prevent us owning a shipyard, but for now let's at least house those workers. </Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15507</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>232215</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265055</GUID>
+      <Name>advisor_01_WorkerRiot_05</Name>
+    </Standard>
+  </Values>
+</Asset>

@@ -1,0 +1,30 @@
+<Asset>
+  <Template>FleetDummy</Template>
+  <Values>
+    <Standard>
+      <GUID>102326</GUID>
+      <Name>Fleet</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_shipgroup.png</IconFilename>
+      <ID>FleetDummy</ID>
+    </Standard>
+    <SoundEmitterCommandBarks>
+      <BarkMapping>
+        <Selection>
+          <AudioPool>700072</AudioPool>
+        </Selection>
+        <AttackCommand>
+          <AudioPool>700073</AudioPool>
+        </AttackCommand>
+        <MoveCommand>
+          <AudioPool>700074</AudioPool>
+        </MoveCommand>
+        <EscortCommand>
+          <AudioPool>700100</AudioPool>
+        </EscortCommand>
+        <PatrolCommand>
+          <AudioPool>700099</AudioPool>
+        </PatrolCommand>
+      </BarkMapping>
+    </SoundEmitterCommandBarks>
+  </Values>
+</Asset>

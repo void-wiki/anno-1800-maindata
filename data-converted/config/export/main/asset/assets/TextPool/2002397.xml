@@ -1,0 +1,26 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>2002397</GUID>
+      <Name>EventDescriptionUpTextPool</Name>
+    </Standard>
+    <TextPool>
+      <TextGroups>
+        <Item>
+          <Group>-515343893</Group>
+        </Item>
+      </TextGroups>
+    </TextPool>
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool />
+  </Values>
+</Asset>

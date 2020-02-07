@@ -1,0 +1,19 @@
+<Asset>
+  <Template>RandomIsland</Template>
+  <Values>
+    <Standard>
+      <GUID>116885</GUID>
+      <Name>colony03_a01_02_singleplayer</Name>
+    </Standard>
+    <RandomIsland>
+      <FilePath>data/dlc03/sessions/islands/pool/colony03_a01_02/colony03_a01_02.a7m</FilePath>
+      <IslandRegion>Arctic</IslandRegion>
+      <IslandDifficulty>Normal;Hard</IslandDifficulty>
+      <IslandType>Starter</IslandType>
+      <ForcedRotation>_0</ForcedRotation>
+      <AvoidIslandMoving>1</AvoidIslandMoving>
+      <AllowedGameType>SandboxSingleplayer;CampaignMode</AllowedGameType>
+      <AllowedIslandTemplateLabel>arctic_player_start_island</AllowedIslandTemplateLabel>
+    </RandomIsland>
+  </Values>
+</Asset>

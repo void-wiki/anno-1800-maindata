@@ -1,0 +1,54 @@
+<Asset>
+  <Template>RewardPool</Template>
+  <Values>
+    <Standard>
+      <GUID>190348</GUID>
+      <Name>The Inspector Reward Pool</Name>
+    </Standard>
+    <RewardPool>
+      <ItemsPool>
+        <Item>
+          <ItemLink>192967</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192968</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192969</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192952</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192953</ItemLink>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192954</ItemLink>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192957</ItemLink>
+          <MaxAmount>2</MaxAmount>
+          <Weight>50</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192958</ItemLink>
+          <MaxAmount>2</MaxAmount>
+          <Weight>100</Weight>
+        </Item>
+        <Item>
+          <ItemLink>192959</ItemLink>
+          <MaxAmount>2</MaxAmount>
+          <Weight>50</Weight>
+        </Item>
+      </ItemsPool>
+    </RewardPool>
+    <Locked />
+    <Text />
+  </Values>
+</Asset>

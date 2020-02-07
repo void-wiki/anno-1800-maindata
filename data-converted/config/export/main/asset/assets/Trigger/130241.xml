@@ -1,0 +1,76 @@
+<Asset>
+  <Template>Trigger</Template>
+  <Values>
+    <Standard>
+      <GUID>130241</GUID>
+      <Name>intermediate colony01 2.0</Name>
+      <IconFilename>data/ui/2kimages/main/profiles/resident_colony_tier02.png</IconFilename>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionPlayerCounter</Template>
+        <Values>
+          <Condition />
+          <ConditionPlayerCounter>
+            <PlayerCounter>PopulationByLevel</PlayerCounter>
+            <Context>15000006</Context>
+            <CounterAmount>1</CounterAmount>
+          </ConditionPlayerCounter>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionUnlockAsset</Template>
+            <Values>
+              <Action />
+              <ActionUnlockAsset>
+                <UnlockAssets>
+                  <Item>
+                    <Asset>1010035</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130100</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130101</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130104</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>101285</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130190</Asset>
+                  </Item>
+                </UnlockAssets>
+                <UnhideAssets>
+                  <Item>
+                    <Asset>130063</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130102</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130123</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>101311</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>102284</Asset>
+                  </Item>
+                  <Item>
+                    <Asset>130197</Asset>
+                  </Item>
+                </UnhideAssets>
+              </ActionUnlockAsset>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

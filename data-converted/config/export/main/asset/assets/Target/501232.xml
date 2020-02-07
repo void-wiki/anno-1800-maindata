@@ -1,0 +1,34 @@
+<Asset>
+  <Template>Target</Template>
+  <Values>
+    <Target>
+      <ActionID>HEAL_INCIDENT</ActionID>
+      <Matches>
+        <TargetMatch1>
+          <Flags>OrNextMatch;NotActionBlocked;IsInfectedByFire</Flags>
+        </TargetMatch1>
+        <DisableMatch1>
+          <Flags>CheckProperty</Flags>
+          <Property>IncidentInfectable</Property>
+        </DisableMatch1>
+        <SelectionMatch1>
+          <Flags>OwnedByPlayer</Flags>
+        </SelectionMatch1>
+        <TargetMatch2>
+          <Flags>OrNextMatch;NotActionBlocked;IsInfectedByIllness</Flags>
+        </TargetMatch2>
+        <TargetMatch3>
+          <Flags>OrNextMatch;NotActionBlocked;IsInfectedByRiot</Flags>
+        </TargetMatch3>
+      </Matches>
+      <MouseCursorTarget>2001298</MouseCursorTarget>
+      <MouseCursorDisable>2001207</MouseCursorDisable>
+      <MouseCursorMode>2001038</MouseCursorMode>
+    </Target>
+    <Standard>
+      <GUID>501232</GUID>
+      <Name>Special Action Heal Incident</Name>
+    </Standard>
+    <Text />
+  </Values>
+</Asset>

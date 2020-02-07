@@ -1,0 +1,35 @@
+<Asset>
+  <Template>ActiveItem</Template>
+  <Values>
+    <Standard>
+      <GUID>190990</GUID>
+      <Name>GoShip</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_elephant.png</IconFilename>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Go Ship!</Text>
+        </English>
+      </LocaText>
+    </Text>
+    <Item>
+      <Allocation>Ship</Allocation>
+      <Rarity>Uncommon</Rarity>
+      <HasAction>1</HasAction>
+    </Item>
+    <Cost />
+    <ItemAction>
+      <ItemAction>BUFF_OTHER</ItemAction>
+      <ActionTarget>500955</ActionTarget>
+      <ActionScope>Target</ActionScope>
+      <ActionCooldown>30000</ActionCooldown>
+      <ActionDuration>30000</ActionDuration>
+      <ActiveBuff>6000002</ActiveBuff>
+    </ItemAction>
+    <ExpeditionAttribute />
+    <SpecialAction />
+    <Locked />
+    <CraftableItem />
+  </Values>
+</Asset>

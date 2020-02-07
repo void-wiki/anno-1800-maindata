@@ -1,0 +1,54 @@
+<Asset>
+  <BaseAssetGUID>100441</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>102514</GUID>
+      <Name>QO Clipper Willie competitor</Name>
+    </Standard>
+    <Object />
+    <Mesh />
+    <Selection />
+    <Walking>
+      <ForwardSpeed>3.7</ForwardSpeed>
+    </Walking>
+    <Text>
+      <LineID>29481</LineID>
+    </Text>
+    <CommandQueue />
+    <Drifting>
+      <Length>3.5</Length>
+      <Width>0.8</Width>
+    </Drifting>
+    <Collector />
+    <Attackable />
+    <MinimapToken />
+    <SoundEmitter />
+    <UpgradeList />
+    <QuestObject />
+    <Infolayer />
+    <ItemContainer />
+    <FeedbackController />
+    <Draggable />
+    <Cost />
+    <Craftable />
+    <TradeRouteVehicle />
+    <Locked />
+    <Nameable />
+    <MetaPersistent />
+    <ExpeditionAttribute />
+    <ShipMaintenance />
+    <Sellable />
+    <Stance />
+    <Rentable />
+    <WorldMapSound />
+    <Pausable />
+    <ShipIncident>
+      <InfectableByIncident>
+        <Illness>
+          <Infectable>0</Infectable>
+        </Illness>
+      </InfectableByIncident>
+    </ShipIncident>
+    <SoundEmitterCommandBarks />
+  </Values>
+</Asset>

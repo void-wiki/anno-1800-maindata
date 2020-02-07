@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>801657</GUID>
+      <Name>Scylla and Charybdis 1.2.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The sailors' fright gives them wings.&lt;/b&gt; The crew reacts to each order with unparalleled speed, too occupied to plead the heavens to think of discussing the risky maneuvers that are asked of them. When at last the whirlpool is passed, their belief that the Almighty might have his eyes on this ship is stronger than ever.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>17989</LineID>
+    </Text>
+  </Values>
+</Asset>

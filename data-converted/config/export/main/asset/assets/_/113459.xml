@@ -1,0 +1,30 @@
+<Asset>
+  <BaseAssetGUID>1010567</BaseAssetGUID>
+  <Values>
+    <Standard>
+      <GUID>113459</GUID>
+      <Name>Quay System Colony03</Name>
+      <ID>QuaySystemArctic</ID>
+    </Standard>
+    <Cost />
+    <Street>
+      <CfgFileName>data/dlc03/graphics/buildings/special/quay_system_colony03_01/props/quay_system_colony03_01.cfg</CfgFileName>
+      <InternalID>38</InternalID>
+    </Street>
+    <Constructable />
+    <Locked />
+    <SoundEmitter>
+      <IncidentSounds>
+        <InfectedFire>
+          <Item>
+            <Sound>214659</Sound>
+          </Item>
+        </InfectedFire>
+      </IncidentSounds>
+    </SoundEmitter>
+    <Text>
+      <LineID>32907</LineID>
+    </Text>
+    <Building />
+  </Values>
+</Asset>

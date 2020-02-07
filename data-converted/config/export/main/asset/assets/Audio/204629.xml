@@ -1,0 +1,33 @@
+<Asset>
+  <Template>Audio</Template>
+  <Values>
+    <Standard>
+      <GUID>204629</GUID>
+      <Name>Play_AI_NEWDL_IFV_CMJ_RND</Name>
+      <IconFilename>test_data/graphics/wwise_icons/event.png</IconFilename>
+    </Standard>
+    <Audio>
+      <DurationLanguageArray>
+        <Russian>
+          <DurationMinimum>2002</DurationMinimum>
+          <DurationMaximum>5239</DurationMaximum>
+        </Russian>
+        <English>
+          <DurationMinimum>2130</DurationMinimum>
+          <DurationMaximum>5585</DurationMaximum>
+        </English>
+        <German>
+          <DurationMinimum>3109</DurationMinimum>
+          <DurationMaximum>6736</DurationMaximum>
+        </German>
+        <French>
+          <DurationMinimum>1656</DurationMinimum>
+          <DurationMaximum>4468</DurationMaximum>
+        </French>
+      </DurationLanguageArray>
+    </Audio>
+    <WwiseStandard>
+      <WwiseID>2583190753</WwiseID>
+    </WwiseStandard>
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802070</GUID>
+      <Name>The Mutiny 1.1.3.1.2.3.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>RemoveMedium</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;The mutineers leave the expedition.&lt;/b&gt; The Captain and officers, having failed to provide a solution, cannot hold them to their contracts. Equally, by refusing to negotiate, the leader of the mutineers is now committed to take some formal action. An uncomfortable week of silence passes, before you make port, and a large portion of the crew leaves, taking food and other supplies.</Text>
+          <Status>Exported</Status>
+          <ExportCount>3</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21596</LineID>
+    </Text>
+  </Values>
+</Asset>

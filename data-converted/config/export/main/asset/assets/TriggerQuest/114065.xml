@@ -1,0 +1,83 @@
+<Asset>
+  <Template>TriggerQuest</Template>
+  <Values>
+    <Standard>
+      <GUID>114065</GUID>
+      <Name>ST_Multiplayer_DiscoveryFinished Trigger</Name>
+    </Standard>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionActiveSession</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveSession>
+            <ActiveSession>110934</ActiveSession>
+          </ConditionActiveSession>
+        </Values>
+      </TriggerCondition>
+      <TriggerActions>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>113804</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionRegisterTrigger</Template>
+            <Values>
+              <Action />
+              <ActionRegisterTrigger>
+                <TriggerAsset>113867</TriggerAsset>
+              </ActionRegisterTrigger>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetIslandName</Template>
+            <Values>
+              <Action />
+              <ActionSetIslandName>
+                <SessionIsland>110934</SessionIsland>
+                <IslandAsset>112140</IslandAsset>
+                <NewIslandName>112147</NewIslandName>
+              </ActionSetIslandName>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionSetIslandName</Template>
+            <Values>
+              <Action />
+              <ActionSetIslandName>
+                <SessionIsland>110934</SessionIsland>
+                <IslandAsset>113655</IslandAsset>
+                <NewIslandName>113747</NewIslandName>
+              </ActionSetIslandName>
+            </Values>
+          </TriggerAction>
+        </Item>
+        <Item>
+          <TriggerAction>
+            <Template>ActionDeleteObjects</Template>
+            <Values>
+              <Action />
+              <ActionDeleteObjects />
+              <ObjectFilter>
+                <ObjectGUID>111878</ObjectGUID>
+              </ObjectFilter>
+            </Values>
+          </TriggerAction>
+        </Item>
+      </TriggerActions>
+    </Trigger>
+    <TriggerSetup />
+  </Values>
+</Asset>

@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Not enough farmers!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15872</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>234181</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265282</GUID>
+      <Name>AT_Narrator_Workforce_Warning_MissingFarmers</Name>
+    </Standard>
+  </Values>
+</Asset>

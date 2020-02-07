@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>Your Harbour is under attack!</Text>
+          <Status>Exported</Status>
+          <ExportCount>2</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>15808</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>233888</AudioAsset>
+      <SpeechAudioType>Campaign</SpeechAudioType>
+    </AudioText>
+    <Standard>
+      <GUID>265211</GUID>
+      <Name>AT_Narrator_Military_Warning_KontorUnderAttack</Name>
+    </Standard>
+  </Values>
+</Asset>

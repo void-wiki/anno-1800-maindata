@@ -1,0 +1,23 @@
+<Asset>
+  <Template>AudioText</Template>
+  <Values>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>I'm cutting your supply off at the pass.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>10935</LineID>
+    </Text>
+    <AudioText>
+      <AudioAsset>223584</AudioAsset>
+      <Mood>Negative</Mood>
+    </AudioText>
+    <Standard>
+      <GUID>252792</GUID>
+      <Name>AT_ai09_NpcCancelsTradeRights1</Name>
+    </Standard>
+  </Values>
+</Asset>

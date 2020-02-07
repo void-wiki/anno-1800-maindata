@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802278</GUID>
+      <Name>Songs Under the Sea 1.2.1.1.1</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <ChangeMorale>AddFew</ChangeMorale>
+    </ExpeditionDecision>
+    <Reward>
+      <RewardAssets>
+        <Item>
+          <Reward>192038</Reward>
+          <Amount>1</Amount>
+        </Item>
+      </RewardAssets>
+    </Reward>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A fine catch!&lt;/b&gt; Taking care not to hurt the beautiful creature, your fishermen haul the great net from the water, and let her slop into a tub they have prepared in the hold. The crew take to calling her "Mermaid". Though she has been separated from her pod, she seems to enjoy being doted upon, and will certainly be kept well fed.</Text>
+          <Status>Exported</Status>
+          <ExportCount>6</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>20818</LineID>
+    </Text>
+  </Values>
+</Asset>

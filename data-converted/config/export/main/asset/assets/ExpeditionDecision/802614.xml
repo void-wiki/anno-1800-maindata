@@ -1,0 +1,30 @@
+<Asset>
+  <Template>ExpeditionDecision</Template>
+  <Values>
+    <Standard>
+      <GUID>802614</GUID>
+      <Name>The Mountain Maw 1.1.2</Name>
+    </Standard>
+    <ExpeditionDecision>
+      <Options>
+        <Item>
+          <Option>802618</Option>
+        </Item>
+        <Item>
+          <Option>802619</Option>
+        </Item>
+      </Options>
+    </ExpeditionDecision>
+    <Reward />
+    <Text>
+      <LocaText>
+        <English>
+          <Text>&lt;b&gt;A guide would have been helpful.&lt;/b&gt; Your sailors navigate the mountain paths to the best of their ability, which is not enough. The narrow roads disappear under the snow mist and they branch around the skeletal trees, spreading your crew across their ramifications. When the explorers reach a decent camping ground and count their numbers, five of them are missing.</Text>
+          <Status>Exported</Status>
+          <ExportCount>1</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>21827</LineID>
+    </Text>
+  </Values>
+</Asset>

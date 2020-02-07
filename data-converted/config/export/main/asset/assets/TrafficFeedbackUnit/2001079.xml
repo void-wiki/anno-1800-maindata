@@ -1,0 +1,24 @@
+<Asset>
+  <Template>TrafficFeedbackUnit</Template>
+  <Values>
+    <Standard>
+      <GUID>2001079</GUID>
+      <Name>Resolver Unit Riot Special</Name>
+      <IconFilename>data/ui/2kimages/main/3dicons/icon_mounted_police.png</IconFilename>
+    </Standard>
+    <TrafficFeedbackUnit>
+      <UnitType>Vehicle</UnitType>
+      <CfgPath>data/graphics/vehicle/horse_drawn_carriage_police_incident/horse_drawn_carriage_police_front.cfg</CfgPath>
+      <SpeedSource>Managed</SpeedSource>
+      <OverwriteSpeed>0.2</OverwriteSpeed>
+    </TrafficFeedbackUnit>
+    <Trailer>
+      <TrailerCount>1</TrailerCount>
+      <TrailerEndPartCfgVariations>
+        <Item>
+          <CfgVariation>data/graphics/vehicle/horse_drawn_carriage_police_incident/horse_drawn_carriage_police_rear.cfg</CfgVariation>
+        </Item>
+      </TrailerEndPartCfgVariations>
+    </Trailer>
+  </Values>
+</Asset>

@@ -1,0 +1,43 @@
+<Asset>
+  <Template>ExpeditionOption</Template>
+  <Values>
+    <Standard>
+      <GUID>800087</GUID>
+      <Name>Polar Event 1.1</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>try to find a warm place</Text>
+          <Status>Edit</Status>
+        </English>
+      </LocaText>
+    </Text>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <Item>
+          <Decision>800035</Decision>
+          <ThresholdValue>60</ThresholdValue>
+          <ChangeThreshold>
+            <Item>
+              <ItemOrProduct>190105</ItemOrProduct>
+              <NewThresholdValue>-1</NewThresholdValue>
+            </Item>
+            <Item>
+              <NeededAttribute>Medicine</NeededAttribute>
+              <MinNeededAttribute>5</MinNeededAttribute>
+              <NewThresholdValue>75</NewThresholdValue>
+            </Item>
+          </ChangeThreshold>
+        </Item>
+        <Item>
+          <Decision>800058</Decision>
+          <ThresholdValue>40</ThresholdValue>
+        </Item>
+        <Item>
+          <Decision>800396</Decision>
+        </Item>
+      </FollowupDecisions>
+    </ExpeditionOption>
+  </Values>
+</Asset>

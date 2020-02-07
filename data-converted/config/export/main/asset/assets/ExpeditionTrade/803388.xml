@@ -1,0 +1,39 @@
+<Asset>
+  <Template>ExpeditionTrade</Template>
+  <Values>
+    <Standard>
+      <GUID>803388</GUID>
+      <Name>The Great Sickness 1.1.1.1 Trade</Name>
+    </Standard>
+    <Text>
+      <LocaText>
+        <English>
+          <Text>You can choose to sell your vaccine to the locals</Text>
+          <Status>Exported</Status>
+          <ExportCount>4</ExportCount>
+        </English>
+      </LocaText>
+      <LineID>31557</LineID>
+    </Text>
+    <ExpeditionTrade>
+      <AvailableGoods>
+        <Item>
+          <Product>1010249</Product>
+          <Amount>50</Amount>
+        </Item>
+        <Item>
+          <Product>1010258</Product>
+          <Amount>50</Amount>
+        </Item>
+      </AvailableGoods>
+      <TraderName>11540</TraderName>
+      <FollowupSuccessOption>803369</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>803371</FollowupFailOrCancelOption>
+      <CancelOption>22619</CancelOption>
+      <SuccessChance>
+        <StartTradeBalance>2000</StartTradeBalance>
+        <Discount>0.5</Discount>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </Values>
+</Asset>

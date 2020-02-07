@@ -1,0 +1,38 @@
+<Asset>
+  <Template>TextPool</Template>
+  <Values>
+    <Standard>
+      <GUID>700075</GUID>
+      <Name>Frigate_MovePool</Name>
+    </Standard>
+    <TextPool />
+    <PreConditionList>
+      <Condition>
+        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+        <Values>
+          <Condition />
+          <ConditionAlwaysTrue />
+        </Values>
+      </Condition>
+    </PreConditionList>
+    <AudioTextPool>
+      <AudioTextList>
+        <Item>
+          <AudioText>268364</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268365</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268366</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268367</AudioText>
+        </Item>
+        <Item>
+          <AudioText>268368</AudioText>
+        </Item>
+      </AudioTextList>
+    </AudioTextPool>
+  </Values>
+</Asset>
