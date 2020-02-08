@@ -1486,6 +1486,11 @@
     jest-diff "^25.1.0"
     pretty-format "^25.1.0"
 
+"@types/js-yaml@3.12.2":
+  version "3.12.2"
+  resolved "https://registry.yarnpkg.com/@types/js-yaml/-/js-yaml-3.12.2.tgz#a35a1809c33a68200fb6403d1ad708363c56470a"
+  integrity sha512-0CFu/g4mDSNkodVwWijdlr8jH7RoplRWNgovjFLEZeT+QEbbZXjBmCe3HwaWheAlCbHwomTwzZoSedeOycABug==
+
 "@types/json-schema@^7.0.3":
   version "7.0.4"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.4.tgz#38fd73ddfd9b55abb1e1b2ed578cb55bd7b7d339"
@@ -1610,42 +1615,43 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@void-aurora/commitlint-config@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@void-aurora/commitlint-config/-/commitlint-config-0.6.0.tgz#0d5d8dc16a79c32a1c847893aac48c9061d20427"
-  integrity sha512-iLzN9A639tA/VSeSyiK7zH9/vaBu5ve5vl+Qx1hSNqPhAlyN376rtcasUFNYasLWqrLRkT66VzqhoGRv6rdBhQ==
+"@void-aurora/commitlint-config@^0.6.1":
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/@void-aurora/commitlint-config/-/commitlint-config-0.6.1.tgz#208445d95cae50053535564f958155b4276a683b"
+  integrity sha512-xDwaG6Dmy4vdglFQqAZIyQ5HtkrZycwW+D76Pm7d4pf0P26waZp0pn+SmpbeSA/Pp2hKyEEWE9VU4l0nCEyu4g==
 
-"@void-aurora/eslint-config@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@void-aurora/eslint-config/-/eslint-config-0.6.0.tgz#c966aa25910db0a7b6defd244db4d217770ef446"
-  integrity sha512-Opt3DYehvVnpn0AyDtt0mFhz4qEmQgMqhdthz2XXZ4vYkbkcmgA4zBFzZnZKO8mPO6mGS71i20NXgnwUWCwG9Q==
+"@void-aurora/eslint-config@^0.6.2":
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@void-aurora/eslint-config/-/eslint-config-0.6.2.tgz#dfbb6f79c041fdcdcca955bde0646f3a4ef11ae0"
+  integrity sha512-L0vkVg5vat5N+iBEN7LpCeqH7ClPOTl+JHdkb3ao/xMbCyRVzIRrpEmDMYb/1TlL8/qLJTiMtDDW5MXZ3FduAw==
 
-"@void-aurora/prettier-config@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@void-aurora/prettier-config/-/prettier-config-0.5.0.tgz#5dbd4ad89f83b91e1d4df63abb1479906d520996"
-  integrity sha512-Qkvi97zJSBQzdjUZtzhrQMwfeJUTepI+PI+XP77OQQb/sn6BJsukLkiftaMfOns4/gAUd1KBRqvcOuZ2EAF+tQ==
+"@void-aurora/prettier-config@^0.5.1":
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/@void-aurora/prettier-config/-/prettier-config-0.5.1.tgz#7e280084c267230ab3376f8989bce04bcb8b2cf2"
+  integrity sha512-lG2woFGKLIDqFdwL44zLk5KSHJGxQbEQsCeS62VpPLHSpREkDXXLtacfbXlE+tIaHzif4nA+tQBtSZYjlObtdw==
 
-"@void-aurora/stylelint-config@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@void-aurora/stylelint-config/-/stylelint-config-0.6.0.tgz#b05b286b2586f21c987696fd279b58ca3bf3a8af"
-  integrity sha512-X/IbmjdegzxQQCzKAzVSPo6jZxbkgM4nFH7MoJJcvwDpfTHdsza7u1OhI42JwG/eWFmP/kj7KB/ZMJO2/iNDAg==
+"@void-aurora/stylelint-config@^0.6.1":
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/@void-aurora/stylelint-config/-/stylelint-config-0.6.1.tgz#fcd32ceb641f1176dcf445e8a6c30fbf5662d029"
+  integrity sha512-eAoLZS2iGCILdrnUucTvqWW293GzuX9dGGsurpJUtXeqRn8hkTkcFEfR71P4ZHRqjuq7EI1iyZS6iRGPdSKW3w==
 
-"@void-aurora/toolkit@^0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@void-aurora/toolkit/-/toolkit-0.7.0.tgz#64310d3dd9d18f79bd096656c7ae58769be10b98"
-  integrity sha512-B9nO0QLlFZBmp7ReK0Y4YcBJ2cHjSG/P5UVNkOiKoVrFNVrAH+Ves/3jj1gzqdBtbjGTAanfwfip4+yFT9+4Mw==
+"@void-aurora/toolkit@^0.8.1":
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/@void-aurora/toolkit/-/toolkit-0.8.1.tgz#40a3208a4a1fc9c08b23919dbcbfbb6e6c55b995"
+  integrity sha512-QGyStXPcfNWGYppszwGQtemQIyVMaopmEM1k3px7DAV+/vIw6ze0a27TOofTKzfGbvMUfNMhWB0lwpGUOU114g==
   dependencies:
     "@commitlint/cli" "^8.3.5"
     "@commitlint/config-lerna-scopes" "^8.3.4"
     "@commitlint/prompt-cli" "^8.3.5"
     "@types/fs-extra" "^8.0.1"
+    "@types/js-yaml" "3.12.2"
     "@types/rimraf" "^2.0.3"
     "@typescript-eslint/eslint-plugin" "^2.19.0"
     "@typescript-eslint/parser" "^2.19.0"
-    "@void-aurora/commitlint-config" "^0.6.0"
-    "@void-aurora/eslint-config" "^0.6.0"
-    "@void-aurora/prettier-config" "^0.5.0"
-    "@void-aurora/stylelint-config" "^0.6.0"
+    "@void-aurora/commitlint-config" "^0.6.1"
+    "@void-aurora/eslint-config" "^0.6.2"
+    "@void-aurora/prettier-config" "^0.5.1"
+    "@void-aurora/stylelint-config" "^0.6.1"
     chalk "^3.0.0"
     confusing-browser-globals "^1.0.9"
     conventional-changelog-cli "^2.0.31"
@@ -1657,6 +1663,7 @@
     fs-extra "^8.1.0"
     globby "^11.0.0"
     husky "^4.2.1"
+    js-yaml "3.13.1"
     lint-staged "^10.0.7"
     prettier "^1.19.1"
     prettier-package-json "^2.1.3"
@@ -5286,7 +5293,7 @@ js-tokens@^4.0.0:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
-js-yaml@^3.13.1:
+js-yaml@3.13.1, js-yaml@^3.13.1:
   version "3.13.1"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.13.1.tgz#aff151b30bfdfa8e49e05da22e7415e9dfa37847"
   integrity sha512-YfbcO7jXDdyj0DGxYVSlSeQNHbD7XPWvrVWeVUujrQEoZzWJIRrCPoyk6kL6IAjAG2IolMK4T0hNUe0HOUs5Jw==
