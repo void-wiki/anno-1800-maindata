@@ -3,9 +3,13 @@
     "target": "ESNext",
     "module": "ESNext",
     "lib": ["ESNext", "ScriptHost"],
+    "typeRoots": ["node_modules/@types"],
+    "types": ["node", "jest"],
     "strict": true,
     "jsx": "preserve",
     "moduleResolution": "node",
+    "allowJs": false,
+    "resolveJsonModule": false,
     "experimentalDecorators": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
@@ -14,6 +18,22 @@
     "declarationMap": true,
     "baseUrl": "."
   },
-  "include": ["./scripts", "./packages/*/src", "./packages/*/lib", "./packages/*/scripts"],
-  "exclude": ["./node_modules", "./packages/*/node_modules", "./coverage", "./packages/*/coverage"]
+  "include": [
+    "build/**/*",
+    "scripts/**/*",
+    "__tests__/**/*",
+    "packages/*/build/**/*",
+    "packages/*/scripts/**/*",
+    "packages/*/__tests__/**/*",
+    "packages/*/lib/**/*",
+    "packages/*/src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "coverage",
+    "dist",
+    "packages/*/node_modules",
+    "packages/*/coverage",
+    "packages/*/dist"
+  ]
 }
