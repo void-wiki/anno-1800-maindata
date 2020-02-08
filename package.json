@@ -1,12 +1,13 @@
 {
   "private": true,
-  "name": "anno-1800-maindata",
+  "name": "@anno-1800-wiki/maindata",
   "description": "Main data extracted from Anno 1800.",
   "license": "MIT",
   "author": "duduluu <duduluu@outlook.com>",
   "repository": "git@github.com:void-wiki/anno-1800-maindata.git",
-  "version": "0.0.1",
+  "version": "6.2.2",
   "workspaces": [
+    ".",
     "packages/*"
   ],
   "main": "index.js",
