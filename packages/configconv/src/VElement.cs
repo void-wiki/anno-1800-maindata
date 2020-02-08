@@ -27,7 +27,7 @@ namespace configconv
       this.name = xElement.Name.ToString();
       this.attributes = xElement.Attributes().ToDictionary(attr => attr.Name.ToString(), attr => attr.Value);
       this.children = xElement.Elements().Select(c => new VElement(c)).ToList();
-      this.value = xElement.Value ?? "";
+      this.value = this.children.Count > 0 ? "" : xElement.Value;
     }
 
     /// <summary>
