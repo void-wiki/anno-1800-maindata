@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "duduluu <duduluu@outlook.com>",
   "repository": "git@github.com:void-wiki/anno-1800-maindata.git",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "workspaces": [
     ".",
     "packages/*"
@@ -17,7 +17,6 @@
     "prepare": "lerna run prepare",
     "ts": "ts-node -r tsconfig-paths/register -P ./tsconfig.scripts.json"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^25.1.1",
     "@types/node": "^13.7.0",
