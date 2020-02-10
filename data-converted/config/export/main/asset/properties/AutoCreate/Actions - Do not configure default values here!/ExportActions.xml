@@ -1,0 +1,304 @@
+<Property>
+  <Name>ExportActions</Name>
+  <DefaultValues>
+    <ActionAddGoodsToItemContainer>
+      <Goods />
+      <ItemContainerObjects>
+        <Template>ObjectFilter</Template>
+        <Values>
+          <ObjectFilter />
+        </Values>
+      </ItemContainerObjects>
+    </ActionAddGoodsToItemContainer>
+    <ActionAddReputation>
+      <ParticipantTarget>Human0</ParticipantTarget>
+    </ActionAddReputation>
+    <ActionAddResource>
+      <Resource>0</Resource>
+    </ActionAddResource>
+    <ActionBankrupt />
+    <ActionBindItemToQuest>
+      <ItemToBind>0</ItemToBind>
+    </ActionBindItemToQuest>
+    <ActionBuildObject>
+      <BuildInSession>0</BuildInSession>
+      <BuildObject>0</BuildObject>
+    </ActionBuildObject>
+    <ActionChangeIncident>
+      <ActionChangeIncidentTypes />
+    </ActionChangeIncident>
+    <ActionChangeParticipant>
+      <NewParticipantID>Human0</NewParticipantID>
+    </ActionChangeParticipant>
+    <ActionDelayedActions>
+      <DelayVariable>Mercier_ARQTriggerChance</DelayVariable>
+      <DelayedActions>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </DelayedActions>
+    </ActionDelayedActions>
+    <ActionDeleteItem>
+      <ItemGUID>0</ItemGUID>
+      <SpecificSession>0</SpecificSession>
+    </ActionDeleteItem>
+    <ActionDeleteObjects />
+    <ActionDeleteStreets>
+      <InArea />
+      <OnIsland>0</OnIsland>
+      <SessionOfIsland>0</SessionOfIsland>
+    </ActionDeleteStreets>
+    <ActionDiscoverIsland>
+      <TargetIsland>0</TargetIsland>
+    </ActionDiscoverIsland>
+    <ActionDiscoverParticipant>
+      <DiscoverSourceParticipant>Human0</DiscoverSourceParticipant>
+      <DiscoverTargetParticipant>Human0</DiscoverTargetParticipant>
+    </ActionDiscoverParticipant>
+    <ActionEnableQuest>
+      <QuestGUID>0</QuestGUID>
+    </ActionEnableQuest>
+    <ActionEnableTicks />
+    <ActionEndQuest>
+      <Quest>0</Quest>
+    </ActionEndQuest>
+    <ActionEnterSession>
+      <TargetSession>0</TargetSession>
+    </ActionEnterSession>
+    <ActionExecuteActionByChance>
+      <ChanceValue>
+        <Template>VariableValue</Template>
+        <Values>
+          <VariableValue />
+        </Values>
+      </ChanceValue>
+      <ActionListChanceSuccess>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </ActionListChanceSuccess>
+      <ActionListChanceFailure>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </ActionListChanceFailure>
+    </ActionExecuteActionByChance>
+    <ActionExecuteDiplomaticAction>
+      <DiplomacyAction>DeclareWar</DiplomacyAction>
+      <DiplomaticSourceParticipant>Human0</DiplomaticSourceParticipant>
+      <DiplomaticTargetParticipant>Human0</DiplomaticTargetParticipant>
+    </ActionExecuteDiplomaticAction>
+    <ActionExecuteScript />
+    <ActionForceNewspaper>
+      <Articles />
+      <OpenNewspaperType>Default</OpenNewspaperType>
+      <EditorMessage>0</EditorMessage>
+      <PamsyWelcomeRequiredAsset>0</PamsyWelcomeRequiredAsset>
+    </ActionForceNewspaper>
+    <ActionHostileTakeover>
+      <NewIslandOwner>Human0</NewIslandOwner>
+      <IslandSession>0</IslandSession>
+      <TakeoverIsland>0</TakeoverIsland>
+    </ActionHostileTakeover>
+    <ActionLoadSession>
+      <LoadSession>0</LoadSession>
+    </ActionLoadSession>
+    <ActionLockAsset>
+      <LockAssets />
+    </ActionLockAsset>
+    <ActionLoseGame />
+    <ActionMenuVisibility>
+      <MenuType>Video</MenuType>
+    </ActionMenuVisibility>
+    <ActionModifyVariable>
+      <Variable>Mercier_ARQTriggerChance</Variable>
+      <Modifier>Set</Modifier>
+      <ValueType>Value</ValueType>
+    </ActionModifyVariable>
+    <ActionMoveObject />
+    <ActionNotification>
+      <Notification>
+        <Template>SideNotification</Template>
+        <Values>
+          <SideNotification />
+          <BaseNotification />
+          <NotificationSubtitle />
+        </Values>
+      </Notification>
+    </ActionNotification>
+    <ActionPlayCameraSequence />
+    <ActionPlayMovie>
+      <Movie>0</Movie>
+    </ActionPlayMovie>
+    <ActionPlaySound>
+      <Sound>0</Sound>
+    </ActionPlaySound>
+    <ActionQueueNewspaperArticle>
+      <Article>0</Article>
+      <ArticleEditorMessage>0</ArticleEditorMessage>
+    </ActionQueueNewspaperArticle>
+    <ActionRegisterTrigger>
+      <TriggerAsset>0</TriggerAsset>
+    </ActionRegisterTrigger>
+    <ActionReplaceItem>
+      <ReplaceItemList />
+      <ItemContainerFilter>
+        <Template>ObjectFilter</Template>
+        <Values>
+          <ObjectFilter />
+        </Values>
+      </ItemContainerFilter>
+    </ActionReplaceItem>
+    <ActionResetTrigger />
+    <ActionSetCamera>
+      <PositionMarker>0</PositionMarker>
+      <SessionGUID>0</SessionGUID>
+    </ActionSetCamera>
+    <ActionSetIslandName>
+      <SessionIsland>0</SessionIsland>
+      <IslandAsset>0</IslandAsset>
+      <NewIslandName>0</NewIslandName>
+    </ActionSetIslandName>
+    <ActionSetIslandReservation>
+      <NewOwner>Human0</NewOwner>
+    </ActionSetIslandReservation>
+    <ActionSetObjectGUID>
+      <NewGUID>0</NewGUID>
+    </ActionSetObjectGUID>
+    <ActionSetObjectHitpoints>
+      <MinHitpointPercentage>50</MinHitpointPercentage>
+      <MaxHitpointPercentage>50</MaxHitpointPercentage>
+    </ActionSetObjectHitpoints>
+    <ActionSetObjectPosition />
+    <ActionSetObjectVariation />
+    <ActionSetObjectVisibility />
+    <ActionSetQuestPoolEnablement>
+      <QuestPoolListToChange />
+      <SpecifyParticipant>Human0</SpecifyParticipant>
+    </ActionSetQuestPoolEnablement>
+    <ActionSpawnObjects>
+      <SpawnGUID>0</SpawnGUID>
+      <SpawnInfolayer>0</SpawnInfolayer>
+      <Owner>Human0</Owner>
+      <VisualSpawnOwner>Human0</VisualSpawnOwner>
+    </ActionSpawnObjects>
+    <ActionSpeechBubble>
+      <SpeechBubbleData>
+        <Template>ConditionTutorialInteraction</Template>
+        <Values>
+          <Condition />
+          <ConditionTutorialInteraction>
+            <ObjectFilter>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>ObjectFilter</Template>
+              <Values>
+                <ObjectFilter />
+              </Values>
+            </ObjectFilter>
+          </ConditionTutorialInteraction>
+        </Values>
+      </SpeechBubbleData>
+    </ActionSpeechBubble>
+    <ActionStartIncident>
+      <ActionStartIncidentIncidentType>Fire</ActionStartIncidentIncidentType>
+      <DisableInitialSpreading>1</DisableInitialSpreading>
+      <PlayerIncidentCommunication>FireDefault</PlayerIncidentCommunication>
+      <IncidentObjects />
+    </ActionStartIncident>
+    <ActionStartObjectSequence>
+      <startSequence>default</startSequence>
+    </ActionStartObjectSequence>
+    <ActionStartQuest>
+      <Quest>0</Quest>
+      <QuestSession>0</QuestSession>
+    </ActionStartQuest>
+    <ActionStartTreasureMapQuest>
+      <TreasureMapQuest>0</TreasureMapQuest>
+      <TreasureSessionOrRegion>0</TreasureSessionOrRegion>
+    </ActionStartTreasureMapQuest>
+    <ActionStopIncident>
+      <ActionStopIncidentTypes />
+    </ActionStopIncident>
+    <ActionTimerAddTime />
+    <ActionTimerPause />
+    <ActionTriggerMinimapPing>
+      <PingObjectList />
+    </ActionTriggerMinimapPing>
+    <ActionTriggerPopup>
+      <PopupType>Quit</PopupType>
+    </ActionTriggerPopup>
+    <ActionTriggerTextPopup>
+      <PopupText>0</PopupText>
+      <TextPopupLayout>Letter</TextPopupLayout>
+    </ActionTriggerTextPopup>
+    <ActionUnloadSession>
+      <UnloadSession>0</UnloadSession>
+    </ActionUnloadSession>
+    <ActionUnlockAsset>
+      <UnlockAssets />
+      <UnhideAssets />
+      <UnlockGroups />
+      <UnhideGroups />
+    </ActionUnlockAsset>
+    <ActionWinGame />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ActionAddGoodsToItemContainer>
+      <Goods>
+        <Good>0</Good>
+      </Goods>
+    </ActionAddGoodsToItemContainer>
+    <ActionForceNewspaper>
+      <Articles>
+        <Article>0</Article>
+      </Articles>
+    </ActionForceNewspaper>
+    <ActionLockAsset>
+      <LockAssets>
+        <Asset>0</Asset>
+      </LockAssets>
+    </ActionLockAsset>
+    <ActionReplaceItem>
+      <ReplaceItemList>
+        <OldItem>0</OldItem>
+        <NewItem>0</NewItem>
+      </ReplaceItemList>
+    </ActionReplaceItem>
+    <ActionSetQuestPoolEnablement>
+      <QuestPoolListToChange>
+        <QuestPool>0</QuestPool>
+      </QuestPoolListToChange>
+    </ActionSetQuestPoolEnablement>
+    <ActionStartIncident>
+      <IncidentObjects>
+        <Object>
+          <Template>ObjectFilter</Template>
+          <Values>
+            <ObjectFilter />
+          </Values>
+        </Object>
+      </IncidentObjects>
+    </ActionStartIncident>
+    <ActionTriggerMinimapPing>
+      <PingObjectList>
+        <Object>
+          <Template>ObjectFilter</Template>
+          <Values>
+            <ObjectFilter />
+          </Values>
+        </Object>
+      </PingObjectList>
+    </ActionTriggerMinimapPing>
+    <ActionUnlockAsset>
+      <UnlockAssets>
+        <Asset>0</Asset>
+      </UnlockAssets>
+      <UnhideAssets>
+        <Asset>0</Asset>
+      </UnhideAssets>
+    </ActionUnlockAsset>
+  </DefaultContainerValues>
+</Property>

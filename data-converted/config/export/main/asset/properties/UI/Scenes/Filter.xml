@@ -1,0 +1,42 @@
+<Property>
+  <Name>Filter</Name>
+  <DefaultValues>
+    <ItemFilter>
+      <ItemCategories />
+    </ItemFilter>
+    <KeywordFilter>
+      <Keywords />
+    </KeywordFilter>
+    <ProductFilter>
+      <Categories />
+    </ProductFilter>
+    <ProductList>
+      <List />
+    </ProductList>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ItemFilter>
+      <ItemCategories>
+        <CategoryAsset>0</CategoryAsset>
+        <ItemTypes />
+      </ItemCategories>
+    </ItemFilter>
+    <KeywordFilter>
+      <Keywords>
+        <Keyword>0</Keyword>
+        <ProductList>0</ProductList>
+      </Keywords>
+    </KeywordFilter>
+    <ProductFilter>
+      <Categories>
+        <Icon>0</Icon>
+        <ProductList>0</ProductList>
+      </Categories>
+    </ProductFilter>
+    <ProductList>
+      <List>
+        <Product>0</Product>
+      </List>
+    </ProductList>
+  </DefaultContainerValues>
+</Property>

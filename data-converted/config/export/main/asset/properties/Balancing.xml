@@ -1,0 +1,1285 @@
+<Property>
+  <Name>Balancing</Name>
+  <DefaultValues>
+    <BuildingBaseTiles>
+      <TileCategory />
+      <RenderHeight>0.4</RenderHeight>
+      <MinimumStreetHeight>0.1</MinimumStreetHeight>
+    </BuildingBaseTiles>
+    <BuildPermit />
+    <CameraSettings>
+      <MaxCameraScrollSpeed>74</MaxCameraScrollSpeed>
+      <MinCameraScrollSpeed>10</MinCameraScrollSpeed>
+    </CameraSettings>
+    <ColorConfig>
+      <TextColors />
+      <SlotGhostColor />
+      <QuestOutlineColor />
+      <ItemRarityColors />
+      <DeleteColors>
+        <DeleteRectColor>1691484160</DeleteRectColor>
+        <DeleteGhostColor>-925761536</DeleteGhostColor>
+        <DeleteTintColor>0</DeleteTintColor>
+        <DeleteBorderColor>-925761525</DeleteBorderColor>
+        <ShowDeleteRectOnFirstBuilding>1</ShowDeleteRectOnFirstBuilding>
+      </DeleteColors>
+      <UpgradeColors>
+        <UpgradeRectColor>1677775360</UpgradeRectColor>
+        <UpgradeGhostColor>-1778331136</UpgradeGhostColor>
+        <UpgradeTintColor>0</UpgradeTintColor>
+        <UpgradeBorderColor>-1778331136</UpgradeBorderColor>
+        <ShowUpgradeRectOnFirstBuilding>1</ShowUpgradeRectOnFirstBuilding>
+      </UpgradeColors>
+      <BlueprintColorPerRegion />
+    </ColorConfig>
+    <Cost>
+      <Costs>
+        <Item>
+          <Ingredient>1010017</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010196</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010205</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010218</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010207</Ingredient>
+        </Item>
+        <Item>
+          <Ingredient>1010202</Ingredient>
+        </Item>
+      </Costs>
+      <ItemsPerCost>1</ItemsPerCost>
+      <InfluenceCostType>None</InfluenceCostType>
+      <InfluenceCostPoints>1</InfluenceCostPoints>
+    </Cost>
+    <DifficultySettings>
+      <ConstructionCostRefund />
+      <DistributionWorkforce />
+      <Fertility />
+      <HostileTakeover />
+      <InactiveCosts />
+      <Incidents>
+        <Easy>
+          <IncidentIntervalMin>120000</IncidentIntervalMin>
+          <IncidentIntervalMax>180000</IncidentIntervalMax>
+          <SelfHealChanceFactor>1.25</SelfHealChanceFactor>
+          <IntensityIncreaseChanceFactor>0.75</IntensityIncreaseChanceFactor>
+        </Easy>
+        <Hard>
+          <IncidentIntervalMin>45000</IncidentIntervalMin>
+          <IncidentIntervalMax>75000</IncidentIntervalMax>
+          <IncidentCooldown>60000</IncidentCooldown>
+          <SelfHealChanceFactor>0.75</SelfHealChanceFactor>
+          <IntensityIncreaseChanceFactor>1.25</IntensityIncreaseChanceFactor>
+        </Hard>
+        <Medium>
+          <IncidentIntervalMin>90000</IncidentIntervalMin>
+          <IncidentIntervalMax>150000</IncidentIntervalMax>
+          <IncidentCooldown>120000</IncidentCooldown>
+        </Medium>
+      </Incidents>
+      <LossCondition />
+      <OptionalQuestFrequency />
+      <OptionalQuestRewards />
+      <OptionalQuestTimeout />
+      <RawMaterial />
+      <RelocateBuildings />
+      <RevealedMap />
+      <Revenue />
+      <StartCredits />
+      <StartSession />
+      <StartSessionIslandDifficulty />
+      <StartSessionIslandSize />
+      <StartShips />
+      <StartWithKontor />
+      <ThirdParty />
+      <TraderRefillRate />
+      <AvailableSecondParties />
+      <AvailableThirdParties />
+      <CampaignAutoParticipants />
+      <NormalAutoParticipants />
+      <Presets />
+      <Descriptions />
+      <PointsNeeded />
+      <OptionOrder />
+      <VictoryConditionMonuments />
+      <VictoryConditionInvestors />
+      <VictoryConditionPopulation />
+      <VictoryConditionWealth />
+      <VictoryConditionIncome />
+      <VictoryConditionAllOrOne />
+      <VictoryConditionDiplomacy />
+      <MapType />
+      <FixedForCampaign />
+    </DifficultySettings>
+    <GlobalConfig>
+      <AnimalFrights>
+        <AnimalFrightCfg>data/graphics/particles/special_moments/animal_fright.cfg</AnimalFrightCfg>
+        <AnimalFrightAdditionalWaterCfg>data/graphics/particles/special_moments/animal_fright_moon.cfg</AnimalFrightAdditionalWaterCfg>
+      </AnimalFrights>
+      <AutoTargetsWithoutSelection />
+      <AutoTargets />
+      <BasicTarget>0</BasicTarget>
+      <FirstLoadSession>0</FirstLoadSession>
+      <SequenceMetaInfos>
+        <laydown02>
+          <RequiredPreSequence>laydown01</RequiredPreSequence>
+          <RequiredPostSequence>laydown03</RequiredPostSequence>
+        </laydown02>
+        <work_staged02>
+          <RequiredPreSequence>work_staged01</RequiredPreSequence>
+          <RequiredPostSequence>work_staged03</RequiredPostSequence>
+        </work_staged02>
+        <walk01>
+          <CompatibleRunSequence>run01</CompatibleRunSequence>
+        </walk01>
+        <protestwalk01>
+          <CompatibleIdleSequence>protest02</CompatibleIdleSequence>
+        </protestwalk01>
+        <protestwalk02>
+          <CompatibleIdleSequence>protest03</CompatibleIdleSequence>
+        </protestwalk02>
+        <protestwalk03>
+          <CompatibleIdleSequence>protest03</CompatibleIdleSequence>
+        </protestwalk03>
+      </SequenceMetaInfos>
+      <FeedbackSequenceIDs>
+        <Work>1</Work>
+        <LowProductivity>2</LowProductivity>
+        <Cheer>3</Cheer>
+        <Boosted>4</Boosted>
+        <Riot>5</Riot>
+        <RiotSpecial01>6</RiotSpecial01>
+        <RiotSpecial02>7</RiotSpecial02>
+        <RiotSpecial03>8</RiotSpecial03>
+      </FeedbackSequenceIDs>
+      <Languages>
+        <English>
+          <Locale>en-US</Locale>
+          <OasisLanguage>en_us</OasisLanguage>
+          <AudioLanguage>English(US)</AudioLanguage>
+          <LanguagePack>4100025</LanguagePack>
+          <AudioBinkTrackID>1</AudioBinkTrackID>
+        </English>
+        <French>
+          <Locale>fr-FR</Locale>
+          <OasisLanguage>fr_fr</OasisLanguage>
+          <AudioLanguage>French(France)</AudioLanguage>
+          <LanguagePack>4100026</LanguagePack>
+          <AudioLanguageType>French</AudioLanguageType>
+          <AudioBinkTrackID>5</AudioBinkTrackID>
+        </French>
+        <Polish>
+          <Locale>pl-PL</Locale>
+          <OasisLanguage>pl_pl</OasisLanguage>
+          <AudioLanguage>English(US)</AudioLanguage>
+          <LanguagePack>4100029</LanguagePack>
+          <AudioBinkTrackID>8</AudioBinkTrackID>
+        </Polish>
+        <Russian>
+          <Locale>ru-RU</Locale>
+          <OasisLanguage>ru_ru</OasisLanguage>
+          <AudioLanguage>Russian</AudioLanguage>
+          <LanguagePack>4100030</LanguagePack>
+          <AudioLanguageType>Russian</AudioLanguageType>
+          <AudioBinkTrackID>9</AudioBinkTrackID>
+        </Russian>
+        <Spanish>
+          <Locale>es-ES</Locale>
+          <OasisLanguage>sp_sp</OasisLanguage>
+          <AudioLanguage>English(US)</AudioLanguage>
+          <LanguagePack>4100028</LanguagePack>
+          <AudioBinkTrackID>6</AudioBinkTrackID>
+        </Spanish>
+        <German>
+          <Locale>de-DE</Locale>
+          <OasisLanguage>de_de</OasisLanguage>
+          <AudioLanguage>German</AudioLanguage>
+          <LanguagePack>4100027</LanguagePack>
+          <AudioLanguageType>German</AudioLanguageType>
+          <AudioBinkTrackID>4</AudioBinkTrackID>
+        </German>
+        <Chinese>
+          <Locale>zh-CN</Locale>
+          <OasisLanguage>ch_ch</OasisLanguage>
+          <AudioLanguage>English</AudioLanguage>
+          <AudioBinkTrackID>1</AudioBinkTrackID>
+        </Chinese>
+        <Italian>
+          <Locale>it-IT</Locale>
+          <OasisLanguage>it_IT</OasisLanguage>
+          <AudioLanguage>English</AudioLanguage>
+          <AudioBinkTrackID>1</AudioBinkTrackID>
+        </Italian>
+        <Japanese>
+          <Locale>ja-JP</Locale>
+          <OasisLanguage>jp_JP</OasisLanguage>
+          <AudioLanguage>English</AudioLanguage>
+          <AudioBinkTrackID>1</AudioBinkTrackID>
+        </Japanese>
+        <Korean>
+          <Locale>ko-KO</Locale>
+          <OasisLanguage>ko_KO</OasisLanguage>
+          <AudioLanguage>English</AudioLanguage>
+          <AudioBinkTrackID>1</AudioBinkTrackID>
+        </Korean>
+        <Taiwanese>
+          <Locale>zh-TW</Locale>
+          <OasisLanguage>ch_TW</OasisLanguage>
+          <AudioLanguage>English</AudioLanguage>
+          <AudioBinkTrackID>1</AudioBinkTrackID>
+        </Taiwanese>
+      </Languages>
+      <RenderConditionIDs>
+        <ColorTransform>1</ColorTransform>
+        <PhysicsTransform>2</PhysicsTransform>
+        <DestructionTransform>3</DestructionTransform>
+        <Selected>4</Selected>
+        <Unselected>5</Unselected>
+        <Common01>6</Common01>
+        <Common02>7</Common02>
+        <Common03>8</Common03>
+        <Common04>9</Common04>
+        <Common05>10</Common05>
+        <Common06>11</Common06>
+        <Common07>12</Common07>
+        <Common08>13</Common08>
+        <Common09>14</Common09>
+        <Common10>15</Common10>
+        <Common11>16</Common11>
+        <Common12>17</Common12>
+        <EffectShield>18</EffectShield>
+        <EffectRepair>19</EffectRepair>
+        <EffectStun>20</EffectStun>
+        <EffectBurn>21</EffectBurn>
+        <ShowWarningLights>22</ShowWarningLights>
+        <Riot>23</Riot>
+        <RiotSpecial01>24</RiotSpecial01>
+        <NoInhabitants>25</NoInhabitants>
+        <Ruin>26</Ruin>
+      </RenderConditionIDs>
+      <SlotGhostsFadingSpeed>38</SlotGhostsFadingSpeed>
+      <MoveModeDragThreshold>10</MoveModeDragThreshold>
+      <AdditionalVideoDisplayTime>2000</AdditionalVideoDisplayTime>
+      <GlobalPreloads>
+        <Item>
+          <FileName>data/graphics/portraits/narrative/advisor_02/advisor_02.cfg</FileName>
+        </Item>
+        <Item>
+          <FileName>data/graphics/portraits/narrative/colony_guy/colony_guy.cfg</FileName>
+        </Item>
+        <Item>
+          <FileName>data/graphics/portraits/narrative/expedition_leader/expedition_leader.cfg</FileName>
+        </Item>
+        <Item>
+          <FileName>data/graphics/portraits/narrative/rival/rival.cfg</FileName>
+        </Item>
+        <Item>
+          <FileName>data/graphics/portraits/residents/resident_tier02/resident_tier02.cfg</FileName>
+        </Item>
+        <Item>
+          <FileName>data/graphics/buildings/public/world_fair/world_fair_02/world_fair_02.cfg</FileName>
+        </Item>
+      </GlobalPreloads>
+      <ParticipantMessageCategories />
+      <ShipItemDropCalculation />
+      <SequenceIDs>
+        <idle01>1000</idle01>
+        <idle02>1001</idle02>
+        <idle03>1002</idle03>
+        <idle04>1003</idle04>
+        <idle05>1003</idle05>
+        <death01>1005</death01>
+        <talk01>1010</talk01>
+        <talk02>1011</talk02>
+        <greet01>1020</greet01>
+        <bow01>1021</bow01>
+        <cheer01>1030</cheer01>
+        <cheer02>1031</cheer02>
+        <cheer03>1032</cheer03>
+        <lookat01>1040</lookat01>
+        <lookat02>1041</lookat02>
+        <protest01>1050</protest01>
+        <protest02>1051</protest02>
+        <laydown01>1060</laydown01>
+        <laydown02>1061</laydown02>
+        <laydown03>1062</laydown03>
+        <fishing01>1070</fishing01>
+        <fishing02>1071</fishing02>
+        <fishing03>1072</fishing03>
+        <dance01>1080</dance01>
+        <dance02>1081</dance02>
+        <dance03>1082</dance03>
+        <dance04>1083</dance04>
+        <fight01>1090</fight01>
+        <fight02>1091</fight02>
+        <walk01>2000</walk01>
+        <walk02>2001</walk02>
+        <walk03>2002</walk03>
+        <walk04>2003</walk04>
+        <walk05>2004</walk05>
+        <walk06>2005</walk06>
+        <walk07>2005</walk07>
+        <drunkenwalk01>2010</drunkenwalk01>
+        <drunkenwalk02>2011</drunkenwalk02>
+        <run01>2100</run01>
+        <panicrun01>2101</panicrun01>
+        <panicrun02>2102</panicrun02>
+        <donate01>2200</donate01>
+        <buy01>2201</buy01>
+        <buy02>2202</buy02>
+        <work01>3000</work01>
+        <work02>3001</work02>
+        <work03>3002</work03>
+        <work04>3003</work04>
+        <work05>3004</work05>
+        <work06>3004</work06>
+        <stand01>4000</stand01>
+        <build01>5000</build01>
+        <portrait_neutral_idle>10000</portrait_neutral_idle>
+        <portrait_neutral_talk>10001</portrait_neutral_talk>
+        <portrait_friendly_idle>10010</portrait_friendly_idle>
+        <portrait_friendly_talk>10011</portrait_friendly_talk>
+        <portrait_angry_idle>10020</portrait_angry_idle>
+        <portrait_angry_talk>10021</portrait_angry_talk>
+        <portrait_neutral_talk_idle>10002</portrait_neutral_talk_idle>
+        <portrait_friendly_talk_idle>10012</portrait_friendly_talk_idle>
+        <portrait_angry_talk_idle>10022</portrait_angry_talk_idle>
+        <extFire01>5100</extFire01>
+        <extFire02>5101</extFire02>
+        <extFire03>5102</extFire03>
+        <pray01>5200</pray01>
+        <protestwalk01>5300</protestwalk01>
+        <protestwalk02>5301</protestwalk02>
+        <protest03>1052</protest03>
+        <protest04>1053</protest04>
+        <protest05>1054</protest05>
+        <protest06>1055</protest06>
+        <fight03>1092</fight03>
+        <protestwalk03>5302</protestwalk03>
+        <fight04>1093</fight04>
+        <fight05>1094</fight05>
+        <work_staged01>3010</work_staged01>
+        <work_staged02>3011</work_staged02>
+        <work_staged03>3012</work_staged03>
+        <takeoff01>5400</takeoff01>
+        <land01>5410</land01>
+        <riotspecial01>5350</riotspecial01>
+        <riotspecial02>5351</riotspecial02>
+        <boosted>3050</boosted>
+        <riotspecial03>5352</riotspecial03>
+        <sitdown01>5500</sitdown01>
+        <sitdown02>5501</sitdown02>
+        <sitdown03>5502</sitdown03>
+      </SequenceIDs>
+      <SpawnAreaConfig>
+        <ConstructionArea>
+          <SpawnAreaColor>-720896</SpawnAreaColor>
+        </ConstructionArea>
+        <Water>
+          <SpawnAreaColor>-16314230</SpawnAreaColor>
+        </Water>
+        <Water_01>
+          <SpawnAreaColor>-13188407</SpawnAreaColor>
+        </Water_01>
+        <Water_02>
+          <SpawnAreaColor>-14061901</SpawnAreaColor>
+        </Water_02>
+        <Campaign_01>
+          <SpawnAreaColor>-65281</SpawnAreaColor>
+        </Campaign_01>
+        <Campaign_02>
+          <SpawnAreaColor>-3781255</SpawnAreaColor>
+        </Campaign_02>
+        <Campaign_03>
+          <SpawnAreaColor>-6749953</SpawnAreaColor>
+        </Campaign_03>
+        <Campaign_04>
+          <SpawnAreaColor>-10203481</SpawnAreaColor>
+        </Campaign_04>
+        <Land_01>
+          <SpawnAreaColor>-7355267</SpawnAreaColor>
+        </Land_01>
+        <Land_02>
+          <SpawnAreaColor>-6759</SpawnAreaColor>
+        </Land_02>
+        <Land_03>
+          <SpawnAreaColor>-13076963</SpawnAreaColor>
+        </Land_03>
+        <Land_04>
+          <SpawnAreaColor>-933326</SpawnAreaColor>
+        </Land_04>
+        <Mountain_01>
+          <SpawnAreaColor>-26368</SpawnAreaColor>
+        </Mountain_01>
+        <Mountain_02>
+          <SpawnAreaColor>-4956410</SpawnAreaColor>
+        </Mountain_02>
+        <Underwater_01>
+          <SpawnAreaColor>-13928220</SpawnAreaColor>
+        </Underwater_01>
+        <Underwater_02>
+          <SpawnAreaColor>-16231532</SpawnAreaColor>
+        </Underwater_02>
+      </SpawnAreaConfig>
+      <TimeNotifications />
+      <GUIDRegionReplacements />
+      <AutoSaveIntervals />
+      <PlayerPossessionsGuidReplacement />
+      <WaterLevelColorConfig />
+      <HappyDayEventsPaMSy />
+    </GlobalConfig>
+    <GUIConfig>
+      <LogisticVisualisationSpecial>-1065320320</LogisticVisualisationSpecial>
+      <StreetMaxRoadTurnPoint>3</StreetMaxRoadTurnPoint>
+      <KeyBindings>
+        <Item>
+          <DefaultKey>Up</DefaultKey>
+          <Command>camera.Up()</Command>
+          <Text>116900</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>X</DefaultKey>
+          <Command>camera.RotateRight()</Command>
+          <Text>120591</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>Down</DefaultKey>
+          <Command>camera.Down()</Command>
+          <Text>116901</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>Z</DefaultKey>
+          <DefaultKeyLocalized>999256</DefaultKeyLocalized>
+          <Command>camera.RotateLeft()</Command>
+          <Text>120592</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>Left</DefaultKey>
+          <Command>camera.Left()</Command>
+          <Text>116897</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>PageUp</DefaultKey>
+          <Command>camera.ZoomIn()</Command>
+          <Text>120365</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>Right</DefaultKey>
+          <Command>camera.Right()</Command>
+          <Text>116899</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>PageDown</DefaultKey>
+          <Command>camera.ZoomOut()</Command>
+          <Text>120366</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>S</DefaultKey>
+          <Command>game.startBuild(1000178)</Command>
+          <Text>120041</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Ctrl + S</DefaultKey>
+          <Command>game.startBuild(1010035)</Command>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>.</DefaultKey>
+          <Command>game.changeRotation(1)</Command>
+          <Text>105227</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>H</DefaultKey>
+          <Command>game.startBuild(1010343)</Command>
+          <Text>120042</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Shift + H</DefaultKey>
+          <Command>game.startBuild(1010043)</Command>
+          <Text>120042</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>,</DefaultKey>
+          <Command>game.changeRotation(-1)</Command>
+          <Text>105228</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>U</DefaultKey>
+          <Command>session.upgradeSelected(0)</Command>
+          <Text>105236</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>B</DefaultKey>
+          <Command>ui.toggleBuildMenu()</Command>
+          <Text>105244</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Shift + U</DefaultKey>
+          <Command>session.upgradeSelected(1)</Command>
+          <Text>105237</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>C</DefaultKey>
+          <Command>game.startMouseMode(2001043)</Command>
+          <Text>105232</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>M</DefaultKey>
+          <Command>game.startMouseMode(2001042)</Command>
+          <Text>105231</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Delete</DefaultKey>
+          <Command>[object.destruct() for object in session.selection]</Command>
+          <Text>105226</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>D</DefaultKey>
+          <Command>game.startMouseMode(2001044)</Command>
+          <Text>105233</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Shift + Space</DefaultKey>
+          <Command>TextSources.TextSourceRoots.Interface.SET_ToggleMetaUI()</Command>
+          <Text>105246</Text>
+          <Active>Menu;Session;PostcardView;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>A</DefaultKey>
+          <Command>game.startMouseMode(2001775)</Command>
+          <Text>120566</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Shift + V</DefaultKey>
+          <Command>game.changeVariation(1)</Command>
+          <Text>105229</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Shift + F</DefaultKey>
+          <Command>session.getSelectedFactory().toggleStopProduction(1)</Command>
+          <Text>105239</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>PrintScreen</DefaultKey>
+          <Command>game.takeScreenshot()</Command>
+          <Text>120001</Text>
+          <Configurable>0</Configurable>
+          <Active>Menu;Session;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Home</DefaultKey>
+          <Command>session.setDefaultRotation()</Command>
+          <Text>108983</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Escape</DefaultKey>
+          <Command>TextSources.TextSourceRoots.Interface.SET_PopUI()</Command>
+          <Text>116867</Text>
+          <Configurable>0</Configurable>
+          <Active>Menu;Session;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Alt + F4</DefaultKey>
+          <Command>game.exit()</Command>
+          <Text>116866</Text>
+          <Configurable>0</Configurable>
+          <Active>Menu;Session;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Shift + Tab</DefaultKey>
+          <Command>session.selectNextObject(True)</Command>
+          <Text>105243</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Tab</DefaultKey>
+          <Command>session.selectNextObject(False)</Command>
+          <Text>105240</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Backspace</DefaultKey>
+          <Command>ui.toggleMinimap()</Command>
+          <Text>105260</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>L</DefaultKey>
+          <Command>session.toggleInfolayer()</Command>
+          <Text>105235</Text>
+          <Active>Session;PostcardView</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Ctrl + G</DefaultKey>
+          <Command>TextSources.TextSourceRoots.Interface.SET_ToggleUI()</Command>
+          <Text>105245</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>P</DefaultKey>
+          <Command>game.togglePause()</Command>
+          <Text>105234</Text>
+          <Active>Menu;Session;PostcardView;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F1</DefaultKey>
+          <Command>session.togglePostcardView()</Command>
+          <Text>116880</Text>
+          <Active>Session;PostcardView;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Keypad +</DefaultKey>
+          <Command>speed.Up()</Command>
+          <Text>120031</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>F3</DefaultKey>
+          <Command>game.startLoopSequence(1)</Command>
+          <Text>120034</Text>
+          <Active>Session;VideoCameraSequence;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Keypad -</DefaultKey>
+          <Command>speed.Down()</Command>
+          <Text>120032</Text>
+          <Active />
+        </Item>
+        <Item>
+          <DefaultKey>F4</DefaultKey>
+          <Command>game.startLoopSequence(2)</Command>
+          <Text>120035</Text>
+          <Active>Session;VideoCameraSequence;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F2</DefaultKey>
+          <Command>game.rotateCameraAroundLookAt(10)</Command>
+          <Text>120033</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Ctrl + F5</DefaultKey>
+          <Command>game.storeCameraView(0)</Command>
+          <Text>120002</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F5</DefaultKey>
+          <Command>game.restoreCameraView(0)</Command>
+          <Text>120018</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Ctrl + F6</DefaultKey>
+          <Command>game.storeCameraView(1)</Command>
+          <Text>120011</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F6</DefaultKey>
+          <Command>game.restoreCameraView(1);</Command>
+          <Text>120019</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Ctrl + F7</DefaultKey>
+          <Command>game.storeCameraView(2)</Command>
+          <Text>120012</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F7</DefaultKey>
+          <Command>game.restoreCameraView(2);</Command>
+          <Text>120020</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Ctrl + F8</DefaultKey>
+          <Command>game.storeCameraView(3)</Command>
+          <Text>120013</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F8</DefaultKey>
+          <Command>game.restoreCameraView(3);</Command>
+          <Text>120021</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Ctrl + F9</DefaultKey>
+          <Command>game.storeCameraView(4)</Command>
+          <Text>120014</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F9</DefaultKey>
+          <Command>game.restoreCameraViewAndRotate(4,10)</Command>
+          <Text>120022</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Ctrl + F10</DefaultKey>
+          <Command>game.storeCameraView(5)</Command>
+          <Text>120015</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F10</DefaultKey>
+          <Command>game.restoreCameraViewAndRotate(5,10)</Command>
+          <Text>120023</Text>
+          <Active>Session;Pause</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F11</DefaultKey>
+          <Command>game.toggleDayNight()</Command>
+          <Text>120190</Text>
+          <Active>Session;VideoCameraSequence;PostcardView</Active>
+        </Item>
+        <Item>
+          <DefaultKey>PageUp + PageDown</DefaultKey>
+          <Command>session.setDefaultRotation( )</Command>
+          <Text>108983</Text>
+          <Configurable>0</Configurable>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>F</DefaultKey>
+          <Command>TextSources.TextSourceRoots.SELECTION.OBJECT.FACTORY.SET_TogglePause()</Command>
+          <Text>105238</Text>
+          <Active>Session</Active>
+        </Item>
+        <Item>
+          <DefaultKey>Space</DefaultKey>
+          <Command>session.showSelection()</Command>
+          <Active>Session</Active>
+        </Item>
+      </KeyBindings>
+      <InvalidKeyBindings>
+        <Item>
+          <KeyCombo>Alt + F4</KeyCombo>
+        </Item>
+        <Item>
+          <KeyCombo>Alt + Tab</KeyCombo>
+        </Item>
+        <Item>
+          <KeyCombo>Shift + R</KeyCombo>
+        </Item>
+        <Item>
+          <KeyCombo>PrintScreen</KeyCombo>
+        </Item>
+        <Item>
+          <KeyCombo>Escape</KeyCombo>
+        </Item>
+        <Item>
+          <KeyCombo>PageUp + PageDown</KeyCombo>
+        </Item>
+        <Item>
+          <KeyCombo>Left Windows</KeyCombo>
+        </Item>
+        <Item>
+          <KeyCombo>Right Windows</KeyCombo>
+        </Item>
+      </InvalidKeyBindings>
+      <QuestMinimaptoken>
+        <MainQuest>
+          <QuestObjectives>2001783</QuestObjectives>
+          <QuestStarters>2001840</QuestStarters>
+          <Scanners>2002347</Scanners>
+        </MainQuest>
+        <RandomQuest>
+          <QuestObjectives>2001947</QuestObjectives>
+          <QuestStarters>2001840</QuestStarters>
+          <Scanners>2002347</Scanners>
+        </RandomQuest>
+        <ExplorationQuest>
+          <QuestObjectives>2001947</QuestObjectives>
+          <QuestStarters>2001840</QuestStarters>
+          <Scanners>2002347</Scanners>
+        </ExplorationQuest>
+        <TutorialQuest>
+          <QuestObjectives>2001947</QuestObjectives>
+          <QuestStarters>2001840</QuestStarters>
+          <Scanners>2002347</Scanners>
+        </TutorialQuest>
+        <MetaQuest>
+          <QuestObjectives>2001947</QuestObjectives>
+          <QuestStarters>2002211</QuestStarters>
+          <Scanners>2002347</Scanners>
+        </MetaQuest>
+      </QuestMinimaptoken>
+      <LanguageTexts>
+        <English>
+          <Text>108507</Text>
+        </English>
+        <French>
+          <Text>108508</Text>
+        </French>
+        <Polish>
+          <Text>108510</Text>
+        </Polish>
+        <Russian>
+          <Text>108511</Text>
+        </Russian>
+        <Spanish>
+          <Text>108509</Text>
+        </Spanish>
+        <German>
+          <Text>108506</Text>
+        </German>
+      </LanguageTexts>
+      <ProfileVoices />
+      <LipSyncOffset>-350</LipSyncOffset>
+      <SubtitleAdditionalDisplayTime>2000</SubtitleAdditionalDisplayTime>
+      <SubtitleMenues />
+      <QuesttrackerNotificationFlowTimeDelay>2000</QuesttrackerNotificationFlowTimeDelay>
+      <SmartStreetDraw />
+      <CategoryButtons />
+      <KeyAssetNames />
+      <HintMarkerPadding>
+        <Left>100</Left>
+        <Right>100</Right>
+        <Top>180</Top>
+        <Bottom>220</Bottom>
+      </HintMarkerPadding>
+      <PopulationLevelList />
+    </GUIConfig>
+    <Locked>
+      <DefaultLockedState>1</DefaultLockedState>
+      <DLCDependency>0</DLCDependency>
+      <Scope>Participant</Scope>
+    </Locked>
+    <ObjectPool>
+      <Objects />
+    </ObjectPool>
+    <ProgressLevel>
+      <Level>EarlyGame</Level>
+    </ProgressLevel>
+    <QuestConfig>
+      <DefaultStarterObjectExecutionPlace>
+        <Template>ConditionStarterObject</Template>
+        <Values>
+          <Condition />
+          <ConditionStarterObject />
+          <ConditionQuestObjective />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </DefaultStarterObjectExecutionPlace>
+      <DefaultStarterObjectQuestActiveFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </DefaultStarterObjectQuestActiveFeedback>
+      <DefaultDeliveryExecutionPlace>
+        <Template>DeliveryObjective</Template>
+        <Values>
+          <ConditionQuestDelivery>
+            <DeliveryExecutionPlace>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>ConditionObjectClientQuestObject</Template>
+              <Values>
+                <ConditionObjectClientQuestObject />
+                <ConditionScanner />
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </DeliveryExecutionPlace>
+          </ConditionQuestDelivery>
+          <ConditionQuestObjective>
+            <ObjectiveSignsAndFeedback>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>ConditionObjectiveSignsAndFeedback</Template>
+              <Values>
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </ObjectiveSignsAndFeedback>
+            <ObjectiveSuccessMessage>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>CharacterNotification</Template>
+              <Values>
+                <CharacterNotification />
+                <BaseNotification />
+                <NotificationSubtitle />
+              </Values>
+            </ObjectiveSuccessMessage>
+            <OnSuccessActions>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>Actions</Template>
+              <Values>
+                <ActionList />
+              </Values>
+            </OnSuccessActions>
+          </ConditionQuestObjective>
+          <ObjectiveScaling />
+          <ConditionPropsSessionSettings />
+        </Values>
+      </DefaultDeliveryExecutionPlace>
+      <AcceptQuestText>0</AcceptQuestText>
+      <DeclineQuestText>0</DeclineQuestText>
+      <DefaultFlotsamSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </DefaultFlotsamSignsAndFeedback>
+      <TutorialQuestPool>0</TutorialQuestPool>
+      <CampaignQuestPool>0</CampaignQuestPool>
+      <DefaultConfirmationCondition>
+        <Template>ConditionQuestResolveConfirmation</Template>
+        <Values>
+          <ConditionQuestResolveConfirmation>
+            <ResolveConfirmationMessage>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>CharacterNotification</Template>
+              <Values>
+                <CharacterNotification />
+                <BaseNotification />
+                <NotificationSubtitle />
+              </Values>
+            </ResolveConfirmationMessage>
+          </ConditionQuestResolveConfirmation>
+          <Condition />
+          <ConditionQuestObjective>
+            <ObjectiveSignsAndFeedback>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>ConditionObjectiveSignsAndFeedback</Template>
+              <Values>
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </ObjectiveSignsAndFeedback>
+            <ObjectiveSuccessMessage>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>CharacterNotification</Template>
+              <Values>
+                <CharacterNotification />
+                <BaseNotification />
+                <NotificationSubtitle />
+              </Values>
+            </ObjectiveSuccessMessage>
+            <OnSuccessActions>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>Actions</Template>
+              <Values>
+                <ActionList />
+              </Values>
+            </OnSuccessActions>
+          </ConditionQuestObjective>
+        </Values>
+      </DefaultConfirmationCondition>
+      <QuestChapterTexts />
+      <QuestDeclinedReputationText>0</QuestDeclinedReputationText>
+      <QuestFailedReputationText>0</QuestFailedReputationText>
+      <QuestSuccessReputationText>0</QuestSuccessReputationText>
+    </QuestConfig>
+    <RewardConfig>
+      <ResourceBalancing />
+    </RewardConfig>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <BuildingBaseTiles>
+      <TileCategory>
+        <BaseAsset>0</BaseAsset>
+      </TileCategory>
+    </BuildingBaseTiles>
+    <Cost>
+      <Costs>
+        <Ingredient>0</Ingredient>
+      </Costs>
+    </Cost>
+    <DifficultySettings>
+      <ConstructionCostRefund>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </ConstructionCostRefund>
+      <DistributionWorkforce>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </DistributionWorkforce>
+      <Fertility>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </Fertility>
+      <HostileTakeover>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </HostileTakeover>
+      <InactiveCosts>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </InactiveCosts>
+      <Incidents>
+        <ValueName>0</ValueName>
+        <IncidentIntervalMin>30000</IncidentIntervalMin>
+        <IncidentIntervalMax>60000</IncidentIntervalMax>
+        <IncidentCooldown>300000</IncidentCooldown>
+        <SelfHealChanceFactor>1</SelfHealChanceFactor>
+        <IntensityIncreaseChanceFactor>1</IntensityIncreaseChanceFactor>
+        <Enabled>1</Enabled>
+        <DlcDependency>0</DlcDependency>
+      </Incidents>
+      <LossCondition>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </LossCondition>
+      <OptionalQuestFrequency>
+        <ContainerValues>
+          <DisabledQuestPools>
+            <Pool>0</Pool>
+          </DisabledQuestPools>
+        </ContainerValues>
+        <ValueName>0</ValueName>
+        <DisabledQuestPools />
+        <DlcDependency>0</DlcDependency>
+      </OptionalQuestFrequency>
+      <OptionalQuestRewards>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </OptionalQuestRewards>
+      <OptionalQuestTimeout>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </OptionalQuestTimeout>
+      <RawMaterial>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </RawMaterial>
+      <RelocateBuildings>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </RelocateBuildings>
+      <RevealedMap>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </RevealedMap>
+      <Revenue>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </Revenue>
+      <StartCredits>
+        <ContainerValues>
+          <StartProducts>
+            <MetaProduct>0</MetaProduct>
+          </StartProducts>
+        </ContainerValues>
+        <ValueName>0</ValueName>
+        <StartProducts />
+        <DlcDependency>0</DlcDependency>
+      </StartCredits>
+      <StartSession>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </StartSession>
+      <StartSessionIslandDifficulty>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </StartSessionIslandDifficulty>
+      <StartSessionIslandSize>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </StartSessionIslandSize>
+      <StartShips>
+        <ContainerValues>
+          <Ships>
+            <ContainerValues>
+              <ShipLoad>
+                <Product>0</Product>
+              </ShipLoad>
+            </ContainerValues>
+            <Ship>0</Ship>
+            <ShipLoad />
+          </Ships>
+        </ContainerValues>
+        <ValueName>0</ValueName>
+        <Ships />
+        <DlcDependency>0</DlcDependency>
+      </StartShips>
+      <StartWithKontor>
+        <ContainerValues>
+          <StartGoods>
+            <Product>0</Product>
+          </StartGoods>
+        </ContainerValues>
+        <ValueName>0</ValueName>
+        <StartGoods />
+        <DlcDependency>0</DlcDependency>
+      </StartWithKontor>
+      <ThirdParty>
+        <ValueName>0</ValueName>
+      </ThirdParty>
+      <TraderRefillRate>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </TraderRefillRate>
+      <AvailableSecondParties>
+        <Profile>0</Profile>
+      </AvailableSecondParties>
+      <AvailableThirdParties>
+        <Profile>0</Profile>
+        <Points />
+      </AvailableThirdParties>
+      <CampaignAutoParticipants>
+        <Profile>0</Profile>
+      </CampaignAutoParticipants>
+      <NormalAutoParticipants>
+        <Profile>0</Profile>
+      </NormalAutoParticipants>
+      <Presets>
+        <DefaultSetting>0</DefaultSetting>
+      </Presets>
+      <Descriptions>
+        <Description>0</Description>
+        <InfoTip>0</InfoTip>
+      </Descriptions>
+      <VictoryConditionMonuments>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </VictoryConditionMonuments>
+      <VictoryConditionInvestors>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </VictoryConditionInvestors>
+      <VictoryConditionPopulation>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </VictoryConditionPopulation>
+      <VictoryConditionWealth>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </VictoryConditionWealth>
+      <VictoryConditionIncome>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </VictoryConditionIncome>
+      <VictoryConditionAllOrOne>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </VictoryConditionAllOrOne>
+      <VictoryConditionDiplomacy>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </VictoryConditionDiplomacy>
+      <MapType>
+        <ValueName>0</ValueName>
+        <DlcDependency>0</DlcDependency>
+      </MapType>
+    </DifficultySettings>
+    <GlobalConfig>
+      <AutoTargetsWithoutSelection>
+        <GUID>0</GUID>
+      </AutoTargetsWithoutSelection>
+      <AutoTargets>
+        <GUID>0</GUID>
+      </AutoTargets>
+      <SequenceMetaInfos>
+        <RequiredPreSequence>default</RequiredPreSequence>
+        <RequiredPostSequence>default</RequiredPostSequence>
+        <CompatibleRunSequence>default</CompatibleRunSequence>
+        <CompatibleIdleSequence>idle01</CompatibleIdleSequence>
+        <AllowRandomizeStartOffset>1</AllowRandomizeStartOffset>
+      </SequenceMetaInfos>
+      <Languages>
+        <LanguagePack>0</LanguagePack>
+        <AudioLanguageType>English</AudioLanguageType>
+      </Languages>
+      <ParticipantMessageCategories>
+        <Category>Other</Category>
+        <ReputationLogTextGuid>0</ReputationLogTextGuid>
+      </ParticipantMessageCategories>
+      <TimeNotifications>
+        <Notification>0</Notification>
+      </TimeNotifications>
+      <GUIDRegionReplacements>
+        <ContainerValues>
+          <GUIDGroup>
+            <AssetGUID>0</AssetGUID>
+          </GUIDGroup>
+        </ContainerValues>
+        <GUIDGroup />
+      </GUIDRegionReplacements>
+      <PlayerPossessionsGuidReplacement>
+        <OriginalAsset>0</OriginalAsset>
+        <PossessionAsset>0</PossessionAsset>
+      </PlayerPossessionsGuidReplacement>
+      <HappyDayEventsPaMSy>
+        <PaMSyTrigger>None</PaMSyTrigger>
+      </HappyDayEventsPaMSy>
+    </GlobalConfig>
+    <GUIConfig>
+      <KeyBindings>
+        <DefaultKeyLocalized>0</DefaultKeyLocalized>
+        <Text>0</Text>
+        <Configurable>1</Configurable>
+        <Active>Menu;Session;EventSession</Active>
+        <AudioEvent>0</AudioEvent>
+        <KeyEvent>OnUp</KeyEvent>
+      </KeyBindings>
+      <QuestMinimaptoken>
+        <QuestObjectives>2001550</QuestObjectives>
+        <QuestStarters>2001550</QuestStarters>
+        <Scanners>0</Scanners>
+      </QuestMinimaptoken>
+      <LanguageTexts>
+        <Text>0</Text>
+      </LanguageTexts>
+      <SmartStreetDraw>
+        <MinimumNewTiles>21</MinimumNewTiles>
+        <MaximumStreetTileSaved>6</MaximumStreetTileSaved>
+        <MaxDistToKeepCursor>4</MaxDistToKeepCursor>
+        <EnableSmartStreetDraw>1</EnableSmartStreetDraw>
+      </SmartStreetDraw>
+      <CategoryButtons>
+        <Icon>0</Icon>
+      </CategoryButtons>
+      <PopulationLevelList>
+        <PopulationLevel>0</PopulationLevel>
+      </PopulationLevelList>
+    </GUIConfig>
+    <ObjectPool>
+      <Objects>
+        <GUID>0</GUID>
+        <Region />
+      </Objects>
+    </ObjectPool>
+    <QuestConfig>
+      <QuestChapterTexts>
+        <Text>0</Text>
+      </QuestChapterTexts>
+    </QuestConfig>
+    <RewardConfig>
+      <ResourceBalancing>
+        <Resource>0</Resource>
+        <ProgressFactor />
+        <QuestDifficultyFactor />
+      </ResourceBalancing>
+    </RewardConfig>
+  </DefaultContainerValues>
+</Property>

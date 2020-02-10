@@ -1,0 +1,213 @@
+<Property>
+  <Name>ExportConditions</Name>
+  <DefaultValues>
+    <ConditionActiveRegion>
+      <ActiveRegion>0</ActiveRegion>
+    </ConditionActiveRegion>
+    <ConditionActiveSession>
+      <ActiveSession>0</ActiveSession>
+    </ConditionActiveSession>
+    <ConditionAlwaysFalse />
+    <ConditionAlwaysTrue />
+    <ConditionAreaClaimed>
+      <Island>0</Island>
+    </ConditionAreaClaimed>
+    <ConditionAttractiveness>
+      <AttractivenessComparisonOp>AtLeast</AttractivenessComparisonOp>
+      <AttractivenessType>Culture</AttractivenessType>
+      <AttractivenessSessionOrRegion>0</AttractivenessSessionOrRegion>
+      <AttractivenessSpecificBuilding>0</AttractivenessSpecificBuilding>
+    </ConditionAttractiveness>
+    <ConditionBuildingsInBlueprintmode />
+    <ConditionBurningObject>
+      <BurningObjects />
+    </ConditionBurningObject>
+    <ConditionCorporationDifficulty>
+      <Difficulty />
+      <DifficultyConstructionCostRefund />
+      <DifficultyLossCondition />
+      <DifficultyOptionalQuestFrequency />
+      <DifficultyOptionalQuestRewards />
+      <DifficultyRelocateBuildings />
+      <DifficultyRevenue />
+      <DifficultyStartCredits />
+      <DifficultyStartShips />
+      <DifficultyStartWithKontor />
+    </ConditionCorporationDifficulty>
+    <ConditionDiplomaticState>
+      <SourceParticipant2>Human0</SourceParticipant2>
+      <TargetParticipant2>Human0</TargetParticipant2>
+      <DesiredState>War</DesiredState>
+    </ConditionDiplomaticState>
+    <ConditionDiplomaticStateChanged />
+    <ConditionEvaluateTextSource>
+      <ComparisonType>AtLeast</ComparisonType>
+    </ConditionEvaluateTextSource>
+    <ConditionEvent>
+      <ConditionEvent>SessionLoad</ConditionEvent>
+      <ContextAsset>0</ContextAsset>
+      <ContextAssetInfolayer>0</ContextAssetInfolayer>
+    </ConditionEvent>
+    <ConditionExpeditionFinished>
+      <MoraleComparisonOperator>AtLeast</MoraleComparisonOperator>
+    </ConditionExpeditionFinished>
+    <ConditionFactoryProductivity>
+      <ProductivityComparison>AtLeast</ProductivityComparison>
+    </ConditionFactoryProductivity>
+    <ConditionFirstTimeEventHappened>
+      <SpecificAsset>0</SpecificAsset>
+    </ConditionFirstTimeEventHappened>
+    <ConditionGameEnded>
+      <WinLoseState>Win</WinLoseState>
+    </ConditionGameEnded>
+    <ConditionGoodsInRange>
+      <GoodsInRangeType>TargetObject</GoodsInRangeType>
+    </ConditionGoodsInRange>
+    <ConditionHappinessMood>
+      <RequiredLevel />
+      <UseProcessingParticipant_chl>1</UseProcessingParticipant_chl>
+      <Participant_chl>Human0</Participant_chl>
+      <PopulationLevel>0</PopulationLevel>
+    </ConditionHappinessMood>
+    <ConditionInStorage />
+    <ConditionIsCampaign />
+    <ConditionIsDiscovered />
+    <ConditionIsDLCActive>
+      <DLCAssetList />
+    </ConditionIsDLCActive>
+    <ConditionIsMultiplayer />
+    <ConditionIsParticipantInGame>
+      <InGameParticipant>Human0</InGameParticipant>
+    </ConditionIsParticipantInGame>
+    <ConditionIsTutorial />
+    <ConditionItemActionCompleted />
+    <ConditionItemUsed>
+      <TargetItem>0</TargetItem>
+      <ItemTargetObject>0</ItemTargetObject>
+    </ConditionItemUsed>
+    <ConditionMetagameLoaded />
+    <ConditionModuleBuildingEfficiency />
+    <ConditionModuleCount>
+      <ModuleComparison>AtLeast</ModuleComparison>
+    </ConditionModuleCount>
+    <ConditionMonumentEventsActive>
+      <MonumentEventsActive />
+    </ConditionMonumentEventsActive>
+    <ConditionMutualAreaInSubconditions>
+      <AreaFlags />
+      <SessionAsset>0</SessionAsset>
+    </ConditionMutualAreaInSubconditions>
+    <ConditionNewspaperPossible />
+    <ConditionNewspaperPublished />
+    <ConditionObjectPosition />
+    <ConditionObjectSelected />
+    <ConditionObjHPCheck>
+      <HPTargetGUID>0</HPTargetGUID>
+      <HPTargetOwner>Human0</HPTargetOwner>
+      <HPComparison>AtLeast</HPComparison>
+    </ConditionObjHPCheck>
+    <ConditionPhotographObject>
+      <AppearInNewspaperArticle>0</AppearInNewspaperArticle>
+      <ShowHintMarkerWhenOffscreen>1</ShowHintMarkerWhenOffscreen>
+    </ConditionPhotographObject>
+    <ConditionPlayerCounter>
+      <PlayerCounter>ObjectBuilt</PlayerCounter>
+      <Context>0</Context>
+      <ComparisonOp>AtLeast</ComparisonOp>
+      <CounterScope>Global</CounterScope>
+      <CounterScopeUseCurrentContext>1</CounterScopeUseCurrentContext>
+      <CounterScopeContext>0</CounterScopeContext>
+      <CounterScopeKeepFirstFound>1</CounterScopeKeepFirstFound>
+      <CounterValueType>Current</CounterValueType>
+      <CheckedParticipant>Human0</CheckedParticipant>
+    </ConditionPlayerCounter>
+    <ConditionQuestPoolQuestRunning>
+      <QuestPoolsToCheck />
+    </ConditionQuestPoolQuestRunning>
+    <ConditionQuestState>
+      <ConditionQuestStateStates />
+      <ConditionQuestStateQuestGUID>0</ConditionQuestStateQuestGUID>
+      <ConditionQuestStateRangeOp>None</ConditionQuestStateRangeOp>
+    </ConditionQuestState>
+    <ConditionReminderMessage />
+    <ConditionReputation>
+      <ComparisonOperator>AtLeast</ComparisonOperator>
+    </ConditionReputation>
+    <ConditionSessionLoading />
+    <ConditionShipsInRange>
+      <TargetObject_sir>0</TargetObject_sir>
+      <TargetOwnerParticipant>Human0</TargetOwnerParticipant>
+      <ShipOwnerParticipant>Human0</ShipOwnerParticipant>
+      <SpecifiedShipOrPool>0</SpecifiedShipOrPool>
+    </ConditionShipsInRange>
+    <ConditionShipsOwnedInSession>
+      <ShipSession>0</ShipSession>
+      <ShipTarget>0</ShipTarget>
+      <ShipComparison>AtLeast</ShipComparison>
+      <ShipOwner>Human0</ShipOwner>
+    </ConditionShipsOwnedInSession>
+    <ConditionShipyardState>
+      <ShipyardOwner>Human0</ShipyardOwner>
+    </ConditionShipyardState>
+    <ConditionStaticResult>
+      <ConditionResult>Success</ConditionResult>
+    </ConditionStaticResult>
+    <ConditionTextPopupPagesViewed>
+      <PagesViewed />
+    </ConditionTextPopupPagesViewed>
+    <ConditionThreshold />
+    <ConditionTimer />
+    <ConditionTradeRouteCount />
+    <ConditionTutorialInteraction>
+      <HintType>None</HintType>
+      <ShowScrollHintWhenOffscreen>1</ShowScrollHintWhenOffscreen>
+      <TutorialConditionType>Click</TutorialConditionType>
+      <HintEndCondition>None</HintEndCondition>
+      <HintAnchor>Top</HintAnchor>
+      <HintText>0</HintText>
+      <TutorialUiCategory>ConstructionMenu</TutorialUiCategory>
+      <ContextObject>0</ContextObject>
+      <ObjectFilter>
+        <Template>ObjectFilter</Template>
+        <Values>
+          <ObjectFilter />
+        </Values>
+      </ObjectFilter>
+      <SpecificPortraitProfile>0</SpecificPortraitProfile>
+      <HintColorType>Info</HintColorType>
+    </ConditionTutorialInteraction>
+    <ConditionUnlocked>
+      <UnlockNeeded>0</UnlockNeeded>
+    </ConditionUnlocked>
+    <ConditionUnlockList>
+      <UnlockNeededList />
+    </ConditionUnlockList>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ConditionBurningObject>
+      <BurningObjects>
+        <BurningObjectGUID>0</BurningObjectGUID>
+      </BurningObjects>
+    </ConditionBurningObject>
+    <ConditionIsDLCActive>
+      <DLCAssetList>
+        <DLCAsset>0</DLCAsset>
+      </DLCAssetList>
+    </ConditionIsDLCActive>
+    <ConditionMonumentEventsActive>
+      <MonumentEventsActive>
+        <MonumentEventGUID>0</MonumentEventGUID>
+      </MonumentEventsActive>
+    </ConditionMonumentEventsActive>
+    <ConditionQuestPoolQuestRunning>
+      <QuestPoolsToCheck>
+        <QuestPool>0</QuestPool>
+      </QuestPoolsToCheck>
+    </ConditionQuestPoolQuestRunning>
+    <ConditionUnlockList>
+      <UnlockNeededList>
+        <UnlockNeeded>0</UnlockNeeded>
+      </UnlockNeededList>
+    </ConditionUnlockList>
+  </DefaultContainerValues>
+</Property>

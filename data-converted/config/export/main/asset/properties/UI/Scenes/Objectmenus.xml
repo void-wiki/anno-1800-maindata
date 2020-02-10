@@ -1,0 +1,150 @@
+<Property>
+  <Name>Objectmenus</Name>
+  <DefaultValues>
+    <IncidentBuffConfig>
+      <PerIncidentBuffConfig />
+    </IncidentBuffConfig>
+    <IncidentOverlayConfig>
+      <PerTypeOverlayConfig />
+    </IncidentOverlayConfig>
+    <ObjectmenuCityInstitutionScene>
+      <PerIncidentUiConfig />
+      <DialMaxInfectionProbability>50</DialMaxInfectionProbability>
+      <ClockIcon>0</ClockIcon>
+      <MinDifferenceBetweenDials>0.1</MinDifferenceBetweenDials>
+    </ObjectmenuCityInstitutionScene>
+    <ObjectmenuCommuterHarbourScene>
+      <OverallBarInfotip>0</OverallBarInfotip>
+      <IslandEntryInfotip>0</IslandEntryInfotip>
+      <CaptainParticipantID>Human0</CaptainParticipantID>
+      <WorkforceToRegion />
+    </ObjectmenuCommuterHarbourScene>
+    <ObjectmenuHeader>
+      <HeaderText>0</HeaderText>
+      <SublineText>0</SublineText>
+      <BuffDisplayList />
+    </ObjectmenuHeader>
+    <ObjectmenuKontorScene>
+      <Regions />
+      <CartSlotInfotip>0</CartSlotInfotip>
+    </ObjectmenuKontorScene>
+    <ObjectmenuProductionScene>
+      <FarmFieldText>0</FarmFieldText>
+      <InfiniteFarmFieldText>0</InfiniteFarmFieldText>
+      <MineralInput>0</MineralInput>
+      <SeaInput>0</SeaInput>
+      <LandInput>0</LandInput>
+      <IconPlay>0</IconPlay>
+      <IconPause>0</IconPause>
+    </ObjectmenuProductionScene>
+    <ObjectmenuResidenceScene>
+      <ResidenceEmpty>0</ResidenceEmpty>
+      <ResidenceSettling>0</ResidenceSettling>
+      <ResidenceRuin>0</ResidenceRuin>
+      <FeedbackBubbles />
+      <HappinessText>0</HappinessText>
+      <MoneyText>0</MoneyText>
+      <WorkforceText>0</WorkforceText>
+      <HappinessConfig />
+      <PopulationText>0</PopulationText>
+      <ResidenceInfluence>0</ResidenceInfluence>
+      <TemperatureText />
+      <HeatTabText>0</HeatTabText>
+      <HappinessTabText>0</HappinessTabText>
+    </ObjectmenuResidenceScene>
+    <ObjectmenuShipScene />
+    <ObjectmenuVisitorHarborScene>
+      <ShipTierIcons />
+      <VisitorParticipant>Visitor</VisitorParticipant>
+    </ObjectmenuVisitorHarborScene>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <IncidentBuffConfig>
+      <PerIncidentBuffConfig>
+        <Icon>0</Icon>
+        <RefGuid>0</RefGuid>
+        <InfoTip>0</InfoTip>
+      </PerIncidentBuffConfig>
+    </IncidentBuffConfig>
+    <IncidentOverlayConfig>
+      <PerTypeOverlayConfig>
+        <OverlayText>0</OverlayText>
+        <Icon>0</Icon>
+        <OverlayHealingText>0</OverlayHealingText>
+        <OverlayHealingIcon>0</OverlayHealingIcon>
+        <IntensityText>0</IntensityText>
+      </PerTypeOverlayConfig>
+    </IncidentOverlayConfig>
+    <ObjectmenuCityInstitutionScene>
+      <PerIncidentUiConfig>
+        <Icon>0</Icon>
+        <BeforeIncidentChanceHeadline>0</BeforeIncidentChanceHeadline>
+        <ProbabilityText>0</ProbabilityText>
+      </PerIncidentUiConfig>
+    </ObjectmenuCityInstitutionScene>
+    <ObjectmenuCommuterHarbourScene>
+      <WorkforceToRegion>
+        <ContainerValues>
+          <WorkforceList>
+            <Workforce>0</Workforce>
+          </WorkforceList>
+        </ContainerValues>
+        <WorkforceList />
+      </WorkforceToRegion>
+    </ObjectmenuCommuterHarbourScene>
+    <ObjectmenuHeader>
+      <BuffDisplayList>
+        <Buffgroup />
+        <Icon>0</Icon>
+        <InfoTip>0</InfoTip>
+        <RefGuid>0</RefGuid>
+      </BuffDisplayList>
+    </ObjectmenuHeader>
+    <ObjectmenuKontorScene>
+      <Regions>
+        <ProductFilter>0</ProductFilter>
+        <ItemFilter>0</ItemFilter>
+      </Regions>
+    </ObjectmenuKontorScene>
+    <ObjectmenuResidenceScene>
+      <FeedbackBubbles>
+        <ContainerValues>
+          <IncidentBubbles>
+            <Icon>0</Icon>
+            <Infotip>0</Infotip>
+            <ProximityIcon>0</ProximityIcon>
+            <ProximityInfotip>0</ProximityInfotip>
+          </IncidentBubbles>
+        </ContainerValues>
+        <IncidentBubbles />
+        <DisabledStateInfotip>0</DisabledStateInfotip>
+        <SatisfactionMissingInfotip>0</SatisfactionMissingInfotip>
+        <NeedLockedInfotip>0</NeedLockedInfotip>
+        <OccupancyMissingInfotip>0</OccupancyMissingInfotip>
+        <OccupancyMissingIcon>0</OccupancyMissingIcon>
+        <UpgradeInfotip>0</UpgradeInfotip>
+        <UpgradeIcon>0</UpgradeIcon>
+        <NewspaperInfotip>0</NewspaperInfotip>
+        <NewspaperIcon>0</NewspaperIcon>
+        <WorkforceStressInfotip>0</WorkforceStressInfotip>
+        <WorkforceStressIcon>0</WorkforceStressIcon>
+        <PollutionIcon>0</PollutionIcon>
+        <PollutionInfotip>0</PollutionInfotip>
+      </FeedbackBubbles>
+      <HappinessConfig>
+        <PortraitMood>Angry</PortraitMood>
+        <Icon>0</Icon>
+        <PaMSyContext>0</PaMSyContext>
+      </HappinessConfig>
+      <TemperatureText>
+        <HeatText>0</HeatText>
+      </TemperatureText>
+    </ObjectmenuResidenceScene>
+    <ObjectmenuVisitorHarborScene>
+      <ShipTierIcons>
+        <ShipIcon>0</ShipIcon>
+        <ShipIconWithPerson>0</ShipIconWithPerson>
+      </ShipTierIcons>
+    </ObjectmenuVisitorHarborScene>
+  </DefaultContainerValues>
+</Property>

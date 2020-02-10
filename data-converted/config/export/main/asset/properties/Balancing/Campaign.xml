@@ -1,0 +1,19 @@
+<Property>
+  <Name>Campaign</Name>
+  <DefaultValues>
+    <CampaignSetupUnlocks>
+      <LockedAssets />
+      <UnlockedAssets />
+    </CampaignSetupUnlocks>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <CampaignSetupUnlocks>
+      <LockedAssets>
+        <Asset>0</Asset>
+      </LockedAssets>
+      <UnlockedAssets>
+        <Asset>0</Asset>
+      </UnlockedAssets>
+    </CampaignSetupUnlocks>
+  </DefaultContainerValues>
+</Property>

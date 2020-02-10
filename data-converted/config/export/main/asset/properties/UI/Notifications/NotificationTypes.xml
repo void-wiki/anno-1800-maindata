@@ -1,0 +1,59 @@
+<Property>
+  <Name>NotificationTypes</Name>
+  <DefaultValues>
+    <AttractivenessNotification />
+    <BaseNotification>
+      <NotificationText>0</NotificationText>
+      <NotificationBlockingTime>50000</NotificationBlockingTime>
+      <NotificationAudioAsset>0</NotificationAudioAsset>
+      <NotificationMinDisplayTime>5000</NotificationMinDisplayTime>
+      <NotificationGroup>None</NotificationGroup>
+      <DisplayTimeout>30000</DisplayTimeout>
+      <RestrictedToSessionOrRegions />
+    </BaseNotification>
+    <CampaignNotification>
+      <CampaignNotificationTitle>0</CampaignNotificationTitle>
+    </CampaignNotification>
+    <CharacterNotification>
+      <Profile>0</Profile>
+      <ThirdpartyNotificationButtons />
+      <NotificationTextFemale>0</NotificationTextFemale>
+    </CharacterNotification>
+    <MainNotification>
+      <Title>0</Title>
+      <NotificationMainIconAsset>0</NotificationMainIconAsset>
+      <NotificationMainCallbackType>None</NotificationMainCallbackType>
+      <NotificationMainDescription>0</NotificationMainDescription>
+      <Icon01>0</Icon01>
+      <Icon02>0</Icon02>
+      <Icon03>0</Icon03>
+      <Icon04>0</Icon04>
+    </MainNotification>
+    <NotificationSubtitle>
+      <Subtitle>0</Subtitle>
+    </NotificationSubtitle>
+    <OnScreenNotification />
+    <SideNotification>
+      <IconAsset>0</IconAsset>
+      <NotificationSideTitle>0</NotificationSideTitle>
+      <IsArchived>1</IsArchived>
+      <FilterType>None</FilterType>
+      <Infotip>0</Infotip>
+      <HasJumpLocation>1</HasJumpLocation>
+    </SideNotification>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <BaseNotification>
+      <RestrictedToSessionOrRegions>
+        <SessionOrRegion>0</SessionOrRegion>
+      </RestrictedToSessionOrRegions>
+    </BaseNotification>
+    <CharacterNotification>
+      <ThirdpartyNotificationButtons>
+        <Infotip>0</Infotip>
+        <Icon>0</Icon>
+        <ButtonSound>0</ButtonSound>
+      </ThirdpartyNotificationButtons>
+    </CharacterNotification>
+  </DefaultContainerValues>
+</Property>

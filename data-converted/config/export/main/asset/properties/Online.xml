@@ -1,0 +1,43 @@
+<Property>
+  <Name>Online</Name>
+  <DefaultValues>
+    <OnlineEvent>
+      <PhaseList />
+      <EventName>0</EventName>
+      <EventDescription>0</EventDescription>
+      <ItemRewards />
+      <Texts />
+      <EventSession>0</EventSession>
+    </OnlineEvent>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <OnlineEvent>
+      <PhaseList>
+        <ContainerValues>
+          <DailyQuestPool>
+            <DailyQuest>0</DailyQuest>
+          </DailyQuestPool>
+          <UnlockFeatureList>
+            <UnlockedAsset>0</UnlockedAsset>
+          </UnlockFeatureList>
+          <LockFeatureList>
+            <LockedFeature>0</LockedFeature>
+          </LockFeatureList>
+        </ContainerValues>
+        <DailyQuestPool />
+        <PhaseQuest>0</PhaseQuest>
+        <UnlockFeatureList />
+        <LockFeatureList />
+      </PhaseList>
+      <ItemRewards>
+        <Item>0</Item>
+      </ItemRewards>
+      <Texts>
+        <EventSuccessHeadline>0</EventSuccessHeadline>
+        <EventSuccessText>0</EventSuccessText>
+        <EventFailedHeadline>0</EventFailedHeadline>
+        <EventFailedText>0</EventFailedText>
+      </Texts>
+    </OnlineEvent>
+  </DefaultContainerValues>
+</Property>

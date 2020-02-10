@@ -1,0 +1,64 @@
+<Property>
+  <Name>Ratings</Name>
+  <DefaultValues>
+    <RatingAdjacentBlocks>
+      <BlockLayoutTypes />
+    </RatingAdjacentBlocks>
+    <RatingBlockRegularity />
+    <RatingBuildableWithinRadius>
+      <_ZeroTo>0.05</_ZeroTo>
+      <_OneFrom>0.9</_OneFrom>
+      <_DisableUpperBorders>1</_DisableUpperBorders>
+      <ValuesArePercentage>1</ValuesArePercentage>
+      <BuildableType>FromGrid</BuildableType>
+      <TakeManhattanRadius>1</TakeManhattanRadius>
+    </RatingBuildableWithinRadius>
+    <RatingCityBlockOverride />
+    <RatingCompactness />
+    <RatingDistance>
+      <DistanceTo>CityCenter</DistanceTo>
+      <Metric>Default_StaticAbsoluteValue</Metric>
+    </RatingDistance>
+    <RatingFragmentation />
+    <RatingHarborConnected />
+    <RatingHarborDefense />
+    <RatingHarborOffice />
+    <RatingHindersBlockExpansions />
+    <RatingInnerBlockingPercentage />
+    <RatingInsideTiles>
+      <StateCategories />
+    </RatingInsideTiles>
+    <RatingNearestBuilding>
+      <MaxDist>20</MaxDist>
+    </RatingNearestBuilding>
+    <RatingNeighborTiles>
+      <NeighborCategories />
+      <RequiredNeighborCategories />
+    </RatingNeighborTiles>
+    <RatingOverwrittenBlocks>
+      <OverwritesForFullMalus>3</OverwritesForFullMalus>
+      <IgnorePureOrnamental>1</IgnorePureOrnamental>
+    </RatingOverwrittenBlocks>
+    <RatingProductionChainProximity />
+    <RatingProvideBoosterCoverage>
+      <MinRequiredBoostedBuildings>1</MinRequiredBoostedBuildings>
+      <BestBoostedBuildingsCountClamp>20</BestBoostedBuildingsCountClamp>
+    </RatingProvideBoosterCoverage>
+    <RatingProvideLogisticCoverage>
+      <BestCoveredBuildingsAmountClamp_>4</BestCoveredBuildingsAmountClamp_>
+    </RatingProvideLogisticCoverage>
+    <RatingProvidePublicCoverage>
+      <RequiredCoveredBuildings>1</RequiredCoveredBuildings>
+    </RatingProvidePublicCoverage>
+    <RatingPublicOverlap />
+    <RatingStreetPointsToWarehouse />
+    <RatingStreetsOnEdgePercentage>
+      <CountEdgesInsteadOfTiles>1</CountEdgesInsteadOfTiles>
+      <DismissWeakStreets>1</DismissWeakStreets>
+    </RatingStreetsOnEdgePercentage>
+    <RatingSubRect>
+      <SubRect>Shippath</SubRect>
+      <PlacementScore>0</PlacementScore>
+    </RatingSubRect>
+  </DefaultValues>
+</Property>

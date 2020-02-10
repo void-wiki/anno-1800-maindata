@@ -1,0 +1,64 @@
+<Property>
+  <Name>MapGenerator</Name>
+  <DefaultValues>
+    <FertilitySet>
+      <Fertilities />
+    </FertilitySet>
+    <MapGeneratorInput>
+      <SessionSize>Small</SessionSize>
+      <SetIslandSizes>Small</SetIslandSizes>
+      <SetIslandDifficulty>Normal</SetIslandDifficulty>
+      <SetResourceAmount>Low</SetResourceAmount>
+      <SetFertilityAmount>Low</SetFertilityAmount>
+      <SetRegion>Meta</SetRegion>
+      <SetMapType>Random</SetMapType>
+      <SetSubRegion>PrimaryRegion</SetSubRegion>
+      <SetGameType>SandboxSingleplayer</SetGameType>
+    </MapGeneratorInput>
+    <MapTemplate>
+      <IslandSize />
+      <TemplateSize>Small</TemplateSize>
+      <FixedPreplacedParticipants />
+      <TemplateRegion>Meta</TemplateRegion>
+      <TemplateMapType>Random</TemplateMapType>
+      <TemplateSubRegion>PrimaryRegion</TemplateSubRegion>
+    </MapTemplate>
+    <MineSlotResourceSet>
+      <MineSlots />
+    </MineSlotResourceSet>
+    <RandomIsland>
+      <IslandRegion />
+      <IslandDifficulty />
+      <IslandType />
+      <ThirdPartyParticipant>Neutral</ThirdPartyParticipant>
+      <IslandSubRegion>PrimaryRegion;SecondaryRegion</IslandSubRegion>
+      <ForcedRotation>DontCare</ForcedRotation>
+      <AllowedGameType>SandboxSingleplayer;SandboxMultilayer;CampaignMode</AllowedGameType>
+    </RandomIsland>
+    <ResourceSetCondition>
+      <AllowedRegion />
+      <AllowedIslandType />
+      <AllowedIslandDifficulty />
+      <AllowedResourceAmounts />
+      <AllowedGameTypes>SandboxSingleplayer;SandboxMultilayer;CampaignMode</AllowedGameTypes>
+      <AllowedIslandSize>Small;Medium;Large</AllowedIslandSize>
+    </ResourceSetCondition>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <FertilitySet>
+      <Fertilities>
+        <Fertility>0</Fertility>
+      </Fertilities>
+    </FertilitySet>
+    <MapTemplate>
+      <FixedPreplacedParticipants>
+        <ParticipantID>Human0</ParticipantID>
+      </FixedPreplacedParticipants>
+    </MapTemplate>
+    <MineSlotResourceSet>
+      <MineSlots>
+        <MineSlot>0</MineSlot>
+      </MineSlots>
+    </MineSlotResourceSet>
+  </DefaultContainerValues>
+</Property>

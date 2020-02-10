@@ -1,0 +1,33 @@
+<Property>
+  <Name>Notifications</Name>
+  <DefaultValues>
+    <Notification>
+      <NotificationType>
+        <Template>CampaignNotification</Template>
+        <Values>
+          <BaseNotification />
+          <CampaignNotification />
+        </Values>
+      </NotificationType>
+    </Notification>
+    <NotificationConfiguration>
+      <NotificationTypeArray />
+      <SideNotificationCategories />
+      <NotificationBlockingScenes />
+      <SideNotificationFilter />
+    </NotificationConfiguration>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <NotificationConfiguration>
+      <SideNotificationCategories>
+        <MaxEntries>20</MaxEntries>
+      </SideNotificationCategories>
+      <SideNotificationFilter>
+        <Icon>0</Icon>
+        <Text>0</Text>
+        <Category>General</Category>
+        <DLCDependency>0</DLCDependency>
+      </SideNotificationFilter>
+    </NotificationConfiguration>
+  </DefaultContainerValues>
+</Property>

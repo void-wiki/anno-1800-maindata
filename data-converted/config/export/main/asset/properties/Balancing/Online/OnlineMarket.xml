@@ -1,0 +1,21 @@
+<Property>
+  <Name>OnlineMarket</Name>
+  <DefaultValues>
+    <OnlineMarketBalancing>
+      <RarityDistribution />
+      <UnlockProgressLevel />
+      <ItemPool />
+    </OnlineMarketBalancing>
+    <OnlineMarketVisual>
+      <TransportShip>0</TransportShip>
+      <AutoBuyParty>0</AutoBuyParty>
+    </OnlineMarketVisual>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <OnlineMarketBalancing>
+      <ItemPool>
+        <Item>0</Item>
+      </ItemPool>
+    </OnlineMarketBalancing>
+  </DefaultContainerValues>
+</Property>

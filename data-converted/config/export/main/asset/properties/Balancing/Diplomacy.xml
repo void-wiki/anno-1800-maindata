@@ -1,0 +1,47 @@
+<Property>
+  <Name>Diplomacy</Name>
+  <DefaultValues>
+    <CharacterInteractionConfig>
+      <BuildBuildingWhitelist />
+      <UpgradeBuildingWhitelist />
+    </CharacterInteractionConfig>
+    <DiplomacyConfig>
+      <Basic />
+      <Debuffs />
+      <CeaseFire />
+      <ActionWithoutConfirmation />
+      <ActionThreats />
+      <NonAttack />
+      <CooldownAfterAction />
+    </DiplomacyConfig>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <CharacterInteractionConfig>
+      <BuildBuildingWhitelist>
+        <Building>0</Building>
+      </BuildBuildingWhitelist>
+      <UpgradeBuildingWhitelist>
+        <Building>0</Building>
+      </UpgradeBuildingWhitelist>
+    </CharacterInteractionConfig>
+    <DiplomacyConfig>
+      <Debuffs>
+        <ContainerValues>
+          <ActionDebuffs>
+            <AssociatedDebuff>Disabled</AssociatedDebuff>
+          </ActionDebuffs>
+        </ContainerValues>
+        <ActionDebuffs />
+      </Debuffs>
+      <CeaseFire>
+        <TimeLength />
+      </CeaseFire>
+      <NonAttack>
+        <TimeLength />
+      </NonAttack>
+      <CooldownAfterAction>
+        <Cooldown>10000</Cooldown>
+      </CooldownAfterAction>
+    </DiplomacyConfig>
+  </DefaultContainerValues>
+</Property>

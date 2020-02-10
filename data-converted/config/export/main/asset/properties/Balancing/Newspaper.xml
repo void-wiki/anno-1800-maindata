@@ -1,0 +1,91 @@
+<Property>
+  <Name>Newspaper</Name>
+  <DefaultValues>
+    <NewsArticleList>
+      <ShipBoughtArticle>0</ShipBoughtArticle>
+      <ShipSoldArticle>0</ShipSoldArticle>
+      <OwnsBestVisitorIsland>0</OwnsBestVisitorIsland>
+      <FirstVisitor>0</FirstVisitor>
+      <VisitorsSurgeIn>0</VisitorsSurgeIn>
+      <VisitorsDeclineIn>0</VisitorsDeclineIn>
+      <SpecialVisitor>0</SpecialVisitor>
+      <ExpeditionStarted>0</ExpeditionStarted>
+      <ExpeditionSuccess>0</ExpeditionSuccess>
+      <ExpeditionFailure>0</ExpeditionFailure>
+      <VictoryLoseBankruptcy>0</VictoryLoseBankruptcy>
+      <VictoryLoseAnnihilation>0</VictoryLoseAnnihilation>
+      <HostileTakeoverFinishedByPlayer>0</HostileTakeoverFinishedByPlayer>
+      <HostileTakeoverFinishedByNpc>0</HostileTakeoverFinishedByNpc>
+    </NewsArticleList>
+    <NewspaperArticle>
+      <Headline>0</Headline>
+      <Subline>0</Subline>
+      <Image>0</Image>
+      <Category>None</Category>
+      <NewsPriority />
+      <ArticleType>Gameplay</ArticleType>
+      <ArticleEffect>None</ArticleEffect>
+      <ArticleEffects />
+      <EffectStrength>Light</EffectStrength>
+      <Rating>Good</Rating>
+      <ArticleName>0</ArticleName>
+      <SpecialEditorMessage>0</SpecialEditorMessage>
+    </NewspaperArticle>
+    <NewspaperBalancing>
+      <ShowNewspaperIcon>0</ShowNewspaperIcon>
+      <PublishNewspaperIcon>0</PublishNewspaperIcon>
+      <NewspaperArchiveIcon>0</NewspaperArchiveIcon>
+      <ArchiveButtonInfotip>0</ArchiveButtonInfotip>
+      <ShowNewspaperInfotip>0</ShowNewspaperInfotip>
+      <PublishNewspaperInfotip>0</PublishNewspaperInfotip>
+      <NewspaperCategoryInfotip>0</NewspaperCategoryInfotip>
+      <ExcludingNews />
+      <CategoryDebuffs />
+      <PropagandaEffects />
+      <NewspaperDefaultName>0</NewspaperDefaultName>
+      <NewspaperNotificationText>0</NewspaperNotificationText>
+      <PropagandaStrengthScore />
+      <WarPreparationEffectFactories />
+      <ArticleUnlockedNotification>0</ArticleUnlockedNotification>
+      <ActiveInRegion />
+    </NewspaperBalancing>
+    <NewspaperImage>
+      <Size />
+    </NewspaperImage>
+    <NewspaperSpecialEditionArticle>
+      <SpecialEditionHeadline>0</SpecialEditionHeadline>
+      <SpecialEditionSubline>0</SpecialEditionSubline>
+      <SpecialEditionImage>0</SpecialEditionImage>
+    </NewspaperSpecialEditionArticle>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <NewspaperArticle>
+      <ArticleEffects>
+        <ContainerValues>
+          <ContextGuids>
+            <Context>0</Context>
+          </ContextGuids>
+        </ContainerValues>
+        <ArticleEffect>None</ArticleEffect>
+        <ContextGuids />
+      </ArticleEffects>
+    </NewspaperArticle>
+    <NewspaperBalancing>
+      <ExcludingNews>
+        <ContainerValues>
+          <Group>
+            <Article>0</Article>
+          </Group>
+        </ContainerValues>
+        <Group />
+      </ExcludingNews>
+      <PropagandaEffects>
+        <PopulationLevel>0</PopulationLevel>
+        <PropandaSteps />
+      </PropagandaEffects>
+      <WarPreparationEffectFactories>
+        <Factory>0</Factory>
+      </WarPreparationEffectFactories>
+    </NewspaperBalancing>
+  </DefaultContainerValues>
+</Property>

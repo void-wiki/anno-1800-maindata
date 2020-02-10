@@ -1,0 +1,73 @@
+<Property>
+  <Name>ConstructionMenu</Name>
+  <DefaultValues>
+    <ConstructionMenu>
+      <RegionMenu />
+      <BuildButtonInfotip>0</BuildButtonInfotip>
+      <ProductionChainButtonInfotip>0</ProductionChainButtonInfotip>
+      <SubCategoryInfotip>0</SubCategoryInfotip>
+      <ActionButtonDescriptions />
+      <DragAndDropHint>0</DragAndDropHint>
+      <PinButtonRegions />
+      <EmptyPinInfotip>0</EmptyPinInfotip>
+    </ConstructionMenu>
+    <ShipListConfig>
+      <ShipCategories />
+      <PinButtonInfotip>0</PinButtonInfotip>
+    </ShipListConfig>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ConstructionMenu>
+      <RegionMenu>
+        <ContainerValues>
+          <CategoryMode>
+            <ContainerValues>
+              <Categories>
+                <Category>0</Category>
+              </Categories>
+            </ContainerValues>
+            <Categories />
+          </CategoryMode>
+        </ContainerValues>
+        <CategoryMode />
+      </RegionMenu>
+      <ActionButtonDescriptions>
+        <ContainerValues>
+          <List>
+            <Action>0</Action>
+            <Description>0</Description>
+          </List>
+        </ContainerValues>
+        <List />
+      </ActionButtonDescriptions>
+      <PinButtonRegions>
+        <ContainerValues>
+          <PinButtonListLeft>
+            <Config>
+              <Template>CustomizableButtonConfig</Template>
+              <Values>
+                <CustomizableButtonConfig />
+              </Values>
+            </Config>
+          </PinButtonListLeft>
+          <PinButtonListRight>
+            <Config>
+              <Template>CustomizableButtonConfig</Template>
+              <Values>
+                <CustomizableButtonConfig />
+              </Values>
+            </Config>
+          </PinButtonListRight>
+        </ContainerValues>
+        <PinButtonListLeft />
+        <PinButtonListRight />
+      </PinButtonRegions>
+    </ConstructionMenu>
+    <ShipListConfig>
+      <ShipCategories>
+        <Text>0</Text>
+        <Icon>0</Icon>
+      </ShipCategories>
+    </ShipListConfig>
+  </DefaultContainerValues>
+</Property>

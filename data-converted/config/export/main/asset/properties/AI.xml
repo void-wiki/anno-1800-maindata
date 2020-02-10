@@ -1,0 +1,42 @@
+<Property>
+  <Name>AI</Name>
+  <DefaultValues>
+    <GlobalConstructionAIBalancing>
+      <PlacementScoreTypes />
+      <SettledIslandNotification>501729</SettledIslandNotification>
+      <BuildingRotationOffset />
+      <RegionStreets />
+    </GlobalConstructionAIBalancing>
+    <PlacementScore>
+      <SubScores />
+    </PlacementScore>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <GlobalConstructionAIBalancing>
+      <PlacementScoreTypes>
+        <PlacementScore>0</PlacementScore>
+      </PlacementScoreTypes>
+      <BuildingRotationOffset>
+        <Building>0</Building>
+        <Offset>_0</Offset>
+      </BuildingRotationOffset>
+      <RegionStreets>
+        <StreetNormal>0</StreetNormal>
+        <StreetFast>0</StreetFast>
+        <Quay>0</Quay>
+      </RegionStreets>
+    </GlobalConstructionAIBalancing>
+    <PlacementScore>
+      <SubScores>
+        <Rating>
+          <Template>RatingAdjacentBlocks</Template>
+          <Values>
+            <RatingAdjacentBlocks />
+          </Values>
+        </Rating>
+        <RelativeWeight>1</RelativeWeight>
+        <DiscardThresholdScore>-1</DiscardThresholdScore>
+      </SubScores>
+    </PlacementScore>
+  </DefaultContainerValues>
+</Property>

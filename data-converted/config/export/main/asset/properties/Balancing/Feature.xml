@@ -1,0 +1,609 @@
+<Property>
+  <Name>Feature</Name>
+  <DefaultValues>
+    <ActiveTradeFeature />
+    <BlacklistFeature />
+    <ConstructionAIFeature>
+      <SettlementPermission />
+    </ConstructionAIFeature>
+    <CoopFeature>
+      <LocalPingMarkerAsset>0</LocalPingMarkerAsset>
+      <PingMarkerAsset>0</PingMarkerAsset>
+      <CoopMarker2DSound>0</CoopMarker2DSound>
+      <LocalCoopMarker3DSound>0</LocalCoopMarker3DSound>
+    </CoopFeature>
+    <DayNightFeature>
+      <FixTimes />
+      <NightTimespans>
+        <BeginSunrise>2.4</BeginSunrise>
+        <EndSunrise>7.2</EndSunrise>
+        <BeginSunset>16.8</BeginSunset>
+        <EndSunset>21.6</EndSunset>
+      </NightTimespans>
+      <SunriseBackground>0</SunriseBackground>
+      <DayBackground>0</DayBackground>
+      <SunsetBackground>0</SunsetBackground>
+      <NightBackground>0</NightBackground>
+      <GameDaytimeToRendererDaytimeMapInfo />
+    </DayNightFeature>
+    <DiscoveryFeature>
+      <DiscoveredSessions />
+      <EmptyIslandDiscoveredNotification>0</EmptyIslandDiscoveredNotification>
+      <FogOfWarDiscoverRadius>20</FogOfWarDiscoverRadius>
+    </DiscoveryFeature>
+    <EconomyStatisticFeature />
+    <ElectricityFeature>
+      <ElectricWire1>0</ElectricWire1>
+      <ElectricWire2>0</ElectricWire2>
+      <ElectricWire3>0</ElectricWire3>
+      <ElectricWire4>0</ElectricWire4>
+      <ElectricWire5>0</ElectricWire5>
+      <ElectricPoleStraight>0</ElectricPoleStraight>
+      <ElectricPoleCrossing>0</ElectricPoleCrossing>
+      <ElectricPoleCorner>0</ElectricPoleCorner>
+      <ElectricPoleTCross>0</ElectricPoleTCross>
+      <ElectricPoleRailway>0</ElectricPoleRailway>
+    </ElectricityFeature>
+    <GameSpeedFeature>
+      <NormalSpeedIcon>0</NormalSpeedIcon>
+      <FastSpeedIcon>0</FastSpeedIcon>
+      <SlowSpeedIcon>0</SlowSpeedIcon>
+      <PausedIcon>0</PausedIcon>
+      <RunningIcon>0</RunningIcon>
+      <PauseResumeButtonInfotip>0</PauseResumeButtonInfotip>
+      <SpeedButtonInfotip>0</SpeedButtonInfotip>
+    </GameSpeedFeature>
+    <HappinessFeature>
+      <States />
+      <Pollution />
+      <Warfare />
+    </HappinessFeature>
+    <HarborPropFeature>
+      <HarborPropAssetList />
+    </HarborPropFeature>
+    <HardFarmsFeature>
+      <HardFarmsEnabled>1</HardFarmsEnabled>
+      <HardFarmParams />
+    </HardFarmsFeature>
+    <HeatFeature>
+      <HeatPipeStraight>0</HeatPipeStraight>
+      <HeatPipeCrossing>0</HeatPipeCrossing>
+      <HeatPipeCorner>0</HeatPipeCorner>
+      <HeatPipeTCross>0</HeatPipeTCross>
+      <HeatPipeSingleEnded>0</HeatPipeSingleEnded>
+      <HeatPipeSinglePiece>0</HeatPipeSinglePiece>
+      <HeatPipeLongPiece>0</HeatPipeLongPiece>
+      <HeatStates />
+      <HeatPipeEffects />
+      <MenuAmbientSwitchGroup>0</MenuAmbientSwitchGroup>
+      <FactoryNoHeatAmbientSwitch>0</FactoryNoHeatAmbientSwitch>
+      <FactoryHeatedAmbientSwitch>0</FactoryHeatedAmbientSwitch>
+      <MenuAmbientSwitchDefault>0</MenuAmbientSwitchDefault>
+    </HeatFeature>
+    <HostileTakeoverFeature>
+      <MaxAmountOfShares>5</MaxAmountOfShares>
+      <OtherPlayerBuysShareFromYou>0</OtherPlayerBuysShareFromYou>
+      <OtherPlayerBuysShareFromOtherPlayer>0</OtherPlayerBuysShareFromOtherPlayer>
+      <PlayerBuysShareFromOtherPlayer>0</PlayerBuysShareFromOtherPlayer>
+      <OtherPlayerCanStartHostileTakeoverOnYourIsland>0</OtherPlayerCanStartHostileTakeoverOnYourIsland>
+      <OtherPlayerCanStartHostileTakeoverOnOtherIsland>0</OtherPlayerCanStartHostileTakeoverOnOtherIsland>
+      <PlayerCanStartHostileTakeoverOnOtherIsland>0</PlayerCanStartHostileTakeoverOnOtherIsland>
+      <OtherPlayerTakeoverIslandFromYou>0</OtherPlayerTakeoverIslandFromYou>
+      <OtherPlayerTakeoverIslandFromOtherPlayer>0</OtherPlayerTakeoverIslandFromOtherPlayer>
+      <PlayerTakeoverIslandFromOtherPlayer>0</PlayerTakeoverIslandFromOtherPlayer>
+      <OtherPlayerSellShare>0</OtherPlayerSellShare>
+      <PlayerSellShare>0</PlayerSellShare>
+    </HostileTakeoverFeature>
+    <InfluenceFeature>
+      <InfluenceConfig />
+      <InfluenceCategories />
+    </InfluenceFeature>
+    <KontorFeature />
+    <MilitaryFeature>
+      <AttackEfficiency />
+      <TakeOverDestroyBuildingText>13015</TakeOverDestroyBuildingText>
+      <TakeOverTierTable>
+        <Tier01>
+          <MaxMorale>50</MaxMorale>
+        </Tier01>
+        <Tier02>
+          <MaxMorale>100</MaxMorale>
+        </Tier02>
+        <Tier03>
+          <MaxMorale>150</MaxMorale>
+        </Tier03>
+        <Tier04>
+          <MaxMorale>1000</MaxMorale>
+        </Tier04>
+      </TakeOverTierTable>
+      <TakeOverBannerFlashFast>0.1</TakeOverBannerFlashFast>
+      <TakeOverBannerFlashSlow>1</TakeOverBannerFlashSlow>
+      <TakeOverNotification_Start_IslandOwner>0</TakeOverNotification_Start_IslandOwner>
+      <TakeOverNotification_Start_InnocentBystander>0</TakeOverNotification_Start_InnocentBystander>
+      <TakeOverNotification_Defended_InnocentBystander>0</TakeOverNotification_Defended_InnocentBystander>
+      <TakeOverNotification_Surrendered_IslandOwner>0</TakeOverNotification_Surrendered_IslandOwner>
+      <TakeOverNotification_Surrendered_InnocentBystander>0</TakeOverNotification_Surrendered_InnocentBystander>
+      <TakeOverNotification_MoraleLow_IslandOwner>0</TakeOverNotification_MoraleLow_IslandOwner>
+      <TakeOverNotification_MoraleLow_Attacker>0</TakeOverNotification_MoraleLow_Attacker>
+      <TakeOverNotification_TimerRunsOutOnAttackedIsland_Attacker>0</TakeOverNotification_TimerRunsOutOnAttackedIsland_Attacker>
+      <HealthbarScale>0.7</HealthbarScale>
+      <TakeoverCooldown>60000</TakeoverCooldown>
+      <HealthbarMinDistance>10</HealthbarMinDistance>
+      <HealthbarMaxDistance>100</HealthbarMaxDistance>
+      <HealthbarMinSize>1</HealthbarMinSize>
+      <HealthbarMaxSize>0.5</HealthbarMaxSize>
+      <HealthbarMinHeight>1</HealthbarMinHeight>
+      <HealthbarMaxHeight>0.5</HealthbarMaxHeight>
+      <HealthbarOwnColor>-13243129</HealthbarOwnColor>
+      <HealthbarEnemyColor>-1371936</HealthbarEnemyColor>
+      <ShowDamageFlyouts>OwnHeal;OwnDamage;EnemyDamage</ShowDamageFlyouts>
+      <TakeoverStartWarThreshold>0.05</TakeoverStartWarThreshold>
+    </MilitaryFeature>
+    <MovementFeature>
+      <WaypointMarkers>
+        <Airship>
+          <OffsetAboveWater>1</OffsetAboveWater>
+          <OffsetAboveLand>2</OffsetAboveLand>
+          <OffsetAboveBuildings>0.1</OffsetAboveBuildings>
+        </Airship>
+        <CfgWaterMarker>data/graphics/ui/3d_objects/pointer_ground/pointer_ground.cfg</CfgWaterMarker>
+        <CfgAirMarker>data/dlc03/graphics/props/waypoint_markers/zeppelin_waypoint_marker/zeppelin_waypoint_marker_01.cfg</CfgAirMarker>
+      </WaypointMarkers>
+    </MovementFeature>
+    <ParticipantRepresentationFeature>
+      <CompanyLevel />
+      <ParticipantColors />
+    </ParticipantRepresentationFeature>
+    <PassiveTradeFeature>
+      <PriceFactors />
+    </PassiveTradeFeature>
+    <PlayerCounterConfig>
+      <CounterConfig />
+    </PlayerCounterConfig>
+    <RailwayFeature>
+      <RestartRouteUpperThreshold>50</RestartRouteUpperThreshold>
+      <RestartRouteLowerThreshold>50</RestartRouteLowerThreshold>
+      <BlockedPathHighlight>
+        <Enabled>1</Enabled>
+        <Color>-1594716904</Color>
+      </BlockedPathHighlight>
+    </RailwayFeature>
+    <RealWindFeature>
+      <RealWindEnabled>1</RealWindEnabled>
+    </RealWindFeature>
+    <SelectionFeature />
+    <SessionTransferFeature>
+      <ShipEnteredSessionNotification>0</ShipEnteredSessionNotification>
+    </SessionTransferFeature>
+    <SettlementRights>
+      <ReservationFlag>1000220</ReservationFlag>
+      <SettlementItems />
+    </SettlementRights>
+    <StreetFeature>
+      <OverbuildableBy>
+        <Default />
+        <BadStreet>
+          <GoodStreet>1</GoodStreet>
+          <Railcrossing>1</Railcrossing>
+        </BadStreet>
+        <GoodStreet>
+          <Railcrossing>1</Railcrossing>
+        </GoodStreet>
+        <Rail>
+          <Railcrossing>1</Railcrossing>
+        </Rail>
+        <Railcrossing />
+        <Harbour />
+        <Visual />
+      </OverbuildableBy>
+    </StreetFeature>
+    <StreetOverlayFeature>
+      <DirectDeliveryColors />
+      <CostColorGradient />
+      <FactorySelection>
+        <PotentialConsumerHighlight>
+          <Enabled>1</Enabled>
+        </PotentialConsumerHighlight>
+        <PotentialProducerHighlight>
+          <Enabled>1</Enabled>
+        </PotentialProducerHighlight>
+        <PotentialWarehouseHighlight>
+          <Enabled>1</Enabled>
+        </PotentialWarehouseHighlight>
+        <AssignedConsumerHighlight>
+          <Enabled>1</Enabled>
+          <PathEnabled>1</PathEnabled>
+        </AssignedConsumerHighlight>
+        <CurrentTargetHighlight>
+          <Enabled>1</Enabled>
+          <PathEnabled>1</PathEnabled>
+          <PathTexture>data/graphics/ui/region_view/traderoute.png</PathTexture>
+          <PathThickness>0.2</PathThickness>
+          <PathTiling>0.5</PathTiling>
+          <PathScrollSpeed>0.2</PathScrollSpeed>
+          <PathGlow>4</PathGlow>
+        </CurrentTargetHighlight>
+        <RangeHighlight>
+          <Enabled>1</Enabled>
+        </RangeHighlight>
+      </FactorySelection>
+      <RadiusBuildings>
+        <PotentialAffectedHighlight>
+          <Enabled>1</Enabled>
+        </PotentialAffectedHighlight>
+        <ActualAffectedHighlight>
+          <Enabled>1</Enabled>
+        </ActualAffectedHighlight>
+      </RadiusBuildings>
+    </StreetOverlayFeature>
+    <TourismFeature>
+      <CitySize />
+      <CityStati />
+      <AttractivenessPerRuin>-1</AttractivenessPerRuin>
+      <VisitorDecreaseRate>4</VisitorDecreaseRate>
+      <VisitFactor>1</VisitFactor>
+      <VisitorBalanceFactor>1</VisitorBalanceFactor>
+      <VisitorTiers />
+      <IntervalDuration>30000</IntervalDuration>
+      <MinUnloadingTime>15000</MinUnloadingTime>
+      <NotificationTouristDeltaPercentage>10</NotificationTouristDeltaPercentage>
+      <SignificantVisitorIncreaseNotification>0</SignificantVisitorIncreaseNotification>
+      <SignificantVisitorDecreaseNotification>0</SignificantVisitorDecreaseNotification>
+      <MinVisitorAmountForHighestVisitorIslandArticle>20</MinVisitorAmountForHighestVisitorIslandArticle>
+      <SpecialistSpawnProbability />
+      <RegionSpecialistPools />
+      <SpecialistNotification>0</SpecialistNotification>
+      <FirstIslandShipArrivalNotification>0</FirstIslandShipArrivalNotification>
+      <VisitorHarborMissingNotification>0</VisitorHarborMissingNotification>
+      <VisitorHarborDestructionGracePeriod>150000</VisitorHarborDestructionGracePeriod>
+      <MaxVisitorDeltaPerSecondFactor>0.04</MaxVisitorDeltaPerSecondFactor>
+      <MaxVisitorMinDeltaPerSecond>1</MaxVisitorMinDeltaPerSecond>
+      <AttractivenessNameMapping />
+      <SpecialistAsset>0</SpecialistAsset>
+      <NegativeVisitorPlayerAction>0</NegativeVisitorPlayerAction>
+      <FirstVisitorHarborInGame>0</FirstVisitorHarborInGame>
+      <NegativeVisitorPlayerActionDeltaPercentage>5</NegativeVisitorPlayerActionDeltaPercentage>
+      <PrognoseTimeBeforeIntervalEnd>120000</PrognoseTimeBeforeIntervalEnd>
+      <UnlockableSpecialistPools />
+      <SpecialistPoolsThroughSets />
+    </TourismFeature>
+    <TrackingFeature>
+      <Tracking>
+        <ProgressionEvents>
+          <CORPORATION_LEVEL>
+            <WithoutCorpporationLevel>1</WithoutCorpporationLevel>
+          </CORPORATION_LEVEL>
+        </ProgressionEvents>
+      </Tracking>
+    </TrackingFeature>
+    <TradeRouteFeature>
+      <EnqueueDistance>80</EnqueueDistance>
+      <ShipToRent>0</ShipToRent>
+      <TransportationTypes />
+      <SessionLines />
+      <HarborQueueDataPerLayer>
+        <Air>
+          <QueueToConstructionAreaDistance>15</QueueToConstructionAreaDistance>
+          <MinEllipsisWidth>35</MinEllipsisWidth>
+          <EllipsisAngle>60</EllipsisAngle>
+          <DistanceBetweenWaitingRows>10</DistanceBetweenWaitingRows>
+        </Air>
+        <Animal>
+          <QueueToConstructionAreaDistance>15</QueueToConstructionAreaDistance>
+          <MinEllipsisWidth>35</MinEllipsisWidth>
+          <EllipsisAngle>60</EllipsisAngle>
+          <DistanceBetweenWaitingRows>10</DistanceBetweenWaitingRows>
+        </Animal>
+        <Feedback>
+          <QueueToConstructionAreaDistance>15</QueueToConstructionAreaDistance>
+          <MinEllipsisWidth>35</MinEllipsisWidth>
+          <EllipsisAngle>60</EllipsisAngle>
+          <DistanceBetweenWaitingRows>10</DistanceBetweenWaitingRows>
+        </Feedback>
+        <Land>
+          <QueueToConstructionAreaDistance>15</QueueToConstructionAreaDistance>
+          <MinEllipsisWidth>35</MinEllipsisWidth>
+          <EllipsisAngle>60</EllipsisAngle>
+          <DistanceBetweenWaitingRows>10</DistanceBetweenWaitingRows>
+        </Land>
+        <Railway>
+          <QueueToConstructionAreaDistance>15</QueueToConstructionAreaDistance>
+          <MinEllipsisWidth>35</MinEllipsisWidth>
+          <EllipsisAngle>60</EllipsisAngle>
+          <DistanceBetweenWaitingRows>10</DistanceBetweenWaitingRows>
+        </Railway>
+        <Street>
+          <QueueToConstructionAreaDistance>15</QueueToConstructionAreaDistance>
+          <MinEllipsisWidth>35</MinEllipsisWidth>
+          <EllipsisAngle>60</EllipsisAngle>
+          <DistanceBetweenWaitingRows>10</DistanceBetweenWaitingRows>
+        </Street>
+        <Water>
+          <QueueToConstructionAreaDistance>15</QueueToConstructionAreaDistance>
+          <MinEllipsisWidth>35</MinEllipsisWidth>
+          <EllipsisAngle>60</EllipsisAngle>
+          <DistanceBetweenWaitingRows>10</DistanceBetweenWaitingRows>
+        </Water>
+      </HarborQueueDataPerLayer>
+      <Warnings />
+      <TradeRouteNotification>0</TradeRouteNotification>
+      <TradeRouteWarning>0</TradeRouteWarning>
+    </TradeRouteFeature>
+    <WaterFertilizer>
+      <WaterLevels />
+      <WaterSpreading />
+      <WaterTiles />
+    </WaterFertilizer>
+    <WeatherFeature>
+      <WeatherPresets />
+    </WeatherFeature>
+    <WinLoseFeature>
+      <Bankruptcy />
+      <Regicide />
+      <Monuments />
+      <Investors />
+      <CampaignCondition />
+      <Annhilation />
+      <ParticipantLostByAnnihilationNotification>0</ParticipantLostByAnnihilationNotification>
+      <ParticipantLostByBankruptcyNotification>0</ParticipantLostByBankruptcyNotification>
+    </WinLoseFeature>
+    <WorkforceTransferFeature>
+      <WorkforceTransferFeedbackShip>100432</WorkforceTransferFeedbackShip>
+      <AllowReverseFeedback>1</AllowReverseFeedback>
+      <RoughFeedbackShipDistance>90</RoughFeedbackShipDistance>
+      <UnloadTime>5000</UnloadTime>
+      <TransferInterruptedNotification>0</TransferInterruptedNotification>
+    </WorkforceTransferFeature>
+    <WorldMarketFeature>
+      <NewsTicker />
+    </WorldMarketFeature>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ConstructionAIFeature>
+      <SettlementPermission>
+        <IconAccept>500109</IconAccept>
+        <IconDecline>500108</IconDecline>
+        <InfoTipAccept>0</InfoTipAccept>
+        <InfoTipDecline>0</InfoTipDecline>
+      </SettlementPermission>
+    </ConstructionAIFeature>
+    <DayNightFeature>
+      <FixTimes>
+        <Icon>0</Icon>
+      </FixTimes>
+    </DayNightFeature>
+    <DiscoveryFeature>
+      <DiscoveredSessions>
+        <Session>0</Session>
+      </DiscoveredSessions>
+    </DiscoveryFeature>
+    <HarborPropFeature>
+      <HarborPropAssetList>
+        <HarborPropAsset>0</HarborPropAsset>
+      </HarborPropAssetList>
+    </HarborPropFeature>
+    <HardFarmsFeature>
+      <HardFarmParams>
+        <Config />
+      </HardFarmParams>
+    </HardFarmsFeature>
+    <HeatFeature>
+      <HeatStates>
+        <PaMSyContext>0</PaMSyContext>
+        <AmbientSoundSwitch>0</AmbientSoundSwitch>
+      </HeatStates>
+    </HeatFeature>
+    <InfluenceFeature>
+      <InfluenceConfig>
+        <SubCategoryName>0</SubCategoryName>
+        <SubCategoryInfotip>0</SubCategoryInfotip>
+      </InfluenceConfig>
+      <InfluenceCategories>
+        <ContainerValues>
+          <UsageTypes>
+            <Type>None</Type>
+          </UsageTypes>
+          <CategoryBuffs>
+            <Buff>0</Buff>
+          </CategoryBuffs>
+        </ContainerValues>
+        <CategoryName>0</CategoryName>
+        <UsageTypes />
+        <CategoryBuffs />
+      </InfluenceCategories>
+    </InfluenceFeature>
+    <MilitaryFeature>
+      <AttackEfficiency>
+        <TargetArmor />
+      </AttackEfficiency>
+    </MilitaryFeature>
+    <MovementFeature>
+      <WaypointMarkers>
+        <Airship />
+      </WaypointMarkers>
+    </MovementFeature>
+    <PlayerCounterConfig>
+      <CounterConfig>
+        <ContainerValues>
+          <PlayerCounter>
+            <Scope />
+            <ValueType />
+          </PlayerCounter>
+          <FunFactsCounter>
+            <ContainerValues>
+              <FilterResults>
+                <ContainerValues>
+                  <IgnoreContexts>
+                    <Asset>0</Asset>
+                  </IgnoreContexts>
+                  <IgnoreScopeContexts>
+                    <Asset>0</Asset>
+                  </IgnoreScopeContexts>
+                </ContainerValues>
+                <IgnoreContexts />
+                <IgnoreScopeContexts />
+                <IgnoreValueRanges />
+              </FilterResults>
+            </ContainerValues>
+            <Text>0</Text>
+            <Scope />
+            <ValueType />
+            <PlayerCounter>ObjectBuilt</PlayerCounter>
+            <FilterResults />
+          </FunFactsCounter>
+        </ContainerValues>
+        <PlayerCounter />
+        <FunFactsCounter />
+      </CounterConfig>
+    </PlayerCounterConfig>
+    <SettlementRights>
+      <SettlementItems>
+        <Item>0</Item>
+      </SettlementItems>
+    </SettlementRights>
+    <StreetOverlayFeature>
+      <DirectDeliveryColors>
+        <DynamicRangeColors />
+      </DirectDeliveryColors>
+      <FactorySelection>
+        <PotentialConsumerHighlight />
+        <PotentialProducerHighlight />
+        <PotentialWarehouseHighlight />
+        <AssignedConsumerHighlight />
+        <CurrentTargetHighlight />
+        <RangeHighlight />
+        <RangeHighlightWhileBuilding />
+      </FactorySelection>
+      <RadiusBuildings>
+        <PotentialAffectedHighlight />
+        <ActualAffectedHighlight />
+      </RadiusBuildings>
+    </StreetOverlayFeature>
+    <TourismFeature>
+      <CitySize>
+        <PopulationLevel>0</PopulationLevel>
+      </CitySize>
+      <CityStati>
+        <ContainerValues>
+          <CitySize>
+            <CityStatus>0</CityStatus>
+          </CitySize>
+        </ContainerValues>
+        <CityStatusFluff>0</CityStatusFluff>
+        <CitySize />
+      </CityStati>
+      <VisitorTiers>
+        <VisitorShip>0</VisitorShip>
+      </VisitorTiers>
+      <RegionSpecialistPools>
+        <ContainerValues>
+          <SpecialistPools>
+            <Pool>0</Pool>
+          </SpecialistPools>
+        </ContainerValues>
+        <SpecialistPools />
+      </RegionSpecialistPools>
+      <AttractivenessNameMapping>
+        <Name>0</Name>
+      </AttractivenessNameMapping>
+      <UnlockableSpecialistPools>
+        <ContainerValues>
+          <UnlockablePools>
+            <Pool>0</Pool>
+            <UnlockingSpecialist>0</UnlockingSpecialist>
+          </UnlockablePools>
+        </ContainerValues>
+        <SocketOwnerGUID>0</SocketOwnerGUID>
+        <UnlockablePools />
+      </UnlockableSpecialistPools>
+      <SpecialistPoolsThroughSets>
+        <Pool>0</Pool>
+        <UnlockingSetBuff>0</UnlockingSetBuff>
+      </SpecialistPoolsThroughSets>
+    </TourismFeature>
+    <TrackingFeature>
+      <Tracking>
+        <ProgressionEvents />
+      </Tracking>
+    </TrackingFeature>
+    <TradeRouteFeature>
+      <TransportationTypes>
+        <ContainerValues>
+          <RestrictedGood>
+            <Good>0</Good>
+          </RestrictedGood>
+          <ExcludingGoods>
+            <Good>0</Good>
+          </ExcludingGoods>
+        </ContainerValues>
+        <RestrictedGood />
+        <ExcludingGoods />
+        <Unlock>0</Unlock>
+      </TransportationTypes>
+      <Warnings>
+        <WarningType>None</WarningType>
+      </Warnings>
+    </TradeRouteFeature>
+    <WaterFertilizer>
+      <WaterLevels>
+        <ContainerValues>
+          <WaterLevelDefinitions>
+            <WaterLevelType>None</WaterLevelType>
+          </WaterLevelDefinitions>
+        </ContainerValues>
+        <DefaultWaterLevel>None</DefaultWaterLevel>
+        <WaterLevelDefinitions />
+      </WaterLevels>
+      <WaterSpreading>
+        <WaterSpreadRule>MaxAbsDist</WaterSpreadRule>
+      </WaterSpreading>
+      <WaterTiles>
+        <WaterTileDefinitions />
+      </WaterTiles>
+    </WaterFertilizer>
+    <WeatherFeature>
+      <WeatherPresets>
+        <WeatherConfigs />
+        <Wind />
+      </WeatherPresets>
+    </WeatherFeature>
+    <WinLoseFeature>
+      <Bankruptcy>
+        <BancruptcyNotification>0</BancruptcyNotification>
+      </Bankruptcy>
+      <Regicide>
+        <KontorAssetPool>0</KontorAssetPool>
+      </Regicide>
+      <Monuments>
+        <MonumentsAssetPool>0</MonumentsAssetPool>
+      </Monuments>
+      <Investors>
+        <InvestorPopulationLevel>0</InvestorPopulationLevel>
+      </Investors>
+      <CampaignCondition>
+        <ContainerValues>
+          <IslandsToHold>
+            <Island>0</Island>
+          </IslandsToHold>
+        </ContainerValues>
+        <IslandsToHold />
+      </CampaignCondition>
+      <Annhilation>
+        <KontorAssetPool>0</KontorAssetPool>
+      </Annhilation>
+    </WinLoseFeature>
+    <WorldMarketFeature>
+      <NewsTicker>
+        <PriceChangeText>0</PriceChangeText>
+        <PriceChangeEventText>0</PriceChangeEventText>
+        <TitleText>0</TitleText>
+        <SeparatorText>0</SeparatorText>
+        <EventActorTextPool>0</EventActorTextPool>
+        <EventDescriptionUpTextPool>0</EventDescriptionUpTextPool>
+        <EventDescriptionDownTextPool>0</EventDescriptionDownTextPool>
+        <EventPriceUpTextPool>0</EventPriceUpTextPool>
+        <EventPriceDownTextPool>0</EventPriceDownTextPool>
+      </NewsTicker>
+    </WorldMarketFeature>
+  </DefaultContainerValues>
+</Property>

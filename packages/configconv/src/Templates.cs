@@ -10,28 +10,26 @@ namespace configconv
 {
   class Templates
   {
-    private static void Walk(List<XElement> list, string dir, Dictionary<string, XElement> dict, XElement elem)
+    private static void Walk(XElement element, string upstream, Dictionary<string, XElement> dict)
     {
-      if (elem.Name == "Template")
+      if (element.Name == "Template")
       {
-        list.Add(elem);
-
-        var name = elem.Element("Name").Value;
-        var path = Path.Combine(dir, name);
-        dict.Add(path, elem);
+        var name = element.Element("Name").Value;
+        var path = Path.Combine(upstream, name);
+        dict.Add(path, element);
 
         return;
       }
 
-      if (elem.Name == "Group")
+      if (element.Name == "Group")
       {
-        var name = elem.Element("Name").Value;
-        dir = Path.Combine(dir, name);
+        var name = element.Element("Name").Value;
+        upstream = Path.Combine(upstream, name);
       }
 
-      foreach (var child in elem.Elements())
+      foreach (var child in element.Elements())
       {
-        Walk(list, dir, dict, child);
+        Walk(child, upstream, dict);
       }
     }
 
@@ -41,24 +39,17 @@ namespace configconv
       var content = await File.ReadAllTextAsync(file);
       var doc = XDocument.Parse(content);
 
-      var list = new List<XElement>();
       var dict = new Dictionary<string, XElement>();
-      Walk(list, "templates", dict, doc.Root);
+      Walk(doc.Root, "templates", dict);
 
       await VElement.SaveJson(
         Path.Combine(dest, "templates.json"),
-        list.Select(el => new VElement(el)).ToList()
-      );
-      await VElement.SaveJson(
-        Path.Combine(dest, "templates-groups.json"),
-        dict.Keys.Select(k => k.Replace('\\', '/'))
+        new VElement(doc.Root)
       );
       await Task.WhenAll(dict.Select(kvp => VElement.SaveXElement(
         Path.Combine(dest, $"{kvp.Key}.xml"),
         kvp.Value
       )));
-
-      Console.WriteLine($"Templates: {list.Count}");
     }
   }
 }

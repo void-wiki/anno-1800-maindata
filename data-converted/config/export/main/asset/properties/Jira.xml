@@ -1,0 +1,19 @@
+<Property>
+  <Name>Jira</Name>
+  <DefaultValues>
+    <JiraManager>
+      <TopicTexts />
+      <TypeTexts />
+    </JiraManager>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <JiraManager>
+      <TopicTexts>
+        <TextAsset>0</TextAsset>
+      </TopicTexts>
+      <TypeTexts>
+        <TextAsset>0</TextAsset>
+      </TypeTexts>
+    </JiraManager>
+  </DefaultContainerValues>
+</Property>

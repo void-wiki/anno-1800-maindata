@@ -1,0 +1,142 @@
+<Property>
+  <Name>UI</Name>
+  <DefaultValues>
+    <ConstructionCategory>
+      <BuildingList />
+      <CategoryDescription>0</CategoryDescription>
+    </ConstructionCategory>
+    <FontRendering>
+      <ResolutionSettings />
+    </FontRendering>
+    <InfolayerConfig>
+      <InfoLayerPriority />
+      <LowWorkforceIcon>0</LowWorkforceIcon>
+      <CriticalWorkforceIcon>0</CriticalWorkforceIcon>
+    </InfolayerConfig>
+    <InfoLayerIcon>
+      <PopupDelay>30000</PopupDelay>
+      <InfoLayerInfotip>0</InfoLayerInfotip>
+    </InfoLayerIcon>
+    <InfoTip />
+    <InfoTipBalancing />
+    <InteractionFeedback>
+      <InteractionCursor>0</InteractionCursor>
+      <InteractionEffect>0</InteractionEffect>
+      <InteractionInfolayer>0</InteractionInfolayer>
+      <InteractionTargetInfolayer>0</InteractionTargetInfolayer>
+      <InteractionOnScreenText>0</InteractionOnScreenText>
+      <InteractionTextOnWay>0</InteractionTextOnWay>
+      <InteractionTextWaitingForMenu>0</InteractionTextWaitingForMenu>
+    </InteractionFeedback>
+    <MainMenuNavigationConfig>
+      <BackButtonInfotips />
+    </MainMenuNavigationConfig>
+    <MouseCursor />
+    <NewspaperEffectIcon>
+      <EffectColor>DeepRed</EffectColor>
+    </NewspaperEffectIcon>
+    <PassiveTradeWindow>
+      <TradeButtons />
+      <LoadingHeadline>0</LoadingHeadline>
+      <UnloadingHeadline>0</UnloadingHeadline>
+    </PassiveTradeWindow>
+    <ProductionChain>
+      <Building>0</Building>
+      <Tier1 />
+    </ProductionChain>
+    <ShipList>
+      <MiniIcons />
+      <StanceIcons />
+      <GroupStanceIcons />
+    </ShipList>
+    <Startup>
+      <IntroVideos />
+    </Startup>
+    <WorldMapCardConfig>
+      <HeaderBackground>0</HeaderBackground>
+      <CardDescription>0</CardDescription>
+    </WorldMapCardConfig>
+    <WorldMapConfig>
+      <Camera />
+      <TradeRoutes />
+      <ExpeditionLines />
+      <Infotips />
+      <Assets />
+    </WorldMapConfig>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ConstructionCategory>
+      <BuildingList>
+        <Building>0</Building>
+      </BuildingList>
+    </ConstructionCategory>
+    <InfolayerConfig>
+      <InfoLayerPriority>
+        <Icon>0</Icon>
+      </InfoLayerPriority>
+    </InfolayerConfig>
+    <MainMenuNavigationConfig>
+      <BackButtonInfotips>
+        <ToTitleInfotip>0</ToTitleInfotip>
+        <ToGameModeSelectionInfotip>0</ToGameModeSelectionInfotip>
+        <ToTutorialSelectionInfotip>0</ToTutorialSelectionInfotip>
+        <ToPortraitSelectionInfotip>0</ToPortraitSelectionInfotip>
+        <ToLogoSelectionInfotip>0</ToLogoSelectionInfotip>
+        <ToNameInfotip>0</ToNameInfotip>
+        <ToSpecialRewardSelectionInfotip>0</ToSpecialRewardSelectionInfotip>
+        <ToDifficultySelectionInfotip>0</ToDifficultySelectionInfotip>
+        <ToMpGameModeSelectionInfotip>0</ToMpGameModeSelectionInfotip>
+      </BackButtonInfotips>
+    </MainMenuNavigationConfig>
+    <PassiveTradeWindow>
+      <TradeButtons>
+        <Icon>0</Icon>
+        <Text>0</Text>
+        <InfoTip>0</InfoTip>
+      </TradeButtons>
+    </PassiveTradeWindow>
+    <ProductionChain>
+      <Tier1>
+        <ContainerValues>
+          <Tier2>
+            <ContainerValues>
+              <Tier3>
+                <Building>0</Building>
+              </Tier3>
+            </ContainerValues>
+            <Building>0</Building>
+            <Tier3 />
+          </Tier2>
+        </ContainerValues>
+        <Building>0</Building>
+        <Tier2 />
+      </Tier1>
+    </ProductionChain>
+    <ShipList>
+      <MiniIcons>
+        <Condition>Moving</Condition>
+        <Icon>0</Icon>
+      </MiniIcons>
+      <StanceIcons>
+        <Icon>0</Icon>
+      </StanceIcons>
+      <GroupStanceIcons>
+        <Icon>0</Icon>
+      </GroupStanceIcons>
+    </ShipList>
+    <Startup>
+      <IntroVideos>
+        <Video>0</Video>
+      </IntroVideos>
+    </Startup>
+    <WorldMapConfig>
+      <Infotips>
+        <ShipInfotip>0</ShipInfotip>
+        <FleetInfotip>0</FleetInfotip>
+      </Infotips>
+      <Assets>
+        <Globe>0</Globe>
+      </Assets>
+    </WorldMapConfig>
+  </DefaultContainerValues>
+</Property>

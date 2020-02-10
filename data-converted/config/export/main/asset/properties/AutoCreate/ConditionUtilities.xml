@@ -1,0 +1,117 @@
+<Property>
+  <Name>ConditionUtilities</Name>
+  <DefaultValues>
+    <ObjectFilter>
+      <ObjectGUID>0</ObjectGUID>
+      <ObjectParticipantID>Human0</ObjectParticipantID>
+      <ObjectIslands />
+      <ObjectSession>0</ObjectSession>
+    </ObjectFilter>
+    <ObjectiveScaling>
+      <ScaleFactors />
+    </ObjectiveScaling>
+    <ObjectList>
+      <Object>0</Object>
+      <Owner>Human0</Owner>
+      <VisualOwner>Human0</VisualOwner>
+      <Context />
+    </ObjectList>
+    <ObjectTargetFilter>
+      <TargetGUID>0</TargetGUID>
+      <TargetCheckParticipantID>1</TargetCheckParticipantID>
+      <TargetParticipantID>Human0</TargetParticipantID>
+      <TargetObjectIslands />
+      <TargetObjectSession>0</TargetObjectSession>
+    </ObjectTargetFilter>
+    <ParticipantRelation>
+      <SourceParticipant>Human0</SourceParticipant>
+      <TargetParticipant>Human0</TargetParticipant>
+    </ParticipantRelation>
+    <SessionFilter>
+      <AllowParentConditionSession>1</AllowParentConditionSession>
+      <Sessions />
+    </SessionFilter>
+    <SpawnArea>
+      <SpawnContext>Random</SpawnContext>
+      <MatcherGUID>0</MatcherGUID>
+      <ContextGUID>0</ContextGUID>
+      <SpawnAreaType />
+      <DistanceToBorder />
+      <DistanceToIsland />
+    </SpawnArea>
+    <TradingStation>
+      <TradingStationDestination>
+        <Template>ConditionObjectPlayerKontor</Template>
+        <Values>
+          <ConditionObjectPlayerKontor />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </TradingStationDestination>
+      <TradingStationBringItem>0</TradingStationBringItem>
+      <TradingStationBringItemCount>1</TradingStationBringItemCount>
+      <TradingStationRetrieveItem>0</TradingStationRetrieveItem>
+      <TradingStationRetrieveItemCount>1</TradingStationRetrieveItemCount>
+      <TradingStationAllowedLayers>Land;Water;Air</TradingStationAllowedLayers>
+      <TradingStationAttackerObjects />
+      <OnTradingStationVisited>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </OnTradingStationVisited>
+      <TradingStationSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </TradingStationSignsAndFeedback>
+      <TradingStationReachedNotification>
+        <Template>CharacterNotification</Template>
+        <Values>
+          <CharacterNotification />
+          <BaseNotification />
+          <NotificationSubtitle />
+        </Values>
+      </TradingStationReachedNotification>
+    </TradingStation>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ObjectFilter>
+      <ObjectIslands>
+        <Island>0</Island>
+      </ObjectIslands>
+    </ObjectFilter>
+    <ObjectList>
+      <Context>
+        <ContainerValues>
+          <CargoAssetList>
+            <Asset>0</Asset>
+          </CargoAssetList>
+        </ContainerValues>
+        <CargoAsset>0</CargoAsset>
+        <CargoAssetList />
+      </Context>
+    </ObjectList>
+    <ObjectTargetFilter>
+      <TargetObjectIslands>
+        <Island>0</Island>
+      </TargetObjectIslands>
+    </ObjectTargetFilter>
+    <SessionFilter>
+      <Sessions>
+        <Session>0</Session>
+      </Sessions>
+    </SessionFilter>
+    <TradingStation>
+      <TradingStationAttackerObjects>
+        <TradingStationAttackerObject>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </TradingStationAttackerObject>
+      </TradingStationAttackerObjects>
+    </TradingStation>
+  </DefaultContainerValues>
+</Property>

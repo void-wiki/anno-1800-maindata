@@ -1,0 +1,83 @@
+<Property>
+  <Name>MonumentEvent</Name>
+  <DefaultValues>
+    <MonumentEvent>
+      <NeededWorkforce>1010128</NeededWorkforce>
+      <DescriptionFluff>0</DescriptionFluff>
+      <BackgroundPreparation>data/ui/2kimages/main/assets/monument_event/monument_event_workforce.png</BackgroundPreparation>
+      <BackgroundRunning>data/ui/2kimages/main/assets/monument_event/monument_bg_03.png</BackgroundRunning>
+      <SelectionText>0</SelectionText>
+      <RunningText>0</RunningText>
+      <RewardText>0</RewardText>
+      <PotentialEventReward>0</PotentialEventReward>
+      <PreparationGoods />
+      <ShortSizeName>0</ShortSizeName>
+      <RewardThresholds />
+      <MaxGoodsReductionPercent>50</MaxGoodsReductionPercent>
+      <ReduceAttractivenessPerMinute>10</ReduceAttractivenessPerMinute>
+      <RequirementText />
+      <FeedbackTexts>
+        <Interval>15000</Interval>
+        <IconGroup>1161849649</IconGroup>
+        <TextThresholds>
+          <Item>
+            <MaxAttractivenessFactor>0.5</MaxAttractivenessFactor>
+            <TextGroup>1436329751</TextGroup>
+          </Item>
+          <Item>
+            <MinAttractivenessFactor>0.25</MinAttractivenessFactor>
+            <MaxAttractivenessFactor>0.75</MaxAttractivenessFactor>
+            <TextGroup>310322663</TextGroup>
+          </Item>
+          <Item>
+            <MinAttractivenessFactor>0.5</MinAttractivenessFactor>
+            <MaxAttractivenessFactor>1</MaxAttractivenessFactor>
+            <TextGroup>1060211659</TextGroup>
+          </Item>
+          <Item>
+            <MaxAttractivenessFactor>0.5</MaxAttractivenessFactor>
+            <TextGroup>1855417864</TextGroup>
+          </Item>
+          <Item>
+            <MinAttractivenessFactor>0.25</MinAttractivenessFactor>
+            <MaxAttractivenessFactor>0.75</MaxAttractivenessFactor>
+            <TextGroup>989120482</TextGroup>
+          </Item>
+          <Item>
+            <MinAttractivenessFactor>0.5</MinAttractivenessFactor>
+            <MaxAttractivenessFactor>1</MaxAttractivenessFactor>
+            <TextGroup>-1126822456</TextGroup>
+          </Item>
+        </TextThresholds>
+      </FeedbackTexts>
+      <MonumentEventTypeSwitch>0</MonumentEventTypeSwitch>
+    </MonumentEvent>
+    <MonumentEventCategory>
+      <Events />
+      <PotentialCategoryReward>0</PotentialCategoryReward>
+      <CategoryDescriptionFluff>0</CategoryDescriptionFluff>
+      <EventAudioState>InExhibitionEventArchitectural</EventAudioState>
+    </MonumentEventCategory>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <MonumentEvent>
+      <PreparationGoods>
+        <GoodsOrPool>0</GoodsOrPool>
+      </PreparationGoods>
+      <RewardThresholds>
+        <Reward>0</Reward>
+      </RewardThresholds>
+      <RequirementText>
+        <Requirement>0</Requirement>
+      </RequirementText>
+      <FeedbackTexts>
+        <TextThresholds />
+      </FeedbackTexts>
+    </MonumentEvent>
+    <MonumentEventCategory>
+      <Events>
+        <Event>0</Event>
+      </Events>
+    </MonumentEventCategory>
+  </DefaultContainerValues>
+</Property>

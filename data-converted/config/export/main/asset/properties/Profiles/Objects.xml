@@ -1,0 +1,61 @@
+<Property>
+  <Name>Objects</Name>
+  <DefaultValues>
+    <PlayerLogo />
+    <Portrait>
+      <IdleSequences>
+        <Negative>
+          <Sequence>portrait_angry_idle</Sequence>
+        </Negative>
+        <Neutral>
+          <Sequence>portrait_neutral_idle</Sequence>
+        </Neutral>
+        <Positve>
+          <Sequence>portrait_friendly_idle</Sequence>
+        </Positve>
+      </IdleSequences>
+      <TalkIdleSequences>
+        <Negative>
+          <Sequence>portrait_angry_talk_idle</Sequence>
+        </Negative>
+        <Neutral>
+          <Sequence>portrait_neutral_talk_idle</Sequence>
+        </Neutral>
+        <Positve>
+          <Sequence>portrait_friendly_talk_idle</Sequence>
+        </Positve>
+      </TalkIdleSequences>
+      <TalkSequences>
+        <Negative>
+          <Sequence>portrait_angry_talk</Sequence>
+        </Negative>
+        <Neutral>
+          <Sequence>portrait_neutral_talk</Sequence>
+        </Neutral>
+        <Positve>
+          <Sequence>portrait_friendly_talk</Sequence>
+        </Positve>
+      </TalkSequences>
+      <PortraitName>0</PortraitName>
+      <VideoPresentation />
+      <PortraitCameraAmbientConfig />
+    </Portrait>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <Portrait>
+      <IdleSequences>
+        <Sequence>default</Sequence>
+      </IdleSequences>
+      <TalkIdleSequences>
+        <Sequence>default</Sequence>
+      </TalkIdleSequences>
+      <TalkSequences>
+        <Sequence>default</Sequence>
+      </TalkSequences>
+      <PortraitCameraAmbientConfig>
+        <AmbientName>Portrait Light </AmbientName>
+        <CamFile>data/config/portraitcam/default.portraitcam</CamFile>
+      </PortraitCameraAmbientConfig>
+    </Portrait>
+  </DefaultContainerValues>
+</Property>

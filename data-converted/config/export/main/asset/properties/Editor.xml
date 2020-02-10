@@ -1,0 +1,24 @@
+<Property>
+  <Name>Editor</Name>
+  <DefaultValues>
+    <AmbientArea />
+    <BezierPath>
+      <CreatedInPathEditor>1</CreatedInPathEditor>
+    </BezierPath>
+    <Coastline />
+    <CommentBox />
+    <DistributionCenterMarker>
+      <DyeColor>-1761607681</DyeColor>
+    </DistributionCenterMarker>
+    <FogBank />
+    <IslandUndiscover />
+    <Lake />
+    <MusicArea>
+      <Playlist>0</Playlist>
+      <TimeBeforeStartPlay>3000</TimeBeforeStartPlay>
+      <CooldownBeforeNextPlay>300000</CooldownBeforeNextPlay>
+    </MusicArea>
+    <River />
+    <WorkAreaPath />
+  </DefaultValues>
+</Property>

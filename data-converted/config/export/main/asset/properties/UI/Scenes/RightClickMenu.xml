@@ -1,0 +1,27 @@
+<Property>
+  <Name>RightClickMenu</Name>
+  <DefaultValues>
+    <RightClickMenu>
+      <IconLock>0</IconLock>
+      <IconUnlock>0</IconUnlock>
+      <RightClickMenuRegions />
+    </RightClickMenu>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <RightClickMenu>
+      <RightClickMenuRegions>
+        <ContainerValues>
+          <RightClickBuildings>
+            <Config>
+              <Template>CustomizableButtonConfig</Template>
+              <Values>
+                <CustomizableButtonConfig />
+              </Values>
+            </Config>
+          </RightClickBuildings>
+        </ContainerValues>
+        <RightClickBuildings />
+      </RightClickMenuRegions>
+    </RightClickMenu>
+  </DefaultContainerValues>
+</Property>

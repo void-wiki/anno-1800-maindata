@@ -1,0 +1,24 @@
+<Property>
+  <Name>Actions - Do not configure default values here!</Name>
+  <DefaultValues>
+    <Action />
+    <ActionLink>
+      <Action>0</Action>
+    </ActionLink>
+    <ActionList>
+      <Actions />
+    </ActionList>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ActionList>
+      <Actions>
+        <Action>
+          <Template>ActionLink</Template>
+          <Values>
+            <ActionLink />
+          </Values>
+        </Action>
+      </Actions>
+    </ActionList>
+  </DefaultContainerValues>
+</Property>

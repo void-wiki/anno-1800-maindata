@@ -1,0 +1,430 @@
+<Property>
+  <Name>Objects</Name>
+  <DefaultValues>
+    <AssetPool>
+      <AssetList />
+    </AssetPool>
+    <Attackable>
+      <MaximumHitPoints>100</MaximumHitPoints>
+      <HPBarOffset>6</HPBarOffset>
+      <PausedTimeIfAttacked>15000</PausedTimeIfAttacked>
+      <SelfHealPerHealTick>2</SelfHealPerHealTick>
+      <SelfHealPausedTimeIfAttacked>15000</SelfHealPausedTimeIfAttacked>
+      <ArmorType>Default</ArmorType>
+      <TakeOverEffect>Never</TakeOverEffect>
+      <IslandWarFlag>0</IslandWarFlag>
+      <RuinSmokeParticles />
+      <ExplosionEffects />
+      <BlockBuildActionsAfterAttackDuration>15000</BlockBuildActionsAfterAttackDuration>
+    </Attackable>
+    <Attacker>
+      <AttackRangeApproachPercentage>0.95</AttackRangeApproachPercentage>
+      <LineOfSightRange>35</LineOfSightRange>
+      <ReloadTime>10</ReloadTime>
+      <ProjectileAsset>0</ProjectileAsset>
+      <ProjectileCount>1</ProjectileCount>
+      <AllowApproachEnemy>1</AllowApproachEnemy>
+      <Turrets />
+      <AccuracyBase>5</AccuracyBase>
+      <AccuracyIncreaseOverDistance>40</AccuracyIncreaseOverDistance>
+      <AccuracySpeedDecay>6</AccuracySpeedDecay>
+      <ShootingTracking>Side</ShootingTracking>
+      <AttackType>Default</AttackType>
+      <AccuracyBaseIncreasePercentage>100</AccuracyBaseIncreasePercentage>
+      <TurretExplosionEffectAsset>0</TurretExplosionEffectAsset>
+      <MuzzleEffectAssets />
+      <AccuracyByDistance />
+      <MaxDistanceToPatrolRouteToBeAggressiveIn>10</MaxDistanceToPatrolRouteToBeAggressiveIn>
+    </Attacker>
+    <CampaignBehaviour>
+      <CampaignBehaviourType>DestructRuin</CampaignBehaviourType>
+      <DestructTime>10000</DestructTime>
+    </CampaignBehaviour>
+    <Collectable>
+      <OnCollect>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </OnCollect>
+      <PickupCursor>0</PickupCursor>
+      <DropCursor>0</DropCursor>
+      <OnScreenText>0</OnScreenText>
+      <CollectableType>WaterCollectable</CollectableType>
+    </Collectable>
+    <Collector>
+      <UpgradeWhenDraggingShip>6000032</UpgradeWhenDraggingShip>
+      <AllowedToCollect>WaterCollectable</AllowedToCollect>
+    </Collector>
+    <CommandQueue>
+      <IsDestructable>1</IsDestructable>
+      <ShipUniqueType>None</ShipUniqueType>
+    </CommandQueue>
+    <Craftable />
+    <DayNightReaction>
+      <UnitNightBehavior>Default</UnitNightBehavior>
+    </DayNightReaction>
+    <DelayedConstruction>
+      <ConstructionDelay>60000</ConstructionDelay>
+    </DelayedConstruction>
+    <DivingBell>
+      <DivingInfoLayerIcon>0</DivingInfoLayerIcon>
+    </DivingBell>
+    <Draggable>
+      <DraggableDistanceFromDragger>3</DraggableDistanceFromDragger>
+      <DraggableDistanceFromPreviousDraggable>5</DraggableDistanceFromPreviousDraggable>
+      <DraggableOnDrag>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </DraggableOnDrag>
+      <DraggableOnDrop>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </DraggableOnDrop>
+      <DraggableFeedbackOnDrag>0</DraggableFeedbackOnDrag>
+      <DraggableFeedbackOnDrop>0</DraggableFeedbackOnDrop>
+      <DraggableDisabledInfoLayer>0</DraggableDisabledInfoLayer>
+      <DraggableDragInfoLayer>0</DraggableDragInfoLayer>
+      <DraggableDropInfoLayer>0</DraggableDropInfoLayer>
+      <DragRopeStiffness>0.2</DragRopeStiffness>
+      <DragRopeHeight>0.3</DragRopeHeight>
+    </Draggable>
+    <Drifting>
+      <OverrideAssetWidthAndLength>1</OverrideAssetWidthAndLength>
+      <Length>4</Length>
+      <Width>1.25</Width>
+      <FactorMovement>1</FactorMovement>
+      <FactorRotation>1</FactorRotation>
+      <AffectedByDriftingWhileIdle>1</AffectedByDriftingWhileIdle>
+      <AffectedByDriftingWhileMoving>1</AffectedByDriftingWhileMoving>
+      <CausesDrifting>1</CausesDrifting>
+      <UseSlowDownTactic>1</UseSlowDownTactic>
+    </Drifting>
+    <Dying />
+    <Exploder>
+      <HitSuccessNotification>
+        <Template>ActionNotification</Template>
+        <Values>
+          <Action />
+          <ActionNotification>
+            <Notification>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>SideNotification</Template>
+              <Values>
+                <SideNotification />
+                <BaseNotification />
+                <NotificationSubtitle />
+              </Values>
+            </Notification>
+          </ActionNotification>
+        </Values>
+      </HitSuccessNotification>
+      <HitFailNotification>
+        <Template>ActionNotification</Template>
+        <Values>
+          <Action />
+          <ActionNotification>
+            <Notification>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Template>SideNotification</Template>
+              <Values>
+                <SideNotification />
+                <BaseNotification />
+                <NotificationSubtitle />
+              </Values>
+            </Notification>
+          </ActionNotification>
+        </Values>
+      </HitFailNotification>
+      <KamikazeRadiusDecal>0</KamikazeRadiusDecal>
+    </Exploder>
+    <FeedbackController>
+      <DefaultFeedbackSequence>Default</DefaultFeedbackSequence>
+      <UpdateMeshSequence>1</UpdateMeshSequence>
+      <NightBehavior>HideRand</NightBehavior>
+    </FeedbackController>
+    <IceFloe>
+      <BlockingDistanceFromShip>5</BlockingDistanceFromShip>
+    </IceFloe>
+    <IceFloeDestroyer />
+    <Infolayer>
+      <DefaultInfoLayer>0</DefaultInfoLayer>
+    </Infolayer>
+    <InfotipObject />
+    <ItemReplacer>
+      <ItemReplacementPools>0</ItemReplacementPools>
+    </ItemReplacer>
+    <Lifetime />
+    <Mesh>
+      <ObjectPosition>Static</ObjectPosition>
+      <MeshPlacement>Default</MeshPlacement>
+      <DefaultSequence>idle01</DefaultSequence>
+      <InitialVisibility>1</InitialVisibility>
+      <ConstructionEffectDuration>600</ConstructionEffectDuration>
+      <DeconstructionEffectDuration>3000</DeconstructionEffectDuration>
+      <MoveEffectDuration>600</MoveEffectDuration>
+      <ChangeGUIDEffectDuration>850</ChangeGUIDEffectDuration>
+      <ConstructionEffectScale>1</ConstructionEffectScale>
+      <LogoMode>Disabled</LogoMode>
+    </Mesh>
+    <MetaGameObjectReference />
+    <MetaPersistent />
+    <MinimapToken>
+      <TokenAsset>0</TokenAsset>
+      <StrategicMapAsset>0</StrategicMapAsset>
+    </MinimapToken>
+    <MinimapTokenSettings>
+      <Color>GreyLight5</Color>
+      <Interactive>1</Interactive>
+      <Tooltip>102664</Tooltip>
+      <Scaling>100</Scaling>
+      <Filter>ImperialKontor</Filter>
+    </MinimapTokenSettings>
+    <Nameable />
+    <Object>
+      <Type>GameObject</Type>
+      <Variations />
+      <DefaultParticipant>Neutral</DefaultParticipant>
+      <AddToObjectGroups>1</AddToObjectGroups>
+      <AddToEditorObjectGrid>1</AddToEditorObjectGrid>
+      <PlacableInEditor>1</PlacableInEditor>
+      <SelectableInEditor>1</SelectableInEditor>
+      <LoadFromDemoMap>1</LoadFromDemoMap>
+    </Object>
+    <Pausable />
+    <PositionMarker />
+    <Projectile>
+      <ProjectileType>HomingStraight</ProjectileType>
+      <ShotAngle>45</ShotAngle>
+      <Effectivities />
+      <StatusEffects />
+      <ChainingLevels />
+      <EffectSequences>
+        <HitBrick>
+          <SequenceID>hitbrick</SequenceID>
+        </HitBrick>
+        <HitConcrete>
+          <SequenceID>hitconcrete</SequenceID>
+        </HitConcrete>
+        <HitSteel>
+          <SequenceID>hitsteel</SequenceID>
+        </HitSteel>
+        <HitWood>
+          <SequenceID>hitwood</SequenceID>
+        </HitWood>
+        <MissLand>
+          <SequenceID>missland</SequenceID>
+        </MissLand>
+        <MissWater>
+          <SequenceID>misswater</SequenceID>
+        </MissWater>
+      </EffectSequences>
+      <TargetWhiteList />
+      <DamageType>Normal</DamageType>
+    </Projectile>
+    <ProjectileIncident>
+      <CausedIncident>[NONE]</CausedIncident>
+      <CausedIncidentBuff>0</CausedIncidentBuff>
+      <CausedIncidentDuration>10000</CausedIncidentDuration>
+    </ProjectileIncident>
+    <Prop>
+      <HerdBlocking>NeverPassable</HerdBlocking>
+      <VegetationType>None</VegetationType>
+    </Prop>
+    <RandomDummySpawner>
+      <RandomAssets />
+    </RandomDummySpawner>
+    <RandomMapObject>
+      <Replacements />
+      <MapGeneratorSlotCountOverride />
+    </RandomMapObject>
+    <Rentable />
+    <Seamine>
+      <StatusEffectList />
+    </Seamine>
+    <Selection>
+      <GUIType>Residence</GUIType>
+      <Selectable>1</Selectable>
+      <DestructSelectable>1</DestructSelectable>
+      <OnSelection>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </OnSelection>
+      <InteractionDistance>15</InteractionDistance>
+      <ParticipantMessageTrigger>None</ParticipantMessageTrigger>
+      <InfoCorner>25000131</InfoCorner>
+      <AllowedDragType />
+      <ParticipantMessageArcheType>Human0</ParticipantMessageArcheType>
+      <Colors />
+      <DetectionToken>0</DetectionToken>
+    </Selection>
+    <Sellable>
+      <Baseprice>
+        <Item>
+          <Amount>5000</Amount>
+          <Resource>1010017</Resource>
+        </Item>
+      </Baseprice>
+      <SellInfolayerIcon>500160</SellInfolayerIcon>
+      <CanBeSoldToTrader>1</CanBeSoldToTrader>
+      <SellPriceFactor>0.8</SellPriceFactor>
+    </Sellable>
+    <ShipIncident>
+      <InfectableByIncident>
+        <Fire>
+          <Infectable>1</Infectable>
+        </Fire>
+      </InfectableByIncident>
+      <FireDamagePerFireTick>2</FireDamagePerFireTick>
+    </ShipIncident>
+    <ShipMaintenance />
+    <Stance>
+      <DefensiveReturnDistance>60</DefensiveReturnDistance>
+      <FleeDistance>50</FleeDistance>
+    </Stance>
+    <Street>
+      <AutoCreateStyle>1</AutoCreateStyle>
+      <NormalColor>-1</NormalColor>
+      <InvalidColor>-44976</InvalidColor>
+      <CrossingAsset>0</CrossingAsset>
+      <BridgeAsset>0</BridgeAsset>
+      <StyleRows>9</StyleRows>
+      <StyleCols>4</StyleCols>
+      <OverbuildRule>Default</OverbuildRule>
+      <SpeedFactor>1</SpeedFactor>
+      <IsLogicRoad>1</IsLogicRoad>
+      <IsDeletable>1</IsDeletable>
+      <HasFeedbackPathPlanningPenalty>1</HasFeedbackPathPlanningPenalty>
+    </Street>
+    <TradeRouteVehicle>
+      <LoadingSpeedFactor>1</LoadingSpeedFactor>
+    </TradeRouteVehicle>
+    <Trailer>
+      <TrailerType>Coach</TrailerType>
+      <TrailerMiddlePartCfgVariations />
+      <TrailerEndPartCfgVariations />
+      <Stiffness>0.5</Stiffness>
+    </Trailer>
+    <Walking>
+      <SpecialMovementType>Land;HumanMovement</SpecialMovementType>
+      <WalkSequence>walk01</WalkSequence>
+      <IdleSequence2>idle01</IdleSequence2>
+      <ShortenSailsAfter>5000</ShortenSailsAfter>
+      <DiscoverRadius>50</DiscoverRadius>
+      <PathPlannerLayer>Land</PathPlannerLayer>
+      <TurnAroundRadius>2</TurnAroundRadius>
+      <Acceleration>3</Acceleration>
+      <Deceleration>6</Deceleration>
+      <TurnRadius>3</TurnRadius>
+      <TurnSpeed>90</TurnSpeed>
+      <TurnSpeedInPlace>45</TurnSpeedInPlace>
+      <TurnDeceleration>0.6</TurnDeceleration>
+      <TurnMovement>100</TurnMovement>
+      <LeaningSpeed>0.3</LeaningSpeed>
+      <LeaningDamping>0.13</LeaningDamping>
+      <ForwardSpeed>1</ForwardSpeed>
+      <WindMinSlowdownFactor>1</WindMinSlowdownFactor>
+      <WindSlowdownEffectOnTurningSpeed>1</WindSlowdownEffectOnTurningSpeed>
+      <WindMaxSpeedupFactor>1</WindMaxSpeedupFactor>
+      <WindSpeedupEffectOnTurningSpeed>1</WindSpeedupEffectOnTurningSpeed>
+      <CargoThreshold>0.5</CargoThreshold>
+      <CargoStartFactor>1</CargoStartFactor>
+      <CargoFullFactor>0.5</CargoFullFactor>
+      <DamageThreshold>0.25</DamageThreshold>
+      <DamageStartFactor>1</DamageStartFactor>
+      <DamageFullFactor>0.25</DamageFullFactor>
+      <MinSlowdownFactor>0.4</MinSlowdownFactor>
+      <IgnoreWeightFactor>1</IgnoreWeightFactor>
+      <IgnoreDamageFactor>1</IgnoreDamageFactor>
+      <CreatePathPlannerUnit>1</CreatePathPlannerUnit>
+      <CurveSegmentDensity>Medium</CurveSegmentDensity>
+      <ShipDoubleClickSelectionRange>84</ShipDoubleClickSelectionRange>
+    </Walking>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <AssetPool>
+      <AssetList>
+        <Asset>0</Asset>
+      </AssetList>
+    </AssetPool>
+    <Attackable>
+      <ExplosionEffects>
+        <ExplosionEffectFilePath>data/graphics/effects/military/explosions/harbor_generic_xpl_01.cfg</ExplosionEffectFilePath>
+      </ExplosionEffects>
+    </Attackable>
+    <Attacker>
+      <MuzzleEffectAssets>
+        <MuzzleEffectAsset>0</MuzzleEffectAsset>
+      </MuzzleEffectAssets>
+      <AccuracyByDistance>
+        <AccuracyByDistancePair>
+          <CorrespondingAccuracy>100</CorrespondingAccuracy>
+        </AccuracyByDistancePair>
+      </AccuracyByDistance>
+    </Attacker>
+    <Projectile>
+      <Effectivities>
+        <GUID>0</GUID>
+      </Effectivities>
+      <StatusEffects>
+        <StatusEffect>0</StatusEffect>
+      </StatusEffects>
+      <EffectSequences>
+        <SequenceID>default</SequenceID>
+      </EffectSequences>
+    </Projectile>
+    <RandomDummySpawner>
+      <RandomAssets>
+        <ContainerValues>
+          <Variations>
+            <Asset>0</Asset>
+          </Variations>
+        </ContainerValues>
+        <Variations />
+      </RandomAssets>
+    </RandomDummySpawner>
+    <RandomMapObject>
+      <Replacements>
+        <NewAsset>0</NewAsset>
+      </Replacements>
+      <MapGeneratorSlotCountOverride>
+        <ContainerValues>
+          <Region>
+            <IslandSize />
+          </Region>
+        </ContainerValues>
+        <Region />
+      </MapGeneratorSlotCountOverride>
+    </RandomMapObject>
+    <Seamine>
+      <StatusEffectList>
+        <StatusEffect>0</StatusEffect>
+      </StatusEffectList>
+    </Seamine>
+    <Selection>
+      <Colors>
+        <SelectionColorType>DefaultSelectionColor</SelectionColorType>
+        <WeakSelectionColorType>DefaultSelectionColor</WeakSelectionColorType>
+        <PickingColorType>DefaultSelectionColor</PickingColorType>
+        <CoopSelectionColorType>DefaultSelectionColor</CoopSelectionColorType>
+        <CoopPickingColorType>DefaultSelectionColor</CoopPickingColorType>
+      </Colors>
+    </Selection>
+    <Sellable>
+      <Baseprice>
+        <Resource>0</Resource>
+      </Baseprice>
+    </Sellable>
+    <Trailer>
+      <TrailerEndPartCfgVariations>
+        <RelativeProbability>10</RelativeProbability>
+      </TrailerEndPartCfgVariations>
+    </Trailer>
+  </DefaultContainerValues>
+</Property>

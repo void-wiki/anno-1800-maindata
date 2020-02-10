@@ -1,0 +1,43 @@
+<Property>
+  <Name>OptionSettings</Name>
+  <DefaultValues>
+    <OptionAudioSlider>
+      <AudioHeadline>0</AudioHeadline>
+      <AudioSliderInfotip>0</AudioSliderInfotip>
+    </OptionAudioSlider>
+    <OptionCombobox>
+      <Entries />
+      <ComboboxHeadline>0</ComboboxHeadline>
+      <ComboboxInfotip>0</ComboboxInfotip>
+    </OptionCombobox>
+    <OptionGrid>
+      <Controls />
+    </OptionGrid>
+    <OptionSeparator />
+    <OptionSlider>
+      <SliderHeadline>0</SliderHeadline>
+      <SliderInfotip>0</SliderInfotip>
+    </OptionSlider>
+    <OptionToggle>
+      <ToggleHeadline>0</ToggleHeadline>
+      <ToggleInfotip>0</ToggleInfotip>
+    </OptionToggle>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <OptionCombobox>
+      <Entries>
+        <Text>0</Text>
+      </Entries>
+    </OptionCombobox>
+    <OptionGrid>
+      <Controls>
+        <Controls>
+          <Template>OptionSlider</Template>
+          <Values>
+            <OptionSlider />
+          </Values>
+        </Controls>
+      </Controls>
+    </OptionGrid>
+  </DefaultContainerValues>
+</Property>

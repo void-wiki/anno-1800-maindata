@@ -1,0 +1,60 @@
+<Property>
+  <Name>Ownership</Name>
+  <DefaultValues>
+    <DlcController>
+      <Dlcs />
+      <DLCPromotion />
+    </DlcController>
+    <UplayProduct>
+      <UplayProductUnlocks />
+      <ProductType>LanguagePack</ProductType>
+      <PromotionAsset>0</PromotionAsset>
+    </UplayProduct>
+    <UplayProductPromotion>
+      <DLCName>0</DLCName>
+      <DLCType>0</DLCType>
+      <DLCSelectionDescription>0</DLCSelectionDescription>
+      <DetailedDescription>0</DetailedDescription>
+      <DLCCardFluffText>0</DLCCardFluffText>
+      <ContentHints />
+      <BreadcrumbInfoList />
+      <ProductAsset>0</ProductAsset>
+      <PromotionType>SeasonPassDLC</PromotionType>
+    </UplayProductPromotion>
+    <UplayReward>
+      <UplayRewardUnlocks />
+      <RewardName>0</RewardName>
+    </UplayReward>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <DlcController>
+      <Dlcs>
+        <DLC>0</DLC>
+        <ImplicitlyActivateForNewGames>1</ImplicitlyActivateForNewGames>
+      </Dlcs>
+      <DLCPromotion>
+        <ProductPromotion>0</ProductPromotion>
+      </DLCPromotion>
+    </DlcController>
+    <UplayProduct>
+      <UplayProductUnlocks>
+        <UplayProductUnlock>0</UplayProductUnlock>
+      </UplayProductUnlocks>
+    </UplayProduct>
+    <UplayProductPromotion>
+      <ContentHints>
+        <ContentHeadline>0</ContentHeadline>
+        <ContentSubline>0</ContentSubline>
+      </ContentHints>
+      <BreadcrumbInfoList>
+        <InfoText>0</InfoText>
+        <InfoTip>0</InfoTip>
+      </BreadcrumbInfoList>
+    </UplayProductPromotion>
+    <UplayReward>
+      <UplayRewardUnlocks>
+        <UplayRewardUnlock>0</UplayRewardUnlock>
+      </UplayRewardUnlocks>
+    </UplayReward>
+  </DefaultContainerValues>
+</Property>

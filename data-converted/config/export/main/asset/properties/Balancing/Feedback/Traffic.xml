@@ -1,0 +1,354 @@
+<Property>
+  <Name>Traffic</Name>
+  <DefaultValues>
+    <FeedbackBuildingGroup>
+      <Buildings />
+      <BuildingRole>Residence1</BuildingRole>
+    </FeedbackBuildingGroup>
+    <FeedbackParametersGlobal>
+      <SoundFadeOutDuration>1000</SoundFadeOutDuration>
+      <TrafficSoundEmitterCount>10</TrafficSoundEmitterCount>
+      <FeedbackLeaning>1</FeedbackLeaning>
+      <ClippingInfos>
+        <HugeVehicle>
+          <FadeRange>40</FadeRange>
+          <ClipDistances>
+            <High>
+              <ClipDistanceMin>400</ClipDistanceMin>
+              <ClipDistanceMax>400</ClipDistanceMax>
+            </High>
+            <Low>
+              <ClipDistanceMin>130</ClipDistanceMin>
+              <ClipDistanceMax>130</ClipDistanceMax>
+            </Low>
+            <Medium>
+              <ClipDistanceMin>200</ClipDistanceMin>
+              <ClipDistanceMax>200</ClipDistanceMax>
+            </Medium>
+            <UltraHigh>
+              <ClipDistanceMin>500</ClipDistanceMin>
+              <ClipDistanceMax>500</ClipDistanceMax>
+            </UltraHigh>
+            <VeryHigh>
+              <ClipDistanceMin>450</ClipDistanceMin>
+              <ClipDistanceMax>450</ClipDistanceMax>
+            </VeryHigh>
+          </ClipDistances>
+        </HugeVehicle>
+        <Person>
+          <FadeRange>10</FadeRange>
+          <ClipDistances>
+            <High>
+              <ClipDistanceMin>30</ClipDistanceMin>
+              <ClipDistanceMax>80</ClipDistanceMax>
+            </High>
+            <Low>
+              <ClipDistanceMin>30</ClipDistanceMin>
+              <ClipDistanceMax>40</ClipDistanceMax>
+            </Low>
+            <Medium>
+              <ClipDistanceMin>30</ClipDistanceMin>
+              <ClipDistanceMax>55</ClipDistanceMax>
+            </Medium>
+            <UltraHigh>
+              <ClipDistanceMin>30</ClipDistanceMin>
+              <ClipDistanceMax>90</ClipDistanceMax>
+            </UltraHigh>
+            <VeryHigh>
+              <ClipDistanceMin>30</ClipDistanceMin>
+              <ClipDistanceMax>85</ClipDistanceMax>
+            </VeryHigh>
+          </ClipDistances>
+        </Person>
+        <Vehicle>
+          <FadeRange>20</FadeRange>
+          <ClipDistances>
+            <High>
+              <ClipDistanceMin>90</ClipDistanceMin>
+              <ClipDistanceMax>160</ClipDistanceMax>
+            </High>
+            <Low>
+              <ClipDistanceMin>70</ClipDistanceMin>
+              <ClipDistanceMax>90</ClipDistanceMax>
+            </Low>
+            <Medium>
+              <ClipDistanceMin>70</ClipDistanceMin>
+              <ClipDistanceMax>120</ClipDistanceMax>
+            </Medium>
+            <UltraHigh>
+              <ClipDistanceMin>110</ClipDistanceMin>
+              <ClipDistanceMax>200</ClipDistanceMax>
+            </UltraHigh>
+            <VeryHigh>
+              <ClipDistanceMin>100</ClipDistanceMin>
+              <ClipDistanceMax>180</ClipDistanceMax>
+            </VeryHigh>
+          </ClipDistances>
+        </Vehicle>
+      </ClippingInfos>
+      <InteractionInfos />
+      <TrainParameters>
+        <UnscaledDistanceFirstToSecond>1</UnscaledDistanceFirstToSecond>
+        <UnscaledDistanceTrailerToTrailer>1</UnscaledDistanceTrailerToTrailer>
+      </TrainParameters>
+      <UnitCountFactorByQualitySetting />
+    </FeedbackParametersGlobal>
+    <FeedbackSessionDescription>
+      <NightPopulationFactorVehicles>0.4</NightPopulationFactorVehicles>
+      <NightPopulationFactorPersons>0.2</NightPopulationFactorPersons>
+      <IncidentSpawnGroups />
+      <CulturalBuildingSpawnGroup />
+      <InteractionConfig />
+      <HarborConfig />
+      <LogisticConfig />
+      <TourismConfig />
+      <MineLorryConfig />
+      <FisheryConfig />
+      <WoodcutterConfig />
+      <HunterConfig />
+      <FarmFieldConfig />
+      <ParadeTrainConfig />
+      <TrailerStyleToCfgs />
+      <ParadeSpectatorConfig />
+      <Test />
+      <WorkforceTransferConfig />
+      <OverwritablePart />
+    </FeedbackSessionDescription>
+    <FeedbackSessionDescriptionOverwritable>
+      <Inhabitants />
+      <NightSpawnGroups />
+      <Performers />
+    </FeedbackSessionDescriptionOverwritable>
+    <TrafficFeedbackClass>
+      <DefaultBehaviour>ResidencePerson</DefaultBehaviour>
+      <UnitAssets />
+      <AllowedReactions>Listen;Greet</AllowedReactions>
+      <ClassFlags />
+      <HappyEventDates />
+    </TrafficFeedbackClass>
+    <TrafficFeedbackUnit>
+      <UnitType>Person</UnitType>
+      <SpeedSource>TakeFromCFG</SpeedSource>
+      <OverwriteSpeed>0.5</OverwriteSpeed>
+    </TrafficFeedbackUnit>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <FeedbackBuildingGroup>
+      <Buildings>
+        <Building>0</Building>
+      </Buildings>
+    </FeedbackBuildingGroup>
+    <FeedbackParametersGlobal>
+      <ClippingInfos>
+        <ClipDistances />
+      </ClippingInfos>
+    </FeedbackParametersGlobal>
+    <FeedbackSessionDescription>
+      <IncidentSpawnGroups>
+        <ContainerValues>
+          <FireSpawnGroup>
+            <UnitCountFactor>1</UnitCountFactor>
+          </FireSpawnGroup>
+          <DemagogueSpawnGroup>
+            <DemagogueClass>0</DemagogueClass>
+            <ListenersPerDemagogueBase>5</ListenersPerDemagogueBase>
+            <ListenersPerDemagogueIncreaseRate>7</ListenersPerDemagogueIncreaseRate>
+            <ListenersPerDemagogueMax>20</ListenersPerDemagogueMax>
+            <DemagoguePerBuildingBase>1</DemagoguePerBuildingBase>
+            <DemagoguePerBuildingIncreaseRate>40</DemagoguePerBuildingIncreaseRate>
+            <DemagoguePerBuildingMax>3</DemagoguePerBuildingMax>
+          </DemagogueSpawnGroup>
+        </ContainerValues>
+        <FireSpawnGroup />
+        <DemagogueSpawnGroup />
+      </IncidentSpawnGroups>
+      <CulturalBuildingSpawnGroup>
+        <VisitorSpawnClass>0</VisitorSpawnClass>
+        <TouristSpawnClass>0</TouristSpawnClass>
+        <TourismPierBuildings>0</TourismPierBuildings>
+      </CulturalBuildingSpawnGroup>
+      <InteractionConfig>
+        <ContainerValues>
+          <ReactionPairs>
+            <Source>Listen</Source>
+            <SourceSequences />
+            <Target>Listen</Target>
+            <TargetSequences />
+            <Mood />
+          </ReactionPairs>
+        </ContainerValues>
+        <ReactionsPerMood />
+        <ReactionPairs />
+      </InteractionConfig>
+      <HarborConfig>
+        <ContainerValues>
+          <WorkPlaceAssets>
+            <WorkPlace>0</WorkPlace>
+          </WorkPlaceAssets>
+          <SpawnBuildings>
+            <BuildingAsset>0</BuildingAsset>
+          </SpawnBuildings>
+          <SpawnClasses>
+            <ClassAsset>0</ClassAsset>
+          </SpawnClasses>
+        </ContainerValues>
+        <WorkPlaceAssets />
+        <SpawnBuildings />
+        <SpawnClasses />
+        <HarborPropDistribution />
+      </HarborConfig>
+      <LogisticConfig>
+        <ContainerValues>
+          <TransporterClasses>
+            <TransporterClass>0</TransporterClass>
+          </TransporterClasses>
+        </ContainerValues>
+        <TransporterClasses />
+      </LogisticConfig>
+      <TourismConfig>
+        <TourismPierBuildings>0</TourismPierBuildings>
+        <TourismFeedbackClass>0</TourismFeedbackClass>
+        <MaxPierTourists>500</MaxPierTourists>
+        <TourismPierFeedbackFactor>1</TourismPierFeedbackFactor>
+        <TourismOrnamentFactor>4</TourismOrnamentFactor>
+      </TourismConfig>
+      <MineLorryConfig>
+        <ContainerValues>
+          <LorryVariants>
+            <MineToSpawnAt>0</MineToSpawnAt>
+            <LorryEmpty>0</LorryEmpty>
+            <LorryFull>0</LorryFull>
+          </LorryVariants>
+        </ContainerValues>
+        <LorryVariants />
+      </MineLorryConfig>
+      <FisheryConfig>
+        <ContainerValues>
+          <BuildingSetup>
+            <Building>0</Building>
+            <FisherFeedbackClass>0</FisherFeedbackClass>
+            <ChanceToGoHomeAfterFishing>0.7</ChanceToGoHomeAfterFishing>
+            <MinDockingTime>5000</MinDockingTime>
+            <MaxDockingTime>9000</MaxDockingTime>
+          </BuildingSetup>
+        </ContainerValues>
+        <BuildingSetup />
+      </FisheryConfig>
+      <WoodcutterConfig>
+        <ContainerValues>
+          <WoodcutterBuildings>
+            <Building>0</Building>
+            <WoodcutterFeedbackClass>0</WoodcutterFeedbackClass>
+          </WoodcutterBuildings>
+        </ContainerValues>
+        <WoodcutterBuildings />
+      </WoodcutterConfig>
+      <HunterConfig>
+        <ContainerValues>
+          <HunterFeedbackData>
+            <HunterBuilding>0</HunterBuilding>
+            <AnimalFeedbackClass>0</AnimalFeedbackClass>
+            <HunterFeedbackClass>0</HunterFeedbackClass>
+          </HunterFeedbackData>
+        </ContainerValues>
+        <HunterFeedbackData />
+      </HunterConfig>
+      <FarmFieldConfig>
+        <ContainerValues>
+          <FarmFieldBuildings>
+            <ContainerValues>
+              <FeedbackUnits>
+                <UnitClass>0</UnitClass>
+                <SuitableWorkSequences />
+              </FeedbackUnits>
+            </ContainerValues>
+            <BuildingGroup>0</BuildingGroup>
+            <FeedbackUnits />
+          </FarmFieldBuildings>
+        </ContainerValues>
+        <FarmFieldBuildings />
+      </FarmFieldConfig>
+      <ParadeTrainConfig>
+        <ParadeTrainClass>0</ParadeTrainClass>
+      </ParadeTrainConfig>
+      <TrailerStyleToCfgs>
+        <TrailerCfgs />
+      </TrailerStyleToCfgs>
+      <ParadeSpectatorConfig>
+        <DensityRows />
+      </ParadeSpectatorConfig>
+      <Test>
+        <PersonAsset>0</PersonAsset>
+        <VehicleAsset>0</VehicleAsset>
+        <TrainAsset>0</TrainAsset>
+      </Test>
+      <WorkforceTransferConfig>
+        <WorkerPierSpawnBuilding>0</WorkerPierSpawnBuilding>
+        <WorkerFeedbackClass>0</WorkerFeedbackClass>
+      </WorkforceTransferConfig>
+      <OverwritablePart>
+        <OverwritableBalancing>0</OverwritableBalancing>
+      </OverwritablePart>
+    </FeedbackSessionDescription>
+    <FeedbackSessionDescriptionOverwritable>
+      <Inhabitants>
+        <ContainerValues>
+          <Classes>
+            <ContainerValues>
+              <SpawnClasses>
+                <ClassAsset>0</ClassAsset>
+              </SpawnClasses>
+            </ContainerValues>
+            <SpawnClasses />
+            <AutoSpawnInitBehaviour>ResidencePerson</AutoSpawnInitBehaviour>
+          </Classes>
+        </ContainerValues>
+        <SpawnBuildings>0</SpawnBuildings>
+        <Classes />
+        <NightBehaviour>HideRand</NightBehaviour>
+      </Inhabitants>
+      <NightSpawnGroups>
+        <ContainerValues>
+          <NightCrowdConfig>
+            <ContainerValues>
+              <BuildingConfigs>
+                <ContainerValues>
+                  <AdditionalFeedbackClasses>
+                    <FeedbackClass>0</FeedbackClass>
+                  </AdditionalFeedbackClasses>
+                </ContainerValues>
+                <BuildingGroup>0</BuildingGroup>
+                <AdditionalFeedbackClasses />
+                <ArrivingSequence>Celebrate</ArrivingSequence>
+              </BuildingConfigs>
+            </ContainerValues>
+            <BuildingConfigs />
+          </NightCrowdConfig>
+        </ContainerValues>
+        <NightCrowdConfig />
+      </NightSpawnGroups>
+      <Performers>
+        <ContainerValues>
+          <PerformerSequences>
+            <Sequence>default</Sequence>
+          </PerformerSequences>
+        </ContainerValues>
+        <SpawnBuildings>0</SpawnBuildings>
+        <PerformerUnit>0</PerformerUnit>
+        <PerformerSequences />
+        <ListenerSequence>Celebrate</ListenerSequence>
+        <TargetListeners>7</TargetListeners>
+        <ListenerFilter>AllUnits</ListenerFilter>
+        <PerformerPerBuilding>2</PerformerPerBuilding>
+        <NightBehavior>AlwaysShow</NightBehavior>
+        <SpawnDistance>2</SpawnDistance>
+      </Performers>
+    </FeedbackSessionDescriptionOverwritable>
+    <TrafficFeedbackClass>
+      <UnitAssets>
+        <UnitAsset>0</UnitAsset>
+        <RelativeProbability>100</RelativeProbability>
+      </UnitAssets>
+    </TrafficFeedbackClass>
+  </DefaultContainerValues>
+</Property>

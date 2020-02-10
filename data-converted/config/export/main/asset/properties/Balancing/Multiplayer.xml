@@ -1,0 +1,68 @@
+<Property>
+  <Name>Multiplayer</Name>
+  <DefaultValues>
+    <Chat>
+      <ChatCommands />
+      <ChatPrompts />
+      <InvalidNameOutput>0</InvalidNameOutput>
+      <HelpOutput>0</HelpOutput>
+      <MuteErrorTexts />
+      <WhisperErrorTexts />
+      <IsTypingTexts />
+      <QuickChatEmotes />
+      <UnmuteAllSystemText>0</UnmuteAllSystemText>
+      <VoiceChatChannels />
+      <TextChatChannels />
+      <MessageSounds />
+      <VoiceChatSounds />
+      <InfoTips />
+    </Chat>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <Chat>
+      <ChatCommands>
+        <InputCommand>0</InputCommand>
+        <Output>0</Output>
+        <HelpOutput>0</HelpOutput>
+      </ChatCommands>
+      <ChatPrompts>
+        <Prompt>0</Prompt>
+      </ChatPrompts>
+      <MuteErrorTexts>
+        <CannotMuteYourselfOutput>0</CannotMuteYourselfOutput>
+        <PlayerWasAlreadyMutedOutput>0</PlayerWasAlreadyMutedOutput>
+        <PlayerWasNotMutedOutput>0</PlayerWasNotMutedOutput>
+      </MuteErrorTexts>
+      <WhisperErrorTexts>
+        <WhisperToYourselfOutput>0</WhisperToYourselfOutput>
+      </WhisperErrorTexts>
+      <IsTypingTexts>
+        <SinglePlayer>0</SinglePlayer>
+        <MultiplePlayers>0</MultiplePlayers>
+      </IsTypingTexts>
+      <QuickChatEmotes>
+        <EmoteText>0</EmoteText>
+      </QuickChatEmotes>
+      <VoiceChatChannels>
+        <ChannelName>0</ChannelName>
+      </VoiceChatChannels>
+      <TextChatChannels>
+        <ChannelName>0</ChannelName>
+      </TextChatChannels>
+      <MessageSounds>
+        <IncomingOpen>0</IncomingOpen>
+        <IncomingClosed>0</IncomingClosed>
+      </MessageSounds>
+      <VoiceChatSounds>
+        <ChannelSwitch>0</ChannelSwitch>
+        <OtherJoin>0</OtherJoin>
+        <OtherLeave>0</OtherLeave>
+      </VoiceChatSounds>
+      <InfoTips>
+        <MutePlayerButtonInfotip>0</MutePlayerButtonInfotip>
+        <MuteOwnAudioButtonInfotip>0</MuteOwnAudioButtonInfotip>
+        <MuteOwnMicButtonInfotip>0</MuteOwnMicButtonInfotip>
+      </InfoTips>
+    </Chat>
+  </DefaultContainerValues>
+</Property>

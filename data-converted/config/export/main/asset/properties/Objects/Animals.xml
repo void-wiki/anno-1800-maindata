@@ -1,0 +1,42 @@
+<Property>
+  <Name>Animals</Name>
+  <DefaultValues>
+    <AnimalBase>
+      <AnimalCFGs />
+      <AutoSpawnDuringMapLoad>1</AutoSpawnDuringMapLoad>
+      <AutoSpawn_AmbientZones>North;Moderate;South</AutoSpawn_AmbientZones>
+      <AutoSpawn_Regions>Moderate;Colony01</AutoSpawn_Regions>
+      <UnitCountMin>2</UnitCountMin>
+      <UnitCountMax>10</UnitCountMax>
+      <AutoSpawn_RelativeProbability>100</AutoSpawn_RelativeProbability>
+      <Animal_AudioLoop>0</Animal_AudioLoop>
+      <ScaleFactor>1</ScaleFactor>
+      <ScaleDeviationFactorMin>0.8</ScaleDeviationFactorMin>
+      <ScaleDeviationFactorMax>1</ScaleDeviationFactorMax>
+      <HappyDayRestriction>ChristmanSeason</HappyDayRestriction>
+    </AnimalBase>
+    <FishShoal>
+      <WaterLayer>Coast</WaterLayer>
+    </FishShoal>
+    <Flock>
+      <AutoSpawnOverWholeMap>1</AutoSpawnOverWholeMap>
+      <AutoSpawnOverIsland>1</AutoSpawnOverIsland>
+      <MinHeight>8</MinHeight>
+      <MaxHeight>15</MaxHeight>
+      <DynamicAutoSpawning>None</DynamicAutoSpawning>
+    </Flock>
+    <Herd>
+      <StandTogetherRadius>2.2</StandTogetherRadius>
+      <GroupPositionChangeInterval>40000</GroupPositionChangeInterval>
+      <IndividualPositionChangeInterval>20000</IndividualPositionChangeInterval>
+      <GreetingInterval>60000</GreetingInterval>
+    </Herd>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <AnimalBase>
+      <AnimalCFGs>
+        <RelativeProbability>100</RelativeProbability>
+      </AnimalCFGs>
+    </AnimalBase>
+  </DefaultContainerValues>
+</Property>

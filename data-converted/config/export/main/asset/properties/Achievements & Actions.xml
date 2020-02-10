@@ -1,0 +1,32 @@
+<Property>
+  <Name>Achievements &amp; Actions</Name>
+  <DefaultValues>
+    <Achievement>
+      <AchievementCategory>Economy</AchievementCategory>
+      <AchievementTitle>0</AchievementTitle>
+      <AchievementDescription>0</AchievementDescription>
+      <AchievementPoints>10</AchievementPoints>
+      <AchievementDifficulty>Beginner</AchievementDifficulty>
+    </Achievement>
+    <AchievementBalancing>
+      <CategoryDesc />
+    </AchievementBalancing>
+    <AchievementReward>
+      <RewardAsset>0</RewardAsset>
+      <TextTitle>0</TextTitle>
+      <TextDescription>0</TextDescription>
+      <RewardCategory>OrnamentalBuildings</RewardCategory>
+    </AchievementReward>
+    <UplayAction />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <AchievementBalancing>
+      <CategoryDesc>
+        <CategoryName>0</CategoryName>
+        <IconEasy>0</IconEasy>
+        <IconMedium>0</IconMedium>
+        <IconHard>0</IconHard>
+      </CategoryDesc>
+    </AchievementBalancing>
+  </DefaultContainerValues>
+</Property>

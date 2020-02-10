@@ -1,0 +1,116 @@
+<Property>
+  <Name>Conditions - Do not configure default values here!</Name>
+  <DefaultValues>
+    <Condition>
+      <SubConditionCompletionOrder>Parallel</SubConditionCompletionOrder>
+    </Condition>
+    <ConditionPropsExecutionPlaceSettings>
+      <ExecutionPlace>
+        <Template>ConditionObjectUseDefaultSettings</Template>
+        <Values>
+          <ConditionObjectUseDefaultSettings />
+        </Values>
+      </ExecutionPlace>
+      <ExecutionPlaceText>0</ExecutionPlaceText>
+      <ExecutionPlaceConfirmOnReached>1</ExecutionPlaceConfirmOnReached>
+    </ConditionPropsExecutionPlaceSettings>
+    <ConditionPropsNegatable />
+    <ConditionPropsSessionSettings />
+    <PreConditionList>
+      <Condition>
+        <Template>ConditionActiveRegion</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveRegion />
+        </Values>
+      </Condition>
+      <SubConditions />
+    </PreConditionList>
+    <Trigger>
+      <TriggerCondition>
+        <Template>ConditionActiveRegion</Template>
+        <Values>
+          <Condition />
+          <ConditionActiveRegion />
+        </Values>
+      </TriggerCondition>
+      <TriggerActions />
+      <SubTriggers />
+      <ResetTrigger>
+        <Template>EmptyAutoCreateValue</Template>
+        <Values>
+          <EmptyAutoCreateValue />
+        </Values>
+      </ResetTrigger>
+    </Trigger>
+    <TriggerSequence>
+      <Triggers />
+    </TriggerSequence>
+    <TriggerSetup />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <PreConditionList>
+      <SubConditions>
+        <SubCondition>
+          <Template>PreConditionList</Template>
+          <Values>
+            <PreConditionList>
+              <Condition>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>ConditionAlwaysTrue</Template>
+                <Values>
+                  <Condition />
+                  <ConditionAlwaysTrue />
+                </Values>
+              </Condition>
+            </PreConditionList>
+          </Values>
+        </SubCondition>
+      </SubConditions>
+    </PreConditionList>
+    <Trigger>
+      <TriggerActions>
+        <TriggerAction>
+          <Template>ActionLink</Template>
+          <Values>
+            <ActionLink />
+          </Values>
+        </TriggerAction>
+      </TriggerActions>
+      <SubTriggers>
+        <SubTrigger>
+          <Template>AutoCreateTrigger</Template>
+          <Values>
+            <Trigger>
+              <TriggerCondition>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>ConditionAlwaysTrue</Template>
+                <Values>
+                  <Condition />
+                  <ConditionAlwaysTrue />
+                </Values>
+              </TriggerCondition>
+              <ResetTrigger>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>EmptyAutoCreateValue</Template>
+                <Values>
+                  <EmptyAutoCreateValue />
+                </Values>
+              </ResetTrigger>
+            </Trigger>
+          </Values>
+        </SubTrigger>
+      </SubTriggers>
+    </Trigger>
+    <TriggerSequence>
+      <Triggers>
+        <Trigger>
+          <Template>AutoCreateTrigger</Template>
+          <Values>
+            <Trigger />
+          </Values>
+        </Trigger>
+      </Triggers>
+    </TriggerSequence>
+  </DefaultContainerValues>
+</Property>

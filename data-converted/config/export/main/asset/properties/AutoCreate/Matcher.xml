@@ -1,0 +1,70 @@
+<Property>
+  <Name>Matcher</Name>
+  <DefaultValues>
+    <Matcher>
+      <Criterion>
+        <Template>MatcherCriterionAnd</Template>
+        <Values>
+          <MatcherCriterion />
+          <MatcherCriterionAnd />
+        </Values>
+      </Criterion>
+    </Matcher>
+    <MatcherCriterion />
+    <MatcherCriterionAnd>
+      <CriterionOperandListAnd />
+    </MatcherCriterionAnd>
+    <MatcherCriterionDiplomacyState>
+      <ParticipantSource>Human0</ParticipantSource>
+      <DiplomacyStateMatched>War</DiplomacyStateMatched>
+    </MatcherCriterionDiplomacyState>
+    <MatcherCriterionDropTarget />
+    <MatcherCriterionGuardable />
+    <MatcherCriterionGUID>
+      <ObjectMatched>0</ObjectMatched>
+    </MatcherCriterionGUID>
+    <MatcherCriterionHappinessMood>
+      <MatchedHappinessMood>Angry</MatchedHappinessMood>
+    </MatcherCriterionHappinessMood>
+    <MatcherCriterionInteractable />
+    <MatcherCriterionIsland>
+      <IslandToMatch>0</IslandToMatch>
+    </MatcherCriterionIsland>
+    <MatcherCriterionMoveable />
+    <MatcherCriterionObjectState>
+      <StateFlagsMatched />
+    </MatcherCriterionObjectState>
+    <MatcherCriterionObjectType>
+      <MatchedObjectType>GameObject</MatchedObjectType>
+    </MatcherCriterionObjectType>
+    <MatcherCriterionOr>
+      <CriterionOperandListOr />
+    </MatcherCriterionOr>
+    <MatcherCriterionOwner>
+      <OwnerMatched>Human0</OwnerMatched>
+    </MatcherCriterionOwner>
+    <MatcherCriterionProperty />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <MatcherCriterionAnd>
+      <CriterionOperandListAnd>
+        <CriterionOperand>
+          <Template>EmptyAutoCreateValue</Template>
+          <Values>
+            <EmptyAutoCreateValue />
+          </Values>
+        </CriterionOperand>
+      </CriterionOperandListAnd>
+    </MatcherCriterionAnd>
+    <MatcherCriterionOr>
+      <CriterionOperandListOr>
+        <CriterionOperand>
+          <Template>EmptyAutoCreateValue</Template>
+          <Values>
+            <EmptyAutoCreateValue />
+          </Values>
+        </CriterionOperand>
+      </CriterionOperandListOr>
+    </MatcherCriterionOr>
+  </DefaultContainerValues>
+</Property>

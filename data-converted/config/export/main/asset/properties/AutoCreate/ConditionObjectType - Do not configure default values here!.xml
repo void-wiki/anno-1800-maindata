@@ -1,0 +1,52 @@
+<Property>
+  <Name>ConditionObjectType - Do not configure default values here!</Name>
+  <DefaultValues>
+    <ConditionObjectAnywhere />
+    <ConditionObjectClientQuestObject />
+    <ConditionObjectiveSignsAndFeedback>
+      <Infolayer>0</Infolayer>
+      <MinimapToken>0</MinimapToken>
+      <ShowMinimapToken>1</ShowMinimapToken>
+    </ConditionObjectiveSignsAndFeedback>
+    <ConditionObjectPlayerKontor />
+    <ConditionObjectPrebuiltObject>
+      <PrebuiltObject>0</PrebuiltObject>
+      <PrebuiltObjectOwner>Human0</PrebuiltObjectOwner>
+      <PrebuiltObjectSession>0</PrebuiltObjectSession>
+    </ConditionObjectPrebuiltObject>
+    <ConditionObjectSpawnedObject>
+      <ExecutionObject>0</ExecutionObject>
+      <ObjectSpawnArea>
+        <Template>QuestSpawnArea</Template>
+        <Values>
+          <SpawnArea />
+        </Values>
+      </ObjectSpawnArea>
+      <ObjectDespawn>LeaveMap</ObjectDespawn>
+      <ObjectOwner>Neutral</ObjectOwner>
+      <SpawnTiming>OnQuestActivated</SpawnTiming>
+      <VisualObjectOwner>Human0</VisualObjectOwner>
+    </ConditionObjectSpawnedObject>
+    <ConditionObjectStarterObject />
+    <ConditionObjectUseDefaultSettings />
+    <ConditionScanner>
+      <DEPRECATED_ScannerPool />
+      <ScannerPoolAdvanced />
+    </ConditionScanner>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ConditionScanner>
+      <DEPRECATED_ScannerPool>
+        <GUID>0</GUID>
+      </DEPRECATED_ScannerPool>
+      <ScannerPoolAdvanced>
+        <Scanner>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </Scanner>
+      </ScannerPoolAdvanced>
+    </ConditionScanner>
+  </DefaultContainerValues>
+</Property>

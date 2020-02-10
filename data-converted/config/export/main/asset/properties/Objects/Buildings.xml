@@ -1,0 +1,175 @@
+<Property>
+  <Name>Buildings</Name>
+  <DefaultValues>
+    <AreaConnector>
+      <ShowGhost>1</ShowGhost>
+    </AreaConnector>
+    <Blocking>
+      <HidePropsRadius>1</HidePropsRadius>
+      <DeletePropsRadius>1</DeletePropsRadius>
+      <GroundDecalAsset>0</GroundDecalAsset>
+      <GroundDecalInvisible>0</GroundDecalInvisible>
+      <StreetOutside>0</StreetOutside>
+      <RemoveGrass>1</RemoveGrass>
+      <BlocksBuilding>1</BlocksBuilding>
+    </Blocking>
+    <Bridge>
+      <MinLength>2</MinLength>
+      <MaxLength>15</MaxLength>
+    </Bridge>
+    <Building>
+      <BuildingType>Other</BuildingType>
+      <BuildingCategoryName>0</BuildingCategoryName>
+      <Destructable>1</Destructable>
+      <Movable>1</Movable>
+      <PickingAsset>0</PickingAsset>
+      <ConstructionMenuText>0</ConstructionMenuText>
+      <HasBorderRectOutline>1</HasBorderRectOutline>
+      <SnapRadius>2</SnapRadius>
+      <TerrainType>Terrain</TerrainType>
+      <InfluencedByNeighbors />
+      <InfluencedVariationDirection />
+      <AssociatedRegions>Meta;Moderate;Colony01;Arctic</AssociatedRegions>
+      <BuildingBlockPool />
+      <TakeOverTransformation>Destroy</TakeOverTransformation>
+    </Building>
+    <BuildingModule>
+      <ModuleType>Main</ModuleType>
+    </BuildingModule>
+    <Constructable>
+      <ConstructionMode>Default</ConstructionMode>
+      <DestructionCategory>Other</DestructionCategory>
+      <DestructionType>0</DestructionType>
+    </Constructable>
+    <Culture>
+      <CultureType>Culture</CultureType>
+      <Sets />
+      <UndiscoveredSet>0</UndiscoveredSet>
+      <ModuleListHeader>0</ModuleListHeader>
+      <OpenSetPages>0</OpenSetPages>
+    </Culture>
+    <DistributionCenter>
+      <KontorType>Main</KontorType>
+      <KontorUpgrades />
+    </DistributionCenter>
+    <IslandUnique>
+      <UniqueType>None</UniqueType>
+    </IslandUnique>
+    <ItemCrafterBuilding />
+    <LoadingPier />
+    <ModuleOwner>
+      <ModuleLimits />
+      <ConstructionOptions />
+      <ImplicitProductivityModules>1</ImplicitProductivityModules>
+      <AddModuleLimit>100</AddModuleLimit>
+      <WaterLevelsWorking />
+    </ModuleOwner>
+    <Monument>
+      <UpgradeTarget>0</UpgradeTarget>
+      <MicrophaseCount>10</MicrophaseCount>
+      <ConstructionStateText />
+      <UnfinishedIcon>0</UnfinishedIcon>
+      <FinishedIcon>0</FinishedIcon>
+      <MonumentEventsCategories />
+      <ShutdownText>0</ShutdownText>
+      <FakePrerequisites />
+      <FinishButtonText>163013</FinishButtonText>
+      <MonumentFluff>0</MonumentFluff>
+      <MonumentHeadline>0</MonumentHeadline>
+      <BackgroundImage />
+    </Monument>
+    <Ornament>
+      <OrnamentIconInfotip>0</OrnamentIconInfotip>
+      <OrnamentDescritpion>0</OrnamentDescritpion>
+    </Ornament>
+    <RepairCrane>
+      <HealRadius>15</HealRadius>
+      <HealPerMinute>300</HealPerMinute>
+      <HealInfolayer>25000199</HealInfolayer>
+      <RepairDelay>5000</RepairDelay>
+      <HealBuildingsPerMinute>150</HealBuildingsPerMinute>
+      <RepairEffect>data/graphics/effects/feedback/repair_crane_feedback01.cfg</RepairEffect>
+    </RepairCrane>
+    <Shipyard>
+      <AssemblyOptions />
+    </Shipyard>
+    <Slot>
+      <SlotType>None</SlotType>
+      <WorkArea>0</WorkArea>
+      <SlotCategoryName>12718</SlotCategoryName>
+    </Slot>
+    <StreetActivation />
+    <ThirdPartyObject>
+      <ThirdPartyProfile>0</ThirdPartyProfile>
+      <ThirdPartyWelcomeText />
+      <ThirdPartyIdleText />
+    </ThirdPartyObject>
+    <Upgradable>
+      <NextGUID>0</NextGUID>
+      <UpgradeCost />
+    </Upgradable>
+    <VisitorHarbor>
+      <SpawnProbabilityBase>1</SpawnProbabilityBase>
+    </VisitorHarbor>
+    <WorkforceConnector />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <Building>
+      <InfluencedByNeighbors>
+        <Building>0</Building>
+      </InfluencedByNeighbors>
+      <InfluencedVariationDirection>
+        <Type>DontCare</Type>
+      </InfluencedVariationDirection>
+      <BuildingBlockPool>
+        <Pool />
+      </BuildingBlockPool>
+    </Building>
+    <Culture>
+      <Sets>
+        <Set>0</Set>
+      </Sets>
+    </Culture>
+    <DistributionCenter>
+      <KontorUpgrades>
+        <Asset>0</Asset>
+      </KontorUpgrades>
+    </DistributionCenter>
+    <ModuleOwner>
+      <ConstructionOptions>
+        <ModuleGUID>0</ModuleGUID>
+      </ConstructionOptions>
+    </ModuleOwner>
+    <Monument>
+      <ConstructionStateText>
+        <Text>0</Text>
+      </ConstructionStateText>
+      <MonumentEventsCategories>
+        <EventCategory>0</EventCategory>
+      </MonumentEventsCategories>
+      <FakePrerequisites>
+        <Prerequisite>0</Prerequisite>
+      </FakePrerequisites>
+    </Monument>
+    <Shipyard>
+      <AssemblyOptions>
+        <Vehicle>0</Vehicle>
+      </AssemblyOptions>
+    </Shipyard>
+    <ThirdPartyObject>
+      <ThirdPartyWelcomeText>
+        <Text>0</Text>
+        <Subtitle>0</Subtitle>
+      </ThirdPartyWelcomeText>
+      <ThirdPartyIdleText>
+        <Text>0</Text>
+        <Subtitle>0</Subtitle>
+      </ThirdPartyIdleText>
+    </ThirdPartyObject>
+    <Upgradable>
+      <UpgradeCost>
+        <Ingredient>0</Ingredient>
+      </UpgradeCost>
+    </Upgradable>
+  </DefaultContainerValues>
+</Property>

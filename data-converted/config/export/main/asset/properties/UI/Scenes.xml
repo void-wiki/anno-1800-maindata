@@ -1,0 +1,614 @@
+<Property>
+  <Name>Scenes</Name>
+  <DefaultValues>
+    <ActiveTradeScene>
+      <BuysEverythingIcon>0</BuysEverythingIcon>
+      <BuysEverythingInfotip>0</BuysEverythingInfotip>
+      <StackModeText>0</StackModeText>
+    </ActiveTradeScene>
+    <AttractivenessPopup>
+      <DisplayedAttractivenessTypes />
+      <PollutionCardConfig />
+    </AttractivenessPopup>
+    <ChatNotificationScene />
+    <CraftingPopup>
+      <CraftingIcon>0</CraftingIcon>
+      <MissingResourcesText>0</MissingResourcesText>
+      <CraftableText>0</CraftableText>
+      <EmptyCraftingIcon>0</EmptyCraftingIcon>
+      <SelectedItemInfotip>0</SelectedItemInfotip>
+      <ItemFilterPerRegion />
+    </CraftingPopup>
+    <CreateGameScene>
+      <Portraits />
+      <Logos />
+      <SinglePlayerHeadline>0</SinglePlayerHeadline>
+      <MultiPlayerHeadline>0</MultiPlayerHeadline>
+      <PlayerAvailableColors />
+      <CampaignEnabledText>0</CampaignEnabledText>
+      <CampaignDisabledText>0</CampaignDisabledText>
+      <TutorialEnabled>0</TutorialEnabled>
+      <TutorialDisabled>0</TutorialDisabled>
+      <PortraitInfotip>0</PortraitInfotip>
+    </CreateGameScene>
+    <CreditsScene>
+      <ScrollStartPosition>1100</ScrollStartPosition>
+      <CreditsUrl>data/config/gui/credits.txt</CreditsUrl>
+      <ScrollPixelPerSecond>20</ScrollPixelPerSecond>
+      <CreditVideo />
+    </CreditsScene>
+    <DifficultySettingsScene>
+      <PresetDescription />
+      <AdvancedPages />
+      <DifficultiesSinglePlayerHeadline>0</DifficultiesSinglePlayerHeadline>
+      <DifficultiesMultiPlayerHeadline>0</DifficultiesMultiPlayerHeadline>
+      <StartButtonSinglePlayerText>0</StartButtonSinglePlayerText>
+      <StartButtonMultiPlayerText>0</StartButtonMultiPlayerText>
+      <PlayerInfo />
+      <CustomDifficultyIcon />
+      <SecondPartyDlcWarningText>0</SecondPartyDlcWarningText>
+      <SecondPartyDlcWarningInfotip>0</SecondPartyDlcWarningInfotip>
+      <SecondPartyConfirmBtnWarningInfotip>0</SecondPartyConfirmBtnWarningInfotip>
+    </DifficultySettingsScene>
+    <DiplomacyScene>
+      <RadialMenuButton />
+      <DiplomacyMessageTrigger />
+      <GiftButtons />
+      <NegotiationButton />
+      <ThreatButton />
+      <DiplomacyButtonPrecheck />
+      <TimeIcons />
+      <PlayerResources />
+    </DiplomacyScene>
+    <ExpeditionOverviewScene>
+      <ExpeditionShowEventButtonText>0</ExpeditionShowEventButtonText>
+      <ExpeditionShowEventButtonSound>0</ExpeditionShowEventButtonSound>
+      <StartExpeditionWithTradeButtonText>0</StartExpeditionWithTradeButtonText>
+      <StartExpeditionWithTradeButtonSound>0</StartExpeditionWithTradeButtonSound>
+      <StartExpeditionButtonText>0</StartExpeditionButtonText>
+      <StartExpeditionButtonSound>0</StartExpeditionButtonSound>
+      <AssignShipToExpeditionButtonText>0</AssignShipToExpeditionButtonText>
+      <AssignShipToExpeditionButtonSound>0</AssignShipToExpeditionButtonSound>
+    </ExpeditionOverviewScene>
+    <IconInfolayerScene>
+      <TransporterIconIdle>0</TransporterIconIdle>
+      <TransporterIconQueued>0</TransporterIconQueued>
+      <TransporterIconLoadingUnloading>0</TransporterIconLoadingUnloading>
+      <TransporterIconTravelling>0</TransporterIconTravelling>
+      <TransporterIconTravellingEmpty>0</TransporterIconTravellingEmpty>
+    </IconInfolayerScene>
+    <InfluencePopup>
+      <InfluencePopupTitle>0</InfluencePopupTitle>
+      <InfluencePopupCommentTitle>0</InfluencePopupCommentTitle>
+      <InfluencePopupCommentText>0</InfluencePopupCommentText>
+      <PropagandaDescription>0</PropagandaDescription>
+    </InfluencePopup>
+    <IslandBarScene>
+      <WorkforceInfotip>0</WorkforceInfotip>
+      <CultureSizeIndicatorInfotip>0</CultureSizeIndicatorInfotip>
+      <AttractivenessButton>0</AttractivenessButton>
+      <NoCivilizationIcon>0</NoCivilizationIcon>
+      <WarStatusTexts />
+      <WorkforceBlacklist />
+    </IslandBarScene>
+    <IslandStorage>
+      <TradeBuySellIconSmall>0</TradeBuySellIconSmall>
+      <TradeBuyIconSmall>0</TradeBuyIconSmall>
+      <TradeSellIconSmall>0</TradeSellIconSmall>
+      <TradeBuySellIconBig>0</TradeBuySellIconBig>
+      <TradeBuyIconBig>0</TradeBuyIconBig>
+      <TradeSellIconBig>0</TradeSellIconBig>
+      <TradeLimitBuySellIcon>0</TradeLimitBuySellIcon>
+      <TradeLimitBuyIcon>0</TradeLimitBuyIcon>
+      <TradeLimitSellIcon>0</TradeLimitSellIcon>
+      <TendencyIconMap>0</TendencyIconMap>
+    </IslandStorage>
+    <LoadingScene>
+      <LoadingTips />
+    </LoadingScene>
+    <MinimapScene>
+      <FixDaytimeValues />
+      <ZoomSteps />
+      <Filters />
+      <MinimapDotSortOrder />
+      <FertilityOrder />
+      <LodesOrder />
+      <TerrainTexture />
+      <UnsettledIslandText>0</UnsettledIslandText>
+    </MinimapScene>
+    <MPLobbyScene>
+      <ThirdPartyButtonText>0</ThirdPartyButtonText>
+      <AdvancedSettingsButtonText>0</AdvancedSettingsButtonText>
+      <StartButtonText>0</StartButtonText>
+      <ReadyButtonText>0</ReadyButtonText>
+      <NotReadyButtonText>0</NotReadyButtonText>
+      <TeamNames />
+      <LobbyInfoTips />
+    </MPLobbyScene>
+    <MPQuickMatchLobbyScene>
+      <QuickMatchType />
+      <DefaultStateText>0</DefaultStateText>
+      <MatchFound>0</MatchFound>
+    </MPQuickMatchLobbyScene>
+    <NewspaperScene>
+      <InfluenceText>0</InfluenceText>
+      <NewspaperVolumeText>0</NewspaperVolumeText>
+      <NewspaperHeadlineText>0</NewspaperHeadlineText>
+      <EditorText>0</EditorText>
+      <EffectVisualization />
+      <ArticleInfotip>0</ArticleInfotip>
+      <ArchiveArticleInfotip>0</ArchiveArticleInfotip>
+      <EditorProfile>Human0</EditorProfile>
+      <ArticleEffectColors />
+      <AnarchyCategoryText>0</AnarchyCategoryText>
+      <AnarchyArticleCharacterImage>0</AnarchyArticleCharacterImage>
+      <PropagandaArticleCharacterImage>0</PropagandaArticleCharacterImage>
+    </NewspaperScene>
+    <OnlineMarketScene>
+      <Collect>0</Collect>
+      <CreateOffer>0</CreateOffer>
+      <UnlockOffer>0</UnlockOffer>
+      <Purchase>0</Purchase>
+      <VerifyPurchaseHeadline>0</VerifyPurchaseHeadline>
+      <VerifyPurchaseContext>0</VerifyPurchaseContext>
+      <VerifyOfferHeadline>0</VerifyOfferHeadline>
+      <VerifyOfferContext>0</VerifyOfferContext>
+      <VerifyPurchaseFailContext>0</VerifyPurchaseFailContext>
+      <VerifyPurchaseFailDatabaseError>0</VerifyPurchaseFailDatabaseError>
+      <VerifyPurchaseOk>0</VerifyPurchaseOk>
+      <VerifyPurchaseSuccess>0</VerifyPurchaseSuccess>
+      <VerifyOfferPending>0</VerifyOfferPending>
+      <VerifyOfferSuccess>0</VerifyOfferSuccess>
+      <VerifyOfferFailedMissingItemOwnership>0</VerifyOfferFailedMissingItemOwnership>
+      <VerifyOfferFailedItemOnSale>0</VerifyOfferFailedItemOnSale>
+      <VerifyOfferFailedInternalError>0</VerifyOfferFailedInternalError>
+    </OnlineMarketScene>
+    <OnScreenNotificationScene />
+    <OptionsScene>
+      <ResolutionHeadline>0</ResolutionHeadline>
+      <ResolutionInfotip>0</ResolutionInfotip>
+      <TextLanguageHeadline>0</TextLanguageHeadline>
+      <TextLanguageInfotip>0</TextLanguageInfotip>
+      <AudioLanguageHeadline>0</AudioLanguageHeadline>
+      <AudioLanguageInfotip>0</AudioLanguageInfotip>
+      <DirectXHeadline>0</DirectXHeadline>
+      <DirectXInfotip>0</DirectXInfotip>
+      <DirectX11Entry>0</DirectX11Entry>
+      <DirectX12Entry>0</DirectX12Entry>
+      <GraphicAdapterHeadline>0</GraphicAdapterHeadline>
+      <GraphicAdapterInfotip>0</GraphicAdapterInfotip>
+      <ToggleOn>0</ToggleOn>
+      <ToggleOff>0</ToggleOff>
+      <ShortcutChangeableInfotip>0</ShortcutChangeableInfotip>
+      <ShortcutUnchangableInfotip>0</ShortcutUnchangableInfotip>
+    </OptionsScene>
+    <PauseMenuScene>
+      <PauseSinglePlayerHeadline>0</PauseSinglePlayerHeadline>
+      <PauseMultiPlayerHeadline>0</PauseMultiPlayerHeadline>
+    </PauseMenuScene>
+    <ProfileSelectionScene>
+      <CampaignOnDescription>0</CampaignOnDescription>
+      <CampaignOffDescription>0</CampaignOffDescription>
+    </ProfileSelectionScene>
+    <QuestBookScene>
+      <QuestBookCategories />
+      <QuestBookTitle>0</QuestBookTitle>
+      <QuestBookCategoryAssignment />
+    </QuestBookScene>
+    <QuestTrackerScene>
+      <QuestCategoryAssignment />
+      <QuestCategories />
+      <QuestTypes />
+      <StoryTextInfotip>0</StoryTextInfotip>
+      <RewardInfotip>0</RewardInfotip>
+      <RewardItemInfotip>0</RewardItemInfotip>
+      <RewardReputationInfotip>0</RewardReputationInfotip>
+      <RewardDisguisedInfotip>0</RewardDisguisedInfotip>
+      <IconMin>0</IconMin>
+      <IconMax>0</IconMax>
+    </QuestTrackerScene>
+    <ResourceBarScene>
+      <CreditsInfotip>0</CreditsInfotip>
+      <BalanceInfotip>0</BalanceInfotip>
+      <PopulationInfotip>0</PopulationInfotip>
+      <InfluenceInfotip>0</InfluenceInfotip>
+      <OnlineBarMaxIcon>0</OnlineBarMaxIcon>
+      <OnlineBarMinIcon>0</OnlineBarMinIcon>
+      <DawnBtnInfotip>0</DawnBtnInfotip>
+      <DayBtnInfotip>0</DayBtnInfotip>
+      <DuskBtnInfotip>0</DuskBtnInfotip>
+      <NightBtnInfotip>0</NightBtnInfotip>
+    </ResourceBarScene>
+    <SessionScene>
+      <SessionList />
+    </SessionScene>
+    <SessionTradeRouteOverviewScene>
+      <RouteCreateButtons />
+      <NoGoodsInfoTip>0</NoGoodsInfoTip>
+      <NoShipsInfoTip>0</NoShipsInfoTip>
+      <AllShipsPausedInfoTip>0</AllShipsPausedInfoTip>
+      <GeneralWarningInfoTip>0</GeneralWarningInfoTip>
+    </SessionTradeRouteOverviewScene>
+    <SessionTradeRoutesScene>
+      <DefaultTradeRouteName>0</DefaultTradeRouteName>
+      <ShipListInfoTip>0</ShipListInfoTip>
+      <WarIcon>0</WarIcon>
+      <TradeRightsIcon>0</TradeRightsIcon>
+      <NotEnoughSlotsInfoTip>0</NotEnoughSlotsInfoTip>
+      <NotEnoughStationsInfoTip>0</NotEnoughStationsInfoTip>
+      <InvalidStationInfoTip>0</InvalidStationInfoTip>
+      <GoodsWarningInfoTip>0</GoodsWarningInfoTip>
+      <LongWaitingInfoTip>0</LongWaitingInfoTip>
+      <MismatchingGoodInfoTip>0</MismatchingGoodInfoTip>
+      <GoodFilter />
+      <Headlines />
+      <SelectGoodPopup />
+      <ParticipantFilter />
+    </SessionTradeRoutesScene>
+    <SessionTradeTransfer>
+      <Category1Description>0</Category1Description>
+      <Category2Description>0</Category2Description>
+      <Category3Description>0</Category3Description>
+      <Category4Description>0</Category4Description>
+      <Category1ButtonText>0</Category1ButtonText>
+      <Category2ButtonText>0</Category2ButtonText>
+      <Category3ButtonText>0</Category3ButtonText>
+      <Category4ButtonText>0</Category4ButtonText>
+      <SelectSourceHarbour>0</SelectSourceHarbour>
+      <SelectDestinationHarbour>0</SelectDestinationHarbour>
+    </SessionTradeTransfer>
+    <SideNotificationsArchive>
+      <ArchiveButtons />
+      <TimestampTexts />
+      <CoopSessionIcons />
+      <CoopPeerButtonInfotip>0</CoopPeerButtonInfotip>
+    </SideNotificationsArchive>
+    <SideNotificationScene>
+      <CategoryInfotip>0</CategoryInfotip>
+    </SideNotificationScene>
+    <StatisticMenu>
+      <CategoryNames />
+      <IncomeCategoryNames />
+      <IslandSelectionGlobal>0</IslandSelectionGlobal>
+      <GraphStyles />
+      <ProductFilter>0</ProductFilter>
+      <ProductionTendency />
+      <StatisticMenuInfotips />
+      <BuildingsTabText>0</BuildingsTabText>
+      <AllGoodIcon>0</AllGoodIcon>
+      <AllGoodText>0</AllGoodText>
+      <BuildingStatus />
+      <KeywordFilter>0</KeywordFilter>
+    </StatisticMenu>
+    <TreasureMapScene>
+      <RarityToMapQuality />
+    </TreasureMapScene>
+    <WorkforceMenu>
+      <WorkforceList />
+      <SliderScaleOvertime />
+      <SliderScaleStress />
+      <WorkforceTitleText>0</WorkforceTitleText>
+      <SliderSublineText />
+      <SatisfactionIconMap>0</SatisfactionIconMap>
+      <ProductivityIconMap>0</ProductivityIconMap>
+      <WorkforceHeader>0</WorkforceHeader>
+      <BoostableFactories />
+    </WorkforceMenu>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <AttractivenessPopup>
+      <DisplayedAttractivenessTypes>
+        <ContainerValues>
+          <Types>
+            <Type>Culture</Type>
+          </Types>
+        </ContainerValues>
+        <Types />
+        <CardName>0</CardName>
+        <Description>0</Description>
+      </DisplayedAttractivenessTypes>
+      <PollutionCardConfig>
+        <MaxListedFactories>3</MaxListedFactories>
+      </PollutionCardConfig>
+    </AttractivenessPopup>
+    <CraftingPopup>
+      <ItemFilterPerRegion>
+        <CraftingItemFilter>0</CraftingItemFilter>
+      </ItemFilterPerRegion>
+    </CraftingPopup>
+    <CreateGameScene>
+      <Portraits>
+        <Portrait>0</Portrait>
+      </Portraits>
+      <Logos>
+        <Logo>0</Logo>
+      </Logos>
+    </CreateGameScene>
+    <DifficultySettingsScene>
+      <PresetDescription>
+        <ContainerValues>
+          <Summary>
+            <Entry>0</Entry>
+          </Summary>
+        </ContainerValues>
+        <Summary />
+      </PresetDescription>
+      <AdvancedPages>
+        <ContainerValues>
+          <Options>
+            <EntryType>Header</EntryType>
+            <DifficultySetting>ConstructionCostRefund</DifficultySetting>
+            <Header>0</Header>
+            <Icon>0</Icon>
+            <LightIcon>0</LightIcon>
+          </Options>
+        </ContainerValues>
+        <PageType>SecondPartyPage</PageType>
+        <PageName>0</PageName>
+        <Options />
+      </AdvancedPages>
+      <PlayerInfo>
+        <GameModeCampaign>0</GameModeCampaign>
+        <GameModeSandbox>0</GameModeSandbox>
+        <TutorialEnabled>0</TutorialEnabled>
+        <TutorialDisabled>0</TutorialDisabled>
+      </PlayerInfo>
+      <CustomDifficultyIcon>
+        <Icon>0</Icon>
+      </CustomDifficultyIcon>
+    </DifficultySettingsScene>
+    <DiplomacyScene>
+      <RadialMenuButton>
+        <Icon>0</Icon>
+        <DiplomacyAction>DeclareWar</DiplomacyAction>
+        <Tooltip>0</Tooltip>
+        <TooltipHuman>0</TooltipHuman>
+        <FaceIcon>501161</FaceIcon>
+      </RadialMenuButton>
+      <DiplomacyMessageTrigger>
+        <ContainerValues>
+          <TriggerTypes>
+            <Message>None</Message>
+            <Initiator>LastActorInitiator</Initiator>
+          </TriggerTypes>
+        </ContainerValues>
+        <TriggerTypes />
+      </DiplomacyMessageTrigger>
+      <GiftButtons>
+        <Text>0</Text>
+        <DiplomacyAction>DeclareWar</DiplomacyAction>
+        <Tooltip>0</Tooltip>
+      </GiftButtons>
+      <NegotiationButton>
+        <PeaceState>Normal</PeaceState>
+        <PeaceTooltip>0</PeaceTooltip>
+        <WarState>Normal</WarState>
+        <WarTootlip>0</WarTootlip>
+        <QueenState>Normal</QueenState>
+        <QueenTooltip>0</QueenTooltip>
+        <QueenKnighthoodState>Normal</QueenKnighthoodState>
+        <QueenKnighthoodTooltip>0</QueenKnighthoodTooltip>
+        <QueenIndependenceState>Normal</QueenIndependenceState>
+        <QueenIndependenceTooltip>0</QueenIndependenceTooltip>
+      </NegotiationButton>
+      <ThreatButton>
+        <PeaceState>Normal</PeaceState>
+        <PeaceTooltip>0</PeaceTooltip>
+        <WarState>Normal</WarState>
+        <WarTooltip>0</WarTooltip>
+      </ThreatButton>
+      <DiplomacyButtonPrecheck>
+        <PossibleStates />
+      </DiplomacyButtonPrecheck>
+      <TimeIcons>
+        <Icons>0</Icons>
+      </TimeIcons>
+      <PlayerResources>
+        <Credits>0</Credits>
+        <Balance>0</Balance>
+      </PlayerResources>
+    </DiplomacyScene>
+    <IslandBarScene>
+      <WarStatusTexts>
+        <Text>0</Text>
+      </WarStatusTexts>
+      <WorkforceBlacklist>
+        <Workforce>0</Workforce>
+      </WorkforceBlacklist>
+    </IslandBarScene>
+    <LoadingScene>
+      <LoadingTips>
+        <ContainerValues>
+          <Texts>
+            <Text>0</Text>
+          </Texts>
+        </ContainerValues>
+        <Texts />
+        <UnlockRequirement>0</UnlockRequirement>
+      </LoadingTips>
+    </LoadingScene>
+    <MinimapScene>
+      <Filters>
+        <Text>0</Text>
+        <Icon>0</Icon>
+      </Filters>
+      <MinimapDotSortOrder>
+        <Asset>0</Asset>
+      </MinimapDotSortOrder>
+      <FertilityOrder>
+        <GUID>0</GUID>
+      </FertilityOrder>
+      <LodesOrder>
+        <SlotType>None</SlotType>
+      </LodesOrder>
+    </MinimapScene>
+    <MPLobbyScene>
+      <TeamNames>
+        <TeamName>0</TeamName>
+      </TeamNames>
+      <LobbyInfoTips>
+        <ContainerValues>
+          <DlcWarnings>
+            <StartButtonWarningInfotip>0</StartButtonWarningInfotip>
+            <FixButtonDisabledInfotip>0</FixButtonDisabledInfotip>
+          </DlcWarnings>
+          <DlcButtonInfoTips>
+            <Default>0</Default>
+            <DisabledLocked>0</DisabledLocked>
+            <EnabledLocked>0</EnabledLocked>
+            <DisabledUnlocked>0</DisabledUnlocked>
+          </DlcButtonInfoTips>
+        </ContainerValues>
+        <DlcWarnings />
+        <DlcButtonInfoTips />
+        <DlcDescriptionInfotip>0</DlcDescriptionInfotip>
+        <DlcMissingInfotip>0</DlcMissingInfotip>
+        <KickPlayerInfoTip>0</KickPlayerInfoTip>
+        <DisabledStartGameInfoTip>0</DisabledStartGameInfoTip>
+        <ReinvitePlayerInfoTip>0</ReinvitePlayerInfoTip>
+        <DlcMissingInfoStartBtnInfoTip>0</DlcMissingInfoStartBtnInfoTip>
+      </LobbyInfoTips>
+    </MPLobbyScene>
+    <MPQuickMatchLobbyScene>
+      <QuickMatchType>
+        <ContainerValues>
+          <TextTimecodeList>
+            <StateTextLine1>0</StateTextLine1>
+            <StateTextLine2>0</StateTextLine2>
+          </TextTimecodeList>
+        </ContainerValues>
+        <TextTimecodeList />
+      </QuickMatchType>
+    </MPQuickMatchLobbyScene>
+    <NewspaperScene>
+      <EffectVisualization>
+        <EffectName>0</EffectName>
+        <ArticleValueText>0</ArticleValueText>
+        <ActiveEffectValueText>0</ActiveEffectValueText>
+        <IconMap>0</IconMap>
+        <EffectDescription>0</EffectDescription>
+        <EffectCategoryName>0</EffectCategoryName>
+      </EffectVisualization>
+    </NewspaperScene>
+    <QuestBookScene>
+      <QuestBookCategories>
+        <Text>0</Text>
+      </QuestBookCategories>
+      <QuestBookCategoryAssignment>
+        <Category>Main</Category>
+      </QuestBookCategoryAssignment>
+    </QuestBookScene>
+    <QuestTrackerScene>
+      <QuestCategoryAssignment>
+        <Category>Main</Category>
+      </QuestCategoryAssignment>
+      <QuestCategories>
+        <Icon>0</Icon>
+        <CategoryHeadline>0</CategoryHeadline>
+      </QuestCategories>
+      <QuestTypes>
+        <Name>0</Name>
+      </QuestTypes>
+    </QuestTrackerScene>
+    <SessionScene>
+      <SessionList>
+        <Session>0</Session>
+        <Text>0</Text>
+        <Background>0</Background>
+        <StatisticScreenBackground>0</StatisticScreenBackground>
+      </SessionList>
+    </SessionScene>
+    <SessionTradeRouteOverviewScene>
+      <RouteCreateButtons>
+        <Icon>0</Icon>
+        <Headline>0</Headline>
+        <InfoTip>0</InfoTip>
+        <Subline>0</Subline>
+        <BackgroundImage>0</BackgroundImage>
+      </RouteCreateButtons>
+    </SessionTradeRouteOverviewScene>
+    <SessionTradeRoutesScene>
+      <GoodFilter>
+        <Filter>0</Filter>
+      </GoodFilter>
+      <Headlines>
+        <Headline>0</Headline>
+      </Headlines>
+      <SelectGoodPopup>
+        <SelectGoodPopupHeadlineLoading>0</SelectGoodPopupHeadlineLoading>
+        <SelectGoodPopupHeadlineUnloading>0</SelectGoodPopupHeadlineUnloading>
+        <GoodsInfotip>0</GoodsInfotip>
+      </SelectGoodPopup>
+      <ParticipantFilter>
+        <PirateText>0</PirateText>
+        <PirateIcon>0</PirateIcon>
+      </ParticipantFilter>
+    </SessionTradeRoutesScene>
+    <SideNotificationsArchive>
+      <ArchiveButtons>
+        <Infotip>0</Infotip>
+        <LinkedSideNotification>General</LinkedSideNotification>
+        <Name>0</Name>
+      </ArchiveButtons>
+      <TimestampTexts>
+        <TimestampSeconds>0</TimestampSeconds>
+        <TimestampMinutes>0</TimestampMinutes>
+        <TimestampHours>0</TimestampHours>
+      </TimestampTexts>
+      <CoopSessionIcons>
+        <Session>0</Session>
+      </CoopSessionIcons>
+    </SideNotificationsArchive>
+    <StatisticMenu>
+      <CategoryNames>
+        <Name>0</Name>
+      </CategoryNames>
+      <IncomeCategoryNames>
+        <Name>0</Name>
+      </IncomeCategoryNames>
+      <GraphStyles>
+        <ContainerValues>
+          <Textures>
+            <Texture>Line</Texture>
+          </Textures>
+        </ContainerValues>
+        <Colors />
+        <Textures />
+      </GraphStyles>
+      <StatisticMenuInfotips>
+        <ProductionGoodInfotip>0</ProductionGoodInfotip>
+        <WarehouseGoodInfotip>0</WarehouseGoodInfotip>
+        <PopulationGraphInfotip>0</PopulationGraphInfotip>
+        <ProductionGraphGenerationInfotip>0</ProductionGraphGenerationInfotip>
+        <ProductionGraphConsumptionInfotip>0</ProductionGraphConsumptionInfotip>
+        <WarehouseGraphInfotip>0</WarehouseGraphInfotip>
+        <HappinessGraphInfotip>0</HappinessGraphInfotip>
+        <ProductionCheckboxGenerationInfotip>0</ProductionCheckboxGenerationInfotip>
+        <ProductionCheckboxConsumptionInfotip>0</ProductionCheckboxConsumptionInfotip>
+        <ProductionCheckboxProcessingInfotip>0</ProductionCheckboxProcessingInfotip>
+        <PopulationCheckboxInfotip>0</PopulationCheckboxInfotip>
+      </StatisticMenuInfotips>
+      <BuildingStatus>
+        <Icon>0</Icon>
+      </BuildingStatus>
+    </StatisticMenu>
+    <TreasureMapScene>
+      <RarityToMapQuality>
+        <MapQuality>Low</MapQuality>
+      </RarityToMapQuality>
+    </TreasureMapScene>
+    <WorkforceMenu>
+      <WorkforceList>
+        <Asset>0</Asset>
+      </WorkforceList>
+      <SliderSublineText>
+        <Text>0</Text>
+        <PortraitSequence>default</PortraitSequence>
+        <SubtitleText>0</SubtitleText>
+      </SliderSublineText>
+      <BoostableFactories>
+        <Factory>0</Factory>
+      </BoostableFactories>
+    </WorkforceMenu>
+  </DefaultContainerValues>
+</Property>

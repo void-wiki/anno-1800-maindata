@@ -1,0 +1,160 @@
+<Property>
+  <Name>Session</Name>
+  <DefaultValues>
+    <Island />
+    <Region>
+      <RegionID>Moderate</RegionID>
+      <RegionViewModel>0</RegionViewModel>
+      <FeedbackDescription>0</FeedbackDescription>
+      <AnimalDescription>0</AnimalDescription>
+      <Street>0</Street>
+      <DistributionCenter>0</DistributionCenter>
+      <PreloadAssets />
+      <AllowedWeather />
+      <SlotBuildings />
+      <ConstructionMaterialList />
+      <CityNames />
+      <ShipNames />
+      <Tree>0</Tree>
+      <PathLayerDefinitions>
+        <Air>
+          <Active>1</Active>
+        </Air>
+        <Feedback>
+          <Active>1</Active>
+          <Topology>Grid</Topology>
+        </Feedback>
+        <Land>
+          <Active>1</Active>
+        </Land>
+        <Railway>
+          <Active>1</Active>
+          <Topology>Grid</Topology>
+        </Railway>
+        <Street>
+          <Active>1</Active>
+          <Topology>Grid</Topology>
+        </Street>
+        <Water>
+          <Active>1</Active>
+          <UseOneAreaRule>1</UseOneAreaRule>
+        </Water>
+        <Animal>
+          <Active>1</Active>
+        </Animal>
+      </PathLayerDefinitions>
+      <PopulationGroup>0</PopulationGroup>
+      <DistributionCenterGhost>0</DistributionCenterGhost>
+      <CliffDistributionCenterGhost>0</CliffDistributionCenterGhost>
+      <QuayGroundDecal>0</QuayGroundDecal>
+      <QuayInvisibleGroundDecal>0</QuayInvisibleGroundDecal>
+      <IslandTypeHappinessInfluence />
+      <PredefinedCityNames />
+    </Region>
+    <Session>
+      <Region>0</Region>
+      <MapTemplate>0</MapTemplate>
+      <CameraSettings>data/config/game/camera.xml</CameraSettings>
+      <CameraLoopSequence1>-1</CameraLoopSequence1>
+      <CameraLoopSequence2>-1</CameraLoopSequence2>
+      <InMenuVisible>1</InMenuVisible>
+      <SpawnAreaBorderDistanceRange>
+        <Far>
+          <Min>30</Min>
+          <Max>100</Max>
+        </Far>
+        <Mid>
+          <Min>10</Min>
+          <Max>20</Max>
+        </Mid>
+        <Near>
+          <Min>3</Min>
+          <Max>7</Max>
+        </Near>
+      </SpawnAreaBorderDistanceRange>
+      <SpawnAreaIslandDistanceRange>
+        <Far>
+          <Min>50</Min>
+          <Max>70</Max>
+        </Far>
+        <Mid>
+          <Min>20</Min>
+          <Max>40</Max>
+        </Mid>
+        <Near>
+          <Min>5</Min>
+          <Max>10</Max>
+        </Near>
+      </SpawnAreaIslandDistanceRange>
+      <TransferData />
+      <SpawnStartShipAndKontor>1</SpawnStartShipAndKontor>
+      <ShipTransferEnabled>1</ShipTransferEnabled>
+      <WorldMapCardBackground>0</WorldMapCardBackground>
+      <RouteSessionAsset>0</RouteSessionAsset>
+      <TreasureMapHint>OldWorld</TreasureMapHint>
+      <SecondPartyReferenceUnlock>0</SecondPartyReferenceUnlock>
+      <SecondPartyMotivation />
+      <AudioSessionHint>Default</AudioSessionHint>
+      <Undiscover>
+        <MaxHeight>14</MaxHeight>
+        <UndiscoverTint>-6381922</UndiscoverTint>
+      </Undiscover>
+    </Session>
+    <TransitionConfig>
+      <Session />
+      <WorldMap />
+    </TransitionConfig>
+    <WorldMap>
+      <ReleaseSessions />
+      <DebugSessions />
+    </WorldMap>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <Region>
+      <PreloadAssets>
+        <Asset>0</Asset>
+      </PreloadAssets>
+      <SlotBuildings>
+        <Building>0</Building>
+      </SlotBuildings>
+      <ConstructionMaterialList>
+        <Asset>0</Asset>
+        <Infotip>25000060</Infotip>
+      </ConstructionMaterialList>
+      <CityNames>
+        <Name>0</Name>
+      </CityNames>
+      <ShipNames>
+        <Name>0</Name>
+      </ShipNames>
+      <PathLayerDefinitions>
+        <Topology>QuadTree</Topology>
+      </PathLayerDefinitions>
+      <PredefinedCityNames>
+        <ContainerValues>
+          <Names>
+            <Name>0</Name>
+          </Names>
+        </ContainerValues>
+        <Names />
+      </PredefinedCityNames>
+    </Region>
+    <Session>
+      <TransferData>
+        <Session>0</Session>
+        <Direction>NorthEast</Direction>
+      </TransferData>
+      <SecondPartyMotivation>
+        <TargetPopulation>0</TargetPopulation>
+      </SecondPartyMotivation>
+    </Session>
+    <WorldMap>
+      <ReleaseSessions>
+        <Session>0</Session>
+      </ReleaseSessions>
+      <DebugSessions>
+        <Session>0</Session>
+      </DebugSessions>
+    </WorldMap>
+  </DefaultContainerValues>
+</Property>

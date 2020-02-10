@@ -1,0 +1,97 @@
+<Property>
+  <Name>Default</Name>
+  <DefaultValues>
+    <AudioTextPool>
+      <AudioTextList />
+      <AudioTextGroups />
+      <AudioTextPools />
+    </AudioTextPool>
+    <DevTestProp>
+      <SimpleStruct />
+      <SimpleArray />
+      <SimpleVector />
+      <VectorWithPropDefaults>
+        <Item>
+          <ChoiceInVectorWithPropDefaults>Military</ChoiceInVectorWithPropDefaults>
+        </Item>
+        <Item />
+        <Item />
+      </VectorWithPropDefaults>
+    </DevTestProp>
+    <Position />
+    <Standard>
+      <Comments />
+      <InfoDescription>0</InfoDescription>
+    </Standard>
+    <Text>
+      <LocaText />
+      <Localize>1</Localize>
+    </Text>
+    <TextPool>
+      <TextList />
+      <TextGroups />
+      <TextPools />
+    </TextPool>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <AudioTextPool>
+      <AudioTextList>
+        <AudioText>0</AudioText>
+      </AudioTextList>
+      <AudioTextPools>
+        <AudioPool>0</AudioPool>
+        <Weight>1</Weight>
+      </AudioTextPools>
+    </AudioTextPool>
+    <DevTestProp>
+      <SimpleStruct>
+        <ContainerValues>
+          <SubStruct>
+            <ChoiceInSubStruct>Economy</ChoiceInSubStruct>
+          </SubStruct>
+        </ContainerValues>
+        <ChoiceInStruct>Economy</ChoiceInStruct>
+        <SubStruct />
+      </SimpleStruct>
+      <SimpleArray>
+        <VectorInArray />
+      </SimpleArray>
+      <SimpleVector>
+        <ContainerValues>
+          <SubVector>
+            <AutoCreateInSubVector>
+              <Template>DevTestTemplate</Template>
+              <Values>
+                <Standard />
+                <DevTestProp />
+              </Values>
+            </AutoCreateInSubVector>
+          </SubVector>
+        </ContainerValues>
+        <ChoiceInVector>DLC02</ChoiceInVector>
+        <SubVector />
+      </SimpleVector>
+      <VectorWithPropDefaults>
+        <ChoiceInVectorWithPropDefaults>Economy</ChoiceInVectorWithPropDefaults>
+      </VectorWithPropDefaults>
+    </DevTestProp>
+    <Text>
+      <LocaText>
+        <Status>New</Status>
+      </LocaText>
+    </Text>
+    <TextPool>
+      <TextList>
+        <Text>0</Text>
+        <Weight>1</Weight>
+      </TextList>
+      <TextGroups>
+        <Weight>1</Weight>
+      </TextGroups>
+      <TextPools>
+        <Pool>0</Pool>
+        <Weight>1</Weight>
+      </TextPools>
+    </TextPool>
+  </DefaultContainerValues>
+</Property>

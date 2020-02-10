@@ -1,0 +1,613 @@
+<Property>
+  <Name>Audio</Name>
+  <DefaultValues>
+    <AmbientMoodProvider>
+      <AmbientMood>None</AmbientMood>
+      <Murmur>None</Murmur>
+      <GlacierMurmur>None</GlacierMurmur>
+      <AttractivityDependentMurmur />
+      <ProductivityDependentMurmur />
+      <DynamicEnvironmentType>None</DynamicEnvironmentType>
+      <HappinessDependentMurmur />
+      <IslandAttractivityDependentMurmur />
+    </AmbientMoodProvider>
+    <Audio>
+      <AlternativeText>0</AlternativeText>
+      <DurationLanguageArray />
+      <ClusterRange>5</ClusterRange>
+      <ClusterCount>4</ClusterCount>
+      <ActivationRangeOffset>2</ActivationRangeOffset>
+      <MaxAttenuation>-1</MaxAttenuation>
+      <StopEvent>0</StopEvent>
+      <SoundEventType>Default</SoundEventType>
+      <ClusterEvent>
+        <Template>AudioLink</Template>
+        <Values>
+          <AudioLink />
+        </Values>
+      </ClusterEvent>
+      <OneShotClusterRange>2</OneShotClusterRange>
+      <OneShotClusterAmount>-1</OneShotClusterAmount>
+      <ClusterSmoothPositioning>1</ClusterSmoothPositioning>
+    </Audio>
+    <AudioLink>
+      <AudioLink>0</AudioLink>
+    </AudioLink>
+    <AudioText>
+      <AudioAsset>0</AudioAsset>
+      <SpeechAudioType>PaMSy</SpeechAudioType>
+      <Mood>Neutral</Mood>
+    </AudioText>
+    <GameParameter />
+    <GlobalSoundEventConfig>
+      <ClusteringDetails />
+    </GlobalSoundEventConfig>
+    <MetaSoundConfig>
+      <MusicEvent>0</MusicEvent>
+      <EnvironmentEvent>0</EnvironmentEvent>
+      <MoodEvent>0</MoodEvent>
+      <STScreenConfig />
+      <STScreenGroup>0</STScreenGroup>
+      <STRegionConfig />
+      <STRegionGroup>0</STRegionGroup>
+      <STCivLevelConfig />
+      <STCivLevelGroup>0</STCivLevelGroup>
+      <GlobalAudioTimerRTPC>0</GlobalAudioTimerRTPC>
+      <GlobalAudioTimerDayCycleTime>480000</GlobalAudioTimerDayCycleTime>
+      <STMinimizedGroup>0</STMinimizedGroup>
+      <STMinimizedConfig />
+      <DefaultPoolSize>33554432</DefaultPoolSize>
+      <CommandQueueSize>2097152</CommandQueueSize>
+      <MonitorPoolSize>10485760</MonitorPoolSize>
+      <MonitorQueueSize>65536</MonitorQueueSize>
+      <LowerEnginePoolSize>16777216</LowerEnginePoolSize>
+      <VoiceChatVolumeRtpc>0</VoiceChatVolumeRtpc>
+    </MetaSoundConfig>
+    <MusicSoundConfig>
+      <Music_StateGroup>0</Music_StateGroup>
+      <MusicStateTypeMapping />
+      <MusicStage_StateGroup>0</MusicStage_StateGroup>
+      <MusicStage1_StateChoice>0</MusicStage1_StateChoice>
+      <MusicStage2_StateChoice>0</MusicStage2_StateChoice>
+      <IncidentMusic />
+      <MilitaryMusic />
+      <MusicEnding_StateGroup>0</MusicEnding_StateGroup>
+      <MusicEndingMapping />
+      <ThirdPartyMusic />
+      <UIMusic />
+      <MusicPlaying_StateGroup>0</MusicPlaying_StateGroup>
+      <MusicPlayingTrue_StateChoice>0</MusicPlayingTrue_StateChoice>
+      <MusicPlayingFalse_StateChoice>0</MusicPlayingFalse_StateChoice>
+      <AudioSession_StateGroup>0</AudioSession_StateGroup>
+      <AudioSessionMapping />
+    </MusicSoundConfig>
+    <RequiredSoundBanks>
+      <SoundBanks />
+    </RequiredSoundBanks>
+    <RFX>
+      <RFXRadius>7</RFXRadius>
+      <AreaConstraints />
+      <HeightConfig />
+      <TriggerRateMin>12000</TriggerRateMin>
+      <TriggerRateMax>30000</TriggerRateMax>
+      <TriggerEvent>0</TriggerEvent>
+    </RFX>
+    <RFXList>
+      <RFXList />
+    </RFXList>
+    <SessionSoundConfig>
+      <StreetIntermediateSuccess>0</StreetIntermediateSuccess>
+      <StreetIntermediateCancel>0</StreetIntermediateCancel>
+      <PlayerVehicleCollectStart>0</PlayerVehicleCollectStart>
+      <PlayerVehicleInteractConfirm>0</PlayerVehicleInteractConfirm>
+      <PlayerVehicleInteractCompleted>0</PlayerVehicleInteractCompleted>
+      <PipettePick>0</PipettePick>
+      <CommandMovement_Ship>0</CommandMovement_Ship>
+      <CommandAttack>0</CommandAttack>
+      <PlayerVehicleCollectCompleted>0</PlayerVehicleCollectCompleted>
+      <CityUpgrade>0</CityUpgrade>
+      <ItemRadiusEffect>0</ItemRadiusEffect>
+      <MonumentPhaseFinished>0</MonumentPhaseFinished>
+      <EnvironmentTypePriorities />
+      <MurmurTypeMapping />
+      <AmbientMoodMapping />
+      <EnvironmentTypeMapping />
+      <ListenerPositionInterpolationValue>0.45</ListenerPositionInterpolationValue>
+      <ListenerPositionInterpolationValue_WorldMap>0.45</ListenerPositionInterpolationValue_WorldMap>
+      <ListenerPositionExponent>2</ListenerPositionExponent>
+      <ListenerMinCameraAngle>10</ListenerMinCameraAngle>
+      <ListenerMaxCameraAngle>80</ListenerMaxCameraAngle>
+      <ListenerCameraHeightLow>2</ListenerCameraHeightLow>
+      <ListenerCameraTransitionHeight>12</ListenerCameraTransitionHeight>
+      <SoundEmitterPositionOffset>1</SoundEmitterPositionOffset>
+      <ShipCommandConfirmationVoiceDelay>5000</ShipCommandConfirmationVoiceDelay>
+      <MurmurCountGameParameter>0</MurmurCountGameParameter>
+      <MurmurCellRange>2</MurmurCellRange>
+      <MoodSectorSizeMin>1</MoodSectorSizeMin>
+      <MoodSectorSizeMax>4</MoodSectorSizeMax>
+      <MoodSectorSizeToFrustumRatio>1</MoodSectorSizeToFrustumRatio>
+      <EnvironmentForestTreeFactor>0.5</EnvironmentForestTreeFactor>
+      <MoodFilter />
+      <ProjectileHitMaterialSwitchGroup>0</ProjectileHitMaterialSwitchGroup>
+      <ProjectileHitMaterialSwitchConfig />
+      <DestructRectFallback>0</DestructRectFallback>
+      <RiverSound>0</RiverSound>
+      <RiverSpeedRtpc>0</RiverSpeedRtpc>
+      <RiverSearchDistance>40</RiverSearchDistance>
+      <RiverSegmentDiscardThreshold>2</RiverSegmentDiscardThreshold>
+      <RiverTestPositionOffset>5</RiverTestPositionOffset>
+      <RiverEmitterDiscardThreshold>6</RiverEmitterDiscardThreshold>
+      <HitpointPercentageForDamageSelectionBark>0.5</HitpointPercentageForDamageSelectionBark>
+      <MaterialSwitchGroup>0</MaterialSwitchGroup>
+      <MaterialSwitchConfig />
+      <BlueprintSwitchGroup>0</BlueprintSwitchGroup>
+      <BlueprintSwitchChoice>0</BlueprintSwitchChoice>
+      <SurrenderChanceForLikelyMurmur>20</SurrenderChanceForLikelyMurmur>
+      <BlueprintMixedSwitchChoice>0</BlueprintMixedSwitchChoice>
+      <BlueprintOffSwitchChoice>0</BlueprintOffSwitchChoice>
+      <MultiActionBuildingCountRTPC>0</MultiActionBuildingCountRTPC>
+      <MultiActionBlueprintCountRTPC>0</MultiActionBlueprintCountRTPC>
+      <FeedbackDensityThreshold>8</FeedbackDensityThreshold>
+      <FeedbackDensityDistance>8</FeedbackDensityDistance>
+      <FeedbackDensitySoundEvent>0</FeedbackDensitySoundEvent>
+      <FeedbackDensityCountRTPC>0</FeedbackDensityCountRTPC>
+      <DaytimePeriod_StateGroup>0</DaytimePeriod_StateGroup>
+      <DaytimePeriodMapping />
+      <DaytimeProgressRTPC>0</DaytimeProgressRTPC>
+      <DaylightPercentageRTPC>0</DaylightPercentageRTPC>
+      <MonumentEventTypeSwitchGroup>0</MonumentEventTypeSwitchGroup>
+      <MonumentNoEventTypeSwitchChoice>0</MonumentNoEventTypeSwitchChoice>
+      <CommandMovement_Airship>0</CommandMovement_Airship>
+      <PlaceRallyPoint_Ship>0</PlaceRallyPoint_Ship>
+      <PlaceRallyPoint_Airship>0</PlaceRallyPoint_Airship>
+      <CommandCollect>0</CommandCollect>
+    </SessionSoundConfig>
+    <SoundBank />
+    <SoundEmitter>
+      <ActiveSounds />
+      <DestroySounds />
+      <SelectionSounds>
+        <Item>
+          <Sound>9818389</Sound>
+        </Item>
+      </SelectionSounds>
+      <ConstructionSounds />
+      <ConstructionStreetSounds />
+      <VehicleSounds />
+      <ProjectileSounds />
+      <WeaponSounds />
+      <SpawnSounds />
+      <CollectedSounds />
+      <ProductionSounds />
+      <RFX />
+      <IncidentSounds />
+      <BuildingRuined />
+      <BuildingRepaired />
+      <MultiplayerBuildingSounds />
+      <MaterialType>NONE</MaterialType>
+    </SoundEmitter>
+    <SoundEmitterCommandBarks>
+      <BarkMapping>
+        <Selection>
+          <AudioPool>700069</AudioPool>
+        </Selection>
+        <AttackCommand>
+          <AudioPool>700070</AudioPool>
+        </AttackCommand>
+        <MoveCommand>
+          <AudioPool>700071</AudioPool>
+        </MoveCommand>
+        <EscortCommand>
+          <AudioPool>700103</AudioPool>
+        </EscortCommand>
+        <PatrolCommand>
+          <AudioPool>700102</AudioPool>
+        </PatrolCommand>
+        <SelectionDamaged>
+          <AudioPool>700101</AudioPool>
+        </SelectionDamaged>
+      </BarkMapping>
+    </SoundEmitterCommandBarks>
+    <StateChoice />
+    <StateGroup>
+      <StateChoices />
+    </StateGroup>
+    <SwitchChoice />
+    <SwitchGroup>
+      <SwitchChoices />
+    </SwitchGroup>
+    <UISoundConfig>
+      <SideQuestSuccess>0</SideQuestSuccess>
+      <SideQuestAccept>0</SideQuestAccept>
+      <SimpleEventSounds />
+      <UITransitions />
+      <ItemPurchased>0</ItemPurchased>
+      <ItemAdded>0</ItemAdded>
+      <ItemDeleted>0</ItemDeleted>
+      <ItemTransfered>0</ItemTransfered>
+      <PopupWindowClosed>0</PopupWindowClosed>
+      <PopupWindowOpened>0</PopupWindowOpened>
+      <ButtonConfig />
+      <SliderConfig />
+      <CheckBoxConfig />
+      <OnTooltipShow>0</OnTooltipShow>
+      <NewspaperEnterSound>0</NewspaperEnterSound>
+      <NewspaperLeaveSound>0</NewspaperLeaveSound>
+      <ProductionChainOpened>0</ProductionChainOpened>
+      <ProductionChainClosed>0</ProductionChainClosed>
+      <ConstructionBarOpened>0</ConstructionBarOpened>
+      <ConstructionBarClosed>0</ConstructionBarClosed>
+      <ConstructionModeEnd>0</ConstructionModeEnd>
+      <MinimapPling>0</MinimapPling>
+      <ExchangeGoods>0</ExchangeGoods>
+      <OnStartExpedition>0</OnStartExpedition>
+      <OnCreateTradeRoute>0</OnCreateTradeRoute>
+      <ExpeditionMusicStateGroup>0</ExpeditionMusicStateGroup>
+      <ExpeditionOptionSoundEventFallback />
+      <ExpeditionMusicStateChoiceDefault>0</ExpeditionMusicStateChoiceDefault>
+      <MouseOverUI />
+      <ExpeditionNotificationButtonSound>0</ExpeditionNotificationButtonSound>
+      <BuildModeRotateSound>0</BuildModeRotateSound>
+    </UISoundConfig>
+    <WorldMapDynamicSoundEmitter />
+    <WorldMapSound>
+      <ActiveAudioEvent>0</ActiveAudioEvent>
+      <UIClickEvent>0</UIClickEvent>
+    </WorldMapSound>
+    <WwiseStandard />
+    <WwiseTrigger />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <AmbientMoodProvider>
+      <AttractivityDependentMurmur>
+        <Murmur>None</Murmur>
+      </AttractivityDependentMurmur>
+      <ProductivityDependentMurmur>
+        <Murmur>None</Murmur>
+      </ProductivityDependentMurmur>
+      <HappinessDependentMurmur>
+        <Murmur>None</Murmur>
+      </HappinessDependentMurmur>
+      <IslandAttractivityDependentMurmur>
+        <Murmur>None</Murmur>
+      </IslandAttractivityDependentMurmur>
+    </AmbientMoodProvider>
+    <GlobalSoundEventConfig>
+      <ClusteringDetails>
+        <ClusteringDistance>8</ClusteringDistance>
+      </ClusteringDetails>
+    </GlobalSoundEventConfig>
+    <MetaSoundConfig>
+      <STScreenConfig>
+        <State>0</State>
+      </STScreenConfig>
+      <STRegionConfig>
+        <State>0</State>
+      </STRegionConfig>
+      <STCivLevelConfig>
+        <State>0</State>
+      </STCivLevelConfig>
+      <STMinimizedConfig>
+        <Minimized>0</Minimized>
+        <NotMinimized>0</NotMinimized>
+      </STMinimizedConfig>
+    </MetaSoundConfig>
+    <MusicSoundConfig>
+      <MusicStateTypeMapping>
+        <MusicChoice>0</MusicChoice>
+      </MusicStateTypeMapping>
+      <IncidentMusic>
+        <ContainerValues>
+          <PerIncidentConfig>
+            <IncidentType_StateChoice>0</IncidentType_StateChoice>
+          </PerIncidentConfig>
+        </ContainerValues>
+        <PerIncidentConfig />
+        <IncidentType_StateGroup>0</IncidentType_StateGroup>
+        <TriggerDistance>20</TriggerDistance>
+      </IncidentMusic>
+      <MilitaryMusic>
+        <VictoryStinger>0</VictoryStinger>
+        <LooseStinger>0</LooseStinger>
+        <MaxWinProbabilityForLoose>0.2</MaxWinProbabilityForLoose>
+        <MinWinProbabilityForWin>0.8</MinWinProbabilityForWin>
+        <TriggerDistance>20</TriggerDistance>
+      </MilitaryMusic>
+      <MusicEndingMapping>
+        <MusicEnding_StateChoice>0</MusicEnding_StateChoice>
+      </MusicEndingMapping>
+      <ThirdPartyMusic>
+        <ContainerValues>
+          <ThirdPartyStateMapping>
+            <ThirdParty_StateChoice>0</ThirdParty_StateChoice>
+          </ThirdPartyStateMapping>
+        </ContainerValues>
+        <ThirdPartyStateMapping />
+        <ThirdParty_StateGroup>0</ThirdParty_StateGroup>
+        <TimeoutAfterThirdPartyMusicPlay>300000</TimeoutAfterThirdPartyMusicPlay>
+        <SelectionTickFactor>1</SelectionTickFactor>
+        <AreaTickFactor>1</AreaTickFactor>
+        <MinFactor>600</MinFactor>
+        <CurrentAreaFactorBonus>200</CurrentAreaFactorBonus>
+        <BlockOtherFirstEncountersDuration>120000</BlockOtherFirstEncountersDuration>
+        <FirstEncounter_StateGroup>0</FirstEncounter_StateGroup>
+        <FirstEncounter_True_StateChoice>0</FirstEncounter_True_StateChoice>
+        <FirstEncounter_False_StateChoice>0</FirstEncounter_False_StateChoice>
+        <StateBlockingTime>3000</StateBlockingTime>
+      </ThirdPartyMusic>
+      <UIMusic>
+        <WorldmapFirstEnter_StateGroup>0</WorldmapFirstEnter_StateGroup>
+        <WorldmapFirstEnterTrue_StateChoice>0</WorldmapFirstEnterTrue_StateChoice>
+        <WorldmapFirstEnterFalse_StateChoice>0</WorldmapFirstEnterFalse_StateChoice>
+        <NewspaperMood_StateGroup>0</NewspaperMood_StateGroup>
+        <NewspaperMoodPositive_StateChoice>0</NewspaperMoodPositive_StateChoice>
+        <NewspaperMoodNegative_StateChoice>0</NewspaperMoodNegative_StateChoice>
+        <NewspaperMoodDoubleNegative_StateChoice>0</NewspaperMoodDoubleNegative_StateChoice>
+      </UIMusic>
+      <AudioSessionMapping>
+        <StateChoice>0</StateChoice>
+      </AudioSessionMapping>
+    </MusicSoundConfig>
+    <RequiredSoundBanks>
+      <SoundBanks>
+        <Bank>0</Bank>
+      </SoundBanks>
+    </RequiredSoundBanks>
+    <RFXList>
+      <RFXList>
+        <RFX>0</RFX>
+      </RFXList>
+    </RFXList>
+    <SessionSoundConfig>
+      <MurmurTypeMapping>
+        <MurmurEvent>0</MurmurEvent>
+        <WeightFactor>1</WeightFactor>
+      </MurmurTypeMapping>
+      <AmbientMoodMapping>
+        <MoodGridColor>0</MoodGridColor>
+        <AssociatedGameParameterSector1>0</AssociatedGameParameterSector1>
+        <AssociatedGameParameterSector2>0</AssociatedGameParameterSector2>
+        <AssociatedGameParameterSector3>0</AssociatedGameParameterSector3>
+        <AssociatedGameParameterSector4>0</AssociatedGameParameterSector4>
+      </AmbientMoodMapping>
+      <EnvironmentTypeMapping>
+        <EnvironmentGridColor>0</EnvironmentGridColor>
+        <AssociatedGameParameterSector1>0</AssociatedGameParameterSector1>
+        <AssociatedGameParameterSector2>0</AssociatedGameParameterSector2>
+        <AssociatedGameParameterSector3>0</AssociatedGameParameterSector3>
+        <AssociatedGameParameterSector4>0</AssociatedGameParameterSector4>
+      </EnvironmentTypeMapping>
+      <MoodFilter>
+        <overridesFiltered>1</overridesFiltered>
+      </MoodFilter>
+      <ProjectileHitMaterialSwitchConfig>
+        <SwitchChoice>0</SwitchChoice>
+      </ProjectileHitMaterialSwitchConfig>
+      <MaterialSwitchConfig>
+        <SwitchChoice>0</SwitchChoice>
+      </MaterialSwitchConfig>
+      <DaytimePeriodMapping>
+        <StateChoice>0</StateChoice>
+      </DaytimePeriodMapping>
+    </SessionSoundConfig>
+    <SoundEmitter>
+      <ActiveSounds>
+        <Sound>0</Sound>
+      </ActiveSounds>
+      <DestroySounds>
+        <Sound>0</Sound>
+      </DestroySounds>
+      <SelectionSounds>
+        <Sound>0</Sound>
+      </SelectionSounds>
+      <ConstructionSounds>
+        <ContainerValues>
+          <BuildSuccessful>
+            <Sound>0</Sound>
+          </BuildSuccessful>
+          <BuildFailed>
+            <Sound>0</Sound>
+          </BuildFailed>
+          <BuildMoveStart>
+            <Sound>0</Sound>
+          </BuildMoveStart>
+          <BuildMoveSuccess>
+            <Sound>0</Sound>
+          </BuildMoveSuccess>
+          <BuildMoveEnd>
+            <Sound>0</Sound>
+          </BuildMoveEnd>
+          <BuildUpgrade>
+            <Sound>0</Sound>
+          </BuildUpgrade>
+          <BuildUpgradeFailed>
+            <Sound>0</Sound>
+          </BuildUpgradeFailed>
+        </ContainerValues>
+        <BuildSuccessful>
+          <Item>
+            <Sound>9818759</Sound>
+          </Item>
+        </BuildSuccessful>
+        <BuildFailed />
+        <BuildMoveStart />
+        <BuildMoveSuccess />
+        <BuildMoveEnd />
+        <BuildUpgrade>
+          <Item>
+            <Sound>9818760</Sound>
+          </Item>
+        </BuildUpgrade>
+        <BuildUpgradeFailed />
+      </ConstructionSounds>
+      <ConstructionStreetSounds>
+        <ContainerValues>
+          <BuildAddWaypoint>
+            <Sound>0</Sound>
+          </BuildAddWaypoint>
+          <BuildCancelWaypoint>
+            <Sound>0</Sound>
+          </BuildCancelWaypoint>
+        </ContainerValues>
+        <BuildAddWaypoint />
+        <BuildCancelWaypoint />
+      </ConstructionStreetSounds>
+      <VehicleSounds>
+        <ContainerValues>
+          <MovementStart>
+            <Sound>0</Sound>
+          </MovementStart>
+        </ContainerValues>
+        <MovementStart />
+      </VehicleSounds>
+      <ProjectileSounds>
+        <ContainerValues>
+          <ProjectileLaunch>
+            <Sound>0</Sound>
+          </ProjectileLaunch>
+          <ProjectileImpact>
+            <Sound>0</Sound>
+          </ProjectileImpact>
+          <ProjectileVolley>
+            <Sound>0</Sound>
+          </ProjectileVolley>
+        </ContainerValues>
+        <ProjectileLaunch />
+        <ProjectileImpact />
+        <ProjectileVolley />
+      </ProjectileSounds>
+      <WeaponSounds>
+        <ContainerValues>
+          <WeaponActivation>
+            <Sound>0</Sound>
+          </WeaponActivation>
+          <WeaponDeactivation>
+            <Sound>0</Sound>
+          </WeaponDeactivation>
+        </ContainerValues>
+        <WeaponActivation />
+        <WeaponDeactivation />
+      </WeaponSounds>
+      <SpawnSounds>
+        <Sound>0</Sound>
+      </SpawnSounds>
+      <CollectedSounds>
+        <Sound>0</Sound>
+      </CollectedSounds>
+      <ProductionSounds>
+        <ContainerValues>
+          <UI>
+            <Sound>0</Sound>
+          </UI>
+        </ContainerValues>
+        <UI>
+          <Item>
+            <Sound>9818752</Sound>
+          </Item>
+        </UI>
+      </ProductionSounds>
+      <RFX>
+        <RFX>0</RFX>
+      </RFX>
+      <IncidentSounds>
+        <ContainerValues>
+          <InfectedFire>
+            <Sound>0</Sound>
+          </InfectedFire>
+          <InfectedIllness>
+            <Sound>0</Sound>
+          </InfectedIllness>
+          <InfectedRiot>
+            <Sound>0</Sound>
+          </InfectedRiot>
+          <ExplosionOneShots>
+            <Sound>0</Sound>
+          </ExplosionOneShots>
+        </ContainerValues>
+        <InfectedFire />
+        <InfectedIllness />
+        <InfectedRiot />
+        <ExplosionOneShots />
+      </IncidentSounds>
+      <BuildingRuined>
+        <Sound>0</Sound>
+      </BuildingRuined>
+      <BuildingRepaired>
+        <Sound>0</Sound>
+      </BuildingRepaired>
+      <MultiplayerBuildingSounds>
+        <ContainerValues>
+          <MP_BuildSuccessful>
+            <Sound>0</Sound>
+          </MP_BuildSuccessful>
+          <MP_BuildMoveSuccess>
+            <Sound>0</Sound>
+          </MP_BuildMoveSuccess>
+          <MP_BuildUpgrade>
+            <Sound>0</Sound>
+          </MP_BuildUpgrade>
+          <MP_Destroy>
+            <Sound>0</Sound>
+          </MP_Destroy>
+          <MP_RuinRepaired>
+            <Sound>0</Sound>
+          </MP_RuinRepaired>
+        </ContainerValues>
+        <MP_BuildSuccessful />
+        <MP_BuildMoveSuccess />
+        <MP_BuildUpgrade />
+        <MP_Destroy />
+        <MP_RuinRepaired />
+      </MultiplayerBuildingSounds>
+    </SoundEmitter>
+    <SoundEmitterCommandBarks>
+      <BarkMapping>
+        <AudioPool>0</AudioPool>
+      </BarkMapping>
+    </SoundEmitterCommandBarks>
+    <StateGroup>
+      <StateChoices>
+        <Choice>0</Choice>
+      </StateChoices>
+    </StateGroup>
+    <SwitchGroup>
+      <SwitchChoices>
+        <Choice>0</Choice>
+      </SwitchChoices>
+    </SwitchGroup>
+    <UISoundConfig>
+      <SimpleEventSounds>
+        <SoundGuid>0</SoundGuid>
+      </SimpleEventSounds>
+      <UITransitions>
+        <GameZoomTransitionOUT>0</GameZoomTransitionOUT>
+        <GameZoomTransitionIN>0</GameZoomTransitionIN>
+        <WorldMapZoomTransitionOUT>0</WorldMapZoomTransitionOUT>
+        <WorldMapZoomTransitionIN>0</WorldMapZoomTransitionIN>
+      </UITransitions>
+      <ButtonConfig>
+        <IconButtonPressed>0</IconButtonPressed>
+        <IconButtonReleased>0</IconButtonReleased>
+        <ButtonHovered>0</ButtonHovered>
+        <TextButtonPressed>0</TextButtonPressed>
+        <TextButtonReleased>0</TextButtonReleased>
+      </ButtonConfig>
+      <SliderConfig>
+        <SliderPressed>0</SliderPressed>
+        <SliderReleased>0</SliderReleased>
+      </SliderConfig>
+      <CheckBoxConfig>
+        <Checked>0</Checked>
+        <Unchecked>0</Unchecked>
+      </CheckBoxConfig>
+      <ExpeditionOptionSoundEventFallback>
+        <SoundEvent>0</SoundEvent>
+      </ExpeditionOptionSoundEventFallback>
+      <MouseOverUI>
+        <StateGroup>0</StateGroup>
+        <Choice_True>0</Choice_True>
+        <Choice_False>0</Choice_False>
+      </MouseOverUI>
+    </UISoundConfig>
+  </DefaultContainerValues>
+</Property>

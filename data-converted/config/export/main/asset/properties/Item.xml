@@ -1,0 +1,164 @@
+<Property>
+  <Name>Item</Name>
+  <DefaultValues>
+    <CraftableItem>
+      <CraftingCosts />
+    </CraftableItem>
+    <Item>
+      <Allocation>RadiusBuilding</Allocation>
+      <Rarity>Common</Rarity>
+      <ItemType>Normal</ItemType>
+      <ExclusiveGroup>None</ExclusiveGroup>
+      <ItemSet>0</ItemSet>
+      <ExpeditionType>None</ExpeditionType>
+      <Flotsam>1000212</Flotsam>
+      <OnlyEquippableOnce>1</OnlyEquippableOnce>
+      <SocketOverwriteSound>0</SocketOverwriteSound>
+      <UnsocketOverwriteSound>0</UnsocketOverwriteSound>
+      <BroadcastMusicEvent>0</BroadcastMusicEvent>
+    </Item>
+    <ItemAction>
+      <ItemAction>NOACTION</ItemAction>
+      <ActionTarget>0</ActionTarget>
+      <ActionScope>Self</ActionScope>
+      <RadiusBuffTargets />
+      <ActionIncidentType />
+      <IncidentResolveRate>0.3</IncidentResolveRate>
+      <ActiveBuff>0</ActiveBuff>
+      <ActionDescription>0</ActionDescription>
+      <ActionCompletedEffect />
+      <CanEndItemAction>1</CanEndItemAction>
+      <StopMovementOnInteraction>1</StopMovementOnInteraction>
+      <ActivateActionSound>0</ActivateActionSound>
+      <DeactivateActionSound>0</DeactivateActionSound>
+    </ItemAction>
+    <ItemChest />
+    <ItemConfig>
+      <RarityText />
+      <ExclusiveGroupText />
+      <AllocationText />
+      <AllocationIcons />
+      <ItemGenCrateAsset>0</ItemGenCrateAsset>
+      <ItemGenCrateScale>1</ItemGenCrateScale>
+      <ItemTypeText />
+      <BuffFluffIndexIncreaseTimer>300000</BuffFluffIndexIncreaseTimer>
+      <NotSockableText />
+    </ItemConfig>
+    <ItemConstructionPlan>
+      <AllowBuildingOf>0</AllowBuildingOf>
+    </ItemConstructionPlan>
+    <ItemContainer>
+      <SocketAllocation />
+      <SocketScope>Local</SocketScope>
+      <StackLimit>50</StackLimit>
+      <InitSocketItems />
+      <InitSlotItems />
+      <EmptySocketIcon>data/ui/2kimages/main/icons/icon_plus.png</EmptySocketIcon>
+      <EmptySocketItemNonModifiable>data/ui/2kimages/main/icons/icon_goods_storage.png</EmptySocketItemNonModifiable>
+      <SpawnsFlotsam>1</SpawnsFlotsam>
+      <FixedSlotContent>0</FixedSlotContent>
+      <SocketSound>0</SocketSound>
+      <UnsocketSound>0</UnsocketSound>
+    </ItemContainer>
+    <ItemEffect>
+      <EffectTargets />
+      <BuildingDecoration>0</BuildingDecoration>
+    </ItemEffect>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs />
+    </ItemEffectTargetPool>
+    <ItemReplacementPool>
+      <ReplacementPools />
+    </ItemReplacementPool>
+    <ItemSocketSet>
+      <SetBuff>0</SetBuff>
+      <RegionSetBuff />
+      <BuffScope>Local</BuffScope>
+    </ItemSocketSet>
+    <ItemStartExpedition>
+      <Expedition>0</Expedition>
+    </ItemStartExpedition>
+    <ItemWithUI>
+      <ItemActions>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </ItemActions>
+    </ItemWithUI>
+    <SpecialAction>
+      <MouseEffect>0</MouseEffect>
+      <Projectile>0</Projectile>
+      <Mine>0</Mine>
+      <SonarDetector />
+    </SpecialAction>
+    <VisualEffectWhenActive />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <CraftableItem>
+      <CraftingCosts>
+        <Product>0</Product>
+      </CraftingCosts>
+    </CraftableItem>
+    <ItemAction>
+      <ActionCompletedEffect>
+        <EffectAsset>0</EffectAsset>
+      </ActionCompletedEffect>
+    </ItemAction>
+    <ItemConfig>
+      <RarityText>
+        <Text>0</Text>
+      </RarityText>
+      <ExclusiveGroupText>
+        <Text>0</Text>
+      </ExclusiveGroupText>
+      <AllocationText>
+        <Text>0</Text>
+      </AllocationText>
+      <AllocationIcons>
+        <Allocation>None</Allocation>
+      </AllocationIcons>
+      <ItemTypeText>
+        <Text>0</Text>
+      </ItemTypeText>
+      <NotSockableText>
+        <Text>0</Text>
+      </NotSockableText>
+    </ItemConfig>
+    <ItemContainer>
+      <InitSocketItems>
+        <Item>0</Item>
+      </InitSocketItems>
+      <InitSlotItems>
+        <Item>0</Item>
+      </InitSlotItems>
+    </ItemContainer>
+    <ItemEffect>
+      <EffectTargets>
+        <GUID>0</GUID>
+      </EffectTargets>
+    </ItemEffect>
+    <ItemEffectTargetPool>
+      <EffectTargetGUIDs>
+        <GUID>0</GUID>
+      </EffectTargetGUIDs>
+    </ItemEffectTargetPool>
+    <ItemReplacementPool>
+      <ReplacementPools>
+        <DummyItem>0</DummyItem>
+        <ReplacementPool>0</ReplacementPool>
+      </ReplacementPools>
+    </ItemReplacementPool>
+    <ItemSocketSet>
+      <RegionSetBuff>
+        <SetBuff>0</SetBuff>
+      </RegionSetBuff>
+    </ItemSocketSet>
+    <SpecialAction>
+      <SonarDetector>
+        <Target>RandomTreasure</Target>
+        <DetectionRangeEffects />
+      </SonarDetector>
+    </SpecialAction>
+  </DefaultContainerValues>
+</Property>

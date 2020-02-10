@@ -1,0 +1,32 @@
+<Property>
+  <Name>Video</Name>
+  <DefaultValues>
+    <Video>
+      <SubtitleTexts />
+      <VideoSoundAndMusic />
+      <AudioScenes />
+    </Video>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <Video>
+      <SubtitleTexts>
+        <SubtitleTextGUID>0</SubtitleTextGUID>
+        <Profile>0</Profile>
+        <AdditionalDisplayTime>2000</AdditionalDisplayTime>
+      </SubtitleTexts>
+      <VideoSoundAndMusic>
+        <SoundAsset>0</SoundAsset>
+      </VideoSoundAndMusic>
+      <AudioScenes>
+        <ContainerValues>
+          <PortraitType>
+            <Portrait>0</Portrait>
+            <Audio>0</Audio>
+          </PortraitType>
+        </ContainerValues>
+        <PortraitType />
+        <Timing>Queue</Timing>
+      </AudioScenes>
+    </Video>
+  </DefaultContainerValues>
+</Property>

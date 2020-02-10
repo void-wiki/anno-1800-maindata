@@ -1,0 +1,74 @@
+<Property>
+  <Name>Popup</Name>
+  <DefaultValues>
+    <FilteredSelectionPopup>
+      <ShipFilterTexts />
+      <KontorFilterTexts />
+    </FilteredSelectionPopup>
+    <GenericPopup>
+      <Popups />
+    </GenericPopup>
+    <NegotiationPopup>
+      <ButtonLists />
+      <HeadlineOffers>0</HeadlineOffers>
+      <HeadlineYourOffers>0</HeadlineYourOffers>
+      <HeadlineThreats>0</HeadlineThreats>
+      <HeadlineYourThreats>0</HeadlineYourThreats>
+      <MenuTitleThreats>0</MenuTitleThreats>
+      <MenuTitleNegotiation>0</MenuTitleNegotiation>
+    </NegotiationPopup>
+    <TextPopup>
+      <TextPopupUnlocks />
+    </TextPopup>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <FilteredSelectionPopup>
+      <ShipFilterTexts>
+        <Text>0</Text>
+      </ShipFilterTexts>
+      <KontorFilterTexts>
+        <Text>0</Text>
+      </KontorFilterTexts>
+    </FilteredSelectionPopup>
+    <GenericPopup>
+      <Popups>
+        <ContainerValues>
+          <Buttons>
+            <Text>0</Text>
+            <Actions>
+              <Template>Actions</Template>
+              <Values>
+                <ActionList />
+              </Values>
+            </Actions>
+          </Buttons>
+        </ContainerValues>
+        <HeaderText>0</HeaderText>
+        <MainText>0</MainText>
+        <Buttons />
+      </Popups>
+    </GenericPopup>
+    <NegotiationPopup>
+      <ButtonLists>
+        <ContainerValues>
+          <Buttons>
+            <Action>DeclareWar</Action>
+            <Text>0</Text>
+            <ActionLabel>0</ActionLabel>
+            <NotificationIcon>0</NotificationIcon>
+            <ButtonStatePeace>Normal</ButtonStatePeace>
+            <ButtonStateWar>Normal</ButtonStateWar>
+            <ButtonStateKnighthood>Normal</ButtonStateKnighthood>
+            <ActivatesAccept>1</ActivatesAccept>
+          </Buttons>
+        </ContainerValues>
+        <Buttons />
+      </ButtonLists>
+    </NegotiationPopup>
+    <TextPopup>
+      <TextPopupUnlocks>
+        <Unlock>0</Unlock>
+      </TextPopupUnlocks>
+    </TextPopup>
+  </DefaultContainerValues>
+</Property>

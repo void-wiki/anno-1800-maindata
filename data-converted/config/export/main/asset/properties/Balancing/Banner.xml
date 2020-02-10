@@ -1,0 +1,22 @@
+<Property>
+  <Name>Banner</Name>
+  <DefaultValues>
+    <BannerConfig>
+      <AttractivityBanners />
+      <CityLevelBanners />
+    </BannerConfig>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <BannerConfig>
+      <AttractivityBanners>
+        <ComparisonOp>AtLeast</ComparisonOp>
+        <Notification>0</Notification>
+      </AttractivityBanners>
+      <CityLevelBanners>
+        <ComparisonOp>AtLeast</ComparisonOp>
+        <PopulationGUID>0</PopulationGUID>
+        <Notification>0</Notification>
+      </CityLevelBanners>
+    </BannerConfig>
+  </DefaultContainerValues>
+</Property>

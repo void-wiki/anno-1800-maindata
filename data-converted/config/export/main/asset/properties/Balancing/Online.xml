@@ -1,0 +1,21 @@
+<Property>
+  <Name>Online</Name>
+  <DefaultValues>
+    <OnlineConfig>
+      <OnlineItemPool />
+      <TextChestRewardDescription>0</TextChestRewardDescription>
+      <TextChestRewardContent>0</TextChestRewardContent>
+      <OnlineEventTradeInProgress>0</OnlineEventTradeInProgress>
+      <OnlineEventTradeSuccess>0</OnlineEventTradeSuccess>
+      <OnlineEventTradeFailedErrorUnknown>0</OnlineEventTradeFailedErrorUnknown>
+      <OnlineEventTradeFailedErrorInsufficentCurrency>0</OnlineEventTradeFailedErrorInsufficentCurrency>
+    </OnlineConfig>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <OnlineConfig>
+      <OnlineItemPool>
+        <Item>0</Item>
+      </OnlineItemPool>
+    </OnlineConfig>
+  </DefaultContainerValues>
+</Property>

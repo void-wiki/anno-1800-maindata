@@ -1,0 +1,107 @@
+<Property>
+  <Name>GameSetup</Name>
+  <DefaultValues>
+    <Available>
+      <ParticipantType>
+        <Template>Human</Template>
+        <Values>
+          <Human />
+        </Values>
+      </ParticipantType>
+      <Team>Team1</Team>
+      <CompanyColor>Color1</CompanyColor>
+      <PlayerPossessions />
+    </Available>
+    <Computer>
+      <AIParticipantID>Second_ai_01_Jorgensen</AIParticipantID>
+    </Computer>
+    <DifficultySetup>
+      <SetupConstructionCostRefund>Full</SetupConstructionCostRefund>
+      <SetupDistributionWorkforce>Plenty</SetupDistributionWorkforce>
+      <SetupFertility>Low</SetupFertility>
+      <SetupHostileTakeover>On</SetupHostileTakeover>
+      <SetupInactiveCosts>Off</SetupInactiveCosts>
+      <SetupIncidents>Easy</SetupIncidents>
+      <SetupLossCondition>BailoutWithSlowLiquidation</SetupLossCondition>
+      <SetupOptionalQuestFrequency>Often</SetupOptionalQuestFrequency>
+      <SetupOptionalQuestRewards>Plenty</SetupOptionalQuestRewards>
+      <SetupOptionalQuestTimeout>NotLimited</SetupOptionalQuestTimeout>
+      <SetupRawMaterial>Low</SetupRawMaterial>
+      <SetupRelocateBuildings>On</SetupRelocateBuildings>
+      <SetupRevealedMap>Off</SetupRevealedMap>
+      <SetupRevenue>Plenty</SetupRevenue>
+      <SetupStartCredits>Plenty</SetupStartCredits>
+      <SetupStartSession>Small</SetupStartSession>
+      <SetupStartSessionIslandDifficulty>Normal</SetupStartSessionIslandDifficulty>
+      <SetupStartSessionIslandSize>Small</SetupStartSessionIslandSize>
+      <SetupStartShips>None</SetupStartShips>
+      <SetupStartWithKontor>Off</SetupStartWithKontor>
+      <SetupTraderRefillRate>Plenty</SetupTraderRefillRate>
+      <ThirdParties />
+      <SecondParties />
+      <SetupVictoryConditionMonuments>None</SetupVictoryConditionMonuments>
+      <SetupVictoryConditionInvestors>None</SetupVictoryConditionInvestors>
+      <SetupVictoryConditionPopulation>None</SetupVictoryConditionPopulation>
+      <SetupVictoryConditionWealth>None</SetupVictoryConditionWealth>
+      <SetupVictoryConditionIncome>None</SetupVictoryConditionIncome>
+      <SetupVictoryConditionAllOrOne>Off</SetupVictoryConditionAllOrOne>
+      <SetupVictoryConditionDiplomacy>Off</SetupVictoryConditionDiplomacy>
+      <SetupMapType>Random</SetupMapType>
+    </DifficultySetup>
+    <GameSetup>
+      <Peers />
+      <Maps />
+      <GameSetupDifficulty>Easy</GameSetupDifficulty>
+      <ActiveDLCs />
+      <ActiveHappyDayEvents />
+    </GameSetup>
+    <Human>
+      <CompanyLogoGuid>92</CompanyLogoGuid>
+      <AccountUnlocks />
+    </Human>
+    <Map>
+      <MapGUID>0</MapGUID>
+    </Map>
+    <RandomMap />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <DifficultySetup>
+      <ThirdParties>
+        <Profile>0</Profile>
+        <Difficulty>Normal</Difficulty>
+      </ThirdParties>
+      <SecondParties>
+        <Participant>Human0</Participant>
+      </SecondParties>
+    </DifficultySetup>
+    <GameSetup>
+      <Peers>
+        <Peer>
+          <Template>Available</Template>
+          <Values>
+            <Available>
+              <ParticipantType>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>Human</Template>
+                <Values>
+                  <Human />
+                </Values>
+              </ParticipantType>
+            </Available>
+          </Values>
+        </Peer>
+      </Peers>
+      <Maps>
+        <Asset>0</Asset>
+      </Maps>
+      <ActiveDLCs>
+        <DLC>0</DLC>
+      </ActiveDLCs>
+    </GameSetup>
+    <Human>
+      <AccountUnlocks>
+        <Asset>0</Asset>
+      </AccountUnlocks>
+    </Human>
+  </DefaultContainerValues>
+</Property>

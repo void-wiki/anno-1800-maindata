@@ -1,0 +1,22 @@
+<Property>
+  <Name>MapGenerator</Name>
+  <DefaultValues>
+    <MapGenerator>
+      <IslandSizes />
+      <MineSlotCountPerResourceAmount />
+      <MaxDecorationIslands />
+    </MapGenerator>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <MapGenerator>
+      <MineSlotCountPerResourceAmount>
+        <ContainerValues>
+          <Region>
+            <IslandSize />
+          </Region>
+        </ContainerValues>
+        <Region />
+      </MineSlotCountPerResourceAmount>
+    </MapGenerator>
+  </DefaultContainerValues>
+</Property>

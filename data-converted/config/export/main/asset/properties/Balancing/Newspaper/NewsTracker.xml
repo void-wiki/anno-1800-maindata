@@ -1,0 +1,217 @@
+<Property>
+  <Name>NewsTracker</Name>
+  <DefaultValues>
+    <CityAttractivenessNewsTracker>
+      <AttractivenessStatusIncreasedArticle>0</AttractivenessStatusIncreasedArticle>
+      <AttractivenessStatusDecreasedArticle>0</AttractivenessStatusDecreasedArticle>
+      <AttractivenessStatusMaximumReachedArticle>0</AttractivenessStatusMaximumReachedArticle>
+      <AttractivenessStatusMaximumReachedOtherParticipantArticle>0</AttractivenessStatusMaximumReachedOtherParticipantArticle>
+    </CityAttractivenessNewsTracker>
+    <DiplomacyNewsTracker>
+      <DiplomacyNews />
+      <PiratesResettledNews>0</PiratesResettledNews>
+      <ReputationReducedNews>0</ReputationReducedNews>
+      <ReputationIncreasedNews>0</ReputationIncreasedNews>
+      <SpecialEditions />
+    </DiplomacyNewsTracker>
+    <HostileTakeoverNewsTracker>
+      <ShareSoldNpcFromNpc>0</ShareSoldNpcFromNpc>
+      <ShareSoldNpcFromPlayer>0</ShareSoldNpcFromPlayer>
+      <ShareSoldPlayerFromNpc>0</ShareSoldPlayerFromNpc>
+      <ShareSoldPlayerFromPlayer>0</ShareSoldPlayerFromPlayer>
+      <ShareBoughtNpcFromPlayer>0</ShareBoughtNpcFromPlayer>
+      <ShareBoughtPlayerFromNpc>0</ShareBoughtPlayerFromNpc>
+      <ShareBoughtBackNpc>0</ShareBoughtBackNpc>
+      <ShareBoughtBackPlayer>0</ShareBoughtBackPlayer>
+      <ShareBoughtNpcFromNpc>0</ShareBoughtNpcFromNpc>
+      <HostileTakeoverPossibleForNpc>0</HostileTakeoverPossibleForNpc>
+      <HostileTakeoverPossibleForPlayer>0</HostileTakeoverPossibleForPlayer>
+    </HostileTakeoverNewsTracker>
+    <IncidentNewsTracker>
+      <IncidentNews />
+    </IncidentNewsTracker>
+    <IncomeBalanceNewsTracker>
+      <IncomeLowArticle>0</IncomeLowArticle>
+      <IncomeHighArticle>0</IncomeHighArticle>
+      <IncomeLowPastArticle>0</IncomeLowPastArticle>
+      <MoneyLowPastArticle>0</MoneyLowPastArticle>
+    </IncomeBalanceNewsTracker>
+    <IslandSettledNewsTracker>
+      <RegionSettledArticles />
+      <NewIslandSettledPlayerArticle>0</NewIslandSettledPlayerArticle>
+      <NewIslandSettledOthersArticle>0</NewIslandSettledOthersArticle>
+    </IslandSettledNewsTracker>
+    <MilitaryNewsTracker>
+      <ShipLostArticle>0</ShipLostArticle>
+      <MoraleLostArticle>0</MoraleLostArticle>
+      <KontorLostArticle>0</KontorLostArticle>
+      <ShipDestroyedArticle>0</ShipDestroyedArticle>
+      <MoraleDestroyedArticle>0</MoraleDestroyedArticle>
+      <BattleActiveArticle>0</BattleActiveArticle>
+      <BattleWonArticle>0</BattleWonArticle>
+      <BattleLostArticle>0</BattleLostArticle>
+      <IslandWarDefenseStarted>0</IslandWarDefenseStarted>
+      <IslandWarDefenseWon>0</IslandWarDefenseWon>
+      <IslandWarDefenseLost>0</IslandWarDefenseLost>
+      <IslandWarDefenseMoraleLowArticle>0</IslandWarDefenseMoraleLowArticle>
+      <IslandWarOffenseStarted>0</IslandWarOffenseStarted>
+      <IslandWarOffenseWon>0</IslandWarOffenseWon>
+      <IslandWarOffenseLost>0</IslandWarOffenseLost>
+      <IslandWarOffenseMoraleLowArticle>0</IslandWarOffenseMoraleLowArticle>
+      <IslandWarStartedOtherParticipants>0</IslandWarStartedOtherParticipants>
+      <IslandWarEndedOtherParticipants>0</IslandWarEndedOtherParticipants>
+      <IslandWarWonOtherParticipants>0</IslandWarWonOtherParticipants>
+    </MilitaryNewsTracker>
+    <MonumentNewsTracker>
+      <MonumentEventNews />
+      <MonumentConstructionNews />
+    </MonumentNewsTracker>
+    <NeedsSatisfactionNews>
+      <Need>0</Need>
+      <SatisfactionArticle>0</SatisfactionArticle>
+    </NeedsSatisfactionNews>
+    <NeedsSatisfactionNewsTracker>
+      <NeedsNews />
+    </NeedsSatisfactionNewsTracker>
+    <NewsTrackerBase>
+      <NewsTrackerType>UnlockTracker</NewsTrackerType>
+      <NewsTrackerScope>Area</NewsTrackerScope>
+    </NewsTrackerBase>
+    <ObjectBuildNewsTracker>
+      <ObjectNews />
+    </ObjectBuildNewsTracker>
+    <OverallSatisfactionNewsTracker>
+      <SatisfactionNews />
+      <HappinessNews />
+      <PopulationIncreasesArticle>0</PopulationIncreasesArticle>
+      <PopulationDecreasesArticle>0</PopulationDecreasesArticle>
+      <HappinessIncreaseAmount>0</HappinessIncreaseAmount>
+      <HappinessDecreaseAmount>0</HappinessDecreaseAmount>
+    </OverallSatisfactionNewsTracker>
+    <QuestNewsTracker>
+      <QuestWonArticles />
+      <QuestLostArticles />
+    </QuestNewsTracker>
+    <ShipBuiltNewsTracker>
+      <ShipBuiltNews />
+    </ShipBuiltNewsTracker>
+    <UnlockNewsTracker>
+      <UnlockNews />
+    </UnlockNewsTracker>
+    <WorkforceNewsTracker>
+      <WorkforceArticles />
+    </WorkforceNewsTracker>
+    <WorkforceSliderNewsTracker>
+      <WorkforceSliderArticles />
+    </WorkforceSliderNewsTracker>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <DiplomacyNewsTracker>
+      <DiplomacyNews>
+        <AddedWithPlayer>0</AddedWithPlayer>
+        <RemovedWithPlayer>0</RemovedWithPlayer>
+        <AddedBetweenOthers>0</AddedBetweenOthers>
+        <RemovedBetweenOthers>0</RemovedBetweenOthers>
+      </DiplomacyNews>
+      <SpecialEditions>
+        <ContainerValues>
+          <Newspapers>
+            <DiplomacyTrigger>War</DiplomacyTrigger>
+            <Article>0</Article>
+          </Newspapers>
+        </ContainerValues>
+        <Newspapers />
+      </SpecialEditions>
+    </DiplomacyNewsTracker>
+    <IncidentNewsTracker>
+      <IncidentNews>
+        <HighIncidentChanceArticle>0</HighIncidentChanceArticle>
+        <MediumIncidentChanceArticle>0</MediumIncidentChanceArticle>
+        <LowIncidentChanceArticle>0</LowIncidentChanceArticle>
+      </IncidentNews>
+    </IncidentNewsTracker>
+    <IslandSettledNewsTracker>
+      <RegionSettledArticles>
+        <Article>0</Article>
+      </RegionSettledArticles>
+    </IslandSettledNewsTracker>
+    <MonumentNewsTracker>
+      <MonumentEventNews>
+        <MonumentEvent>0</MonumentEvent>
+        <MonumentEventActiveArticle>0</MonumentEventActiveArticle>
+        <MonumentEventEndedArticle>0</MonumentEventEndedArticle>
+      </MonumentEventNews>
+      <MonumentConstructionNews>
+        <ContainerValues>
+          <MonumentNews>
+            <Monument>0</Monument>
+            <ConstructionStartedArticle>0</ConstructionStartedArticle>
+            <ConstructionFinishedArticle>0</ConstructionFinishedArticle>
+            <NewConstructionPhaseArticle>0</NewConstructionPhaseArticle>
+            <FinishedConstructionPhaseArticle>0</FinishedConstructionPhaseArticle>
+            <ConstructionStopped>0</ConstructionStopped>
+            <ConstructionStoppedPast>0</ConstructionStoppedPast>
+            <ConstructionSlowedByWorkforce>0</ConstructionSlowedByWorkforce>
+            <ConstructionSlowedByWorkforcePast>0</ConstructionSlowedByWorkforcePast>
+            <ConstructionNormal>0</ConstructionNormal>
+          </MonumentNews>
+        </ContainerValues>
+        <MonumentNews />
+      </MonumentConstructionNews>
+    </MonumentNewsTracker>
+    <NeedsSatisfactionNewsTracker>
+      <NeedsNews>
+        <News>0</News>
+      </NeedsNews>
+    </NeedsSatisfactionNewsTracker>
+    <ObjectBuildNewsTracker>
+      <ObjectNews>
+        <Object>0</Object>
+        <Article>0</Article>
+        <TriggerFilter>Always</TriggerFilter>
+      </ObjectNews>
+    </ObjectBuildNewsTracker>
+    <OverallSatisfactionNewsTracker>
+      <SatisfactionNews>
+        <SatisfactionArticle>0</SatisfactionArticle>
+      </SatisfactionNews>
+      <HappinessNews>
+        <HappinessArticle>0</HappinessArticle>
+      </HappinessNews>
+    </OverallSatisfactionNewsTracker>
+    <QuestNewsTracker>
+      <QuestWonArticles>
+        <QuestArticle>0</QuestArticle>
+      </QuestWonArticles>
+      <QuestLostArticles>
+        <QuestArticle>0</QuestArticle>
+      </QuestLostArticles>
+    </QuestNewsTracker>
+    <ShipBuiltNewsTracker>
+      <ShipBuiltNews>
+        <SeveralShipsBuiltArticle>0</SeveralShipsBuiltArticle>
+        <AirShipBuiltArticle>0</AirShipBuiltArticle>
+        <TradeShipBuiltArticle>0</TradeShipBuiltArticle>
+        <MilitaryShipBuiltArticle>0</MilitaryShipBuiltArticle>
+      </ShipBuiltNews>
+    </ShipBuiltNewsTracker>
+    <UnlockNewsTracker>
+      <UnlockNews>
+        <UnlockAsset>0</UnlockAsset>
+        <Article>0</Article>
+      </UnlockNews>
+    </UnlockNewsTracker>
+    <WorkforceNewsTracker>
+      <WorkforceArticles>
+        <Product>0</Product>
+        <Article>0</Article>
+      </WorkforceArticles>
+    </WorkforceNewsTracker>
+    <WorkforceSliderNewsTracker>
+      <WorkforceSliderArticles>
+        <Article>0</Article>
+        <Context>0</Context>
+      </WorkforceSliderArticles>
+    </WorkforceSliderNewsTracker>
+  </DefaultContainerValues>
+</Property>

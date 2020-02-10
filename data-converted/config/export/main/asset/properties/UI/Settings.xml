@@ -1,0 +1,20 @@
+<Property>
+  <Name>Settings</Name>
+  <DefaultValues>
+    <SettingsMenu>
+      <Container />
+    </SettingsMenu>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <SettingsMenu>
+      <Container>
+        <Container>
+          <Template>OptionGrid</Template>
+          <Values>
+            <OptionGrid />
+          </Values>
+        </Container>
+      </Container>
+    </SettingsMenu>
+  </DefaultContainerValues>
+</Property>

@@ -1,0 +1,215 @@
+<Property>
+  <Name>Upgrades</Name>
+  <DefaultValues>
+    <AttackableUpgrade>
+      <MaxHitpointsUpgrade />
+      <SelfHealUpgrade />
+      <SelfHealPausedTimeIfAttackedUpgrade />
+      <MoralePowerUpgrade />
+      <DamageReceiveFactor />
+    </AttackableUpgrade>
+    <AttackerUpgrade>
+      <AttackRangeUpgrade />
+      <BaseDamageUpgrade />
+      <ReloadTimeUpgrade />
+      <AccuracyUpgrade />
+      <UseProjectile>0</UseProjectile>
+      <AddStatusEffects />
+      <LineOfSightRangeUpgrade />
+      <MoraleDamage />
+      <HitpointDamage />
+      <DamageFactor />
+    </AttackerUpgrade>
+    <Buff>
+      <PossibleFluffTexts />
+      <AddedInfolayer>0</AddedInfolayer>
+    </Buff>
+    <BuildingUpgrade>
+      <MaintenanceUpgrade />
+      <PublicServiceFullSatisfactionDistance />
+      <PublicServiceNoSatisfactionDistance />
+      <ResolverUnitCountUpgrade />
+      <ResolverUnitDecreaseUpgrade />
+      <ResolverUnitMovementSpeedUpgrade />
+      <WorkforceAmountUpgrade />
+      <ReplacingWorkforce>0</ReplacingWorkforce>
+    </BuildingUpgrade>
+    <CultureSet>
+      <NeededUpgrades />
+    </CultureSet>
+    <CultureUpgrade>
+      <ChangeModule>0</ChangeModule>
+      <ForcedFeedbackVariation>0</ForcedFeedbackVariation>
+      <AttractivenessUpgrade />
+      <AdditionalModuleSoundLoop>0</AdditionalModuleSoundLoop>
+      <ItemSetUpgrade />
+    </CultureUpgrade>
+    <DistributionUpgrade>
+      <AddDeltas />
+    </DistributionUpgrade>
+    <DivingBellUpgrade>
+      <MinPickupTimeUpgrade />
+      <MaxPickupTimeUpgrade />
+      <ScrapAmountLevelUpgrade />
+      <RarityWeightUpgrade />
+      <AllocationWeightUpgrade />
+    </DivingBellUpgrade>
+    <ElectricUpgrade />
+    <FactoryUpgrade>
+      <ProductivityUpgrade />
+      <AddedFertility>0</AddedFertility>
+      <OutputAmountFactorUpgrade />
+      <AdditionalOutput />
+      <InputAmountUpgrade />
+      <ReplaceInputs />
+      <NeededAreaPercentUpgrade />
+    </FactoryUpgrade>
+    <HeaterUpgrade>
+      <HeatRangeUpgrade />
+    </HeaterUpgrade>
+    <IncidentInfectableUpgrade>
+      <IncidentFireIncreaseUpgrade />
+      <IncidentIllnessIncreaseUpgrade />
+      <IncidentRiotIncreaseUpgrade />
+      <OverrideIncidentAttractiveness />
+      <IncidentExplosionIncreaseUpgrade />
+      <IncidentArcticIllnessIncreaseUpgrade />
+    </IncidentInfectableUpgrade>
+    <IncidentInfluencerUpgrade>
+      <FireInfluenceUpgrade />
+      <IllnessInfluenceUpgrade />
+      <RiotInfluenceUpgrade />
+      <DistanceUpgrade />
+      <SpecialUnitHappinessThresholdUpgrade />
+    </IncidentInfluencerUpgrade>
+    <KontorUpgrade />
+    <ModuleOwnerUpgrade />
+    <NewspaperUpgrade />
+    <PassiveTradeGoodGenUpgrade>
+      <GenPool>0</GenPool>
+    </PassiveTradeGoodGenUpgrade>
+    <PierUpgrade>
+      <PierSpeedUpgrade />
+    </PierUpgrade>
+    <PopulationUpgrade>
+      <ResidentsUpgrade />
+      <StressUpgrade />
+      <InputBenefitModifier />
+    </PopulationUpgrade>
+    <ProjectileUpgrade>
+      <InnerDamageUpgrade />
+      <OuterDamageRadiusUpgrade />
+      <PushForceUpgrade />
+      <PushDurationUpgrade />
+    </ProjectileUpgrade>
+    <RepairCraneUpgrade>
+      <HealRadiusUpgrade />
+      <HealPerMinuteUpgrade />
+      <HealBuildingsPerMinuteUpgrade />
+    </RepairCraneUpgrade>
+    <ResidenceUpgrade>
+      <NeedProvideNeedUpgrade />
+      <GoodConsumptionUpgrade />
+    </ResidenceUpgrade>
+    <ShipyardUpgrade>
+      <ReplaceAssemblyOptions />
+      <AddAssemblyOptions />
+    </ShipyardUpgrade>
+    <TradeShipUpgrade>
+      <ActiveTradePriceInPercent>100</ActiveTradePriceInPercent>
+      <LoadingSpeedUpgrade />
+    </TradeShipUpgrade>
+    <UpgradeList />
+    <VehicleUpgrade>
+      <ForwardSpeedUpgrade />
+      <UpgradeDescription>0</UpgradeDescription>
+      <MaintainanceUpgrade />
+      <IgnoreWeightFactorUpgrade />
+      <IgnoreDamageFactorUpgrade />
+    </VehicleUpgrade>
+    <VisitorHarborUpgrade>
+      <SpawnProbabilityFactor />
+    </VisitorHarborUpgrade>
+    <VisitorUpgrade />
+  </DefaultValues>
+  <DefaultContainerValues>
+    <AttackableUpgrade>
+      <DamageReceiveFactor>
+        <Factor>1</Factor>
+      </DamageReceiveFactor>
+    </AttackableUpgrade>
+    <AttackerUpgrade>
+      <AddStatusEffects>
+        <StatusEffect>0</StatusEffect>
+      </AddStatusEffects>
+      <MoraleDamage>
+        <MaxMorale>100</MaxMorale>
+        <MinDamageFactor>1</MinDamageFactor>
+        <MaxDamageFactor>1</MaxDamageFactor>
+      </MoraleDamage>
+      <HitpointDamage>
+        <MaxHitpointPercent>100</MaxHitpointPercent>
+        <MinDamageFactor>1</MinDamageFactor>
+        <MaxDamageFactor>1</MaxDamageFactor>
+      </HitpointDamage>
+      <DamageFactor>
+        <Factor>1</Factor>
+      </DamageFactor>
+    </AttackerUpgrade>
+    <Buff>
+      <PossibleFluffTexts>
+        <FluffText>0</FluffText>
+      </PossibleFluffTexts>
+    </Buff>
+    <CultureSet>
+      <NeededUpgrades>
+        <GUID>0</GUID>
+      </NeededUpgrades>
+    </CultureSet>
+    <CultureUpgrade>
+      <ItemSetUpgrade>
+        <ItemSet>0</ItemSet>
+      </ItemSetUpgrade>
+    </CultureUpgrade>
+    <DistributionUpgrade>
+      <AddDeltas>
+        <Product>0</Product>
+      </AddDeltas>
+    </DistributionUpgrade>
+    <FactoryUpgrade>
+      <AdditionalOutput>
+        <Product>0</Product>
+      </AdditionalOutput>
+      <InputAmountUpgrade>
+        <Product>0</Product>
+      </InputAmountUpgrade>
+      <ReplaceInputs>
+        <OldInput>0</OldInput>
+        <NewInput>0</NewInput>
+      </ReplaceInputs>
+    </FactoryUpgrade>
+    <PopulationUpgrade>
+      <InputBenefitModifier>
+        <Product>0</Product>
+      </InputBenefitModifier>
+    </PopulationUpgrade>
+    <ResidenceUpgrade>
+      <NeedProvideNeedUpgrade>
+        <ProvidedNeed>0</ProvidedNeed>
+        <SubstituteNeed>0</SubstituteNeed>
+      </NeedProvideNeedUpgrade>
+      <GoodConsumptionUpgrade>
+        <ProvidedNeed>0</ProvidedNeed>
+      </GoodConsumptionUpgrade>
+    </ResidenceUpgrade>
+    <ShipyardUpgrade>
+      <ReplaceAssemblyOptions>
+        <OldOption>0</OldOption>
+        <NewOption>0</NewOption>
+      </ReplaceAssemblyOptions>
+      <AddAssemblyOptions>
+        <NewOption>0</NewOption>
+      </AddAssemblyOptions>
+    </ShipyardUpgrade>
+  </DefaultContainerValues>
+</Property>

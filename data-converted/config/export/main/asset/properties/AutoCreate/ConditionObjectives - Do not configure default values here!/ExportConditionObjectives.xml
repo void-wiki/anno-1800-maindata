@@ -1,0 +1,509 @@
+<Property>
+  <Name>ExportConditionObjectives</Name>
+  <DefaultValues>
+    <ConditionMoveVehicle />
+    <ConditionQuestBringVehicleToObject>
+      <BringToObject>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </BringToObject>
+      <ShowConfirmOnReach>1</ShowConfirmOnReach>
+    </ConditionQuestBringVehicleToObject>
+    <ConditionQuestDelivery>
+      <DeliveryObject_cqd>
+        <Item />
+      </DeliveryObject_cqd>
+      <DeliveryType>TargetObject</DeliveryType>
+      <DeliveryExecutionPlace>
+        <Template>ConditionObjectPlayerKontor</Template>
+        <Values>
+          <ConditionObjectPlayerKontor />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </DeliveryExecutionPlace>
+      <DeliveryIsland>0</DeliveryIsland>
+      <ConfirmOnReach>1</ConfirmOnReach>
+    </ConditionQuestDelivery>
+    <ConditionQuestDestroy>
+      <DestroyObjects />
+      <DestroyObjectsPrebuilt />
+      <EscortShips />
+      <MoveAngleMin_cqd>90</MoveAngleMin_cqd>
+      <MoveAngleMax_cqd>120</MoveAngleMax_cqd>
+      <DestroyFinishObjects />
+      <ObjectsBehaviour>StandStill</ObjectsBehaviour>
+      <AllowShipToCancelMovementToDefendItself>1</AllowShipToCancelMovementToDefendItself>
+    </ConditionQuestDestroy>
+    <ConditionQuestDivingBell>
+      <TreasureItem>0</TreasureItem>
+      <AdditionalScrapItem>0</AdditionalScrapItem>
+      <ScrapDummyItem>0</ScrapDummyItem>
+      <SpawnedTreasureGround>0</SpawnedTreasureGround>
+      <AdditionalObjectData />
+    </ConditionQuestDivingBell>
+    <ConditionQuestEscort>
+      <EscortObjects />
+      <EscortObjectsPrebuilt />
+      <SpawnArea>
+        <Template>QuestSpawnArea</Template>
+        <Values>
+          <SpawnArea />
+        </Values>
+      </SpawnArea>
+      <Destinations />
+      <EscortBeginRadius>20</EscortBeginRadius>
+      <EscortObjectDespawn>LeaveMap</EscortObjectDespawn>
+      <AttackerObjectDespawn>LeaveMap</AttackerObjectDespawn>
+      <AttackerObjects />
+      <AttackerList />
+      <AttackerEndlessSpawn />
+      <NeedsShipInRange>1</NeedsShipInRange>
+      <StarterHeadlineText>0</StarterHeadlineText>
+      <StarterHeadlineTextWithoutShip>0</StarterHeadlineTextWithoutShip>
+      <TargetMapBorderText>0</TargetMapBorderText>
+      <EscortFinishObjects />
+    </ConditionQuestEscort>
+    <ConditionQuestExpedition>
+      <RequestedExpedition>0</RequestedExpedition>
+      <CheckedExpeditionStates>Ended</CheckedExpeditionStates>
+    </ConditionQuestExpedition>
+    <ConditionQuestFakeObjective>
+      <QuestTrackerEntries />
+    </ConditionQuestFakeObjective>
+    <ConditionQuestFollowShip>
+      <StartRangeObjectiveText>0</StartRangeObjectiveText>
+      <RangeWarningText>0</RangeWarningText>
+      <StartPosition>
+        <Template>ConditionObjectStarterObject</Template>
+        <Values>
+          <ConditionScanner />
+          <ConditionObjectStarterObject />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </StartPosition>
+      <TargetShip>
+        <Template>ConditionObjectSpawnedObject</Template>
+        <Values>
+          <ConditionObjectSpawnedObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </TargetShip>
+      <MinRangeEffectPositive>0</MinRangeEffectPositive>
+      <MinRangeEffectNegative>0</MinRangeEffectNegative>
+      <MaxRangeEffectPositive>0</MaxRangeEffectPositive>
+      <MaxRangeEffectNegative>0</MaxRangeEffectNegative>
+      <TargetPositions />
+    </ConditionQuestFollowShip>
+    <ConditionQuestHitMovingTarget>
+      <HitTarget>0</HitTarget>
+      <HitTargetAmount>1</HitTargetAmount>
+      <HitTargetSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </HitTargetSignsAndFeedback>
+      <PickUp>0</PickUp>
+      <ItemRetrievalPlace>
+        <Template>ConditionObjectPlayerKontor</Template>
+        <Values>
+          <ConditionObjectPlayerKontor />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ItemRetrievalPlace>
+      <ItemUsed>0</ItemUsed>
+      <CondInStorageCombinedText>0</CondInStorageCombinedText>
+      <HitMovingTargetCombinedText>0</HitMovingTargetCombinedText>
+    </ConditionQuestHitMovingTarget>
+    <ConditionQuestItemUsed>
+      <UseItems />
+    </ConditionQuestItemUsed>
+    <ConditionQuestModuleBuildingEfficiency>
+      <ModuleBuildingAsset>0</ModuleBuildingAsset>
+    </ConditionQuestModuleBuildingEfficiency>
+    <ConditionQuestPhotography>
+      <PhotographyObjectList />
+    </ConditionQuestPhotography>
+    <ConditionQuestPickup>
+      <PickupObjects />
+    </ConditionQuestPickup>
+    <ConditionQuestPicturePuzzle>
+      <PicturePuzzleObjects />
+    </ConditionQuestPicturePuzzle>
+    <ConditionQuestResolveConfirmation>
+      <ResolveConfirmationMessage>
+        <Template>CharacterNotification</Template>
+        <Values>
+          <CharacterNotification />
+          <BaseNotification />
+          <NotificationSubtitle />
+        </Values>
+      </ResolveConfirmationMessage>
+    </ConditionQuestResolveConfirmation>
+    <ConditionQuestSelectObject>
+      <SelectObjects />
+    </ConditionQuestSelectObject>
+    <ConditionQuestSellObjectToParticipant>
+      <BuyerParticipant>Human0</BuyerParticipant>
+      <ObjectToSell>0</ObjectToSell>
+      <SellAmount>1</SellAmount>
+    </ConditionQuestSellObjectToParticipant>
+    <ConditionQuestSmuggler>
+      <InitialTradingStation>
+        <Template>ConditionObjectAnywhere</Template>
+        <Values>
+          <ConditionObjectAnywhere />
+        </Values>
+      </InitialTradingStation>
+      <RetrieveItemAtInitialTradingStation>0</RetrieveItemAtInitialTradingStation>
+      <InitialTradingStationLayerFlags>Land;Water;Air</InitialTradingStationLayerFlags>
+      <SmugglerStations />
+      <FailObjectiveOnDetection>1</FailObjectiveOnDetection>
+      <ShipInRangeForActivationText>0</ShipInRangeForActivationText>
+      <TextTradingStation_NoItem>0</TextTradingStation_NoItem>
+      <TextTradingStation>0</TextTradingStation>
+      <AdditionalScannerUnits />
+    </ConditionQuestSmuggler>
+    <ConditionQuestStatusQuo />
+    <ConditionQuestSubQuest>
+      <Asset>0</Asset>
+    </ConditionQuestSubQuest>
+    <ConditionQuestSustain>
+      <SustainObjectiveText>0</SustainObjectiveText>
+    </ConditionQuestSustain>
+    <ConditionQuestTutorial>
+      <InteractionFlow />
+    </ConditionQuestTutorial>
+    <ConditionQuestUseItemInArea>
+      <TargetObject>0</TargetObject>
+      <ItemToUse>0</ItemToUse>
+      <StartPlace>
+        <Template>ConditionObjectPlayerKontor</Template>
+        <Values>
+          <ConditionObjectPlayerKontor />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </StartPlace>
+      <UseItemInAreaSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </UseItemInAreaSignsAndFeedback>
+    </ConditionQuestUseItemInArea>
+    <ConditionStarterObject>
+      <StarterObjectObject>
+        <Template>ConditionObjectPlayerKontor</Template>
+        <Values>
+          <ConditionObjectPlayerKontor />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </StarterObjectObject>
+      <StarterObjectDockingPlace>
+        <Template>ConditionObjectClientQuestObject</Template>
+        <Values>
+          <ConditionObjectClientQuestObject />
+          <ConditionScanner />
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </StarterObjectDockingPlace>
+    </ConditionStarterObject>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ConditionQuestDelivery>
+      <DeliveryObject_cqd>
+        <ObjectGUID>0</ObjectGUID>
+        <Min>1</Min>
+        <Max>1</Max>
+      </DeliveryObject_cqd>
+    </ConditionQuestDelivery>
+    <ConditionQuestDestroy>
+      <DestroyObjects>
+        <DestroyObject>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </DestroyObject>
+      </DestroyObjects>
+      <DestroyObjectsPrebuilt>
+        <DestroyObject>
+          <Template>ConditionObjectPrebuiltObject</Template>
+          <Values>
+            <ConditionObjectPrebuiltObject />
+            <ConditionScanner />
+            <ConditionObjectiveSignsAndFeedback />
+          </Values>
+        </DestroyObject>
+      </DestroyObjectsPrebuilt>
+      <EscortShips>
+        <EscortShip>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </EscortShip>
+      </EscortShips>
+      <DestroyFinishObjects>
+        <DestroyFinishObject>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </DestroyFinishObject>
+      </DestroyFinishObjects>
+    </ConditionQuestDestroy>
+    <ConditionQuestDivingBell>
+      <AdditionalObjectData>
+        <AdditionalObjectList>
+          <Template>ConditionScanner</Template>
+          <Values>
+            <ConditionScanner />
+          </Values>
+        </AdditionalObjectList>
+      </AdditionalObjectData>
+    </ConditionQuestDivingBell>
+    <ConditionQuestEscort>
+      <EscortObjects>
+        <EscortObject>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </EscortObject>
+      </EscortObjects>
+      <EscortObjectsPrebuilt>
+        <EscortObject>
+          <Template>ConditionObjectPrebuiltObject</Template>
+          <Values>
+            <ConditionObjectPrebuiltObject />
+            <ConditionScanner />
+            <ConditionObjectiveSignsAndFeedback />
+          </Values>
+        </EscortObject>
+      </EscortObjectsPrebuilt>
+      <Destinations>
+        <MoveDirection>MapBorder</MoveDirection>
+        <TargetObject>0</TargetObject>
+        <TargetSpawnArea>
+          <Template>QuestSpawnArea</Template>
+          <Values>
+            <SpawnArea />
+          </Values>
+        </TargetSpawnArea>
+        <PrebuiltObject>
+          <Template>ConditionObjectPrebuiltObject</Template>
+          <Values>
+            <ConditionObjectPrebuiltObject />
+            <ConditionScanner />
+            <ConditionObjectiveSignsAndFeedback />
+          </Values>
+        </PrebuiltObject>
+      </Destinations>
+      <AttackerObjects>
+        <AttackerObject>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </AttackerObject>
+      </AttackerObjects>
+      <AttackerList>
+        <ContainerValues>
+          <AttackerObjectList>
+            <AttackerObject>
+              <Template>QuestObjectList</Template>
+              <Values>
+                <ObjectList />
+              </Values>
+            </AttackerObject>
+          </AttackerObjectList>
+        </ContainerValues>
+        <AttackerObjectList />
+      </AttackerList>
+      <AttackerEndlessSpawn>
+        <AttackerObject>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </AttackerObject>
+      </AttackerEndlessSpawn>
+      <EscortFinishObjects>
+        <EscortFinishObject>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </EscortFinishObject>
+      </EscortFinishObjects>
+    </ConditionQuestEscort>
+    <ConditionQuestFakeObjective>
+      <QuestTrackerEntries>
+        <TextContent>0</TextContent>
+        <TextValue>0</TextValue>
+        <CombinedText>0</CombinedText>
+      </QuestTrackerEntries>
+    </ConditionQuestFakeObjective>
+    <ConditionQuestFollowShip>
+      <TargetPositions>
+        <Position>
+          <Template>ObjectFilter</Template>
+          <Values>
+            <ObjectFilter />
+          </Values>
+        </Position>
+        <Range>15</Range>
+      </TargetPositions>
+    </ConditionQuestFollowShip>
+    <ConditionQuestItemUsed>
+      <UseItems>
+        <Item>0</Item>
+        <TargetObject>0</TargetObject>
+      </UseItems>
+    </ConditionQuestItemUsed>
+    <ConditionQuestPhotography>
+      <PhotographyObjectList>
+        <Entry>
+          <Template>ConditionObjectPrebuiltObject</Template>
+          <Values>
+            <ConditionObjectPrebuiltObject />
+            <ConditionScanner />
+            <ConditionObjectiveSignsAndFeedback />
+          </Values>
+        </Entry>
+        <CircleAreaPercentage>5</CircleAreaPercentage>
+        <ScreenBorderPercentage>10</ScreenBorderPercentage>
+        <AppearInNewspaperArticle>0</AppearInNewspaperArticle>
+      </PhotographyObjectList>
+    </ConditionQuestPhotography>
+    <ConditionQuestPickup>
+      <PickupObjects>
+        <PickupObject>
+          <Template>QuestObjectList</Template>
+          <Values>
+            <ObjectList />
+          </Values>
+        </PickupObject>
+      </PickupObjects>
+    </ConditionQuestPickup>
+    <ConditionQuestPicturePuzzle>
+      <PicturePuzzleObjects>
+        <ContainerValues>
+          <Context>
+            <CargoAsset>0</CargoAsset>
+            <SpawnArea>
+              <Template>QuestSpawnArea</Template>
+              <Values>
+                <SpawnArea />
+              </Values>
+            </SpawnArea>
+            <Behaviour>Static</Behaviour>
+            <PathIsland>0</PathIsland>
+            <MobTryStreetPath>1</MobTryStreetPath>
+            <MobTargetUnitCount>100</MobTargetUnitCount>
+            <MobFeedbackHideRadius>11</MobFeedbackHideRadius>
+            <MobForceSpawnUnitCount>70</MobForceSpawnUnitCount>
+            <MobForceSpaenUnitType>0</MobForceSpaenUnitType>
+            <MobMoveSpeed>0.3</MobMoveSpeed>
+            <MobOverwriteUnitType>0</MobOverwriteUnitType>
+            <MobSequence>Protest</MobSequence>
+          </Context>
+        </ContainerValues>
+        <Object>0</Object>
+        <Context />
+      </PicturePuzzleObjects>
+    </ConditionQuestPicturePuzzle>
+    <ConditionQuestSelectObject>
+      <SelectObjects>
+        <Object>
+          <Template>ObjectFilter</Template>
+          <Values>
+            <ObjectFilter />
+          </Values>
+        </Object>
+      </SelectObjects>
+    </ConditionQuestSelectObject>
+    <ConditionQuestSmuggler>
+      <SmugglerStations>
+        <Station>
+          <Template>QuestTradingStation</Template>
+          <Values>
+            <TradingStation>
+              <TradingStationDestination>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>ConditionObjectPlayerKontor</Template>
+                <Values>
+                  <ConditionObjectPlayerKontor />
+                  <ConditionScanner />
+                  <ConditionObjectiveSignsAndFeedback />
+                </Values>
+              </TradingStationDestination>
+              <OnTradingStationVisited>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>Actions</Template>
+                <Values>
+                  <ActionList />
+                </Values>
+              </OnTradingStationVisited>
+              <TradingStationSignsAndFeedback>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>ConditionObjectiveSignsAndFeedback</Template>
+                <Values>
+                  <ConditionObjectiveSignsAndFeedback />
+                </Values>
+              </TradingStationSignsAndFeedback>
+              <TradingStationReachedNotification>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>CharacterNotification</Template>
+                <Values>
+                  <CharacterNotification />
+                  <BaseNotification />
+                  <NotificationSubtitle />
+                </Values>
+              </TradingStationReachedNotification>
+            </TradingStation>
+          </Values>
+        </Station>
+      </SmugglerStations>
+      <AdditionalScannerUnits>
+        <ScannerCenterObject>
+          <Template>ConditionObjectPrebuiltObject</Template>
+          <Values>
+            <ConditionObjectPrebuiltObject />
+            <ConditionScanner />
+            <ConditionObjectiveSignsAndFeedback />
+          </Values>
+        </ScannerCenterObject>
+      </AdditionalScannerUnits>
+    </ConditionQuestSmuggler>
+    <ConditionQuestTutorial>
+      <InteractionFlow>
+        <TutorialInteraction>
+          <Template>ConditionTutorialInteraction</Template>
+          <Values>
+            <Condition />
+            <ConditionTutorialInteraction>
+              <ObjectFilter>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Template>ObjectFilter</Template>
+                <Values>
+                  <ObjectFilter />
+                </Values>
+              </ObjectFilter>
+            </ConditionTutorialInteraction>
+          </Values>
+        </TutorialInteraction>
+      </InteractionFlow>
+    </ConditionQuestTutorial>
+  </DefaultContainerValues>
+</Property>

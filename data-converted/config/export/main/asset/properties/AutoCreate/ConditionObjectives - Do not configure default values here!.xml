@@ -1,0 +1,54 @@
+<Property>
+  <Name>ConditionObjectives - Do not configure default values here!</Name>
+  <DefaultValues>
+    <ConditionQuestObjective>
+      <IsVisibleInQuestTracker>1</IsVisibleInQuestTracker>
+      <TextCombinedContextValue>0</TextCombinedContextValue>
+      <ObjectiveSignsAndFeedback>
+        <Template>ConditionObjectiveSignsAndFeedback</Template>
+        <Values>
+          <ConditionObjectiveSignsAndFeedback />
+        </Values>
+      </ObjectiveSignsAndFeedback>
+      <FakeMinimapPings />
+      <ObjectiveSuccessMessage>
+        <Template>CharacterNotification</Template>
+        <Values>
+          <CharacterNotification />
+          <BaseNotification />
+          <NotificationSubtitle />
+        </Values>
+      </ObjectiveSuccessMessage>
+      <JumpToVisibility>Show</JumpToVisibility>
+      <OnSuccessActions>
+        <Template>Actions</Template>
+        <Values>
+          <ActionList />
+        </Values>
+      </OnSuccessActions>
+    </ConditionQuestObjective>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <ConditionQuestObjective>
+      <FakeMinimapPings>
+        <ContainerValues>
+          <Objects>
+            <FakeMinimapObjects>
+              <Template>ObjectFilter</Template>
+              <Values>
+                <ObjectFilter />
+              </Values>
+            </FakeMinimapObjects>
+            <SignsAndFeedback>
+              <Template>ConditionObjectiveSignsAndFeedback</Template>
+              <Values>
+                <ConditionObjectiveSignsAndFeedback />
+              </Values>
+            </SignsAndFeedback>
+          </Objects>
+        </ContainerValues>
+        <Objects />
+      </FakeMinimapPings>
+    </ConditionQuestObjective>
+  </DefaultContainerValues>
+</Property>

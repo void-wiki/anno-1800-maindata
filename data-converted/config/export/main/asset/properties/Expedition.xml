@@ -1,0 +1,241 @@
+<Property>
+  <Name>Expedition</Name>
+  <DefaultValues>
+    <Expedition>
+      <ExpeditionName>0</ExpeditionName>
+      <ExpeditionDescription>0</ExpeditionDescription>
+      <ExpeditionRegion>None</ExpeditionRegion>
+      <ExpeditionDifficulty>Easy</ExpeditionDifficulty>
+      <MandatoryFailExpedition />
+      <EventList />
+      <FillEventPool>0</FillEventPool>
+      <Threats />
+      <MinPauseBetweenEvents>15000</MinPauseBetweenEvents>
+      <MaxPauseBetweenEvents>15000</MaxPauseBetweenEvents>
+      <MoraleAmounts />
+      <OptionThresholds />
+      <ExpeditionTargetSession>0</ExpeditionTargetSession>
+      <WorldMapCardBG>0</WorldMapCardBG>
+      <Reward>0</Reward>
+      <LastEventNeedsContinue>1</LastEventNeedsContinue>
+      <BackgroundVideoSounds />
+      <ContinueVideo>data/ui/video/expedition/generic.bk2</ContinueVideo>
+      <ContinueVideoSounds />
+    </Expedition>
+    <ExpeditionAttribute>
+      <BaseMorale>20</BaseMorale>
+      <ExpeditionAttributes />
+      <ItemRegions />
+      <ItemDifficulties />
+      <FluffText>0</FluffText>
+    </ExpeditionAttribute>
+    <ExpeditionDecision>
+      <Options />
+      <ChangeMorale>None</ChangeMorale>
+      <InsertEvent>0</InsertEvent>
+      <Conclusion>0</Conclusion>
+      <NegativeOutcomeLosses>None</NegativeOutcomeLosses>
+      <NegativeOutcomeMin>1</NegativeOutcomeMin>
+      <NegativeOutcomeMax>1</NegativeOutcomeMax>
+      <DecisionVideoSounds />
+      <MapPath />
+    </ExpeditionDecision>
+    <ExpeditionEvent>
+      <EventRegion />
+      <EventRarity>1</EventRarity>
+      <EventThreat>0</EventThreat>
+      <StartDecision>0</StartDecision>
+      <EventMusicChoice>0</EventMusicChoice>
+      <EventVideo>data/ui/video/expedition/expedition_temple_event_continue.bik</EventVideo>
+      <EventVideoSounds />
+    </ExpeditionEvent>
+    <ExpeditionEventPool>
+      <EventPool />
+    </ExpeditionEventPool>
+    <ExpeditionFeature>
+      <EventLimits />
+      <ThreatImpactOnEventRarity />
+      <FeedOption />
+      <ExpeditionRegions />
+      <AttributeNames />
+      <Traits />
+      <AttributeOptionPreparationLevel />
+      <ExpeditionDistribution />
+      <MoraleRanges />
+      <SuccessVideoSounds />
+      <FailVideoSounds />
+      <EarlyReturnVideoSounds />
+    </ExpeditionFeature>
+    <ExpeditionMapOption />
+    <ExpeditionOption>
+      <OptionAttribute>None</OptionAttribute>
+      <FollowupDecisions />
+      <Requirements />
+      <SoundEvent>0</SoundEvent>
+      <OptionDescription>0</OptionDescription>
+    </ExpeditionOption>
+    <ExpeditionSlot>
+      <SlotRegion>None</SlotRegion>
+      <SpecialExpeditionsSlot />
+    </ExpeditionSlot>
+    <ExpeditionThreat>
+      <Attributes />
+      <ThreatDescriptions />
+      <Hint>0</Hint>
+    </ExpeditionThreat>
+    <ExpeditionTrade>
+      <AvailableGoods />
+      <AvailableItems />
+      <TraderName>0</TraderName>
+      <FollowupSuccessOption>0</FollowupSuccessOption>
+      <FollowupFailOrCancelOption>0</FollowupFailOrCancelOption>
+      <SuccessConclusion>0</SuccessConclusion>
+      <FailOrCancelConclusion>0</FailOrCancelConclusion>
+      <OptionInfotip>501033</OptionInfotip>
+      <TradeHeadline>0</TradeHeadline>
+      <AcceptOption>0</AcceptOption>
+      <CancelOption>0</CancelOption>
+      <TradeType>0</TradeType>
+      <TendencyFeedback>0</TendencyFeedback>
+      <SuccessChance>
+        <Discount>1</Discount>
+        <Skonto>1</Skonto>
+      </SuccessChance>
+    </ExpeditionTrade>
+  </DefaultValues>
+  <DefaultContainerValues>
+    <Expedition>
+      <MandatoryFailExpedition>
+        <NewExpedition>0</NewExpedition>
+      </MandatoryFailExpedition>
+      <EventList>
+        <EventOrEventPool>0</EventOrEventPool>
+      </EventList>
+      <Threats>
+        <Threat>0</Threat>
+      </Threats>
+      <BackgroundVideoSounds>
+        <Event>0</Event>
+      </BackgroundVideoSounds>
+      <ContinueVideoSounds>
+        <Event>0</Event>
+      </ContinueVideoSounds>
+    </Expedition>
+    <ExpeditionAttribute>
+      <ExpeditionAttributes>
+        <Attribute>None</Attribute>
+      </ExpeditionAttributes>
+    </ExpeditionAttribute>
+    <ExpeditionDecision>
+      <Options>
+        <Option>0</Option>
+      </Options>
+      <DecisionVideoSounds>
+        <Event>0</Event>
+      </DecisionVideoSounds>
+      <MapPath>
+        <MapLabel>0</MapLabel>
+        <ProgressReview>0</ProgressReview>
+      </MapPath>
+    </ExpeditionDecision>
+    <ExpeditionEvent>
+      <EventVideoSounds>
+        <Event>0</Event>
+      </EventVideoSounds>
+    </ExpeditionEvent>
+    <ExpeditionEventPool>
+      <EventPool>
+        <EventOrEventPool>0</EventOrEventPool>
+      </EventPool>
+    </ExpeditionEventPool>
+    <ExpeditionFeature>
+      <ThreatImpactOnEventRarity>
+        <ThreatInfotip>0</ThreatInfotip>
+      </ThreatImpactOnEventRarity>
+      <FeedOption>
+        <ContainerValues>
+          <FeedOptions>
+            <Product>0</Product>
+          </FeedOptions>
+        </ContainerValues>
+        <FeedOptions />
+      </FeedOption>
+      <ExpeditionRegions>
+        <Region>0</Region>
+      </ExpeditionRegions>
+      <AttributeNames>
+        <Name>0</Name>
+      </AttributeNames>
+      <AttributeOptionPreparationLevel>
+        <LevelName>0</LevelName>
+        <LevelDescription>0</LevelDescription>
+      </AttributeOptionPreparationLevel>
+      <ExpeditionDistribution>
+        <ContainerValues>
+          <ExpeditionPool>
+            <Expedition>0</Expedition>
+          </ExpeditionPool>
+        </ContainerValues>
+        <ExpeditionPool />
+      </ExpeditionDistribution>
+      <MoraleRanges>
+        <MoraleAsset>0</MoraleAsset>
+      </MoraleRanges>
+      <SuccessVideoSounds>
+        <Event>0</Event>
+      </SuccessVideoSounds>
+      <FailVideoSounds>
+        <Event>0</Event>
+      </FailVideoSounds>
+      <EarlyReturnVideoSounds>
+        <Event>0</Event>
+      </EarlyReturnVideoSounds>
+    </ExpeditionFeature>
+    <ExpeditionOption>
+      <FollowupDecisions>
+        <ContainerValues>
+          <ChangeThreshold>
+            <ItemOrProduct>0</ItemOrProduct>
+            <NeededAttribute>None</NeededAttribute>
+            <NewThreshold>UseValue</NewThreshold>
+          </ChangeThreshold>
+        </ContainerValues>
+        <Decision>0</Decision>
+        <Threshold>UseValue</Threshold>
+        <ChangeThreshold />
+      </FollowupDecisions>
+      <Requirements>
+        <MinItemRarity>Common</MinItemRarity>
+        <ItemOrProduct>0</ItemOrProduct>
+        <Amount>1</Amount>
+        <NeededAttribute>None</NeededAttribute>
+      </Requirements>
+    </ExpeditionOption>
+    <ExpeditionSlot>
+      <SpecialExpeditionsSlot>
+        <Expedition>0</Expedition>
+      </SpecialExpeditionsSlot>
+    </ExpeditionSlot>
+    <ExpeditionThreat>
+      <ThreatDescriptions>
+        <Description>0</Description>
+      </ThreatDescriptions>
+    </ExpeditionThreat>
+    <ExpeditionTrade>
+      <AvailableGoods>
+        <Product>0</Product>
+      </AvailableGoods>
+      <AvailableItems>
+        <Item>0</Item>
+      </AvailableItems>
+      <SuccessChance>
+        <ContainerValues>
+          <TradeValues>
+            <Item>0</Item>
+          </TradeValues>
+        </ContainerValues>
+        <TradeValues />
+      </SuccessChance>
+    </ExpeditionTrade>
+  </DefaultContainerValues>
+</Property>
