@@ -14,13 +14,14 @@
   "scripts": {
     "conv:config": "yarn ts scripts/convert-config.ts",
     "conv:dds2png": "yarn ts scripts/convert-dds-to-png.ts",
-    "prepare": "lerna run prepare",
     "ts": "ts-node -r tsconfig-paths/register -P ./tsconfig.scripts.json"
   },
+  "dependencies": {
+    "@void-aurora/toolkit": "^0.8.3"
+  },
   "devDependencies": {
-    "@types/jest": "^25.1.1",
-    "@types/node": "^13.7.0",
-    "@void-aurora/toolkit": "^0.8.1",
+    "@types/jest": "^25.1.2",
+    "@types/node": "^13.7.1",
     "jest": "^25.1.0",
     "lerna": "^3.20.2",
     "ts-jest": "^25.2.0",
